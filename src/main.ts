@@ -140,6 +140,8 @@ const ACTIVE_USER_KEY = "enstudy.simple.activeUser.v1";
 const LOCAL_USERS_KEY = "enstudy.sentence.localUsers.v1";
 const LOCAL_DATA_KEY = "enstudy.sentence.localData.v1";
 const SENTENCE_MODE_KEY = "enstudy.sentence.inputMode.v1";
+const TTS_SETTINGS_KEY = "enstudy.sentence.ttsSettings.v1";
+const TTS_SERVICE_KEY = "enstudy.sentence.ttsService.v1";
 const MODE = "sentence-mixed";
 const SCOPE_KEY = `junior:${MODE}`;
 const PROGRESS_KEY = `enstudy.sentence.${MODE}.progress.v1`;
@@ -154,6 +156,79 @@ const SOUND_URLS = {
   ok: "/simple/sounds/correct.mp3",
 };
 
+interface TtsSettings {
+  service: "edge" | "browser";
+  edgeVoice: string;
+  edgeSpeed: number;
+  edgePitch: number;
+  edgeStyle: string;
+  browserRate: number;
+  browserPitch: number;
+  autoPlay: boolean;
+  playCount: number;
+  playInterval: number;
+}
+
+const DEFAULT_TTS_SETTINGS: TtsSettings = {
+  service: "edge",
+  edgeVoice: "en-US-JennyNeural",
+  edgeSpeed: 0.86,
+  edgePitch: 0,
+  edgeStyle: "general",
+  browserRate: 0.82,
+  browserPitch: 1,
+  autoPlay: true,
+  playCount: 1,
+  playInterval: 800,
+};
+
+const EDGE_ENGLISH_VOICES = [
+  { value: "en-US-JennyNeural", label: "Jenny · 女声·温柔 (美音)" },
+  { value: "en-US-GuyNeural", label: "Guy · 男声·沉稳 (美音)" },
+  { value: "en-US-AriaNeural", label: "Aria · 女声·清新 (美音)" },
+  { value: "en-US-DavisNeural", label: "Davis · 男声·爽朗 (美音)" },
+  { value: "en-US-AmberNeural", label: "Amber · 女声·明亮 (美音)" },
+  { value: "en-US-BrandonNeural", label: "Brandon · 男声·浑厚 (美音)" },
+  { value: "en-GB-SoniaNeural", label: "Sonia · 女声·优雅 (英音)" },
+  { value: "en-GB-RyanNeural", label: "Ryan · 男声·绅士 (英音)" },
+  { value: "en-GB-LibbyNeural", label: "Libby · 女声·甜美 (英音)" },
+  { value: "en-AU-NatashaNeural", label: "Natasha · 女声·亲切 (澳音)" },
+  { value: "en-AU-WilliamNeural", label: "William · 男声·阳光 (澳音)" },
+  { value: "en-CA-ClaraNeural", label: "Clara · 女声·温婉 (加音)" },
+  { value: "en-IN-NeerjaNeural", label: "Neerja · 女声·清晰 (印音)" },
+];
+
+const EDGE_STYLES = [
+  { value: "general", label: "通用风格" },
+  { value: "assistant", label: "智能助手" },
+  { value: "chat", label: "聊天对话" },
+  { value: "customerservice", label: "客服专业" },
+  { value: "newscast", label: "新闻播报" },
+  { value: "affectionate", label: "亲切温暖" },
+  { value: "calm", label: "平静舒缓" },
+  { value: "cheerful", label: "愉快欢乐" },
+  { value: "gentle", label: "温和柔美" },
+  { value: "lyrical", label: "抒情诗意" },
+  { value: "serious", label: "严肃正式" },
+];
+
+const SPEED_OPTIONS = [
+  { value: 0.5, label: "很慢" },
+  { value: 0.7, label: "慢速" },
+  { value: 0.86, label: "正常" },
+  { value: 1.0, label: "稍快" },
+  { value: 1.25, label: "快速" },
+  { value: 1.5, label: "很快" },
+];
+
+const PITCH_OPTIONS = [
+  { value: -50, label: "很低沉" },
+  { value: -25, label: "低沉" },
+  { value: 0, label: "标准" },
+  { value: 25, label: "高亢" },
+  { value: 50, label: "很高亢" },
+];
+
 const app = document.querySelector<HTMLDivElement>("#app") as HTMLDivElement | null;
 if (!app) throw new Error("Missing #app");
 const appRoot = app;
@@ -163,6 +238,9 @@ let speechRunId = 0;
 let speechVoicesPromise: Promise<SpeechSynthesisVoice[]> | null = null;
 let currentSpeechAudio: HTMLAudioElement | null = null;
 let currentSpeechObjectUrl = "";
+let ttsFallbackStarted = false;
+
+let ttsSettings: TtsSettings = loadTtsSettings();
 
 const state: AppState = {
   items: [],
@@ -282,6 +360,8 @@ function renderPracticeShell(content: string) {
 function renderAppHeader() {
   const viewed = todayBucket().viewed.length;
   const correct = todayBucket().correct.length;
+  const userName = state.user?.name || "未选择";
+  const userInitial = userName.charAt(0).toUpperCase();
   return `
     <header class="learn-status">
       <div class="status-title">
@@ -301,6 +381,15 @@ function renderAppHeader() {
           <a class="app-nav-link" href="${wordPracticeHref()}"><span class="nav-icon">Aa</span><span>单词</span></a>
           <button class="app-nav-link active" type="button" data-action="home"><span class="nav-icon">⌂</span><span>${state.wrongReviewActive ? "课程" : "课程"}</span></button>
         </nav>
+        <div class="header-user-section">
+          <button class="header-settings-btn" type="button" data-action="open-settings" title="语音设置">
+            <span class="btn-icon">⚙</span>
+          </button>
+          <button class="header-user-btn" type="button" data-action="open-user" title="切换用户">
+            <span class="user-avatar">${escapeHtml(userInitial)}</span>
+            <span class="user-name">${escapeHtml(userName)}</span>
+          </button>
+        </div>
       </div>
     </header>
   `;
@@ -321,6 +410,8 @@ function bindShellEvents() {
     }
   });
   appRoot.querySelector<HTMLElement>('[data-action="wrong-review"]')?.addEventListener("click", startWrongReview);
+  appRoot.querySelector<HTMLElement>('[data-action="open-settings"]')?.addEventListener("click", openSettingsModal);
+  appRoot.querySelector<HTMLElement>('[data-action="open-user"]')?.addEventListener("click", openUserModal);
 }
 
 function renderList() {
@@ -595,7 +686,9 @@ function openCurrentLessonItem() {
   recordViewed(item);
   saveCurrentProgress();
   renderLearn();
-  window.setTimeout(() => speak(item.audioText, { restart: true }), 220);
+  if (ttsSettings.autoPlay) {
+    window.setTimeout(() => speak(item.audioText, { restart: true }), 220);
+  }
 }
 
 function renderLearn() {
@@ -1777,6 +1870,192 @@ async function createUser(name: string) {
   await selectUser(user.id);
 }
 
+function openSettingsModal() {
+  const modalMount = appRoot.querySelector("#modalMount");
+  if (!modalMount) return;
+  const s = ttsSettings;
+  modalMount.innerHTML = `
+    <div class="modal-backdrop">
+      <section class="modal settings-modal panel">
+        <div class="modal-head">
+          <h2>语音设置</h2>
+          <button type="button" data-close-modal>关闭</button>
+        </div>
+        <div class="settings-body">
+          <div class="settings-section">
+            <h3>TTS 服务</h3>
+            <div class="settings-row">
+              <label class="radio-label">
+                <input type="radio" name="tts-service" value="edge" ${s.service === "edge" ? "checked" : ""} />
+                <span>Edge TTS (高质量)</span>
+              </label>
+              <label class="radio-label">
+                <input type="radio" name="tts-service" value="browser" ${s.service === "browser" ? "checked" : ""} />
+                <span>浏览器 TTS (离线可用)</span>
+              </label>
+            </div>
+          </div>
+
+          <div class="settings-section" data-settings-for="edge">
+            <h3>Edge TTS 设置</h3>
+            <div class="settings-grid">
+              <div class="settings-item">
+                <label for="settings-edge-voice">语音选择</label>
+                <select id="settings-edge-voice">
+                  ${EDGE_ENGLISH_VOICES.map((v) => `<option value="${escapeAttr(v.value)}" ${s.edgeVoice === v.value ? "selected" : ""}>${escapeHtml(v.label)}</option>`).join("")}
+                </select>
+              </div>
+              <div class="settings-item">
+                <label for="settings-edge-speed">语速</label>
+                <select id="settings-edge-speed">
+                  ${SPEED_OPTIONS.map((opt) => `<option value="${opt.value}" ${s.edgeSpeed === opt.value ? "selected" : ""}>${escapeHtml(opt.label)}</option>`).join("")}
+                </select>
+              </div>
+              <div class="settings-item">
+                <label for="settings-edge-pitch">音调</label>
+                <select id="settings-edge-pitch">
+                  ${PITCH_OPTIONS.map((opt) => `<option value="${opt.value}" ${s.edgePitch === opt.value ? "selected" : ""}>${escapeHtml(opt.label)}</option>`).join("")}
+                </select>
+              </div>
+              <div class="settings-item">
+                <label for="settings-edge-style">语音风格</label>
+                <select id="settings-edge-style">
+                  ${EDGE_STYLES.map((opt) => `<option value="${escapeAttr(opt.value)}" ${s.edgeStyle === opt.value ? "selected" : ""}>${escapeHtml(opt.label)}</option>`).join("")}
+                </select>
+              </div>
+            </div>
+          </div>
+
+          <div class="settings-section" data-settings-for="browser" style="${s.service === "edge" ? "display:none" : ""}">
+            <h3>浏览器 TTS 设置</h3>
+            <div class="settings-grid">
+              <div class="settings-item">
+                <label for="settings-browser-rate">语速</label>
+                <input type="range" id="settings-browser-rate" min="0.5" max="2" step="0.1" value="${s.browserRate}" />
+                <span class="range-value">${s.browserRate.toFixed(1)}</span>
+              </div>
+              <div class="settings-item">
+                <label for="settings-browser-pitch">音调</label>
+                <input type="range" id="settings-browser-pitch" min="0" max="2" step="0.1" value="${s.browserPitch}" />
+                <span class="range-value">${s.browserPitch.toFixed(1)}</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="settings-section">
+            <h3>播放行为</h3>
+            <div class="settings-grid">
+              <div class="settings-item">
+                <label class="checkbox-label">
+                  <input type="checkbox" id="settings-autoplay" ${s.autoPlay ? "checked" : ""} />
+                  <span>进入题目自动播放语音</span>
+                </label>
+              </div>
+              <div class="settings-item">
+                <label for="settings-play-count">播放次数</label>
+                <select id="settings-play-count">
+                  <option value="1" ${s.playCount === 1 ? "selected" : ""}>1 次</option>
+                  <option value="2" ${s.playCount === 2 ? "selected" : ""}>2 次</option>
+                  <option value="3" ${s.playCount === 3 ? "selected" : ""}>3 次</option>
+                </select>
+              </div>
+              <div class="settings-item">
+                <label for="settings-play-interval">重复间隔</label>
+                <select id="settings-play-interval">
+                  <option value="500" ${s.playInterval === 500 ? "selected" : ""}>0.5 秒</option>
+                  <option value="800" ${s.playInterval === 800 ? "selected" : ""}>0.8 秒</option>
+                  <option value="1200" ${s.playInterval === 1200 ? "selected" : ""}>1.2 秒</option>
+                  <option value="2000" ${s.playInterval === 2000 ? "selected" : ""}>2 秒</option>
+                </select>
+              </div>
+            </div>
+          </div>
+
+          <div class="settings-actions">
+            <button type="button" class="settings-test-btn" data-action="test-speech">试听当前设置</button>
+          </div>
+        </div>
+      </section>
+    </div>
+  `;
+
+  modalMount.querySelector("[data-close-modal]")?.addEventListener("click", closeModal);
+
+  modalMount.querySelectorAll<HTMLInputElement>('input[name="tts-service"]').forEach((radio) => {
+    radio.addEventListener("change", () => {
+      const service = radio.value as "edge" | "browser";
+      ttsSettings.service = service;
+      saveTtsSettings();
+      const edgeSection = modalMount.querySelector('[data-settings-for="edge"]');
+      const browserSection = modalMount.querySelector('[data-settings-for="browser"]');
+      if (edgeSection) (edgeSection as HTMLElement).style.display = service === "edge" ? "" : "none";
+      if (browserSection) (browserSection as HTMLElement).style.display = service === "browser" ? "" : "none";
+    });
+  });
+
+  const edgeVoice = modalMount.querySelector<HTMLSelectElement>("#settings-edge-voice");
+  edgeVoice?.addEventListener("change", () => {
+    ttsSettings.edgeVoice = edgeVoice.value;
+    saveTtsSettings();
+  });
+
+  const edgeSpeed = modalMount.querySelector<HTMLSelectElement>("#settings-edge-speed");
+  edgeSpeed?.addEventListener("change", () => {
+    ttsSettings.edgeSpeed = parseFloat(edgeSpeed.value);
+    saveTtsSettings();
+  });
+
+  const edgePitch = modalMount.querySelector<HTMLSelectElement>("#settings-edge-pitch");
+  edgePitch?.addEventListener("change", () => {
+    ttsSettings.edgePitch = parseInt(edgePitch.value, 10);
+    saveTtsSettings();
+  });
+
+  const edgeStyle = modalMount.querySelector<HTMLSelectElement>("#settings-edge-style");
+  edgeStyle?.addEventListener("change", () => {
+    ttsSettings.edgeStyle = edgeStyle.value;
+    saveTtsSettings();
+  });
+
+  const browserRate = modalMount.querySelector<HTMLInputElement>("#settings-browser-rate");
+  browserRate?.addEventListener("input", () => {
+    ttsSettings.browserRate = parseFloat(browserRate.value);
+    saveTtsSettings();
+    const valSpan = browserRate.parentElement?.querySelector(".range-value");
+    if (valSpan) valSpan.textContent = ttsSettings.browserRate.toFixed(1);
+  });
+
+  const browserPitch = modalMount.querySelector<HTMLInputElement>("#settings-browser-pitch");
+  browserPitch?.addEventListener("input", () => {
+    ttsSettings.browserPitch = parseFloat(browserPitch.value);
+    saveTtsSettings();
+    const valSpan = browserPitch.parentElement?.querySelector(".range-value");
+    if (valSpan) valSpan.textContent = ttsSettings.browserPitch.toFixed(1);
+  });
+
+  const autoPlay = modalMount.querySelector<HTMLInputElement>("#settings-autoplay");
+  autoPlay?.addEventListener("change", () => {
+    ttsSettings.autoPlay = autoPlay.checked;
+    saveTtsSettings();
+  });
+
+  const playCount = modalMount.querySelector<HTMLSelectElement>("#settings-play-count");
+  playCount?.addEventListener("change", () => {
+    ttsSettings.playCount = parseInt(playCount.value, 10);
+    saveTtsSettings();
+  });
+
+  const playInterval = modalMount.querySelector<HTMLSelectElement>("#settings-play-interval");
+  playInterval?.addEventListener("change", () => {
+    ttsSettings.playInterval = parseInt(playInterval.value, 10);
+    saveTtsSettings();
+  });
+
+  modalMount.querySelector<HTMLElement>('[data-action="test-speech"]')?.addEventListener("click", () => {
+    speak("Hello, this is a test of the text-to-speech system.", { restart: true });
+  });
+}
+
 function openUserModal() {
   const modalMount = appRoot.querySelector("#modalMount");
   if (!modalMount) return;
@@ -1953,72 +2232,145 @@ function playSound(kind: keyof typeof SOUND_URLS) {
   }
 }
 
+function loadTtsSettings(): TtsSettings {
+  try {
+    const raw = localStorage.getItem(TTS_SETTINGS_KEY);
+    if (raw) {
+      const parsed = JSON.parse(raw);
+      return { ...DEFAULT_TTS_SETTINGS, ...parsed };
+    }
+  } catch {
+    // fall through
+  }
+  return { ...DEFAULT_TTS_SETTINGS };
+}
+
+function saveTtsSettings() {
+  localStorage.setItem(TTS_SETTINGS_KEY, JSON.stringify(ttsSettings));
+}
+
+function checkEdgeTtsAvailable(): Promise<boolean> {
+  const cached = localStorage.getItem(TTS_SERVICE_KEY);
+  if (cached === "unavailable") return Promise.resolve(false);
+  if (cached === "available") return Promise.resolve(true);
+  return fetch(`${API_BASE}/tts/edge`, { method: "OPTIONS" })
+    .then(() => {
+      localStorage.setItem(TTS_SERVICE_KEY, "available");
+      return true;
+    })
+    .catch(() => {
+      localStorage.setItem(TTS_SERVICE_KEY, "unavailable");
+      return false;
+    });
+}
+
 function speak(text: string, options: { restart?: boolean } = {}) {
   if (!text) return;
   if (state.isSpeaking && !options.restart) return;
 
   const runId = ++speechRunId;
+  ttsFallbackStarted = false;
   stopCurrentSpeech();
   setSpeakingState(true);
-  void playEdgeTtsAudio(text, runId).catch(() => playBrowserTts(text, runId));
+
+  const totalPlays = Math.max(1, ttsSettings.playCount);
+  const interval = Math.max(200, ttsSettings.playInterval);
+
+  const playOnce = (attempt: number) => {
+    if (speechRunId !== runId) return;
+    void playTtsOnce(text, runId).then(() => {
+      if (speechRunId !== runId) return;
+      if (attempt < totalPlays) {
+        window.setTimeout(() => playOnce(attempt + 1), interval);
+      } else {
+        setSpeakingState(false);
+      }
+    }).catch(() => {
+      if (speechRunId === runId) setSpeakingState(false);
+    });
+  };
+  playOnce(1);
 }
 
-async function playEdgeTtsAudio(text: string, runId: number) {
-  const response = await fetch(`${API_BASE}/tts/edge`, {
+function playTtsOnce(text: string, runId: number): Promise<void> {
+  return new Promise((resolve, reject) => {
+    if (ttsSettings.service === "browser") {
+      playBrowserTts(text, runId, resolve, reject);
+      return;
+    }
+    let settled = false;
+    const done = (ok: boolean) => {
+      if (settled) return;
+      settled = true;
+      if (ok) resolve();
+      else reject();
+    };
+    playEdgeTtsAudio(text, runId, () => done(true), () => {
+      if (!ttsFallbackStarted) {
+        ttsFallbackStarted = true;
+        playBrowserTts(text, runId, () => done(true), () => done(false));
+      }
+    });
+  });
+}
+
+function playEdgeTtsAudio(text: string, runId: number, onEnded: () => void, onError: () => void) {
+  fetch(`${API_BASE}/tts/edge`, {
     method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-    },
+    headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
       input: text,
-      voice: "en-US-JennyNeural",
-      speed: 0.86,
-      pitch: 0,
+      voice: ttsSettings.edgeVoice,
+      speed: ttsSettings.edgeSpeed,
+      pitch: ttsSettings.edgePitch,
       volume: 0,
-      style: "general",
+      style: ttsSettings.edgeStyle,
     }),
-  });
-  if (!response.ok) throw new Error("edge_tts_failed");
-  const blob = await response.blob();
-  if (speechRunId !== runId) return;
-  const objectUrl = URL.createObjectURL(blob);
-  currentSpeechObjectUrl = objectUrl;
-  const audio = new Audio(objectUrl);
-  currentSpeechAudio = audio;
-  audio.onended = () => {
-    if (speechRunId === runId) {
+  }).then((response) => {
+    if (!response.ok) throw new Error("edge_tts_failed");
+    return response.blob();
+  }).then((blob) => {
+    if (speechRunId !== runId) return;
+    const objectUrl = URL.createObjectURL(blob);
+    currentSpeechObjectUrl = objectUrl;
+    const audio = new Audio(objectUrl);
+    currentSpeechAudio = audio;
+    audio.onended = () => {
+      if (speechRunId === runId) {
+        cleanupCurrentSpeechAudio();
+        onEnded();
+      }
+    };
+    audio.onerror = () => {
       cleanupCurrentSpeechAudio();
-      setSpeakingState(false);
-    }
-  };
-  audio.onerror = () => {
-    cleanupCurrentSpeechAudio();
-    if (speechRunId === runId) {
-      void playBrowserTts(text, runId);
-    }
-  };
-  await audio.play();
+      if (speechRunId === runId) onError();
+    };
+    audio.play().catch(() => {
+      if (speechRunId === runId) onError();
+    });
+  }).catch(() => {
+    if (speechRunId === runId) onError();
+  });
 }
 
-async function playBrowserTts(text: string, runId: number) {
+function playBrowserTts(text: string, runId: number, onEnded: () => void, onError: () => void) {
   cleanupCurrentSpeechAudio();
   if (!("speechSynthesis" in window)) {
-    if (speechRunId === runId) setSpeakingState(false);
+    if (speechRunId === runId) onError();
     return;
   }
   window.speechSynthesis.cancel();
   const utterance = new SpeechSynthesisUtterance(text);
   utterance.lang = "en-US";
-  utterance.rate = 0.82;
-  utterance.pitch = 1;
+  utterance.rate = ttsSettings.browserRate;
+  utterance.pitch = ttsSettings.browserPitch;
   utterance.onend = () => {
-    if (speechRunId === runId) setSpeakingState(false);
+    if (speechRunId === runId) onEnded();
   };
   utterance.onerror = () => {
-    if (speechRunId === runId) setSpeakingState(false);
+    if (speechRunId === runId) onError();
   };
-
-  await getPreferredSpeechVoice().then((voice) => {
+  getPreferredSpeechVoice().then((voice) => {
     if (speechRunId !== runId) return;
     if (voice) {
       utterance.voice = voice;
@@ -2032,6 +2384,7 @@ async function playBrowserTts(text: string, runId: number) {
 }
 
 function stopCurrentSpeech() {
+  speechRunId++;
   cleanupCurrentSpeechAudio();
   if ("speechSynthesis" in window) window.speechSynthesis.cancel();
 }
