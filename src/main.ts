@@ -2384,7 +2384,6 @@ function playBrowserTts(text: string, runId: number, onEnded: () => void, onErro
 }
 
 function stopCurrentSpeech() {
-  speechRunId++;
   cleanupCurrentSpeechAudio();
   if ("speechSynthesis" in window) window.speechSynthesis.cancel();
 }
