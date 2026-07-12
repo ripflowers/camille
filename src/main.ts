@@ -240,6 +240,62 @@ let currentSpeechObjectUrl = "";
 
 let ttsSettings: TtsSettings = loadTtsSettings();
 
+const ttsAudioCache = new Map<string, string>();
+const ttsPendingCache = new Map<string, Promise<string>>();
+
+function getTtsCacheKey(text: string): string {
+  return `${ttsSettings.edgeVoice}|${ttsSettings.edgeSpeed}|${ttsSettings.edgePitch}|${ttsSettings.edgeStyle}|${text.trim()}`;
+}
+
+async function fetchTtsAudioBlob(text: string): Promise<string> {
+  const key = getTtsCacheKey(text);
+  if (ttsAudioCache.has(key)) return ttsAudioCache.get(key) as string;
+  const pending = ttsPendingCache.get(key);
+  if (pending) return pending;
+
+  const promise = (async () => {
+    try {
+      const params = new URLSearchParams({
+        input: text,
+        voice: ttsSettings.edgeVoice,
+        speed: String(ttsSettings.edgeSpeed),
+        pitch: String(ttsSettings.edgePitch),
+        volume: "0",
+        style: ttsSettings.edgeStyle,
+      });
+      const response = await fetch(`${API_BASE}/tts/edge?${params.toString()}`, { method: "GET" });
+      if (!response.ok) throw new Error("edge_tts_failed");
+      const blob = await response.blob();
+      const objectUrl = URL.createObjectURL(blob);
+      ttsAudioCache.set(key, objectUrl);
+      return objectUrl;
+    } finally {
+      ttsPendingCache.delete(key);
+    }
+  })();
+
+  ttsPendingCache.set(key, promise);
+  return promise;
+}
+
+function preloadTtsAudio(texts: string[]) {
+  if (ttsSettings.service !== "edge") return;
+  texts.forEach((text) => {
+    if (!text) return;
+    const key = getTtsCacheKey(text);
+    if (ttsAudioCache.has(key) || ttsPendingCache.has(key)) return;
+    void fetchTtsAudioBlob(text).catch(() => {
+      // preload failure is silent
+    });
+  });
+}
+
+function clearTtsCache() {
+  ttsAudioCache.forEach((url) => URL.revokeObjectURL(url));
+  ttsAudioCache.clear();
+  ttsPendingCache.clear();
+}
+
 const state: AppState = {
   items: [],
   units: [],
@@ -684,9 +740,26 @@ function openCurrentLessonItem() {
   recordViewed(item);
   saveCurrentProgress();
   renderLearn();
+  preloadUpcomingTts();
   if (ttsSettings.autoPlay) {
     window.setTimeout(() => speak(item.audioText, { restart: true }), 220);
   }
+}
+
+function preloadUpcomingTts() {
+  const items = state.lessonItems?.length ? state.lessonItems : state.items;
+  const currentIdx = state.lessonItems?.length
+    ? state.lessonPosition
+    : state.selectedIndex;
+  if (currentIdx < 0) return;
+  const upcoming: string[] = [];
+  for (let i = 0; i <= 3; i++) {
+    const idx = currentIdx + i;
+    if (idx >= items.length) break;
+    const text = items[idx]?.audioText;
+    if (text) upcoming.push(text);
+  }
+  preloadTtsAudio(upcoming);
 }
 
 function renderLearn() {
@@ -1995,24 +2068,28 @@ function openSettingsModal() {
   edgeVoice?.addEventListener("change", () => {
     ttsSettings.edgeVoice = edgeVoice.value;
     saveTtsSettings();
+    clearTtsCache();
   });
 
   const edgeSpeed = modalMount.querySelector<HTMLSelectElement>("#settings-edge-speed");
   edgeSpeed?.addEventListener("change", () => {
     ttsSettings.edgeSpeed = parseFloat(edgeSpeed.value);
     saveTtsSettings();
+    clearTtsCache();
   });
 
   const edgePitch = modalMount.querySelector<HTMLSelectElement>("#settings-edge-pitch");
   edgePitch?.addEventListener("change", () => {
     ttsSettings.edgePitch = parseInt(edgePitch.value, 10);
     saveTtsSettings();
+    clearTtsCache();
   });
 
   const edgeStyle = modalMount.querySelector<HTMLSelectElement>("#settings-edge-style");
   edgeStyle?.addEventListener("change", () => {
     ttsSettings.edgeStyle = edgeStyle.value;
     saveTtsSettings();
+    clearTtsCache();
   });
 
   const browserRate = modalMount.querySelector<HTMLInputElement>("#settings-browser-rate");
@@ -2306,32 +2383,18 @@ function playEdgeTtsAudio(text: string, runId: number, onEnded: () => void, onEr
   const handleError = () => {
     if (errorHandled) return;
     errorHandled = true;
-    cleanupCurrentSpeechAudio();
-    if (speechRunId === runId) onError();
+    if (speechRunId === runId) {
+      currentSpeechAudio = null;
+      onError();
+    }
   };
-  fetch(`${API_BASE}/tts/edge`, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({
-      input: text,
-      voice: ttsSettings.edgeVoice,
-      speed: ttsSettings.edgeSpeed,
-      pitch: ttsSettings.edgePitch,
-      volume: 0,
-      style: ttsSettings.edgeStyle,
-    }),
-  }).then((response) => {
-    if (!response.ok) throw new Error("edge_tts_failed");
-    return response.blob();
-  }).then((blob) => {
+  fetchTtsAudioBlob(text).then((objectUrl) => {
     if (speechRunId !== runId) return;
-    const objectUrl = URL.createObjectURL(blob);
-    currentSpeechObjectUrl = objectUrl;
     const audio = new Audio(objectUrl);
     currentSpeechAudio = audio;
     audio.onended = () => {
       if (speechRunId === runId) {
-        cleanupCurrentSpeechAudio();
+        currentSpeechAudio = null;
         onEnded();
       }
     };

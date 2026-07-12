@@ -2279,8 +2279,8 @@ p {
 }
 
 .header-settings-btn {
-  width: 36px;
-  height: 36px;
+  width: 40px;
+  height: 40px;
   display: grid;
   place-items: center;
   border-radius: 50%;
@@ -2288,7 +2288,9 @@ p {
   background: #f8fbfd;
   color: #2368b6;
   cursor: pointer;
-  font-size: 16px;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1;
   transition: all 0.2s ease;
 }
 
