@@ -299,7 +299,7 @@ function renderAppHeader() {
       <div class="status-user">
         <nav class="app-nav-tabs" aria-label="练习入口">
           <a class="app-nav-link" href="${wordPracticeHref()}"><span class="nav-icon">Aa</span><span>单词</span></a>
-          <button class="app-nav-link active" type="button" data-action="home"><span class="nav-icon">⌂</span><span>${state.wrongReviewActive ? "课程" : "课程"}</span></button>
+          <button class="app-nav-link active" type="button" data-action="home"><span class="nav-icon">⌂</span><span>句子</span></button>
         </nav>
       </div>
     </header>
@@ -617,7 +617,10 @@ function renderLearn() {
           </div>
         </div>
         ${renderPracticeFooter(item)}
-        <div class="shortcut-hints">键盘：A-Z 选择字母 · Backspace 撤回 · Delete/Esc 清空 · Space 下一个词 · Enter 下一题 · Shift+Enter 上一题</div>
+        <details class="shortcut-hints">
+          <summary>键盘快捷键</summary>
+          <span>A-Z 选择字母 · Backspace 撤回 · Delete/Esc 清空 · Space 下一个词 · Enter 下一题 · Shift+Enter 上一题</span>
+        </details>
       </section>
     </section>
   `);
@@ -905,8 +908,8 @@ function openContentListModal(item: RuntimeLearningItem, filter: ContentListFilt
   const filterLabel = filter === "learned" ? "已学题目" : filter === "unlearned" ? "未学题目" : "全部题目";
 
   modalMount.innerHTML = `
-    <div class="modal-backdrop content-list-backdrop">
-      <section class="modal content-list-modal panel" role="dialog" aria-modal="true" aria-labelledby="contentListTitle">
+    <div class="modal-backdrop content-list-backdrop" data-close-modal>
+      <section class="modal content-list-modal panel" role="dialog" aria-modal="true" aria-labelledby="contentListTitle" onclick="event.stopPropagation()">
         <div class="modal-head">
           <div>
             <h2 id="contentListTitle">${escapeHtml(item.unitTitle || "当前单元")} · 题单</h2>
@@ -1481,8 +1484,8 @@ function requestResetUnitProgress(unitKey: string) {
   const modalMount = appRoot.querySelector("#modalMount");
   if (!modalMount) return;
   modalMount.innerHTML = `
-    <div class="modal-backdrop">
-      <section class="modal reset-modal panel" role="dialog" aria-modal="true" aria-labelledby="resetUnitTitle">
+    <div class="modal-backdrop" data-close-modal>
+      <section class="modal reset-modal panel" role="dialog" aria-modal="true" aria-labelledby="resetUnitTitle" onclick="event.stopPropagation()">
         <div class="modal-head">
           <h2 id="resetUnitTitle">重置本单元进度？</h2>
           <button type="button" data-close-modal>取消</button>
@@ -1781,8 +1784,8 @@ function openUserModal() {
   const modalMount = appRoot.querySelector("#modalMount");
   if (!modalMount) return;
   modalMount.innerHTML = `
-    <div class="modal-backdrop">
-      <section class="modal user-modal panel">
+    <div class="modal-backdrop" data-close-modal>
+      <section class="modal user-modal panel" onclick="event.stopPropagation()">
         <div class="modal-head">
           <h2>选择学习者</h2>
           <button type="button" data-close-modal>关闭</button>
@@ -1803,7 +1806,7 @@ function openUserModal() {
       </section>
     </div>
   `;
-  modalMount.querySelector("[data-close-modal]")?.addEventListener("click", closeModal);
+  modalMount.querySelectorAll<HTMLElement>("[data-close-modal]").forEach((el) => el.addEventListener("click", closeModal));
   modalMount.querySelector("[data-create-user]")?.addEventListener("click", () => {
     const input = modalMount.querySelector<HTMLInputElement>("#newUserName");
     createUser(input?.value || "").then(closeModal);
@@ -1817,6 +1820,12 @@ function closeModal() {
   const modalMount = appRoot.querySelector("#modalMount");
   if (modalMount) modalMount.innerHTML = "";
 }
+
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape" && appRoot.querySelector(".modal-backdrop")) {
+    closeModal();
+  }
+});
 
 function loadLearningDataForUser() {
   const source = state.serverReady ? state.user : loadLocalData()[state.user?.id || ""];
