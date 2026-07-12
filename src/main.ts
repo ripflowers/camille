@@ -141,7 +141,6 @@ const LOCAL_USERS_KEY = "enstudy.sentence.localUsers.v1";
 const LOCAL_DATA_KEY = "enstudy.sentence.localData.v1";
 const SENTENCE_MODE_KEY = "enstudy.sentence.inputMode.v1";
 const TTS_SETTINGS_KEY = "enstudy.sentence.ttsSettings.v1";
-const TTS_SERVICE_KEY = "enstudy.sentence.ttsService.v1";
 const MODE = "sentence-mixed";
 const SCOPE_KEY = `junior:${MODE}`;
 const PROGRESS_KEY = `enstudy.sentence.${MODE}.progress.v1`;
@@ -238,7 +237,6 @@ let speechRunId = 0;
 let speechVoicesPromise: Promise<SpeechSynthesisVoice[]> | null = null;
 let currentSpeechAudio: HTMLAudioElement | null = null;
 let currentSpeechObjectUrl = "";
-let ttsFallbackStarted = false;
 
 let ttsSettings: TtsSettings = loadTtsSettings();
 
@@ -2249,27 +2247,11 @@ function saveTtsSettings() {
   localStorage.setItem(TTS_SETTINGS_KEY, JSON.stringify(ttsSettings));
 }
 
-function checkEdgeTtsAvailable(): Promise<boolean> {
-  const cached = localStorage.getItem(TTS_SERVICE_KEY);
-  if (cached === "unavailable") return Promise.resolve(false);
-  if (cached === "available") return Promise.resolve(true);
-  return fetch(`${API_BASE}/tts/edge`, { method: "OPTIONS" })
-    .then(() => {
-      localStorage.setItem(TTS_SERVICE_KEY, "available");
-      return true;
-    })
-    .catch(() => {
-      localStorage.setItem(TTS_SERVICE_KEY, "unavailable");
-      return false;
-    });
-}
-
 function speak(text: string, options: { restart?: boolean } = {}) {
   if (!text) return;
   if (state.isSpeaking && !options.restart) return;
 
   const runId = ++speechRunId;
-  ttsFallbackStarted = false;
   stopCurrentSpeech();
   setSpeakingState(true);
 
@@ -2299,22 +2281,34 @@ function playTtsOnce(text: string, runId: number): Promise<void> {
       return;
     }
     let settled = false;
+    let edgeEnded = false;
+    let fallbackStarted = false;
     const done = (ok: boolean) => {
       if (settled) return;
       settled = true;
       if (ok) resolve();
       else reject();
     };
-    playEdgeTtsAudio(text, runId, () => done(true), () => {
-      if (!ttsFallbackStarted) {
-        ttsFallbackStarted = true;
-        playBrowserTts(text, runId, () => done(true), () => done(false));
-      }
+    playEdgeTtsAudio(text, runId, () => {
+      edgeEnded = true;
+      done(true);
+    }, () => {
+      if (edgeEnded) return;
+      if (fallbackStarted) return;
+      fallbackStarted = true;
+      playBrowserTts(text, runId, () => done(true), () => done(false));
     });
   });
 }
 
 function playEdgeTtsAudio(text: string, runId: number, onEnded: () => void, onError: () => void) {
+  let errorHandled = false;
+  const handleError = () => {
+    if (errorHandled) return;
+    errorHandled = true;
+    cleanupCurrentSpeechAudio();
+    if (speechRunId === runId) onError();
+  };
   fetch(`${API_BASE}/tts/edge`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
@@ -2341,15 +2335,10 @@ function playEdgeTtsAudio(text: string, runId: number, onEnded: () => void, onEr
         onEnded();
       }
     };
-    audio.onerror = () => {
-      cleanupCurrentSpeechAudio();
-      if (speechRunId === runId) onError();
-    };
-    audio.play().catch(() => {
-      if (speechRunId === runId) onError();
-    });
+    audio.onerror = () => handleError();
+    audio.play().catch(() => handleError());
   }).catch(() => {
-    if (speechRunId === runId) onError();
+    handleError();
   });
 }
 
