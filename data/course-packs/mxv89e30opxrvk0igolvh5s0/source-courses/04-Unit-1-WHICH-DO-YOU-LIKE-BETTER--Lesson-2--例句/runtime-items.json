@@ -1,0 +1,4686 @@
+[
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-S-vsv8ie6ckajxb8rwu356mn71",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-S-vsv8ie6ckajxb8rwu356mn71",
+    "type": "sentence",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Yangyang，你最喜欢哪门课？",
+    "audioText": "Which class do you like best, Yangyang?",
+    "fullEnglish": "Which class do you like best, Yangyang?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Which",
+        "answer": "Which",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "zh": "哪个",
+        "phonetic": "wɪtʃ",
+        "pos": "DET",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "Which class",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "哪个；课程"
+      },
+      {
+        "index": 1,
+        "text": "class",
+        "answer": "class",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "课程",
+        "phonetic": "klæs",
+        "pos": "NOUN",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "Which class",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "哪个；课程"
+      },
+      {
+        "index": 2,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "助动词",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 4,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "谓语",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 5,
+        "text": "best",
+        "answer": "best",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心成分",
+        "zh": "最好的",
+        "phonetic": "best",
+        "pos": "ADJ",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "最好的"
+      },
+      {
+        "index": 6,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Yangyang，你最喜欢哪门课？"
+      },
+      {
+        "index": 7,
+        "text": "Yangyang",
+        "answer": "Yangyang",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "呼语",
+        "zh": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 8,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Yangyang，你最喜欢哪门课？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Which",
+      "do",
+      "Yangyang",
+      "you",
+      "best",
+      "class",
+      "like"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Which class",
+        "role": "宾语",
+        "zh": "哪个；课程",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "Which",
+            "role": "限定词",
+            "zh": "哪个"
+          },
+          {
+            "id": "ud-3",
+            "text": "class",
+            "role": "中心词",
+            "zh": "课程"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "do",
+        "role": "助动词",
+        "zh": "做"
+      },
+      {
+        "id": "ud-5",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-6",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-7",
+        "text": "best",
+        "role": "宾语补足语",
+        "zh": "最好的",
+        "children": [
+          {
+            "id": "ud-8",
+            "text": "best",
+            "role": "中心成分",
+            "zh": "最好的"
+          }
+        ]
+      },
+      {
+        "id": "ud-9",
+        "text": "Yangyang",
+        "role": "呼语",
+        "zh": "Yangyang"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Which",
+        "phonetic": "wɪtʃ",
+        "pos": "DET",
+        "zh": "哪个",
+        "componentRole": "限定词",
+        "componentZh": "哪个",
+        "parentComponentText": "Which class",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "哪个；课程"
+      },
+      "1": {
+        "text": "class",
+        "phonetic": "klæs",
+        "pos": "NOUN",
+        "zh": "课程",
+        "componentRole": "中心词",
+        "componentZh": "课程",
+        "parentComponentText": "Which class",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "哪个；课程"
+      },
+      "2": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentRole": "助动词",
+        "componentZh": "做"
+      },
+      "3": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "4": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "谓语",
+        "componentZh": "喜欢"
+      },
+      "5": {
+        "text": "best",
+        "phonetic": "best",
+        "pos": "ADJ",
+        "zh": "最好的",
+        "componentRole": "中心成分",
+        "componentZh": "最好的",
+        "parentComponentText": "best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "最好的"
+      },
+      "7": {
+        "text": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON",
+        "zh": "Yangyang",
+        "componentRole": "呼语",
+        "componentZh": "Yangyang"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-vsv8ie6ckajxb8rwu356mn71-1",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-vsv8ie6ckajxb8rwu356mn71-1",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哪个",
+    "audioText": "Which",
+    "fullEnglish": "Which",
+    "phonetic": "wɪtʃ",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Which",
+        "answer": "Which",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "哪个",
+        "phonetic": "wɪtʃ",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "Which"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Which",
+        "phonetic": "wɪtʃ",
+        "pos": "DET",
+        "zh": "哪个",
+        "componentZh": "哪个"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-vsv8ie6ckajxb8rwu356mn71-2",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-vsv8ie6ckajxb8rwu356mn71-2",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "课程",
+    "audioText": "class",
+    "fullEnglish": "class",
+    "phonetic": "klæs",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "class",
+        "answer": "class",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "课程",
+        "phonetic": "klæs",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "class"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "class",
+        "phonetic": "klæs",
+        "pos": "NOUN",
+        "zh": "课程",
+        "componentZh": "课程"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-vsv8ie6ckajxb8rwu356mn71-3",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-vsv8ie6ckajxb8rwu356mn71-3",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "助动词（构成疑问句）",
+    "audioText": "do",
+    "fullEnglish": "do",
+    "phonetic": "duː; də",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "do"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-vsv8ie6ckajxb8rwu356mn71-4",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-vsv8ie6ckajxb8rwu356mn71-4",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-vsv8ie6ckajxb8rwu356mn71-5",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-vsv8ie6ckajxb8rwu356mn71-5",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "喜欢",
+    "audioText": "like",
+    "fullEnglish": "like",
+    "phonetic": "laɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "like"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentZh": "喜欢"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-vsv8ie6ckajxb8rwu356mn71-6",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-vsv8ie6ckajxb8rwu356mn71-6",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "最",
+    "audioText": "best",
+    "fullEnglish": "best",
+    "phonetic": "best",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "best",
+        "answer": "best",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "最好的",
+        "phonetic": "best",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "best"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "best",
+        "phonetic": "best",
+        "pos": "ADJ",
+        "zh": "最好的",
+        "componentZh": "最好的"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-vsv8ie6ckajxb8rwu356mn71-7",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-vsv8ie6ckajxb8rwu356mn71-7",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Yangyang",
+    "audioText": "Yangyang",
+    "fullEnglish": "Yangyang",
+    "phonetic": "yangyang",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yangyang",
+        "answer": "Yangyang",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yangyang"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON",
+        "zh": "Yangyang",
+        "componentZh": "Yangyang"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-S-i7nioiisfm04wt1j9rn9dqk0",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-S-i7nioiisfm04wt1j9rn9dqk0",
+    "type": "sentence",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我最喜欢英语。",
+    "audioText": "I like English best",
+    "fullEnglish": "I like English best",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "English",
+        "answer": "English",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "定语（形容词）",
+        "zh": "英语",
+        "phonetic": "ˈɪŋɡlɪʃ",
+        "pos": "PROPN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "English best",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "英语；最好的"
+      },
+      {
+        "index": 3,
+        "text": "best",
+        "answer": "best",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "最好的",
+        "phonetic": "best",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "English best",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "英语；最好的"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "best",
+      "English",
+      "like"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-3",
+        "text": "English best",
+        "role": "宾语",
+        "zh": "英语；最好的",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "English",
+            "role": "定语（形容词）",
+            "zh": "英语"
+          },
+          {
+            "id": "ud-5",
+            "text": "best",
+            "role": "中心词",
+            "zh": "最好的"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "谓语",
+        "componentZh": "喜欢"
+      },
+      "2": {
+        "text": "English",
+        "phonetic": "ˈɪŋɡlɪʃ",
+        "pos": "PROPN",
+        "zh": "英语",
+        "componentRole": "定语（形容词）",
+        "componentZh": "英语",
+        "parentComponentText": "English best",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "英语；最好的"
+      },
+      "3": {
+        "text": "best",
+        "phonetic": "best",
+        "pos": "ADJ",
+        "zh": "最好的",
+        "componentRole": "中心词",
+        "componentZh": "最好的",
+        "parentComponentText": "English best",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "英语；最好的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-i7nioiisfm04wt1j9rn9dqk0-1",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-i7nioiisfm04wt1j9rn9dqk0-1",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-i7nioiisfm04wt1j9rn9dqk0-3",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-i7nioiisfm04wt1j9rn9dqk0-3",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "英语",
+    "audioText": "English",
+    "fullEnglish": "English",
+    "phonetic": "ˈɪŋɡlɪʃ",
+    "pos": "PROPN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "English",
+        "answer": "English",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "英语",
+        "phonetic": "ˈɪŋɡlɪʃ",
+        "pos": "PROPN"
+      }
+    ],
+    "shuffledBlocks": [
+      "English"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "English",
+        "phonetic": "ˈɪŋɡlɪʃ",
+        "pos": "PROPN",
+        "zh": "英语",
+        "componentZh": "英语"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-S-q7hb11g2ocmah8bxnbyahkmr",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-S-q7hb11g2ocmah8bxnbyahkmr",
+    "type": "sentence",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我最擅长英语。",
+    "audioText": "I do best in English",
+    "fullEnglish": "I do best in English",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "best",
+        "answer": "best",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心成分",
+        "zh": "最好的",
+        "phonetic": "best",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "最好的"
+      },
+      {
+        "index": 3,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "介词",
+        "zh": "在",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "in English",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；英语"
+      },
+      {
+        "index": 4,
+        "text": "English",
+        "answer": "English",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "英语",
+        "phonetic": "ˈɪŋɡlɪʃ",
+        "pos": "PROPN",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "English",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "英语"
+      }
+    ],
+    "shuffledBlocks": [
+      "best",
+      "English",
+      "I",
+      "in",
+      "do"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "do",
+        "role": "谓语",
+        "zh": "做"
+      },
+      {
+        "id": "ud-3",
+        "text": "best",
+        "role": "宾语补足语",
+        "zh": "最好的",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "best",
+            "role": "中心成分",
+            "zh": "最好的"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "in English",
+        "role": "地点状语",
+        "zh": "在；英语",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "in",
+            "role": "介词",
+            "zh": "在"
+          },
+          {
+            "id": "ud-7",
+            "text": "English",
+            "role": "介词宾语",
+            "zh": "英语",
+            "children": [
+              {
+                "id": "ud-8",
+                "text": "English",
+                "role": "中心词",
+                "zh": "英语"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentRole": "谓语",
+        "componentZh": "做"
+      },
+      "2": {
+        "text": "best",
+        "phonetic": "best",
+        "pos": "ADJ",
+        "zh": "最好的",
+        "componentRole": "中心成分",
+        "componentZh": "最好的",
+        "parentComponentText": "best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "最好的"
+      },
+      "3": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在",
+        "componentRole": "介词",
+        "componentZh": "在",
+        "parentComponentText": "in English",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；英语"
+      },
+      "4": {
+        "text": "English",
+        "phonetic": "ˈɪŋɡlɪʃ",
+        "pos": "PROPN",
+        "zh": "英语",
+        "componentRole": "中心词",
+        "componentZh": "英语",
+        "parentComponentText": "English",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "英语"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-q7hb11g2ocmah8bxnbyahkmr-4",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-q7hb11g2ocmah8bxnbyahkmr-4",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在...里",
+    "audioText": "in",
+    "fullEnglish": "in",
+    "phonetic": "ɪn",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在",
+        "phonetic": "ɪn",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "in"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在",
+        "componentZh": "在"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-S-ocqoaw2aylvex969ip9kg0xr",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-S-ocqoaw2aylvex969ip9kg0xr",
+    "type": "sentence",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "数学是我最喜欢的科目。",
+    "audioText": "Maths is my favourite subject",
+    "fullEnglish": "Maths is my favourite subject",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Maths",
+        "answer": "Maths",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "数学",
+        "phonetic": "mæθs",
+        "pos": "NOUN"
+      },
+      {
+        "index": 1,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "补充成分",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "favourite",
+        "answer": "favourite",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "补充成分",
+        "zh": "最喜欢的",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "ADJ"
+      },
+      {
+        "index": 4,
+        "text": "subject",
+        "answer": "subject",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "科目",
+        "phonetic": "ˈsʌbdʒekt",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "my",
+      "is",
+      "subject",
+      "favourite",
+      "Maths"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Maths",
+        "role": "主语",
+        "zh": "数学"
+      },
+      {
+        "id": "ud-2",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-3",
+        "text": "my",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-4",
+        "text": "favourite",
+        "role": "补充成分",
+        "zh": "最喜欢的"
+      },
+      {
+        "id": "ud-5",
+        "text": "subject",
+        "role": "表语",
+        "zh": "科目"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Maths",
+        "phonetic": "mæθs",
+        "pos": "NOUN",
+        "zh": "数学",
+        "componentRole": "主语",
+        "componentZh": "数学"
+      },
+      "1": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "2": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "补充成分",
+        "componentZh": "我的"
+      },
+      "3": {
+        "text": "favourite",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "ADJ",
+        "zh": "最喜欢的",
+        "componentRole": "补充成分",
+        "componentZh": "最喜欢的"
+      },
+      "4": {
+        "text": "subject",
+        "phonetic": "ˈsʌbdʒekt",
+        "pos": "NOUN",
+        "zh": "科目",
+        "componentRole": "表语",
+        "componentZh": "科目"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-ocqoaw2aylvex969ip9kg0xr-1",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-ocqoaw2aylvex969ip9kg0xr-1",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "数学",
+    "audioText": "Maths",
+    "fullEnglish": "Maths",
+    "phonetic": "mæθs",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Maths",
+        "answer": "Maths",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "数学",
+        "phonetic": "mæθs",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Maths"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Maths",
+        "phonetic": "mæθs",
+        "pos": "NOUN",
+        "zh": "数学",
+        "componentZh": "数学"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-ocqoaw2aylvex969ip9kg0xr-2",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-ocqoaw2aylvex969ip9kg0xr-2",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "is",
+    "fullEnglish": "is",
+    "phonetic": "ɪz",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "is"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-ocqoaw2aylvex969ip9kg0xr-3",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-ocqoaw2aylvex969ip9kg0xr-3",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的",
+    "audioText": "my",
+    "fullEnglish": "my",
+    "phonetic": "maɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "my"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-ocqoaw2aylvex969ip9kg0xr-4",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-ocqoaw2aylvex969ip9kg0xr-4",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "最喜欢的",
+    "audioText": "favourite",
+    "fullEnglish": "favourite",
+    "phonetic": "ˈfeɪvərɪt",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "favourite",
+        "answer": "favourite",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "最喜欢的",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "favourite"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "favourite",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "ADJ",
+        "zh": "最喜欢的",
+        "componentZh": "最喜欢的"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-ocqoaw2aylvex969ip9kg0xr-5",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-ocqoaw2aylvex969ip9kg0xr-5",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "科目",
+    "audioText": "subject",
+    "fullEnglish": "subject",
+    "phonetic": "ˈsʌbdʒekt",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "subject",
+        "answer": "subject",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "科目",
+        "phonetic": "ˈsʌbdʒekt",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "subject"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "subject",
+        "phonetic": "ˈsʌbdʒekt",
+        "pos": "NOUN",
+        "zh": "科目",
+        "componentZh": "科目"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-S-sukrynb3sciapdywjxrqga12",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-S-sukrynb3sciapdywjxrqga12",
+    "type": "sentence",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这非常有用。",
+    "audioText": "It's very useful",
+    "fullEnglish": "It's very useful",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "方式/程度状语",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV"
+      },
+      {
+        "index": 2,
+        "text": "useful",
+        "answer": "useful",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "有用的",
+        "phonetic": "ˈjuːsf(ə)l",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's",
+      "very",
+      "useful"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "very",
+        "role": "方式/程度状语",
+        "zh": "非常"
+      },
+      {
+        "id": "ud-3",
+        "text": "useful",
+        "role": "表语",
+        "zh": "有用的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentRole": "方式/程度状语",
+        "componentZh": "非常"
+      },
+      "2": {
+        "text": "useful",
+        "phonetic": "ˈjuːsf(ə)l",
+        "pos": "ADJ",
+        "zh": "有用的",
+        "componentRole": "表语",
+        "componentZh": "有用的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-sukrynb3sciapdywjxrqga12-1",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-sukrynb3sciapdywjxrqga12-1",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它是",
+    "audioText": "It's",
+    "fullEnglish": "It's",
+    "phonetic": "ɪts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-sukrynb3sciapdywjxrqga12-2",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-sukrynb3sciapdywjxrqga12-2",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "非常",
+    "audioText": "very",
+    "fullEnglish": "very",
+    "phonetic": "ˈveri",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "very"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentZh": "非常"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-sukrynb3sciapdywjxrqga12-3",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-sukrynb3sciapdywjxrqga12-3",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "有用的",
+    "audioText": "useful",
+    "fullEnglish": "useful",
+    "phonetic": "ˈjuːsf(ə)l",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "useful",
+        "answer": "useful",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "有用的",
+        "phonetic": "ˈjuːsf(ə)l",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "useful"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "useful",
+        "phonetic": "ˈjuːsf(ə)l",
+        "pos": "ADJ",
+        "zh": "有用的",
+        "componentZh": "有用的"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-S-x8j4mogx8uldpaydamdjnwb5",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-S-x8j4mogx8uldpaydamdjnwb5",
+    "type": "sentence",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我最喜欢中文。",
+    "audioText": "I like Chinese best",
+    "fullEnglish": "I like Chinese best",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "Chinese",
+        "answer": "Chinese",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "定语（形容词）",
+        "zh": "中国的",
+        "phonetic": "ˌtʃaɪˈniːz",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "Chinese best",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "中国的；最好的"
+      },
+      {
+        "index": 3,
+        "text": "best",
+        "answer": "best",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "最好的",
+        "phonetic": "best",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "Chinese best",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "中国的；最好的"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "like",
+      "Chinese",
+      "best"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-3",
+        "text": "Chinese best",
+        "role": "宾语",
+        "zh": "中国的；最好的",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "Chinese",
+            "role": "定语（形容词）",
+            "zh": "中国的"
+          },
+          {
+            "id": "ud-5",
+            "text": "best",
+            "role": "中心词",
+            "zh": "最好的"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "谓语",
+        "componentZh": "喜欢"
+      },
+      "2": {
+        "text": "Chinese",
+        "phonetic": "ˌtʃaɪˈniːz",
+        "pos": "ADJ",
+        "zh": "中国的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "中国的",
+        "parentComponentText": "Chinese best",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "中国的；最好的"
+      },
+      "3": {
+        "text": "best",
+        "phonetic": "best",
+        "pos": "ADJ",
+        "zh": "最好的",
+        "componentRole": "中心词",
+        "componentZh": "最好的",
+        "parentComponentText": "Chinese best",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "中国的；最好的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-x8j4mogx8uldpaydamdjnwb5-3",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-x8j4mogx8uldpaydamdjnwb5-3",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "中文",
+    "audioText": "Chinese",
+    "fullEnglish": "Chinese",
+    "phonetic": "ˌtʃaɪˈniːz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Chinese",
+        "answer": "Chinese",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "中国的",
+        "phonetic": "ˌtʃaɪˈniːz",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Chinese"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Chinese",
+        "phonetic": "ˌtʃaɪˈniːz",
+        "pos": "ADJ",
+        "zh": "中国的",
+        "componentZh": "中国的"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-S-gaik5lg865j205i5yb24y3ks",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-S-gaik5lg865j205i5yb24y3ks",
+    "type": "sentence",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这很难但很有趣。",
+    "audioText": "It's difficult but interesting",
+    "fullEnglish": "It's difficult but interesting",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "difficult",
+        "answer": "difficult",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "困难的",
+        "phonetic": "ˈdɪfɪkəlt",
+        "pos": "ADJ"
+      },
+      {
+        "index": 2,
+        "text": "but",
+        "answer": "but",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "并列连词",
+        "zh": "但是",
+        "phonetic": "bʌt",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "but interesting",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "但是；有趣的"
+      },
+      {
+        "index": 3,
+        "text": "interesting",
+        "answer": "interesting",
+        "blank": "___________",
+        "letterCount": 11,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心成分",
+        "zh": "有趣的",
+        "phonetic": "ˈɪntrəstɪŋ",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "but interesting",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "但是；有趣的"
+      }
+    ],
+    "shuffledBlocks": [
+      "difficult",
+      "interesting",
+      "but",
+      "It's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "difficult",
+        "role": "表语",
+        "zh": "困难的"
+      },
+      {
+        "id": "ud-3",
+        "text": "but interesting",
+        "role": "并列成分",
+        "zh": "但是；有趣的",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "but",
+            "role": "并列连词",
+            "zh": "但是"
+          },
+          {
+            "id": "ud-5",
+            "text": "interesting",
+            "role": "中心成分",
+            "zh": "有趣的"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "difficult",
+        "phonetic": "ˈdɪfɪkəlt",
+        "pos": "ADJ",
+        "zh": "困难的",
+        "componentRole": "表语",
+        "componentZh": "困难的"
+      },
+      "2": {
+        "text": "but",
+        "phonetic": "bʌt",
+        "pos": "CCONJ",
+        "zh": "但是",
+        "componentRole": "并列连词",
+        "componentZh": "但是",
+        "parentComponentText": "but interesting",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "但是；有趣的"
+      },
+      "3": {
+        "text": "interesting",
+        "phonetic": "ˈɪntrəstɪŋ",
+        "pos": "ADJ",
+        "zh": "有趣的",
+        "componentRole": "中心成分",
+        "componentZh": "有趣的",
+        "parentComponentText": "but interesting",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "但是；有趣的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-gaik5lg865j205i5yb24y3ks-2",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-gaik5lg865j205i5yb24y3ks-2",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "困难的",
+    "audioText": "difficult",
+    "fullEnglish": "difficult",
+    "phonetic": "ˈdɪfɪkəlt",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "difficult",
+        "answer": "difficult",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "困难的",
+        "phonetic": "ˈdɪfɪkəlt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "difficult"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "difficult",
+        "phonetic": "ˈdɪfɪkəlt",
+        "pos": "ADJ",
+        "zh": "困难的",
+        "componentZh": "困难的"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-gaik5lg865j205i5yb24y3ks-3",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-gaik5lg865j205i5yb24y3ks-3",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "但是",
+    "audioText": "but",
+    "fullEnglish": "but",
+    "phonetic": "bʌt",
+    "pos": "CCONJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "but",
+        "answer": "but",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "但是",
+        "phonetic": "bʌt",
+        "pos": "CCONJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "but"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "but",
+        "phonetic": "bʌt",
+        "pos": "CCONJ",
+        "zh": "但是",
+        "componentZh": "但是"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-gaik5lg865j205i5yb24y3ks-4",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-gaik5lg865j205i5yb24y3ks-4",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "有趣的",
+    "audioText": "interesting",
+    "fullEnglish": "interesting",
+    "phonetic": "ˈɪntrəstɪŋ",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "interesting",
+        "answer": "interesting",
+        "blank": "___________",
+        "letterCount": 11,
+        "fillable": true,
+        "type": "word",
+        "zh": "有趣的",
+        "phonetic": "ˈɪntrəstɪŋ",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "interesting"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "interesting",
+        "phonetic": "ˈɪntrəstɪŋ",
+        "pos": "ADJ",
+        "zh": "有趣的",
+        "componentZh": "有趣的"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-S-b8kr97bxmjdme4qidoyhlf0k",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-S-b8kr97bxmjdme4qidoyhlf0k",
+    "type": "sentence",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "看！Mike正在那边画画。",
+    "audioText": "Look! Mike is drawing over there",
+    "fullEnglish": "Look! Mike is drawing over there",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Look",
+        "answer": "Look",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "看起来",
+        "phonetic": "lʊk",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "看！Mike正在那边画画。"
+      },
+      {
+        "index": 2,
+        "text": "Mike",
+        "answer": "Mike",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "Mike",
+        "phonetic": "maɪk",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 3,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "助动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 4,
+        "text": "drawing",
+        "answer": "drawing",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "draw（现在分词）: 画画",
+        "phonetic": "ˈdrɔːɪŋ",
+        "pos": "VERB"
+      },
+      {
+        "index": 5,
+        "text": "over",
+        "answer": "over",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "介词",
+        "zh": "在...那边",
+        "phonetic": "ˈoʊvər",
+        "pos": "ADP",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "over there",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在...那边；那里"
+      },
+      {
+        "index": 6,
+        "text": "there",
+        "answer": "there",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "那里",
+        "phonetic": "ðer; ðər",
+        "pos": "ADV",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "there",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "那里"
+      }
+    ],
+    "shuffledBlocks": [
+      "Mike",
+      "drawing",
+      "there",
+      "is",
+      "over",
+      "Look"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Look",
+        "role": "谓语",
+        "zh": "看起来"
+      },
+      {
+        "id": "ud-2",
+        "text": "Mike",
+        "role": "主语",
+        "zh": "Mike"
+      },
+      {
+        "id": "ud-3",
+        "text": "is",
+        "role": "助动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-4",
+        "text": "drawing",
+        "role": "谓语",
+        "zh": "draw（现在分词）: 画画"
+      },
+      {
+        "id": "ud-5",
+        "text": "over there",
+        "role": "地点状语",
+        "zh": "在...那边；那里",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "over",
+            "role": "介词",
+            "zh": "在...那边"
+          },
+          {
+            "id": "ud-7",
+            "text": "there",
+            "role": "介词宾语",
+            "zh": "那里",
+            "children": [
+              {
+                "id": "ud-8",
+                "text": "there",
+                "role": "中心词",
+                "zh": "那里"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Look",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "zh": "看起来",
+        "componentRole": "谓语",
+        "componentZh": "看起来"
+      },
+      "2": {
+        "text": "Mike",
+        "phonetic": "maɪk",
+        "pos": "PROPN_PERSON",
+        "zh": "Mike",
+        "componentRole": "主语",
+        "componentZh": "Mike"
+      },
+      "3": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "助动词",
+        "componentZh": "是"
+      },
+      "4": {
+        "text": "drawing",
+        "phonetic": "ˈdrɔːɪŋ",
+        "pos": "VERB",
+        "zh": "draw（现在分词）: 画画",
+        "componentRole": "谓语",
+        "componentZh": "draw（现在分词）: 画画"
+      },
+      "5": {
+        "text": "over",
+        "phonetic": "ˈoʊvər",
+        "pos": "ADP",
+        "zh": "在...那边",
+        "componentRole": "介词",
+        "componentZh": "在...那边",
+        "parentComponentText": "over there",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在...那边；那里"
+      },
+      "6": {
+        "text": "there",
+        "phonetic": "ðer; ðər",
+        "pos": "ADV",
+        "zh": "那里",
+        "componentRole": "中心词",
+        "componentZh": "那里",
+        "parentComponentText": "there",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "那里"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-b8kr97bxmjdme4qidoyhlf0k-1",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-b8kr97bxmjdme4qidoyhlf0k-1",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "看",
+    "audioText": "Look",
+    "fullEnglish": "Look",
+    "phonetic": "lʊk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Look",
+        "answer": "Look",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "看起来",
+        "phonetic": "lʊk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Look"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Look",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "zh": "看起来",
+        "componentZh": "看起来"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-b8kr97bxmjdme4qidoyhlf0k-2",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-b8kr97bxmjdme4qidoyhlf0k-2",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Mike",
+    "audioText": "Mike",
+    "fullEnglish": "Mike",
+    "phonetic": "maɪk",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Mike",
+        "answer": "Mike",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "Mike",
+        "phonetic": "maɪk",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Mike"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Mike",
+        "phonetic": "maɪk",
+        "pos": "PROPN_PERSON",
+        "zh": "Mike",
+        "componentZh": "Mike"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-b8kr97bxmjdme4qidoyhlf0k-4",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-b8kr97bxmjdme4qidoyhlf0k-4",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "draw（现在分词）: 画画",
+    "audioText": "drawing",
+    "fullEnglish": "drawing",
+    "phonetic": "ˈdrɔːɪŋ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "drawing",
+        "answer": "drawing",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "draw（现在分词）: 画画",
+        "phonetic": "ˈdrɔːɪŋ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "drawing"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "drawing",
+        "phonetic": "ˈdrɔːɪŋ",
+        "pos": "VERB",
+        "zh": "draw（现在分词）: 画画",
+        "componentZh": "draw（现在分词）: 画画"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-b8kr97bxmjdme4qidoyhlf0k-5",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-b8kr97bxmjdme4qidoyhlf0k-5",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在...那边",
+    "audioText": "over",
+    "fullEnglish": "over",
+    "phonetic": "ˈoʊvər",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "over",
+        "answer": "over",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...那边",
+        "phonetic": "ˈoʊvər",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "over"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "over",
+        "phonetic": "ˈoʊvər",
+        "pos": "ADP",
+        "zh": "在...那边",
+        "componentZh": "在...那边"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-b8kr97bxmjdme4qidoyhlf0k-6",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-b8kr97bxmjdme4qidoyhlf0k-6",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那里",
+    "audioText": "there",
+    "fullEnglish": "there",
+    "phonetic": "ðer; ðər",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "there",
+        "answer": "there",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "那里",
+        "phonetic": "ðer; ðər",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "there"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "there",
+        "phonetic": "ðer; ðər",
+        "pos": "ADV",
+        "zh": "那里",
+        "componentZh": "那里"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-S-wduo57mf1xn0pdf9w6tdbgb5",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-S-wduo57mf1xn0pdf9w6tdbgb5",
+    "type": "sentence",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他非常喜欢画画。",
+    "audioText": "He likes drawing very much",
+    "fullEnglish": "He likes drawing very much",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He",
+        "answer": "He",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "他",
+        "phonetic": "hiː",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "likes",
+        "answer": "likes",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "like（第三人称单数）: 喜欢",
+        "phonetic": "laɪks",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "drawing",
+        "answer": "drawing",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "draw（现在分词）: 画画",
+        "phonetic": "ˈdrɔːɪŋ",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "drawing very much",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "draw（现在分词）: 画画；非常；多"
+      },
+      {
+        "index": 3,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "副词",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "very much",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "非常；多"
+      },
+      {
+        "index": 4,
+        "text": "much",
+        "answer": "much",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "多",
+        "phonetic": "mʌtʃ",
+        "pos": "ADJ",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "very much",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "非常；多"
+      }
+    ],
+    "shuffledBlocks": [
+      "He",
+      "very",
+      "drawing",
+      "much",
+      "likes"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "He",
+        "role": "主语",
+        "zh": "他"
+      },
+      {
+        "id": "ud-2",
+        "text": "likes",
+        "role": "谓语",
+        "zh": "like（第三人称单数）: 喜欢"
+      },
+      {
+        "id": "ud-3",
+        "text": "drawing very much",
+        "role": "宾语补足语",
+        "zh": "draw（现在分词）: 画画；非常；多",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "drawing",
+            "role": "谓语",
+            "zh": "draw（现在分词）: 画画"
+          },
+          {
+            "id": "ud-5",
+            "text": "very much",
+            "role": "方式/程度状语",
+            "zh": "非常；多",
+            "children": [
+              {
+                "id": "ud-6",
+                "text": "very",
+                "role": "副词",
+                "zh": "非常"
+              },
+              {
+                "id": "ud-7",
+                "text": "much",
+                "role": "中心词",
+                "zh": "多"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "He",
+        "phonetic": "hiː",
+        "pos": "PRON",
+        "zh": "他",
+        "componentRole": "主语",
+        "componentZh": "他"
+      },
+      "1": {
+        "text": "likes",
+        "phonetic": "laɪks",
+        "pos": "VERB",
+        "zh": "like（第三人称单数）: 喜欢",
+        "componentRole": "谓语",
+        "componentZh": "like（第三人称单数）: 喜欢"
+      },
+      "2": {
+        "text": "drawing",
+        "phonetic": "ˈdrɔːɪŋ",
+        "pos": "VERB",
+        "zh": "draw（现在分词）: 画画",
+        "componentRole": "谓语",
+        "componentZh": "draw（现在分词）: 画画",
+        "parentComponentText": "drawing very much",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "draw（现在分词）: 画画；非常；多"
+      },
+      "3": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentRole": "副词",
+        "componentZh": "非常",
+        "parentComponentText": "very much",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "非常；多"
+      },
+      "4": {
+        "text": "much",
+        "phonetic": "mʌtʃ",
+        "pos": "ADJ",
+        "zh": "多",
+        "componentRole": "中心词",
+        "componentZh": "多",
+        "parentComponentText": "very much",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "非常；多"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-wduo57mf1xn0pdf9w6tdbgb5-1",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-wduo57mf1xn0pdf9w6tdbgb5-1",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他",
+    "audioText": "He",
+    "fullEnglish": "He",
+    "phonetic": "hiː",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He",
+        "answer": "He",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "他",
+        "phonetic": "hiː",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "He"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "He",
+        "phonetic": "hiː",
+        "pos": "PRON",
+        "zh": "他",
+        "componentZh": "他"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-wduo57mf1xn0pdf9w6tdbgb5-2",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-wduo57mf1xn0pdf9w6tdbgb5-2",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "like（第三人称单数现在时）: 喜欢",
+    "audioText": "likes",
+    "fullEnglish": "likes",
+    "phonetic": "laɪks",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "likes",
+        "answer": "likes",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "like（第三人称单数）: 喜欢",
+        "phonetic": "laɪks",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "likes"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "likes",
+        "phonetic": "laɪks",
+        "pos": "VERB",
+        "zh": "like（第三人称单数）: 喜欢",
+        "componentZh": "like（第三人称单数）: 喜欢"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-wduo57mf1xn0pdf9w6tdbgb5-5",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-wduo57mf1xn0pdf9w6tdbgb5-5",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "很",
+    "audioText": "much",
+    "fullEnglish": "much",
+    "phonetic": "mʌtʃ",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "much",
+        "answer": "much",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "多",
+        "phonetic": "mʌtʃ",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "much"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "much",
+        "phonetic": "mʌtʃ",
+        "pos": "ADJ",
+        "zh": "多",
+        "componentZh": "多"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-S-rhnbuejiub8d2l9abexmht1c",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-S-rhnbuejiub8d2l9abexmht1c",
+    "type": "sentence",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他在艺术课上表现最好。",
+    "audioText": "And he does best in art class",
+    "fullEnglish": "And he does best in art class",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "And",
+        "answer": "And",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ"
+      },
+      {
+        "index": 1,
+        "text": "he",
+        "answer": "he",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "他",
+        "phonetic": "hiː",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "does",
+        "answer": "does",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "do（第三人称单数）: 做",
+        "phonetic": "dʌz",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "best",
+        "answer": "best",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "宾语",
+        "zh": "最好的",
+        "phonetic": "best",
+        "pos": "ADJ"
+      },
+      {
+        "index": 4,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "介词",
+        "zh": "在",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "in art class",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；艺术；课程"
+      },
+      {
+        "index": 5,
+        "text": "art",
+        "answer": "art",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "定语（名词修饰）",
+        "zh": "艺术",
+        "phonetic": "ɑːrt",
+        "pos": "NOUN",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "art class",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "艺术；课程"
+      },
+      {
+        "index": 6,
+        "text": "class",
+        "answer": "class",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "中心词",
+        "zh": "课程",
+        "phonetic": "klæs",
+        "pos": "NOUN",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "art class",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "艺术；课程"
+      }
+    ],
+    "shuffledBlocks": [
+      "does",
+      "best",
+      "he",
+      "And",
+      "art",
+      "class",
+      "in"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "And",
+        "role": "并列连词",
+        "zh": "和"
+      },
+      {
+        "id": "ud-2",
+        "text": "he",
+        "role": "主语",
+        "zh": "他"
+      },
+      {
+        "id": "ud-3",
+        "text": "does",
+        "role": "谓语",
+        "zh": "do（第三人称单数）: 做"
+      },
+      {
+        "id": "ud-4",
+        "text": "best",
+        "role": "宾语",
+        "zh": "最好的"
+      },
+      {
+        "id": "ud-5",
+        "text": "in art class",
+        "role": "地点状语",
+        "zh": "在；艺术；课程",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "in",
+            "role": "介词",
+            "zh": "在"
+          },
+          {
+            "id": "ud-7",
+            "text": "art class",
+            "role": "介词宾语",
+            "zh": "艺术；课程",
+            "children": [
+              {
+                "id": "ud-8",
+                "text": "art",
+                "role": "定语（名词修饰）",
+                "zh": "艺术"
+              },
+              {
+                "id": "ud-9",
+                "text": "class",
+                "role": "中心词",
+                "zh": "课程"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "And",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和"
+      },
+      "1": {
+        "text": "he",
+        "phonetic": "hiː",
+        "pos": "PRON",
+        "zh": "他",
+        "componentRole": "主语",
+        "componentZh": "他"
+      },
+      "2": {
+        "text": "does",
+        "phonetic": "dʌz",
+        "pos": "VERB",
+        "zh": "do（第三人称单数）: 做",
+        "componentRole": "谓语",
+        "componentZh": "do（第三人称单数）: 做"
+      },
+      "3": {
+        "text": "best",
+        "phonetic": "best",
+        "pos": "ADJ",
+        "zh": "最好的",
+        "componentRole": "宾语",
+        "componentZh": "最好的"
+      },
+      "4": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在",
+        "componentRole": "介词",
+        "componentZh": "在",
+        "parentComponentText": "in art class",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；艺术；课程"
+      },
+      "5": {
+        "text": "art",
+        "phonetic": "ɑːrt",
+        "pos": "NOUN",
+        "zh": "艺术",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "艺术",
+        "parentComponentText": "art class",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "艺术；课程"
+      },
+      "6": {
+        "text": "class",
+        "phonetic": "klæs",
+        "pos": "NOUN",
+        "zh": "课程",
+        "componentRole": "中心词",
+        "componentZh": "课程",
+        "parentComponentText": "art class",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "艺术；课程"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-rhnbuejiub8d2l9abexmht1c-1",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-rhnbuejiub8d2l9abexmht1c-1",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "和",
+    "audioText": "And",
+    "fullEnglish": "And",
+    "phonetic": "ænd; ənd",
+    "pos": "CCONJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "And",
+        "answer": "And",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "And"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "And",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-rhnbuejiub8d2l9abexmht1c-3",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-rhnbuejiub8d2l9abexmht1c-3",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "do（第三人称单数现在时）: 做",
+    "audioText": "does",
+    "fullEnglish": "does",
+    "phonetic": "dʌz",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "does",
+        "answer": "does",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "do（第三人称单数）: 做",
+        "phonetic": "dʌz",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "does"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "does",
+        "phonetic": "dʌz",
+        "pos": "VERB",
+        "zh": "do（第三人称单数）: 做",
+        "componentZh": "do（第三人称单数）: 做"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-W-rhnbuejiub8d2l9abexmht1c-6",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-W-rhnbuejiub8d2l9abexmht1c-6",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "艺术",
+    "audioText": "art",
+    "fullEnglish": "art",
+    "phonetic": "ɑːrt",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "art",
+        "answer": "art",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "艺术",
+        "phonetic": "ɑːrt",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "art"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "art",
+        "phonetic": "ɑːrt",
+        "pos": "NOUN",
+        "zh": "艺术",
+        "componentZh": "艺术"
+      }
+    }
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-PHRASE-dptdthcxb2ysrs9xry3ub8tg",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-PHRASE-dptdthcxb2ysrs9xry3ub8tg",
+    "type": "phrase",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哪门课",
+    "audioText": "Which class",
+    "fullEnglish": "Which class",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Which",
+        "answer": "Which",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "哪个",
+        "phonetic": "wɪtʃ",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "class",
+        "answer": "class",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "课程",
+        "phonetic": "klæs",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "class",
+      "Which"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Which",
+        "role": "补充成分",
+        "zh": "哪个"
+      },
+      {
+        "id": "ud-2",
+        "text": "class",
+        "role": "中心成分",
+        "zh": "课程"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Which",
+        "phonetic": "wɪtʃ",
+        "pos": "DET",
+        "zh": "哪个",
+        "componentZh": "哪个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "class",
+        "phonetic": "klæs",
+        "pos": "NOUN",
+        "zh": "课程",
+        "componentZh": "课程",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-PHRASE-ngssix3iats3h1xv1rx8ymyr",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-PHRASE-ngssix3iats3h1xv1rx8ymyr",
+    "type": "sentence",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "最喜欢",
+    "audioText": "like best",
+    "fullEnglish": "like best",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "语气/引导语"
+      },
+      {
+        "index": 1,
+        "text": "best",
+        "answer": "best",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "最好的",
+        "phonetic": "best",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "like",
+      "best"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "like",
+        "role": "语气/引导语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-2",
+        "text": "best",
+        "role": "中心成分",
+        "zh": "最好的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentZh": "喜欢",
+        "componentRole": "语气/引导语"
+      },
+      "1": {
+        "text": "best",
+        "phonetic": "best",
+        "pos": "ADJ",
+        "zh": "最好的",
+        "componentZh": "最好的",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-PHRASE-wmmoubff1j7pnw4cwk78bt7k",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-PHRASE-wmmoubff1j7pnw4cwk78bt7k",
+    "type": "phrase",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "英语最",
+    "audioText": "English best",
+    "fullEnglish": "English best",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "English",
+        "answer": "English",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "英语",
+        "phonetic": "ˈɪŋɡlɪʃ",
+        "pos": "PROPN",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "best",
+        "answer": "best",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "最好的",
+        "phonetic": "best",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "English",
+      "best"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "English",
+        "role": "补充成分",
+        "zh": "英语"
+      },
+      {
+        "id": "ud-2",
+        "text": "best",
+        "role": "中心成分",
+        "zh": "最好的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "English",
+        "phonetic": "ˈɪŋɡlɪʃ",
+        "pos": "PROPN",
+        "zh": "英语",
+        "componentZh": "英语",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "best",
+        "phonetic": "best",
+        "pos": "ADJ",
+        "zh": "最好的",
+        "componentZh": "最好的",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-PHRASE-fcyf761clu2u4ggpfv3cfpfa",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-PHRASE-fcyf761clu2u4ggpfv3cfpfa",
+    "type": "phrase",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "做得最好",
+    "audioText": "do best",
+    "fullEnglish": "do best",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "best",
+        "answer": "best",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "最好的",
+        "phonetic": "best",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "中心成分",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "最好的"
+      }
+    ],
+    "shuffledBlocks": [
+      "do",
+      "best"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "do",
+        "role": "谓语",
+        "zh": "做"
+      },
+      {
+        "id": "ud-2",
+        "text": "best",
+        "role": "宾语补足语",
+        "zh": "最好的",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "best",
+            "role": "中心成分",
+            "zh": "最好的"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "best",
+        "phonetic": "best",
+        "pos": "ADJ",
+        "zh": "最好的",
+        "componentZh": "最好的",
+        "componentRole": "中心成分",
+        "parentComponentText": "best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "最好的"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-PHRASE-e5wk005cdt1nhdz3y1t6ilky",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-PHRASE-e5wk005cdt1nhdz3y1t6ilky",
+    "type": "phrase",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我最喜欢的科目",
+    "audioText": "my favourite subject",
+    "fullEnglish": "my favourite subject",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "favourite",
+        "answer": "favourite",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "最喜欢的",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "subject",
+        "answer": "subject",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "科目",
+        "phonetic": "ˈsʌbdʒekt",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "subject",
+      "favourite",
+      "my"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "my",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-2",
+        "text": "favourite",
+        "role": "补充成分",
+        "zh": "最喜欢的"
+      },
+      {
+        "id": "ud-3",
+        "text": "subject",
+        "role": "中心成分",
+        "zh": "科目"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "favourite",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "ADJ",
+        "zh": "最喜欢的",
+        "componentZh": "最喜欢的",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "subject",
+        "phonetic": "ˈsʌbdʒekt",
+        "pos": "NOUN",
+        "zh": "科目",
+        "componentZh": "科目",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-PHRASE-foayorrxoj28iihxro2f6y18",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-PHRASE-foayorrxoj28iihxro2f6y18",
+    "type": "phrase",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "非常有用的",
+    "audioText": "very useful",
+    "fullEnglish": "very useful",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "useful",
+        "answer": "useful",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "有用的",
+        "phonetic": "ˈjuːsf(ə)l",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "very",
+      "useful"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "very",
+        "role": "方式/程度状语",
+        "zh": "非常"
+      },
+      {
+        "id": "ud-2",
+        "text": "useful",
+        "role": "中心成分",
+        "zh": "有用的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentZh": "非常",
+        "componentRole": "方式/程度状语"
+      },
+      "1": {
+        "text": "useful",
+        "phonetic": "ˈjuːsf(ə)l",
+        "pos": "ADJ",
+        "zh": "有用的",
+        "componentZh": "有用的",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-PHRASE-w281pbgxaz35blev0v859rqu",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-PHRASE-w281pbgxaz35blev0v859rqu",
+    "type": "sentence",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "看！",
+    "audioText": "Look!",
+    "fullEnglish": "Look!",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Look",
+        "answer": "Look",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "看起来",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "看！"
+      }
+    ],
+    "shuffledBlocks": [
+      "Look"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Look",
+        "role": "谓语",
+        "zh": "看起来"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Look",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "zh": "看起来",
+        "componentZh": "看起来",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-PHRASE-v1z8bydvt3g0rkvh2ou3sakm",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-PHRASE-v1z8bydvt3g0rkvh2ou3sakm",
+    "type": "phrase",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "正在画",
+    "audioText": "is drawing",
+    "fullEnglish": "is drawing",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "drawing",
+        "answer": "drawing",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "draw（现在分词）: 画画",
+        "phonetic": "ˈdrɔːɪŋ",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "is",
+      "drawing"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "is",
+        "role": "助动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-2",
+        "text": "drawing",
+        "role": "谓语",
+        "zh": "draw（现在分词）: 画画"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "drawing",
+        "phonetic": "ˈdrɔːɪŋ",
+        "pos": "VERB",
+        "zh": "draw（现在分词）: 画画",
+        "componentZh": "draw（现在分词）: 画画",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-PHRASE-zfv9gadp78u05vwrkj7myfe8",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-PHRASE-zfv9gadp78u05vwrkj7myfe8",
+    "type": "phrase",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在那边",
+    "audioText": "over there",
+    "fullEnglish": "over there",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "over",
+        "answer": "over",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...那边",
+        "phonetic": "ˈoʊvər",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "there",
+        "answer": "there",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "那里",
+        "phonetic": "ðer; ðər",
+        "pos": "ADV",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "over",
+      "there"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "over",
+        "role": "补充成分",
+        "zh": "在...那边"
+      },
+      {
+        "id": "ud-2",
+        "text": "there",
+        "role": "中心成分",
+        "zh": "那里"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "over",
+        "phonetic": "ˈoʊvər",
+        "pos": "ADP",
+        "zh": "在...那边",
+        "componentZh": "在...那边",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "there",
+        "phonetic": "ðer; ðər",
+        "pos": "ADV",
+        "zh": "那里",
+        "componentZh": "那里",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-PHRASE-cvosobibo0swrudq38j56ybj",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-PHRASE-cvosobibo0swrudq38j56ybj",
+    "type": "sentence",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Mike正在那边画画",
+    "audioText": "Mike is drawing over there",
+    "fullEnglish": "Mike is drawing over there",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Mike",
+        "answer": "Mike",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "Mike",
+        "phonetic": "maɪk",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "助动词"
+      },
+      {
+        "index": 2,
+        "text": "drawing",
+        "answer": "drawing",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "draw（现在分词）: 画画",
+        "phonetic": "ˈdrɔːɪŋ",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      },
+      {
+        "index": 3,
+        "text": "over",
+        "answer": "over",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...那边",
+        "phonetic": "ˈoʊvər",
+        "pos": "ADP",
+        "componentId": "ud-5",
+        "role": "介词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "over there",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在...那边；那里"
+      },
+      {
+        "index": 4,
+        "text": "there",
+        "answer": "there",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "那里",
+        "phonetic": "ðer; ðər",
+        "pos": "ADV",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "there",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "那里"
+      }
+    ],
+    "shuffledBlocks": [
+      "Mike",
+      "drawing",
+      "over",
+      "there",
+      "is"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Mike",
+        "role": "主语",
+        "zh": "Mike"
+      },
+      {
+        "id": "ud-2",
+        "text": "is",
+        "role": "助动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-3",
+        "text": "drawing",
+        "role": "谓语",
+        "zh": "draw（现在分词）: 画画"
+      },
+      {
+        "id": "ud-4",
+        "text": "over there",
+        "role": "地点状语",
+        "zh": "在...那边；那里",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "over",
+            "role": "介词",
+            "zh": "在...那边"
+          },
+          {
+            "id": "ud-6",
+            "text": "there",
+            "role": "介词宾语",
+            "zh": "那里",
+            "children": [
+              {
+                "id": "ud-7",
+                "text": "there",
+                "role": "中心词",
+                "zh": "那里"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Mike",
+        "phonetic": "maɪk",
+        "pos": "PROPN_PERSON",
+        "zh": "Mike",
+        "componentZh": "Mike",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是",
+        "componentRole": "助动词"
+      },
+      "2": {
+        "text": "drawing",
+        "phonetic": "ˈdrɔːɪŋ",
+        "pos": "VERB",
+        "zh": "draw（现在分词）: 画画",
+        "componentZh": "draw（现在分词）: 画画",
+        "componentRole": "谓语"
+      },
+      "3": {
+        "text": "over",
+        "phonetic": "ˈoʊvər",
+        "pos": "ADP",
+        "zh": "在...那边",
+        "componentZh": "在...那边",
+        "componentRole": "介词",
+        "parentComponentText": "over there",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在...那边；那里"
+      },
+      "4": {
+        "text": "there",
+        "phonetic": "ðer; ðər",
+        "pos": "ADV",
+        "zh": "那里",
+        "componentZh": "那里",
+        "componentRole": "中心词",
+        "parentComponentText": "there",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "那里"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-PHRASE-pziqwt1k90ia7ushvoqu2fou",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-PHRASE-pziqwt1k90ia7ushvoqu2fou",
+    "type": "phrase",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "非常",
+    "audioText": "very much",
+    "fullEnglish": "very much",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "much",
+        "answer": "much",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "多",
+        "phonetic": "mʌtʃ",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "very",
+      "much"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "very",
+        "role": "方式/程度状语",
+        "zh": "非常"
+      },
+      {
+        "id": "ud-2",
+        "text": "much",
+        "role": "中心成分",
+        "zh": "多"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentZh": "非常",
+        "componentRole": "方式/程度状语"
+      },
+      "1": {
+        "text": "much",
+        "phonetic": "mʌtʃ",
+        "pos": "ADJ",
+        "zh": "多",
+        "componentZh": "多",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-PHRASE-gfo6au4qrxvcn8et4hph1sfa",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-PHRASE-gfo6au4qrxvcn8et4hph1sfa",
+    "type": "phrase",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "表现最好",
+    "audioText": "does best",
+    "fullEnglish": "does best",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "does",
+        "answer": "does",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "do（第三人称单数）: 做",
+        "phonetic": "dʌz",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "best",
+        "answer": "best",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "最好的",
+        "phonetic": "best",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "does",
+      "best"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "does",
+        "role": "助动词",
+        "zh": "do（第三人称单数）: 做"
+      },
+      {
+        "id": "ud-2",
+        "text": "best",
+        "role": "中心成分",
+        "zh": "最好的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "does",
+        "phonetic": "dʌz",
+        "pos": "VERB",
+        "zh": "do（第三人称单数）: 做",
+        "componentZh": "do（第三人称单数）: 做",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "best",
+        "phonetic": "best",
+        "pos": "ADJ",
+        "zh": "最好的",
+        "componentZh": "最好的",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-life895wnhspf12xqnno3nlh-PHRASE-hke1sd93uyuetckqgjw8b4vg",
+    "contentId": "JLB-life895wnhspf12xqnno3nlh-PHRASE-hke1sd93uyuetckqgjw8b4vg",
+    "type": "phrase",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "life895wnhspf12xqnno3nlh",
+    "unitTitle": "Unit 1  WHICH DO YOU LIKE BETTER?-Lesson 2-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在美术课上",
+    "audioText": "in art class",
+    "fullEnglish": "in art class",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "art",
+        "answer": "art",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "艺术",
+        "phonetic": "ɑːrt",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "class",
+        "answer": "class",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "课程",
+        "phonetic": "klæs",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "class",
+      "in",
+      "art"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "in",
+        "role": "补充成分",
+        "zh": "在"
+      },
+      {
+        "id": "ud-2",
+        "text": "art",
+        "role": "补充成分",
+        "zh": "艺术"
+      },
+      {
+        "id": "ud-3",
+        "text": "class",
+        "role": "中心成分",
+        "zh": "课程"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在",
+        "componentZh": "在",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "art",
+        "phonetic": "ɑːrt",
+        "pos": "NOUN",
+        "zh": "艺术",
+        "componentZh": "艺术",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "class",
+        "phonetic": "klæs",
+        "pos": "NOUN",
+        "zh": "课程",
+        "componentZh": "课程",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

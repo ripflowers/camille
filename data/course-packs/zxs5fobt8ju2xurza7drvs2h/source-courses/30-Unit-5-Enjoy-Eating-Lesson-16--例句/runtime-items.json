@@ -1,0 +1,6702 @@
+[
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-S-wqkrsruspbdal1x3430fze0a",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-S-wqkrsruspbdal1x3430fze0a",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Mike：我们在这里吃午饭吧。",
+    "audioText": "Mike: Let's have lunch here",
+    "fullEnglish": "Mike: Let's have lunch here",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Mike",
+        "answer": "Mike",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "呼语",
+        "zh": "Mike",
+        "phonetic": "maɪk",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 1,
+        "text": ":",
+        "answer": ":",
+        "blank": ":",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Mike：我们在这里吃午饭吧。"
+      },
+      {
+        "index": 2,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "宾语 + 谓语",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "吃",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "have lunch here",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "吃；午餐；这里"
+      },
+      {
+        "index": 4,
+        "text": "lunch",
+        "answer": "lunch",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "宾语",
+        "zh": "午餐",
+        "phonetic": "lʌnʧ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "have lunch here",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "吃；午餐；这里"
+      },
+      {
+        "index": 5,
+        "text": "here",
+        "answer": "here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "地点状语",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "have lunch here",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "吃；午餐；这里"
+      }
+    ],
+    "shuffledBlocks": [
+      "here",
+      "Mike",
+      "lunch",
+      "have",
+      "Let's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Mike",
+        "role": "呼语",
+        "zh": "Mike"
+      },
+      {
+        "id": "ud-2",
+        "text": "Let's",
+        "role": "宾语 + 谓语",
+        "zh": "让我们"
+      },
+      {
+        "id": "ud-3",
+        "text": "have lunch here",
+        "role": "宾语补足语",
+        "zh": "吃；午餐；这里",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "have",
+            "role": "谓语",
+            "zh": "吃"
+          },
+          {
+            "id": "ud-5",
+            "text": "lunch",
+            "role": "宾语",
+            "zh": "午餐"
+          },
+          {
+            "id": "ud-6",
+            "text": "here",
+            "role": "地点状语",
+            "zh": "这里"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Mike",
+        "phonetic": "maɪk",
+        "pos": "PROPN_PERSON",
+        "zh": "Mike",
+        "componentRole": "呼语",
+        "componentZh": "Mike"
+      },
+      "2": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentRole": "宾语 + 谓语",
+        "componentZh": "让我们"
+      },
+      "3": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "吃",
+        "componentRole": "谓语",
+        "componentZh": "吃",
+        "parentComponentText": "have lunch here",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "吃；午餐；这里"
+      },
+      "4": {
+        "text": "lunch",
+        "phonetic": "lʌnʧ",
+        "pos": "NOUN",
+        "zh": "午餐",
+        "componentRole": "宾语",
+        "componentZh": "午餐",
+        "parentComponentText": "have lunch here",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "吃；午餐；这里"
+      },
+      "5": {
+        "text": "here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentRole": "地点状语",
+        "componentZh": "这里",
+        "parentComponentText": "have lunch here",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "吃；午餐；这里"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-wqkrsruspbdal1x3430fze0a-1",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-wqkrsruspbdal1x3430fze0a-1",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Mike",
+    "audioText": "Mike",
+    "fullEnglish": "Mike",
+    "phonetic": "maɪk",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Mike",
+        "answer": "Mike",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "Mike",
+        "phonetic": "maɪk",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Mike"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Mike",
+        "phonetic": "maɪk",
+        "pos": "PROPN_PERSON",
+        "zh": "Mike",
+        "componentZh": "Mike"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-wqkrsruspbdal1x3430fze0a-2",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-wqkrsruspbdal1x3430fze0a-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "let us（缩写）: 让我们",
+    "audioText": "Let's",
+    "fullEnglish": "Let's",
+    "phonetic": "lets",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentZh": "让我们"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-wqkrsruspbdal1x3430fze0a-3",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-wqkrsruspbdal1x3430fze0a-3",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "吃",
+    "audioText": "have",
+    "fullEnglish": "have",
+    "phonetic": "hæv",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "吃",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "have"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "吃",
+        "componentZh": "吃"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-wqkrsruspbdal1x3430fze0a-4",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-wqkrsruspbdal1x3430fze0a-4",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "午餐",
+    "audioText": "lunch",
+    "fullEnglish": "lunch",
+    "phonetic": "lʌnʧ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "lunch",
+        "answer": "lunch",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "午餐",
+        "phonetic": "lʌnʧ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "lunch"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "lunch",
+        "phonetic": "lʌnʧ",
+        "pos": "NOUN",
+        "zh": "午餐",
+        "componentZh": "午餐"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-wqkrsruspbdal1x3430fze0a-5",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-wqkrsruspbdal1x3430fze0a-5",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这里",
+    "audioText": "here",
+    "fullEnglish": "here",
+    "phonetic": "hɪr",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "here",
+        "answer": "here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "here"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentZh": "这里"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-S-ouj5ggzvc8sg3617i07dco45",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-S-ouj5ggzvc8sg3617i07dco45",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Baobao: 好的。你想吃点什么？",
+    "audioText": "Baobao: OK. What would you like to have?",
+    "fullEnglish": "Baobao: OK. What would you like to have?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Baobao",
+        "answer": "Baobao",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "Baobao",
+        "phonetic": "baobao",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 1,
+        "text": ":",
+        "answer": ":",
+        "blank": ":",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Baobao: 好的。你想吃点什么？"
+      },
+      {
+        "index": 2,
+        "text": "OK",
+        "answer": "OK",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "abbreviation",
+        "componentId": "ud-2",
+        "role": "语气/引导语",
+        "zh": "好的",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "INTJ"
+      },
+      {
+        "index": 3,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Baobao: 好的。你想吃点什么？"
+      },
+      {
+        "index": 4,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "宾语",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "What to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "什么；引导不定式；吃"
+      },
+      {
+        "index": 5,
+        "text": "would",
+        "answer": "would",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "助动词",
+        "zh": "will（过去式）: 表示过去将来时",
+        "phonetic": "wʊd",
+        "pos": "AUX"
+      },
+      {
+        "index": 6,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 7,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "谓语",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 8,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "连接词",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "What to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "什么；引导不定式；吃"
+      },
+      {
+        "index": 9,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "谓语",
+        "zh": "吃",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "What to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "什么；引导不定式；吃"
+      },
+      {
+        "index": 10,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Baobao: 好的。你想吃点什么？"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "What",
+      "would",
+      "have",
+      "Baobao",
+      "to",
+      "OK",
+      "like"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Baobao",
+        "role": "中心成分",
+        "zh": "Baobao"
+      },
+      {
+        "id": "ud-2",
+        "text": "OK",
+        "role": "语气/引导语",
+        "zh": "好的"
+      },
+      {
+        "id": "ud-3",
+        "text": "What to have",
+        "role": "不定式短语",
+        "zh": "什么；引导不定式；吃",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "What",
+            "role": "宾语",
+            "zh": "什么"
+          },
+          {
+            "id": "ud-5",
+            "text": "to",
+            "role": "连接词",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-6",
+            "text": "have",
+            "role": "谓语",
+            "zh": "吃"
+          }
+        ]
+      },
+      {
+        "id": "ud-7",
+        "text": "would",
+        "role": "助动词",
+        "zh": "will（过去式）: 表示过去将来时"
+      },
+      {
+        "id": "ud-8",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-9",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Baobao",
+        "phonetic": "baobao",
+        "pos": "PROPN_PERSON",
+        "zh": "Baobao",
+        "componentRole": "中心成分",
+        "componentZh": "Baobao"
+      },
+      "2": {
+        "text": "OK",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "INTJ",
+        "zh": "好的",
+        "componentRole": "语气/引导语",
+        "componentZh": "好的"
+      },
+      "4": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "宾语",
+        "componentZh": "什么",
+        "parentComponentText": "What to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "什么；引导不定式；吃"
+      },
+      "5": {
+        "text": "would",
+        "phonetic": "wʊd",
+        "pos": "AUX",
+        "zh": "will（过去式）: 表示过去将来时",
+        "componentRole": "助动词",
+        "componentZh": "will（过去式）: 表示过去将来时"
+      },
+      "6": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "7": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "谓语",
+        "componentZh": "喜欢"
+      },
+      "8": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentRole": "连接词",
+        "componentZh": "引导不定式",
+        "parentComponentText": "What to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "什么；引导不定式；吃"
+      },
+      "9": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "吃",
+        "componentRole": "谓语",
+        "componentZh": "吃",
+        "parentComponentText": "What to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "什么；引导不定式；吃"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ouj5ggzvc8sg3617i07dco45-1",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ouj5ggzvc8sg3617i07dco45-1",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Baobao",
+    "audioText": "Baobao",
+    "fullEnglish": "Baobao",
+    "phonetic": "baobao",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Baobao",
+        "answer": "Baobao",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "Baobao",
+        "phonetic": "baobao",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Baobao"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Baobao",
+        "phonetic": "baobao",
+        "pos": "PROPN_PERSON",
+        "zh": "Baobao",
+        "componentZh": "Baobao"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ouj5ggzvc8sg3617i07dco45-2",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ouj5ggzvc8sg3617i07dco45-2",
+    "type": "abbreviation",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好的",
+    "audioText": "OK",
+    "fullEnglish": "OK",
+    "phonetic": "oʊˈkeɪ",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "OK",
+        "answer": "OK",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "abbreviation",
+        "zh": "好的",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "OK"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "OK",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "INTJ",
+        "zh": "好的",
+        "componentZh": "好的"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ouj5ggzvc8sg3617i07dco45-3",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ouj5ggzvc8sg3617i07dco45-3",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么",
+    "audioText": "What",
+    "fullEnglish": "What",
+    "phonetic": "wʌt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "What"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ouj5ggzvc8sg3617i07dco45-4",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ouj5ggzvc8sg3617i07dco45-4",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "will（过去式）: 将",
+    "audioText": "would",
+    "fullEnglish": "would",
+    "phonetic": "wʊd",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "would",
+        "answer": "would",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "will（过去式）: 表示过去将来时",
+        "phonetic": "wʊd",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "would"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "would",
+        "phonetic": "wʊd",
+        "pos": "AUX",
+        "zh": "will（过去式）: 表示过去将来时",
+        "componentZh": "will（过去式）: 表示过去将来时"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ouj5ggzvc8sg3617i07dco45-5",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ouj5ggzvc8sg3617i07dco45-5",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ouj5ggzvc8sg3617i07dco45-6",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ouj5ggzvc8sg3617i07dco45-6",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "喜欢",
+    "audioText": "like",
+    "fullEnglish": "like",
+    "phonetic": "laɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "like"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentZh": "喜欢"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ouj5ggzvc8sg3617i07dco45-7",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ouj5ggzvc8sg3617i07dco45-7",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "引导不定式",
+    "audioText": "to",
+    "fullEnglish": "to",
+    "phonetic": "tuː; tə",
+    "pos": "PART",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART"
+      }
+    ],
+    "shuffledBlocks": [
+      "to"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-S-ooj0fk41tmkvhufy0pspdhzp",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-S-ooj0fk41tmkvhufy0pspdhzp",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Mike: 我想要一些米饭配土豆和肉丸。",
+    "audioText": "Mike: I'd like to have some rice with potatoes and meatballs",
+    "fullEnglish": "Mike: I'd like to have some rice with potatoes and meatballs",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Mike",
+        "answer": "Mike",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "呼语",
+        "zh": "Mike",
+        "phonetic": "maɪk",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 1,
+        "text": ":",
+        "answer": ":",
+        "blank": ":",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Mike: 我想要一些米饭配土豆和肉丸。"
+      },
+      {
+        "index": 2,
+        "text": "I'd",
+        "answer": "I'd",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语 + 助动词",
+        "zh": "I would的缩写",
+        "phonetic": "aɪd",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "连接词",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "to have some rice with potatoes and meatballs",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃；一些；米饭；和；土豆（复数）；肉丸（复数）"
+      },
+      {
+        "index": 5,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "谓语",
+        "zh": "吃",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "to have some rice with potatoes and meatballs",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃；一些；米饭；和；土豆（复数）；肉丸（复数）"
+      },
+      {
+        "index": 6,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "some rice with potatoes and meatballs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；米饭；和；土豆（复数）；肉丸（复数）"
+      },
+      {
+        "index": 7,
+        "text": "rice",
+        "answer": "rice",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "中心词",
+        "zh": "米饭",
+        "phonetic": "raɪs",
+        "pos": "NOUN",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "some rice with potatoes and meatballs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；米饭；和；土豆（复数）；肉丸（复数）"
+      },
+      {
+        "index": 8,
+        "text": "with",
+        "answer": "with",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "介词",
+        "zh": "和",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "some rice with potatoes and meatballs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；米饭；和；土豆（复数）；肉丸（复数）"
+      },
+      {
+        "index": 9,
+        "text": "potatoes",
+        "answer": "potatoes",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "修饰语",
+        "zh": "土豆（复数）",
+        "phonetic": "pəˈtetoz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "some rice with potatoes and meatballs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；米饭；和；土豆（复数）；肉丸（复数）"
+      },
+      {
+        "index": 10,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-12",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "some rice with potatoes and meatballs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；米饭；和；土豆（复数）；肉丸（复数）"
+      },
+      {
+        "index": 11,
+        "text": "meatballs",
+        "answer": "meatballs",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-13",
+        "role": "修饰语",
+        "zh": "肉丸（复数）",
+        "phonetic": "ˈmiːt.bɔːlz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "some rice with potatoes and meatballs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；米饭；和；土豆（复数）；肉丸（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "Mike",
+      "meatballs",
+      "potatoes",
+      "have",
+      "and",
+      "some",
+      "I'd",
+      "with",
+      "like",
+      "to",
+      "rice"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Mike",
+        "role": "呼语",
+        "zh": "Mike"
+      },
+      {
+        "id": "ud-2",
+        "text": "I'd",
+        "role": "主语 + 助动词",
+        "zh": "I would的缩写"
+      },
+      {
+        "id": "ud-3",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-4",
+        "text": "to have some rice with potatoes and meatballs",
+        "role": "不定式短语",
+        "zh": "引导不定式；吃；一些；米饭；和；土豆（复数）；肉丸（复数）",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "to",
+            "role": "连接词",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-6",
+            "text": "have",
+            "role": "谓语",
+            "zh": "吃"
+          },
+          {
+            "id": "ud-7",
+            "text": "some rice with potatoes and meatballs",
+            "role": "宾语",
+            "zh": "一些；米饭；和；土豆（复数）；肉丸（复数）",
+            "children": [
+              {
+                "id": "ud-8",
+                "text": "some",
+                "role": "限定词",
+                "zh": "一些"
+              },
+              {
+                "id": "ud-9",
+                "text": "rice",
+                "role": "中心词",
+                "zh": "米饭"
+              },
+              {
+                "id": "ud-10",
+                "text": "with",
+                "role": "介词",
+                "zh": "和"
+              },
+              {
+                "id": "ud-11",
+                "text": "potatoes",
+                "role": "修饰语",
+                "zh": "土豆（复数）"
+              },
+              {
+                "id": "ud-12",
+                "text": "and",
+                "role": "并列连词",
+                "zh": "和"
+              },
+              {
+                "id": "ud-13",
+                "text": "meatballs",
+                "role": "修饰语",
+                "zh": "肉丸（复数）"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Mike",
+        "phonetic": "maɪk",
+        "pos": "PROPN_PERSON",
+        "zh": "Mike",
+        "componentRole": "呼语",
+        "componentZh": "Mike"
+      },
+      "2": {
+        "text": "I'd",
+        "phonetic": "aɪd",
+        "pos": "PRON",
+        "zh": "I would的缩写",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "I would的缩写"
+      },
+      "3": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "谓语",
+        "componentZh": "喜欢"
+      },
+      "4": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentRole": "连接词",
+        "componentZh": "引导不定式",
+        "parentComponentText": "to have some rice with potatoes and meatballs",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃；一些；米饭；和；土豆（复数）；肉丸（复数）"
+      },
+      "5": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "吃",
+        "componentRole": "谓语",
+        "componentZh": "吃",
+        "parentComponentText": "to have some rice with potatoes and meatballs",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃；一些；米饭；和；土豆（复数）；肉丸（复数）"
+      },
+      "6": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some rice with potatoes and meatballs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；米饭；和；土豆（复数）；肉丸（复数）"
+      },
+      "7": {
+        "text": "rice",
+        "phonetic": "raɪs",
+        "pos": "NOUN",
+        "zh": "米饭",
+        "componentRole": "中心词",
+        "componentZh": "米饭",
+        "parentComponentText": "some rice with potatoes and meatballs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；米饭；和；土豆（复数）；肉丸（复数）"
+      },
+      "8": {
+        "text": "with",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "zh": "和",
+        "componentRole": "介词",
+        "componentZh": "和",
+        "parentComponentText": "some rice with potatoes and meatballs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；米饭；和；土豆（复数）；肉丸（复数）"
+      },
+      "9": {
+        "text": "potatoes",
+        "phonetic": "pəˈtetoz",
+        "pos": "NOUN",
+        "zh": "土豆（复数）",
+        "componentRole": "修饰语",
+        "componentZh": "土豆（复数）",
+        "parentComponentText": "some rice with potatoes and meatballs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；米饭；和；土豆（复数）；肉丸（复数）"
+      },
+      "10": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和",
+        "parentComponentText": "some rice with potatoes and meatballs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；米饭；和；土豆（复数）；肉丸（复数）"
+      },
+      "11": {
+        "text": "meatballs",
+        "phonetic": "ˈmiːt.bɔːlz",
+        "pos": "NOUN",
+        "zh": "肉丸（复数）",
+        "componentRole": "修饰语",
+        "componentZh": "肉丸（复数）",
+        "parentComponentText": "some rice with potatoes and meatballs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；米饭；和；土豆（复数）；肉丸（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ooj0fk41tmkvhufy0pspdhzp-2",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ooj0fk41tmkvhufy0pspdhzp-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "I would 的缩写",
+    "audioText": "I'd",
+    "fullEnglish": "I'd",
+    "phonetic": "aɪd",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'd",
+        "answer": "I'd",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "I would的缩写",
+        "phonetic": "aɪd",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I'd"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I'd",
+        "phonetic": "aɪd",
+        "pos": "PRON",
+        "zh": "I would的缩写",
+        "componentZh": "I would的缩写"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ooj0fk41tmkvhufy0pspdhzp-6",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ooj0fk41tmkvhufy0pspdhzp-6",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些",
+    "audioText": "some",
+    "fullEnglish": "some",
+    "phonetic": "sʌm; səm",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "some"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ooj0fk41tmkvhufy0pspdhzp-7",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ooj0fk41tmkvhufy0pspdhzp-7",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "米饭",
+    "audioText": "rice",
+    "fullEnglish": "rice",
+    "phonetic": "raɪs",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "rice",
+        "answer": "rice",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "米饭",
+        "phonetic": "raɪs",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "rice"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "rice",
+        "phonetic": "raɪs",
+        "pos": "NOUN",
+        "zh": "米饭",
+        "componentZh": "米饭"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ooj0fk41tmkvhufy0pspdhzp-8",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ooj0fk41tmkvhufy0pspdhzp-8",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "和",
+    "audioText": "with",
+    "fullEnglish": "with",
+    "phonetic": "wɪð; wɪθ",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "with",
+        "answer": "with",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "with"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "with",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "zh": "和",
+        "componentZh": "和"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ooj0fk41tmkvhufy0pspdhzp-9",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ooj0fk41tmkvhufy0pspdhzp-9",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "土豆（复数）",
+    "audioText": "potatoes",
+    "fullEnglish": "potatoes",
+    "phonetic": "pəˈtetoz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "potatoes",
+        "answer": "potatoes",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "土豆（复数）",
+        "phonetic": "pəˈtetoz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "potatoes"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "potatoes",
+        "phonetic": "pəˈtetoz",
+        "pos": "NOUN",
+        "zh": "土豆（复数）",
+        "componentZh": "土豆（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ooj0fk41tmkvhufy0pspdhzp-10",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ooj0fk41tmkvhufy0pspdhzp-10",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "和",
+    "audioText": "and",
+    "fullEnglish": "and",
+    "phonetic": "ænd; ənd",
+    "pos": "CCONJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "and"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ooj0fk41tmkvhufy0pspdhzp-11",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ooj0fk41tmkvhufy0pspdhzp-11",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "肉丸（复数）",
+    "audioText": "meatballs",
+    "fullEnglish": "meatballs",
+    "phonetic": "ˈmiːt.bɔːlz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "meatballs",
+        "answer": "meatballs",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "肉丸（复数）",
+        "phonetic": "ˈmiːt.bɔːlz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "meatballs"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "meatballs",
+        "phonetic": "ˈmiːt.bɔːlz",
+        "pos": "NOUN",
+        "zh": "肉丸（复数）",
+        "componentZh": "肉丸（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-S-p58bke92bgss4btb8pfj6ggy",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-S-p58bke92bgss4btb8pfj6ggy",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我爱中国菜。",
+    "audioText": "I love Chinese food",
+    "fullEnglish": "I love Chinese food",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "love",
+        "answer": "love",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "爱",
+        "phonetic": "lʌv",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "Chinese",
+        "answer": "Chinese",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "定语（形容词）",
+        "zh": "中国的",
+        "phonetic": "ˌtʃaɪˈniːz",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "Chinese food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "中国的；食物"
+      },
+      {
+        "index": 3,
+        "text": "food",
+        "answer": "food",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "食物",
+        "phonetic": "fuːd",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "Chinese food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "中国的；食物"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "Chinese",
+      "food",
+      "love"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "love",
+        "role": "谓语",
+        "zh": "爱"
+      },
+      {
+        "id": "ud-3",
+        "text": "Chinese food",
+        "role": "宾语",
+        "zh": "中国的；食物",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "Chinese",
+            "role": "定语（形容词）",
+            "zh": "中国的"
+          },
+          {
+            "id": "ud-5",
+            "text": "food",
+            "role": "中心词",
+            "zh": "食物"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "love",
+        "phonetic": "lʌv",
+        "pos": "VERB",
+        "zh": "爱",
+        "componentRole": "谓语",
+        "componentZh": "爱"
+      },
+      "2": {
+        "text": "Chinese",
+        "phonetic": "ˌtʃaɪˈniːz",
+        "pos": "ADJ",
+        "zh": "中国的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "中国的",
+        "parentComponentText": "Chinese food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "中国的；食物"
+      },
+      "3": {
+        "text": "food",
+        "phonetic": "fuːd",
+        "pos": "NOUN",
+        "zh": "食物",
+        "componentRole": "中心词",
+        "componentZh": "食物",
+        "parentComponentText": "Chinese food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "中国的；食物"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-p58bke92bgss4btb8pfj6ggy-1",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-p58bke92bgss4btb8pfj6ggy-1",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-p58bke92bgss4btb8pfj6ggy-2",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-p58bke92bgss4btb8pfj6ggy-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "爱",
+    "audioText": "love",
+    "fullEnglish": "love",
+    "phonetic": "lʌv",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "love",
+        "answer": "love",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "爱",
+        "phonetic": "lʌv",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "love"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "love",
+        "phonetic": "lʌv",
+        "pos": "VERB",
+        "zh": "爱",
+        "componentZh": "爱"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-p58bke92bgss4btb8pfj6ggy-3",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-p58bke92bgss4btb8pfj6ggy-3",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "中国的",
+    "audioText": "Chinese",
+    "fullEnglish": "Chinese",
+    "phonetic": "ˌtʃaɪˈniːz",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Chinese",
+        "answer": "Chinese",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "中国的",
+        "phonetic": "ˌtʃaɪˈniːz",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Chinese"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Chinese",
+        "phonetic": "ˌtʃaɪˈniːz",
+        "pos": "ADJ",
+        "zh": "中国的",
+        "componentZh": "中国的"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-p58bke92bgss4btb8pfj6ggy-4",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-p58bke92bgss4btb8pfj6ggy-4",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "食物",
+    "audioText": "food",
+    "fullEnglish": "food",
+    "phonetic": "fuːd",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "food",
+        "answer": "food",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "食物",
+        "phonetic": "fuːd",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "food"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "food",
+        "phonetic": "fuːd",
+        "pos": "NOUN",
+        "zh": "食物",
+        "componentZh": "食物"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-S-u4li2hqmre6xzbiqni6xoi86",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-S-u4li2hqmre6xzbiqni6xoi86",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你想吃什么，Baobao？",
+    "audioText": "What would you like to eat, Baobao?",
+    "fullEnglish": "What would you like to eat, Baobao?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "宾语",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "What to eat",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "什么；引导不定式；吃"
+      },
+      {
+        "index": 1,
+        "text": "would",
+        "answer": "would",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "助动词",
+        "zh": "will（过去式）: 表示过去将来时",
+        "phonetic": "wʊd",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "谓语",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "连接词",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "What to eat",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "什么；引导不定式；吃"
+      },
+      {
+        "index": 5,
+        "text": "eat",
+        "answer": "eat",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "吃",
+        "phonetic": "iːt",
+        "pos": "VERB",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "What to eat",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "什么；引导不定式；吃"
+      },
+      {
+        "index": 6,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你想吃什么，Baobao？"
+      },
+      {
+        "index": 7,
+        "text": "Baobao",
+        "answer": "Baobao",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "呼语",
+        "zh": "Baobao",
+        "phonetic": "baobao",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 8,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你想吃什么，Baobao？"
+      }
+    ],
+    "shuffledBlocks": [
+      "like",
+      "eat",
+      "would",
+      "you",
+      "What",
+      "Baobao",
+      "to"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What to eat",
+        "role": "不定式短语",
+        "zh": "什么；引导不定式；吃",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "What",
+            "role": "宾语",
+            "zh": "什么"
+          },
+          {
+            "id": "ud-3",
+            "text": "to",
+            "role": "连接词",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-4",
+            "text": "eat",
+            "role": "谓语",
+            "zh": "吃"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "would",
+        "role": "助动词",
+        "zh": "will（过去式）: 表示过去将来时"
+      },
+      {
+        "id": "ud-6",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-7",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-8",
+        "text": "Baobao",
+        "role": "呼语",
+        "zh": "Baobao"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "宾语",
+        "componentZh": "什么",
+        "parentComponentText": "What to eat",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "什么；引导不定式；吃"
+      },
+      "1": {
+        "text": "would",
+        "phonetic": "wʊd",
+        "pos": "AUX",
+        "zh": "will（过去式）: 表示过去将来时",
+        "componentRole": "助动词",
+        "componentZh": "will（过去式）: 表示过去将来时"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "3": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "谓语",
+        "componentZh": "喜欢"
+      },
+      "4": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentRole": "连接词",
+        "componentZh": "引导不定式",
+        "parentComponentText": "What to eat",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "什么；引导不定式；吃"
+      },
+      "5": {
+        "text": "eat",
+        "phonetic": "iːt",
+        "pos": "VERB",
+        "zh": "吃",
+        "componentRole": "谓语",
+        "componentZh": "吃",
+        "parentComponentText": "What to eat",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "什么；引导不定式；吃"
+      },
+      "7": {
+        "text": "Baobao",
+        "phonetic": "baobao",
+        "pos": "PROPN_PERSON",
+        "zh": "Baobao",
+        "componentRole": "呼语",
+        "componentZh": "Baobao"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-u4li2hqmre6xzbiqni6xoi86-6",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-u4li2hqmre6xzbiqni6xoi86-6",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "吃",
+    "audioText": "eat",
+    "fullEnglish": "eat",
+    "phonetic": "iːt",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "eat",
+        "answer": "eat",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "吃",
+        "phonetic": "iːt",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "eat"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "eat",
+        "phonetic": "iːt",
+        "pos": "VERB",
+        "zh": "吃",
+        "componentZh": "吃"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-S-hek3ny5rl1e02p22bo0slysb",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-S-hek3ny5rl1e02p22bo0slysb",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Baobao：嗯，今天我想尝试点不一样的。",
+    "audioText": "Baobao: Well, I'd like to try something different today",
+    "fullEnglish": "Baobao: Well, I'd like to try something different today",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Baobao",
+        "answer": "Baobao",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "Baobao",
+        "phonetic": "baobao",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 1,
+        "text": ":",
+        "answer": ":",
+        "blank": ":",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Baobao：嗯，今天我想尝试点不一样的。"
+      },
+      {
+        "index": 2,
+        "text": "Well",
+        "answer": "Well",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "语气/引导语",
+        "zh": "好吧",
+        "phonetic": "wel",
+        "pos": "INTJ"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Baobao：嗯，今天我想尝试点不一样的。"
+      },
+      {
+        "index": 4,
+        "text": "I'd",
+        "answer": "I'd",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "主语 + 助动词",
+        "zh": "I would的缩写",
+        "phonetic": "aɪd",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 6,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "连接词",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "to try something different today",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；尝试；某事；不同的；今天"
+      },
+      {
+        "index": 7,
+        "text": "try",
+        "answer": "try",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "谓语",
+        "zh": "尝试",
+        "phonetic": "traɪ",
+        "pos": "VERB",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "to try something different today",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；尝试；某事；不同的；今天"
+      },
+      {
+        "index": 8,
+        "text": "something",
+        "answer": "something",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "中心词",
+        "zh": "某事",
+        "phonetic": "ˈsʌmθɪŋ",
+        "pos": "PRON",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "something different",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "某事；不同的"
+      },
+      {
+        "index": 9,
+        "text": "different",
+        "answer": "different",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "定语（形容词）",
+        "zh": "不同的",
+        "phonetic": "ˈdɪfrənt",
+        "pos": "ADJ",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "something different",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "某事；不同的"
+      },
+      {
+        "index": 10,
+        "text": "today",
+        "answer": "today",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "时间状语",
+        "zh": "今天",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "to try something different today",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；尝试；某事；不同的；今天"
+      }
+    ],
+    "shuffledBlocks": [
+      "Baobao",
+      "Well",
+      "to",
+      "different",
+      "I'd",
+      "something",
+      "today",
+      "like",
+      "try"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Baobao",
+        "role": "中心成分",
+        "zh": "Baobao"
+      },
+      {
+        "id": "ud-2",
+        "text": "Well",
+        "role": "语气/引导语",
+        "zh": "好吧"
+      },
+      {
+        "id": "ud-3",
+        "text": "I'd",
+        "role": "主语 + 助动词",
+        "zh": "I would的缩写"
+      },
+      {
+        "id": "ud-4",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-5",
+        "text": "to try something different today",
+        "role": "不定式短语",
+        "zh": "引导不定式；尝试；某事；不同的；今天",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "to",
+            "role": "连接词",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-7",
+            "text": "try",
+            "role": "谓语",
+            "zh": "尝试"
+          },
+          {
+            "id": "ud-8",
+            "text": "something different",
+            "role": "宾语",
+            "zh": "某事；不同的",
+            "children": [
+              {
+                "id": "ud-9",
+                "text": "something",
+                "role": "中心词",
+                "zh": "某事"
+              },
+              {
+                "id": "ud-10",
+                "text": "different",
+                "role": "定语（形容词）",
+                "zh": "不同的"
+              }
+            ]
+          },
+          {
+            "id": "ud-11",
+            "text": "today",
+            "role": "时间状语",
+            "zh": "今天"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Baobao",
+        "phonetic": "baobao",
+        "pos": "PROPN_PERSON",
+        "zh": "Baobao",
+        "componentRole": "中心成分",
+        "componentZh": "Baobao"
+      },
+      "2": {
+        "text": "Well",
+        "phonetic": "wel",
+        "pos": "INTJ",
+        "zh": "好吧",
+        "componentRole": "语气/引导语",
+        "componentZh": "好吧"
+      },
+      "4": {
+        "text": "I'd",
+        "phonetic": "aɪd",
+        "pos": "PRON",
+        "zh": "I would的缩写",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "I would的缩写"
+      },
+      "5": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "谓语",
+        "componentZh": "喜欢"
+      },
+      "6": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentRole": "连接词",
+        "componentZh": "引导不定式",
+        "parentComponentText": "to try something different today",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；尝试；某事；不同的；今天"
+      },
+      "7": {
+        "text": "try",
+        "phonetic": "traɪ",
+        "pos": "VERB",
+        "zh": "尝试",
+        "componentRole": "谓语",
+        "componentZh": "尝试",
+        "parentComponentText": "to try something different today",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；尝试；某事；不同的；今天"
+      },
+      "8": {
+        "text": "something",
+        "phonetic": "ˈsʌmθɪŋ",
+        "pos": "PRON",
+        "zh": "某事",
+        "componentRole": "中心词",
+        "componentZh": "某事",
+        "parentComponentText": "something different",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "某事；不同的"
+      },
+      "9": {
+        "text": "different",
+        "phonetic": "ˈdɪfrənt",
+        "pos": "ADJ",
+        "zh": "不同的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "不同的",
+        "parentComponentText": "something different",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "某事；不同的"
+      },
+      "10": {
+        "text": "today",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN",
+        "zh": "今天",
+        "componentRole": "时间状语",
+        "componentZh": "今天",
+        "parentComponentText": "to try something different today",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；尝试；某事；不同的；今天"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-hek3ny5rl1e02p22bo0slysb-2",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-hek3ny5rl1e02p22bo0slysb-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好吧",
+    "audioText": "Well",
+    "fullEnglish": "Well",
+    "phonetic": "wel",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Well",
+        "answer": "Well",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "好吧",
+        "phonetic": "wel",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Well"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Well",
+        "phonetic": "wel",
+        "pos": "INTJ",
+        "zh": "好吧",
+        "componentZh": "好吧"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-hek3ny5rl1e02p22bo0slysb-6",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-hek3ny5rl1e02p22bo0slysb-6",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "尝试",
+    "audioText": "try",
+    "fullEnglish": "try",
+    "phonetic": "traɪ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "try",
+        "answer": "try",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "尝试",
+        "phonetic": "traɪ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "try"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "try",
+        "phonetic": "traɪ",
+        "pos": "VERB",
+        "zh": "尝试",
+        "componentZh": "尝试"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-hek3ny5rl1e02p22bo0slysb-7",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-hek3ny5rl1e02p22bo0slysb-7",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "某事",
+    "audioText": "something",
+    "fullEnglish": "something",
+    "phonetic": "ˈsʌmθɪŋ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "something",
+        "answer": "something",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "某事",
+        "phonetic": "ˈsʌmθɪŋ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "something"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "something",
+        "phonetic": "ˈsʌmθɪŋ",
+        "pos": "PRON",
+        "zh": "某事",
+        "componentZh": "某事"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-hek3ny5rl1e02p22bo0slysb-8",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-hek3ny5rl1e02p22bo0slysb-8",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不同的",
+    "audioText": "different",
+    "fullEnglish": "different",
+    "phonetic": "ˈdɪfrənt",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "different",
+        "answer": "different",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "不同的",
+        "phonetic": "ˈdɪfrənt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "different"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "different",
+        "phonetic": "ˈdɪfrənt",
+        "pos": "ADJ",
+        "zh": "不同的",
+        "componentZh": "不同的"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-hek3ny5rl1e02p22bo0slysb-9",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-hek3ny5rl1e02p22bo0slysb-9",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "今天",
+    "audioText": "today",
+    "fullEnglish": "today",
+    "phonetic": "təˈdeɪ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "today",
+        "answer": "today",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "今天",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "today"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "today",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN",
+        "zh": "今天",
+        "componentZh": "今天"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-S-yqynbei342ao948n6blz2s96",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-S-yqynbei342ao948n6blz2s96",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我想吃些牛排和番茄汤。",
+    "audioText": "I want to have some steak and tomato soup",
+    "fullEnglish": "I want to have some steak and tomato soup",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "want",
+        "answer": "want",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "想要",
+        "phonetic": "wɑːnt",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "连接词",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to have some steak and tomato soup",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃；一些；牛排；和；番茄；汤"
+      },
+      {
+        "index": 3,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "谓语",
+        "zh": "吃",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to have some steak and tomato soup",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃；一些；牛排；和；番茄；汤"
+      },
+      {
+        "index": 4,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "some steak and tomato soup",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；牛排；和；番茄；汤"
+      },
+      {
+        "index": 5,
+        "text": "steak",
+        "answer": "steak",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "牛排",
+        "phonetic": "steɪk",
+        "pos": "NOUN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "some steak and tomato soup",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；牛排；和；番茄；汤"
+      },
+      {
+        "index": 6,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "some steak and tomato soup",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；牛排；和；番茄；汤"
+      },
+      {
+        "index": 7,
+        "text": "tomato",
+        "answer": "tomato",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "定语（名词修饰）",
+        "zh": "番茄",
+        "phonetic": "təˈmeɪtoʊ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "some steak and tomato soup",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；牛排；和；番茄；汤"
+      },
+      {
+        "index": 8,
+        "text": "soup",
+        "answer": "soup",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "修饰语",
+        "zh": "汤",
+        "phonetic": "suːp",
+        "pos": "NOUN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "some steak and tomato soup",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；牛排；和；番茄；汤"
+      }
+    ],
+    "shuffledBlocks": [
+      "some",
+      "want",
+      "and",
+      "steak",
+      "to",
+      "tomato",
+      "soup",
+      "have",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "want",
+        "role": "谓语",
+        "zh": "想要"
+      },
+      {
+        "id": "ud-3",
+        "text": "to have some steak and tomato soup",
+        "role": "不定式短语",
+        "zh": "引导不定式；吃；一些；牛排；和；番茄；汤",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "to",
+            "role": "连接词",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-5",
+            "text": "have",
+            "role": "谓语",
+            "zh": "吃"
+          },
+          {
+            "id": "ud-6",
+            "text": "some steak and tomato soup",
+            "role": "宾语",
+            "zh": "一些；牛排；和；番茄；汤",
+            "children": [
+              {
+                "id": "ud-7",
+                "text": "some",
+                "role": "限定词",
+                "zh": "一些"
+              },
+              {
+                "id": "ud-8",
+                "text": "steak",
+                "role": "中心词",
+                "zh": "牛排"
+              },
+              {
+                "id": "ud-9",
+                "text": "and",
+                "role": "并列连词",
+                "zh": "和"
+              },
+              {
+                "id": "ud-10",
+                "text": "tomato",
+                "role": "定语（名词修饰）",
+                "zh": "番茄"
+              },
+              {
+                "id": "ud-11",
+                "text": "soup",
+                "role": "修饰语",
+                "zh": "汤"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "want",
+        "phonetic": "wɑːnt",
+        "pos": "VERB",
+        "zh": "想要",
+        "componentRole": "谓语",
+        "componentZh": "想要"
+      },
+      "2": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentRole": "连接词",
+        "componentZh": "引导不定式",
+        "parentComponentText": "to have some steak and tomato soup",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃；一些；牛排；和；番茄；汤"
+      },
+      "3": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "吃",
+        "componentRole": "谓语",
+        "componentZh": "吃",
+        "parentComponentText": "to have some steak and tomato soup",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃；一些；牛排；和；番茄；汤"
+      },
+      "4": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some steak and tomato soup",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；牛排；和；番茄；汤"
+      },
+      "5": {
+        "text": "steak",
+        "phonetic": "steɪk",
+        "pos": "NOUN",
+        "zh": "牛排",
+        "componentRole": "中心词",
+        "componentZh": "牛排",
+        "parentComponentText": "some steak and tomato soup",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；牛排；和；番茄；汤"
+      },
+      "6": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和",
+        "parentComponentText": "some steak and tomato soup",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；牛排；和；番茄；汤"
+      },
+      "7": {
+        "text": "tomato",
+        "phonetic": "təˈmeɪtoʊ",
+        "pos": "NOUN",
+        "zh": "番茄",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "番茄",
+        "parentComponentText": "some steak and tomato soup",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；牛排；和；番茄；汤"
+      },
+      "8": {
+        "text": "soup",
+        "phonetic": "suːp",
+        "pos": "NOUN",
+        "zh": "汤",
+        "componentRole": "修饰语",
+        "componentZh": "汤",
+        "parentComponentText": "some steak and tomato soup",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；牛排；和；番茄；汤"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-yqynbei342ao948n6blz2s96-2",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-yqynbei342ao948n6blz2s96-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "想要",
+    "audioText": "want",
+    "fullEnglish": "want",
+    "phonetic": "wɑːnt",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "want",
+        "answer": "want",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "想要",
+        "phonetic": "wɑːnt",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "want"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "want",
+        "phonetic": "wɑːnt",
+        "pos": "VERB",
+        "zh": "想要",
+        "componentZh": "想要"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-yqynbei342ao948n6blz2s96-6",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-yqynbei342ao948n6blz2s96-6",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "牛排",
+    "audioText": "steak",
+    "fullEnglish": "steak",
+    "phonetic": "steɪk",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "steak",
+        "answer": "steak",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "牛排",
+        "phonetic": "steɪk",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "steak"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "steak",
+        "phonetic": "steɪk",
+        "pos": "NOUN",
+        "zh": "牛排",
+        "componentZh": "牛排"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-yqynbei342ao948n6blz2s96-8",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-yqynbei342ao948n6blz2s96-8",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "番茄",
+    "audioText": "tomato",
+    "fullEnglish": "tomato",
+    "phonetic": "təˈmeɪtoʊ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "tomato",
+        "answer": "tomato",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "番茄",
+        "phonetic": "təˈmeɪtoʊ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "tomato"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "tomato",
+        "phonetic": "təˈmeɪtoʊ",
+        "pos": "NOUN",
+        "zh": "番茄",
+        "componentZh": "番茄"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-yqynbei342ao948n6blz2s96-9",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-yqynbei342ao948n6blz2s96-9",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "汤",
+    "audioText": "soup",
+    "fullEnglish": "soup",
+    "phonetic": "suːp",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "soup",
+        "answer": "soup",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "汤",
+        "phonetic": "suːp",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "soup"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "soup",
+        "phonetic": "suːp",
+        "pos": "NOUN",
+        "zh": "汤",
+        "componentZh": "汤"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-S-xx2fknlaewotc2xznaxhjnwh",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-S-xx2fknlaewotc2xznaxhjnwh",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Mike: 甜点要什么？",
+    "audioText": "Mike: And for dessert?",
+    "fullEnglish": "Mike: And for dessert?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Mike",
+        "answer": "Mike",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "Mike",
+        "phonetic": "maɪk",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 1,
+        "text": ":",
+        "answer": ":",
+        "blank": ":",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Mike: 甜点要什么？"
+      },
+      {
+        "index": 2,
+        "text": "And",
+        "answer": "And",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "And for dessert",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；为了；甜点"
+      },
+      {
+        "index": 3,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "介词",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "And for dessert",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；为了；甜点"
+      },
+      {
+        "index": 4,
+        "text": "dessert",
+        "answer": "dessert",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "甜点",
+        "phonetic": "dɪˈzɜːrt",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "And for dessert",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；为了；甜点"
+      },
+      {
+        "index": 5,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Mike: 甜点要什么？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Mike",
+      "for",
+      "dessert",
+      "And"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Mike",
+        "role": "中心成分",
+        "zh": "Mike"
+      },
+      {
+        "id": "ud-2",
+        "text": "And for dessert",
+        "role": "并列成分",
+        "zh": "和；为了；甜点",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "And",
+            "role": "并列连词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-4",
+            "text": "for",
+            "role": "介词",
+            "zh": "为了"
+          },
+          {
+            "id": "ud-5",
+            "text": "dessert",
+            "role": "中心词",
+            "zh": "甜点"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Mike",
+        "phonetic": "maɪk",
+        "pos": "PROPN_PERSON",
+        "zh": "Mike",
+        "componentRole": "中心成分",
+        "componentZh": "Mike"
+      },
+      "2": {
+        "text": "And",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和",
+        "parentComponentText": "And for dessert",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；为了；甜点"
+      },
+      "3": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentRole": "介词",
+        "componentZh": "为了",
+        "parentComponentText": "And for dessert",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；为了；甜点"
+      },
+      "4": {
+        "text": "dessert",
+        "phonetic": "dɪˈzɜːrt",
+        "pos": "NOUN",
+        "zh": "甜点",
+        "componentRole": "中心词",
+        "componentZh": "甜点",
+        "parentComponentText": "And for dessert",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；为了；甜点"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-xx2fknlaewotc2xznaxhjnwh-3",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-xx2fknlaewotc2xznaxhjnwh-3",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "为了",
+    "audioText": "for",
+    "fullEnglish": "for",
+    "phonetic": "fɔːr; fər",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "for"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentZh": "为了"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-xx2fknlaewotc2xznaxhjnwh-4",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-xx2fknlaewotc2xznaxhjnwh-4",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "甜点",
+    "audioText": "dessert",
+    "fullEnglish": "dessert",
+    "phonetic": "dɪˈzɜːrt",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "dessert",
+        "answer": "dessert",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "甜点",
+        "phonetic": "dɪˈzɜːrt",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "dessert"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "dessert",
+        "phonetic": "dɪˈzɜːrt",
+        "pos": "NOUN",
+        "zh": "甜点",
+        "componentZh": "甜点"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-S-ek0xf9y5jdcz689xmjzrb932",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-S-ek0xf9y5jdcz689xmjzrb932",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Baobao: 冰淇淋！那是我的最爱。",
+    "audioText": "Baobao: Ice cream! That's my favourite",
+    "fullEnglish": "Baobao: Ice cream! That's my favourite",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Baobao",
+        "answer": "Baobao",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "Baobao",
+        "phonetic": "baobao",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 1,
+        "text": ":",
+        "answer": ":",
+        "blank": ":",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Baobao: 冰淇淋！那是我的最爱。"
+      },
+      {
+        "index": 2,
+        "text": "Ice",
+        "answer": "Ice",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "定语（名词修饰）",
+        "zh": "冰",
+        "phonetic": "aɪs",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "Ice cream",
+        "parentComponentRole": "同位语",
+        "parentComponentZh": "冰；奶油"
+      },
+      {
+        "index": 3,
+        "text": "cream",
+        "answer": "cream",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "奶油",
+        "phonetic": "krim",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "Ice cream",
+        "parentComponentRole": "同位语",
+        "parentComponentZh": "冰；奶油"
+      },
+      {
+        "index": 4,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Baobao: 冰淇淋！那是我的最爱。"
+      },
+      {
+        "index": 5,
+        "text": "That's",
+        "answer": "That's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "主语 + 系动词",
+        "zh": "那是",
+        "phonetic": "ðæts",
+        "pos": "PRON"
+      },
+      {
+        "index": 6,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "补充成分",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 7,
+        "text": "favourite",
+        "answer": "favourite",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "表语",
+        "zh": "最爱",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Baobao",
+      "cream",
+      "favourite",
+      "my",
+      "That's",
+      "Ice"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Baobao",
+        "role": "中心成分",
+        "zh": "Baobao"
+      },
+      {
+        "id": "ud-2",
+        "text": "Ice cream",
+        "role": "同位语",
+        "zh": "冰；奶油",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "Ice",
+            "role": "定语（名词修饰）",
+            "zh": "冰"
+          },
+          {
+            "id": "ud-4",
+            "text": "cream",
+            "role": "中心词",
+            "zh": "奶油"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "That's",
+        "role": "主语 + 系动词",
+        "zh": "那是"
+      },
+      {
+        "id": "ud-6",
+        "text": "my",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-7",
+        "text": "favourite",
+        "role": "表语",
+        "zh": "最爱"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Baobao",
+        "phonetic": "baobao",
+        "pos": "PROPN_PERSON",
+        "zh": "Baobao",
+        "componentRole": "中心成分",
+        "componentZh": "Baobao"
+      },
+      "2": {
+        "text": "Ice",
+        "phonetic": "aɪs",
+        "pos": "NOUN",
+        "zh": "冰",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "冰",
+        "parentComponentText": "Ice cream",
+        "parentComponentRole": "同位语",
+        "parentComponentZh": "冰；奶油"
+      },
+      "3": {
+        "text": "cream",
+        "phonetic": "krim",
+        "pos": "NOUN",
+        "zh": "奶油",
+        "componentRole": "中心词",
+        "componentZh": "奶油",
+        "parentComponentText": "Ice cream",
+        "parentComponentRole": "同位语",
+        "parentComponentZh": "冰；奶油"
+      },
+      "5": {
+        "text": "That's",
+        "phonetic": "ðæts",
+        "pos": "PRON",
+        "zh": "那是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "那是"
+      },
+      "6": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "补充成分",
+        "componentZh": "我的"
+      },
+      "7": {
+        "text": "favourite",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "NOUN",
+        "zh": "最爱",
+        "componentRole": "表语",
+        "componentZh": "最爱"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ek0xf9y5jdcz689xmjzrb932-2",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ek0xf9y5jdcz689xmjzrb932-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "冰",
+    "audioText": "Ice",
+    "fullEnglish": "Ice",
+    "phonetic": "aɪs",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Ice",
+        "answer": "Ice",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "冰",
+        "phonetic": "aɪs",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Ice"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Ice",
+        "phonetic": "aɪs",
+        "pos": "NOUN",
+        "zh": "冰",
+        "componentZh": "冰"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ek0xf9y5jdcz689xmjzrb932-3",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ek0xf9y5jdcz689xmjzrb932-3",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "奶油",
+    "audioText": "cream",
+    "fullEnglish": "cream",
+    "phonetic": "krim",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "cream",
+        "answer": "cream",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "奶油",
+        "phonetic": "krim",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "cream"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "cream",
+        "phonetic": "krim",
+        "pos": "NOUN",
+        "zh": "奶油",
+        "componentZh": "奶油"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ek0xf9y5jdcz689xmjzrb932-4",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ek0xf9y5jdcz689xmjzrb932-4",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那是",
+    "audioText": "That's",
+    "fullEnglish": "That's",
+    "phonetic": "ðæts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "That's",
+        "answer": "That's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "那是",
+        "phonetic": "ðæts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "That's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "That's",
+        "phonetic": "ðæts",
+        "pos": "PRON",
+        "zh": "那是",
+        "componentZh": "那是"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ek0xf9y5jdcz689xmjzrb932-5",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ek0xf9y5jdcz689xmjzrb932-5",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的",
+    "audioText": "my",
+    "fullEnglish": "my",
+    "phonetic": "maɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "my"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ek0xf9y5jdcz689xmjzrb932-6",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-W-ek0xf9y5jdcz689xmjzrb932-6",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "最爱",
+    "audioText": "favourite",
+    "fullEnglish": "favourite",
+    "phonetic": "ˈfeɪvərɪt",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "favourite",
+        "answer": "favourite",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "最爱",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "favourite"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "favourite",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "NOUN",
+        "zh": "最爱",
+        "componentZh": "最爱"
+      }
+    }
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-u0w2iim5mpca4paad0mby28m",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-u0w2iim5mpca4paad0mby28m",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让我们",
+    "audioText": "Let's",
+    "fullEnglish": "Let's",
+    "phonetic": "lets",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "宾语 + 谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let's",
+        "role": "宾语 + 谓语",
+        "zh": "让我们"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentZh": "让我们",
+        "componentRole": "宾语 + 谓语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-fxp2bd19enssnuhw7ajemrh1",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-fxp2bd19enssnuhw7ajemrh1",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "吃午饭",
+    "audioText": "have lunch",
+    "fullEnglish": "have lunch",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "吃",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "lunch",
+        "answer": "lunch",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "午餐",
+        "phonetic": "lʌnʧ",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "宾语"
+      }
+    ],
+    "shuffledBlocks": [
+      "have",
+      "lunch"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "have",
+        "role": "谓语",
+        "zh": "吃"
+      },
+      {
+        "id": "ud-2",
+        "text": "lunch",
+        "role": "宾语",
+        "zh": "午餐"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "吃",
+        "componentZh": "吃",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "lunch",
+        "phonetic": "lʌnʧ",
+        "pos": "NOUN",
+        "zh": "午餐",
+        "componentZh": "午餐",
+        "componentRole": "宾语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-feeby5hv2s4l3onnkbrsm3y7",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-feeby5hv2s4l3onnkbrsm3y7",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Baobao: 好的",
+    "audioText": "Baobao: OK",
+    "fullEnglish": "Baobao: OK",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Baobao",
+        "answer": "Baobao",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "Baobao",
+        "phonetic": "baobao",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": ":",
+        "answer": ":",
+        "blank": ":",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Baobao: 好的"
+      },
+      {
+        "index": 2,
+        "text": "OK",
+        "answer": "OK",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "abbreviation",
+        "zh": "好的",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "INTJ",
+        "componentId": "ud-2",
+        "role": "语气/引导语"
+      }
+    ],
+    "shuffledBlocks": [
+      "OK",
+      "Baobao"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Baobao",
+        "role": "中心成分",
+        "zh": "Baobao"
+      },
+      {
+        "id": "ud-2",
+        "text": "OK",
+        "role": "语气/引导语",
+        "zh": "好的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Baobao",
+        "phonetic": "baobao",
+        "pos": "PROPN_PERSON",
+        "zh": "Baobao",
+        "componentZh": "Baobao",
+        "componentRole": "中心成分"
+      },
+      "2": {
+        "text": "OK",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "INTJ",
+        "zh": "好的",
+        "componentZh": "好的",
+        "componentRole": "语气/引导语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-xwzpbllq6fibo1r794zpktdd",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-xwzpbllq6fibo1r794zpktdd",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你会",
+    "audioText": "would you",
+    "fullEnglish": "would you",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "would",
+        "answer": "would",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "will（过去式）: 表示过去将来时",
+        "phonetic": "wʊd",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      }
+    ],
+    "shuffledBlocks": [
+      "would",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "would",
+        "role": "谓语",
+        "zh": "will（过去式）: 表示过去将来时"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "would",
+        "phonetic": "wʊd",
+        "pos": "AUX",
+        "zh": "will（过去式）: 表示过去将来时",
+        "componentZh": "will（过去式）: 表示过去将来时",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-pr15r83qvnjp7y45srxkm3lk",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-pr15r83qvnjp7y45srxkm3lk",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "想要",
+    "audioText": "like to have",
+    "fullEnglish": "like to have",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "componentId": "ud-3",
+        "role": "连接词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃"
+      },
+      {
+        "index": 2,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "吃",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃"
+      }
+    ],
+    "shuffledBlocks": [
+      "to",
+      "have",
+      "like"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-2",
+        "text": "to have",
+        "role": "不定式短语",
+        "zh": "引导不定式；吃",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "to",
+            "role": "连接词",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-4",
+            "text": "have",
+            "role": "谓语",
+            "zh": "吃"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentZh": "喜欢",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式",
+        "componentRole": "连接词",
+        "parentComponentText": "to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃"
+      },
+      "2": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "吃",
+        "componentZh": "吃",
+        "componentRole": "谓语",
+        "parentComponentText": "to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-c63rjysomd2vnsx87mrp4vzj",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-c63rjysomd2vnsx87mrp4vzj",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你想吃点什么？",
+    "audioText": "What would you like to have?",
+    "fullEnglish": "What would you like to have?",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "宾语",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "What to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "什么；引导不定式；吃"
+      },
+      {
+        "index": 1,
+        "text": "would",
+        "answer": "would",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "will（过去式）: 表示过去将来时",
+        "phonetic": "wʊd",
+        "pos": "AUX",
+        "componentId": "ud-5",
+        "role": "助动词"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-6",
+        "role": "主语"
+      },
+      {
+        "index": 3,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "componentId": "ud-7",
+        "role": "谓语"
+      },
+      {
+        "index": 4,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "componentId": "ud-3",
+        "role": "连接词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "What to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "什么；引导不定式；吃"
+      },
+      {
+        "index": 5,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "吃",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "What to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "什么；引导不定式；吃"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你想吃点什么？"
+      }
+    ],
+    "shuffledBlocks": [
+      "would",
+      "to",
+      "have",
+      "you",
+      "like",
+      "What"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What to have",
+        "role": "不定式短语",
+        "zh": "什么；引导不定式；吃",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "What",
+            "role": "宾语",
+            "zh": "什么"
+          },
+          {
+            "id": "ud-3",
+            "text": "to",
+            "role": "连接词",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-4",
+            "text": "have",
+            "role": "谓语",
+            "zh": "吃"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "would",
+        "role": "助动词",
+        "zh": "will（过去式）: 表示过去将来时"
+      },
+      {
+        "id": "ud-6",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-7",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么",
+        "componentRole": "宾语",
+        "parentComponentText": "What to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "什么；引导不定式；吃"
+      },
+      "1": {
+        "text": "would",
+        "phonetic": "wʊd",
+        "pos": "AUX",
+        "zh": "will（过去式）: 表示过去将来时",
+        "componentZh": "will（过去式）: 表示过去将来时",
+        "componentRole": "助动词"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "3": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentZh": "喜欢",
+        "componentRole": "谓语"
+      },
+      "4": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式",
+        "componentRole": "连接词",
+        "parentComponentText": "What to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "什么；引导不定式；吃"
+      },
+      "5": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "吃",
+        "componentZh": "吃",
+        "componentRole": "谓语",
+        "parentComponentText": "What to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "什么；引导不定式；吃"
+      }
+    },
+    "sentenceType": "特殊疑问句",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-ptxpieg48osz0blpnn5hczgc",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-ptxpieg48osz0blpnn5hczgc",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我想要吃",
+    "audioText": "I'd like to have",
+    "fullEnglish": "I'd like to have",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'd",
+        "answer": "I'd",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "I would的缩写",
+        "phonetic": "aɪd",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词"
+      },
+      {
+        "index": 1,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      },
+      {
+        "index": 2,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "componentId": "ud-4",
+        "role": "连接词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃"
+      },
+      {
+        "index": 3,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "吃",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "componentId": "ud-5",
+        "role": "谓语",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃"
+      }
+    ],
+    "shuffledBlocks": [
+      "have",
+      "I'd",
+      "like",
+      "to"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I'd",
+        "role": "主语 + 助动词",
+        "zh": "I would的缩写"
+      },
+      {
+        "id": "ud-2",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-3",
+        "text": "to have",
+        "role": "不定式短语",
+        "zh": "引导不定式；吃",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "to",
+            "role": "连接词",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-5",
+            "text": "have",
+            "role": "谓语",
+            "zh": "吃"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I'd",
+        "phonetic": "aɪd",
+        "pos": "PRON",
+        "zh": "I would的缩写",
+        "componentZh": "I would的缩写",
+        "componentRole": "主语 + 助动词"
+      },
+      "1": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentZh": "喜欢",
+        "componentRole": "谓语"
+      },
+      "2": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式",
+        "componentRole": "连接词",
+        "parentComponentText": "to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃"
+      },
+      "3": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "吃",
+        "componentZh": "吃",
+        "componentRole": "谓语",
+        "parentComponentText": "to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-fxbzia2up307lfbwvp781iom",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-fxbzia2up307lfbwvp781iom",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些米饭",
+    "audioText": "some rice",
+    "fullEnglish": "some rice",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "rice",
+        "answer": "rice",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "米饭",
+        "phonetic": "raɪs",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "rice",
+      "some"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "rice",
+        "role": "中心成分",
+        "zh": "米饭"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "rice",
+        "phonetic": "raɪs",
+        "pos": "NOUN",
+        "zh": "米饭",
+        "componentZh": "米饭",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-esgnvr4zt222ye20kl524god",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-esgnvr4zt222ye20kl524god",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "中餐",
+    "audioText": "Chinese food",
+    "fullEnglish": "Chinese food",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Chinese",
+        "answer": "Chinese",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "中国的",
+        "phonetic": "ˌtʃaɪˈniːz",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "food",
+        "answer": "food",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "食物",
+        "phonetic": "fuːd",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "food",
+      "Chinese"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Chinese",
+        "role": "补充成分",
+        "zh": "中国的"
+      },
+      {
+        "id": "ud-2",
+        "text": "food",
+        "role": "中心成分",
+        "zh": "食物"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Chinese",
+        "phonetic": "ˌtʃaɪˈniːz",
+        "pos": "ADJ",
+        "zh": "中国的",
+        "componentZh": "中国的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "food",
+        "phonetic": "fuːd",
+        "pos": "NOUN",
+        "zh": "食物",
+        "componentZh": "食物",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-fw16z6l15x1tul7kmui0c62c",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-fw16z6l15x1tul7kmui0c62c",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "吃",
+    "audioText": "to eat",
+    "fullEnglish": "to eat",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "componentId": "ud-1",
+        "role": "连接词"
+      },
+      {
+        "index": 1,
+        "text": "eat",
+        "answer": "eat",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "吃",
+        "phonetic": "iːt",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "eat",
+      "to"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "to",
+        "role": "连接词",
+        "zh": "引导不定式"
+      },
+      {
+        "id": "ud-2",
+        "text": "eat",
+        "role": "谓语",
+        "zh": "吃"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式",
+        "componentRole": "连接词"
+      },
+      "1": {
+        "text": "eat",
+        "phonetic": "iːt",
+        "pos": "VERB",
+        "zh": "吃",
+        "componentZh": "吃",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-nqqdnfparxxooez714dby2me",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-nqqdnfparxxooez714dby2me",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "想尝试",
+    "audioText": "like to try",
+    "fullEnglish": "like to try",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "componentId": "ud-3",
+        "role": "连接词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "to try",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；尝试"
+      },
+      {
+        "index": 2,
+        "text": "try",
+        "answer": "try",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "尝试",
+        "phonetic": "traɪ",
+        "pos": "VERB",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "to try",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；尝试"
+      }
+    ],
+    "shuffledBlocks": [
+      "try",
+      "to",
+      "like"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-2",
+        "text": "to try",
+        "role": "不定式短语",
+        "zh": "引导不定式；尝试",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "to",
+            "role": "连接词",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-4",
+            "text": "try",
+            "role": "谓语",
+            "zh": "尝试"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentZh": "喜欢",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式",
+        "componentRole": "连接词",
+        "parentComponentText": "to try",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；尝试"
+      },
+      "2": {
+        "text": "try",
+        "phonetic": "traɪ",
+        "pos": "VERB",
+        "zh": "尝试",
+        "componentZh": "尝试",
+        "componentRole": "谓语",
+        "parentComponentText": "to try",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；尝试"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-w9rosjs1lsb3pzclahim07ck",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-w9rosjs1lsb3pzclahim07ck",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不同的东西",
+    "audioText": "something different",
+    "fullEnglish": "something different",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "something",
+        "answer": "something",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "某事",
+        "phonetic": "ˈsʌmθɪŋ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": "different",
+        "answer": "different",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "不同的",
+        "phonetic": "ˈdɪfrənt",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "different",
+      "something"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "something",
+        "role": "中心成分",
+        "zh": "某事"
+      },
+      {
+        "id": "ud-2",
+        "text": "different",
+        "role": "补充成分",
+        "zh": "不同的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "something",
+        "phonetic": "ˈsʌmθɪŋ",
+        "pos": "PRON",
+        "zh": "某事",
+        "componentZh": "某事",
+        "componentRole": "中心成分"
+      },
+      "1": {
+        "text": "different",
+        "phonetic": "ˈdɪfrənt",
+        "pos": "ADJ",
+        "zh": "不同的",
+        "componentZh": "不同的",
+        "componentRole": "补充成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-rap4ag9g3c4ct4llit9ujyiw",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-rap4ag9g3c4ct4llit9ujyiw",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "想要",
+    "audioText": "want to have",
+    "fullEnglish": "want to have",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "want",
+        "answer": "want",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "想要",
+        "phonetic": "wɑːnt",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "componentId": "ud-3",
+        "role": "连接词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃"
+      },
+      {
+        "index": 2,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "吃",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃"
+      }
+    ],
+    "shuffledBlocks": [
+      "have",
+      "want",
+      "to"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "want",
+        "role": "谓语",
+        "zh": "想要"
+      },
+      {
+        "id": "ud-2",
+        "text": "to have",
+        "role": "不定式短语",
+        "zh": "引导不定式；吃",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "to",
+            "role": "连接词",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-4",
+            "text": "have",
+            "role": "谓语",
+            "zh": "吃"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "want",
+        "phonetic": "wɑːnt",
+        "pos": "VERB",
+        "zh": "想要",
+        "componentZh": "想要",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式",
+        "componentRole": "连接词",
+        "parentComponentText": "to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃"
+      },
+      "2": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "吃",
+        "componentZh": "吃",
+        "componentRole": "谓语",
+        "parentComponentText": "to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-ard3hzl8uhz65qwcui28o3v5",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-ard3hzl8uhz65qwcui28o3v5",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我想要",
+    "audioText": "I want to have",
+    "fullEnglish": "I want to have",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "want",
+        "answer": "want",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "想要",
+        "phonetic": "wɑːnt",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      },
+      {
+        "index": 2,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "componentId": "ud-4",
+        "role": "连接词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃"
+      },
+      {
+        "index": 3,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "吃",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "componentId": "ud-5",
+        "role": "谓语",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "have",
+      "to",
+      "want"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "want",
+        "role": "谓语",
+        "zh": "想要"
+      },
+      {
+        "id": "ud-3",
+        "text": "to have",
+        "role": "不定式短语",
+        "zh": "引导不定式；吃",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "to",
+            "role": "连接词",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-5",
+            "text": "have",
+            "role": "谓语",
+            "zh": "吃"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "want",
+        "phonetic": "wɑːnt",
+        "pos": "VERB",
+        "zh": "想要",
+        "componentZh": "想要",
+        "componentRole": "谓语"
+      },
+      "2": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式",
+        "componentRole": "连接词",
+        "parentComponentText": "to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃"
+      },
+      "3": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "吃",
+        "componentZh": "吃",
+        "componentRole": "谓语",
+        "parentComponentText": "to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；吃"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-skmm90t0015x9fz63lu28fcx",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-skmm90t0015x9fz63lu28fcx",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些牛排",
+    "audioText": "some steak",
+    "fullEnglish": "some steak",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "steak",
+        "answer": "steak",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "牛排",
+        "phonetic": "steɪk",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "steak",
+      "some"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "steak",
+        "role": "中心成分",
+        "zh": "牛排"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "steak",
+        "phonetic": "steɪk",
+        "pos": "NOUN",
+        "zh": "牛排",
+        "componentZh": "牛排",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-jbg0zfx798nqketgxl655qw8",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-jbg0zfx798nqketgxl655qw8",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "番茄汤",
+    "audioText": "tomato soup",
+    "fullEnglish": "tomato soup",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "tomato",
+        "answer": "tomato",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "番茄",
+        "phonetic": "təˈmeɪtoʊ",
+        "pos": "NOUN",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "soup",
+        "answer": "soup",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "汤",
+        "phonetic": "suːp",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "soup",
+      "tomato"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "tomato",
+        "role": "补充成分",
+        "zh": "番茄"
+      },
+      {
+        "id": "ud-2",
+        "text": "soup",
+        "role": "中心成分",
+        "zh": "汤"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "tomato",
+        "phonetic": "təˈmeɪtoʊ",
+        "pos": "NOUN",
+        "zh": "番茄",
+        "componentZh": "番茄",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "soup",
+        "phonetic": "suːp",
+        "pos": "NOUN",
+        "zh": "汤",
+        "componentZh": "汤",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-hrkfnhe3ol41ql2naxw9rfa4",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-hrkfnhe3ol41ql2naxw9rfa4",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些牛排和番茄汤",
+    "audioText": "some steak and tomato soup",
+    "fullEnglish": "some steak and tomato soup",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "steak",
+        "answer": "steak",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "牛排",
+        "phonetic": "steɪk",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      },
+      {
+        "index": 2,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "componentId": "ud-4",
+        "role": "并列连词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "and tomato soup",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；番茄；汤"
+      },
+      {
+        "index": 3,
+        "text": "tomato",
+        "answer": "tomato",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "番茄",
+        "phonetic": "təˈmeɪtoʊ",
+        "pos": "NOUN",
+        "componentId": "ud-5",
+        "role": "定语（名词修饰）",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "and tomato soup",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；番茄；汤"
+      },
+      {
+        "index": 4,
+        "text": "soup",
+        "answer": "soup",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "汤",
+        "phonetic": "suːp",
+        "pos": "NOUN",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "and tomato soup",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；番茄；汤"
+      }
+    ],
+    "shuffledBlocks": [
+      "and",
+      "tomato",
+      "soup",
+      "some",
+      "steak"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "steak",
+        "role": "中心成分",
+        "zh": "牛排"
+      },
+      {
+        "id": "ud-3",
+        "text": "and tomato soup",
+        "role": "并列成分",
+        "zh": "和；番茄；汤",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "and",
+            "role": "并列连词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-5",
+            "text": "tomato",
+            "role": "定语（名词修饰）",
+            "zh": "番茄"
+          },
+          {
+            "id": "ud-6",
+            "text": "soup",
+            "role": "中心词",
+            "zh": "汤"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "steak",
+        "phonetic": "steɪk",
+        "pos": "NOUN",
+        "zh": "牛排",
+        "componentZh": "牛排",
+        "componentRole": "中心成分"
+      },
+      "2": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和",
+        "componentRole": "并列连词",
+        "parentComponentText": "and tomato soup",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；番茄；汤"
+      },
+      "3": {
+        "text": "tomato",
+        "phonetic": "təˈmeɪtoʊ",
+        "pos": "NOUN",
+        "zh": "番茄",
+        "componentZh": "番茄",
+        "componentRole": "定语（名词修饰）",
+        "parentComponentText": "and tomato soup",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；番茄；汤"
+      },
+      "4": {
+        "text": "soup",
+        "phonetic": "suːp",
+        "pos": "NOUN",
+        "zh": "汤",
+        "componentZh": "汤",
+        "componentRole": "中心词",
+        "parentComponentText": "and tomato soup",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；番茄；汤"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-bxl4lrgem6ruyynkh7pkcffb",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-bxl4lrgem6ruyynkh7pkcffb",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "甜点",
+    "audioText": "for dessert",
+    "fullEnglish": "for dessert",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "dessert",
+        "answer": "dessert",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "甜点",
+        "phonetic": "dɪˈzɜːrt",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "for",
+      "dessert"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "for",
+        "role": "补充成分",
+        "zh": "为了"
+      },
+      {
+        "id": "ud-2",
+        "text": "dessert",
+        "role": "中心成分",
+        "zh": "甜点"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentZh": "为了",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "dessert",
+        "phonetic": "dɪˈzɜːrt",
+        "pos": "NOUN",
+        "zh": "甜点",
+        "componentZh": "甜点",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-gp9jldjn1xtw8trpfhb8i8bz",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-gp9jldjn1xtw8trpfhb8i8bz",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Baobao：冰淇淋！",
+    "audioText": "Baobao: Ice cream!",
+    "fullEnglish": "Baobao: Ice cream!",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Baobao",
+        "answer": "Baobao",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "Baobao",
+        "phonetic": "baobao",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": ":",
+        "answer": ":",
+        "blank": ":",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Baobao：冰淇淋！"
+      },
+      {
+        "index": 2,
+        "text": "Ice",
+        "answer": "Ice",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "冰",
+        "phonetic": "aɪs",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "定语（名词修饰）",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "Ice cream",
+        "parentComponentRole": "同位语",
+        "parentComponentZh": "冰；奶油"
+      },
+      {
+        "index": 3,
+        "text": "cream",
+        "answer": "cream",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "奶油",
+        "phonetic": "krim",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "Ice cream",
+        "parentComponentRole": "同位语",
+        "parentComponentZh": "冰；奶油"
+      },
+      {
+        "index": 4,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Baobao：冰淇淋！"
+      }
+    ],
+    "shuffledBlocks": [
+      "Baobao",
+      "Ice",
+      "cream"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Baobao",
+        "role": "中心成分",
+        "zh": "Baobao"
+      },
+      {
+        "id": "ud-2",
+        "text": "Ice cream",
+        "role": "同位语",
+        "zh": "冰；奶油",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "Ice",
+            "role": "定语（名词修饰）",
+            "zh": "冰"
+          },
+          {
+            "id": "ud-4",
+            "text": "cream",
+            "role": "中心词",
+            "zh": "奶油"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Baobao",
+        "phonetic": "baobao",
+        "pos": "PROPN_PERSON",
+        "zh": "Baobao",
+        "componentZh": "Baobao",
+        "componentRole": "中心成分"
+      },
+      "2": {
+        "text": "Ice",
+        "phonetic": "aɪs",
+        "pos": "NOUN",
+        "zh": "冰",
+        "componentZh": "冰",
+        "componentRole": "定语（名词修饰）",
+        "parentComponentText": "Ice cream",
+        "parentComponentRole": "同位语",
+        "parentComponentZh": "冰；奶油"
+      },
+      "3": {
+        "text": "cream",
+        "phonetic": "krim",
+        "pos": "NOUN",
+        "zh": "奶油",
+        "componentZh": "奶油",
+        "componentRole": "中心词",
+        "parentComponentText": "Ice cream",
+        "parentComponentRole": "同位语",
+        "parentComponentZh": "冰；奶油"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-kj5t3q0idry1rwpwaguberpq",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-kj5t3q0idry1rwpwaguberpq",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我最喜欢的",
+    "audioText": "my favourite",
+    "fullEnglish": "my favourite",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "favourite",
+        "answer": "favourite",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "最爱",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "my",
+      "favourite"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "my",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-2",
+        "text": "favourite",
+        "role": "中心成分",
+        "zh": "最爱"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "favourite",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "NOUN",
+        "zh": "最爱",
+        "componentZh": "最爱",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-uoumgo2s3ac1r0xhfe8102lp",
+    "contentId": "JLB-azdhmkfx5a09lvfkjpaj7utx-PHRASE-uoumgo2s3ac1r0xhfe8102lp",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "azdhmkfx5a09lvfkjpaj7utx",
+    "unitTitle": "Unit 5 Enjoy Eating-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那是我的最爱",
+    "audioText": "That's my favourite",
+    "fullEnglish": "That's my favourite",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "That's",
+        "answer": "That's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "那是",
+        "phonetic": "ðæts",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "favourite",
+        "answer": "favourite",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "最爱",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "That's",
+      "my",
+      "favourite"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "That's",
+        "role": "主语 + 系动词",
+        "zh": "那是"
+      },
+      {
+        "id": "ud-2",
+        "text": "my",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-3",
+        "text": "favourite",
+        "role": "表语",
+        "zh": "最爱"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "That's",
+        "phonetic": "ðæts",
+        "pos": "PRON",
+        "zh": "那是",
+        "componentZh": "那是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "favourite",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "NOUN",
+        "zh": "最爱",
+        "componentZh": "最爱",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

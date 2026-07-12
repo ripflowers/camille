@@ -1,0 +1,6604 @@
+[
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-S-6692089369a8024cb527092d",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-S-6692089369a8024cb527092d",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "嘿，好久不见，最近怎么样？",
+    "audioText": "Hey, long time no see, how have you been?",
+    "fullEnglish": "Hey, long time no see, how have you been?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Hey",
+        "answer": "Hey",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "嘿",
+        "phonetic": "heɪ",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "嘿，好久不见，最近怎么样？"
+      },
+      {
+        "index": 2,
+        "text": "long",
+        "answer": "long",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "定语（形容词）",
+        "zh": "长",
+        "phonetic": "lɔːŋ",
+        "pos": "ADJ",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "long time",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "长；时间"
+      },
+      {
+        "index": 3,
+        "text": "time",
+        "answer": "time",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "时间",
+        "phonetic": "taɪm",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "long time",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "长；时间"
+      },
+      {
+        "index": 4,
+        "text": "no",
+        "answer": "no",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "语气/引导语",
+        "zh": "不",
+        "phonetic": "noʊ",
+        "pos": "INTJ"
+      },
+      {
+        "index": 5,
+        "text": "see",
+        "answer": "see",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "谓语",
+        "zh": "看见",
+        "phonetic": "siː",
+        "pos": "VERB"
+      },
+      {
+        "index": 6,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "嘿，好久不见，最近怎么样？"
+      },
+      {
+        "index": 7,
+        "text": "how",
+        "answer": "how",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "方式/程度状语",
+        "zh": "如何",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "how have you been",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "如何；有；你；be（过去分词）: 构成现在完成时"
+      },
+      {
+        "index": 8,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "助动词",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "how have you been",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "如何；有；你；be（过去分词）: 构成现在完成时"
+      },
+      {
+        "index": 9,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "how have you been",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "如何；有；你；be（过去分词）: 构成现在完成时"
+      },
+      {
+        "index": 10,
+        "text": "been",
+        "answer": "been",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "谓语",
+        "zh": "be（过去分词）: 构成现在完成时",
+        "phonetic": "bɪn",
+        "pos": "VERB",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "how have you been",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "如何；有；你；be（过去分词）: 构成现在完成时"
+      },
+      {
+        "index": 11,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "嘿，好久不见，最近怎么样？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Hey",
+      "long",
+      "see",
+      "you",
+      "time",
+      "been",
+      "have",
+      "no",
+      "how"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Hey",
+        "role": "语气/引导语",
+        "zh": "嘿"
+      },
+      {
+        "id": "ud-2",
+        "text": "long time",
+        "role": "主语",
+        "zh": "长；时间",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "long",
+            "role": "定语（形容词）",
+            "zh": "长"
+          },
+          {
+            "id": "ud-4",
+            "text": "time",
+            "role": "中心词",
+            "zh": "时间"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "no",
+        "role": "语气/引导语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-6",
+        "text": "see",
+        "role": "谓语",
+        "zh": "看见"
+      },
+      {
+        "id": "ud-7",
+        "text": "how have you been",
+        "role": "补充成分",
+        "zh": "如何；有；你；be（过去分词）: 构成现在完成时",
+        "children": [
+          {
+            "id": "ud-8",
+            "text": "how",
+            "role": "方式/程度状语",
+            "zh": "如何"
+          },
+          {
+            "id": "ud-9",
+            "text": "have",
+            "role": "助动词",
+            "zh": "有"
+          },
+          {
+            "id": "ud-10",
+            "text": "you",
+            "role": "主语",
+            "zh": "你"
+          },
+          {
+            "id": "ud-11",
+            "text": "been",
+            "role": "谓语",
+            "zh": "be（过去分词）: 构成现在完成时"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Hey",
+        "phonetic": "heɪ",
+        "pos": "INTJ",
+        "zh": "嘿",
+        "componentRole": "语气/引导语",
+        "componentZh": "嘿"
+      },
+      "2": {
+        "text": "long",
+        "phonetic": "lɔːŋ",
+        "pos": "ADJ",
+        "zh": "长",
+        "componentRole": "定语（形容词）",
+        "componentZh": "长",
+        "parentComponentText": "long time",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "长；时间"
+      },
+      "3": {
+        "text": "time",
+        "phonetic": "taɪm",
+        "pos": "NOUN",
+        "zh": "时间",
+        "componentRole": "中心词",
+        "componentZh": "时间",
+        "parentComponentText": "long time",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "长；时间"
+      },
+      "4": {
+        "text": "no",
+        "phonetic": "noʊ",
+        "pos": "INTJ",
+        "zh": "不",
+        "componentRole": "语气/引导语",
+        "componentZh": "不"
+      },
+      "5": {
+        "text": "see",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "zh": "看见",
+        "componentRole": "谓语",
+        "componentZh": "看见"
+      },
+      "7": {
+        "text": "how",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "zh": "如何",
+        "componentRole": "方式/程度状语",
+        "componentZh": "如何",
+        "parentComponentText": "how have you been",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "如何；有；你；be（过去分词）: 构成现在完成时"
+      },
+      "8": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "助动词",
+        "componentZh": "有",
+        "parentComponentText": "how have you been",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "如何；有；你；be（过去分词）: 构成现在完成时"
+      },
+      "9": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你",
+        "parentComponentText": "how have you been",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "如何；有；你；be（过去分词）: 构成现在完成时"
+      },
+      "10": {
+        "text": "been",
+        "phonetic": "bɪn",
+        "pos": "VERB",
+        "zh": "be（过去分词）: 构成现在完成时",
+        "componentRole": "谓语",
+        "componentZh": "be（过去分词）: 构成现在完成时",
+        "parentComponentText": "how have you been",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "如何；有；你；be（过去分词）: 构成现在完成时"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092d-1",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092d-1",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "嘿",
+    "audioText": "Hey",
+    "fullEnglish": "Hey",
+    "phonetic": "heɪ",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Hey",
+        "answer": "Hey",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "嘿",
+        "phonetic": "heɪ",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Hey"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Hey",
+        "phonetic": "heɪ",
+        "pos": "INTJ",
+        "zh": "嘿",
+        "componentZh": "嘿"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092d-2",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092d-2",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "长的",
+    "audioText": "long",
+    "fullEnglish": "long",
+    "phonetic": "lɔːŋ",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "long",
+        "answer": "long",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "长",
+        "phonetic": "lɔːŋ",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "long"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "long",
+        "phonetic": "lɔːŋ",
+        "pos": "ADJ",
+        "zh": "长",
+        "componentZh": "长"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092d-3",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092d-3",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "时间",
+    "audioText": "time",
+    "fullEnglish": "time",
+    "phonetic": "taɪm",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "time",
+        "answer": "time",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "时间",
+        "phonetic": "taɪm",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "time"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "time",
+        "phonetic": "taɪm",
+        "pos": "NOUN",
+        "zh": "时间",
+        "componentZh": "时间"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092d-4",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092d-4",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "没有",
+    "audioText": "no",
+    "fullEnglish": "no",
+    "phonetic": "noʊ",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "no",
+        "answer": "no",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "noʊ",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "no"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "no",
+        "phonetic": "noʊ",
+        "pos": "INTJ",
+        "zh": "不",
+        "componentZh": "不"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092d-5",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092d-5",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "看见",
+    "audioText": "see",
+    "fullEnglish": "see",
+    "phonetic": "siː",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "see",
+        "answer": "see",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "看见",
+        "phonetic": "siː",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "see"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "see",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "zh": "看见",
+        "componentZh": "看见"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092d-6",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092d-6",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "如何",
+    "audioText": "how",
+    "fullEnglish": "how",
+    "phonetic": "haʊ",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "how",
+        "answer": "how",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "如何",
+        "phonetic": "haʊ",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "how"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "how",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "zh": "如何",
+        "componentZh": "如何"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092d-7",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092d-7",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "有",
+    "audioText": "have",
+    "fullEnglish": "have",
+    "phonetic": "hæv",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "have"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092d-8",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092d-8",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092d-9",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092d-9",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "be（过去分词）: 构成现在完成时",
+    "audioText": "been",
+    "fullEnglish": "been",
+    "phonetic": "bɪn",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "been",
+        "answer": "been",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "be（过去分词）: 构成现在完成时",
+        "phonetic": "bɪn",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "been"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "been",
+        "phonetic": "bɪn",
+        "pos": "VERB",
+        "zh": "be（过去分词）: 构成现在完成时",
+        "componentZh": "be（过去分词）: 构成现在完成时"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-S-6692089369a8024cb527092e",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-S-6692089369a8024cb527092e",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我很好，谢谢，你呢？",
+    "audioText": "I've been good, thanks, what about you",
+    "fullEnglish": "I've been good, thanks, what about you",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I've",
+        "answer": "I've",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词",
+        "zh": "我",
+        "phonetic": "aɪv",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "been",
+        "answer": "been",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "系动词",
+        "zh": "be（过去分词）: 构成现在完成时",
+        "phonetic": "bɪn",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "good",
+        "answer": "good",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "好的",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我很好，谢谢，你呢？"
+      },
+      {
+        "index": 4,
+        "text": "thanks",
+        "answer": "thanks",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "语气/引导语",
+        "zh": "感谢",
+        "phonetic": "θæŋks",
+        "pos": "NOUN"
+      },
+      {
+        "index": 5,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我很好，谢谢，你呢？"
+      },
+      {
+        "index": 6,
+        "text": "what",
+        "answer": "what",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "what about you",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "什么；大约；你"
+      },
+      {
+        "index": 7,
+        "text": "about",
+        "answer": "about",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "介词",
+        "zh": "大约",
+        "phonetic": "əˈbaʊt",
+        "pos": "ADP",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "what about you",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "什么；大约；你"
+      },
+      {
+        "index": 8,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "修饰语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "what about you",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "什么；大约；你"
+      }
+    ],
+    "shuffledBlocks": [
+      "thanks",
+      "I've",
+      "been",
+      "good",
+      "about",
+      "what",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I've",
+        "role": "主语 + 助动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "been",
+        "role": "系动词",
+        "zh": "be（过去分词）: 构成现在完成时"
+      },
+      {
+        "id": "ud-3",
+        "text": "good",
+        "role": "表语",
+        "zh": "好的"
+      },
+      {
+        "id": "ud-4",
+        "text": "thanks",
+        "role": "语气/引导语",
+        "zh": "感谢"
+      },
+      {
+        "id": "ud-5",
+        "text": "what about you",
+        "role": "补充成分",
+        "zh": "什么；大约；你",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "what",
+            "role": "中心词",
+            "zh": "什么"
+          },
+          {
+            "id": "ud-7",
+            "text": "about",
+            "role": "介词",
+            "zh": "大约"
+          },
+          {
+            "id": "ud-8",
+            "text": "you",
+            "role": "修饰语",
+            "zh": "你"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I've",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "been",
+        "phonetic": "bɪn",
+        "pos": "VERB",
+        "zh": "be（过去分词）: 构成现在完成时",
+        "componentRole": "系动词",
+        "componentZh": "be（过去分词）: 构成现在完成时"
+      },
+      "2": {
+        "text": "good",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentRole": "表语",
+        "componentZh": "好的"
+      },
+      "4": {
+        "text": "thanks",
+        "phonetic": "θæŋks",
+        "pos": "NOUN",
+        "zh": "感谢",
+        "componentRole": "语气/引导语",
+        "componentZh": "感谢"
+      },
+      "6": {
+        "text": "what",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "中心词",
+        "componentZh": "什么",
+        "parentComponentText": "what about you",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "什么；大约；你"
+      },
+      "7": {
+        "text": "about",
+        "phonetic": "əˈbaʊt",
+        "pos": "ADP",
+        "zh": "大约",
+        "componentRole": "介词",
+        "componentZh": "大约",
+        "parentComponentText": "what about you",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "什么；大约；你"
+      },
+      "8": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "修饰语",
+        "componentZh": "你",
+        "parentComponentText": "what about you",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "什么；大约；你"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092e-1",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092e-1",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I've",
+    "fullEnglish": "I've",
+    "phonetic": "aɪv",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I've",
+        "answer": "I've",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪv",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I've"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I've",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092e-3",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092e-3",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好的",
+    "audioText": "good",
+    "fullEnglish": "good",
+    "phonetic": "ɡʊd",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "good",
+        "answer": "good",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "好的",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "good"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "good",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentZh": "好的"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092e-4",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092e-4",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "感谢",
+    "audioText": "thanks",
+    "fullEnglish": "thanks",
+    "phonetic": "θæŋks",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "thanks",
+        "answer": "thanks",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "感谢",
+        "phonetic": "θæŋks",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "thanks"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "thanks",
+        "phonetic": "θæŋks",
+        "pos": "NOUN",
+        "zh": "感谢",
+        "componentZh": "感谢"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092e-5",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092e-5",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么",
+    "audioText": "what",
+    "fullEnglish": "what",
+    "phonetic": "wʌt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "what",
+        "answer": "what",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "what"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "what",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092e-6",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092e-6",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "关于",
+    "audioText": "about",
+    "fullEnglish": "about",
+    "phonetic": "əˈbaʊt",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "about",
+        "answer": "about",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "大约",
+        "phonetic": "əˈbaʊt",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "about"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "about",
+        "phonetic": "əˈbaʊt",
+        "pos": "ADP",
+        "zh": "大约",
+        "componentZh": "大约"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-S-6692089369a8024cb527092f",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-S-6692089369a8024cb527092f",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我很好，你最近有约翰的消息吗？",
+    "audioText": "I'm doing well have you heard from John lately",
+    "fullEnglish": "I'm doing well have you heard from John lately",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词",
+        "zh": "我是",
+        "phonetic": "aɪm",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "doing",
+        "answer": "doing",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "做（现在分词）: 做",
+        "phonetic": "ˈduːɪŋ",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "well",
+        "answer": "well",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "方式/程度状语",
+        "zh": "好",
+        "phonetic": "wel",
+        "pos": "ADV"
+      },
+      {
+        "index": 3,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "助动词",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "have you heard from John lately",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "有；你；hear（过去分词）: 听到；从；John；最近"
+      },
+      {
+        "index": 4,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "have you heard from John lately",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "有；你；hear（过去分词）: 听到；从；John；最近"
+      },
+      {
+        "index": 5,
+        "text": "heard",
+        "answer": "heard",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "谓语",
+        "zh": "hear（过去分词）: 听到",
+        "phonetic": "hɜːrd",
+        "pos": "VERB",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "have you heard from John lately",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "有；你；hear（过去分词）: 听到；从；John；最近"
+      },
+      {
+        "index": 6,
+        "text": "from",
+        "answer": "from",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "介词",
+        "zh": "从",
+        "phonetic": "frʌm",
+        "pos": "ADP",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "from John",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "从；John"
+      },
+      {
+        "index": 7,
+        "text": "John",
+        "answer": "John",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "中心词",
+        "zh": "John",
+        "phonetic": "dʒɑːn",
+        "pos": "PROPN_PERSON",
+        "parentComponentId": "ud-10",
+        "parentComponentText": "John",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "John"
+      },
+      {
+        "index": 8,
+        "text": "lately",
+        "answer": "lately",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-12",
+        "role": "方式/程度状语",
+        "zh": "最近",
+        "phonetic": "ˈleɪtli",
+        "pos": "ADV",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "have you heard from John lately",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "有；你；hear（过去分词）: 听到；从；John；最近"
+      }
+    ],
+    "shuffledBlocks": [
+      "I'm",
+      "from",
+      "have",
+      "John",
+      "lately",
+      "doing",
+      "well",
+      "heard",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I'm",
+        "role": "主语 + 助动词",
+        "zh": "我是"
+      },
+      {
+        "id": "ud-2",
+        "text": "doing",
+        "role": "谓语",
+        "zh": "做（现在分词）: 做"
+      },
+      {
+        "id": "ud-3",
+        "text": "well",
+        "role": "方式/程度状语",
+        "zh": "好"
+      },
+      {
+        "id": "ud-4",
+        "text": "have you heard from John lately",
+        "role": "补充成分",
+        "zh": "有；你；hear（过去分词）: 听到；从；John；最近",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "have",
+            "role": "助动词",
+            "zh": "有"
+          },
+          {
+            "id": "ud-6",
+            "text": "you",
+            "role": "主语",
+            "zh": "你"
+          },
+          {
+            "id": "ud-7",
+            "text": "heard",
+            "role": "谓语",
+            "zh": "hear（过去分词）: 听到"
+          },
+          {
+            "id": "ud-8",
+            "text": "from John",
+            "role": "地点状语",
+            "zh": "从；John",
+            "children": [
+              {
+                "id": "ud-9",
+                "text": "from",
+                "role": "介词",
+                "zh": "从"
+              },
+              {
+                "id": "ud-10",
+                "text": "John",
+                "role": "介词宾语",
+                "zh": "John",
+                "children": [
+                  {
+                    "id": "ud-11",
+                    "text": "John",
+                    "role": "中心词",
+                    "zh": "John"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ud-12",
+            "text": "lately",
+            "role": "方式/程度状语",
+            "zh": "最近"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我是",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "我是"
+      },
+      "1": {
+        "text": "doing",
+        "phonetic": "ˈduːɪŋ",
+        "pos": "VERB",
+        "zh": "做（现在分词）: 做",
+        "componentRole": "谓语",
+        "componentZh": "做（现在分词）: 做"
+      },
+      "2": {
+        "text": "well",
+        "phonetic": "wel",
+        "pos": "ADV",
+        "zh": "好",
+        "componentRole": "方式/程度状语",
+        "componentZh": "好"
+      },
+      "3": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "助动词",
+        "componentZh": "有",
+        "parentComponentText": "have you heard from John lately",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "有；你；hear（过去分词）: 听到；从；John；最近"
+      },
+      "4": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你",
+        "parentComponentText": "have you heard from John lately",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "有；你；hear（过去分词）: 听到；从；John；最近"
+      },
+      "5": {
+        "text": "heard",
+        "phonetic": "hɜːrd",
+        "pos": "VERB",
+        "zh": "hear（过去分词）: 听到",
+        "componentRole": "谓语",
+        "componentZh": "hear（过去分词）: 听到",
+        "parentComponentText": "have you heard from John lately",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "有；你；hear（过去分词）: 听到；从；John；最近"
+      },
+      "6": {
+        "text": "from",
+        "phonetic": "frʌm",
+        "pos": "ADP",
+        "zh": "从",
+        "componentRole": "介词",
+        "componentZh": "从",
+        "parentComponentText": "from John",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "从；John"
+      },
+      "7": {
+        "text": "John",
+        "phonetic": "dʒɑːn",
+        "pos": "PROPN_PERSON",
+        "zh": "John",
+        "componentRole": "中心词",
+        "componentZh": "John",
+        "parentComponentText": "John",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "John"
+      },
+      "8": {
+        "text": "lately",
+        "phonetic": "ˈleɪtli",
+        "pos": "ADV",
+        "zh": "最近",
+        "componentRole": "方式/程度状语",
+        "componentZh": "最近",
+        "parentComponentText": "have you heard from John lately",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "有；你；hear（过去分词）: 听到；从；John；最近"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092f-1",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092f-1",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我是",
+    "audioText": "I'm",
+    "fullEnglish": "I'm",
+    "phonetic": "aɪm",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我是",
+        "phonetic": "aɪm",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I'm"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我是",
+        "componentZh": "我是"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092f-2",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092f-2",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "做（现在分词）: 做",
+    "audioText": "doing",
+    "fullEnglish": "doing",
+    "phonetic": "ˈduːɪŋ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "doing",
+        "answer": "doing",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "做（现在分词）: 做",
+        "phonetic": "ˈduːɪŋ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "doing"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "doing",
+        "phonetic": "ˈduːɪŋ",
+        "pos": "VERB",
+        "zh": "做（现在分词）: 做",
+        "componentZh": "做（现在分词）: 做"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092f-3",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092f-3",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好",
+    "audioText": "well",
+    "fullEnglish": "well",
+    "phonetic": "wel",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "well",
+        "answer": "well",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "好",
+        "phonetic": "wel",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "well"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "well",
+        "phonetic": "wel",
+        "pos": "ADV",
+        "zh": "好",
+        "componentZh": "好"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092f-6",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092f-6",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "hear（过去分词）: 听到",
+    "audioText": "heard",
+    "fullEnglish": "heard",
+    "phonetic": "hɜːrd",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "heard",
+        "answer": "heard",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "hear（过去分词）: 听到",
+        "phonetic": "hɜːrd",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "heard"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "heard",
+        "phonetic": "hɜːrd",
+        "pos": "VERB",
+        "zh": "hear（过去分词）: 听到",
+        "componentZh": "hear（过去分词）: 听到"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092f-7",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092f-7",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "从",
+    "audioText": "from",
+    "fullEnglish": "from",
+    "phonetic": "frʌm",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "from",
+        "answer": "from",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "从",
+        "phonetic": "frʌm",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "from"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "from",
+        "phonetic": "frʌm",
+        "pos": "ADP",
+        "zh": "从",
+        "componentZh": "从"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092f-8",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092f-8",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "John",
+    "audioText": "John",
+    "fullEnglish": "John",
+    "phonetic": "dʒɑːn",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "John",
+        "answer": "John",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "John",
+        "phonetic": "dʒɑːn",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "John"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "John",
+        "phonetic": "dʒɑːn",
+        "pos": "PROPN_PERSON",
+        "zh": "John",
+        "componentZh": "John"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092f-9",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb527092f-9",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "最近",
+    "audioText": "lately",
+    "fullEnglish": "lately",
+    "phonetic": "ˈleɪtli",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "lately",
+        "answer": "lately",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "最近",
+        "phonetic": "ˈleɪtli",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "lately"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "lately",
+        "phonetic": "ˈleɪtli",
+        "pos": "ADV",
+        "zh": "最近",
+        "componentZh": "最近"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-S-6692089369a8024cb5270930",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-S-6692089369a8024cb5270930",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的，他刚在纽约找到了一份新工作",
+    "audioText": "yeah, he just got a new job in New York",
+    "fullEnglish": "yeah, he just got a new job in New York",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "yeah",
+        "answer": "yeah",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "是的",
+        "phonetic": "jeə",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，他刚在纽约找到了一份新工作"
+      },
+      {
+        "index": 2,
+        "text": "he",
+        "answer": "he",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "他",
+        "phonetic": "hiː",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "just",
+        "answer": "just",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "方式/程度状语",
+        "zh": "就",
+        "phonetic": "dʒʌst",
+        "pos": "ADV"
+      },
+      {
+        "index": 4,
+        "text": "got",
+        "answer": "got",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB"
+      },
+      {
+        "index": 5,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "a new job",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；新的；工作"
+      },
+      {
+        "index": 6,
+        "text": "new",
+        "answer": "new",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "定语（形容词）",
+        "zh": "新的",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "a new job",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；新的；工作"
+      },
+      {
+        "index": 7,
+        "text": "job",
+        "answer": "job",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "工作",
+        "phonetic": "dʒɑːb",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "a new job",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；新的；工作"
+      },
+      {
+        "index": 8,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "介词",
+        "zh": "在",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "in New York",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；新的；是的，他刚在纽约找到了一份新工作"
+      },
+      {
+        "index": 9,
+        "text": "New",
+        "answer": "New",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-12",
+        "role": "定语（形容词）",
+        "zh": "新的",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "parentComponentId": "ud-11",
+        "parentComponentText": "New York",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "新的；是的，他刚在纽约找到了一份新工作"
+      },
+      {
+        "index": 10,
+        "text": "York",
+        "answer": "York",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-13",
+        "role": "中心词",
+        "zh": "是的，他刚在纽约找到了一份新工作",
+        "parentComponentId": "ud-11",
+        "parentComponentText": "New York",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "新的；是的，他刚在纽约找到了一份新工作"
+      }
+    ],
+    "shuffledBlocks": [
+      "job",
+      "a",
+      "New",
+      "in",
+      "new",
+      "York",
+      "just",
+      "he",
+      "yeah",
+      "got"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "yeah",
+        "role": "语气/引导语",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "he",
+        "role": "主语",
+        "zh": "他"
+      },
+      {
+        "id": "ud-3",
+        "text": "just",
+        "role": "方式/程度状语",
+        "zh": "就"
+      },
+      {
+        "id": "ud-4",
+        "text": "got",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到"
+      },
+      {
+        "id": "ud-5",
+        "text": "a new job",
+        "role": "宾语",
+        "zh": "一个；新的；工作",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-7",
+            "text": "new",
+            "role": "定语（形容词）",
+            "zh": "新的"
+          },
+          {
+            "id": "ud-8",
+            "text": "job",
+            "role": "中心词",
+            "zh": "工作"
+          }
+        ]
+      },
+      {
+        "id": "ud-9",
+        "text": "in New York",
+        "role": "地点状语",
+        "zh": "在；新的；是的，他刚在纽约找到了一份新工作",
+        "children": [
+          {
+            "id": "ud-10",
+            "text": "in",
+            "role": "介词",
+            "zh": "在"
+          },
+          {
+            "id": "ud-11",
+            "text": "New York",
+            "role": "介词宾语",
+            "zh": "新的；是的，他刚在纽约找到了一份新工作",
+            "children": [
+              {
+                "id": "ud-12",
+                "text": "New",
+                "role": "定语（形容词）",
+                "zh": "新的"
+              },
+              {
+                "id": "ud-13",
+                "text": "York",
+                "role": "中心词",
+                "zh": "是的，他刚在纽约找到了一份新工作"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "yeah",
+        "phonetic": "jeə",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentRole": "语气/引导语",
+        "componentZh": "是的"
+      },
+      "2": {
+        "text": "he",
+        "phonetic": "hiː",
+        "pos": "PRON",
+        "zh": "他",
+        "componentRole": "主语",
+        "componentZh": "他"
+      },
+      "3": {
+        "text": "just",
+        "phonetic": "dʒʌst",
+        "pos": "ADV",
+        "zh": "就",
+        "componentRole": "方式/程度状语",
+        "componentZh": "就"
+      },
+      "4": {
+        "text": "got",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "zh": "get（过去式）: 得到",
+        "componentRole": "谓语",
+        "componentZh": "get（过去式）: 得到"
+      },
+      "5": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "a new job",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；新的；工作"
+      },
+      "6": {
+        "text": "new",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "zh": "新的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "新的",
+        "parentComponentText": "a new job",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；新的；工作"
+      },
+      "7": {
+        "text": "job",
+        "phonetic": "dʒɑːb",
+        "pos": "NOUN",
+        "zh": "工作",
+        "componentRole": "中心词",
+        "componentZh": "工作",
+        "parentComponentText": "a new job",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；新的；工作"
+      },
+      "8": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在",
+        "componentRole": "介词",
+        "componentZh": "在",
+        "parentComponentText": "in New York",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；新的；是的，他刚在纽约找到了一份新工作"
+      },
+      "9": {
+        "text": "New",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "zh": "新的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "新的",
+        "parentComponentText": "New York",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "新的；是的，他刚在纽约找到了一份新工作"
+      },
+      "10": {
+        "text": "York",
+        "zh": "是的，他刚在纽约找到了一份新工作",
+        "componentRole": "中心词",
+        "componentZh": "是的，他刚在纽约找到了一份新工作",
+        "parentComponentText": "New York",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "新的；是的，他刚在纽约找到了一份新工作"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270930-1",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270930-1",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的",
+    "audioText": "yeah",
+    "fullEnglish": "yeah",
+    "phonetic": "jeə",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "yeah",
+        "answer": "yeah",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jeə",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "yeah"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "yeah",
+        "phonetic": "jeə",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270930-2",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270930-2",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他",
+    "audioText": "he",
+    "fullEnglish": "he",
+    "phonetic": "hiː",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "he",
+        "answer": "he",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "他",
+        "phonetic": "hiː",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "he"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "he",
+        "phonetic": "hiː",
+        "pos": "PRON",
+        "zh": "他",
+        "componentZh": "他"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270930-3",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270930-3",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "刚刚",
+    "audioText": "just",
+    "fullEnglish": "just",
+    "phonetic": "dʒʌst",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "just",
+        "answer": "just",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "就",
+        "phonetic": "dʒʌst",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "just"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "just",
+        "phonetic": "dʒʌst",
+        "pos": "ADV",
+        "zh": "就",
+        "componentZh": "就"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270930-4",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270930-4",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "get（过去式）: 得到",
+    "audioText": "got",
+    "fullEnglish": "got",
+    "phonetic": "ɡɑːt",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "got",
+        "answer": "got",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "get（过去式）: 得到",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "got"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "got",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "zh": "get（过去式）: 得到",
+        "componentZh": "get（过去式）: 得到"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270930-5",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270930-5",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个",
+    "audioText": "a",
+    "fullEnglish": "a",
+    "phonetic": "ə; eɪ",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "a"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270930-6",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270930-6",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "新的",
+    "audioText": "new",
+    "fullEnglish": "new",
+    "phonetic": "nuː",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "new",
+        "answer": "new",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "新的",
+        "phonetic": "nuː",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "new"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "new",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "zh": "新的",
+        "componentZh": "新的"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270930-7",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270930-7",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "工作",
+    "audioText": "job",
+    "fullEnglish": "job",
+    "phonetic": "dʒɑːb",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "job",
+        "answer": "job",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "工作",
+        "phonetic": "dʒɑːb",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "job"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "job",
+        "phonetic": "dʒɑːb",
+        "pos": "NOUN",
+        "zh": "工作",
+        "componentZh": "工作"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270930-8",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270930-8",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在",
+    "audioText": "in",
+    "fullEnglish": "in",
+    "phonetic": "ɪn",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在",
+        "phonetic": "ɪn",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "in"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在",
+        "componentZh": "在"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270930-9",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270930-9",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "纽约",
+    "audioText": "New York",
+    "fullEnglish": "New York",
+    "pos": "PROPN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "New",
+        "answer": "New",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "新的",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "York",
+        "answer": "York",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "纽约",
+        "phonetic": "",
+        "pos": "PROPN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "New",
+      "York"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "New",
+        "role": "补充成分",
+        "zh": "新的"
+      },
+      {
+        "id": "ud-2",
+        "text": "York",
+        "role": "中心成分",
+        "zh": "纽约"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "New",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "zh": "新的",
+        "componentZh": "新的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "York",
+        "phonetic": "",
+        "pos": "PROPN",
+        "zh": "纽约",
+        "componentZh": "纽约",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-S-6692089369a8024cb5270931",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-S-6692089369a8024cb5270931",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "太棒了，我们应该找个时间和他聚聚",
+    "audioText": "That's awesome, we should catch up with him sometime",
+    "fullEnglish": "That's awesome, we should catch up with him sometime",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "That's",
+        "answer": "That's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "那是",
+        "phonetic": "ðæts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "awesome",
+        "answer": "awesome",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "极好的",
+        "phonetic": "ˈɔːsəm",
+        "pos": "ADJ"
+      },
+      {
+        "index": 2,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "太棒了，我们应该找个时间和他聚聚"
+      },
+      {
+        "index": 3,
+        "text": "we",
+        "answer": "we",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "we should catch up with him sometime",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我们；应该；catch up（短语动词）: 叙旧；（与 heads 搭配）；与...一起；他；找个时间"
+      },
+      {
+        "index": 4,
+        "text": "should",
+        "answer": "should",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "助动词",
+        "zh": "应该",
+        "phonetic": "ʃʊd; ʃəd",
+        "pos": "AUX",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "we should catch up with him sometime",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我们；应该；catch up（短语动词）: 叙旧；（与 heads 搭配）；与...一起；他；找个时间"
+      },
+      {
+        "index": 5,
+        "text": "catch",
+        "answer": "catch",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "catch up（短语动词）: 叙旧",
+        "phonetic": "kætʃ",
+        "pos": "VERB",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "catch up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "catch up（短语动词）: 叙旧；（与 heads 搭配）"
+      },
+      {
+        "index": 6,
+        "text": "up",
+        "answer": "up",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "定语（名词修饰）",
+        "zh": "（与 heads 搭配）",
+        "phonetic": "ʌp",
+        "pos": "ADP",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "catch up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "catch up（短语动词）: 叙旧；（与 heads 搭配）"
+      },
+      {
+        "index": 7,
+        "text": "with",
+        "answer": "with",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "介词",
+        "zh": "与...一起",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "with him",
+        "parentComponentRole": "方式/伴随状语",
+        "parentComponentZh": "与...一起；他"
+      },
+      {
+        "index": 8,
+        "text": "him",
+        "answer": "him",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-12",
+        "role": "中心词",
+        "zh": "他",
+        "phonetic": "hɪm",
+        "pos": "PRON",
+        "parentComponentId": "ud-11",
+        "parentComponentText": "him",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "他"
+      },
+      {
+        "index": 9,
+        "text": "sometime",
+        "answer": "sometime",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-13",
+        "role": "方式/程度状语",
+        "zh": "找个时间",
+        "phonetic": "ˈsʌmtaɪm",
+        "pos": "ADV",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "we should catch up with him sometime",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我们；应该；catch up（短语动词）: 叙旧；（与 heads 搭配）；与...一起；他；找个时间"
+      }
+    ],
+    "shuffledBlocks": [
+      "catch",
+      "up",
+      "That's",
+      "him",
+      "we",
+      "sometime",
+      "with",
+      "awesome",
+      "should"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "That's",
+        "role": "主语 + 系动词",
+        "zh": "那是"
+      },
+      {
+        "id": "ud-2",
+        "text": "awesome",
+        "role": "表语",
+        "zh": "极好的"
+      },
+      {
+        "id": "ud-3",
+        "text": "we should catch up with him sometime",
+        "role": "补充成分",
+        "zh": "我们；应该；catch up（短语动词）: 叙旧；（与 heads 搭配）；与...一起；他；找个时间",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "we",
+            "role": "主语",
+            "zh": "我们"
+          },
+          {
+            "id": "ud-5",
+            "text": "should",
+            "role": "助动词",
+            "zh": "应该"
+          },
+          {
+            "id": "ud-6",
+            "text": "catch up",
+            "role": "谓语",
+            "zh": "catch up（短语动词）: 叙旧；（与 heads 搭配）",
+            "children": [
+              {
+                "id": "ud-7",
+                "text": "catch",
+                "role": "中心词",
+                "zh": "catch up（短语动词）: 叙旧"
+              },
+              {
+                "id": "ud-8",
+                "text": "up",
+                "role": "定语（名词修饰）",
+                "zh": "（与 heads 搭配）"
+              }
+            ]
+          },
+          {
+            "id": "ud-9",
+            "text": "with him",
+            "role": "方式/伴随状语",
+            "zh": "与...一起；他",
+            "children": [
+              {
+                "id": "ud-10",
+                "text": "with",
+                "role": "介词",
+                "zh": "与...一起"
+              },
+              {
+                "id": "ud-11",
+                "text": "him",
+                "role": "介词宾语",
+                "zh": "他",
+                "children": [
+                  {
+                    "id": "ud-12",
+                    "text": "him",
+                    "role": "中心词",
+                    "zh": "他"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ud-13",
+            "text": "sometime",
+            "role": "方式/程度状语",
+            "zh": "找个时间"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "That's",
+        "phonetic": "ðæts",
+        "pos": "PRON",
+        "zh": "那是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "那是"
+      },
+      "1": {
+        "text": "awesome",
+        "phonetic": "ˈɔːsəm",
+        "pos": "ADJ",
+        "zh": "极好的",
+        "componentRole": "表语",
+        "componentZh": "极好的"
+      },
+      "3": {
+        "text": "we",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentRole": "主语",
+        "componentZh": "我们",
+        "parentComponentText": "we should catch up with him sometime",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我们；应该；catch up（短语动词）: 叙旧；（与 heads 搭配）；与...一起；他；找个时间"
+      },
+      "4": {
+        "text": "should",
+        "phonetic": "ʃʊd; ʃəd",
+        "pos": "AUX",
+        "zh": "应该",
+        "componentRole": "助动词",
+        "componentZh": "应该",
+        "parentComponentText": "we should catch up with him sometime",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我们；应该；catch up（短语动词）: 叙旧；（与 heads 搭配）；与...一起；他；找个时间"
+      },
+      "5": {
+        "text": "catch",
+        "phonetic": "kætʃ",
+        "pos": "VERB",
+        "zh": "catch up（短语动词）: 叙旧",
+        "componentRole": "中心词",
+        "componentZh": "catch up（短语动词）: 叙旧",
+        "parentComponentText": "catch up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "catch up（短语动词）: 叙旧；（与 heads 搭配）"
+      },
+      "6": {
+        "text": "up",
+        "phonetic": "ʌp",
+        "pos": "ADP",
+        "zh": "（与 heads 搭配）",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "（与 heads 搭配）",
+        "parentComponentText": "catch up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "catch up（短语动词）: 叙旧；（与 heads 搭配）"
+      },
+      "7": {
+        "text": "with",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "zh": "与...一起",
+        "componentRole": "介词",
+        "componentZh": "与...一起",
+        "parentComponentText": "with him",
+        "parentComponentRole": "方式/伴随状语",
+        "parentComponentZh": "与...一起；他"
+      },
+      "8": {
+        "text": "him",
+        "phonetic": "hɪm",
+        "pos": "PRON",
+        "zh": "他",
+        "componentRole": "中心词",
+        "componentZh": "他",
+        "parentComponentText": "him",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "他"
+      },
+      "9": {
+        "text": "sometime",
+        "phonetic": "ˈsʌmtaɪm",
+        "pos": "ADV",
+        "zh": "找个时间",
+        "componentRole": "方式/程度状语",
+        "componentZh": "找个时间",
+        "parentComponentText": "we should catch up with him sometime",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我们；应该；catch up（短语动词）: 叙旧；（与 heads 搭配）；与...一起；他；找个时间"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270931-1",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270931-1",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那是",
+    "audioText": "That's",
+    "fullEnglish": "That's",
+    "phonetic": "ðæts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "That's",
+        "answer": "That's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "那是",
+        "phonetic": "ðæts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "That's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "That's",
+        "phonetic": "ðæts",
+        "pos": "PRON",
+        "zh": "那是",
+        "componentZh": "那是"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270931-2",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270931-2",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "极好的",
+    "audioText": "awesome",
+    "fullEnglish": "awesome",
+    "phonetic": "ˈɔːsəm",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "awesome",
+        "answer": "awesome",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "极好的",
+        "phonetic": "ˈɔːsəm",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "awesome"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "awesome",
+        "phonetic": "ˈɔːsəm",
+        "pos": "ADJ",
+        "zh": "极好的",
+        "componentZh": "极好的"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270931-3",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270931-3",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们",
+    "audioText": "we",
+    "fullEnglish": "we",
+    "phonetic": "wiː; wi",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "we",
+        "answer": "we",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "we"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "we",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentZh": "我们"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270931-4",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270931-4",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "应该",
+    "audioText": "should",
+    "fullEnglish": "should",
+    "phonetic": "ʃʊd; ʃəd",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "should",
+        "answer": "should",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "应该",
+        "phonetic": "ʃʊd; ʃəd",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "should"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "should",
+        "phonetic": "ʃʊd; ʃəd",
+        "pos": "AUX",
+        "zh": "应该",
+        "componentZh": "应该"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270931-5",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270931-5",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "catch up（短语动词）: 叙旧",
+    "audioText": "catch",
+    "fullEnglish": "catch",
+    "phonetic": "kætʃ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "catch",
+        "answer": "catch",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "catch up（短语动词）: 叙旧",
+        "phonetic": "kætʃ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "catch"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "catch",
+        "phonetic": "kætʃ",
+        "pos": "VERB",
+        "zh": "catch up（短语动词）: 叙旧",
+        "componentZh": "catch up（短语动词）: 叙旧"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270931-6",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270931-6",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "（与 catch 搭配）",
+    "audioText": "up",
+    "fullEnglish": "up",
+    "phonetic": "ʌp",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "up",
+        "answer": "up",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 heads 搭配）",
+        "phonetic": "ʌp",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "up"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "up",
+        "phonetic": "ʌp",
+        "pos": "ADP",
+        "zh": "（与 heads 搭配）",
+        "componentZh": "（与 heads 搭配）"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270931-7",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270931-7",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "和",
+    "audioText": "with",
+    "fullEnglish": "with",
+    "phonetic": "wɪð; wɪθ",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "with",
+        "answer": "with",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "与...一起",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "with"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "with",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "zh": "与...一起",
+        "componentZh": "与...一起"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270931-8",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270931-8",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他",
+    "audioText": "him",
+    "fullEnglish": "him",
+    "phonetic": "hɪm",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "him",
+        "answer": "him",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "他",
+        "phonetic": "hɪm",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "him"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "him",
+        "phonetic": "hɪm",
+        "pos": "PRON",
+        "zh": "他",
+        "componentZh": "他"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270931-9",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-W-6692089369a8024cb5270931-9",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "某个时候",
+    "audioText": "sometime",
+    "fullEnglish": "sometime",
+    "phonetic": "ˈsʌmtaɪm",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "sometime",
+        "answer": "sometime",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "找个时间",
+        "phonetic": "ˈsʌmtaɪm",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "sometime"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "sometime",
+        "phonetic": "ˈsʌmtaɪm",
+        "pos": "ADV",
+        "zh": "找个时间",
+        "componentZh": "找个时间"
+      }
+    }
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-nlu0f00fjaglx5dn6bma3ni7",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-nlu0f00fjaglx5dn6bma3ni7",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好久不见",
+    "audioText": "long time no see",
+    "fullEnglish": "long time no see",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "long",
+        "answer": "long",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "长",
+        "phonetic": "lɔːŋ",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "time",
+        "answer": "time",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "时间",
+        "phonetic": "taɪm",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      },
+      {
+        "index": 2,
+        "text": "no",
+        "answer": "no",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "noʊ",
+        "pos": "INTJ",
+        "componentId": "ud-4",
+        "role": "语气/引导语",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "no see",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "不；看见"
+      },
+      {
+        "index": 3,
+        "text": "see",
+        "answer": "see",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "看见",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "componentId": "ud-5",
+        "role": "谓语",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "no see",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "不；看见"
+      }
+    ],
+    "shuffledBlocks": [
+      "time",
+      "long",
+      "see",
+      "no"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "long",
+        "role": "补充成分",
+        "zh": "长"
+      },
+      {
+        "id": "ud-2",
+        "text": "time",
+        "role": "中心成分",
+        "zh": "时间"
+      },
+      {
+        "id": "ud-3",
+        "text": "no see",
+        "role": "补充成分",
+        "zh": "不；看见",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "no",
+            "role": "语气/引导语",
+            "zh": "不"
+          },
+          {
+            "id": "ud-5",
+            "text": "see",
+            "role": "谓语",
+            "zh": "看见"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "long",
+        "phonetic": "lɔːŋ",
+        "pos": "ADJ",
+        "zh": "长",
+        "componentZh": "长",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "time",
+        "phonetic": "taɪm",
+        "pos": "NOUN",
+        "zh": "时间",
+        "componentZh": "时间",
+        "componentRole": "中心成分"
+      },
+      "2": {
+        "text": "no",
+        "phonetic": "noʊ",
+        "pos": "INTJ",
+        "zh": "不",
+        "componentZh": "不",
+        "componentRole": "语气/引导语",
+        "parentComponentText": "no see",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "不；看见"
+      },
+      "3": {
+        "text": "see",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "zh": "看见",
+        "componentZh": "看见",
+        "componentRole": "谓语",
+        "parentComponentText": "no see",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "不；看见"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-kua5u6m48sutayccs14rpyym",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-kua5u6m48sutayccs14rpyym",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "嘿，好久不见",
+    "audioText": "Hey, long time no see",
+    "fullEnglish": "Hey, long time no see",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Hey",
+        "answer": "Hey",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "嘿",
+        "phonetic": "heɪ",
+        "pos": "INTJ",
+        "componentId": "ud-1",
+        "role": "语气/引导语"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "嘿，好久不见"
+      },
+      {
+        "index": 2,
+        "text": "long",
+        "answer": "long",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "长",
+        "phonetic": "lɔːŋ",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 3,
+        "text": "time",
+        "answer": "time",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "时间",
+        "phonetic": "taɪm",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      },
+      {
+        "index": 4,
+        "text": "no",
+        "answer": "no",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "noʊ",
+        "pos": "INTJ",
+        "componentId": "ud-5",
+        "role": "语气/引导语",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "no see",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "不；看见"
+      },
+      {
+        "index": 5,
+        "text": "see",
+        "answer": "see",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "看见",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "componentId": "ud-6",
+        "role": "谓语",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "no see",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "不；看见"
+      }
+    ],
+    "shuffledBlocks": [
+      "see",
+      "time",
+      "long",
+      "no",
+      "Hey"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Hey",
+        "role": "语气/引导语",
+        "zh": "嘿"
+      },
+      {
+        "id": "ud-2",
+        "text": "long",
+        "role": "补充成分",
+        "zh": "长"
+      },
+      {
+        "id": "ud-3",
+        "text": "time",
+        "role": "中心成分",
+        "zh": "时间"
+      },
+      {
+        "id": "ud-4",
+        "text": "no see",
+        "role": "补充成分",
+        "zh": "不；看见",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "no",
+            "role": "语气/引导语",
+            "zh": "不"
+          },
+          {
+            "id": "ud-6",
+            "text": "see",
+            "role": "谓语",
+            "zh": "看见"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Hey",
+        "phonetic": "heɪ",
+        "pos": "INTJ",
+        "zh": "嘿",
+        "componentZh": "嘿",
+        "componentRole": "语气/引导语"
+      },
+      "2": {
+        "text": "long",
+        "phonetic": "lɔːŋ",
+        "pos": "ADJ",
+        "zh": "长",
+        "componentZh": "长",
+        "componentRole": "补充成分"
+      },
+      "3": {
+        "text": "time",
+        "phonetic": "taɪm",
+        "pos": "NOUN",
+        "zh": "时间",
+        "componentZh": "时间",
+        "componentRole": "中心成分"
+      },
+      "4": {
+        "text": "no",
+        "phonetic": "noʊ",
+        "pos": "INTJ",
+        "zh": "不",
+        "componentZh": "不",
+        "componentRole": "语气/引导语",
+        "parentComponentText": "no see",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "不；看见"
+      },
+      "5": {
+        "text": "see",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "zh": "看见",
+        "componentZh": "看见",
+        "componentRole": "谓语",
+        "parentComponentText": "no see",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "不；看见"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-jgun3dclr0gc0swqf6lyzc42",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-jgun3dclr0gc0swqf6lyzc42",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你过得",
+    "audioText": "have you been",
+    "fullEnglish": "have you been",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "been",
+        "answer": "been",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "be（过去分词）: 构成现在完成时",
+        "phonetic": "bɪn",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "have",
+      "been",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "have",
+        "role": "助动词",
+        "zh": "有"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "been",
+        "role": "谓语",
+        "zh": "be（过去分词）: 构成现在完成时"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "been",
+        "phonetic": "bɪn",
+        "pos": "VERB",
+        "zh": "be（过去分词）: 构成现在完成时",
+        "componentZh": "be（过去分词）: 构成现在完成时",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-sunchbxohr2yp7lszw8gmelv",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-sunchbxohr2yp7lszw8gmelv",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你最近怎么样？",
+    "audioText": "how have you been?",
+    "fullEnglish": "how have you been?",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "how",
+        "answer": "how",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "如何",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "助动词"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-3",
+        "role": "主语"
+      },
+      {
+        "index": 3,
+        "text": "been",
+        "answer": "been",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "be（过去分词）: 构成现在完成时",
+        "phonetic": "bɪn",
+        "pos": "VERB",
+        "componentId": "ud-4",
+        "role": "谓语"
+      },
+      {
+        "index": 4,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你最近怎么样？"
+      }
+    ],
+    "shuffledBlocks": [
+      "have",
+      "been",
+      "you",
+      "how"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "how",
+        "role": "方式/程度状语",
+        "zh": "如何"
+      },
+      {
+        "id": "ud-2",
+        "text": "have",
+        "role": "助动词",
+        "zh": "有"
+      },
+      {
+        "id": "ud-3",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-4",
+        "text": "been",
+        "role": "谓语",
+        "zh": "be（过去分词）: 构成现在完成时"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "how",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "zh": "如何",
+        "componentZh": "如何",
+        "componentRole": "方式/程度状语"
+      },
+      "1": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有",
+        "componentRole": "助动词"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "3": {
+        "text": "been",
+        "phonetic": "bɪn",
+        "pos": "VERB",
+        "zh": "be（过去分词）: 构成现在完成时",
+        "componentZh": "be（过去分词）: 构成现在完成时",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "特殊疑问句",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-kuny7q7oaffeshix7m5alehr",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-kuny7q7oaffeshix7m5alehr",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我一直很好",
+    "audioText": "I've been good",
+    "fullEnglish": "I've been good",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I've",
+        "answer": "I've",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词"
+      },
+      {
+        "index": 1,
+        "text": "been",
+        "answer": "been",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "be（过去分词）: 构成现在完成时",
+        "phonetic": "bɪn",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "系动词"
+      },
+      {
+        "index": 2,
+        "text": "good",
+        "answer": "good",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "好的",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "been",
+      "I've",
+      "good"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I've",
+        "role": "主语 + 助动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "been",
+        "role": "系动词",
+        "zh": "be（过去分词）: 构成现在完成时"
+      },
+      {
+        "id": "ud-3",
+        "text": "good",
+        "role": "表语",
+        "zh": "好的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I've",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语 + 助动词"
+      },
+      "1": {
+        "text": "been",
+        "phonetic": "bɪn",
+        "pos": "VERB",
+        "zh": "be（过去分词）: 构成现在完成时",
+        "componentZh": "be（过去分词）: 构成现在完成时",
+        "componentRole": "系动词"
+      },
+      "2": {
+        "text": "good",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentZh": "好的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "主系表结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-heasbrgjwnxpwfx8ngkzr9l7",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-heasbrgjwnxpwfx8ngkzr9l7",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我很好，谢谢",
+    "audioText": "I've been good, thanks",
+    "fullEnglish": "I've been good, thanks",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I've",
+        "answer": "I've",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词"
+      },
+      {
+        "index": 1,
+        "text": "been",
+        "answer": "been",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "be（过去分词）: 构成现在完成时",
+        "phonetic": "bɪn",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "系动词"
+      },
+      {
+        "index": 2,
+        "text": "good",
+        "answer": "good",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "好的",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "表语"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我很好，谢谢"
+      },
+      {
+        "index": 4,
+        "text": "thanks",
+        "answer": "thanks",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "感谢",
+        "phonetic": "θæŋks",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "语气/引导语"
+      }
+    ],
+    "shuffledBlocks": [
+      "good",
+      "been",
+      "I've",
+      "thanks"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I've",
+        "role": "主语 + 助动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "been",
+        "role": "系动词",
+        "zh": "be（过去分词）: 构成现在完成时"
+      },
+      {
+        "id": "ud-3",
+        "text": "good",
+        "role": "表语",
+        "zh": "好的"
+      },
+      {
+        "id": "ud-4",
+        "text": "thanks",
+        "role": "语气/引导语",
+        "zh": "感谢"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I've",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语 + 助动词"
+      },
+      "1": {
+        "text": "been",
+        "phonetic": "bɪn",
+        "pos": "VERB",
+        "zh": "be（过去分词）: 构成现在完成时",
+        "componentZh": "be（过去分词）: 构成现在完成时",
+        "componentRole": "系动词"
+      },
+      "2": {
+        "text": "good",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentZh": "好的",
+        "componentRole": "表语"
+      },
+      "4": {
+        "text": "thanks",
+        "phonetic": "θæŋks",
+        "pos": "NOUN",
+        "zh": "感谢",
+        "componentZh": "感谢",
+        "componentRole": "语气/引导语"
+      }
+    },
+    "sentenceType": "主系表结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-fvh44qux7vl5zw56qo9pkx26",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-fvh44qux7vl5zw56qo9pkx26",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你呢",
+    "audioText": "what about you",
+    "fullEnglish": "what about you",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "what",
+        "answer": "what",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": "about",
+        "answer": "about",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "大约",
+        "phonetic": "əˈbaʊt",
+        "pos": "ADP",
+        "componentId": "ud-3",
+        "role": "介词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "about you",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "大约；你"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "about you",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "大约；你"
+      }
+    ],
+    "shuffledBlocks": [
+      "about",
+      "what",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "what",
+        "role": "中心成分",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "about you",
+        "role": "补充成分",
+        "zh": "大约；你",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "about",
+            "role": "介词",
+            "zh": "大约"
+          },
+          {
+            "id": "ud-4",
+            "text": "you",
+            "role": "中心词",
+            "zh": "你"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "what",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么",
+        "componentRole": "中心成分"
+      },
+      "1": {
+        "text": "about",
+        "phonetic": "əˈbaʊt",
+        "pos": "ADP",
+        "zh": "大约",
+        "componentZh": "大约",
+        "componentRole": "介词",
+        "parentComponentText": "about you",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "大约；你"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "中心词",
+        "parentComponentText": "about you",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "大约；你"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-zwrtsil7on5h5oyearx8srq6",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-zwrtsil7on5h5oyearx8srq6",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "做得很好",
+    "audioText": "doing well",
+    "fullEnglish": "doing well",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "doing",
+        "answer": "doing",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "做（现在分词）: 做",
+        "phonetic": "ˈduːɪŋ",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "well",
+        "answer": "well",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "好",
+        "phonetic": "wel",
+        "pos": "ADV",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "well",
+      "doing"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "doing",
+        "role": "谓语",
+        "zh": "做（现在分词）: 做"
+      },
+      {
+        "id": "ud-2",
+        "text": "well",
+        "role": "方式/程度状语",
+        "zh": "好"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "doing",
+        "phonetic": "ˈduːɪŋ",
+        "pos": "VERB",
+        "zh": "做（现在分词）: 做",
+        "componentZh": "做（现在分词）: 做",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "well",
+        "phonetic": "wel",
+        "pos": "ADV",
+        "zh": "好",
+        "componentZh": "好",
+        "componentRole": "方式/程度状语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-eif5cm6b4k1mw3k1269ojlju",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-eif5cm6b4k1mw3k1269ojlju",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我过得很好",
+    "audioText": "I'm doing well",
+    "fullEnglish": "I'm doing well",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我是",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词"
+      },
+      {
+        "index": 1,
+        "text": "doing",
+        "answer": "doing",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "做（现在分词）: 做",
+        "phonetic": "ˈduːɪŋ",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      },
+      {
+        "index": 2,
+        "text": "well",
+        "answer": "well",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "好",
+        "phonetic": "wel",
+        "pos": "ADV",
+        "componentId": "ud-3",
+        "role": "方式/程度状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "I'm",
+      "doing",
+      "well"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I'm",
+        "role": "主语 + 助动词",
+        "zh": "我是"
+      },
+      {
+        "id": "ud-2",
+        "text": "doing",
+        "role": "谓语",
+        "zh": "做（现在分词）: 做"
+      },
+      {
+        "id": "ud-3",
+        "text": "well",
+        "role": "方式/程度状语",
+        "zh": "好"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我是",
+        "componentZh": "我是",
+        "componentRole": "主语 + 助动词"
+      },
+      "1": {
+        "text": "doing",
+        "phonetic": "ˈduːɪŋ",
+        "pos": "VERB",
+        "zh": "做（现在分词）: 做",
+        "componentZh": "做（现在分词）: 做",
+        "componentRole": "谓语"
+      },
+      "2": {
+        "text": "well",
+        "phonetic": "wel",
+        "pos": "ADV",
+        "zh": "好",
+        "componentZh": "好",
+        "componentRole": "方式/程度状语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-hqujesezs3pvgixm25jknn80",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-hqujesezs3pvgixm25jknn80",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你有没有",
+    "audioText": "have you",
+    "fullEnglish": "have you",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "宾语"
+      }
+    ],
+    "shuffledBlocks": [
+      "have",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "宾语",
+        "zh": "你"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "宾语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-u2b75rx2fjcvgtsthiluxdd7",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-u2b75rx2fjcvgtsthiluxdd7",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "收到消息",
+    "audioText": "heard from",
+    "fullEnglish": "heard from",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "heard",
+        "answer": "heard",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "hear（过去分词）: 听到",
+        "phonetic": "hɜːrd",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "from",
+        "answer": "from",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "从",
+        "phonetic": "frʌm",
+        "pos": "ADP",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "from",
+      "heard"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "heard",
+        "role": "谓语",
+        "zh": "hear（过去分词）: 听到"
+      },
+      {
+        "id": "ud-2",
+        "text": "from",
+        "role": "方式/程度状语",
+        "zh": "从"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "heard",
+        "phonetic": "hɜːrd",
+        "pos": "VERB",
+        "zh": "hear（过去分词）: 听到",
+        "componentZh": "hear（过去分词）: 听到",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "from",
+        "phonetic": "frʌm",
+        "pos": "ADP",
+        "zh": "从",
+        "componentZh": "从",
+        "componentRole": "方式/程度状语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-uw4mfdnw9p2ug2qr0jjpps4h",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-uw4mfdnw9p2ug2qr0jjpps4h",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你最近有收到John的消息吗",
+    "audioText": "have you heard from John lately",
+    "fullEnglish": "have you heard from John lately",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "heard",
+        "answer": "heard",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "hear（过去分词）: 听到",
+        "phonetic": "hɜːrd",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      },
+      {
+        "index": 3,
+        "text": "from",
+        "answer": "from",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "从",
+        "phonetic": "frʌm",
+        "pos": "ADP",
+        "componentId": "ud-5",
+        "role": "介词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "from John",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "从；John"
+      },
+      {
+        "index": 4,
+        "text": "John",
+        "answer": "John",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "John",
+        "phonetic": "dʒɑːn",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "John",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "John"
+      },
+      {
+        "index": 5,
+        "text": "lately",
+        "answer": "lately",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "最近",
+        "phonetic": "ˈleɪtli",
+        "pos": "ADV",
+        "componentId": "ud-8",
+        "role": "方式/程度状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "John",
+      "from",
+      "lately",
+      "heard",
+      "have"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "have",
+        "role": "助动词",
+        "zh": "有"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "heard",
+        "role": "谓语",
+        "zh": "hear（过去分词）: 听到"
+      },
+      {
+        "id": "ud-4",
+        "text": "from John",
+        "role": "地点状语",
+        "zh": "从；John",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "from",
+            "role": "介词",
+            "zh": "从"
+          },
+          {
+            "id": "ud-6",
+            "text": "John",
+            "role": "介词宾语",
+            "zh": "John",
+            "children": [
+              {
+                "id": "ud-7",
+                "text": "John",
+                "role": "中心词",
+                "zh": "John"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ud-8",
+        "text": "lately",
+        "role": "方式/程度状语",
+        "zh": "最近"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "heard",
+        "phonetic": "hɜːrd",
+        "pos": "VERB",
+        "zh": "hear（过去分词）: 听到",
+        "componentZh": "hear（过去分词）: 听到",
+        "componentRole": "谓语"
+      },
+      "3": {
+        "text": "from",
+        "phonetic": "frʌm",
+        "pos": "ADP",
+        "zh": "从",
+        "componentZh": "从",
+        "componentRole": "介词",
+        "parentComponentText": "from John",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "从；John"
+      },
+      "4": {
+        "text": "John",
+        "phonetic": "dʒɑːn",
+        "pos": "PROPN_PERSON",
+        "zh": "John",
+        "componentZh": "John",
+        "componentRole": "中心词",
+        "parentComponentText": "John",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "John"
+      },
+      "5": {
+        "text": "lately",
+        "phonetic": "ˈleɪtli",
+        "pos": "ADV",
+        "zh": "最近",
+        "componentZh": "最近",
+        "componentRole": "方式/程度状语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-o0a4jdu8gegpuap9vi75g78y",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-o0a4jdu8gegpuap9vi75g78y",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "刚刚得到",
+    "audioText": "just got",
+    "fullEnglish": "just got",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "just",
+        "answer": "just",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "就",
+        "phonetic": "dʒʌst",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "got",
+        "answer": "got",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "get（过去式）: 得到",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "got",
+      "just"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "just",
+        "role": "方式/程度状语",
+        "zh": "就"
+      },
+      {
+        "id": "ud-2",
+        "text": "got",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "just",
+        "phonetic": "dʒʌst",
+        "pos": "ADV",
+        "zh": "就",
+        "componentZh": "就",
+        "componentRole": "方式/程度状语"
+      },
+      "1": {
+        "text": "got",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "zh": "get（过去式）: 得到",
+        "componentZh": "get（过去式）: 得到",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-dnasp3zwh1g639kfyk2evam0",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-dnasp3zwh1g639kfyk2evam0",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一份新工作",
+    "audioText": "a new job",
+    "fullEnglish": "a new job",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "new",
+        "answer": "new",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "新的",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "job",
+        "answer": "job",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "工作",
+        "phonetic": "dʒɑːb",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "job",
+      "a",
+      "new"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "a",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-2",
+        "text": "new",
+        "role": "补充成分",
+        "zh": "新的"
+      },
+      {
+        "id": "ud-3",
+        "text": "job",
+        "role": "中心成分",
+        "zh": "工作"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "new",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "zh": "新的",
+        "componentZh": "新的",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "job",
+        "phonetic": "dʒɑːb",
+        "pos": "NOUN",
+        "zh": "工作",
+        "componentZh": "工作",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-sqtv5khesypjpm8rljzzhpvt",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-sqtv5khesypjpm8rljzzhpvt",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的，他刚找到一份新工作",
+    "audioText": "yeah, he just got a new job",
+    "fullEnglish": "yeah, he just got a new job",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "yeah",
+        "answer": "yeah",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jeə",
+        "pos": "INTJ",
+        "componentId": "ud-1",
+        "role": "语气/引导语"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，他刚找到一份新工作"
+      },
+      {
+        "index": 2,
+        "text": "he",
+        "answer": "he",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "他",
+        "phonetic": "hiː",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 3,
+        "text": "just",
+        "answer": "just",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "就",
+        "phonetic": "dʒʌst",
+        "pos": "ADV",
+        "componentId": "ud-3",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 4,
+        "text": "got",
+        "answer": "got",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "get（过去式）: 得到",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "componentId": "ud-4",
+        "role": "谓语"
+      },
+      {
+        "index": 5,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "a new job",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；新的；工作"
+      },
+      {
+        "index": 6,
+        "text": "new",
+        "answer": "new",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "新的",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "componentId": "ud-7",
+        "role": "定语（形容词）",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "a new job",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；新的；工作"
+      },
+      {
+        "index": 7,
+        "text": "job",
+        "answer": "job",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "工作",
+        "phonetic": "dʒɑːb",
+        "pos": "NOUN",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "a new job",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；新的；工作"
+      }
+    ],
+    "shuffledBlocks": [
+      "he",
+      "got",
+      "a",
+      "job",
+      "new",
+      "yeah",
+      "just"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "yeah",
+        "role": "语气/引导语",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "he",
+        "role": "主语",
+        "zh": "他"
+      },
+      {
+        "id": "ud-3",
+        "text": "just",
+        "role": "方式/程度状语",
+        "zh": "就"
+      },
+      {
+        "id": "ud-4",
+        "text": "got",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到"
+      },
+      {
+        "id": "ud-5",
+        "text": "a new job",
+        "role": "宾语",
+        "zh": "一个；新的；工作",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-7",
+            "text": "new",
+            "role": "定语（形容词）",
+            "zh": "新的"
+          },
+          {
+            "id": "ud-8",
+            "text": "job",
+            "role": "中心词",
+            "zh": "工作"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "yeah",
+        "phonetic": "jeə",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的",
+        "componentRole": "语气/引导语"
+      },
+      "2": {
+        "text": "he",
+        "phonetic": "hiː",
+        "pos": "PRON",
+        "zh": "他",
+        "componentZh": "他",
+        "componentRole": "主语"
+      },
+      "3": {
+        "text": "just",
+        "phonetic": "dʒʌst",
+        "pos": "ADV",
+        "zh": "就",
+        "componentZh": "就",
+        "componentRole": "方式/程度状语"
+      },
+      "4": {
+        "text": "got",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "zh": "get（过去式）: 得到",
+        "componentZh": "get（过去式）: 得到",
+        "componentRole": "谓语"
+      },
+      "5": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "限定词",
+        "parentComponentText": "a new job",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；新的；工作"
+      },
+      "6": {
+        "text": "new",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "zh": "新的",
+        "componentZh": "新的",
+        "componentRole": "定语（形容词）",
+        "parentComponentText": "a new job",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；新的；工作"
+      },
+      "7": {
+        "text": "job",
+        "phonetic": "dʒɑːb",
+        "pos": "NOUN",
+        "zh": "工作",
+        "componentZh": "工作",
+        "componentRole": "中心词",
+        "parentComponentText": "a new job",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；新的；工作"
+      }
+    },
+    "sentenceType": "主谓宾结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-y6dz2ne9oi8unp8ibyd053or",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-y6dz2ne9oi8unp8ibyd053or",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在纽约",
+    "audioText": "in New York",
+    "fullEnglish": "in New York",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "New",
+        "answer": "New",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "新的",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "York",
+        "answer": "York",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "在纽约",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "in",
+      "York",
+      "New"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "in",
+        "role": "补充成分",
+        "zh": "在"
+      },
+      {
+        "id": "ud-2",
+        "text": "New",
+        "role": "补充成分",
+        "zh": "新的"
+      },
+      {
+        "id": "ud-3",
+        "text": "York",
+        "role": "中心成分",
+        "zh": "在纽约"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在",
+        "componentZh": "在",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "New",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "zh": "新的",
+        "componentZh": "新的",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "York",
+        "zh": "在纽约",
+        "componentZh": "在纽约",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-fxoxw50ptgww3jfnvmjisa8c",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-fxoxw50ptgww3jfnvmjisa8c",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "太棒了",
+    "audioText": "That's awesome",
+    "fullEnglish": "That's awesome",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "That's",
+        "answer": "That's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "那是",
+        "phonetic": "ðæts",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "awesome",
+        "answer": "awesome",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "极好的",
+        "phonetic": "ˈɔːsəm",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "That's",
+      "awesome"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "That's",
+        "role": "主语 + 系动词",
+        "zh": "那是"
+      },
+      {
+        "id": "ud-2",
+        "text": "awesome",
+        "role": "表语",
+        "zh": "极好的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "That's",
+        "phonetic": "ðæts",
+        "pos": "PRON",
+        "zh": "那是",
+        "componentZh": "那是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "awesome",
+        "phonetic": "ˈɔːsəm",
+        "pos": "ADJ",
+        "zh": "极好的",
+        "componentZh": "极好的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-aq5c7j9lnsqqrfcti82cxi00",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-aq5c7j9lnsqqrfcti82cxi00",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "应该赶上",
+    "audioText": "should catch up with",
+    "fullEnglish": "should catch up with",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "should",
+        "answer": "should",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "应该",
+        "phonetic": "ʃʊd; ʃəd",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "catch",
+        "answer": "catch",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "catch up（短语动词）: 叙旧",
+        "phonetic": "kætʃ",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "catch up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "catch up（短语动词）: 叙旧；（与 heads 搭配）"
+      },
+      {
+        "index": 2,
+        "text": "up",
+        "answer": "up",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 heads 搭配）",
+        "phonetic": "ʌp",
+        "pos": "ADP",
+        "componentId": "ud-4",
+        "role": "定语（名词修饰）",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "catch up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "catch up（短语动词）: 叙旧；（与 heads 搭配）"
+      },
+      {
+        "index": 3,
+        "text": "with",
+        "answer": "with",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "与...一起",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "componentId": "ud-5",
+        "role": "状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "catch",
+      "with",
+      "up",
+      "should"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "should",
+        "role": "助动词",
+        "zh": "应该"
+      },
+      {
+        "id": "ud-2",
+        "text": "catch up",
+        "role": "谓语",
+        "zh": "catch up（短语动词）: 叙旧；（与 heads 搭配）",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "catch",
+            "role": "中心词",
+            "zh": "catch up（短语动词）: 叙旧"
+          },
+          {
+            "id": "ud-4",
+            "text": "up",
+            "role": "定语（名词修饰）",
+            "zh": "（与 heads 搭配）"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "with",
+        "role": "状语",
+        "zh": "与...一起"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "should",
+        "phonetic": "ʃʊd; ʃəd",
+        "pos": "AUX",
+        "zh": "应该",
+        "componentZh": "应该",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "catch",
+        "phonetic": "kætʃ",
+        "pos": "VERB",
+        "zh": "catch up（短语动词）: 叙旧",
+        "componentZh": "catch up（短语动词）: 叙旧",
+        "componentRole": "中心词",
+        "parentComponentText": "catch up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "catch up（短语动词）: 叙旧；（与 heads 搭配）"
+      },
+      "2": {
+        "text": "up",
+        "phonetic": "ʌp",
+        "pos": "ADP",
+        "zh": "（与 heads 搭配）",
+        "componentZh": "（与 heads 搭配）",
+        "componentRole": "定语（名词修饰）",
+        "parentComponentText": "catch up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "catch up（短语动词）: 叙旧；（与 heads 搭配）"
+      },
+      "3": {
+        "text": "with",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "zh": "与...一起",
+        "componentZh": "与...一起",
+        "componentRole": "状语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-w5h673bfj4n1otjv8spju60c",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-w5h673bfj4n1otjv8spju60c",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们应该和他聚一聚",
+    "audioText": "we should catch up with him",
+    "fullEnglish": "we should catch up with him",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "we",
+        "answer": "we",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "should",
+        "answer": "should",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "应该",
+        "phonetic": "ʃʊd; ʃəd",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "助动词"
+      },
+      {
+        "index": 2,
+        "text": "catch",
+        "answer": "catch",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "catch up（短语动词）: 叙旧",
+        "phonetic": "kætʃ",
+        "pos": "VERB",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "catch up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "catch up（短语动词）: 叙旧；（与 heads 搭配）"
+      },
+      {
+        "index": 3,
+        "text": "up",
+        "answer": "up",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 heads 搭配）",
+        "phonetic": "ʌp",
+        "pos": "ADP",
+        "componentId": "ud-5",
+        "role": "定语（名词修饰）",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "catch up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "catch up（短语动词）: 叙旧；（与 heads 搭配）"
+      },
+      {
+        "index": 4,
+        "text": "with",
+        "answer": "with",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "与...一起",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "componentId": "ud-7",
+        "role": "介词",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "with him",
+        "parentComponentRole": "方式/伴随状语",
+        "parentComponentZh": "与...一起；他"
+      },
+      {
+        "index": 5,
+        "text": "him",
+        "answer": "him",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "他",
+        "phonetic": "hɪm",
+        "pos": "PRON",
+        "componentId": "ud-9",
+        "role": "中心词",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "him",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "他"
+      }
+    ],
+    "shuffledBlocks": [
+      "catch",
+      "up",
+      "should",
+      "we",
+      "him",
+      "with"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "we",
+        "role": "主语",
+        "zh": "我们"
+      },
+      {
+        "id": "ud-2",
+        "text": "should",
+        "role": "助动词",
+        "zh": "应该"
+      },
+      {
+        "id": "ud-3",
+        "text": "catch up",
+        "role": "谓语",
+        "zh": "catch up（短语动词）: 叙旧；（与 heads 搭配）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "catch",
+            "role": "中心词",
+            "zh": "catch up（短语动词）: 叙旧"
+          },
+          {
+            "id": "ud-5",
+            "text": "up",
+            "role": "定语（名词修饰）",
+            "zh": "（与 heads 搭配）"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "with him",
+        "role": "方式/伴随状语",
+        "zh": "与...一起；他",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "with",
+            "role": "介词",
+            "zh": "与...一起"
+          },
+          {
+            "id": "ud-8",
+            "text": "him",
+            "role": "介词宾语",
+            "zh": "他",
+            "children": [
+              {
+                "id": "ud-9",
+                "text": "him",
+                "role": "中心词",
+                "zh": "他"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "we",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentZh": "我们",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "should",
+        "phonetic": "ʃʊd; ʃəd",
+        "pos": "AUX",
+        "zh": "应该",
+        "componentZh": "应该",
+        "componentRole": "助动词"
+      },
+      "2": {
+        "text": "catch",
+        "phonetic": "kætʃ",
+        "pos": "VERB",
+        "zh": "catch up（短语动词）: 叙旧",
+        "componentZh": "catch up（短语动词）: 叙旧",
+        "componentRole": "中心词",
+        "parentComponentText": "catch up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "catch up（短语动词）: 叙旧；（与 heads 搭配）"
+      },
+      "3": {
+        "text": "up",
+        "phonetic": "ʌp",
+        "pos": "ADP",
+        "zh": "（与 heads 搭配）",
+        "componentZh": "（与 heads 搭配）",
+        "componentRole": "定语（名词修饰）",
+        "parentComponentText": "catch up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "catch up（短语动词）: 叙旧；（与 heads 搭配）"
+      },
+      "4": {
+        "text": "with",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "zh": "与...一起",
+        "componentZh": "与...一起",
+        "componentRole": "介词",
+        "parentComponentText": "with him",
+        "parentComponentRole": "方式/伴随状语",
+        "parentComponentZh": "与...一起；他"
+      },
+      "5": {
+        "text": "him",
+        "phonetic": "hɪm",
+        "pos": "PRON",
+        "zh": "他",
+        "componentZh": "他",
+        "componentRole": "中心词",
+        "parentComponentText": "him",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "他"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-no6vkijg5kaosv0y1sjc0zu6",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-no6vkijg5kaosv0y1sjc0zu6",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "太棒了，我们该联系下他",
+    "audioText": "That's awesome, we should catch up with him",
+    "fullEnglish": "That's awesome, we should catch up with him",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "That's",
+        "answer": "That's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "那是",
+        "phonetic": "ðæts",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "awesome",
+        "answer": "awesome",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "极好的",
+        "phonetic": "ˈɔːsəm",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "表语"
+      },
+      {
+        "index": 2,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "太棒了，我们该联系下他"
+      },
+      {
+        "index": 3,
+        "text": "we",
+        "answer": "we",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "componentId": "ud-4",
+        "role": "主语",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "we should catch up with him",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我们；应该；catch up（短语动词）: 叙旧；（与 heads 搭配）；与...一起；他"
+      },
+      {
+        "index": 4,
+        "text": "should",
+        "answer": "should",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "应该",
+        "phonetic": "ʃʊd; ʃəd",
+        "pos": "AUX",
+        "componentId": "ud-5",
+        "role": "助动词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "we should catch up with him",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我们；应该；catch up（短语动词）: 叙旧；（与 heads 搭配）；与...一起；他"
+      },
+      {
+        "index": 5,
+        "text": "catch",
+        "answer": "catch",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "catch up（短语动词）: 叙旧",
+        "phonetic": "kætʃ",
+        "pos": "VERB",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "catch up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "catch up（短语动词）: 叙旧；（与 heads 搭配）"
+      },
+      {
+        "index": 6,
+        "text": "up",
+        "answer": "up",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 heads 搭配）",
+        "phonetic": "ʌp",
+        "pos": "ADP",
+        "componentId": "ud-8",
+        "role": "定语（名词修饰）",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "catch up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "catch up（短语动词）: 叙旧；（与 heads 搭配）"
+      },
+      {
+        "index": 7,
+        "text": "with",
+        "answer": "with",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "与...一起",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "componentId": "ud-10",
+        "role": "介词",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "with him",
+        "parentComponentRole": "方式/伴随状语",
+        "parentComponentZh": "与...一起；他"
+      },
+      {
+        "index": 8,
+        "text": "him",
+        "answer": "him",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "他",
+        "phonetic": "hɪm",
+        "pos": "PRON",
+        "componentId": "ud-12",
+        "role": "中心词",
+        "parentComponentId": "ud-11",
+        "parentComponentText": "him",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "他"
+      }
+    ],
+    "shuffledBlocks": [
+      "we",
+      "with",
+      "That's",
+      "catch",
+      "him",
+      "should",
+      "up",
+      "awesome"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "That's",
+        "role": "主语 + 系动词",
+        "zh": "那是"
+      },
+      {
+        "id": "ud-2",
+        "text": "awesome",
+        "role": "表语",
+        "zh": "极好的"
+      },
+      {
+        "id": "ud-3",
+        "text": "we should catch up with him",
+        "role": "补充成分",
+        "zh": "我们；应该；catch up（短语动词）: 叙旧；（与 heads 搭配）；与...一起；他",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "we",
+            "role": "主语",
+            "zh": "我们"
+          },
+          {
+            "id": "ud-5",
+            "text": "should",
+            "role": "助动词",
+            "zh": "应该"
+          },
+          {
+            "id": "ud-6",
+            "text": "catch up",
+            "role": "谓语",
+            "zh": "catch up（短语动词）: 叙旧；（与 heads 搭配）",
+            "children": [
+              {
+                "id": "ud-7",
+                "text": "catch",
+                "role": "中心词",
+                "zh": "catch up（短语动词）: 叙旧"
+              },
+              {
+                "id": "ud-8",
+                "text": "up",
+                "role": "定语（名词修饰）",
+                "zh": "（与 heads 搭配）"
+              }
+            ]
+          },
+          {
+            "id": "ud-9",
+            "text": "with him",
+            "role": "方式/伴随状语",
+            "zh": "与...一起；他",
+            "children": [
+              {
+                "id": "ud-10",
+                "text": "with",
+                "role": "介词",
+                "zh": "与...一起"
+              },
+              {
+                "id": "ud-11",
+                "text": "him",
+                "role": "介词宾语",
+                "zh": "他",
+                "children": [
+                  {
+                    "id": "ud-12",
+                    "text": "him",
+                    "role": "中心词",
+                    "zh": "他"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "That's",
+        "phonetic": "ðæts",
+        "pos": "PRON",
+        "zh": "那是",
+        "componentZh": "那是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "awesome",
+        "phonetic": "ˈɔːsəm",
+        "pos": "ADJ",
+        "zh": "极好的",
+        "componentZh": "极好的",
+        "componentRole": "表语"
+      },
+      "3": {
+        "text": "we",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentZh": "我们",
+        "componentRole": "主语",
+        "parentComponentText": "we should catch up with him",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我们；应该；catch up（短语动词）: 叙旧；（与 heads 搭配）；与...一起；他"
+      },
+      "4": {
+        "text": "should",
+        "phonetic": "ʃʊd; ʃəd",
+        "pos": "AUX",
+        "zh": "应该",
+        "componentZh": "应该",
+        "componentRole": "助动词",
+        "parentComponentText": "we should catch up with him",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我们；应该；catch up（短语动词）: 叙旧；（与 heads 搭配）；与...一起；他"
+      },
+      "5": {
+        "text": "catch",
+        "phonetic": "kætʃ",
+        "pos": "VERB",
+        "zh": "catch up（短语动词）: 叙旧",
+        "componentZh": "catch up（短语动词）: 叙旧",
+        "componentRole": "中心词",
+        "parentComponentText": "catch up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "catch up（短语动词）: 叙旧；（与 heads 搭配）"
+      },
+      "6": {
+        "text": "up",
+        "phonetic": "ʌp",
+        "pos": "ADP",
+        "zh": "（与 heads 搭配）",
+        "componentZh": "（与 heads 搭配）",
+        "componentRole": "定语（名词修饰）",
+        "parentComponentText": "catch up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "catch up（短语动词）: 叙旧；（与 heads 搭配）"
+      },
+      "7": {
+        "text": "with",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "zh": "与...一起",
+        "componentZh": "与...一起",
+        "componentRole": "介词",
+        "parentComponentText": "with him",
+        "parentComponentRole": "方式/伴随状语",
+        "parentComponentZh": "与...一起；他"
+      },
+      "8": {
+        "text": "him",
+        "phonetic": "hɪm",
+        "pos": "PRON",
+        "zh": "他",
+        "componentZh": "他",
+        "componentRole": "中心词",
+        "parentComponentText": "him",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "他"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-s285qdztfmsssbs09dqq3ljs",
+    "contentId": "JLB-sv8bkg12xqykwart3mczipc4-PHRASE-s285qdztfmsssbs09dqq3ljs",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "sv8bkg12xqykwart3mczipc4",
+    "unitTitle": "问候与寒暄",
+    "section": "",
+    "importance": "",
+    "displayChinese": "找个时间",
+    "audioText": "sometime",
+    "fullEnglish": "sometime",
+    "phonetic": "ˈsʌmtaɪm",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "sometime",
+        "answer": "sometime",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "找个时间",
+        "phonetic": "ˈsʌmtaɪm",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "sometime"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "sometime",
+        "role": "中心成分",
+        "zh": "找个时间"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "sometime",
+        "phonetic": "ˈsʌmtaɪm",
+        "pos": "ADV",
+        "zh": "找个时间",
+        "componentZh": "找个时间",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

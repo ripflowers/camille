@@ -1,0 +1,1734 @@
+[
+  {
+    "id": "JLB-jvjyo96h44q4oesbrepcku4h-S-jvun35jaf6a6m6l82vmwyd9l",
+    "contentId": "JLB-jvjyo96h44q4oesbrepcku4h-S-jvun35jaf6a6m6l82vmwyd9l",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvjyo96h44q4oesbrepcku4h",
+    "unitTitle": "Unit 2 What Do You Do on Sunday?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "今天是星期六。",
+    "audioText": "It's Saturday",
+    "fullEnglish": "It's Saturday",
+    "sentenceType": "主系表结构（时间表达）",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "Saturday",
+        "answer": "Saturday",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语（时间）",
+        "zh": "星期六",
+        "phonetic": "ˈsætərdeɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Saturday",
+      "It's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "Saturday",
+        "role": "表语（时间）",
+        "zh": "星期六"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "Saturday",
+        "phonetic": "ˈsætərdeɪ",
+        "pos": "NOUN",
+        "zh": "星期六",
+        "componentRole": "表语（时间）",
+        "componentZh": "星期六"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-jvjyo96h44q4oesbrepcku4h-S-n4pudprd1m8tfnnmow4zaftv",
+    "contentId": "JLB-jvjyo96h44q4oesbrepcku4h-S-n4pudprd1m8tfnnmow4zaftv",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvjyo96h44q4oesbrepcku4h",
+    "unitTitle": "Unit 2 What Do You Do on Sunday?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你今天去公园吗？",
+    "audioText": "Do you go to the park today?",
+    "fullEnglish": "Do you go to the park today?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Do",
+        "answer": "Do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "助动词",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "介词",
+        "zh": "对",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "to the park",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "对；定冠词；公园"
+      },
+      {
+        "index": 4,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "the park",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；公园"
+      },
+      {
+        "index": 5,
+        "text": "park",
+        "answer": "park",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "公园",
+        "phonetic": "pɑːrk",
+        "pos": "NOUN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "the park",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；公园"
+      },
+      {
+        "index": 6,
+        "text": "today",
+        "answer": "today",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "时间状语",
+        "zh": "今天",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN"
+      },
+      {
+        "index": 7,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你今天去公园吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "to",
+      "Do",
+      "today",
+      "park",
+      "go",
+      "the",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Do",
+        "role": "助动词",
+        "zh": "助动词"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "go",
+        "role": "谓语",
+        "zh": "去"
+      },
+      {
+        "id": "ud-4",
+        "text": "to the park",
+        "role": "地点状语",
+        "zh": "对；定冠词；公园",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "to",
+            "role": "介词",
+            "zh": "对"
+          },
+          {
+            "id": "ud-6",
+            "text": "the park",
+            "role": "介词宾语",
+            "zh": "定冠词；公园",
+            "children": [
+              {
+                "id": "ud-7",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-8",
+                "text": "park",
+                "role": "中心词",
+                "zh": "公园"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ud-9",
+        "text": "today",
+        "role": "时间状语",
+        "zh": "今天"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "助动词",
+        "componentRole": "助动词",
+        "componentZh": "助动词"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "2": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentRole": "谓语",
+        "componentZh": "去"
+      },
+      "3": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "对",
+        "componentRole": "介词",
+        "componentZh": "对",
+        "parentComponentText": "to the park",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "对；定冠词；公园"
+      },
+      "4": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the park",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；公园"
+      },
+      "5": {
+        "text": "park",
+        "phonetic": "pɑːrk",
+        "pos": "NOUN",
+        "zh": "公园",
+        "componentRole": "中心词",
+        "componentZh": "公园",
+        "parentComponentText": "the park",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；公园"
+      },
+      "6": {
+        "text": "today",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN",
+        "zh": "今天",
+        "componentRole": "时间状语",
+        "componentZh": "今天"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-jvjyo96h44q4oesbrepcku4h-W-n4pudprd1m8tfnnmow4zaftv-1",
+    "contentId": "JLB-jvjyo96h44q4oesbrepcku4h-W-n4pudprd1m8tfnnmow4zaftv-1",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvjyo96h44q4oesbrepcku4h",
+    "unitTitle": "Unit 2 What Do You Do on Sunday?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "构成疑问句",
+    "audioText": "Do",
+    "fullEnglish": "Do",
+    "phonetic": "duː; də",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Do",
+        "answer": "Do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "助动词",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "Do"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "助动词",
+        "componentZh": "助动词"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvjyo96h44q4oesbrepcku4h-W-n4pudprd1m8tfnnmow4zaftv-2",
+    "contentId": "JLB-jvjyo96h44q4oesbrepcku4h-W-n4pudprd1m8tfnnmow4zaftv-2",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvjyo96h44q4oesbrepcku4h",
+    "unitTitle": "Unit 2 What Do You Do on Sunday?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvjyo96h44q4oesbrepcku4h-W-n4pudprd1m8tfnnmow4zaftv-3",
+    "contentId": "JLB-jvjyo96h44q4oesbrepcku4h-W-n4pudprd1m8tfnnmow4zaftv-3",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvjyo96h44q4oesbrepcku4h",
+    "unitTitle": "Unit 2 What Do You Do on Sunday?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "去",
+    "audioText": "go",
+    "fullEnglish": "go",
+    "phonetic": "ɡoʊ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "go"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvjyo96h44q4oesbrepcku4h-W-n4pudprd1m8tfnnmow4zaftv-4",
+    "contentId": "JLB-jvjyo96h44q4oesbrepcku4h-W-n4pudprd1m8tfnnmow4zaftv-4",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvjyo96h44q4oesbrepcku4h",
+    "unitTitle": "Unit 2 What Do You Do on Sunday?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "到",
+    "audioText": "to",
+    "fullEnglish": "to",
+    "phonetic": "tuː; tə",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "对",
+        "phonetic": "tuː; tə",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "to"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "对",
+        "componentZh": "对"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvjyo96h44q4oesbrepcku4h-W-n4pudprd1m8tfnnmow4zaftv-5",
+    "contentId": "JLB-jvjyo96h44q4oesbrepcku4h-W-n4pudprd1m8tfnnmow4zaftv-5",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvjyo96h44q4oesbrepcku4h",
+    "unitTitle": "Unit 2 What Do You Do on Sunday?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "the",
+    "fullEnglish": "the",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "the"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvjyo96h44q4oesbrepcku4h-W-n4pudprd1m8tfnnmow4zaftv-6",
+    "contentId": "JLB-jvjyo96h44q4oesbrepcku4h-W-n4pudprd1m8tfnnmow4zaftv-6",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvjyo96h44q4oesbrepcku4h",
+    "unitTitle": "Unit 2 What Do You Do on Sunday?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "公园",
+    "audioText": "park",
+    "fullEnglish": "park",
+    "phonetic": "pɑːrk",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "park",
+        "answer": "park",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "公园",
+        "phonetic": "pɑːrk",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "park"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "park",
+        "phonetic": "pɑːrk",
+        "pos": "NOUN",
+        "zh": "公园",
+        "componentZh": "公园"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvjyo96h44q4oesbrepcku4h-W-n4pudprd1m8tfnnmow4zaftv-7",
+    "contentId": "JLB-jvjyo96h44q4oesbrepcku4h-W-n4pudprd1m8tfnnmow4zaftv-7",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvjyo96h44q4oesbrepcku4h",
+    "unitTitle": "Unit 2 What Do You Do on Sunday?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "今天",
+    "audioText": "today",
+    "fullEnglish": "today",
+    "phonetic": "təˈdeɪ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "today",
+        "answer": "today",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "今天",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "today"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "today",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN",
+        "zh": "今天",
+        "componentZh": "今天"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvjyo96h44q4oesbrepcku4h-S-hv6em38ehi4utmyrwf75k9oh",
+    "contentId": "JLB-jvjyo96h44q4oesbrepcku4h-S-hv6em38ehi4utmyrwf75k9oh",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvjyo96h44q4oesbrepcku4h",
+    "unitTitle": "Unit 2 What Do You Do on Sunday?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不，我不。",
+    "audioText": "No, I don't",
+    "fullEnglish": "No, I don't",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "No",
+        "answer": "No",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "不",
+        "phonetic": "noʊ",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "不，我不。"
+      },
+      {
+        "index": 2,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "don't",
+        "answer": "don't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "方式/程度状语 + 谓语",
+        "zh": "不",
+        "phonetic": "doʊnt",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "No",
+      "I",
+      "don't"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "No",
+        "role": "语气/引导语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "don't",
+        "role": "方式/程度状语 + 谓语",
+        "zh": "不"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "No",
+        "phonetic": "noʊ",
+        "pos": "INTJ",
+        "zh": "不",
+        "componentRole": "语气/引导语",
+        "componentZh": "不"
+      },
+      "2": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "3": {
+        "text": "don't",
+        "phonetic": "doʊnt",
+        "pos": "AUX",
+        "zh": "不",
+        "componentRole": "方式/程度状语 + 谓语",
+        "componentZh": "不"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-jvjyo96h44q4oesbrepcku4h-S-sgo0uxf10yjsbxp9pm1j2ppc",
+    "contentId": "JLB-jvjyo96h44q4oesbrepcku4h-S-sgo0uxf10yjsbxp9pm1j2ppc",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvjyo96h44q4oesbrepcku4h",
+    "unitTitle": "Unit 2 What Do You Do on Sunday?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你周六做什么？",
+    "audioText": "What do you do on Saturday?",
+    "fullEnglish": "What do you do on Saturday?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "宾语",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "助动词",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "助动词",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      },
+      {
+        "index": 4,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "介词",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "on Saturday",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "在...上；星期六"
+      },
+      {
+        "index": 5,
+        "text": "Saturday",
+        "answer": "Saturday",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "星期六",
+        "phonetic": "ˈsætərdeɪ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "Saturday",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "星期六"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你周六做什么？"
+      }
+    ],
+    "shuffledBlocks": [
+      "What",
+      "do",
+      "you",
+      "on",
+      "do",
+      "Saturday"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What",
+        "role": "宾语",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "do",
+        "role": "助动词",
+        "zh": "助动词"
+      },
+      {
+        "id": "ud-3",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-4",
+        "text": "do",
+        "role": "谓语",
+        "zh": "助动词"
+      },
+      {
+        "id": "ud-5",
+        "text": "on Saturday",
+        "role": "时间状语",
+        "zh": "在...上；星期六",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "on",
+            "role": "介词",
+            "zh": "在...上"
+          },
+          {
+            "id": "ud-7",
+            "text": "Saturday",
+            "role": "介词宾语",
+            "zh": "星期六",
+            "children": [
+              {
+                "id": "ud-8",
+                "text": "Saturday",
+                "role": "中心词",
+                "zh": "星期六"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "宾语",
+        "componentZh": "什么"
+      },
+      "1": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "助动词",
+        "componentRole": "助动词",
+        "componentZh": "助动词"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "3": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "助动词",
+        "componentRole": "谓语",
+        "componentZh": "助动词"
+      },
+      "4": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentRole": "介词",
+        "componentZh": "在...上",
+        "parentComponentText": "on Saturday",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "在...上；星期六"
+      },
+      "5": {
+        "text": "Saturday",
+        "phonetic": "ˈsætərdeɪ",
+        "pos": "NOUN",
+        "zh": "星期六",
+        "componentRole": "中心词",
+        "componentZh": "星期六",
+        "parentComponentText": "Saturday",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "星期六"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-jvjyo96h44q4oesbrepcku4h-W-sgo0uxf10yjsbxp9pm1j2ppc-1",
+    "contentId": "JLB-jvjyo96h44q4oesbrepcku4h-W-sgo0uxf10yjsbxp9pm1j2ppc-1",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvjyo96h44q4oesbrepcku4h",
+    "unitTitle": "Unit 2 What Do You Do on Sunday?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么",
+    "audioText": "What",
+    "fullEnglish": "What",
+    "phonetic": "wʌt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "What"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvjyo96h44q4oesbrepcku4h-W-sgo0uxf10yjsbxp9pm1j2ppc-5",
+    "contentId": "JLB-jvjyo96h44q4oesbrepcku4h-W-sgo0uxf10yjsbxp9pm1j2ppc-5",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvjyo96h44q4oesbrepcku4h",
+    "unitTitle": "Unit 2 What Do You Do on Sunday?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在",
+    "audioText": "on",
+    "fullEnglish": "on",
+    "phonetic": "ɑːn",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "on"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentZh": "在...上"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvjyo96h44q4oesbrepcku4h-W-sgo0uxf10yjsbxp9pm1j2ppc-6",
+    "contentId": "JLB-jvjyo96h44q4oesbrepcku4h-W-sgo0uxf10yjsbxp9pm1j2ppc-6",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvjyo96h44q4oesbrepcku4h",
+    "unitTitle": "Unit 2 What Do You Do on Sunday?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "星期六",
+    "audioText": "Saturday",
+    "fullEnglish": "Saturday",
+    "phonetic": "ˈsætərdeɪ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Saturday",
+        "answer": "Saturday",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "星期六",
+        "phonetic": "ˈsætərdeɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Saturday"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Saturday",
+        "phonetic": "ˈsætərdeɪ",
+        "pos": "NOUN",
+        "zh": "星期六",
+        "componentZh": "星期六"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvjyo96h44q4oesbrepcku4h-S-ra687pxovwlcsiocugcd29rx",
+    "contentId": "JLB-jvjyo96h44q4oesbrepcku4h-S-ra687pxovwlcsiocugcd29rx",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvjyo96h44q4oesbrepcku4h",
+    "unitTitle": "Unit 2 What Do You Do on Sunday?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你周日做什么？",
+    "audioText": "What do you do on Sunday?",
+    "fullEnglish": "What do you do on Sunday?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "宾语",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "助动词",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "助动词",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      },
+      {
+        "index": 4,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "介词",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "on Sunday",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "在...上；星期日"
+      },
+      {
+        "index": 5,
+        "text": "Sunday",
+        "answer": "Sunday",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "星期日",
+        "phonetic": "ˈsʌndeɪ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "Sunday",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "星期日"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你周日做什么？"
+      }
+    ],
+    "shuffledBlocks": [
+      "What",
+      "you",
+      "Sunday",
+      "on",
+      "do",
+      "do"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What",
+        "role": "宾语",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "do",
+        "role": "助动词",
+        "zh": "助动词"
+      },
+      {
+        "id": "ud-3",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-4",
+        "text": "do",
+        "role": "谓语",
+        "zh": "助动词"
+      },
+      {
+        "id": "ud-5",
+        "text": "on Sunday",
+        "role": "时间状语",
+        "zh": "在...上；星期日",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "on",
+            "role": "介词",
+            "zh": "在...上"
+          },
+          {
+            "id": "ud-7",
+            "text": "Sunday",
+            "role": "介词宾语",
+            "zh": "星期日",
+            "children": [
+              {
+                "id": "ud-8",
+                "text": "Sunday",
+                "role": "中心词",
+                "zh": "星期日"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "宾语",
+        "componentZh": "什么"
+      },
+      "1": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "助动词",
+        "componentRole": "助动词",
+        "componentZh": "助动词"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "3": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "助动词",
+        "componentRole": "谓语",
+        "componentZh": "助动词"
+      },
+      "4": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentRole": "介词",
+        "componentZh": "在...上",
+        "parentComponentText": "on Sunday",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "在...上；星期日"
+      },
+      "5": {
+        "text": "Sunday",
+        "phonetic": "ˈsʌndeɪ",
+        "pos": "NOUN",
+        "zh": "星期日",
+        "componentRole": "中心词",
+        "componentZh": "星期日",
+        "parentComponentText": "Sunday",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "星期日"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-jvjyo96h44q4oesbrepcku4h-W-ra687pxovwlcsiocugcd29rx-5",
+    "contentId": "JLB-jvjyo96h44q4oesbrepcku4h-W-ra687pxovwlcsiocugcd29rx-5",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvjyo96h44q4oesbrepcku4h",
+    "unitTitle": "Unit 2 What Do You Do on Sunday?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "星期日",
+    "audioText": "Sunday",
+    "fullEnglish": "Sunday",
+    "phonetic": "ˈsʌndeɪ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Sunday",
+        "answer": "Sunday",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "星期日",
+        "phonetic": "ˈsʌndeɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Sunday"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Sunday",
+        "phonetic": "ˈsʌndeɪ",
+        "pos": "NOUN",
+        "zh": "星期日",
+        "componentZh": "星期日"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvjyo96h44q4oesbrepcku4h-PHRASE-et43aq5js6wyykfbu9yvrafd",
+    "contentId": "JLB-jvjyo96h44q4oesbrepcku4h-PHRASE-et43aq5js6wyykfbu9yvrafd",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvjyo96h44q4oesbrepcku4h",
+    "unitTitle": "Unit 2 What Do You Do on Sunday?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "去公园",
+    "audioText": "go to the park",
+    "fullEnglish": "go to the park",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "对",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "componentId": "ud-3",
+        "role": "介词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "to the park",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "对；定冠词；公园"
+      },
+      {
+        "index": 2,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "the park",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；公园"
+      },
+      {
+        "index": 3,
+        "text": "park",
+        "answer": "park",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "公园",
+        "phonetic": "pɑːrk",
+        "pos": "NOUN",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "the park",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；公园"
+      }
+    ],
+    "shuffledBlocks": [
+      "to",
+      "the",
+      "park",
+      "go"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "go",
+        "role": "谓语",
+        "zh": "去"
+      },
+      {
+        "id": "ud-2",
+        "text": "to the park",
+        "role": "地点状语",
+        "zh": "对；定冠词；公园",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "to",
+            "role": "介词",
+            "zh": "对"
+          },
+          {
+            "id": "ud-4",
+            "text": "the park",
+            "role": "介词宾语",
+            "zh": "定冠词；公园",
+            "children": [
+              {
+                "id": "ud-5",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-6",
+                "text": "park",
+                "role": "中心词",
+                "zh": "公园"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "对",
+        "componentZh": "对",
+        "componentRole": "介词",
+        "parentComponentText": "to the park",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "对；定冠词；公园"
+      },
+      "2": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "限定词",
+        "parentComponentText": "the park",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；公园"
+      },
+      "3": {
+        "text": "park",
+        "phonetic": "pɑːrk",
+        "pos": "NOUN",
+        "zh": "公园",
+        "componentZh": "公园",
+        "componentRole": "中心词",
+        "parentComponentText": "the park",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；公园"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-jvjyo96h44q4oesbrepcku4h-PHRASE-t022vt8609i7j590b4fsoa9f",
+    "contentId": "JLB-jvjyo96h44q4oesbrepcku4h-PHRASE-t022vt8609i7j590b4fsoa9f",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvjyo96h44q4oesbrepcku4h",
+    "unitTitle": "Unit 2 What Do You Do on Sunday?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你做",
+    "audioText": "do you do",
+    "fullEnglish": "do you do",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "助动词",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "助动词",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "componentId": "ud-3",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "do",
+      "do",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "do",
+        "role": "助动词",
+        "zh": "助动词"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "do",
+        "role": "谓语",
+        "zh": "助动词"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "助动词",
+        "componentZh": "助动词",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "助动词",
+        "componentZh": "助动词",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

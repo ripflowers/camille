@@ -1,0 +1,2273 @@
+{
+  "id": "n4cflyy1ks8lstf6lor0tkv2",
+  "title": "Day 40",
+  "description": "Day 40【基础保分词】",
+  "video": "",
+  "order": 40,
+  "coursePackId": "d2g62c40u03cdjj5gfqngk6t",
+  "type": "normal",
+  "mediaUrl": null,
+  "mediaAssetId": null,
+  "image": null,
+  "statements": [
+    {
+      "id": "jarxyf3fcnuxtrwaqvn4qpjg",
+      "order": 1,
+      "chinese": "n. 气候；气候区；风气",
+      "english": "climate",
+      "soundmark": "ˈklaɪmət",
+      "type": "",
+      "sentenceId": "phapb1dg071v3qosl8etog02",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "mxh13cg0qky56ol5efxe0kkw",
+      "order": 2,
+      "chinese": "n. 天气，气象；气象预报；vt./vi. ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤(使)褪色，变色；vt. 经受住，平安地渡过(难关)",
+      "english": "weather",
+      "soundmark": "ˈweðər",
+      "type": "",
+      "sentenceId": "r0teiv5ovjn3w0k4xua94egl",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "w3byzk74z2md16p7im6pq53w",
+      "order": 3,
+      "chinese": "n. 云，云朵；云状物",
+      "english": "cloud",
+      "soundmark": "klaʊd",
+      "type": "",
+      "sentenceId": "jy1dxmutfkpohs6wwhdifhwt",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "yi1shon2wtn7erpyez2udiyf",
+      "order": 4,
+      "chinese": "adj. 多云的，阴天的；浑浊的",
+      "english": "cloudy",
+      "soundmark": "ˈklaʊdi",
+      "type": "",
+      "sentenceId": "str1tkx15mq6ajaaht55x7r6",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "zubf9bq8jwpt2yfyy4a0hzda",
+      "order": 5,
+      "chinese": "n. ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤风，气流；vt. 绕，缠；vi. 蜿蜒前进",
+      "english": "wind",
+      "soundmark": "wɪnd",
+      "type": "",
+      "sentenceId": "wtmr3l16h3d82cx760vyhvd6",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "gvxecm2fbe48ha8abh0vrzxp",
+      "order": 6,
+      "chinese": "adj. 多风的，风大的",
+      "english": "windy",
+      "soundmark": "ˈwɪndi",
+      "type": "",
+      "sentenceId": "f20vf0a4tvl899ow7vfjqao8",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "f1onmejjy165wv3qb1voev3w",
+      "order": 7,
+      "chinese": "adj. 阳光充足的，晴朗的",
+      "english": "sunny",
+      "soundmark": "ˈsʌni",
+      "type": "",
+      "sentenceId": "g0zh352kb9794y5fds2nytfh",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "vdxjjypd9csd67z4zlgnw4z2",
+      "order": 8,
+      "chinese": "adj. ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤冷的，寒冷的；冷淡的；n. 冷，寒冷；感冒，伤风",
+      "english": "cold",
+      "soundmark": "koʊld",
+      "type": "",
+      "sentenceId": "t1i31mzsfx2wobzxp83pumgm",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "r5rgliadfzpa9uyyq8dbrmu4",
+      "order": 9,
+      "chinese": "adj. 热的；辣的；热门的",
+      "english": "hot",
+      "soundmark": "hɑːt",
+      "type": "",
+      "sentenceId": "cnkqiexl8qkcjqdvy1h9rnh1",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "bzh530vvlqdznrzlmtaoogbl",
+      "order": 10,
+      "chinese": "n. ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤雨；vi. 下雨",
+      "english": "rain",
+      "soundmark": "reɪn",
+      "type": "",
+      "sentenceId": "c3i77nn1v8h2jke1vosjf5vc",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "f13uy55gga0w19z8p0wf5ilk",
+      "order": 11,
+      "chinese": "n. 雪；降雪量",
+      "english": "snow",
+      "soundmark": "snoʊ",
+      "type": "",
+      "sentenceId": "l9c4nkxvfm5k7k51fftofeaf",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "dzvw1dq2pcb9b5e5xl3uzv66",
+      "order": 12,
+      "chinese": "n. ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤暴风雨；vi. 气呼呼地疾走",
+      "english": "storm",
+      "soundmark": "stɔːrm",
+      "type": "",
+      "sentenceId": "ecg53pjoknir38cpkoksro9m",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "mgjqq51tlkv27tdz33dw1hdj",
+      "order": 13,
+      "chinese": "n. ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤雷，雷声；轰隆声；vi. 打雷",
+      "english": "thunder",
+      "soundmark": "ˈθʌndər",
+      "type": "",
+      "sentenceId": "m1imwbph3s50050xqzryku31",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "oeyj4ghhik5ls4qjut9gw5nq",
+      "order": 14,
+      "chinese": "n. 闪电",
+      "english": "lightning",
+      "soundmark": "ˈlaɪtnɪŋ",
+      "type": "",
+      "sentenceId": "cgbxap7pwwunhlzx0lesotio",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "mj8yc95tqy0wrgojfh2rg6se",
+      "order": 15,
+      "chinese": "n. 雾",
+      "english": "fog",
+      "soundmark": "fɑːɡ",
+      "type": "",
+      "sentenceId": "upp8h9rh9iyje9jiaw31x7ha",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "qhkgwci2xjlfpzp0dll315hk",
+      "order": 16,
+      "chinese": "n. 土壤，土地，泥土",
+      "english": "soil",
+      "soundmark": "sɔɪl",
+      "type": "",
+      "sentenceId": "i6omi5cfwljpha27229265ld",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "du94c42shnfb121b5zvmrfh3",
+      "order": 17,
+      "chinese": "n. 风景，景色",
+      "english": "landscape",
+      "soundmark": "ˈlændskeɪp",
+      "type": "",
+      "sentenceId": "sy22bqsjx4xwniavgi40hw2t",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "gj3u2jzair1mswdap9s7szrc",
+      "order": 18,
+      "chinese": "n. 森林，林区",
+      "english": "forest",
+      "soundmark": "ˈfɔːrɪst",
+      "type": "",
+      "sentenceId": "q8bo594ysv2twgjet325yuq7",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "k0y8r9vocfn2swhulcq2zfnv",
+      "order": 19,
+      "chinese": "n. 沙漠，荒漠",
+      "english": "desert",
+      "soundmark": "ˈdezərt",
+      "type": "",
+      "sentenceId": "is94mpnug6cpsjaf333f3pzk",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "cunyb5l405zdnj53k7fpp6o2",
+      "order": 20,
+      "chinese": "n. 海滨，海滩",
+      "english": "beach",
+      "soundmark": "biːtʃ",
+      "type": "",
+      "sentenceId": "i2hrsk20cvb5fdfkcdbrdafj",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "qfoqklga676snnv8o5vnwdnt",
+      "order": 21,
+      "chinese": "n. 地，地面；土壤",
+      "english": "ground",
+      "soundmark": "ɡraʊnd",
+      "type": "",
+      "sentenceId": "gxi0llnzuwv5o68mier68i9z",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "q4b2b3mmek14ipknyaoja04t",
+      "order": 22,
+      "chinese": "n. 洞，孔，洞穴",
+      "english": "hole",
+      "soundmark": "hoʊl",
+      "type": "",
+      "sentenceId": "lphtfa1flehxjs0g9zex1agy",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "iu1qyd3m1lvaejmb8361in3q",
+      "order": 23,
+      "chinese": "n. 沙，沙子；沙滩",
+      "english": "sand",
+      "soundmark": "sænd",
+      "type": "",
+      "sentenceId": "r1rx1935tece5ye0ocpn4l02",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "mnagnvdomsdgxsy1cyd4jx58",
+      "order": 24,
+      "chinese": "n. 石头，石料；石块，石子；宝石；棋子",
+      "english": "stone",
+      "soundmark": "stoʊn",
+      "type": "",
+      "sentenceId": "wykzpatar36pozbecb0adegx",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "igmy4tum80m0o6wg6yo457ld",
+      "order": 25,
+      "chinese": "n. 岩石；摇滚乐",
+      "english": "rock",
+      "soundmark": "rɑːk",
+      "type": "",
+      "sentenceId": "mwdbmduuigdf4qssl831cm23",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "gp8cn2nloprppbc4kui08vte",
+      "order": 26,
+      "chinese": "n. 木头，木材；(小)树林，林地",
+      "english": "wood",
+      "soundmark": "wʊd",
+      "type": "",
+      "sentenceId": "t8oqp80d5kfz86ep3t4zi51o",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "m25qtvdidhhu8y9ccc5ven7t",
+      "order": 27,
+      "chinese": "n. 海岸，海滨",
+      "english": "coast",
+      "soundmark": "koʊst",
+      "type": "",
+      "sentenceId": "tm8p7qgwl7e4fel2x2xbvs5w",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "pl8pkep7q6kes8f6ab5zhviu",
+      "order": 28,
+      "chinese": "n. 菜单",
+      "english": "menu",
+      "soundmark": "ˈmenjuː",
+      "type": "",
+      "sentenceId": "mu2td1bnuub2bykk90i98wij",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "nzwko5s5erlsmwp133pj6rbf",
+      "order": 29,
+      "chinese": "n. 食物，食品",
+      "english": "food",
+      "soundmark": "fuːd",
+      "type": "",
+      "sentenceId": "waw6dxr00iffs8bxixqqmig3",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "jzhrn99dfa9xo1rtb0y4ui17",
+      "order": 30,
+      "chinese": "n. 糖果",
+      "english": "candy",
+      "soundmark": "ˈkændi",
+      "type": "",
+      "sentenceId": "d78ga397if9l512yj0udfm1r",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "ykmavypb2tf2sit05y4bgn28",
+      "order": 31,
+      "chinese": "n. 沙拉，色拉",
+      "english": "salad",
+      "soundmark": "ˈsæləd",
+      "type": "",
+      "sentenceId": "h2hvkhg88ftbry4jpr1pk8o1",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "dpsv923t8rh2dq2r5pwilizj",
+      "order": 32,
+      "chinese": "n. 豆腐",
+      "english": "tofu",
+      "soundmark": "ˈtoʊfuː",
+      "type": "",
+      "sentenceId": "dkk4ummh2hhjew9r8ans8oem",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "bplt0p0aup7uv72yhbh53zp9",
+      "order": 33,
+      "chinese": "n. 水稻；大米，米饭",
+      "english": "rice",
+      "soundmark": "raɪs",
+      "type": "",
+      "sentenceId": "g0vg8mdlvbrtinabsz6grolj",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "v1zoqqpn6dp1bk4azfx5bc6a",
+      "order": 34,
+      "chinese": "n. 面条",
+      "english": "noodle",
+      "soundmark": "ˈnuːd(ə)l",
+      "type": "",
+      "sentenceId": "nj4c4513eknejt3747dszzm9",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "omuu6zr4tnge7zq7999ihjbq",
+      "order": 35,
+      "chinese": "n. 面包",
+      "english": "bread",
+      "soundmark": "bred",
+      "type": "",
+      "sentenceId": "eyo2k38kqmffe1zs1zyka5jo",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "fcs37lj0fa69fsrb3nu98ht0",
+      "order": 36,
+      "chinese": "adj. ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤甜的；可爱的；悦耳的；n. 糖果；甜点；亲爱的",
+      "english": "sweet",
+      "soundmark": "swiːt",
+      "type": "",
+      "sentenceId": "qadrrw6efwp8s7yypk587far",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "wi90p603shfdufojtdlyoh6e",
+      "order": 37,
+      "chinese": "n. 蛋糕，糕饼",
+      "english": "cake",
+      "soundmark": "keɪk",
+      "type": "",
+      "sentenceId": "en1up3zzlmhq1g4mxi64s33v",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "p77jaxouhz4h9p3fg55kypyt",
+      "order": 38,
+      "chinese": "n. 薄煎饼，薄烤饼，薄饼，烙饼",
+      "english": "pancake",
+      "soundmark": "ˈpænkeɪk",
+      "type": "",
+      "sentenceId": "cz18aogy745eoeb73dpsmyue",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "zfbg2q3on0xvq1z5p0zc0svw",
+      "order": 39,
+      "chinese": "n. 小甜饼，曲奇(饼)",
+      "english": "cookie",
+      "soundmark": "ˈkʊki",
+      "type": "",
+      "sentenceId": "uzt9a9iqjo46pjpf42r5snt5",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "mzp4gqaokrpdul1gt1pdg1qu",
+      "order": 40,
+      "chinese": "n. 馅饼，派",
+      "english": "pie",
+      "soundmark": "paɪ",
+      "type": "",
+      "sentenceId": "vjdk9153i689s6f4k8o87gmn",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "k1e42yjsnf5no5hmd9o1u79v",
+      "order": 41,
+      "chinese": "n. 饼干",
+      "english": "biscuit",
+      "soundmark": "ˈbɪskɪt",
+      "type": "",
+      "sentenceId": "zkanpnxf3a853hqsxbypqo62",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "j7zszdw7dclo0q2fgnao03a6",
+      "order": 42,
+      "chinese": "n. 汉堡包",
+      "english": "hamburger",
+      "soundmark": "ˈhæmbɜːrɡər",
+      "type": "",
+      "sentenceId": "wq5wansnd5lxg6tvvjnxrx3g",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "xdzcd2iancrrxwq7p5lsp190",
+      "order": 43,
+      "chinese": "n. 油炸土豆条，炸薯条；芯片",
+      "english": "chip",
+      "soundmark": "tʃɪp",
+      "type": "",
+      "sentenceId": "cwy1l8rm649102q2rem2t2sv",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "g7yfm5ocoaoyhvq7e5syj9qf",
+      "order": 44,
+      "chinese": "n. 三明治，夹心面包片",
+      "english": "sandwich",
+      "soundmark": "ˈsænwɪtʃ",
+      "type": "",
+      "sentenceId": "wnd4c2rc6lw05zi4b5lrxp7q",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "dzczgfrftyyluadxva0sm84o",
+      "order": 45,
+      "chinese": "n. 比萨饼",
+      "english": "pizza",
+      "soundmark": "ˈpiːtsə",
+      "type": "",
+      "sentenceId": "cvmo1ht1rm1jkqto4iruapq1",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "v2jpe124jttenp5do5rho5hj",
+      "order": 46,
+      "chinese": "n. 水饺，汤圆",
+      "english": "dumpling",
+      "soundmark": "ˈdʌmplɪŋ",
+      "type": "",
+      "sentenceId": "nvwu7af1tpowvpx6cgm1ihxz",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "aikyz3dxon21xcd0roitlwy1",
+      "order": 47,
+      "chinese": "n. 蛋，卵；鸡蛋",
+      "english": "egg",
+      "soundmark": "eɡ",
+      "type": "",
+      "sentenceId": "lu09pltkvq3lnaw0pze31agg",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "irfwyyd4hscvsl5f2r9ax5u6",
+      "order": 48,
+      "chinese": "n. 蔬菜",
+      "english": "vegetable",
+      "soundmark": "ˈvedʒtəb(ə)l",
+      "type": "",
+      "sentenceId": "fzu60vxyzdxwo29ntx4cuxza",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "lexompmlrmi1wqvzyx3ggm19",
+      "order": 49,
+      "chinese": "n. 马铃薯，土豆",
+      "english": "potato",
+      "soundmark": "pəˈteɪtoʊ",
+      "type": "",
+      "sentenceId": "nka7sakffxbqjq4qea3lag21",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "vflhbvxv8lwxes2g3qarqdap",
+      "order": 50,
+      "chinese": "n. 西红柿，番茄",
+      "english": "tomato",
+      "soundmark": "təˈmeɪtoʊ",
+      "type": "",
+      "sentenceId": "isap76kla24wm7nqvthu1eoh",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "ac8klkck039100kx4rwizwpn",
+      "order": 51,
+      "chinese": "n. 胡萝卜",
+      "english": "carrot",
+      "soundmark": "ˈkærət",
+      "type": "",
+      "sentenceId": "n9uk9bri5nqbfraxl4u8oass",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "oqpn7l6tlzai7v4r1369n3o0",
+      "order": 52,
+      "chinese": "n. 洋葱，葱头",
+      "english": "onion",
+      "soundmark": "ˈʌnjən",
+      "type": "",
+      "sentenceId": "mdaa6gaq8eh4s619tibu6nvn",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "p8rwniqzfmdnd7iaaz3dgwg4",
+      "order": 53,
+      "chinese": "n. 卷心菜，洋白菜，甘蓝",
+      "english": "cabbage",
+      "soundmark": "ˈkæbɪdʒ",
+      "type": "",
+      "sentenceId": "aobflztlszzarmwut19xyiyp",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "fjfc5kh6vwlo6uzco56s5bca",
+      "order": 54,
+      "chinese": "n. 黄瓜",
+      "english": "cucumber",
+      "soundmark": "ˈkjuːkʌmbər",
+      "type": "",
+      "sentenceId": "mmvu1cy5tsdkdman5z3jqw6n",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "m9u4f9m0q0ewhksy2ny07pbx",
+      "order": 55,
+      "chinese": "n. 豆，豆荚，豆科植物",
+      "english": "bean",
+      "soundmark": "biːn",
+      "type": "",
+      "sentenceId": "jxebf1qhm6p3hj7sbu4b7494",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "kmyuzss785ambmzkujhgj8bl",
+      "order": 56,
+      "chinese": "n. 谷物；玉米",
+      "english": "corn",
+      "soundmark": "kɔːrn",
+      "type": "",
+      "sentenceId": "da3io78jtjanuuuz2c63ldkh",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "m7ni9bqtfo490pjwphlseft6",
+      "order": 57,
+      "chinese": "n. 甜椒，柿子椒；胡椒粉",
+      "english": "pepper",
+      "soundmark": "ˈpepər",
+      "type": "",
+      "sentenceId": "jvrxj91vdm7ktfoe4n4x4ufy",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "zg4euotb0bni5cebfi9llgvt",
+      "order": 58,
+      "chinese": "n. 肉类，(某种)食用肉",
+      "english": "meat",
+      "soundmark": "miːt",
+      "type": "",
+      "sentenceId": "qlq6zcub4qae6g91hqm89e2y",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "p4p88o52unnlk7t9icre3870",
+      "order": 59,
+      "chinese": "n. 猪肉",
+      "english": "pork",
+      "soundmark": "pɔːrk",
+      "type": "",
+      "sentenceId": "s0uu8f1vysq4mc9hg51iv8rl",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "xfax6bda0vgbbwyjdkopt5pk",
+      "order": 60,
+      "chinese": "n. 牛肉",
+      "english": "beef",
+      "soundmark": "biːf",
+      "type": "",
+      "sentenceId": "kko348jzwk8hiyccb2wysstl",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    }
+  ],
+  "sentences": [
+    {
+      "id": "phapb1dg071v3qosl8etog02",
+      "content": "climate",
+      "english": "climate",
+      "chinese": "n. 气候；气候区；风气",
+      "sortOrder": 1,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "climate",
+          "phonetic": {
+            "uk": "ˈklaɪmət",
+            "us": "ˈklaɪmət"
+          },
+          "definition": "气候"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "r0teiv5ovjn3w0k4xua94egl",
+      "content": "weather",
+      "english": "weather",
+      "chinese": "n. 天气，气象；气象预报；vt./vi. ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤(使)褪色，变色；vt. 经受住，平安地渡过(难关)",
+      "sortOrder": 2,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "weather",
+          "phonetic": {
+            "uk": "ˈweðə(r)",
+            "us": "ˈweðər"
+          },
+          "definition": "天气"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "jy1dxmutfkpohs6wwhdifhwt",
+      "content": "cloud",
+      "english": "cloud",
+      "chinese": "n. 云，云朵；云状物",
+      "sortOrder": 3,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "cloud",
+          "phonetic": {
+            "uk": "klaʊd",
+            "us": "klaʊd"
+          },
+          "definition": "云"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "str1tkx15mq6ajaaht55x7r6",
+      "content": "cloudy",
+      "english": "cloudy",
+      "chinese": "adj. 多云的，阴天的；浑浊的",
+      "sortOrder": 4,
+      "wordDetails": [
+        {
+          "pos": "ADJ",
+          "word": "cloudy",
+          "phonetic": {
+            "uk": "ˈklaʊdi",
+            "us": "ˈklaʊdi"
+          },
+          "definition": "多云的"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "wtmr3l16h3d82cx760vyhvd6",
+      "content": "wind",
+      "english": "wind",
+      "chinese": "n. ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤风，气流；vt. 绕，缠；vi. 蜿蜒前进",
+      "sortOrder": 5,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "wind",
+          "phonetic": {
+            "uk": "wɪnd",
+            "us": "wɪnd"
+          },
+          "definition": "风"
+        },
+        {
+          "pos": "VERB",
+          "word": "wind",
+          "phonetic": {
+            "uk": "wɪnd",
+            "us": "wɪnd"
+          },
+          "definition": "wind（原型）: 缠绕"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "f20vf0a4tvl899ow7vfjqao8",
+      "content": "windy",
+      "english": "windy",
+      "chinese": "adj. 多风的，风大的",
+      "sortOrder": 6,
+      "wordDetails": [
+        {
+          "pos": "ADJ",
+          "word": "windy",
+          "phonetic": {
+            "uk": "ˈwɪndi",
+            "us": "ˈwɪndi"
+          },
+          "definition": "多风的"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "g0zh352kb9794y5fds2nytfh",
+      "content": "sunny",
+      "english": "sunny",
+      "chinese": "adj. 阳光充足的，晴朗的",
+      "sortOrder": 7,
+      "wordDetails": [
+        {
+          "pos": "ADJ",
+          "word": "sunny",
+          "phonetic": {
+            "uk": "ˈsʌni",
+            "us": "ˈsʌni"
+          },
+          "definition": "阳光充足的"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "t1i31mzsfx2wobzxp83pumgm",
+      "content": "cold",
+      "english": "cold",
+      "chinese": "adj. ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤冷的，寒冷的；冷淡的；n. 冷，寒冷；感冒，伤风",
+      "sortOrder": 8,
+      "wordDetails": [
+        {
+          "pos": "ADJ",
+          "word": "cold",
+          "phonetic": {
+            "uk": "kəʊld",
+            "us": "koʊld"
+          },
+          "definition": "冷的"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "cnkqiexl8qkcjqdvy1h9rnh1",
+      "content": "hot",
+      "english": "hot",
+      "chinese": "adj. 热的；辣的；热门的",
+      "sortOrder": 9,
+      "wordDetails": [
+        {
+          "pos": "ADJ",
+          "word": "hot",
+          "phonetic": {
+            "uk": "hɒt",
+            "us": "hɑːt"
+          },
+          "definition": "热的"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "c3i77nn1v8h2jke1vosjf5vc",
+      "content": "rain",
+      "english": "rain",
+      "chinese": "n. ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤雨；vi. 下雨",
+      "sortOrder": 10,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "rain",
+          "phonetic": {
+            "uk": "reɪn",
+            "us": "reɪn"
+          },
+          "definition": "雨"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "l9c4nkxvfm5k7k51fftofeaf",
+      "content": "snow",
+      "english": "snow",
+      "chinese": "n. 雪；降雪量",
+      "sortOrder": 11,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "snow",
+          "phonetic": {
+            "uk": "snəʊ",
+            "us": "snoʊ"
+          },
+          "definition": "雪"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "ecg53pjoknir38cpkoksro9m",
+      "content": "storm",
+      "english": "storm",
+      "chinese": "n. ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤暴风雨；vi. 气呼呼地疾走",
+      "sortOrder": 12,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "storm",
+          "phonetic": {
+            "uk": "stɔːm",
+            "us": "stɔːrm"
+          },
+          "definition": "风暴"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "m1imwbph3s50050xqzryku31",
+      "content": "thunder",
+      "english": "thunder",
+      "chinese": "n. ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤雷，雷声；轰隆声；vi. 打雷",
+      "sortOrder": 13,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "thunder",
+          "phonetic": {
+            "uk": "ˈθʌndə(r)",
+            "us": "ˈθʌndər"
+          },
+          "definition": "雷声"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "cgbxap7pwwunhlzx0lesotio",
+      "content": "lightning",
+      "english": "lightning",
+      "chinese": "n. 闪电",
+      "sortOrder": 14,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "lightning",
+          "phonetic": {
+            "uk": "ˈlaɪtnɪŋ",
+            "us": "ˈlaɪtnɪŋ"
+          },
+          "definition": "闪电"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "upp8h9rh9iyje9jiaw31x7ha",
+      "content": "fog",
+      "english": "fog",
+      "chinese": "n. 雾",
+      "sortOrder": 15,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "fog",
+          "phonetic": {
+            "uk": "fɒɡ",
+            "us": "fɑːɡ"
+          },
+          "definition": "雾"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "i6omi5cfwljpha27229265ld",
+      "content": "soil",
+      "english": "soil",
+      "chinese": "n. 土壤，土地，泥土",
+      "sortOrder": 16,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "soil",
+          "phonetic": {
+            "uk": "sɔɪl",
+            "us": "sɔɪl"
+          },
+          "definition": "土壤"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "sy22bqsjx4xwniavgi40hw2t",
+      "content": "landscape",
+      "english": "landscape",
+      "chinese": "n. 风景，景色",
+      "sortOrder": 17,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "landscape",
+          "phonetic": {
+            "uk": "ˈlændskeɪp",
+            "us": "ˈlændskeɪp"
+          },
+          "definition": "风景"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "q8bo594ysv2twgjet325yuq7",
+      "content": "forest",
+      "english": "forest",
+      "chinese": "n. 森林，林区",
+      "sortOrder": 18,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "forest",
+          "phonetic": {
+            "uk": "ˈfɒrɪst",
+            "us": "ˈfɔːrɪst"
+          },
+          "definition": "森林"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "is94mpnug6cpsjaf333f3pzk",
+      "content": "desert",
+      "english": "desert",
+      "chinese": "n. 沙漠，荒漠",
+      "sortOrder": 19,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "desert",
+          "phonetic": {
+            "uk": "ˈdezət",
+            "us": "ˈdezərt"
+          },
+          "definition": "沙漠"
+        },
+        {
+          "pos": "VERB",
+          "word": "desert",
+          "phonetic": {
+            "uk": "ˈdezət",
+            "us": "ˈdezərt"
+          },
+          "definition": "遗弃"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "i2hrsk20cvb5fdfkcdbrdafj",
+      "content": "beach",
+      "english": "beach",
+      "chinese": "n. 海滨，海滩",
+      "sortOrder": 20,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "beach",
+          "phonetic": {
+            "uk": "biːtʃ",
+            "us": "biːtʃ"
+          },
+          "definition": "海滩"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "gxi0llnzuwv5o68mier68i9z",
+      "content": "ground",
+      "english": "ground",
+      "chinese": "n. 地，地面；土壤",
+      "sortOrder": 21,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "ground",
+          "phonetic": {
+            "uk": "ɡraʊnd",
+            "us": "ɡraʊnd"
+          },
+          "definition": "地面"
+        },
+        {
+          "pos": "VERB",
+          "word": "ground",
+          "phonetic": {
+            "uk": "ɡraʊnd",
+            "us": "ɡraʊnd"
+          },
+          "definition": "grind（过去分词）: 研磨"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "lphtfa1flehxjs0g9zex1agy",
+      "content": "hole",
+      "english": "hole",
+      "chinese": "n. 洞，孔，洞穴",
+      "sortOrder": 22,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "hole",
+          "phonetic": {
+            "uk": "həʊl",
+            "us": "hoʊl"
+          },
+          "definition": "洞"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "r1rx1935tece5ye0ocpn4l02",
+      "content": "sand",
+      "english": "sand",
+      "chinese": "n. 沙，沙子；沙滩",
+      "sortOrder": 23,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "sand",
+          "phonetic": {
+            "uk": "sænd",
+            "us": "sænd"
+          },
+          "definition": "沙子"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "wykzpatar36pozbecb0adegx",
+      "content": "stone",
+      "english": "stone",
+      "chinese": "n. 石头，石料；石块，石子；宝石；棋子",
+      "sortOrder": 24,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "stone",
+          "phonetic": {
+            "uk": "stəʊn",
+            "us": "stoʊn"
+          },
+          "definition": "石头"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "mwdbmduuigdf4qssl831cm23",
+      "content": "rock",
+      "english": "rock",
+      "chinese": "n. 岩石；摇滚乐",
+      "sortOrder": 25,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "rock",
+          "phonetic": {
+            "uk": "rɒk",
+            "us": "rɑːk"
+          },
+          "definition": "岩石"
+        },
+        {
+          "pos": "VERB",
+          "word": "rock",
+          "phonetic": {
+            "uk": "rɒk",
+            "us": "rɑːk"
+          },
+          "definition": "摇动"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "t8oqp80d5kfz86ep3t4zi51o",
+      "content": "wood",
+      "english": "wood",
+      "chinese": "n. 木头，木材；(小)树林，林地",
+      "sortOrder": 26,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "wood",
+          "phonetic": {
+            "uk": "wʊd",
+            "us": "wʊd"
+          },
+          "definition": "木材"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "tm8p7qgwl7e4fel2x2xbvs5w",
+      "content": "coast",
+      "english": "coast",
+      "chinese": "n. 海岸，海滨",
+      "sortOrder": 27,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "coast",
+          "phonetic": {
+            "uk": "kəʊst",
+            "us": "koʊst"
+          },
+          "definition": "海岸"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "mu2td1bnuub2bykk90i98wij",
+      "content": "menu",
+      "english": "menu",
+      "chinese": "n. 菜单",
+      "sortOrder": 28,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "menu",
+          "phonetic": {
+            "uk": "ˈmenjuː",
+            "us": "ˈmenjuː"
+          },
+          "definition": "菜单"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "waw6dxr00iffs8bxixqqmig3",
+      "content": "food",
+      "english": "food",
+      "chinese": "n. 食物，食品",
+      "sortOrder": 29,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "food",
+          "phonetic": {
+            "uk": "fuːd",
+            "us": "fuːd"
+          },
+          "definition": "食物"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "d78ga397if9l512yj0udfm1r",
+      "content": "candy",
+      "english": "candy",
+      "chinese": "n. 糖果",
+      "sortOrder": 30,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "candy",
+          "phonetic": {
+            "uk": "ˈkændi",
+            "us": "ˈkændi"
+          },
+          "definition": "糖果"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "h2hvkhg88ftbry4jpr1pk8o1",
+      "content": "salad",
+      "english": "salad",
+      "chinese": "n. 沙拉，色拉",
+      "sortOrder": 31,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "salad",
+          "phonetic": {
+            "uk": "ˈsæləd",
+            "us": "ˈsæləd"
+          },
+          "definition": "沙拉"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "dkk4ummh2hhjew9r8ans8oem",
+      "content": "tofu",
+      "english": "tofu",
+      "chinese": "n. 豆腐",
+      "sortOrder": 32,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "tofu",
+          "phonetic": {
+            "uk": "ˈtəʊfuː",
+            "us": "ˈtoʊfuː"
+          },
+          "definition": "豆腐"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "g0vg8mdlvbrtinabsz6grolj",
+      "content": "rice",
+      "english": "rice",
+      "chinese": "n. 水稻；大米，米饭",
+      "sortOrder": 33,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "rice",
+          "phonetic": {
+            "uk": "raɪs",
+            "us": "raɪs"
+          },
+          "definition": "大米"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "nj4c4513eknejt3747dszzm9",
+      "content": "noodle",
+      "english": "noodle",
+      "chinese": "n. 面条",
+      "sortOrder": 34,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "noodle",
+          "phonetic": {
+            "uk": "ˈnuːd(ə)l",
+            "us": "ˈnuːd(ə)l"
+          },
+          "definition": "面条"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "eyo2k38kqmffe1zs1zyka5jo",
+      "content": "bread",
+      "english": "bread",
+      "chinese": "n. 面包",
+      "sortOrder": 35,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "bread",
+          "phonetic": {
+            "uk": "bred",
+            "us": "bred"
+          },
+          "definition": "面包"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "qadrrw6efwp8s7yypk587far",
+      "content": "sweet",
+      "english": "sweet",
+      "chinese": "adj. ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤甜的；可爱的；悦耳的；n. 糖果；甜点；亲爱的",
+      "sortOrder": 36,
+      "wordDetails": [
+        {
+          "pos": "ADJ",
+          "word": "sweet",
+          "phonetic": {
+            "uk": "swiːt",
+            "us": "swiːt"
+          },
+          "definition": "甜的"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "en1up3zzlmhq1g4mxi64s33v",
+      "content": "cake",
+      "english": "cake",
+      "chinese": "n. 蛋糕，糕饼",
+      "sortOrder": 37,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "cake",
+          "phonetic": {
+            "uk": "keɪk",
+            "us": "keɪk"
+          },
+          "definition": "蛋糕"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "cz18aogy745eoeb73dpsmyue",
+      "content": "pancake",
+      "english": "pancake",
+      "chinese": "n. 薄煎饼，薄烤饼，薄饼，烙饼",
+      "sortOrder": 38,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "pancake",
+          "phonetic": {
+            "uk": "ˈpænkeɪk",
+            "us": "ˈpænkeɪk"
+          },
+          "definition": "煎饼"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "uzt9a9iqjo46pjpf42r5snt5",
+      "content": "cookie",
+      "english": "cookie",
+      "chinese": "n. 小甜饼，曲奇(饼)",
+      "sortOrder": 39,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "cookie",
+          "phonetic": {
+            "uk": "ˈkʊki",
+            "us": "ˈkʊki"
+          },
+          "definition": "饼干"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "vjdk9153i689s6f4k8o87gmn",
+      "content": "pie",
+      "english": "pie",
+      "chinese": "n. 馅饼，派",
+      "sortOrder": 40,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "pie",
+          "phonetic": {
+            "uk": "paɪ",
+            "us": "paɪ"
+          },
+          "definition": "馅饼"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "zkanpnxf3a853hqsxbypqo62",
+      "content": "biscuit",
+      "english": "biscuit",
+      "chinese": "n. 饼干",
+      "sortOrder": 41,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "biscuit",
+          "phonetic": {
+            "uk": "ˈbɪskɪt",
+            "us": "ˈbɪskɪt"
+          },
+          "definition": "饼干"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "wq5wansnd5lxg6tvvjnxrx3g",
+      "content": "hamburger",
+      "english": "hamburger",
+      "chinese": "n. 汉堡包",
+      "sortOrder": 42,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "hamburger",
+          "phonetic": {
+            "uk": "ˈhæmbɜːɡə(r)",
+            "us": "ˈhæmbɜːrɡər"
+          },
+          "definition": "汉堡包"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "cwy1l8rm649102q2rem2t2sv",
+      "content": "chip",
+      "english": "chip",
+      "chinese": "n. 油炸土豆条，炸薯条；芯片",
+      "sortOrder": 43,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "chip",
+          "phonetic": {
+            "uk": "tʃɪp",
+            "us": "tʃɪp"
+          },
+          "definition": "芯片"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "wnd4c2rc6lw05zi4b5lrxp7q",
+      "content": "sandwich",
+      "english": "sandwich",
+      "chinese": "n. 三明治，夹心面包片",
+      "sortOrder": 44,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "sandwich",
+          "phonetic": {
+            "uk": "ˈsænwɪtʃ",
+            "us": "ˈsænwɪtʃ"
+          },
+          "definition": "三明治"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "cvmo1ht1rm1jkqto4iruapq1",
+      "content": "pizza",
+      "english": "pizza",
+      "chinese": "n. 比萨饼",
+      "sortOrder": 45,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "pizza",
+          "phonetic": {
+            "uk": "ˈpiːtsə",
+            "us": "ˈpiːtsə"
+          },
+          "definition": "披萨"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "nvwu7af1tpowvpx6cgm1ihxz",
+      "content": "dumpling",
+      "english": "dumpling",
+      "chinese": "n. 水饺，汤圆",
+      "sortOrder": 46,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "dumpling",
+          "phonetic": {
+            "uk": "ˈdʌmplɪŋ",
+            "us": "ˈdʌmplɪŋ"
+          },
+          "definition": "饺子"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "lu09pltkvq3lnaw0pze31agg",
+      "content": "egg",
+      "english": "egg",
+      "chinese": "n. 蛋，卵；鸡蛋",
+      "sortOrder": 47,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "egg",
+          "phonetic": {
+            "uk": "eɡ",
+            "us": "eɡ"
+          },
+          "definition": "蛋"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "fzu60vxyzdxwo29ntx4cuxza",
+      "content": "vegetable",
+      "english": "vegetable",
+      "chinese": "n. 蔬菜",
+      "sortOrder": 48,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "vegetable",
+          "phonetic": {
+            "uk": "ˈvedʒtəb(ə)l",
+            "us": "ˈvedʒtəb(ə)l"
+          },
+          "definition": "蔬菜"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "nka7sakffxbqjq4qea3lag21",
+      "content": "potato",
+      "english": "potato",
+      "chinese": "n. 马铃薯，土豆",
+      "sortOrder": 49,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "potato",
+          "phonetic": {
+            "uk": "pəˈteɪtəʊ",
+            "us": "pəˈteɪtoʊ"
+          },
+          "definition": "土豆"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "isap76kla24wm7nqvthu1eoh",
+      "content": "tomato",
+      "english": "tomato",
+      "chinese": "n. 西红柿，番茄",
+      "sortOrder": 50,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "tomato",
+          "phonetic": {
+            "uk": "təˈmɑːtəʊ",
+            "us": "təˈmeɪtoʊ"
+          },
+          "definition": "番茄"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "n9uk9bri5nqbfraxl4u8oass",
+      "content": "carrot",
+      "english": "carrot",
+      "chinese": "n. 胡萝卜",
+      "sortOrder": 51,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "carrot",
+          "phonetic": {
+            "uk": "ˈkærət",
+            "us": "ˈkærət"
+          },
+          "definition": "胡萝卜"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "mdaa6gaq8eh4s619tibu6nvn",
+      "content": "onion",
+      "english": "onion",
+      "chinese": "n. 洋葱，葱头",
+      "sortOrder": 52,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "onion",
+          "phonetic": {
+            "uk": "ˈʌnjən",
+            "us": "ˈʌnjən"
+          },
+          "definition": "洋葱"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "aobflztlszzarmwut19xyiyp",
+      "content": "cabbage",
+      "english": "cabbage",
+      "chinese": "n. 卷心菜，洋白菜，甘蓝",
+      "sortOrder": 53,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "cabbage",
+          "phonetic": {
+            "uk": "ˈkæbɪdʒ",
+            "us": "ˈkæbɪdʒ"
+          },
+          "definition": "卷心菜"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "mmvu1cy5tsdkdman5z3jqw6n",
+      "content": "cucumber",
+      "english": "cucumber",
+      "chinese": "n. 黄瓜",
+      "sortOrder": 54,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "cucumber",
+          "phonetic": {
+            "uk": "ˈkjuːkʌmbə(r)",
+            "us": "ˈkjuːkʌmbər"
+          },
+          "definition": "黄瓜"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "jxebf1qhm6p3hj7sbu4b7494",
+      "content": "bean",
+      "english": "bean",
+      "chinese": "n. 豆，豆荚，豆科植物",
+      "sortOrder": 55,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "bean",
+          "phonetic": {
+            "uk": "biːn",
+            "us": "biːn"
+          },
+          "definition": "豆"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "da3io78jtjanuuuz2c63ldkh",
+      "content": "corn",
+      "english": "corn",
+      "chinese": "n. 谷物；玉米",
+      "sortOrder": 56,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "corn",
+          "phonetic": {
+            "uk": "kɔːn",
+            "us": "kɔːrn"
+          },
+          "definition": "玉米"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "jvrxj91vdm7ktfoe4n4x4ufy",
+      "content": "pepper",
+      "english": "pepper",
+      "chinese": "n. 甜椒，柿子椒；胡椒粉",
+      "sortOrder": 57,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "pepper",
+          "phonetic": {
+            "uk": "ˈpepə(r)",
+            "us": "ˈpepər"
+          },
+          "definition": "胡椒"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "qlq6zcub4qae6g91hqm89e2y",
+      "content": "meat",
+      "english": "meat",
+      "chinese": "n. 肉类，(某种)食用肉",
+      "sortOrder": 58,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "meat",
+          "phonetic": {
+            "uk": "miːt",
+            "us": "miːt"
+          },
+          "definition": "肉"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "s0uu8f1vysq4mc9hg51iv8rl",
+      "content": "pork",
+      "english": "pork",
+      "chinese": "n. 猪肉",
+      "sortOrder": 59,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "pork",
+          "phonetic": {
+            "uk": "pɔːk",
+            "us": "pɔːrk"
+          },
+          "definition": "猪肉"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "kko348jzwk8hiyccb2wysstl",
+      "content": "beef",
+      "english": "beef",
+      "chinese": "n. 牛肉",
+      "sortOrder": 60,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "beef",
+          "phonetic": {
+            "uk": "biːf",
+            "us": "biːf"
+          },
+          "definition": "牛肉"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    }
+  ],
+  "statementId": ""
+}

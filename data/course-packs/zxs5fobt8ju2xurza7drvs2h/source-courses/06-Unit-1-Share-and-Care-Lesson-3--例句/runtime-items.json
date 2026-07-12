@@ -1,0 +1,5596 @@
+[
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-zvdhl46verf17gki58ews1so",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-zvdhl46verf17gki58ews1so",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让我看看。",
+    "audioText": "Let me have a look",
+    "fullEnglish": "Let me have a look",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let",
+        "answer": "Let",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "让",
+        "phonetic": "let",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "宾语",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "吃",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "have a look",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "吃；一个；看"
+      },
+      {
+        "index": 3,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "a look",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；看"
+      },
+      {
+        "index": 4,
+        "text": "look",
+        "answer": "look",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "看",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "a look",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；看"
+      }
+    ],
+    "shuffledBlocks": [
+      "have",
+      "me",
+      "look",
+      "a",
+      "Let"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let",
+        "role": "谓语",
+        "zh": "让"
+      },
+      {
+        "id": "ud-2",
+        "text": "me",
+        "role": "宾语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "have a look",
+        "role": "宾语补足语",
+        "zh": "吃；一个；看",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "have",
+            "role": "谓语",
+            "zh": "吃"
+          },
+          {
+            "id": "ud-5",
+            "text": "a look",
+            "role": "宾语",
+            "zh": "一个；看",
+            "children": [
+              {
+                "id": "ud-6",
+                "text": "a",
+                "role": "限定词",
+                "zh": "一个"
+              },
+              {
+                "id": "ud-7",
+                "text": "look",
+                "role": "中心词",
+                "zh": "看"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let",
+        "phonetic": "let",
+        "pos": "VERB",
+        "zh": "让",
+        "componentRole": "谓语",
+        "componentZh": "让"
+      },
+      "1": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "宾语",
+        "componentZh": "我"
+      },
+      "2": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "吃",
+        "componentRole": "谓语",
+        "componentZh": "吃",
+        "parentComponentText": "have a look",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "吃；一个；看"
+      },
+      "3": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "a look",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；看"
+      },
+      "4": {
+        "text": "look",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "zh": "看",
+        "componentRole": "中心词",
+        "componentZh": "看",
+        "parentComponentText": "a look",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；看"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-zvdhl46verf17gki58ews1so-1",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-zvdhl46verf17gki58ews1so-1",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让",
+    "audioText": "Let",
+    "fullEnglish": "Let",
+    "phonetic": "let",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let",
+        "answer": "Let",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "让",
+        "phonetic": "let",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Let",
+        "phonetic": "let",
+        "pos": "VERB",
+        "zh": "让",
+        "componentZh": "让"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-zvdhl46verf17gki58ews1so-2",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-zvdhl46verf17gki58ews1so-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "me",
+    "fullEnglish": "me",
+    "phonetic": "miː",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "me"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-zvdhl46verf17gki58ews1so-3",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-zvdhl46verf17gki58ews1so-3",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "有",
+    "audioText": "have",
+    "fullEnglish": "have",
+    "phonetic": "hæv",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "吃",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "have"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "吃",
+        "componentZh": "吃"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-zvdhl46verf17gki58ews1so-4",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-zvdhl46verf17gki58ews1so-4",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个",
+    "audioText": "a",
+    "fullEnglish": "a",
+    "phonetic": "ə; eɪ",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "a"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-zvdhl46verf17gki58ews1so-5",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-zvdhl46verf17gki58ews1so-5",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "看",
+    "audioText": "look",
+    "fullEnglish": "look",
+    "phonetic": "lʊk",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "look",
+        "answer": "look",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "看",
+        "phonetic": "lʊk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "look"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "look",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "zh": "看",
+        "componentZh": "看"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-jollqje2mrgktw4papau8sd3",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-jollqje2mrgktw4papau8sd3",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那是我最喜欢的一个！",
+    "audioText": "That's my favourite one!",
+    "fullEnglish": "That's my favourite one!",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "That's",
+        "answer": "That's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "那是",
+        "phonetic": "ðæts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "补充成分",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "favourite",
+        "answer": "favourite",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "补充成分",
+        "zh": "最爱",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "NOUN"
+      },
+      {
+        "index": 3,
+        "text": "one",
+        "answer": "one",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "表语",
+        "zh": "一",
+        "phonetic": "wʌn",
+        "pos": "NUM"
+      },
+      {
+        "index": 4,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "那是我最喜欢的一个！"
+      }
+    ],
+    "shuffledBlocks": [
+      "That's",
+      "favourite",
+      "my",
+      "one"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "That's",
+        "role": "主语 + 系动词",
+        "zh": "那是"
+      },
+      {
+        "id": "ud-2",
+        "text": "my",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-3",
+        "text": "favourite",
+        "role": "补充成分",
+        "zh": "最爱"
+      },
+      {
+        "id": "ud-4",
+        "text": "one",
+        "role": "表语",
+        "zh": "一"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "That's",
+        "phonetic": "ðæts",
+        "pos": "PRON",
+        "zh": "那是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "那是"
+      },
+      "1": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "补充成分",
+        "componentZh": "我的"
+      },
+      "2": {
+        "text": "favourite",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "NOUN",
+        "zh": "最爱",
+        "componentRole": "补充成分",
+        "componentZh": "最爱"
+      },
+      "3": {
+        "text": "one",
+        "phonetic": "wʌn",
+        "pos": "NUM",
+        "zh": "一",
+        "componentRole": "表语",
+        "componentZh": "一"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-jollqje2mrgktw4papau8sd3-1",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-jollqje2mrgktw4papau8sd3-1",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那是",
+    "audioText": "That's",
+    "fullEnglish": "That's",
+    "phonetic": "ðæts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "That's",
+        "answer": "That's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "那是",
+        "phonetic": "ðæts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "That's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "That's",
+        "phonetic": "ðæts",
+        "pos": "PRON",
+        "zh": "那是",
+        "componentZh": "那是"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-jollqje2mrgktw4papau8sd3-2",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-jollqje2mrgktw4papau8sd3-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的",
+    "audioText": "my",
+    "fullEnglish": "my",
+    "phonetic": "maɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "my"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-jollqje2mrgktw4papau8sd3-3",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-jollqje2mrgktw4papau8sd3-3",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "最喜欢的",
+    "audioText": "favourite",
+    "fullEnglish": "favourite",
+    "phonetic": "ˈfeɪvərɪt",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "favourite",
+        "answer": "favourite",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "最爱",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "favourite"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "favourite",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "NOUN",
+        "zh": "最爱",
+        "componentZh": "最爱"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-jollqje2mrgktw4papau8sd3-4",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-jollqje2mrgktw4papau8sd3-4",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个",
+    "audioText": "one",
+    "fullEnglish": "one",
+    "phonetic": "wʌn",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "one",
+        "answer": "one",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "一",
+        "phonetic": "wʌn",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "one"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "one",
+        "phonetic": "wʌn",
+        "pos": "NUM",
+        "zh": "一",
+        "componentZh": "一"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-meh3x7dwec6v9y3tuwkh20n1",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-meh3x7dwec6v9y3tuwkh20n1",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "怎么了？",
+    "audioText": "What's the matter?",
+    "fullEnglish": "What's the matter?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What's",
+        "answer": "What's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "疑问词 + 系动词",
+        "zh": "什么",
+        "phonetic": "wʌts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the matter",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；物质"
+      },
+      {
+        "index": 2,
+        "text": "matter",
+        "answer": "matter",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "物质",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the matter",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；物质"
+      },
+      {
+        "index": 3,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "怎么了？"
+      }
+    ],
+    "shuffledBlocks": [
+      "matter",
+      "What's",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What's",
+        "role": "疑问词 + 系动词",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "the matter",
+        "role": "主语",
+        "zh": "定冠词；物质",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-4",
+            "text": "matter",
+            "role": "中心词",
+            "zh": "物质"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What's",
+        "phonetic": "wʌts",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "疑问词 + 系动词",
+        "componentZh": "什么"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the matter",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；物质"
+      },
+      "2": {
+        "text": "matter",
+        "zh": "物质",
+        "componentRole": "中心词",
+        "componentZh": "物质",
+        "parentComponentText": "the matter",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；物质"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-ww725bjjk5t3z8i7awkxza4f",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-ww725bjjk5t3z8i7awkxza4f",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "看看我的新模型飞机！",
+    "audioText": "Look at my new model plane!",
+    "fullEnglish": "Look at my new model plane!",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Look",
+        "answer": "Look",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "看",
+        "phonetic": "lʊk",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "at",
+        "answer": "at",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "介词",
+        "zh": "在",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "at my new model plane",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；我的；新的；模型；飞机"
+      },
+      {
+        "index": 2,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "my new model plane",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "我的；新的；模型；飞机"
+      },
+      {
+        "index": 3,
+        "text": "new",
+        "answer": "new",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "定语（形容词）",
+        "zh": "新的",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "my new model plane",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "我的；新的；模型；飞机"
+      },
+      {
+        "index": 4,
+        "text": "model",
+        "answer": "model",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "定语（名词修饰）",
+        "zh": "模型",
+        "phonetic": "ˈmɑːdl",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "my new model plane",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "我的；新的；模型；飞机"
+      },
+      {
+        "index": 5,
+        "text": "plane",
+        "answer": "plane",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "飞机",
+        "phonetic": "pleɪn",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "my new model plane",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "我的；新的；模型；飞机"
+      },
+      {
+        "index": 6,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "看看我的新模型飞机！"
+      }
+    ],
+    "shuffledBlocks": [
+      "at",
+      "model",
+      "plane",
+      "Look",
+      "new",
+      "my"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Look",
+        "role": "谓语",
+        "zh": "看"
+      },
+      {
+        "id": "ud-2",
+        "text": "at my new model plane",
+        "role": "地点状语",
+        "zh": "在；我的；新的；模型；飞机",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "at",
+            "role": "介词",
+            "zh": "在"
+          },
+          {
+            "id": "ud-4",
+            "text": "my new model plane",
+            "role": "介词宾语",
+            "zh": "我的；新的；模型；飞机",
+            "children": [
+              {
+                "id": "ud-5",
+                "text": "my",
+                "role": "限定词",
+                "zh": "我的"
+              },
+              {
+                "id": "ud-6",
+                "text": "new",
+                "role": "定语（形容词）",
+                "zh": "新的"
+              },
+              {
+                "id": "ud-7",
+                "text": "model",
+                "role": "定语（名词修饰）",
+                "zh": "模型"
+              },
+              {
+                "id": "ud-8",
+                "text": "plane",
+                "role": "中心词",
+                "zh": "飞机"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Look",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "zh": "看",
+        "componentRole": "谓语",
+        "componentZh": "看"
+      },
+      "1": {
+        "text": "at",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "zh": "在",
+        "componentRole": "介词",
+        "componentZh": "在",
+        "parentComponentText": "at my new model plane",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；我的；新的；模型；飞机"
+      },
+      "2": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "限定词",
+        "componentZh": "我的",
+        "parentComponentText": "my new model plane",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "我的；新的；模型；飞机"
+      },
+      "3": {
+        "text": "new",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "zh": "新的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "新的",
+        "parentComponentText": "my new model plane",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "我的；新的；模型；飞机"
+      },
+      "4": {
+        "text": "model",
+        "phonetic": "ˈmɑːdl",
+        "pos": "NOUN",
+        "zh": "模型",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "模型",
+        "parentComponentText": "my new model plane",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "我的；新的；模型；飞机"
+      },
+      "5": {
+        "text": "plane",
+        "phonetic": "pleɪn",
+        "pos": "NOUN",
+        "zh": "飞机",
+        "componentRole": "中心词",
+        "componentZh": "飞机",
+        "parentComponentText": "my new model plane",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "我的；新的；模型；飞机"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-ww725bjjk5t3z8i7awkxza4f-2",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-ww725bjjk5t3z8i7awkxza4f-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在",
+    "audioText": "at",
+    "fullEnglish": "at",
+    "phonetic": "æt; ət",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "at",
+        "answer": "at",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在",
+        "phonetic": "æt; ət",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "at"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "at",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "zh": "在",
+        "componentZh": "在"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-ww725bjjk5t3z8i7awkxza4f-4",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-ww725bjjk5t3z8i7awkxza4f-4",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "新的",
+    "audioText": "new",
+    "fullEnglish": "new",
+    "phonetic": "nuː",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "new",
+        "answer": "new",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "新的",
+        "phonetic": "nuː",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "new"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "new",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "zh": "新的",
+        "componentZh": "新的"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-ww725bjjk5t3z8i7awkxza4f-5",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-ww725bjjk5t3z8i7awkxza4f-5",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "模型",
+    "audioText": "model",
+    "fullEnglish": "model",
+    "phonetic": "ˈmɑːdl",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "model",
+        "answer": "model",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "模型",
+        "phonetic": "ˈmɑːdl",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "model"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "model",
+        "phonetic": "ˈmɑːdl",
+        "pos": "NOUN",
+        "zh": "模型",
+        "componentZh": "模型"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-ww725bjjk5t3z8i7awkxza4f-6",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-ww725bjjk5t3z8i7awkxza4f-6",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "飞机",
+    "audioText": "plane",
+    "fullEnglish": "plane",
+    "phonetic": "pleɪn",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "plane",
+        "answer": "plane",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "飞机",
+        "phonetic": "pleɪn",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "plane"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "plane",
+        "phonetic": "pleɪn",
+        "pos": "NOUN",
+        "zh": "飞机",
+        "componentZh": "飞机"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-fdn89nssmtludf5gf330yrv0",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-fdn89nssmtludf5gf330yrv0",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请别生气。",
+    "audioText": "Please don't be angry",
+    "fullEnglish": "Please don't be angry",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Please",
+        "answer": "Please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": "don't",
+        "answer": "don't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不要",
+        "phonetic": "doʊnt",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "be",
+        "answer": "be",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "biː",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "angry",
+        "answer": "angry",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "表语",
+        "zh": "生气的",
+        "phonetic": "ˈæŋɡri",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "be",
+      "angry",
+      "Please",
+      "don't"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Please",
+        "role": "语气/引导语",
+        "zh": "请"
+      },
+      {
+        "id": "ud-2",
+        "text": "don't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不要"
+      },
+      {
+        "id": "ud-3",
+        "text": "be",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-4",
+        "text": "angry",
+        "role": "表语",
+        "zh": "生气的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      },
+      "1": {
+        "text": "don't",
+        "phonetic": "doʊnt",
+        "pos": "AUX",
+        "zh": "不要",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "不要"
+      },
+      "2": {
+        "text": "be",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "3": {
+        "text": "angry",
+        "phonetic": "ˈæŋɡri",
+        "pos": "ADJ",
+        "zh": "生气的",
+        "componentRole": "表语",
+        "componentZh": "生气的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-fdn89nssmtludf5gf330yrv0-1",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-fdn89nssmtludf5gf330yrv0-1",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请",
+    "audioText": "Please",
+    "fullEnglish": "Please",
+    "phonetic": "pliːz",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Please",
+        "answer": "Please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Please"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentZh": "请"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-fdn89nssmtludf5gf330yrv0-2",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-fdn89nssmtludf5gf330yrv0-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不要",
+    "audioText": "don't",
+    "fullEnglish": "don't",
+    "phonetic": "doʊnt",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "don't",
+        "answer": "don't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "不要",
+        "phonetic": "doʊnt",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "don't"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "don't",
+        "phonetic": "doʊnt",
+        "pos": "AUX",
+        "zh": "不要",
+        "componentZh": "不要"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-fdn89nssmtludf5gf330yrv0-3",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-fdn89nssmtludf5gf330yrv0-3",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "be",
+    "fullEnglish": "be",
+    "phonetic": "biː",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "be",
+        "answer": "be",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "biː",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "be"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "be",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "zh": "是",
+        "componentZh": "是"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-fdn89nssmtludf5gf330yrv0-4",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-fdn89nssmtludf5gf330yrv0-4",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "生气的",
+    "audioText": "angry",
+    "fullEnglish": "angry",
+    "phonetic": "ˈæŋɡri",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "angry",
+        "answer": "angry",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "生气的",
+        "phonetic": "ˈæŋɡri",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "angry"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "angry",
+        "phonetic": "ˈæŋɡri",
+        "pos": "ADJ",
+        "zh": "生气的",
+        "componentZh": "生气的"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-v2jwwh8fzs1m38v29uwm0sb2",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-v2jwwh8fzs1m38v29uwm0sb2",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们去散步吧。",
+    "audioText": "Let's take a walk",
+    "fullEnglish": "Let's take a walk",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "宾语 + 谓语",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "take",
+        "answer": "take",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "拍",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "take a walk",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "拍；一个；走"
+      },
+      {
+        "index": 2,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "a walk",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；走"
+      },
+      {
+        "index": 3,
+        "text": "walk",
+        "answer": "walk",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "走",
+        "phonetic": "wɔːk",
+        "pos": "VERB",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "a walk",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；走"
+      }
+    ],
+    "shuffledBlocks": [
+      "take",
+      "a",
+      "walk",
+      "Let's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let's",
+        "role": "宾语 + 谓语",
+        "zh": "让我们"
+      },
+      {
+        "id": "ud-2",
+        "text": "take a walk",
+        "role": "宾语补足语",
+        "zh": "拍；一个；走",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "take",
+            "role": "谓语",
+            "zh": "拍"
+          },
+          {
+            "id": "ud-4",
+            "text": "a walk",
+            "role": "宾语",
+            "zh": "一个；走",
+            "children": [
+              {
+                "id": "ud-5",
+                "text": "a",
+                "role": "限定词",
+                "zh": "一个"
+              },
+              {
+                "id": "ud-6",
+                "text": "walk",
+                "role": "中心词",
+                "zh": "走"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentRole": "宾语 + 谓语",
+        "componentZh": "让我们"
+      },
+      "1": {
+        "text": "take",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "zh": "拍",
+        "componentRole": "谓语",
+        "componentZh": "拍",
+        "parentComponentText": "take a walk",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "拍；一个；走"
+      },
+      "2": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "a walk",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；走"
+      },
+      "3": {
+        "text": "walk",
+        "phonetic": "wɔːk",
+        "pos": "VERB",
+        "zh": "走",
+        "componentRole": "中心词",
+        "componentZh": "走",
+        "parentComponentText": "a walk",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；走"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-v2jwwh8fzs1m38v29uwm0sb2-1",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-v2jwwh8fzs1m38v29uwm0sb2-1",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让我们",
+    "audioText": "Let's",
+    "fullEnglish": "Let's",
+    "phonetic": "lets",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentZh": "让我们"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-v2jwwh8fzs1m38v29uwm0sb2-2",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-v2jwwh8fzs1m38v29uwm0sb2-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "短语动词原型: 散步",
+    "audioText": "take",
+    "fullEnglish": "take",
+    "phonetic": "teɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "take",
+        "answer": "take",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "拍",
+        "phonetic": "teɪk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "take"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "take",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "zh": "拍",
+        "componentZh": "拍"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-v2jwwh8fzs1m38v29uwm0sb2-4",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-v2jwwh8fzs1m38v29uwm0sb2-4",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "散步",
+    "audioText": "walk",
+    "fullEnglish": "walk",
+    "phonetic": "wɔːk",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "walk",
+        "answer": "walk",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "走",
+        "phonetic": "wɔːk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "walk"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "walk",
+        "phonetic": "wɔːk",
+        "pos": "VERB",
+        "zh": "走",
+        "componentZh": "走"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-ayi3zwwv3i2b8dv6gs41j3x2",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-ayi3zwwv3i2b8dv6gs41j3x2",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你现在感觉如何？",
+    "audioText": "How do you feel now?",
+    "fullEnglish": "How do you feel now?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "How",
+        "answer": "How",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "方式/程度状语",
+        "zh": "如何",
+        "phonetic": "haʊ",
+        "pos": "ADV"
+      },
+      {
+        "index": 1,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "feel",
+        "answer": "feel",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "感受",
+        "phonetic": "fil",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "now",
+        "answer": "now",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "时间状语",
+        "zh": "现在",
+        "phonetic": "naʊ",
+        "pos": "ADV"
+      },
+      {
+        "index": 5,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你现在感觉如何？"
+      }
+    ],
+    "shuffledBlocks": [
+      "feel",
+      "How",
+      "do",
+      "you",
+      "now"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "How",
+        "role": "方式/程度状语",
+        "zh": "如何"
+      },
+      {
+        "id": "ud-2",
+        "text": "do",
+        "role": "助动词",
+        "zh": "构成疑问句"
+      },
+      {
+        "id": "ud-3",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-4",
+        "text": "feel",
+        "role": "谓语",
+        "zh": "感受"
+      },
+      {
+        "id": "ud-5",
+        "text": "now",
+        "role": "时间状语",
+        "zh": "现在"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "How",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "zh": "如何",
+        "componentRole": "方式/程度状语",
+        "componentZh": "如何"
+      },
+      "1": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentRole": "助动词",
+        "componentZh": "构成疑问句"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "3": {
+        "text": "feel",
+        "phonetic": "fil",
+        "pos": "VERB",
+        "zh": "感受",
+        "componentRole": "谓语",
+        "componentZh": "感受"
+      },
+      "4": {
+        "text": "now",
+        "phonetic": "naʊ",
+        "pos": "ADV",
+        "zh": "现在",
+        "componentRole": "时间状语",
+        "componentZh": "现在"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-ayi3zwwv3i2b8dv6gs41j3x2-1",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-ayi3zwwv3i2b8dv6gs41j3x2-1",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "如何",
+    "audioText": "How",
+    "fullEnglish": "How",
+    "phonetic": "haʊ",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "How",
+        "answer": "How",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "如何",
+        "phonetic": "haʊ",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "How"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "How",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "zh": "如何",
+        "componentZh": "如何"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-ayi3zwwv3i2b8dv6gs41j3x2-2",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-ayi3zwwv3i2b8dv6gs41j3x2-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "助动词",
+    "audioText": "do",
+    "fullEnglish": "do",
+    "phonetic": "duː; də",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "do"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentZh": "构成疑问句"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-ayi3zwwv3i2b8dv6gs41j3x2-3",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-ayi3zwwv3i2b8dv6gs41j3x2-3",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-ayi3zwwv3i2b8dv6gs41j3x2-4",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-ayi3zwwv3i2b8dv6gs41j3x2-4",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "感觉",
+    "audioText": "feel",
+    "fullEnglish": "feel",
+    "phonetic": "fil",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "feel",
+        "answer": "feel",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "感受",
+        "phonetic": "fil",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "feel"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "feel",
+        "phonetic": "fil",
+        "pos": "VERB",
+        "zh": "感受",
+        "componentZh": "感受"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-ayi3zwwv3i2b8dv6gs41j3x2-5",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-ayi3zwwv3i2b8dv6gs41j3x2-5",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "现在",
+    "audioText": "now",
+    "fullEnglish": "now",
+    "phonetic": "naʊ",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "now",
+        "answer": "now",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "现在",
+        "phonetic": "naʊ",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "now"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "now",
+        "phonetic": "naʊ",
+        "pos": "ADV",
+        "zh": "现在",
+        "componentZh": "现在"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-mjy754578hlbvxbf69pa2s9c",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-mjy754578hlbvxbf69pa2s9c",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我很抱歉，Mike。",
+    "audioText": "I'm sorry, Mike",
+    "fullEnglish": "I'm sorry, Mike",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "我是",
+        "phonetic": "aɪm",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "sorry",
+        "answer": "sorry",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "抱歉",
+        "phonetic": "ˈsɑːri",
+        "pos": "ADJ"
+      },
+      {
+        "index": 2,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我很抱歉，Mike。"
+      },
+      {
+        "index": 3,
+        "text": "Mike",
+        "answer": "Mike",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "呼语",
+        "zh": "Mike",
+        "phonetic": "maɪk",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I'm",
+      "sorry",
+      "Mike"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I'm",
+        "role": "主语 + 系动词",
+        "zh": "我是"
+      },
+      {
+        "id": "ud-2",
+        "text": "sorry",
+        "role": "表语",
+        "zh": "抱歉"
+      },
+      {
+        "id": "ud-3",
+        "text": "Mike",
+        "role": "呼语",
+        "zh": "Mike"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "我是"
+      },
+      "1": {
+        "text": "sorry",
+        "phonetic": "ˈsɑːri",
+        "pos": "ADJ",
+        "zh": "抱歉",
+        "componentRole": "表语",
+        "componentZh": "抱歉"
+      },
+      "3": {
+        "text": "Mike",
+        "phonetic": "maɪk",
+        "pos": "PROPN_PERSON",
+        "zh": "Mike",
+        "componentRole": "呼语",
+        "componentZh": "Mike"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-rscksh6rmjqucxgw4n2eo449",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-rscksh6rmjqucxgw4n2eo449",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我只想和你一起玩。",
+    "audioText": "I just want to play with you",
+    "fullEnglish": "I just want to play with you",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "just",
+        "answer": "just",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "方式/程度状语",
+        "zh": "只是",
+        "phonetic": "dʒʌst",
+        "pos": "ADV"
+      },
+      {
+        "index": 2,
+        "text": "want",
+        "answer": "want",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "想要",
+        "phonetic": "wɑːnt",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "连接词",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "to play with you",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；玩；和；你"
+      },
+      {
+        "index": 4,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "谓语",
+        "zh": "玩",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "to play with you",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；玩；和；你"
+      },
+      {
+        "index": 5,
+        "text": "with",
+        "answer": "with",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "介词",
+        "zh": "和",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "with you",
+        "parentComponentRole": "方式/伴随状语",
+        "parentComponentZh": "和；你"
+      },
+      {
+        "index": 6,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "中心词",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "you",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "want",
+      "you",
+      "to",
+      "with",
+      "just",
+      "play"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "just",
+        "role": "方式/程度状语",
+        "zh": "只是"
+      },
+      {
+        "id": "ud-3",
+        "text": "want",
+        "role": "谓语",
+        "zh": "想要"
+      },
+      {
+        "id": "ud-4",
+        "text": "to play with you",
+        "role": "不定式短语",
+        "zh": "引导不定式；玩；和；你",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "to",
+            "role": "连接词",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-6",
+            "text": "play",
+            "role": "谓语",
+            "zh": "玩"
+          },
+          {
+            "id": "ud-7",
+            "text": "with you",
+            "role": "方式/伴随状语",
+            "zh": "和；你",
+            "children": [
+              {
+                "id": "ud-8",
+                "text": "with",
+                "role": "介词",
+                "zh": "和"
+              },
+              {
+                "id": "ud-9",
+                "text": "you",
+                "role": "介词宾语",
+                "zh": "你",
+                "children": [
+                  {
+                    "id": "ud-10",
+                    "text": "you",
+                    "role": "中心词",
+                    "zh": "你"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "just",
+        "phonetic": "dʒʌst",
+        "pos": "ADV",
+        "zh": "只是",
+        "componentRole": "方式/程度状语",
+        "componentZh": "只是"
+      },
+      "2": {
+        "text": "want",
+        "phonetic": "wɑːnt",
+        "pos": "VERB",
+        "zh": "想要",
+        "componentRole": "谓语",
+        "componentZh": "想要"
+      },
+      "3": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentRole": "连接词",
+        "componentZh": "引导不定式",
+        "parentComponentText": "to play with you",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；玩；和；你"
+      },
+      "4": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "玩",
+        "componentRole": "谓语",
+        "componentZh": "玩",
+        "parentComponentText": "to play with you",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；玩；和；你"
+      },
+      "5": {
+        "text": "with",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "zh": "和",
+        "componentRole": "介词",
+        "componentZh": "和",
+        "parentComponentText": "with you",
+        "parentComponentRole": "方式/伴随状语",
+        "parentComponentZh": "和；你"
+      },
+      "6": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "中心词",
+        "componentZh": "你",
+        "parentComponentText": "you",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-rscksh6rmjqucxgw4n2eo449-1",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-rscksh6rmjqucxgw4n2eo449-1",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-rscksh6rmjqucxgw4n2eo449-2",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-rscksh6rmjqucxgw4n2eo449-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "只是",
+    "audioText": "just",
+    "fullEnglish": "just",
+    "phonetic": "dʒʌst",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "just",
+        "answer": "just",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "只是",
+        "phonetic": "dʒʌst",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "just"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "just",
+        "phonetic": "dʒʌst",
+        "pos": "ADV",
+        "zh": "只是",
+        "componentZh": "只是"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-rscksh6rmjqucxgw4n2eo449-3",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-rscksh6rmjqucxgw4n2eo449-3",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "想要",
+    "audioText": "want",
+    "fullEnglish": "want",
+    "phonetic": "wɑːnt",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "want",
+        "answer": "want",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "想要",
+        "phonetic": "wɑːnt",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "want"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "want",
+        "phonetic": "wɑːnt",
+        "pos": "VERB",
+        "zh": "想要",
+        "componentZh": "想要"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-rscksh6rmjqucxgw4n2eo449-4",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-rscksh6rmjqucxgw4n2eo449-4",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "引导不定式",
+    "audioText": "to",
+    "fullEnglish": "to",
+    "phonetic": "tuː; tə",
+    "pos": "PART",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART"
+      }
+    ],
+    "shuffledBlocks": [
+      "to"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-rscksh6rmjqucxgw4n2eo449-5",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-rscksh6rmjqucxgw4n2eo449-5",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "玩耍",
+    "audioText": "play",
+    "fullEnglish": "play",
+    "phonetic": "pleɪ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "玩",
+        "phonetic": "pleɪ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "play"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "玩",
+        "componentZh": "玩"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-rscksh6rmjqucxgw4n2eo449-6",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-rscksh6rmjqucxgw4n2eo449-6",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "和",
+    "audioText": "with",
+    "fullEnglish": "with",
+    "phonetic": "wɪð; wɪθ",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "with",
+        "answer": "with",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "with"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "with",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "zh": "和",
+        "componentZh": "和"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-amjzo03fee6xjzoxw9t7sl09",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-amjzo03fee6xjzoxw9t7sl09",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我感觉好些了，妈妈。",
+    "audioText": "I feel better, Mum",
+    "fullEnglish": "I feel better, Mum",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "feel",
+        "answer": "feel",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "感受",
+        "phonetic": "fil",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "better",
+        "answer": "better",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心成分",
+        "zh": "更好",
+        "phonetic": "ˈbetər",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "better",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "更好"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我感觉好些了，妈妈。"
+      },
+      {
+        "index": 4,
+        "text": "Mum",
+        "answer": "Mum",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "补充成分",
+        "zh": "Mum",
+        "phonetic": "mʌm",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "better",
+      "feel",
+      "I",
+      "Mum"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "feel",
+        "role": "谓语",
+        "zh": "感受"
+      },
+      {
+        "id": "ud-3",
+        "text": "better",
+        "role": "宾语补足语",
+        "zh": "更好",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "better",
+            "role": "中心成分",
+            "zh": "更好"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "Mum",
+        "role": "补充成分",
+        "zh": "Mum"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "feel",
+        "phonetic": "fil",
+        "pos": "VERB",
+        "zh": "感受",
+        "componentRole": "谓语",
+        "componentZh": "感受"
+      },
+      "2": {
+        "text": "better",
+        "phonetic": "ˈbetər",
+        "pos": "ADJ",
+        "zh": "更好",
+        "componentRole": "中心成分",
+        "componentZh": "更好",
+        "parentComponentText": "better",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "更好"
+      },
+      "4": {
+        "text": "Mum",
+        "phonetic": "mʌm",
+        "pos": "PROPN_PERSON",
+        "zh": "Mum",
+        "componentRole": "补充成分",
+        "componentZh": "Mum"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-amjzo03fee6xjzoxw9t7sl09-3",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-amjzo03fee6xjzoxw9t7sl09-3",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "更好",
+    "audioText": "better",
+    "fullEnglish": "better",
+    "phonetic": "ˈbetər",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "better",
+        "answer": "better",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "更好",
+        "phonetic": "ˈbetər",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "better"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "better",
+        "phonetic": "ˈbetər",
+        "pos": "ADJ",
+        "zh": "更好",
+        "componentZh": "更好"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-amjzo03fee6xjzoxw9t7sl09-4",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-amjzo03fee6xjzoxw9t7sl09-4",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Mum",
+    "audioText": "Mum",
+    "fullEnglish": "Mum",
+    "phonetic": "mʌm",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Mum",
+        "answer": "Mum",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "Mum",
+        "phonetic": "mʌm",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Mum"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Mum",
+        "phonetic": "mʌm",
+        "pos": "PROPN_PERSON",
+        "zh": "Mum",
+        "componentZh": "Mum"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-q4tbd6dczuqdkqxrpmfymf54",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-q4tbd6dczuqdkqxrpmfymf54",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "太好了！",
+    "audioText": "That's great!",
+    "fullEnglish": "That's great!",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "That's",
+        "answer": "That's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "那是",
+        "phonetic": "ðæts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "great",
+        "answer": "great",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "伟大的",
+        "phonetic": "ɡreɪt",
+        "pos": "ADJ"
+      },
+      {
+        "index": 2,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "太好了！"
+      }
+    ],
+    "shuffledBlocks": [
+      "That's",
+      "great"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "That's",
+        "role": "主语 + 系动词",
+        "zh": "那是"
+      },
+      {
+        "id": "ud-2",
+        "text": "great",
+        "role": "表语",
+        "zh": "伟大的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "That's",
+        "phonetic": "ðæts",
+        "pos": "PRON",
+        "zh": "那是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "那是"
+      },
+      "1": {
+        "text": "great",
+        "phonetic": "ɡreɪt",
+        "pos": "ADJ",
+        "zh": "伟大的",
+        "componentRole": "表语",
+        "componentZh": "伟大的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-q4tbd6dczuqdkqxrpmfymf54-2",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-q4tbd6dczuqdkqxrpmfymf54-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "很棒",
+    "audioText": "great",
+    "fullEnglish": "great",
+    "phonetic": "ɡreɪt",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "great",
+        "answer": "great",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "伟大的",
+        "phonetic": "ɡreɪt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "great"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "great",
+        "phonetic": "ɡreɪt",
+        "pos": "ADJ",
+        "zh": "伟大的",
+        "componentZh": "伟大的"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-vgezu6wjv3khkxfuoh2f6agb",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-vgezu6wjv3khkxfuoh2f6agb",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "散步总能帮助我平静下来。",
+    "audioText": "A walk always helps me calm down",
+    "fullEnglish": "A walk always helps me calm down",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "A",
+        "answer": "A",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "A walk",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "一个；走"
+      },
+      {
+        "index": 1,
+        "text": "walk",
+        "answer": "walk",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "走",
+        "phonetic": "wɔːk",
+        "pos": "VERB",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "A walk",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "一个；走"
+      },
+      {
+        "index": 2,
+        "text": "always",
+        "answer": "always",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "时间状语",
+        "zh": "总是",
+        "phonetic": "ˈɔːlweɪz",
+        "pos": "ADV"
+      },
+      {
+        "index": 3,
+        "text": "helps",
+        "answer": "helps",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "谓语",
+        "zh": "help（第三人称单数）: 帮助",
+        "phonetic": "help스",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "宾语",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "calm",
+        "answer": "calm",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "中心词",
+        "zh": "短语动词原型: 冷静",
+        "phonetic": "kɑːm",
+        "pos": "VERB",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "calm down",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "短语动词原型: 冷静；（与 calm 搭配）"
+      },
+      {
+        "index": 6,
+        "text": "down",
+        "answer": "down",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "定语（名词修饰）",
+        "zh": "（与 calm 搭配）",
+        "phonetic": "daʊn",
+        "pos": "ADP",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "calm down",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "短语动词原型: 冷静；（与 calm 搭配）"
+      }
+    ],
+    "shuffledBlocks": [
+      "always",
+      "walk",
+      "A",
+      "me",
+      "calm",
+      "down",
+      "helps"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "A walk",
+        "role": "主语",
+        "zh": "一个；走",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "A",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-3",
+            "text": "walk",
+            "role": "中心词",
+            "zh": "走"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "always",
+        "role": "时间状语",
+        "zh": "总是"
+      },
+      {
+        "id": "ud-5",
+        "text": "helps",
+        "role": "谓语",
+        "zh": "help（第三人称单数）: 帮助"
+      },
+      {
+        "id": "ud-6",
+        "text": "me",
+        "role": "宾语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-7",
+        "text": "calm down",
+        "role": "宾语补足语",
+        "zh": "短语动词原型: 冷静；（与 calm 搭配）",
+        "children": [
+          {
+            "id": "ud-8",
+            "text": "calm down",
+            "role": "谓语",
+            "zh": "短语动词原型: 冷静；（与 calm 搭配）",
+            "children": [
+              {
+                "id": "ud-9",
+                "text": "calm",
+                "role": "中心词",
+                "zh": "短语动词原型: 冷静"
+              },
+              {
+                "id": "ud-10",
+                "text": "down",
+                "role": "定语（名词修饰）",
+                "zh": "（与 calm 搭配）"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "A",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "A walk",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "一个；走"
+      },
+      "1": {
+        "text": "walk",
+        "phonetic": "wɔːk",
+        "pos": "VERB",
+        "zh": "走",
+        "componentRole": "中心词",
+        "componentZh": "走",
+        "parentComponentText": "A walk",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "一个；走"
+      },
+      "2": {
+        "text": "always",
+        "phonetic": "ˈɔːlweɪz",
+        "pos": "ADV",
+        "zh": "总是",
+        "componentRole": "时间状语",
+        "componentZh": "总是"
+      },
+      "3": {
+        "text": "helps",
+        "phonetic": "help스",
+        "pos": "VERB",
+        "zh": "help（第三人称单数）: 帮助",
+        "componentRole": "谓语",
+        "componentZh": "help（第三人称单数）: 帮助"
+      },
+      "4": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "宾语",
+        "componentZh": "我"
+      },
+      "5": {
+        "text": "calm",
+        "phonetic": "kɑːm",
+        "pos": "VERB",
+        "zh": "短语动词原型: 冷静",
+        "componentRole": "中心词",
+        "componentZh": "短语动词原型: 冷静",
+        "parentComponentText": "calm down",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "短语动词原型: 冷静；（与 calm 搭配）"
+      },
+      "6": {
+        "text": "down",
+        "phonetic": "daʊn",
+        "pos": "ADP",
+        "zh": "（与 calm 搭配）",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "（与 calm 搭配）",
+        "parentComponentText": "calm down",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "短语动词原型: 冷静；（与 calm 搭配）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-vgezu6wjv3khkxfuoh2f6agb-3",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-vgezu6wjv3khkxfuoh2f6agb-3",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "总是",
+    "audioText": "always",
+    "fullEnglish": "always",
+    "phonetic": "ˈɔːlweɪz",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "always",
+        "answer": "always",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "总是",
+        "phonetic": "ˈɔːlweɪz",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "always"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "always",
+        "phonetic": "ˈɔːlweɪz",
+        "pos": "ADV",
+        "zh": "总是",
+        "componentZh": "总是"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-vgezu6wjv3khkxfuoh2f6agb-4",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-vgezu6wjv3khkxfuoh2f6agb-4",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "help（第三人称单数）: 帮助",
+    "audioText": "helps",
+    "fullEnglish": "helps",
+    "phonetic": "help스",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "helps",
+        "answer": "helps",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "help（第三人称单数）: 帮助",
+        "phonetic": "help스",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "helps"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "helps",
+        "phonetic": "help스",
+        "pos": "VERB",
+        "zh": "help（第三人称单数）: 帮助",
+        "componentZh": "help（第三人称单数）: 帮助"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-vgezu6wjv3khkxfuoh2f6agb-6",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-vgezu6wjv3khkxfuoh2f6agb-6",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "calm（原型）: 使平静",
+    "audioText": "calm",
+    "fullEnglish": "calm",
+    "phonetic": "kɑːm",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "calm",
+        "answer": "calm",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "短语动词原型: 冷静",
+        "phonetic": "kɑːm",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "calm"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "calm",
+        "phonetic": "kɑːm",
+        "pos": "VERB",
+        "zh": "短语动词原型: 冷静",
+        "componentZh": "短语动词原型: 冷静"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-vgezu6wjv3khkxfuoh2f6agb-7",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-vgezu6wjv3khkxfuoh2f6agb-7",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "（与 calm 搭配）",
+    "audioText": "down",
+    "fullEnglish": "down",
+    "phonetic": "daʊn",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "down",
+        "answer": "down",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 calm 搭配）",
+        "phonetic": "daʊn",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "down"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "down",
+        "phonetic": "daʊn",
+        "pos": "ADP",
+        "zh": "（与 calm 搭配）",
+        "componentZh": "（与 calm 搭配）"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-kvo1kzvsjdvkagj113ulhual",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-kvo1kzvsjdvkagj113ulhual",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "没关系。",
+    "audioText": "It's OK",
+    "fullEnglish": "It's OK",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "这是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "OK",
+        "answer": "OK",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "abbreviation",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "好的",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's",
+      "OK"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "这是"
+      },
+      {
+        "id": "ud-2",
+        "text": "OK",
+        "role": "表语",
+        "zh": "好的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "这是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "这是"
+      },
+      "1": {
+        "text": "OK",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "INTJ",
+        "zh": "好的",
+        "componentRole": "表语",
+        "componentZh": "好的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-b2leopmtqx42gjmev1u7x6dd",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-S-b2leopmtqx42gjmev1u7x6dd",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让我们一起解决这个问题。",
+    "audioText": "Let's fix it together",
+    "fullEnglish": "Let's fix it together",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "宾语 + 谓语",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "fix",
+        "answer": "fix",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "修理",
+        "phonetic": "fɪks",
+        "pos": "VERB",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "fix it together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "修理；它；（与 get 搭配）"
+      },
+      {
+        "index": 2,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "宾语",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "fix it together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "修理；它；（与 get 搭配）"
+      },
+      {
+        "index": 3,
+        "text": "together",
+        "answer": "together",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "方式/程度状语",
+        "zh": "（与 get 搭配）",
+        "phonetic": "təˈɡeðər",
+        "pos": "ADV",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "fix it together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "修理；它；（与 get 搭配）"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let's",
+      "it",
+      "fix",
+      "together"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let's",
+        "role": "宾语 + 谓语",
+        "zh": "让我们"
+      },
+      {
+        "id": "ud-2",
+        "text": "fix it together",
+        "role": "宾语补足语",
+        "zh": "修理；它；（与 get 搭配）",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "fix",
+            "role": "谓语",
+            "zh": "修理"
+          },
+          {
+            "id": "ud-4",
+            "text": "it",
+            "role": "宾语",
+            "zh": "它"
+          },
+          {
+            "id": "ud-5",
+            "text": "together",
+            "role": "方式/程度状语",
+            "zh": "（与 get 搭配）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentRole": "宾语 + 谓语",
+        "componentZh": "让我们"
+      },
+      "1": {
+        "text": "fix",
+        "phonetic": "fɪks",
+        "pos": "VERB",
+        "zh": "修理",
+        "componentRole": "谓语",
+        "componentZh": "修理",
+        "parentComponentText": "fix it together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "修理；它；（与 get 搭配）"
+      },
+      "2": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentRole": "宾语",
+        "componentZh": "它",
+        "parentComponentText": "fix it together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "修理；它；（与 get 搭配）"
+      },
+      "3": {
+        "text": "together",
+        "phonetic": "təˈɡeðər",
+        "pos": "ADV",
+        "zh": "（与 get 搭配）",
+        "componentRole": "方式/程度状语",
+        "componentZh": "（与 get 搭配）",
+        "parentComponentText": "fix it together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "修理；它；（与 get 搭配）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-b2leopmtqx42gjmev1u7x6dd-2",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-b2leopmtqx42gjmev1u7x6dd-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "修理",
+    "audioText": "fix",
+    "fullEnglish": "fix",
+    "phonetic": "fɪks",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "fix",
+        "answer": "fix",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "修理",
+        "phonetic": "fɪks",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "fix"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "fix",
+        "phonetic": "fɪks",
+        "pos": "VERB",
+        "zh": "修理",
+        "componentZh": "修理"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-b2leopmtqx42gjmev1u7x6dd-3",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-b2leopmtqx42gjmev1u7x6dd-3",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它",
+    "audioText": "it",
+    "fullEnglish": "it",
+    "phonetic": "ɪt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "it"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-b2leopmtqx42gjmev1u7x6dd-4",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-W-b2leopmtqx42gjmev1u7x6dd-4",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一起",
+    "audioText": "together",
+    "fullEnglish": "together",
+    "phonetic": "təˈɡeðər",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "together",
+        "answer": "together",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 get 搭配）",
+        "phonetic": "təˈɡeðər",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "together"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "together",
+        "phonetic": "təˈɡeðər",
+        "pos": "ADV",
+        "zh": "（与 get 搭配）",
+        "componentZh": "（与 get 搭配）"
+      }
+    }
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-ga4ca2a52zynn1dd9eyh62zm",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-ga4ca2a52zynn1dd9eyh62zm",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "看一看",
+    "audioText": "have a look",
+    "fullEnglish": "have a look",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "吃",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "a look",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；看"
+      },
+      {
+        "index": 2,
+        "text": "look",
+        "answer": "look",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "看",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "a look",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；看"
+      }
+    ],
+    "shuffledBlocks": [
+      "a",
+      "have",
+      "look"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "have",
+        "role": "谓语",
+        "zh": "吃"
+      },
+      {
+        "id": "ud-2",
+        "text": "a look",
+        "role": "宾语",
+        "zh": "一个；看",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-4",
+            "text": "look",
+            "role": "中心词",
+            "zh": "看"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "吃",
+        "componentZh": "吃",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "限定词",
+        "parentComponentText": "a look",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；看"
+      },
+      "2": {
+        "text": "look",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "zh": "看",
+        "componentZh": "看",
+        "componentRole": "中心词",
+        "parentComponentText": "a look",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；看"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-bdw5p3sk6istoid66sgpwjrt",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-bdw5p3sk6istoid66sgpwjrt",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我最喜欢的一个",
+    "audioText": "my favourite one",
+    "fullEnglish": "my favourite one",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "favourite",
+        "answer": "favourite",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "最爱",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "one",
+        "answer": "one",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "一",
+        "phonetic": "wʌn",
+        "pos": "NUM",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "favourite",
+      "one",
+      "my"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "my",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-2",
+        "text": "favourite",
+        "role": "补充成分",
+        "zh": "最爱"
+      },
+      {
+        "id": "ud-3",
+        "text": "one",
+        "role": "中心成分",
+        "zh": "一"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "favourite",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "NOUN",
+        "zh": "最爱",
+        "componentZh": "最爱",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "one",
+        "phonetic": "wʌn",
+        "pos": "NUM",
+        "zh": "一",
+        "componentZh": "一",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-sh5q5elsk75cyef3yywmtub4",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-sh5q5elsk75cyef3yywmtub4",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的新模型飞机",
+    "audioText": "my new model plane",
+    "fullEnglish": "my new model plane",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "new",
+        "answer": "new",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "新的",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "model",
+        "answer": "model",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "模型",
+        "phonetic": "ˈmɑːdl",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "补充成分"
+      },
+      {
+        "index": 3,
+        "text": "plane",
+        "answer": "plane",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "飞机",
+        "phonetic": "pleɪn",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "my",
+      "new",
+      "model",
+      "plane"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "my",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-2",
+        "text": "new",
+        "role": "补充成分",
+        "zh": "新的"
+      },
+      {
+        "id": "ud-3",
+        "text": "model",
+        "role": "补充成分",
+        "zh": "模型"
+      },
+      {
+        "id": "ud-4",
+        "text": "plane",
+        "role": "中心成分",
+        "zh": "飞机"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "new",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "zh": "新的",
+        "componentZh": "新的",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "model",
+        "phonetic": "ˈmɑːdl",
+        "pos": "NOUN",
+        "zh": "模型",
+        "componentZh": "模型",
+        "componentRole": "补充成分"
+      },
+      "3": {
+        "text": "plane",
+        "phonetic": "pleɪn",
+        "pos": "NOUN",
+        "zh": "飞机",
+        "componentZh": "飞机",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-o6a5x923usvjmbt858y1yfkx",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-o6a5x923usvjmbt858y1yfkx",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不要",
+    "audioText": "do not",
+    "fullEnglish": "do not",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "not",
+      "do"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "do",
+        "role": "谓语",
+        "zh": "构成疑问句"
+      },
+      {
+        "id": "ud-2",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentZh": "构成疑问句",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentZh": "不",
+        "componentRole": "方式/程度状语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-emw4g94p0si40gvhabqcp6sm",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-emw4g94p0si40gvhabqcp6sm",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "生气",
+    "audioText": "be angry",
+    "fullEnglish": "be angry",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "be",
+        "answer": "be",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "系动词"
+      },
+      {
+        "index": 1,
+        "text": "angry",
+        "answer": "angry",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "生气的",
+        "phonetic": "ˈæŋɡri",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "angry",
+      "be"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "be",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-2",
+        "text": "angry",
+        "role": "表语",
+        "zh": "生气的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "be",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "zh": "是",
+        "componentZh": "是",
+        "componentRole": "系动词"
+      },
+      "1": {
+        "text": "angry",
+        "phonetic": "ˈæŋɡri",
+        "pos": "ADJ",
+        "zh": "生气的",
+        "componentZh": "生气的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "主系表结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-za1n0z5j4drrnl7z0i7gekrn",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-za1n0z5j4drrnl7z0i7gekrn",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让我们",
+    "audioText": "Let's",
+    "fullEnglish": "Let's",
+    "phonetic": "lets",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "宾语 + 谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let's",
+        "role": "宾语 + 谓语",
+        "zh": "让我们"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentZh": "让我们",
+        "componentRole": "宾语 + 谓语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-hnr5e2nfxae5f45wecvp0ytp",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-hnr5e2nfxae5f45wecvp0ytp",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "散步",
+    "audioText": "take a walk",
+    "fullEnglish": "take a walk",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "take",
+        "answer": "take",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "拍",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "a walk",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；走"
+      },
+      {
+        "index": 2,
+        "text": "walk",
+        "answer": "walk",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "走",
+        "phonetic": "wɔːk",
+        "pos": "VERB",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "a walk",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；走"
+      }
+    ],
+    "shuffledBlocks": [
+      "walk",
+      "take",
+      "a"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "take",
+        "role": "谓语",
+        "zh": "拍"
+      },
+      {
+        "id": "ud-2",
+        "text": "a walk",
+        "role": "宾语",
+        "zh": "一个；走",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-4",
+            "text": "walk",
+            "role": "中心词",
+            "zh": "走"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "take",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "zh": "拍",
+        "componentZh": "拍",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "限定词",
+        "parentComponentText": "a walk",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；走"
+      },
+      "2": {
+        "text": "walk",
+        "phonetic": "wɔːk",
+        "pos": "VERB",
+        "zh": "走",
+        "componentZh": "走",
+        "componentRole": "中心词",
+        "parentComponentText": "a walk",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；走"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-sy8m0of6f933uqca5au4gss2",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-sy8m0of6f933uqca5au4gss2",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "do you",
+    "fullEnglish": "do you",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "do"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "do",
+        "role": "谓语",
+        "zh": "构成疑问句"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentZh": "构成疑问句",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-d531ycuem1jluygltq46o4d8",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-d531ycuem1jluygltq46o4d8",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "只想",
+    "audioText": "just want",
+    "fullEnglish": "just want",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "just",
+        "answer": "just",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "只是",
+        "phonetic": "dʒʌst",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "want",
+        "answer": "want",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "想要",
+        "phonetic": "wɑːnt",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "just",
+      "want"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "just",
+        "role": "方式/程度状语",
+        "zh": "只是"
+      },
+      {
+        "id": "ud-2",
+        "text": "want",
+        "role": "谓语",
+        "zh": "想要"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "just",
+        "phonetic": "dʒʌst",
+        "pos": "ADV",
+        "zh": "只是",
+        "componentZh": "只是",
+        "componentRole": "方式/程度状语"
+      },
+      "1": {
+        "text": "want",
+        "phonetic": "wɑːnt",
+        "pos": "VERB",
+        "zh": "想要",
+        "componentZh": "想要",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-dgy8t14b067o0ijr3b5c3leu",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-dgy8t14b067o0ijr3b5c3leu",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "玩耍",
+    "audioText": "to play",
+    "fullEnglish": "to play",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "componentId": "ud-1",
+        "role": "连接词"
+      },
+      {
+        "index": 1,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "玩",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "to",
+      "play"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "to",
+        "role": "连接词",
+        "zh": "引导不定式"
+      },
+      {
+        "id": "ud-2",
+        "text": "play",
+        "role": "谓语",
+        "zh": "玩"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式",
+        "componentRole": "连接词"
+      },
+      "1": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "玩",
+        "componentZh": "玩",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-r1spxz5n4wrzw6gwbt08y231",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-r1spxz5n4wrzw6gwbt08y231",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "和你",
+    "audioText": "with you",
+    "fullEnglish": "with you",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "with",
+        "answer": "with",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "with",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "with",
+        "role": "补充成分",
+        "zh": "和"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "中心成分",
+        "zh": "你"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "with",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "zh": "和",
+        "componentZh": "和",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-f9cmd55vak63n6rx5tkaw7y4",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-f9cmd55vak63n6rx5tkaw7y4",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "感觉好些",
+    "audioText": "feel better",
+    "fullEnglish": "feel better",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "feel",
+        "answer": "feel",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "感受",
+        "phonetic": "fil",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "better",
+        "answer": "better",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "更好",
+        "phonetic": "ˈbetər",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "中心成分",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "better",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "更好"
+      }
+    ],
+    "shuffledBlocks": [
+      "feel",
+      "better"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "feel",
+        "role": "谓语",
+        "zh": "感受"
+      },
+      {
+        "id": "ud-2",
+        "text": "better",
+        "role": "宾语补足语",
+        "zh": "更好",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "better",
+            "role": "中心成分",
+            "zh": "更好"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "feel",
+        "phonetic": "fil",
+        "pos": "VERB",
+        "zh": "感受",
+        "componentZh": "感受",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "better",
+        "phonetic": "ˈbetər",
+        "pos": "ADJ",
+        "zh": "更好",
+        "componentZh": "更好",
+        "componentRole": "中心成分",
+        "parentComponentText": "better",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "更好"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-w2df3xvw3n8eln753ppqjhzt",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-w2df3xvw3n8eln753ppqjhzt",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一次散步",
+    "audioText": "A walk",
+    "fullEnglish": "A walk",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "A",
+        "answer": "A",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "walk",
+        "answer": "walk",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "走",
+        "phonetic": "wɔːk",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "walk",
+      "A"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "A",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-2",
+        "text": "walk",
+        "role": "中心成分",
+        "zh": "走"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "A",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "walk",
+        "phonetic": "wɔːk",
+        "pos": "VERB",
+        "zh": "走",
+        "componentZh": "走",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-o81dwq1m17h2jv007e7qn0i6",
+    "contentId": "JLB-r0u1l69hkmd9w8wvgxcag3h7-PHRASE-o81dwq1m17h2jv007e7qn0i6",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r0u1l69hkmd9w8wvgxcag3h7",
+    "unitTitle": "Unit 1 Share and Care-Lesson 3-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "冷静下来",
+    "audioText": "calm down",
+    "fullEnglish": "calm down",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "calm",
+        "answer": "calm",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "短语动词原型: 冷静",
+        "phonetic": "kɑːm",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": "down",
+        "answer": "down",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 calm 搭配）",
+        "phonetic": "daʊn",
+        "pos": "ADP",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "down",
+      "calm"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "calm",
+        "role": "中心成分",
+        "zh": "短语动词原型: 冷静"
+      },
+      {
+        "id": "ud-2",
+        "text": "down",
+        "role": "方式/程度状语",
+        "zh": "（与 calm 搭配）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "calm",
+        "phonetic": "kɑːm",
+        "pos": "VERB",
+        "zh": "短语动词原型: 冷静",
+        "componentZh": "短语动词原型: 冷静",
+        "componentRole": "中心成分"
+      },
+      "1": {
+        "text": "down",
+        "phonetic": "daʊn",
+        "pos": "ADP",
+        "zh": "（与 calm 搭配）",
+        "componentZh": "（与 calm 搭配）",
+        "componentRole": "方式/程度状语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

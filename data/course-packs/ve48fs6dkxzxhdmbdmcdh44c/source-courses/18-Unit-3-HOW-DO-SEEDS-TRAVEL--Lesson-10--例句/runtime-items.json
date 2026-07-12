@@ -1,0 +1,5462 @@
+[
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-S-g6igx5lcfdsejgd4fydcsyum",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-S-g6igx5lcfdsejgd4fydcsyum",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "叔叔，我们的食物是从哪里来的？",
+    "audioText": "Where do we get our food, Uncle?",
+    "fullEnglish": "Where do we get our food, Uncle?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Where",
+        "answer": "Where",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "方式/程度状语",
+        "zh": "哪里",
+        "phonetic": "wer",
+        "pos": "ADV"
+      },
+      {
+        "index": 1,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "we",
+        "answer": "we",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "主语",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "get",
+        "answer": "get",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "到达",
+        "phonetic": "ɡet",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "our",
+        "answer": "our",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "zh": "我们的",
+        "phonetic": "aʊr",
+        "pos": "PRON",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "our food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我们的；食物"
+      },
+      {
+        "index": 5,
+        "text": "food",
+        "answer": "food",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "食物",
+        "phonetic": "fuːd",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "our food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我们的；食物"
+      },
+      {
+        "index": 6,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "叔叔，我们的食物是从哪里来的？"
+      },
+      {
+        "index": 7,
+        "text": "Uncle",
+        "answer": "Uncle",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "呼语",
+        "zh": "Uncle",
+        "phonetic": "ˈʌŋk(ə)l",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 8,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "叔叔，我们的食物是从哪里来的？"
+      }
+    ],
+    "shuffledBlocks": [
+      "we",
+      "Uncle",
+      "Where",
+      "our",
+      "do",
+      "get",
+      "food"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Where",
+        "role": "方式/程度状语",
+        "zh": "哪里"
+      },
+      {
+        "id": "ud-2",
+        "text": "do",
+        "role": "助动词",
+        "zh": "做"
+      },
+      {
+        "id": "ud-3",
+        "text": "we",
+        "role": "主语",
+        "zh": "我们"
+      },
+      {
+        "id": "ud-4",
+        "text": "get",
+        "role": "谓语",
+        "zh": "到达"
+      },
+      {
+        "id": "ud-5",
+        "text": "our food",
+        "role": "宾语",
+        "zh": "我们的；食物",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "our",
+            "role": "限定词",
+            "zh": "我们的"
+          },
+          {
+            "id": "ud-7",
+            "text": "food",
+            "role": "中心词",
+            "zh": "食物"
+          }
+        ]
+      },
+      {
+        "id": "ud-8",
+        "text": "Uncle",
+        "role": "呼语",
+        "zh": "Uncle"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Where",
+        "phonetic": "wer",
+        "pos": "ADV",
+        "zh": "哪里",
+        "componentRole": "方式/程度状语",
+        "componentZh": "哪里"
+      },
+      "1": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentRole": "助动词",
+        "componentZh": "做"
+      },
+      "2": {
+        "text": "we",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentRole": "主语",
+        "componentZh": "我们"
+      },
+      "3": {
+        "text": "get",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "zh": "到达",
+        "componentRole": "谓语",
+        "componentZh": "到达"
+      },
+      "4": {
+        "text": "our",
+        "phonetic": "aʊr",
+        "pos": "PRON",
+        "zh": "我们的",
+        "componentRole": "限定词",
+        "componentZh": "我们的",
+        "parentComponentText": "our food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我们的；食物"
+      },
+      "5": {
+        "text": "food",
+        "phonetic": "fuːd",
+        "pos": "NOUN",
+        "zh": "食物",
+        "componentRole": "中心词",
+        "componentZh": "食物",
+        "parentComponentText": "our food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我们的；食物"
+      },
+      "7": {
+        "text": "Uncle",
+        "phonetic": "ˈʌŋk(ə)l",
+        "pos": "PROPN_PERSON",
+        "zh": "Uncle",
+        "componentRole": "呼语",
+        "componentZh": "Uncle"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-g6igx5lcfdsejgd4fydcsyum-1",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-g6igx5lcfdsejgd4fydcsyum-1",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哪里",
+    "audioText": "Where",
+    "fullEnglish": "Where",
+    "phonetic": "wer",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Where",
+        "answer": "Where",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "哪里",
+        "phonetic": "wer",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "Where"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Where",
+        "phonetic": "wer",
+        "pos": "ADV",
+        "zh": "哪里",
+        "componentZh": "哪里"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-g6igx5lcfdsejgd4fydcsyum-2",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-g6igx5lcfdsejgd4fydcsyum-2",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "构成疑问句",
+    "audioText": "do",
+    "fullEnglish": "do",
+    "phonetic": "duː; də",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "do"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-g6igx5lcfdsejgd4fydcsyum-3",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-g6igx5lcfdsejgd4fydcsyum-3",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们",
+    "audioText": "we",
+    "fullEnglish": "we",
+    "phonetic": "wiː; wi",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "we",
+        "answer": "we",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "we"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "we",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentZh": "我们"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-g6igx5lcfdsejgd4fydcsyum-4",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-g6igx5lcfdsejgd4fydcsyum-4",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "得到",
+    "audioText": "get",
+    "fullEnglish": "get",
+    "phonetic": "ɡet",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "get",
+        "answer": "get",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "到达",
+        "phonetic": "ɡet",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "get"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "get",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "zh": "到达",
+        "componentZh": "到达"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-g6igx5lcfdsejgd4fydcsyum-5",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-g6igx5lcfdsejgd4fydcsyum-5",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们的",
+    "audioText": "our",
+    "fullEnglish": "our",
+    "phonetic": "aʊr",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "our",
+        "answer": "our",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "我们的",
+        "phonetic": "aʊr",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "our"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "our",
+        "phonetic": "aʊr",
+        "pos": "PRON",
+        "zh": "我们的",
+        "componentZh": "我们的"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-g6igx5lcfdsejgd4fydcsyum-6",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-g6igx5lcfdsejgd4fydcsyum-6",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "食物",
+    "audioText": "food",
+    "fullEnglish": "food",
+    "phonetic": "fuːd",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "food",
+        "answer": "food",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "食物",
+        "phonetic": "fuːd",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "food"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "food",
+        "phonetic": "fuːd",
+        "pos": "NOUN",
+        "zh": "食物",
+        "componentZh": "食物"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-g6igx5lcfdsejgd4fydcsyum-7",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-g6igx5lcfdsejgd4fydcsyum-7",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Uncle",
+    "audioText": "Uncle",
+    "fullEnglish": "Uncle",
+    "phonetic": "ˈʌŋk(ə)l",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Uncle",
+        "answer": "Uncle",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "Uncle",
+        "phonetic": "ˈʌŋk(ə)l",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Uncle"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Uncle",
+        "phonetic": "ˈʌŋk(ə)l",
+        "pos": "PROPN_PERSON",
+        "zh": "Uncle",
+        "componentZh": "Uncle"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-S-jsp2a19hwytqz5h4ahhzr3x7",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-S-jsp2a19hwytqz5h4ahhzr3x7",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你能给我举个食物的例子吗？",
+    "audioText": "Can you give me an example of the food?",
+    "fullEnglish": "Can you give me an example of the food?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Can",
+        "answer": "Can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "可以",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "give",
+        "answer": "give",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "给予",
+        "phonetic": "ɡɪv",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "间接宾语",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      },
+      {
+        "index": 4,
+        "text": "an",
+        "answer": "an",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "æn; ən",
+        "pos": "DET",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "an example of the food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；例子；的；定冠词；食物"
+      },
+      {
+        "index": 5,
+        "text": "example",
+        "answer": "example",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "例子",
+        "phonetic": "ɪɡˈzæmp(ə)l",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "an example of the food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；例子；的；定冠词；食物"
+      },
+      {
+        "index": 6,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "介词",
+        "zh": "的",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "an example of the food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；例子；的；定冠词；食物"
+      },
+      {
+        "index": 7,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "an example of the food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；例子；的；定冠词；食物"
+      },
+      {
+        "index": 8,
+        "text": "food",
+        "answer": "food",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "修饰语",
+        "zh": "食物",
+        "phonetic": "fuːd",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "an example of the food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；例子；的；定冠词；食物"
+      },
+      {
+        "index": 9,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你能给我举个食物的例子吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "give",
+      "me",
+      "you",
+      "food",
+      "of",
+      "an",
+      "example",
+      "Can",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Can",
+        "role": "助动词",
+        "zh": "可以"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "give",
+        "role": "谓语",
+        "zh": "给予"
+      },
+      {
+        "id": "ud-4",
+        "text": "me",
+        "role": "间接宾语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-5",
+        "text": "an example of the food",
+        "role": "宾语",
+        "zh": "一个；例子；的；定冠词；食物",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "an",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-7",
+            "text": "example",
+            "role": "中心词",
+            "zh": "例子"
+          },
+          {
+            "id": "ud-8",
+            "text": "of",
+            "role": "介词",
+            "zh": "的"
+          },
+          {
+            "id": "ud-9",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-10",
+            "text": "food",
+            "role": "修饰语",
+            "zh": "食物"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "可以",
+        "componentRole": "助动词",
+        "componentZh": "可以"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "2": {
+        "text": "give",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "zh": "给予",
+        "componentRole": "谓语",
+        "componentZh": "给予"
+      },
+      "3": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "间接宾语",
+        "componentZh": "我"
+      },
+      "4": {
+        "text": "an",
+        "phonetic": "æn; ən",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "an example of the food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；例子；的；定冠词；食物"
+      },
+      "5": {
+        "text": "example",
+        "phonetic": "ɪɡˈzæmp(ə)l",
+        "pos": "NOUN",
+        "zh": "例子",
+        "componentRole": "中心词",
+        "componentZh": "例子",
+        "parentComponentText": "an example of the food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；例子；的；定冠词；食物"
+      },
+      "6": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "的",
+        "componentRole": "介词",
+        "componentZh": "的",
+        "parentComponentText": "an example of the food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；例子；的；定冠词；食物"
+      },
+      "7": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "an example of the food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；例子；的；定冠词；食物"
+      },
+      "8": {
+        "text": "food",
+        "phonetic": "fuːd",
+        "pos": "NOUN",
+        "zh": "食物",
+        "componentRole": "修饰语",
+        "componentZh": "食物",
+        "parentComponentText": "an example of the food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；例子；的；定冠词；食物"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-jsp2a19hwytqz5h4ahhzr3x7-1",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-jsp2a19hwytqz5h4ahhzr3x7-1",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "能",
+    "audioText": "Can",
+    "fullEnglish": "Can",
+    "phonetic": "kæn",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Can",
+        "answer": "Can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "可以",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "Can"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "可以",
+        "componentZh": "可以"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-jsp2a19hwytqz5h4ahhzr3x7-2",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-jsp2a19hwytqz5h4ahhzr3x7-2",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-jsp2a19hwytqz5h4ahhzr3x7-3",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-jsp2a19hwytqz5h4ahhzr3x7-3",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "给",
+    "audioText": "give",
+    "fullEnglish": "give",
+    "phonetic": "ɡɪv",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "give",
+        "answer": "give",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "给予",
+        "phonetic": "ɡɪv",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "give"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "give",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "zh": "给予",
+        "componentZh": "给予"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-jsp2a19hwytqz5h4ahhzr3x7-4",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-jsp2a19hwytqz5h4ahhzr3x7-4",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "me",
+    "fullEnglish": "me",
+    "phonetic": "miː",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "me"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-jsp2a19hwytqz5h4ahhzr3x7-5",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-jsp2a19hwytqz5h4ahhzr3x7-5",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个",
+    "audioText": "an",
+    "fullEnglish": "an",
+    "phonetic": "æn; ən",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "an",
+        "answer": "an",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "æn; ən",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "an"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "an",
+        "phonetic": "æn; ən",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-jsp2a19hwytqz5h4ahhzr3x7-6",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-jsp2a19hwytqz5h4ahhzr3x7-6",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "例子",
+    "audioText": "example",
+    "fullEnglish": "example",
+    "phonetic": "ɪɡˈzæmp(ə)l",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "example",
+        "answer": "example",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "例子",
+        "phonetic": "ɪɡˈzæmp(ə)l",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "example"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "example",
+        "phonetic": "ɪɡˈzæmp(ə)l",
+        "pos": "NOUN",
+        "zh": "例子",
+        "componentZh": "例子"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-jsp2a19hwytqz5h4ahhzr3x7-7",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-jsp2a19hwytqz5h4ahhzr3x7-7",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "的",
+    "audioText": "of",
+    "fullEnglish": "of",
+    "phonetic": "ʌv",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "的",
+        "phonetic": "ʌv",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "of"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "的",
+        "componentZh": "的"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-jsp2a19hwytqz5h4ahhzr3x7-8",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-jsp2a19hwytqz5h4ahhzr3x7-8",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "the",
+    "fullEnglish": "the",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "the"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-S-snil9g4orraj2ak1ql62efxr",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-S-snil9g4orraj2ak1ql62efxr",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们的大部分食物来自植物。",
+    "audioText": "We get most of our food from plants",
+    "fullEnglish": "We get most of our food from plants",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "We",
+        "answer": "We",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "get",
+        "answer": "get",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "到达",
+        "phonetic": "ɡet",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "most",
+        "answer": "most",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "大多数",
+        "phonetic": "moʊst",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "most of our food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "大多数；的；我们的；食物"
+      },
+      {
+        "index": 3,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "介词",
+        "zh": "的",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "most of our food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "大多数；的；我们的；食物"
+      },
+      {
+        "index": 4,
+        "text": "our",
+        "answer": "our",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "zh": "我们的",
+        "phonetic": "aʊr",
+        "pos": "PRON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "most of our food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "大多数；的；我们的；食物"
+      },
+      {
+        "index": 5,
+        "text": "food",
+        "answer": "food",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "修饰语",
+        "zh": "食物",
+        "phonetic": "fuːd",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "most of our food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "大多数；的；我们的；食物"
+      },
+      {
+        "index": 6,
+        "text": "from",
+        "answer": "from",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "介词",
+        "zh": "从",
+        "phonetic": "frʌm",
+        "pos": "ADP",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "from plants",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "从；植物（复数）"
+      },
+      {
+        "index": 7,
+        "text": "plants",
+        "answer": "plants",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "中心词",
+        "zh": "植物（复数）",
+        "phonetic": "plænts",
+        "pos": "NOUN",
+        "parentComponentId": "ud-10",
+        "parentComponentText": "plants",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "植物（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "our",
+      "get",
+      "We",
+      "from",
+      "most",
+      "plants",
+      "food",
+      "of"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "We",
+        "role": "主语",
+        "zh": "我们"
+      },
+      {
+        "id": "ud-2",
+        "text": "get",
+        "role": "谓语",
+        "zh": "到达"
+      },
+      {
+        "id": "ud-3",
+        "text": "most of our food",
+        "role": "宾语",
+        "zh": "大多数；的；我们的；食物",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "most",
+            "role": "中心词",
+            "zh": "大多数"
+          },
+          {
+            "id": "ud-5",
+            "text": "of",
+            "role": "介词",
+            "zh": "的"
+          },
+          {
+            "id": "ud-6",
+            "text": "our",
+            "role": "限定词",
+            "zh": "我们的"
+          },
+          {
+            "id": "ud-7",
+            "text": "food",
+            "role": "修饰语",
+            "zh": "食物"
+          }
+        ]
+      },
+      {
+        "id": "ud-8",
+        "text": "from plants",
+        "role": "地点状语",
+        "zh": "从；植物（复数）",
+        "children": [
+          {
+            "id": "ud-9",
+            "text": "from",
+            "role": "介词",
+            "zh": "从"
+          },
+          {
+            "id": "ud-10",
+            "text": "plants",
+            "role": "介词宾语",
+            "zh": "植物（复数）",
+            "children": [
+              {
+                "id": "ud-11",
+                "text": "plants",
+                "role": "中心词",
+                "zh": "植物（复数）"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "We",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentRole": "主语",
+        "componentZh": "我们"
+      },
+      "1": {
+        "text": "get",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "zh": "到达",
+        "componentRole": "谓语",
+        "componentZh": "到达"
+      },
+      "2": {
+        "text": "most",
+        "phonetic": "moʊst",
+        "pos": "ADJ",
+        "zh": "大多数",
+        "componentRole": "中心词",
+        "componentZh": "大多数",
+        "parentComponentText": "most of our food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "大多数；的；我们的；食物"
+      },
+      "3": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "的",
+        "componentRole": "介词",
+        "componentZh": "的",
+        "parentComponentText": "most of our food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "大多数；的；我们的；食物"
+      },
+      "4": {
+        "text": "our",
+        "phonetic": "aʊr",
+        "pos": "PRON",
+        "zh": "我们的",
+        "componentRole": "限定词",
+        "componentZh": "我们的",
+        "parentComponentText": "most of our food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "大多数；的；我们的；食物"
+      },
+      "5": {
+        "text": "food",
+        "phonetic": "fuːd",
+        "pos": "NOUN",
+        "zh": "食物",
+        "componentRole": "修饰语",
+        "componentZh": "食物",
+        "parentComponentText": "most of our food",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "大多数；的；我们的；食物"
+      },
+      "6": {
+        "text": "from",
+        "phonetic": "frʌm",
+        "pos": "ADP",
+        "zh": "从",
+        "componentRole": "介词",
+        "componentZh": "从",
+        "parentComponentText": "from plants",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "从；植物（复数）"
+      },
+      "7": {
+        "text": "plants",
+        "phonetic": "plænts",
+        "pos": "NOUN",
+        "zh": "植物（复数）",
+        "componentRole": "中心词",
+        "componentZh": "植物（复数）",
+        "parentComponentText": "plants",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "植物（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-snil9g4orraj2ak1ql62efxr-3",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-snil9g4orraj2ak1ql62efxr-3",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "大多数",
+    "audioText": "most",
+    "fullEnglish": "most",
+    "phonetic": "moʊst",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "most",
+        "answer": "most",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "大多数",
+        "phonetic": "moʊst",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "most"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "most",
+        "phonetic": "moʊst",
+        "pos": "ADJ",
+        "zh": "大多数",
+        "componentZh": "大多数"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-snil9g4orraj2ak1ql62efxr-7",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-snil9g4orraj2ak1ql62efxr-7",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "从",
+    "audioText": "from",
+    "fullEnglish": "from",
+    "phonetic": "frʌm",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "from",
+        "answer": "from",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "从",
+        "phonetic": "frʌm",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "from"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "from",
+        "phonetic": "frʌm",
+        "pos": "ADP",
+        "zh": "从",
+        "componentZh": "从"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-snil9g4orraj2ak1ql62efxr-8",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-snil9g4orraj2ak1ql62efxr-8",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "植物（复数）",
+    "audioText": "plants",
+    "fullEnglish": "plants",
+    "phonetic": "plænts",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "plants",
+        "answer": "plants",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "植物（复数）",
+        "phonetic": "plænts",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "plants"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "plants",
+        "phonetic": "plænts",
+        "pos": "NOUN",
+        "zh": "植物（复数）",
+        "componentZh": "植物（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-S-ls9tydedw5gxwbl8047aoe6a",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-S-ls9tydedw5gxwbl8047aoe6a",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "例如，花生、番茄、土豆、卷心菜和胡萝卜。",
+    "audioText": "For example, peanuts, tomatoes, potatoes, cabbages, and carrots",
+    "fullEnglish": "For example, peanuts, tomatoes, potatoes, cabbages, and carrots",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "For",
+        "answer": "For",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "介词",
+        "zh": "为",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "For example",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "为；例子"
+      },
+      {
+        "index": 1,
+        "text": "example",
+        "answer": "example",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "例子",
+        "phonetic": "ɪɡˈzæmp(ə)l",
+        "pos": "NOUN",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "For example",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "为；例子"
+      },
+      {
+        "index": 2,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "例如，花生、番茄、土豆、卷心菜和胡萝卜。"
+      },
+      {
+        "index": 3,
+        "text": "peanuts",
+        "answer": "peanuts",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心成分",
+        "zh": "花生（复数）",
+        "phonetic": "ˈpiːnʌts",
+        "pos": "NOUN"
+      },
+      {
+        "index": 4,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "例如，花生、番茄、土豆、卷心菜和胡萝卜。"
+      },
+      {
+        "index": 5,
+        "text": "tomatoes",
+        "answer": "tomatoes",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "并列成分",
+        "zh": "番茄（复数）",
+        "phonetic": "təˈmeɪtoʊz",
+        "pos": "NOUN"
+      },
+      {
+        "index": 6,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "例如，花生、番茄、土豆、卷心菜和胡萝卜。"
+      },
+      {
+        "index": 7,
+        "text": "potatoes",
+        "answer": "potatoes",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "并列成分",
+        "zh": "土豆（复数）",
+        "phonetic": "pəˈtetoz",
+        "pos": "NOUN"
+      },
+      {
+        "index": 8,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "例如，花生、番茄、土豆、卷心菜和胡萝卜。"
+      },
+      {
+        "index": 9,
+        "text": "cabbages",
+        "answer": "cabbages",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "并列成分",
+        "zh": "卷心菜（复数）",
+        "phonetic": "ˈkæbɪdʒɪz",
+        "pos": "NOUN"
+      },
+      {
+        "index": 10,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "例如，花生、番茄、土豆、卷心菜和胡萝卜。"
+      },
+      {
+        "index": 11,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "and carrots",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；胡萝卜（复数）"
+      },
+      {
+        "index": 12,
+        "text": "carrots",
+        "answer": "carrots",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "中心词",
+        "zh": "胡萝卜（复数）",
+        "phonetic": "ˈkærəts",
+        "pos": "NOUN",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "and carrots",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；胡萝卜（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "peanuts",
+      "example",
+      "For",
+      "cabbages",
+      "and",
+      "carrots",
+      "potatoes",
+      "tomatoes"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "For example",
+        "role": "补充成分",
+        "zh": "为；例子",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "For",
+            "role": "介词",
+            "zh": "为"
+          },
+          {
+            "id": "ud-3",
+            "text": "example",
+            "role": "中心词",
+            "zh": "例子"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "peanuts",
+        "role": "中心成分",
+        "zh": "花生（复数）"
+      },
+      {
+        "id": "ud-5",
+        "text": "tomatoes",
+        "role": "并列成分",
+        "zh": "番茄（复数）"
+      },
+      {
+        "id": "ud-6",
+        "text": "potatoes",
+        "role": "并列成分",
+        "zh": "土豆（复数）"
+      },
+      {
+        "id": "ud-7",
+        "text": "cabbages",
+        "role": "并列成分",
+        "zh": "卷心菜（复数）"
+      },
+      {
+        "id": "ud-8",
+        "text": "and carrots",
+        "role": "并列成分",
+        "zh": "和；胡萝卜（复数）",
+        "children": [
+          {
+            "id": "ud-9",
+            "text": "and",
+            "role": "并列连词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-10",
+            "text": "carrots",
+            "role": "中心词",
+            "zh": "胡萝卜（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "For",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为",
+        "componentRole": "介词",
+        "componentZh": "为",
+        "parentComponentText": "For example",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "为；例子"
+      },
+      "1": {
+        "text": "example",
+        "phonetic": "ɪɡˈzæmp(ə)l",
+        "pos": "NOUN",
+        "zh": "例子",
+        "componentRole": "中心词",
+        "componentZh": "例子",
+        "parentComponentText": "For example",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "为；例子"
+      },
+      "3": {
+        "text": "peanuts",
+        "phonetic": "ˈpiːnʌts",
+        "pos": "NOUN",
+        "zh": "花生（复数）",
+        "componentRole": "中心成分",
+        "componentZh": "花生（复数）"
+      },
+      "5": {
+        "text": "tomatoes",
+        "phonetic": "təˈmeɪtoʊz",
+        "pos": "NOUN",
+        "zh": "番茄（复数）",
+        "componentRole": "并列成分",
+        "componentZh": "番茄（复数）"
+      },
+      "7": {
+        "text": "potatoes",
+        "phonetic": "pəˈtetoz",
+        "pos": "NOUN",
+        "zh": "土豆（复数）",
+        "componentRole": "并列成分",
+        "componentZh": "土豆（复数）"
+      },
+      "9": {
+        "text": "cabbages",
+        "phonetic": "ˈkæbɪdʒɪz",
+        "pos": "NOUN",
+        "zh": "卷心菜（复数）",
+        "componentRole": "并列成分",
+        "componentZh": "卷心菜（复数）"
+      },
+      "11": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和",
+        "parentComponentText": "and carrots",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；胡萝卜（复数）"
+      },
+      "12": {
+        "text": "carrots",
+        "phonetic": "ˈkærəts",
+        "pos": "NOUN",
+        "zh": "胡萝卜（复数）",
+        "componentRole": "中心词",
+        "componentZh": "胡萝卜（复数）",
+        "parentComponentText": "and carrots",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；胡萝卜（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-ls9tydedw5gxwbl8047aoe6a-1",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-ls9tydedw5gxwbl8047aoe6a-1",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "为了",
+    "audioText": "For",
+    "fullEnglish": "For",
+    "phonetic": "fɔːr; fər",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "For",
+        "answer": "For",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "For"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "For",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为",
+        "componentZh": "为"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-ls9tydedw5gxwbl8047aoe6a-3",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-ls9tydedw5gxwbl8047aoe6a-3",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "花生（复数）",
+    "audioText": "peanuts",
+    "fullEnglish": "peanuts",
+    "phonetic": "ˈpiːnʌts",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "peanuts",
+        "answer": "peanuts",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "花生（复数）",
+        "phonetic": "ˈpiːnʌts",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "peanuts"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "peanuts",
+        "phonetic": "ˈpiːnʌts",
+        "pos": "NOUN",
+        "zh": "花生（复数）",
+        "componentZh": "花生（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-ls9tydedw5gxwbl8047aoe6a-4",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-ls9tydedw5gxwbl8047aoe6a-4",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "番茄（复数）",
+    "audioText": "tomatoes",
+    "fullEnglish": "tomatoes",
+    "phonetic": "təˈmeɪtoʊz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "tomatoes",
+        "answer": "tomatoes",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "番茄（复数）",
+        "phonetic": "təˈmeɪtoʊz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "tomatoes"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "tomatoes",
+        "phonetic": "təˈmeɪtoʊz",
+        "pos": "NOUN",
+        "zh": "番茄（复数）",
+        "componentZh": "番茄（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-ls9tydedw5gxwbl8047aoe6a-5",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-ls9tydedw5gxwbl8047aoe6a-5",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "土豆（复数）",
+    "audioText": "potatoes",
+    "fullEnglish": "potatoes",
+    "phonetic": "pəˈtetoz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "potatoes",
+        "answer": "potatoes",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "土豆（复数）",
+        "phonetic": "pəˈtetoz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "potatoes"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "potatoes",
+        "phonetic": "pəˈtetoz",
+        "pos": "NOUN",
+        "zh": "土豆（复数）",
+        "componentZh": "土豆（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-ls9tydedw5gxwbl8047aoe6a-6",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-ls9tydedw5gxwbl8047aoe6a-6",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "卷心菜（复数）",
+    "audioText": "cabbages",
+    "fullEnglish": "cabbages",
+    "phonetic": "ˈkæbɪdʒɪz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "cabbages",
+        "answer": "cabbages",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "卷心菜（复数）",
+        "phonetic": "ˈkæbɪdʒɪz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "cabbages"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "cabbages",
+        "phonetic": "ˈkæbɪdʒɪz",
+        "pos": "NOUN",
+        "zh": "卷心菜（复数）",
+        "componentZh": "卷心菜（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-ls9tydedw5gxwbl8047aoe6a-7",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-ls9tydedw5gxwbl8047aoe6a-7",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "和",
+    "audioText": "and",
+    "fullEnglish": "and",
+    "phonetic": "ænd; ənd",
+    "pos": "CCONJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "and"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-ls9tydedw5gxwbl8047aoe6a-8",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-ls9tydedw5gxwbl8047aoe6a-8",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "胡萝卜（复数）",
+    "audioText": "carrots",
+    "fullEnglish": "carrots",
+    "phonetic": "ˈkærəts",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "carrots",
+        "answer": "carrots",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "胡萝卜（复数）",
+        "phonetic": "ˈkærəts",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "carrots"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "carrots",
+        "phonetic": "ˈkærəts",
+        "pos": "NOUN",
+        "zh": "胡萝卜（复数）",
+        "componentZh": "胡萝卜（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-S-hhxo18qhyay5rpcxq34e6lcw",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-S-hhxo18qhyay5rpcxq34e6lcw",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这些食物来自植物的不同部位。",
+    "audioText": "These foods come from different parts of plants",
+    "fullEnglish": "These foods come from different parts of plants",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "These",
+        "answer": "These",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "zh": "这些",
+        "phonetic": "ðiːz",
+        "pos": "DET",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "These foods",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这些；食物（复数）"
+      },
+      {
+        "index": 1,
+        "text": "foods",
+        "answer": "foods",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "食物（复数）",
+        "phonetic": "fuːdz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "These foods",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这些；食物（复数）"
+      },
+      {
+        "index": 2,
+        "text": "come",
+        "answer": "come",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "来",
+        "phonetic": "kʌm",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "from",
+        "answer": "from",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "介词",
+        "zh": "从",
+        "phonetic": "frʌm",
+        "pos": "ADP",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "from different parts of plants",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "从；不同的；部分（复数）；的；植物（复数）"
+      },
+      {
+        "index": 4,
+        "text": "different",
+        "answer": "different",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "定语（形容词）",
+        "zh": "不同的",
+        "phonetic": "ˈdɪfrənt",
+        "pos": "ADJ",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "different parts of plants",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "不同的；部分（复数）；的；植物（复数）"
+      },
+      {
+        "index": 5,
+        "text": "parts",
+        "answer": "parts",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "中心词",
+        "zh": "部分（复数）",
+        "phonetic": "pɑːrts",
+        "pos": "NOUN",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "different parts of plants",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "不同的；部分（复数）；的；植物（复数）"
+      },
+      {
+        "index": 6,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "介词",
+        "zh": "的",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "different parts of plants",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "不同的；部分（复数）；的；植物（复数）"
+      },
+      {
+        "index": 7,
+        "text": "plants",
+        "answer": "plants",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "修饰语",
+        "zh": "植物（复数）",
+        "phonetic": "plænts",
+        "pos": "NOUN",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "different parts of plants",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "不同的；部分（复数）；的；植物（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "different",
+      "from",
+      "come",
+      "plants",
+      "These",
+      "of",
+      "parts",
+      "foods"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "These foods",
+        "role": "主语",
+        "zh": "这些；食物（复数）",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "These",
+            "role": "限定词",
+            "zh": "这些"
+          },
+          {
+            "id": "ud-3",
+            "text": "foods",
+            "role": "中心词",
+            "zh": "食物（复数）"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "come",
+        "role": "谓语",
+        "zh": "来"
+      },
+      {
+        "id": "ud-5",
+        "text": "from different parts of plants",
+        "role": "地点状语",
+        "zh": "从；不同的；部分（复数）；的；植物（复数）",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "from",
+            "role": "介词",
+            "zh": "从"
+          },
+          {
+            "id": "ud-7",
+            "text": "different parts of plants",
+            "role": "介词宾语",
+            "zh": "不同的；部分（复数）；的；植物（复数）",
+            "children": [
+              {
+                "id": "ud-8",
+                "text": "different",
+                "role": "定语（形容词）",
+                "zh": "不同的"
+              },
+              {
+                "id": "ud-9",
+                "text": "parts",
+                "role": "中心词",
+                "zh": "部分（复数）"
+              },
+              {
+                "id": "ud-10",
+                "text": "of",
+                "role": "介词",
+                "zh": "的"
+              },
+              {
+                "id": "ud-11",
+                "text": "plants",
+                "role": "修饰语",
+                "zh": "植物（复数）"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "These",
+        "phonetic": "ðiːz",
+        "pos": "DET",
+        "zh": "这些",
+        "componentRole": "限定词",
+        "componentZh": "这些",
+        "parentComponentText": "These foods",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这些；食物（复数）"
+      },
+      "1": {
+        "text": "foods",
+        "phonetic": "fuːdz",
+        "pos": "NOUN",
+        "zh": "食物（复数）",
+        "componentRole": "中心词",
+        "componentZh": "食物（复数）",
+        "parentComponentText": "These foods",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这些；食物（复数）"
+      },
+      "2": {
+        "text": "come",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "zh": "来",
+        "componentRole": "谓语",
+        "componentZh": "来"
+      },
+      "3": {
+        "text": "from",
+        "phonetic": "frʌm",
+        "pos": "ADP",
+        "zh": "从",
+        "componentRole": "介词",
+        "componentZh": "从",
+        "parentComponentText": "from different parts of plants",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "从；不同的；部分（复数）；的；植物（复数）"
+      },
+      "4": {
+        "text": "different",
+        "phonetic": "ˈdɪfrənt",
+        "pos": "ADJ",
+        "zh": "不同的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "不同的",
+        "parentComponentText": "different parts of plants",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "不同的；部分（复数）；的；植物（复数）"
+      },
+      "5": {
+        "text": "parts",
+        "phonetic": "pɑːrts",
+        "pos": "NOUN",
+        "zh": "部分（复数）",
+        "componentRole": "中心词",
+        "componentZh": "部分（复数）",
+        "parentComponentText": "different parts of plants",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "不同的；部分（复数）；的；植物（复数）"
+      },
+      "6": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "的",
+        "componentRole": "介词",
+        "componentZh": "的",
+        "parentComponentText": "different parts of plants",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "不同的；部分（复数）；的；植物（复数）"
+      },
+      "7": {
+        "text": "plants",
+        "phonetic": "plænts",
+        "pos": "NOUN",
+        "zh": "植物（复数）",
+        "componentRole": "修饰语",
+        "componentZh": "植物（复数）",
+        "parentComponentText": "different parts of plants",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "不同的；部分（复数）；的；植物（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-hhxo18qhyay5rpcxq34e6lcw-1",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-hhxo18qhyay5rpcxq34e6lcw-1",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这些",
+    "audioText": "These",
+    "fullEnglish": "These",
+    "phonetic": "ðiːz",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "These",
+        "answer": "These",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "这些",
+        "phonetic": "ðiːz",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "These"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "These",
+        "phonetic": "ðiːz",
+        "pos": "DET",
+        "zh": "这些",
+        "componentZh": "这些"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-hhxo18qhyay5rpcxq34e6lcw-2",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-hhxo18qhyay5rpcxq34e6lcw-2",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "食物（复数）",
+    "audioText": "foods",
+    "fullEnglish": "foods",
+    "phonetic": "fuːdz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "foods",
+        "answer": "foods",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "食物（复数）",
+        "phonetic": "fuːdz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "foods"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "foods",
+        "phonetic": "fuːdz",
+        "pos": "NOUN",
+        "zh": "食物（复数）",
+        "componentZh": "食物（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-hhxo18qhyay5rpcxq34e6lcw-3",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-hhxo18qhyay5rpcxq34e6lcw-3",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "来自",
+    "audioText": "come",
+    "fullEnglish": "come",
+    "phonetic": "kʌm",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "come",
+        "answer": "come",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "来",
+        "phonetic": "kʌm",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "come"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "come",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "zh": "来",
+        "componentZh": "来"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-hhxo18qhyay5rpcxq34e6lcw-5",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-hhxo18qhyay5rpcxq34e6lcw-5",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不同的",
+    "audioText": "different",
+    "fullEnglish": "different",
+    "phonetic": "ˈdɪfrənt",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "different",
+        "answer": "different",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "不同的",
+        "phonetic": "ˈdɪfrənt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "different"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "different",
+        "phonetic": "ˈdɪfrənt",
+        "pos": "ADJ",
+        "zh": "不同的",
+        "componentZh": "不同的"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-hhxo18qhyay5rpcxq34e6lcw-6",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-hhxo18qhyay5rpcxq34e6lcw-6",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "部分（复数）",
+    "audioText": "parts",
+    "fullEnglish": "parts",
+    "phonetic": "pɑːrts",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "parts",
+        "answer": "parts",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "部分（复数）",
+        "phonetic": "pɑːrts",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "parts"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "parts",
+        "phonetic": "pɑːrts",
+        "pos": "NOUN",
+        "zh": "部分（复数）",
+        "componentZh": "部分（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-S-h4fl5u3o9g3fnh4216o0cozs",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-S-h4fl5u3o9g3fnh4216o0cozs",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你能给我举个例子吗？",
+    "audioText": "Can you give me an example?",
+    "fullEnglish": "Can you give me an example?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Can",
+        "answer": "Can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "可以",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "give",
+        "answer": "give",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "给予",
+        "phonetic": "ɡɪv",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "间接宾语",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      },
+      {
+        "index": 4,
+        "text": "an",
+        "answer": "an",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "æn; ən",
+        "pos": "DET",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "an example",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；例子"
+      },
+      {
+        "index": 5,
+        "text": "example",
+        "answer": "example",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "例子",
+        "phonetic": "ɪɡˈzæmp(ə)l",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "an example",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；例子"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你能给我举个例子吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "me",
+      "an",
+      "Can",
+      "example",
+      "give"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Can",
+        "role": "助动词",
+        "zh": "可以"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "give",
+        "role": "谓语",
+        "zh": "给予"
+      },
+      {
+        "id": "ud-4",
+        "text": "me",
+        "role": "间接宾语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-5",
+        "text": "an example",
+        "role": "宾语",
+        "zh": "一个；例子",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "an",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-7",
+            "text": "example",
+            "role": "中心词",
+            "zh": "例子"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "可以",
+        "componentRole": "助动词",
+        "componentZh": "可以"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "2": {
+        "text": "give",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "zh": "给予",
+        "componentRole": "谓语",
+        "componentZh": "给予"
+      },
+      "3": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "间接宾语",
+        "componentZh": "我"
+      },
+      "4": {
+        "text": "an",
+        "phonetic": "æn; ən",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "an example",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；例子"
+      },
+      "5": {
+        "text": "example",
+        "phonetic": "ɪɡˈzæmp(ə)l",
+        "pos": "NOUN",
+        "zh": "例子",
+        "componentRole": "中心词",
+        "componentZh": "例子",
+        "parentComponentText": "an example",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；例子"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-S-qjk59338x5w4g8pf5srjc20l",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-S-qjk59338x5w4g8pf5srjc20l",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "花生是种子，而土豆是茎。",
+    "audioText": "Peanuts are seeds, and potatoes are stems",
+    "fullEnglish": "Peanuts are seeds, and potatoes are stems",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Peanuts",
+        "answer": "Peanuts",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "花生（复数）",
+        "phonetic": "ˈpiːnʌts",
+        "pos": "NOUN"
+      },
+      {
+        "index": 1,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɑr",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "seeds",
+        "answer": "seeds",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "种子（复数）",
+        "phonetic": "siːdz",
+        "pos": "NOUN"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "花生是种子，而土豆是茎。"
+      },
+      {
+        "index": 4,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "and potatoes are stems",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；土豆（复数）；是；茎（复数）"
+      },
+      {
+        "index": 5,
+        "text": "potatoes",
+        "answer": "potatoes",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "修饰语",
+        "zh": "土豆（复数）",
+        "phonetic": "pəˈtetoz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "and potatoes are stems",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；土豆（复数）；是；茎（复数）"
+      },
+      {
+        "index": 6,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "动词",
+        "zh": "是",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "and potatoes are stems",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；土豆（复数）；是；茎（复数）"
+      },
+      {
+        "index": 7,
+        "text": "stems",
+        "answer": "stems",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "茎（复数）",
+        "phonetic": "stemz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "and potatoes are stems",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；土豆（复数）；是；茎（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "Peanuts",
+      "stems",
+      "and",
+      "are",
+      "seeds",
+      "are",
+      "potatoes"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Peanuts",
+        "role": "主语",
+        "zh": "花生（复数）"
+      },
+      {
+        "id": "ud-2",
+        "text": "are",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-3",
+        "text": "seeds",
+        "role": "表语",
+        "zh": "种子（复数）"
+      },
+      {
+        "id": "ud-4",
+        "text": "and potatoes are stems",
+        "role": "并列成分",
+        "zh": "和；土豆（复数）；是；茎（复数）",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "and",
+            "role": "并列连词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-6",
+            "text": "potatoes",
+            "role": "修饰语",
+            "zh": "土豆（复数）"
+          },
+          {
+            "id": "ud-7",
+            "text": "are",
+            "role": "动词",
+            "zh": "是"
+          },
+          {
+            "id": "ud-8",
+            "text": "stems",
+            "role": "中心词",
+            "zh": "茎（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Peanuts",
+        "phonetic": "ˈpiːnʌts",
+        "pos": "NOUN",
+        "zh": "花生（复数）",
+        "componentRole": "主语",
+        "componentZh": "花生（复数）"
+      },
+      "1": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "2": {
+        "text": "seeds",
+        "phonetic": "siːdz",
+        "pos": "NOUN",
+        "zh": "种子（复数）",
+        "componentRole": "表语",
+        "componentZh": "种子（复数）"
+      },
+      "4": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和",
+        "parentComponentText": "and potatoes are stems",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；土豆（复数）；是；茎（复数）"
+      },
+      "5": {
+        "text": "potatoes",
+        "phonetic": "pəˈtetoz",
+        "pos": "NOUN",
+        "zh": "土豆（复数）",
+        "componentRole": "修饰语",
+        "componentZh": "土豆（复数）",
+        "parentComponentText": "and potatoes are stems",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；土豆（复数）；是；茎（复数）"
+      },
+      "6": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "动词",
+        "componentZh": "是",
+        "parentComponentText": "and potatoes are stems",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；土豆（复数）；是；茎（复数）"
+      },
+      "7": {
+        "text": "stems",
+        "phonetic": "stemz",
+        "pos": "NOUN",
+        "zh": "茎（复数）",
+        "componentRole": "中心词",
+        "componentZh": "茎（复数）",
+        "parentComponentText": "and potatoes are stems",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；土豆（复数）；是；茎（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-qjk59338x5w4g8pf5srjc20l-2",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-qjk59338x5w4g8pf5srjc20l-2",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "are",
+    "fullEnglish": "are",
+    "phonetic": "ɑr",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɑr",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "are"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-qjk59338x5w4g8pf5srjc20l-3",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-qjk59338x5w4g8pf5srjc20l-3",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "种子（复数）",
+    "audioText": "seeds",
+    "fullEnglish": "seeds",
+    "phonetic": "siːdz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "seeds",
+        "answer": "seeds",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "种子（复数）",
+        "phonetic": "siːdz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "seeds"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "seeds",
+        "phonetic": "siːdz",
+        "pos": "NOUN",
+        "zh": "种子（复数）",
+        "componentZh": "种子（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-qjk59338x5w4g8pf5srjc20l-6",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-qjk59338x5w4g8pf5srjc20l-6",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "茎（复数）",
+    "audioText": "stems",
+    "fullEnglish": "stems",
+    "phonetic": "stemz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "stems",
+        "answer": "stems",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "茎（复数）",
+        "phonetic": "stemz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "stems"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "stems",
+        "phonetic": "stemz",
+        "pos": "NOUN",
+        "zh": "茎（复数）",
+        "componentZh": "茎（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-S-qvdgnnl1sy3bquv5bngspsiz",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-S-qvdgnnl1sy3bquv5bngspsiz",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哦，我明白了。番茄是水果。",
+    "audioText": "Oh, I see. Tomatoes are fruits",
+    "fullEnglish": "Oh, I see. Tomatoes are fruits",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Oh",
+        "answer": "Oh",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "哦",
+        "phonetic": "oʊ",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哦，我明白了。番茄是水果。"
+      },
+      {
+        "index": 2,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "see",
+        "answer": "see",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "看见",
+        "phonetic": "siː",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哦，我明白了。番茄是水果。"
+      },
+      {
+        "index": 5,
+        "text": "Tomatoes",
+        "answer": "Tomatoes",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语",
+        "zh": "番茄（复数）",
+        "phonetic": "təˈmeɪtoʊz",
+        "pos": "NOUN"
+      },
+      {
+        "index": 6,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɑr",
+        "pos": "AUX"
+      },
+      {
+        "index": 7,
+        "text": "fruits",
+        "answer": "fruits",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "表语",
+        "zh": "水果（复数）",
+        "phonetic": "fruːts",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Oh",
+      "are",
+      "see",
+      "I",
+      "Tomatoes",
+      "fruits"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Oh",
+        "role": "语气/引导语",
+        "zh": "哦"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "see",
+        "role": "谓语",
+        "zh": "看见"
+      },
+      {
+        "id": "ud-4",
+        "text": "Tomatoes",
+        "role": "主语",
+        "zh": "番茄（复数）"
+      },
+      {
+        "id": "ud-5",
+        "text": "are",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-6",
+        "text": "fruits",
+        "role": "表语",
+        "zh": "水果（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Oh",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "zh": "哦",
+        "componentRole": "语气/引导语",
+        "componentZh": "哦"
+      },
+      "2": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "3": {
+        "text": "see",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "zh": "看见",
+        "componentRole": "谓语",
+        "componentZh": "看见"
+      },
+      "5": {
+        "text": "Tomatoes",
+        "phonetic": "təˈmeɪtoʊz",
+        "pos": "NOUN",
+        "zh": "番茄（复数）",
+        "componentRole": "主语",
+        "componentZh": "番茄（复数）"
+      },
+      "6": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "7": {
+        "text": "fruits",
+        "phonetic": "fruːts",
+        "pos": "NOUN",
+        "zh": "水果（复数）",
+        "componentRole": "表语",
+        "componentZh": "水果（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-qvdgnnl1sy3bquv5bngspsiz-1",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-qvdgnnl1sy3bquv5bngspsiz-1",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哦",
+    "audioText": "Oh",
+    "fullEnglish": "Oh",
+    "phonetic": "oʊ",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Oh",
+        "answer": "Oh",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "哦",
+        "phonetic": "oʊ",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Oh"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Oh",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "zh": "哦",
+        "componentZh": "哦"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-qvdgnnl1sy3bquv5bngspsiz-2",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-qvdgnnl1sy3bquv5bngspsiz-2",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-qvdgnnl1sy3bquv5bngspsiz-3",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-qvdgnnl1sy3bquv5bngspsiz-3",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "明白",
+    "audioText": "see",
+    "fullEnglish": "see",
+    "phonetic": "siː",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "see",
+        "answer": "see",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "看见",
+        "phonetic": "siː",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "see"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "see",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "zh": "看见",
+        "componentZh": "看见"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-W-qvdgnnl1sy3bquv5bngspsiz-6",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-W-qvdgnnl1sy3bquv5bngspsiz-6",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "水果（复数）",
+    "audioText": "fruits",
+    "fullEnglish": "fruits",
+    "phonetic": "fruːts",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "fruits",
+        "answer": "fruits",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "水果（复数）",
+        "phonetic": "fruːts",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "fruits"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "fruits",
+        "phonetic": "fruːts",
+        "pos": "NOUN",
+        "zh": "水果（复数）",
+        "componentZh": "水果（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-p6sj9ey9boce04ts3l9juunx",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-p6sj9ey9boce04ts3l9juunx",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们的食物",
+    "audioText": "our food",
+    "fullEnglish": "our food",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "our",
+        "answer": "our",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "我们的",
+        "phonetic": "aʊr",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "food",
+        "answer": "food",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "食物",
+        "phonetic": "fuːd",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "our",
+      "food"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "our",
+        "role": "补充成分",
+        "zh": "我们的"
+      },
+      {
+        "id": "ud-2",
+        "text": "food",
+        "role": "中心成分",
+        "zh": "食物"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "our",
+        "phonetic": "aʊr",
+        "pos": "PRON",
+        "zh": "我们的",
+        "componentZh": "我们的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "food",
+        "phonetic": "fuːd",
+        "pos": "NOUN",
+        "zh": "食物",
+        "componentZh": "食物",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-yy5mjry1g48bvwkttpybpz7e",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-yy5mjry1g48bvwkttpybpz7e",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "给我",
+    "audioText": "give me",
+    "fullEnglish": "give me",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "give",
+        "answer": "give",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "给予",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "间接宾语"
+      }
+    ],
+    "shuffledBlocks": [
+      "me",
+      "give"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "give",
+        "role": "谓语",
+        "zh": "给予"
+      },
+      {
+        "id": "ud-2",
+        "text": "me",
+        "role": "间接宾语",
+        "zh": "我"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "give",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "zh": "给予",
+        "componentZh": "给予",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "间接宾语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-gb5cm2sovbh9oyugtsp54cbt",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-gb5cm2sovbh9oyugtsp54cbt",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个例子",
+    "audioText": "an example",
+    "fullEnglish": "an example",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "an",
+        "answer": "an",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "æn; ən",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "example",
+        "answer": "example",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "例子",
+        "phonetic": "ɪɡˈzæmp(ə)l",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "example",
+      "an"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "an",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-2",
+        "text": "example",
+        "role": "中心成分",
+        "zh": "例子"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "an",
+        "phonetic": "æn; ən",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "example",
+        "phonetic": "ɪɡˈzæmp(ə)l",
+        "pos": "NOUN",
+        "zh": "例子",
+        "componentZh": "例子",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-t6dhtzh593w14kn9uccl8awb",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-t6dhtzh593w14kn9uccl8awb",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "食物",
+    "audioText": "the food",
+    "fullEnglish": "the food",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "food",
+        "answer": "food",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "食物",
+        "phonetic": "fuːd",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "food",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "food",
+        "role": "中心成分",
+        "zh": "食物"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "food",
+        "phonetic": "fuːd",
+        "pos": "NOUN",
+        "zh": "食物",
+        "componentZh": "食物",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-vgpoic53k4gsiwisc10nu77f",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-vgpoic53k4gsiwisc10nu77f",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "大部分我们的食物",
+    "audioText": "most of our food",
+    "fullEnglish": "most of our food",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "most",
+        "answer": "most",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "大多数",
+        "phonetic": "moʊst",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "的",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "componentId": "ud-3",
+        "role": "介词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "of our food",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "的；我们的；食物"
+      },
+      {
+        "index": 2,
+        "text": "our",
+        "answer": "our",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "我们的",
+        "phonetic": "aʊr",
+        "pos": "PRON",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "our food",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "我们的；食物"
+      },
+      {
+        "index": 3,
+        "text": "food",
+        "answer": "food",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "食物",
+        "phonetic": "fuːd",
+        "pos": "NOUN",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "our food",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "我们的；食物"
+      }
+    ],
+    "shuffledBlocks": [
+      "of",
+      "food",
+      "most",
+      "our"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "most",
+        "role": "中心成分",
+        "zh": "大多数"
+      },
+      {
+        "id": "ud-2",
+        "text": "of our food",
+        "role": "介词短语/状语",
+        "zh": "的；我们的；食物",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "of",
+            "role": "介词",
+            "zh": "的"
+          },
+          {
+            "id": "ud-4",
+            "text": "our food",
+            "role": "介词宾语",
+            "zh": "我们的；食物",
+            "children": [
+              {
+                "id": "ud-5",
+                "text": "our",
+                "role": "限定词",
+                "zh": "我们的"
+              },
+              {
+                "id": "ud-6",
+                "text": "food",
+                "role": "中心词",
+                "zh": "食物"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "most",
+        "phonetic": "moʊst",
+        "pos": "ADJ",
+        "zh": "大多数",
+        "componentZh": "大多数",
+        "componentRole": "中心成分"
+      },
+      "1": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "的",
+        "componentZh": "的",
+        "componentRole": "介词",
+        "parentComponentText": "of our food",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "的；我们的；食物"
+      },
+      "2": {
+        "text": "our",
+        "phonetic": "aʊr",
+        "pos": "PRON",
+        "zh": "我们的",
+        "componentZh": "我们的",
+        "componentRole": "限定词",
+        "parentComponentText": "our food",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "我们的；食物"
+      },
+      "3": {
+        "text": "food",
+        "phonetic": "fuːd",
+        "pos": "NOUN",
+        "zh": "食物",
+        "componentZh": "食物",
+        "componentRole": "中心词",
+        "parentComponentText": "our food",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "我们的；食物"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-c9952gsomks8k100vyp82tp8",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-c9952gsomks8k100vyp82tp8",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "例如",
+    "audioText": "For example",
+    "fullEnglish": "For example",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "For",
+        "answer": "For",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "example",
+        "answer": "example",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "例子",
+        "phonetic": "ɪɡˈzæmp(ə)l",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "For",
+      "example"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "For",
+        "role": "补充成分",
+        "zh": "为"
+      },
+      {
+        "id": "ud-2",
+        "text": "example",
+        "role": "中心成分",
+        "zh": "例子"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "For",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为",
+        "componentZh": "为",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "example",
+        "phonetic": "ɪɡˈzæmp(ə)l",
+        "pos": "NOUN",
+        "zh": "例子",
+        "componentZh": "例子",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-r0pghn6h5m9bs36j43yz7xn3",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-r0pghn6h5m9bs36j43yz7xn3",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这些食物",
+    "audioText": "These foods",
+    "fullEnglish": "These foods",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "These",
+        "answer": "These",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "这些",
+        "phonetic": "ðiːz",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "foods",
+        "answer": "foods",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "食物（复数）",
+        "phonetic": "fuːdz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "foods",
+      "These"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "These",
+        "role": "补充成分",
+        "zh": "这些"
+      },
+      {
+        "id": "ud-2",
+        "text": "foods",
+        "role": "中心成分",
+        "zh": "食物（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "These",
+        "phonetic": "ðiːz",
+        "pos": "DET",
+        "zh": "这些",
+        "componentZh": "这些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "foods",
+        "phonetic": "fuːdz",
+        "pos": "NOUN",
+        "zh": "食物（复数）",
+        "componentZh": "食物（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-tna9ueue674trw8kjd9ornwj",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-tna9ueue674trw8kjd9ornwj",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "来自",
+    "audioText": "come from",
+    "fullEnglish": "come from",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "come",
+        "answer": "come",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "来",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "from",
+        "answer": "from",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "从",
+        "phonetic": "frʌm",
+        "pos": "ADP",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "from",
+      "come"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "come",
+        "role": "谓语",
+        "zh": "来"
+      },
+      {
+        "id": "ud-2",
+        "text": "from",
+        "role": "方式/程度状语",
+        "zh": "从"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "come",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "zh": "来",
+        "componentZh": "来",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "from",
+        "phonetic": "frʌm",
+        "pos": "ADP",
+        "zh": "从",
+        "componentZh": "从",
+        "componentRole": "方式/程度状语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-m30dnabxagz13one9xa1r3yz",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-m30dnabxagz13one9xa1r3yz",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不同的部分",
+    "audioText": "different parts",
+    "fullEnglish": "different parts",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "different",
+        "answer": "different",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "不同的",
+        "phonetic": "ˈdɪfrənt",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "parts",
+        "answer": "parts",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "部分（复数）",
+        "phonetic": "pɑːrts",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "parts",
+      "different"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "different",
+        "role": "补充成分",
+        "zh": "不同的"
+      },
+      {
+        "id": "ud-2",
+        "text": "parts",
+        "role": "中心成分",
+        "zh": "部分（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "different",
+        "phonetic": "ˈdɪfrənt",
+        "pos": "ADJ",
+        "zh": "不同的",
+        "componentZh": "不同的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "parts",
+        "phonetic": "pɑːrts",
+        "pos": "NOUN",
+        "zh": "部分（复数）",
+        "componentZh": "部分（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-ngj826vlxe6m0jy6iva4hj5t",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-ngj826vlxe6m0jy6iva4hj5t",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "植物的",
+    "audioText": "of plants",
+    "fullEnglish": "of plants",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "的",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "plants",
+        "answer": "plants",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "植物（复数）",
+        "phonetic": "plænts",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "of",
+      "plants"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "of",
+        "role": "补充成分",
+        "zh": "的"
+      },
+      {
+        "id": "ud-2",
+        "text": "plants",
+        "role": "中心成分",
+        "zh": "植物（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "的",
+        "componentZh": "的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "plants",
+        "phonetic": "plænts",
+        "pos": "NOUN",
+        "zh": "植物（复数）",
+        "componentZh": "植物（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-qals9vgmd60pz51et2m0782u",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-qals9vgmd60pz51et2m0782u",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "花生是种子,",
+    "audioText": "Peanuts are seeds",
+    "fullEnglish": "Peanuts are seeds",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Peanuts",
+        "answer": "Peanuts",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "花生（复数）",
+        "phonetic": "ˈpiːnʌts",
+        "pos": "NOUN",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "系动词"
+      },
+      {
+        "index": 2,
+        "text": "seeds",
+        "answer": "seeds",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "种子（复数）",
+        "phonetic": "siːdz",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "Peanuts",
+      "seeds",
+      "are"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Peanuts",
+        "role": "主语",
+        "zh": "花生（复数）"
+      },
+      {
+        "id": "ud-2",
+        "text": "are",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-3",
+        "text": "seeds",
+        "role": "表语",
+        "zh": "种子（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Peanuts",
+        "phonetic": "ˈpiːnʌts",
+        "pos": "NOUN",
+        "zh": "花生（复数）",
+        "componentZh": "花生（复数）",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是",
+        "componentRole": "系动词"
+      },
+      "2": {
+        "text": "seeds",
+        "phonetic": "siːdz",
+        "pos": "NOUN",
+        "zh": "种子（复数）",
+        "componentZh": "种子（复数）",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "主系表结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-ao99l4nsf56xthnh6b9mlcw3",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-ao99l4nsf56xthnh6b9mlcw3",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "而马铃薯是茎",
+    "audioText": "and potatoes are stems",
+    "fullEnglish": "and potatoes are stems",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "componentId": "ud-1",
+        "role": "并列连词"
+      },
+      {
+        "index": 1,
+        "text": "potatoes",
+        "answer": "potatoes",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "土豆（复数）",
+        "phonetic": "pəˈtetoz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "componentId": "ud-3",
+        "role": "系动词"
+      },
+      {
+        "index": 3,
+        "text": "stems",
+        "answer": "stems",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "茎（复数）",
+        "phonetic": "stemz",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "and",
+      "potatoes",
+      "are",
+      "stems"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "and",
+        "role": "并列连词",
+        "zh": "和"
+      },
+      {
+        "id": "ud-2",
+        "text": "potatoes",
+        "role": "主语",
+        "zh": "土豆（复数）"
+      },
+      {
+        "id": "ud-3",
+        "text": "are",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-4",
+        "text": "stems",
+        "role": "表语",
+        "zh": "茎（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和",
+        "componentRole": "并列连词"
+      },
+      "1": {
+        "text": "potatoes",
+        "phonetic": "pəˈtetoz",
+        "pos": "NOUN",
+        "zh": "土豆（复数）",
+        "componentZh": "土豆（复数）",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是",
+        "componentRole": "系动词"
+      },
+      "3": {
+        "text": "stems",
+        "phonetic": "stemz",
+        "pos": "NOUN",
+        "zh": "茎（复数）",
+        "componentZh": "茎（复数）",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "主系表结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-z5ly7pvo2uk5hrhf2oi98q36",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-z5ly7pvo2uk5hrhf2oi98q36",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我明白了",
+    "audioText": "I see",
+    "fullEnglish": "I see",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "see",
+        "answer": "see",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "看见",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "see",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "see",
+        "role": "谓语",
+        "zh": "看见"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "see",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "zh": "看见",
+        "componentZh": "看见",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-euft77lsyuziqddmlu8xhku4",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-euft77lsyuziqddmlu8xhku4",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哦，我明白了",
+    "audioText": "Oh, I see",
+    "fullEnglish": "Oh, I see",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Oh",
+        "answer": "Oh",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "哦",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "componentId": "ud-1",
+        "role": "语气/引导语"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哦，我明白了"
+      },
+      {
+        "index": 2,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 3,
+        "text": "see",
+        "answer": "see",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "看见",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "see",
+      "Oh"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Oh",
+        "role": "语气/引导语",
+        "zh": "哦"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "see",
+        "role": "谓语",
+        "zh": "看见"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Oh",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "zh": "哦",
+        "componentZh": "哦",
+        "componentRole": "语气/引导语"
+      },
+      "2": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "3": {
+        "text": "see",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "zh": "看见",
+        "componentZh": "看见",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-wrrao1lt6gcwoyd6qi5vqdl8",
+    "contentId": "JLB-y094088739l6wkuqdzq38ygb-PHRASE-wrrao1lt6gcwoyd6qi5vqdl8",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "y094088739l6wkuqdzq38ygb",
+    "unitTitle": "Unit 3 HOW DO SEEDS TRAVEL?-Lesson 10-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "番茄是水果",
+    "audioText": "Tomatoes are fruits",
+    "fullEnglish": "Tomatoes are fruits",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Tomatoes",
+        "answer": "Tomatoes",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "番茄（复数）",
+        "phonetic": "təˈmeɪtoʊz",
+        "pos": "NOUN",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "系动词"
+      },
+      {
+        "index": 2,
+        "text": "fruits",
+        "answer": "fruits",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "水果（复数）",
+        "phonetic": "fruːts",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "are",
+      "Tomatoes",
+      "fruits"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Tomatoes",
+        "role": "主语",
+        "zh": "番茄（复数）"
+      },
+      {
+        "id": "ud-2",
+        "text": "are",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-3",
+        "text": "fruits",
+        "role": "表语",
+        "zh": "水果（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Tomatoes",
+        "phonetic": "təˈmeɪtoʊz",
+        "pos": "NOUN",
+        "zh": "番茄（复数）",
+        "componentZh": "番茄（复数）",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是",
+        "componentRole": "系动词"
+      },
+      "2": {
+        "text": "fruits",
+        "phonetic": "fruːts",
+        "pos": "NOUN",
+        "zh": "水果（复数）",
+        "componentZh": "水果（复数）",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "主系表结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

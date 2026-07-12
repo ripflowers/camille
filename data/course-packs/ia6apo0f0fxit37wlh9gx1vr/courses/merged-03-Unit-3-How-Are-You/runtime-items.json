@@ -1,0 +1,5975 @@
+[
+  {
+    "id": "JLB-hy6zcx784izgvinay9typpvk-PHRASE-rtky739ec65aa5y9rps3q9je",
+    "contentId": "JLB-hy6zcx784izgvinay9typpvk-PHRASE-rtky739ec65aa5y9rps3q9je",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你呢？",
+    "audioText": "And you?",
+    "fullEnglish": "And you?",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "And",
+        "answer": "And",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "componentId": "ud-1",
+        "role": "并列连词"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      },
+      {
+        "index": 2,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你呢？"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "And"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "And",
+        "role": "并列连词",
+        "zh": "和"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "中心成分",
+        "zh": "你"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "And",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和",
+        "componentRole": "并列连词"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "一般疑问句",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-n22qi5mrdjt0ahw9u69mc234-PHRASE-ucrw9vrvhum761ggnebmopsw",
+    "contentId": "JLB-n22qi5mrdjt0ahw9u69mc234-PHRASE-ucrw9vrvhum761ggnebmopsw",
+    "type": "phrase",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "孩子们",
+    "audioText": "boys and girls",
+    "fullEnglish": "boys and girls",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "boys",
+        "answer": "boys",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "男孩（复数）",
+        "phonetic": "bɔɪz",
+        "pos": "NOUN",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "componentId": "ud-3",
+        "role": "并列连词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "and girls",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；女孩（复数）"
+      },
+      {
+        "index": 2,
+        "text": "girls",
+        "answer": "girls",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "女孩（复数）",
+        "phonetic": "ɡɝlz",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "and girls",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；女孩（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "girls",
+      "and",
+      "boys"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "boys",
+        "role": "中心成分",
+        "zh": "男孩（复数）"
+      },
+      {
+        "id": "ud-2",
+        "text": "and girls",
+        "role": "并列成分",
+        "zh": "和；女孩（复数）",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "and",
+            "role": "并列连词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-4",
+            "text": "girls",
+            "role": "中心词",
+            "zh": "女孩（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "boys",
+        "phonetic": "bɔɪz",
+        "pos": "NOUN",
+        "zh": "男孩（复数）",
+        "componentZh": "男孩（复数）",
+        "componentRole": "中心成分"
+      },
+      "1": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和",
+        "componentRole": "并列连词",
+        "parentComponentText": "and girls",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；女孩（复数）"
+      },
+      "2": {
+        "text": "girls",
+        "phonetic": "ɡɝlz",
+        "pos": "NOUN",
+        "zh": "女孩（复数）",
+        "componentZh": "女孩（复数）",
+        "componentRole": "中心词",
+        "parentComponentText": "and girls",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；女孩（复数）"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-uuyh7fqqfutszrspe9gunttm-PHRASE-dpakot9bqe0cs02i21f2jh8j",
+    "contentId": "JLB-uuyh7fqqfutszrspe9gunttm-PHRASE-dpakot9bqe0cs02i21f2jh8j",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "过来",
+    "audioText": "come here",
+    "fullEnglish": "come here",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "come",
+        "answer": "come",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "来",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "here",
+        "answer": "here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "componentId": "ud-2",
+        "role": "地点状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "come",
+      "here"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "come",
+        "role": "谓语",
+        "zh": "来"
+      },
+      {
+        "id": "ud-2",
+        "text": "here",
+        "role": "地点状语",
+        "zh": "这里"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "come",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "zh": "来",
+        "componentZh": "来",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentZh": "这里",
+        "componentRole": "地点状语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hy6zcx784izgvinay9typpvk-PHRASE-hmnh4c1vz7lt1qeegnulrnsf",
+    "contentId": "JLB-hy6zcx784izgvinay9typpvk-PHRASE-hmnh4c1vz7lt1qeegnulrnsf",
+    "type": "phrase",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好的",
+    "audioText": "Fine",
+    "fullEnglish": "Fine",
+    "phonetic": "faɪn",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Fine",
+        "answer": "Fine",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "好的",
+        "phonetic": "faɪn",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "Fine"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Fine",
+        "role": "中心成分",
+        "zh": "好的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Fine",
+        "phonetic": "faɪn",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentZh": "好的",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-uuyh7fqqfutszrspe9gunttm-PHRASE-cj6ulpy1x012z4mzjov845sh",
+    "contentId": "JLB-uuyh7fqqfutszrspe9gunttm-PHRASE-cj6ulpy1x012z4mzjov845sh",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "回去",
+    "audioText": "Go back",
+    "fullEnglish": "Go back",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Go",
+        "answer": "Go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "back",
+        "answer": "back",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "回",
+        "phonetic": "bæk",
+        "pos": "ADV",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "back",
+      "Go"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Go",
+        "role": "谓语",
+        "zh": "去"
+      },
+      {
+        "id": "ud-2",
+        "text": "back",
+        "role": "方式/程度状语",
+        "zh": "回"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "back",
+        "phonetic": "bæk",
+        "pos": "ADV",
+        "zh": "回",
+        "componentZh": "回",
+        "componentRole": "方式/程度状语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-n22qi5mrdjt0ahw9u69mc234-PHRASE-npjgyvjou54bfs20pzugnk24",
+    "contentId": "JLB-n22qi5mrdjt0ahw9u69mc234-PHRASE-npjgyvjou54bfs20pzugnk24",
+    "type": "phrase",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "下午好",
+    "audioText": "Good afternoon",
+    "fullEnglish": "Good afternoon",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Good",
+        "answer": "Good",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "好的",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "afternoon",
+        "answer": "afternoon",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "下午",
+        "phonetic": "ˌæftərˈnuːn",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "afternoon",
+      "Good"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Good",
+        "role": "补充成分",
+        "zh": "好的"
+      },
+      {
+        "id": "ud-2",
+        "text": "afternoon",
+        "role": "中心成分",
+        "zh": "下午"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Good",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentZh": "好的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "afternoon",
+        "phonetic": "ˌæftərˈnuːn",
+        "pos": "NOUN",
+        "zh": "下午",
+        "componentZh": "下午",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hy6zcx784izgvinay9typpvk-PHRASE-e4cwj2dk7mwnjwy4y3w252h3",
+    "contentId": "JLB-hy6zcx784izgvinay9typpvk-PHRASE-e4cwj2dk7mwnjwy4y3w252h3",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "晚上好，Guoguo！",
+    "audioText": "Good evening, Guoguo!",
+    "fullEnglish": "Good evening, Guoguo!",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Good",
+        "answer": "Good",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "好的",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "evening",
+        "answer": "evening",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "晚上",
+        "phonetic": "ˈivənɪŋ",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      },
+      {
+        "index": 2,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "晚上好，Guoguo！"
+      },
+      {
+        "index": 3,
+        "text": "Guoguo",
+        "answer": "Guoguo",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "Guoguo",
+        "phonetic": "guoguo",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-3",
+        "role": "呼语"
+      },
+      {
+        "index": 4,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "晚上好，Guoguo！"
+      }
+    ],
+    "shuffledBlocks": [
+      "Guoguo",
+      "evening",
+      "Good"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Good",
+        "role": "补充成分",
+        "zh": "好的"
+      },
+      {
+        "id": "ud-2",
+        "text": "evening",
+        "role": "中心成分",
+        "zh": "晚上"
+      },
+      {
+        "id": "ud-3",
+        "text": "Guoguo",
+        "role": "呼语",
+        "zh": "Guoguo"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Good",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentZh": "好的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "evening",
+        "phonetic": "ˈivənɪŋ",
+        "pos": "NOUN",
+        "zh": "晚上",
+        "componentZh": "晚上",
+        "componentRole": "中心成分"
+      },
+      "3": {
+        "text": "Guoguo",
+        "phonetic": "guoguo",
+        "pos": "PROPN_PERSON",
+        "zh": "Guoguo",
+        "componentZh": "Guoguo",
+        "componentRole": "呼语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hy6zcx784izgvinay9typpvk-PHRASE-rty6862wdrx7wwxkjf4wr4fp",
+    "contentId": "JLB-hy6zcx784izgvinay9typpvk-PHRASE-rty6862wdrx7wwxkjf4wr4fp",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "嗨，奶奶！",
+    "audioText": "Hi, Grandma!",
+    "fullEnglish": "Hi, Grandma!",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Hi",
+        "answer": "Hi",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "你好",
+        "phonetic": "haɪ",
+        "pos": "INTJ",
+        "componentId": "ud-1",
+        "role": "语气/引导语"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "嗨，奶奶！"
+      },
+      {
+        "index": 2,
+        "text": "Grandma",
+        "answer": "Grandma",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "Grandma",
+        "phonetic": "ˈɡrænmɑː",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      },
+      {
+        "index": 3,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "嗨，奶奶！"
+      }
+    ],
+    "shuffledBlocks": [
+      "Hi",
+      "Grandma"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Hi",
+        "role": "语气/引导语",
+        "zh": "你好"
+      },
+      {
+        "id": "ud-2",
+        "text": "Grandma",
+        "role": "中心成分",
+        "zh": "Grandma"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Hi",
+        "phonetic": "haɪ",
+        "pos": "INTJ",
+        "zh": "你好",
+        "componentZh": "你好",
+        "componentRole": "语气/引导语"
+      },
+      "2": {
+        "text": "Grandma",
+        "phonetic": "ˈɡrænmɑː",
+        "pos": "PROPN_PERSON",
+        "zh": "Grandma",
+        "componentZh": "Grandma",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hy6zcx784izgvinay9typpvk-PHRASE-fnpudopnp63d3dtq9p8x8fem",
+    "contentId": "JLB-hy6zcx784izgvinay9typpvk-PHRASE-fnpudopnp63d3dtq9p8x8fem",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你今天好吗？",
+    "audioText": "How are you today?",
+    "fullEnglish": "How are you today?",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "How",
+        "answer": "How",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "如何",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "表语"
+      },
+      {
+        "index": 1,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "are you",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "是；你"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-4",
+        "role": "修饰语",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "are you",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "是；你"
+      },
+      {
+        "index": 3,
+        "text": "today",
+        "answer": "today",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "今天",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN",
+        "componentId": "ud-5",
+        "role": "时间状语"
+      },
+      {
+        "index": 4,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你今天好吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "are",
+      "How",
+      "today",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "How",
+        "role": "表语",
+        "zh": "如何"
+      },
+      {
+        "id": "ud-2",
+        "text": "are you",
+        "role": "系动词",
+        "zh": "是；你",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "are",
+            "role": "中心词",
+            "zh": "是"
+          },
+          {
+            "id": "ud-4",
+            "text": "you",
+            "role": "修饰语",
+            "zh": "你"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "today",
+        "role": "时间状语",
+        "zh": "今天"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "How",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "zh": "如何",
+        "componentZh": "如何",
+        "componentRole": "表语"
+      },
+      "1": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是",
+        "componentRole": "中心词",
+        "parentComponentText": "are you",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "是；你"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "修饰语",
+        "parentComponentText": "are you",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "是；你"
+      },
+      "3": {
+        "text": "today",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN",
+        "zh": "今天",
+        "componentZh": "今天",
+        "componentRole": "时间状语"
+      }
+    },
+    "sentenceType": "特殊疑问句",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fzu33a4nig6d1w27mjp5dxcq-PHRASE-k0najt8afw7gq70dnpvrplnx",
+    "contentId": "JLB-fzu33a4nig6d1w27mjp5dxcq-PHRASE-k0najt8afw7gq70dnpvrplnx",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我很好",
+    "audioText": "I'm fine",
+    "fullEnglish": "I'm fine",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我是",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "fine",
+        "answer": "fine",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "好的",
+        "phonetic": "faɪn",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "fine",
+      "I'm"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I'm",
+        "role": "主语 + 系动词",
+        "zh": "我是"
+      },
+      {
+        "id": "ud-2",
+        "text": "fine",
+        "role": "表语",
+        "zh": "好的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我是",
+        "componentZh": "我是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "fine",
+        "phonetic": "faɪn",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentZh": "好的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-n22qi5mrdjt0ahw9u69mc234-PHRASE-gfym39a9r0wtywmiqbes3es2",
+    "contentId": "JLB-n22qi5mrdjt0ahw9u69mc234-PHRASE-gfym39a9r0wtywmiqbes3es2",
+    "type": "phrase",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "王小姐",
+    "audioText": "Miss Wang",
+    "fullEnglish": "Miss Wang",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Miss",
+        "answer": "Miss",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "小姐",
+        "phonetic": "mɪs",
+        "pos": "NOUN",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": "Wang",
+        "answer": "Wang",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "Wang",
+        "phonetic": "wæŋ",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "Miss",
+      "Wang"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Miss",
+        "role": "中心成分",
+        "zh": "小姐"
+      },
+      {
+        "id": "ud-2",
+        "text": "Wang",
+        "role": "补充成分",
+        "zh": "Wang"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Miss",
+        "phonetic": "mɪs",
+        "pos": "NOUN",
+        "zh": "小姐",
+        "componentZh": "小姐",
+        "componentRole": "中心成分"
+      },
+      "1": {
+        "text": "Wang",
+        "phonetic": "wæŋ",
+        "pos": "PROPN_PERSON",
+        "zh": "Wang",
+        "componentZh": "Wang",
+        "componentRole": "补充成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-n22qi5mrdjt0ahw9u69mc234-PHRASE-q1lpdv9dxcq94rmv01e1la5g",
+    "contentId": "JLB-n22qi5mrdjt0ahw9u69mc234-PHRASE-q1lpdv9dxcq94rmv01e1la5g",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哦，我很好",
+    "audioText": "Oh, I'm fine",
+    "fullEnglish": "Oh, I'm fine",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Oh",
+        "answer": "Oh",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "哦",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "componentId": "ud-1",
+        "role": "语气/引导语"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哦，我很好"
+      },
+      {
+        "index": 2,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我是",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 3,
+        "text": "fine",
+        "answer": "fine",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "好的",
+        "phonetic": "faɪn",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "Oh",
+      "fine",
+      "I'm"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Oh",
+        "role": "语气/引导语",
+        "zh": "哦"
+      },
+      {
+        "id": "ud-2",
+        "text": "I'm",
+        "role": "主语 + 系动词",
+        "zh": "我是"
+      },
+      {
+        "id": "ud-3",
+        "text": "fine",
+        "role": "表语",
+        "zh": "好的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Oh",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "zh": "哦",
+        "componentZh": "哦",
+        "componentRole": "语气/引导语"
+      },
+      "2": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我是",
+        "componentZh": "我是",
+        "componentRole": "主语 + 系动词"
+      },
+      "3": {
+        "text": "fine",
+        "phonetic": "faɪn",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentZh": "好的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hy6zcx784izgvinay9typpvk-PHRASE-wb4x7nanre1tnem35095p0yl",
+    "contentId": "JLB-hy6zcx784izgvinay9typpvk-PHRASE-wb4x7nanre1tnem35095p0yl",
+    "type": "phrase",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "谢谢",
+    "audioText": "Thank you",
+    "fullEnglish": "Thank you",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Thank",
+        "answer": "Thank",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "感谢",
+        "phonetic": "θæŋk",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "宾语"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "Thank"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Thank",
+        "role": "谓语",
+        "zh": "感谢"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "宾语",
+        "zh": "你"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Thank",
+        "phonetic": "θæŋk",
+        "pos": "VERB",
+        "zh": "感谢",
+        "componentZh": "感谢",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "宾语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hy6zcx784izgvinay9typpvk-PHRASE-zd8dfwy68iu69wlcv8vtjgg1",
+    "contentId": "JLB-hy6zcx784izgvinay9typpvk-PHRASE-zd8dfwy68iu69wlcv8vtjgg1",
+    "type": "phrase",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "谢谢你，妈妈",
+    "audioText": "Thank you, Mum",
+    "fullEnglish": "Thank you, Mum",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Thank",
+        "answer": "Thank",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "感谢",
+        "phonetic": "θæŋk",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "宾语"
+      },
+      {
+        "index": 2,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "谢谢你，妈妈"
+      },
+      {
+        "index": 3,
+        "text": "Mum",
+        "answer": "Mum",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "妈妈",
+        "phonetic": "mʌm",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "呼语"
+      }
+    ],
+    "shuffledBlocks": [
+      "Thank",
+      "you",
+      "Mum"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Thank",
+        "role": "谓语",
+        "zh": "感谢"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "宾语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "Mum",
+        "role": "呼语",
+        "zh": "妈妈"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Thank",
+        "phonetic": "θæŋk",
+        "pos": "VERB",
+        "zh": "感谢",
+        "componentZh": "感谢",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "宾语"
+      },
+      "3": {
+        "text": "Mum",
+        "phonetic": "mʌm",
+        "pos": "NOUN",
+        "zh": "妈妈",
+        "componentZh": "妈妈",
+        "componentRole": "呼语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fzu33a4nig6d1w27mjp5dxcq-PHRASE-qrwfp051pvpx8iv5tbw41hwl",
+    "contentId": "JLB-fzu33a4nig6d1w27mjp5dxcq-PHRASE-qrwfp051pvpx8iv5tbw41hwl",
+    "type": "phrase",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "谢谢",
+    "audioText": "Thanks",
+    "fullEnglish": "Thanks",
+    "phonetic": "θæŋks",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Thanks",
+        "answer": "Thanks",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "谢谢",
+        "phonetic": "θæŋks",
+        "pos": "NOUN",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "Thanks"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Thanks",
+        "role": "中心成分",
+        "zh": "谢谢"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Thanks",
+        "phonetic": "θæŋks",
+        "pos": "NOUN",
+        "zh": "谢谢",
+        "componentZh": "谢谢",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-uuyh7fqqfutszrspe9gunttm-PHRASE-n6440hcle8kzk42nqivk0s7k",
+    "contentId": "JLB-uuyh7fqqfutszrspe9gunttm-PHRASE-n6440hcle8kzk42nqivk0s7k",
+    "type": "phrase",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你的座位",
+    "audioText": "your seat",
+    "fullEnglish": "your seat",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "seat",
+        "answer": "seat",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "座位",
+        "phonetic": "siːt",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "your",
+      "seat"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "your",
+        "role": "补充成分",
+        "zh": "你的"
+      },
+      {
+        "id": "ud-2",
+        "text": "seat",
+        "role": "中心成分",
+        "zh": "座位"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentZh": "你的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "seat",
+        "phonetic": "siːt",
+        "pos": "NOUN",
+        "zh": "座位",
+        "componentZh": "座位",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-n22qi5mrdjt0ahw9u69mc234-S-sfh27fiup6a2dmfmd3p2vvti",
+    "contentId": "JLB-n22qi5mrdjt0ahw9u69mc234-S-sfh27fiup6a2dmfmd3p2vvti",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "再见，Kate！",
+    "audioText": "Bye-bye, Kate!",
+    "fullEnglish": "Bye-bye, Kate!",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Bye",
+        "answer": "Bye",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "再见，Kate！"
+      },
+      {
+        "index": 1,
+        "text": "-",
+        "answer": "-",
+        "blank": "-",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "symbol",
+        "zh": "再见，Kate！"
+      },
+      {
+        "index": 2,
+        "text": "bye",
+        "answer": "bye",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "补充成分",
+        "zh": "再见，Kate！"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "再见，Kate！"
+      },
+      {
+        "index": 4,
+        "text": "Kate",
+        "answer": "Kate",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "呼语",
+        "zh": "Kate",
+        "phonetic": "keɪt",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 5,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "再见，Kate！"
+      }
+    ],
+    "shuffledBlocks": [
+      "Kate",
+      "bye",
+      "Bye"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Bye",
+        "role": "中心成分",
+        "zh": "再见，Kate！"
+      },
+      {
+        "id": "ud-2",
+        "text": "bye",
+        "role": "补充成分",
+        "zh": "再见，Kate！"
+      },
+      {
+        "id": "ud-3",
+        "text": "Kate",
+        "role": "呼语",
+        "zh": "Kate"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Bye",
+        "zh": "再见，Kate！",
+        "componentRole": "中心成分",
+        "componentZh": "再见，Kate！"
+      },
+      "2": {
+        "text": "bye",
+        "zh": "再见，Kate！",
+        "componentRole": "补充成分",
+        "componentZh": "再见，Kate！"
+      },
+      "4": {
+        "text": "Kate",
+        "phonetic": "keɪt",
+        "pos": "PROPN_PERSON",
+        "zh": "Kate",
+        "componentRole": "呼语",
+        "componentZh": "Kate"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hy6zcx784izgvinay9typpvk-S-mvks9b7ehj619d8dhvzuk456",
+    "contentId": "JLB-hy6zcx784izgvinay9typpvk-S-mvks9b7ehj619d8dhvzuk456",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好的。谢谢你，妈妈。",
+    "audioText": "Fine. Thank you, Mum",
+    "fullEnglish": "Fine. Thank you, Mum",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Fine",
+        "answer": "Fine",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "好的",
+        "phonetic": "faɪn",
+        "pos": "ADJ"
+      },
+      {
+        "index": 1,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "好的。谢谢你，妈妈。"
+      },
+      {
+        "index": 2,
+        "text": "Thank",
+        "answer": "Thank",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "感谢",
+        "phonetic": "θæŋk",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "宾语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 4,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "好的。谢谢你，妈妈。"
+      },
+      {
+        "index": 5,
+        "text": "Mum",
+        "answer": "Mum",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "呼语",
+        "zh": "妈妈",
+        "phonetic": "mʌm",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "Thank",
+      "Fine",
+      "Mum"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Fine",
+        "role": "中心成分",
+        "zh": "好的"
+      },
+      {
+        "id": "ud-2",
+        "text": "Thank",
+        "role": "谓语",
+        "zh": "感谢"
+      },
+      {
+        "id": "ud-3",
+        "text": "you",
+        "role": "宾语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-4",
+        "text": "Mum",
+        "role": "呼语",
+        "zh": "妈妈"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Fine",
+        "phonetic": "faɪn",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentRole": "中心成分",
+        "componentZh": "好的"
+      },
+      "2": {
+        "text": "Thank",
+        "phonetic": "θæŋk",
+        "pos": "VERB",
+        "zh": "感谢",
+        "componentRole": "谓语",
+        "componentZh": "感谢"
+      },
+      "3": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "宾语",
+        "componentZh": "你"
+      },
+      "5": {
+        "text": "Mum",
+        "phonetic": "mʌm",
+        "pos": "NOUN",
+        "zh": "妈妈",
+        "componentRole": "呼语",
+        "componentZh": "妈妈"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-uuyh7fqqfutszrspe9gunttm-S-k4qzlyk0rj4webo7w4n0funm",
+    "contentId": "JLB-uuyh7fqqfutszrspe9gunttm-S-k4qzlyk0rj4webo7w4n0funm",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请回到您的座位上。",
+    "audioText": "Go back to your seat, please",
+    "fullEnglish": "Go back to your seat, please",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Go",
+        "answer": "Go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "back",
+        "answer": "back",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "方式/程度状语",
+        "zh": "回",
+        "phonetic": "bæk",
+        "pos": "ADV"
+      },
+      {
+        "index": 2,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "介词",
+        "zh": "对",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to your seat",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "对；你的；座位"
+      },
+      {
+        "index": 3,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "your seat",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你的；座位"
+      },
+      {
+        "index": 4,
+        "text": "seat",
+        "answer": "seat",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "座位",
+        "phonetic": "siːt",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "your seat",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你的；座位"
+      },
+      {
+        "index": 5,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "请回到您的座位上。"
+      },
+      {
+        "index": 6,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "please",
+      "Go",
+      "back",
+      "to",
+      "your",
+      "seat"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Go",
+        "role": "谓语",
+        "zh": "去"
+      },
+      {
+        "id": "ud-2",
+        "text": "back",
+        "role": "方式/程度状语",
+        "zh": "回"
+      },
+      {
+        "id": "ud-3",
+        "text": "to your seat",
+        "role": "介词短语/状语",
+        "zh": "对；你的；座位",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "to",
+            "role": "介词",
+            "zh": "对"
+          },
+          {
+            "id": "ud-5",
+            "text": "your seat",
+            "role": "介词宾语",
+            "zh": "你的；座位",
+            "children": [
+              {
+                "id": "ud-6",
+                "text": "your",
+                "role": "限定词",
+                "zh": "你的"
+              },
+              {
+                "id": "ud-7",
+                "text": "seat",
+                "role": "中心词",
+                "zh": "座位"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ud-8",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentRole": "谓语",
+        "componentZh": "去"
+      },
+      "1": {
+        "text": "back",
+        "phonetic": "bæk",
+        "pos": "ADV",
+        "zh": "回",
+        "componentRole": "方式/程度状语",
+        "componentZh": "回"
+      },
+      "2": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "对",
+        "componentRole": "介词",
+        "componentZh": "对",
+        "parentComponentText": "to your seat",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "对；你的；座位"
+      },
+      "3": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentRole": "限定词",
+        "componentZh": "你的",
+        "parentComponentText": "your seat",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你的；座位"
+      },
+      "4": {
+        "text": "seat",
+        "phonetic": "siːt",
+        "pos": "NOUN",
+        "zh": "座位",
+        "componentRole": "中心词",
+        "componentZh": "座位",
+        "parentComponentText": "your seat",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你的；座位"
+      },
+      "6": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-n22qi5mrdjt0ahw9u69mc234-S-w90kvzbg1rgw164bhe5zw3nt",
+    "contentId": "JLB-n22qi5mrdjt0ahw9u69mc234-S-w90kvzbg1rgw164bhe5zw3nt",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "下午好，孩子们！",
+    "audioText": "Good afternoon, boys and girls!",
+    "fullEnglish": "Good afternoon, boys and girls!",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Good",
+        "answer": "Good",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "好的",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ"
+      },
+      {
+        "index": 1,
+        "text": "afternoon",
+        "answer": "afternoon",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "下午",
+        "phonetic": "ˌæftərˈnuːn",
+        "pos": "NOUN"
+      },
+      {
+        "index": 2,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "下午好，孩子们！"
+      },
+      {
+        "index": 3,
+        "text": "boys",
+        "answer": "boys",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "男孩（复数）",
+        "phonetic": "bɔɪz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "boys and girls",
+        "parentComponentRole": "呼语",
+        "parentComponentZh": "男孩（复数）；和；女孩（复数）"
+      },
+      {
+        "index": 4,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "boys and girls",
+        "parentComponentRole": "呼语",
+        "parentComponentZh": "男孩（复数）；和；女孩（复数）"
+      },
+      {
+        "index": 5,
+        "text": "girls",
+        "answer": "girls",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "修饰语",
+        "zh": "女孩（复数）",
+        "phonetic": "ɡɝlz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "boys and girls",
+        "parentComponentRole": "呼语",
+        "parentComponentZh": "男孩（复数）；和；女孩（复数）"
+      },
+      {
+        "index": 6,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "下午好，孩子们！"
+      }
+    ],
+    "shuffledBlocks": [
+      "and",
+      "Good",
+      "afternoon",
+      "girls",
+      "boys"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Good",
+        "role": "补充成分",
+        "zh": "好的"
+      },
+      {
+        "id": "ud-2",
+        "text": "afternoon",
+        "role": "中心成分",
+        "zh": "下午"
+      },
+      {
+        "id": "ud-3",
+        "text": "boys and girls",
+        "role": "呼语",
+        "zh": "男孩（复数）；和；女孩（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "boys",
+            "role": "中心词",
+            "zh": "男孩（复数）"
+          },
+          {
+            "id": "ud-5",
+            "text": "and",
+            "role": "并列连词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-6",
+            "text": "girls",
+            "role": "修饰语",
+            "zh": "女孩（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Good",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentRole": "补充成分",
+        "componentZh": "好的"
+      },
+      "1": {
+        "text": "afternoon",
+        "phonetic": "ˌæftərˈnuːn",
+        "pos": "NOUN",
+        "zh": "下午",
+        "componentRole": "中心成分",
+        "componentZh": "下午"
+      },
+      "3": {
+        "text": "boys",
+        "phonetic": "bɔɪz",
+        "pos": "NOUN",
+        "zh": "男孩（复数）",
+        "componentRole": "中心词",
+        "componentZh": "男孩（复数）",
+        "parentComponentText": "boys and girls",
+        "parentComponentRole": "呼语",
+        "parentComponentZh": "男孩（复数）；和；女孩（复数）"
+      },
+      "4": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和",
+        "parentComponentText": "boys and girls",
+        "parentComponentRole": "呼语",
+        "parentComponentZh": "男孩（复数）；和；女孩（复数）"
+      },
+      "5": {
+        "text": "girls",
+        "phonetic": "ɡɝlz",
+        "pos": "NOUN",
+        "zh": "女孩（复数）",
+        "componentRole": "修饰语",
+        "componentZh": "女孩（复数）",
+        "parentComponentText": "boys and girls",
+        "parentComponentRole": "呼语",
+        "parentComponentZh": "男孩（复数）；和；女孩（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hy6zcx784izgvinay9typpvk-S-egi8elqsscxcrsk2s4l5nnb4",
+    "contentId": "JLB-hy6zcx784izgvinay9typpvk-S-egi8elqsscxcrsk2s4l5nnb4",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "晚上好，Guoguo！你今天好吗？",
+    "audioText": "Good evening, Guoguo! How are you today?",
+    "fullEnglish": "Good evening, Guoguo! How are you today?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Good",
+        "answer": "Good",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "好的",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ"
+      },
+      {
+        "index": 1,
+        "text": "evening",
+        "answer": "evening",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "晚上",
+        "phonetic": "ˈivənɪŋ",
+        "pos": "NOUN"
+      },
+      {
+        "index": 2,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "晚上好，Guoguo！你今天好吗？"
+      },
+      {
+        "index": 3,
+        "text": "Guoguo",
+        "answer": "Guoguo",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "呼语",
+        "zh": "Guoguo",
+        "phonetic": "guoguo",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 4,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "晚上好，Guoguo！你今天好吗？"
+      },
+      {
+        "index": 5,
+        "text": "How",
+        "answer": "How",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "表语",
+        "zh": "如何",
+        "phonetic": "haʊ",
+        "pos": "ADV"
+      },
+      {
+        "index": 6,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "是",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "are you",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "是；你"
+      },
+      {
+        "index": 7,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "修饰语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "are you",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "是；你"
+      },
+      {
+        "index": 8,
+        "text": "today",
+        "answer": "today",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "时间状语",
+        "zh": "今天",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN"
+      },
+      {
+        "index": 9,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "晚上好，Guoguo！你今天好吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "are",
+      "How",
+      "today",
+      "Good",
+      "evening",
+      "Guoguo",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Good",
+        "role": "补充成分",
+        "zh": "好的"
+      },
+      {
+        "id": "ud-2",
+        "text": "evening",
+        "role": "中心成分",
+        "zh": "晚上"
+      },
+      {
+        "id": "ud-3",
+        "text": "Guoguo",
+        "role": "呼语",
+        "zh": "Guoguo"
+      },
+      {
+        "id": "ud-4",
+        "text": "How",
+        "role": "表语",
+        "zh": "如何"
+      },
+      {
+        "id": "ud-5",
+        "text": "are you",
+        "role": "系动词",
+        "zh": "是；你",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "are",
+            "role": "中心词",
+            "zh": "是"
+          },
+          {
+            "id": "ud-7",
+            "text": "you",
+            "role": "修饰语",
+            "zh": "你"
+          }
+        ]
+      },
+      {
+        "id": "ud-8",
+        "text": "today",
+        "role": "时间状语",
+        "zh": "今天"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Good",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentRole": "补充成分",
+        "componentZh": "好的"
+      },
+      "1": {
+        "text": "evening",
+        "phonetic": "ˈivənɪŋ",
+        "pos": "NOUN",
+        "zh": "晚上",
+        "componentRole": "中心成分",
+        "componentZh": "晚上"
+      },
+      "3": {
+        "text": "Guoguo",
+        "phonetic": "guoguo",
+        "pos": "PROPN_PERSON",
+        "zh": "Guoguo",
+        "componentRole": "呼语",
+        "componentZh": "Guoguo"
+      },
+      "5": {
+        "text": "How",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "zh": "如何",
+        "componentRole": "表语",
+        "componentZh": "如何"
+      },
+      "6": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "中心词",
+        "componentZh": "是",
+        "parentComponentText": "are you",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "是；你"
+      },
+      "7": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "修饰语",
+        "componentZh": "你",
+        "parentComponentText": "are you",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "是；你"
+      },
+      "8": {
+        "text": "today",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN",
+        "zh": "今天",
+        "componentRole": "时间状语",
+        "componentZh": "今天"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fzu33a4nig6d1w27mjp5dxcq-S-afssh3dmc7nv6oc2dbxuquwf",
+    "contentId": "JLB-fzu33a4nig6d1w27mjp5dxcq-S-afssh3dmc7nv6oc2dbxuquwf",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "早上好，Guoguo！",
+    "audioText": "Good morning, Guoguo!",
+    "fullEnglish": "Good morning, Guoguo!",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Good",
+        "answer": "Good",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "好的",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ"
+      },
+      {
+        "index": 1,
+        "text": "morning",
+        "answer": "morning",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "早上",
+        "phonetic": "ˈmɔːrnɪŋ",
+        "pos": "NOUN"
+      },
+      {
+        "index": 2,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "早上好，Guoguo！"
+      },
+      {
+        "index": 3,
+        "text": "Guoguo",
+        "answer": "Guoguo",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "呼语",
+        "zh": "Guoguo",
+        "phonetic": "guoguo",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 4,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "早上好，Guoguo！"
+      }
+    ],
+    "shuffledBlocks": [
+      "morning",
+      "Guoguo",
+      "Good"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Good",
+        "role": "补充成分",
+        "zh": "好的"
+      },
+      {
+        "id": "ud-2",
+        "text": "morning",
+        "role": "中心成分",
+        "zh": "早上"
+      },
+      {
+        "id": "ud-3",
+        "text": "Guoguo",
+        "role": "呼语",
+        "zh": "Guoguo"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Good",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentRole": "补充成分",
+        "componentZh": "好的"
+      },
+      "1": {
+        "text": "morning",
+        "phonetic": "ˈmɔːrnɪŋ",
+        "pos": "NOUN",
+        "zh": "早上",
+        "componentRole": "中心成分",
+        "componentZh": "早上"
+      },
+      "3": {
+        "text": "Guoguo",
+        "phonetic": "guoguo",
+        "pos": "PROPN_PERSON",
+        "zh": "Guoguo",
+        "componentRole": "呼语",
+        "componentZh": "Guoguo"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-n22qi5mrdjt0ahw9u69mc234-S-umqf4wjol0d5676cmxou76l4",
+    "contentId": "JLB-n22qi5mrdjt0ahw9u69mc234-S-umqf4wjol0d5676cmxou76l4",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "再见，孩子们！",
+    "audioText": "Goodbye, boys and girls!",
+    "fullEnglish": "Goodbye, boys and girls!",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Goodbye",
+        "answer": "Goodbye",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "再见",
+        "phonetic": "ˌɡʊdˈbaɪ",
+        "pos": "NOUN"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "再见，孩子们！"
+      },
+      {
+        "index": 2,
+        "text": "boys",
+        "answer": "boys",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "男孩（复数）",
+        "phonetic": "bɔɪz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "boys and girls",
+        "parentComponentRole": "呼语",
+        "parentComponentZh": "男孩（复数）；和；女孩（复数）"
+      },
+      {
+        "index": 3,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "boys and girls",
+        "parentComponentRole": "呼语",
+        "parentComponentZh": "男孩（复数）；和；女孩（复数）"
+      },
+      {
+        "index": 4,
+        "text": "girls",
+        "answer": "girls",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "修饰语",
+        "zh": "女孩（复数）",
+        "phonetic": "ɡɝlz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "boys and girls",
+        "parentComponentRole": "呼语",
+        "parentComponentZh": "男孩（复数）；和；女孩（复数）"
+      },
+      {
+        "index": 5,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "再见，孩子们！"
+      }
+    ],
+    "shuffledBlocks": [
+      "and",
+      "girls",
+      "Goodbye",
+      "boys"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Goodbye",
+        "role": "中心成分",
+        "zh": "再见"
+      },
+      {
+        "id": "ud-2",
+        "text": "boys and girls",
+        "role": "呼语",
+        "zh": "男孩（复数）；和；女孩（复数）",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "boys",
+            "role": "中心词",
+            "zh": "男孩（复数）"
+          },
+          {
+            "id": "ud-4",
+            "text": "and",
+            "role": "并列连词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-5",
+            "text": "girls",
+            "role": "修饰语",
+            "zh": "女孩（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Goodbye",
+        "phonetic": "ˌɡʊdˈbaɪ",
+        "pos": "NOUN",
+        "zh": "再见",
+        "componentRole": "中心成分",
+        "componentZh": "再见"
+      },
+      "2": {
+        "text": "boys",
+        "phonetic": "bɔɪz",
+        "pos": "NOUN",
+        "zh": "男孩（复数）",
+        "componentRole": "中心词",
+        "componentZh": "男孩（复数）",
+        "parentComponentText": "boys and girls",
+        "parentComponentRole": "呼语",
+        "parentComponentZh": "男孩（复数）；和；女孩（复数）"
+      },
+      "3": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和",
+        "parentComponentText": "boys and girls",
+        "parentComponentRole": "呼语",
+        "parentComponentZh": "男孩（复数）；和；女孩（复数）"
+      },
+      "4": {
+        "text": "girls",
+        "phonetic": "ɡɝlz",
+        "pos": "NOUN",
+        "zh": "女孩（复数）",
+        "componentRole": "修饰语",
+        "componentZh": "女孩（复数）",
+        "parentComponentText": "boys and girls",
+        "parentComponentRole": "呼语",
+        "parentComponentZh": "男孩（复数）；和；女孩（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fzu33a4nig6d1w27mjp5dxcq-S-o091zbrk9ah3fpt47gk0jo99",
+    "contentId": "JLB-fzu33a4nig6d1w27mjp5dxcq-S-o091zbrk9ah3fpt47gk0jo99",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "再见，Guoguo！",
+    "audioText": "Goodbye, Guoguo!",
+    "fullEnglish": "Goodbye, Guoguo!",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Goodbye",
+        "answer": "Goodbye",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "再见",
+        "phonetic": "ˌɡʊdˈbaɪ",
+        "pos": "NOUN"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "再见，Guoguo！"
+      },
+      {
+        "index": 2,
+        "text": "Guoguo",
+        "answer": "Guoguo",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "呼语",
+        "zh": "Guoguo",
+        "phonetic": "guoguo",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 3,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "再见，Guoguo！"
+      }
+    ],
+    "shuffledBlocks": [
+      "Goodbye",
+      "Guoguo"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Goodbye",
+        "role": "中心成分",
+        "zh": "再见"
+      },
+      {
+        "id": "ud-2",
+        "text": "Guoguo",
+        "role": "呼语",
+        "zh": "Guoguo"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Goodbye",
+        "phonetic": "ˌɡʊdˈbaɪ",
+        "pos": "NOUN",
+        "zh": "再见",
+        "componentRole": "中心成分",
+        "componentZh": "再见"
+      },
+      "2": {
+        "text": "Guoguo",
+        "phonetic": "guoguo",
+        "pos": "PROPN_PERSON",
+        "zh": "Guoguo",
+        "componentRole": "呼语",
+        "componentZh": "Guoguo"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fzu33a4nig6d1w27mjp5dxcq-S-x8psr12u0cc902l5zru1qkmv",
+    "contentId": "JLB-fzu33a4nig6d1w27mjp5dxcq-S-x8psr12u0cc902l5zru1qkmv",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "再见，Maomao！",
+    "audioText": "Goodbye, Maomao!",
+    "fullEnglish": "Goodbye, Maomao!",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Goodbye",
+        "answer": "Goodbye",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "再见",
+        "phonetic": "ˌɡʊdˈbaɪ",
+        "pos": "NOUN"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "再见，Maomao！"
+      },
+      {
+        "index": 2,
+        "text": "Maomao",
+        "answer": "Maomao",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "呼语",
+        "zh": "Maomao",
+        "phonetic": "ˈmaʊ.maʊ",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 3,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "再见，Maomao！"
+      }
+    ],
+    "shuffledBlocks": [
+      "Maomao",
+      "Goodbye"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Goodbye",
+        "role": "中心成分",
+        "zh": "再见"
+      },
+      {
+        "id": "ud-2",
+        "text": "Maomao",
+        "role": "呼语",
+        "zh": "Maomao"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Goodbye",
+        "phonetic": "ˌɡʊdˈbaɪ",
+        "pos": "NOUN",
+        "zh": "再见",
+        "componentRole": "中心成分",
+        "componentZh": "再见"
+      },
+      "2": {
+        "text": "Maomao",
+        "phonetic": "ˈmaʊ.maʊ",
+        "pos": "PROPN_PERSON",
+        "zh": "Maomao",
+        "componentRole": "呼语",
+        "componentZh": "Maomao"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hy6zcx784izgvinay9typpvk-S-amyb35uqshbraoz4ag2izzgg",
+    "contentId": "JLB-hy6zcx784izgvinay9typpvk-S-amyb35uqshbraoz4ag2izzgg",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "嗨，奶奶！今天您感觉怎么样？",
+    "audioText": "Hi, Grandma! How are you today?",
+    "fullEnglish": "Hi, Grandma! How are you today?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Hi",
+        "answer": "Hi",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "你好",
+        "phonetic": "haɪ",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "嗨，奶奶！今天您感觉怎么样？"
+      },
+      {
+        "index": 2,
+        "text": "Grandma",
+        "answer": "Grandma",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "Grandma",
+        "phonetic": "ˈɡrænmɑː",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 3,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "嗨，奶奶！今天您感觉怎么样？"
+      },
+      {
+        "index": 4,
+        "text": "How",
+        "answer": "How",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "如何",
+        "phonetic": "haʊ",
+        "pos": "ADV"
+      },
+      {
+        "index": 5,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "是",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "are you",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "是；你"
+      },
+      {
+        "index": 6,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "修饰语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "are you",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "是；你"
+      },
+      {
+        "index": 7,
+        "text": "today",
+        "answer": "today",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "时间状语",
+        "zh": "今天",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN"
+      },
+      {
+        "index": 8,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "嗨，奶奶！今天您感觉怎么样？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Hi",
+      "are",
+      "you",
+      "Grandma",
+      "How",
+      "today"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Hi",
+        "role": "语气/引导语",
+        "zh": "你好"
+      },
+      {
+        "id": "ud-2",
+        "text": "Grandma",
+        "role": "中心成分",
+        "zh": "Grandma"
+      },
+      {
+        "id": "ud-3",
+        "text": "How",
+        "role": "表语",
+        "zh": "如何"
+      },
+      {
+        "id": "ud-4",
+        "text": "are you",
+        "role": "系动词",
+        "zh": "是；你",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "are",
+            "role": "中心词",
+            "zh": "是"
+          },
+          {
+            "id": "ud-6",
+            "text": "you",
+            "role": "修饰语",
+            "zh": "你"
+          }
+        ]
+      },
+      {
+        "id": "ud-7",
+        "text": "today",
+        "role": "时间状语",
+        "zh": "今天"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Hi",
+        "phonetic": "haɪ",
+        "pos": "INTJ",
+        "zh": "你好",
+        "componentRole": "语气/引导语",
+        "componentZh": "你好"
+      },
+      "2": {
+        "text": "Grandma",
+        "phonetic": "ˈɡrænmɑː",
+        "pos": "PROPN_PERSON",
+        "zh": "Grandma",
+        "componentRole": "中心成分",
+        "componentZh": "Grandma"
+      },
+      "4": {
+        "text": "How",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "zh": "如何",
+        "componentRole": "表语",
+        "componentZh": "如何"
+      },
+      "5": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "中心词",
+        "componentZh": "是",
+        "parentComponentText": "are you",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "是；你"
+      },
+      "6": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "修饰语",
+        "componentZh": "你",
+        "parentComponentText": "are you",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "是；你"
+      },
+      "7": {
+        "text": "today",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN",
+        "zh": "今天",
+        "componentRole": "时间状语",
+        "componentZh": "今天"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-n22qi5mrdjt0ahw9u69mc234-S-rmmy2dch08obpnf47b6wm5fo",
+    "contentId": "JLB-n22qi5mrdjt0ahw9u69mc234-S-rmmy2dch08obpnf47b6wm5fo",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你好吗，Wang小姐？",
+    "audioText": "How are you, Miss Wang?",
+    "fullEnglish": "How are you, Miss Wang?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "How",
+        "answer": "How",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "方式/程度状语",
+        "zh": "如何",
+        "phonetic": "haʊ",
+        "pos": "ADV"
+      },
+      {
+        "index": 1,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɑr",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你好吗，Wang小姐？"
+      },
+      {
+        "index": 4,
+        "text": "Miss",
+        "answer": "Miss",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "表语",
+        "zh": "小姐",
+        "phonetic": "mɪs",
+        "pos": "NOUN"
+      },
+      {
+        "index": 5,
+        "text": "Wang",
+        "answer": "Wang",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "补充成分",
+        "zh": "Wang",
+        "phonetic": "wæŋ",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你好吗，Wang小姐？"
+      }
+    ],
+    "shuffledBlocks": [
+      "are",
+      "Miss",
+      "Wang",
+      "How",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "How",
+        "role": "方式/程度状语",
+        "zh": "如何"
+      },
+      {
+        "id": "ud-2",
+        "text": "are",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-3",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-4",
+        "text": "Miss",
+        "role": "表语",
+        "zh": "小姐"
+      },
+      {
+        "id": "ud-5",
+        "text": "Wang",
+        "role": "补充成分",
+        "zh": "Wang"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "How",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "zh": "如何",
+        "componentRole": "方式/程度状语",
+        "componentZh": "如何"
+      },
+      "1": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "4": {
+        "text": "Miss",
+        "phonetic": "mɪs",
+        "pos": "NOUN",
+        "zh": "小姐",
+        "componentRole": "表语",
+        "componentZh": "小姐"
+      },
+      "5": {
+        "text": "Wang",
+        "phonetic": "wæŋ",
+        "pos": "PROPN_PERSON",
+        "zh": "Wang",
+        "componentRole": "补充成分",
+        "componentZh": "Wang"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fzu33a4nig6d1w27mjp5dxcq-S-dbhknyj16wz0pi329ltd3ka3",
+    "contentId": "JLB-fzu33a4nig6d1w27mjp5dxcq-S-dbhknyj16wz0pi329ltd3ka3",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你好吗？",
+    "audioText": "How are you?",
+    "fullEnglish": "How are you?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "How",
+        "answer": "How",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "表语",
+        "zh": "如何",
+        "phonetic": "haʊ",
+        "pos": "ADV"
+      },
+      {
+        "index": 1,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "是",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "are you",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "是；你"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "修饰语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "are you",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "是；你"
+      },
+      {
+        "index": 3,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你好吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "are",
+      "How",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "How",
+        "role": "表语",
+        "zh": "如何"
+      },
+      {
+        "id": "ud-2",
+        "text": "are you",
+        "role": "系动词",
+        "zh": "是；你",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "are",
+            "role": "中心词",
+            "zh": "是"
+          },
+          {
+            "id": "ud-4",
+            "text": "you",
+            "role": "修饰语",
+            "zh": "你"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "How",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "zh": "如何",
+        "componentRole": "表语",
+        "componentZh": "如何"
+      },
+      "1": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "中心词",
+        "componentZh": "是",
+        "parentComponentText": "are you",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "是；你"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "修饰语",
+        "componentZh": "你",
+        "parentComponentText": "are you",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "是；你"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hy6zcx784izgvinay9typpvk-S-xighbr1bntvc4pi5yl86udiv",
+    "contentId": "JLB-hy6zcx784izgvinay9typpvk-S-xighbr1bntvc4pi5yl86udiv",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我也很好。",
+    "audioText": "I'm fine, too",
+    "fullEnglish": "I'm fine, too",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "我是",
+        "phonetic": "aɪm",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "fine",
+        "answer": "fine",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "好的",
+        "phonetic": "faɪn",
+        "pos": "ADJ"
+      },
+      {
+        "index": 2,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我也很好。"
+      },
+      {
+        "index": 3,
+        "text": "too",
+        "answer": "too",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "方式/程度状语",
+        "zh": "也",
+        "phonetic": "tuː",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "fine",
+      "I'm",
+      "too"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I'm",
+        "role": "主语 + 系动词",
+        "zh": "我是"
+      },
+      {
+        "id": "ud-2",
+        "text": "fine",
+        "role": "表语",
+        "zh": "好的"
+      },
+      {
+        "id": "ud-3",
+        "text": "too",
+        "role": "方式/程度状语",
+        "zh": "也"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "我是"
+      },
+      "1": {
+        "text": "fine",
+        "phonetic": "faɪn",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentRole": "表语",
+        "componentZh": "好的"
+      },
+      "3": {
+        "text": "too",
+        "phonetic": "tuː",
+        "pos": "ADV",
+        "zh": "也",
+        "componentRole": "方式/程度状语",
+        "componentZh": "也"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hy6zcx784izgvinay9typpvk-S-kfkcqssg7xaplh7fvx8sswmx",
+    "contentId": "JLB-hy6zcx784izgvinay9typpvk-S-kfkcqssg7xaplh7fvx8sswmx",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我很好。你呢？",
+    "audioText": "I'm fine. And you?",
+    "fullEnglish": "I'm fine. And you?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "我是",
+        "phonetic": "aɪm",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "fine",
+        "answer": "fine",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "好的",
+        "phonetic": "faɪn",
+        "pos": "ADJ"
+      },
+      {
+        "index": 2,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我很好。你呢？"
+      },
+      {
+        "index": 3,
+        "text": "And",
+        "answer": "And",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ"
+      },
+      {
+        "index": 4,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心成分",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我很好。你呢？"
+      }
+    ],
+    "shuffledBlocks": [
+      "And",
+      "you",
+      "fine",
+      "I'm"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I'm",
+        "role": "主语 + 系动词",
+        "zh": "我是"
+      },
+      {
+        "id": "ud-2",
+        "text": "fine",
+        "role": "表语",
+        "zh": "好的"
+      },
+      {
+        "id": "ud-3",
+        "text": "And",
+        "role": "并列连词",
+        "zh": "和"
+      },
+      {
+        "id": "ud-4",
+        "text": "you",
+        "role": "中心成分",
+        "zh": "你"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "我是"
+      },
+      "1": {
+        "text": "fine",
+        "phonetic": "faɪn",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentRole": "表语",
+        "componentZh": "好的"
+      },
+      "3": {
+        "text": "And",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和"
+      },
+      "4": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "中心成分",
+        "componentZh": "你"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fzu33a4nig6d1w27mjp5dxcq-S-dywzeg92aun46vbrrcjetn7o",
+    "contentId": "JLB-fzu33a4nig6d1w27mjp5dxcq-S-dywzeg92aun46vbrrcjetn7o",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我很好。谢谢。",
+    "audioText": "I'm fine. Thanks",
+    "fullEnglish": "I'm fine. Thanks",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "我是",
+        "phonetic": "aɪm",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "fine",
+        "answer": "fine",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "好的",
+        "phonetic": "faɪn",
+        "pos": "ADJ"
+      },
+      {
+        "index": 2,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我很好。谢谢。"
+      },
+      {
+        "index": 3,
+        "text": "Thanks",
+        "answer": "Thanks",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心成分",
+        "zh": "谢谢",
+        "phonetic": "θæŋks",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "fine",
+      "Thanks",
+      "I'm"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I'm",
+        "role": "主语 + 系动词",
+        "zh": "我是"
+      },
+      {
+        "id": "ud-2",
+        "text": "fine",
+        "role": "表语",
+        "zh": "好的"
+      },
+      {
+        "id": "ud-3",
+        "text": "Thanks",
+        "role": "中心成分",
+        "zh": "谢谢"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "我是"
+      },
+      "1": {
+        "text": "fine",
+        "phonetic": "faɪn",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentRole": "表语",
+        "componentZh": "好的"
+      },
+      "3": {
+        "text": "Thanks",
+        "phonetic": "θæŋks",
+        "pos": "NOUN",
+        "zh": "谢谢",
+        "componentRole": "中心成分",
+        "componentZh": "谢谢"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-uuyh7fqqfutszrspe9gunttm-S-nn950xuex8el0svvkejsk7w8",
+    "contentId": "JLB-uuyh7fqqfutszrspe9gunttm-S-nn950xuex8el0svvkejsk7w8",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "下一位，请。",
+    "audioText": "Next, please",
+    "fullEnglish": "Next, please",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Next",
+        "answer": "Next",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "下一位，请。"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "下一位，请。"
+      },
+      {
+        "index": 2,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Next",
+      "please"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Next",
+        "role": "中心成分",
+        "zh": "下一位，请。"
+      },
+      {
+        "id": "ud-2",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Next",
+        "zh": "下一位，请。",
+        "componentRole": "中心成分",
+        "componentZh": "下一位，请。"
+      },
+      "2": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-n22qi5mrdjt0ahw9u69mc234-S-jxssl2gkypcfkyp00mvd7zrt",
+    "contentId": "JLB-n22qi5mrdjt0ahw9u69mc234-S-jxssl2gkypcfkyp00mvd7zrt",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哦，我很好。谢谢。",
+    "audioText": "Oh, I'm fine. Thank you",
+    "fullEnglish": "Oh, I'm fine. Thank you",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Oh",
+        "answer": "Oh",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "哦",
+        "phonetic": "oʊ",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哦，我很好。谢谢。"
+      },
+      {
+        "index": 2,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语 + 系动词",
+        "zh": "我是",
+        "phonetic": "aɪm",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "fine",
+        "answer": "fine",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "好的",
+        "phonetic": "faɪn",
+        "pos": "ADJ"
+      },
+      {
+        "index": 4,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哦，我很好。谢谢。"
+      },
+      {
+        "index": 5,
+        "text": "Thank",
+        "answer": "Thank",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "感谢",
+        "phonetic": "θæŋk",
+        "pos": "VERB"
+      },
+      {
+        "index": 6,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "宾语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I'm",
+      "fine",
+      "Thank",
+      "Oh",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Oh",
+        "role": "语气/引导语",
+        "zh": "哦"
+      },
+      {
+        "id": "ud-2",
+        "text": "I'm",
+        "role": "主语 + 系动词",
+        "zh": "我是"
+      },
+      {
+        "id": "ud-3",
+        "text": "fine",
+        "role": "表语",
+        "zh": "好的"
+      },
+      {
+        "id": "ud-4",
+        "text": "Thank",
+        "role": "谓语",
+        "zh": "感谢"
+      },
+      {
+        "id": "ud-5",
+        "text": "you",
+        "role": "宾语",
+        "zh": "你"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Oh",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "zh": "哦",
+        "componentRole": "语气/引导语",
+        "componentZh": "哦"
+      },
+      "2": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "我是"
+      },
+      "3": {
+        "text": "fine",
+        "phonetic": "faɪn",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentRole": "表语",
+        "componentZh": "好的"
+      },
+      "5": {
+        "text": "Thank",
+        "phonetic": "θæŋk",
+        "pos": "VERB",
+        "zh": "感谢",
+        "componentRole": "谓语",
+        "componentZh": "感谢"
+      },
+      "6": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "宾语",
+        "componentZh": "你"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-uuyh7fqqfutszrspe9gunttm-S-pimkckyebezf4uexeqo4cki6",
+    "contentId": "JLB-uuyh7fqqfutszrspe9gunttm-S-pimkckyebezf4uexeqo4cki6",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请过来一下。",
+    "audioText": "Please come here",
+    "fullEnglish": "Please come here",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Please",
+        "answer": "Please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": "come",
+        "answer": "come",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "来",
+        "phonetic": "kʌm",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "here",
+        "answer": "here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "地点状语",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "come",
+      "Please",
+      "here"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Please",
+        "role": "语气/引导语",
+        "zh": "请"
+      },
+      {
+        "id": "ud-2",
+        "text": "come",
+        "role": "谓语",
+        "zh": "来"
+      },
+      {
+        "id": "ud-3",
+        "text": "here",
+        "role": "地点状语",
+        "zh": "这里"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      },
+      "1": {
+        "text": "come",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "zh": "来",
+        "componentRole": "谓语",
+        "componentZh": "来"
+      },
+      "2": {
+        "text": "here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentRole": "地点状语",
+        "componentZh": "这里"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-n22qi5mrdjt0ahw9u69mc234-W-w90kvzbg1rgw164bhe5zw3nt-2",
+    "contentId": "JLB-n22qi5mrdjt0ahw9u69mc234-W-w90kvzbg1rgw164bhe5zw3nt-2",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "下午",
+    "audioText": "afternoon",
+    "fullEnglish": "afternoon",
+    "phonetic": "ˌæftərˈnuːn",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "afternoon",
+        "answer": "afternoon",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "下午",
+        "phonetic": "ˌæftərˈnuːn",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "afternoon"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "afternoon",
+        "phonetic": "ˌæftərˈnuːn",
+        "pos": "NOUN",
+        "zh": "下午",
+        "componentZh": "下午"
+      }
+    }
+  },
+  {
+    "id": "JLB-hy6zcx784izgvinay9typpvk-W-kfkcqssg7xaplh7fvx8sswmx-3",
+    "contentId": "JLB-hy6zcx784izgvinay9typpvk-W-kfkcqssg7xaplh7fvx8sswmx-3",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "和",
+    "audioText": "And",
+    "fullEnglish": "And",
+    "phonetic": "ænd; ənd",
+    "pos": "CCONJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "And",
+        "answer": "And",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "And"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "And",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和"
+      }
+    }
+  },
+  {
+    "id": "JLB-fzu33a4nig6d1w27mjp5dxcq-W-dbhknyj16wz0pi329ltd3ka3-2",
+    "contentId": "JLB-fzu33a4nig6d1w27mjp5dxcq-W-dbhknyj16wz0pi329ltd3ka3-2",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是（现在时复数/第二人称）",
+    "audioText": "are",
+    "fullEnglish": "are",
+    "phonetic": "ɑr",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɑr",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "are"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是"
+      }
+    }
+  },
+  {
+    "id": "JLB-uuyh7fqqfutszrspe9gunttm-W-k4qzlyk0rj4webo7w4n0funm-2",
+    "contentId": "JLB-uuyh7fqqfutszrspe9gunttm-W-k4qzlyk0rj4webo7w4n0funm-2",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "回",
+    "audioText": "back",
+    "fullEnglish": "back",
+    "phonetic": "bæk",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "back",
+        "answer": "back",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "回",
+        "phonetic": "bæk",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "back"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "back",
+        "phonetic": "bæk",
+        "pos": "ADV",
+        "zh": "回",
+        "componentZh": "回"
+      }
+    }
+  },
+  {
+    "id": "JLB-n22qi5mrdjt0ahw9u69mc234-W-w90kvzbg1rgw164bhe5zw3nt-3",
+    "contentId": "JLB-n22qi5mrdjt0ahw9u69mc234-W-w90kvzbg1rgw164bhe5zw3nt-3",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "男孩（复数）",
+    "audioText": "boys",
+    "fullEnglish": "boys",
+    "phonetic": "bɔɪz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "boys",
+        "answer": "boys",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "男孩（复数）",
+        "phonetic": "bɔɪz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "boys"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "boys",
+        "phonetic": "bɔɪz",
+        "pos": "NOUN",
+        "zh": "男孩（复数）",
+        "componentZh": "男孩（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-n22qi5mrdjt0ahw9u69mc234-W-sfh27fiup6a2dmfmd3p2vvti-1",
+    "contentId": "JLB-n22qi5mrdjt0ahw9u69mc234-W-sfh27fiup6a2dmfmd3p2vvti-1",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "再见",
+    "audioText": "Bye-bye",
+    "fullEnglish": "Bye-bye",
+    "phonetic": "ˌbaɪˈbaɪ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Bye-bye",
+        "answer": "Bye-bye",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "再见",
+        "phonetic": "ˌbaɪˈbaɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Bye-bye"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Bye-bye",
+        "phonetic": "ˌbaɪˈbaɪ",
+        "pos": "NOUN",
+        "zh": "再见",
+        "componentZh": "再见"
+      }
+    }
+  },
+  {
+    "id": "JLB-uuyh7fqqfutszrspe9gunttm-W-pimkckyebezf4uexeqo4cki6-2",
+    "contentId": "JLB-uuyh7fqqfutszrspe9gunttm-W-pimkckyebezf4uexeqo4cki6-2",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "来",
+    "audioText": "come",
+    "fullEnglish": "come",
+    "phonetic": "kʌm",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "come",
+        "answer": "come",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "来",
+        "phonetic": "kʌm",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "come"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "come",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "zh": "来",
+        "componentZh": "来"
+      }
+    }
+  },
+  {
+    "id": "JLB-hy6zcx784izgvinay9typpvk-W-egi8elqsscxcrsk2s4l5nnb4-2",
+    "contentId": "JLB-hy6zcx784izgvinay9typpvk-W-egi8elqsscxcrsk2s4l5nnb4-2",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "晚上",
+    "audioText": "evening",
+    "fullEnglish": "evening",
+    "phonetic": "ˈivənɪŋ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "evening",
+        "answer": "evening",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "晚上",
+        "phonetic": "ˈivənɪŋ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "evening"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "evening",
+        "phonetic": "ˈivənɪŋ",
+        "pos": "NOUN",
+        "zh": "晚上",
+        "componentZh": "晚上"
+      }
+    }
+  },
+  {
+    "id": "JLB-fzu33a4nig6d1w27mjp5dxcq-W-dywzeg92aun46vbrrcjetn7o-2",
+    "contentId": "JLB-fzu33a4nig6d1w27mjp5dxcq-W-dywzeg92aun46vbrrcjetn7o-2",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好的",
+    "audioText": "fine",
+    "fullEnglish": "fine",
+    "phonetic": "faɪn",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "fine",
+        "answer": "fine",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "好的",
+        "phonetic": "faɪn",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "fine"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "fine",
+        "phonetic": "faɪn",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentZh": "好的"
+      }
+    }
+  },
+  {
+    "id": "JLB-n22qi5mrdjt0ahw9u69mc234-W-w90kvzbg1rgw164bhe5zw3nt-5",
+    "contentId": "JLB-n22qi5mrdjt0ahw9u69mc234-W-w90kvzbg1rgw164bhe5zw3nt-5",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "女孩（复数）",
+    "audioText": "girls",
+    "fullEnglish": "girls",
+    "phonetic": "ɡɝlz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "girls",
+        "answer": "girls",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "女孩（复数）",
+        "phonetic": "ɡɝlz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "girls"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "girls",
+        "phonetic": "ɡɝlz",
+        "pos": "NOUN",
+        "zh": "女孩（复数）",
+        "componentZh": "女孩（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-uuyh7fqqfutszrspe9gunttm-W-k4qzlyk0rj4webo7w4n0funm-1",
+    "contentId": "JLB-uuyh7fqqfutszrspe9gunttm-W-k4qzlyk0rj4webo7w4n0funm-1",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "去",
+    "audioText": "Go",
+    "fullEnglish": "Go",
+    "phonetic": "ɡoʊ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Go",
+        "answer": "Go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Go"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去"
+      }
+    }
+  },
+  {
+    "id": "JLB-hy6zcx784izgvinay9typpvk-W-egi8elqsscxcrsk2s4l5nnb4-1",
+    "contentId": "JLB-hy6zcx784izgvinay9typpvk-W-egi8elqsscxcrsk2s4l5nnb4-1",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好的",
+    "audioText": "Good",
+    "fullEnglish": "Good",
+    "phonetic": "ɡʊd",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Good",
+        "answer": "Good",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "好的",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Good"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Good",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentZh": "好的"
+      }
+    }
+  },
+  {
+    "id": "JLB-fzu33a4nig6d1w27mjp5dxcq-W-o091zbrk9ah3fpt47gk0jo99-1",
+    "contentId": "JLB-fzu33a4nig6d1w27mjp5dxcq-W-o091zbrk9ah3fpt47gk0jo99-1",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "再见",
+    "audioText": "Goodbye",
+    "fullEnglish": "Goodbye",
+    "phonetic": "ˌɡʊdˈbaɪ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Goodbye",
+        "answer": "Goodbye",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "再见",
+        "phonetic": "ˌɡʊdˈbaɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Goodbye"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Goodbye",
+        "phonetic": "ˌɡʊdˈbaɪ",
+        "pos": "NOUN",
+        "zh": "再见",
+        "componentZh": "再见"
+      }
+    }
+  },
+  {
+    "id": "JLB-hy6zcx784izgvinay9typpvk-W-amyb35uqshbraoz4ag2izzgg-2",
+    "contentId": "JLB-hy6zcx784izgvinay9typpvk-W-amyb35uqshbraoz4ag2izzgg-2",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "奶奶",
+    "audioText": "Grandma",
+    "fullEnglish": "Grandma",
+    "phonetic": "ˈɡrænmɑː",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Grandma",
+        "answer": "Grandma",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "Grandma",
+        "phonetic": "ˈɡrænmɑː",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Grandma"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Grandma",
+        "phonetic": "ˈɡrænmɑː",
+        "pos": "PROPN_PERSON",
+        "zh": "Grandma",
+        "componentZh": "Grandma"
+      }
+    }
+  },
+  {
+    "id": "JLB-fzu33a4nig6d1w27mjp5dxcq-W-o091zbrk9ah3fpt47gk0jo99-2",
+    "contentId": "JLB-fzu33a4nig6d1w27mjp5dxcq-W-o091zbrk9ah3fpt47gk0jo99-2",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Guoguo",
+    "audioText": "Guoguo",
+    "fullEnglish": "Guoguo",
+    "phonetic": "guoguo",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Guoguo",
+        "answer": "Guoguo",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "Guoguo",
+        "phonetic": "guoguo",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Guoguo"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Guoguo",
+        "phonetic": "guoguo",
+        "pos": "PROPN_PERSON",
+        "zh": "Guoguo",
+        "componentZh": "Guoguo"
+      }
+    }
+  },
+  {
+    "id": "JLB-uuyh7fqqfutszrspe9gunttm-W-pimkckyebezf4uexeqo4cki6-3",
+    "contentId": "JLB-uuyh7fqqfutszrspe9gunttm-W-pimkckyebezf4uexeqo4cki6-3",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这里",
+    "audioText": "here",
+    "fullEnglish": "here",
+    "phonetic": "hɪr",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "here",
+        "answer": "here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "here"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentZh": "这里"
+      }
+    }
+  },
+  {
+    "id": "JLB-hy6zcx784izgvinay9typpvk-W-amyb35uqshbraoz4ag2izzgg-1",
+    "contentId": "JLB-hy6zcx784izgvinay9typpvk-W-amyb35uqshbraoz4ag2izzgg-1",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "嗨",
+    "audioText": "Hi",
+    "fullEnglish": "Hi",
+    "phonetic": "haɪ",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Hi",
+        "answer": "Hi",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "你好",
+        "phonetic": "haɪ",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Hi"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Hi",
+        "phonetic": "haɪ",
+        "pos": "INTJ",
+        "zh": "你好",
+        "componentZh": "你好"
+      }
+    }
+  },
+  {
+    "id": "JLB-fzu33a4nig6d1w27mjp5dxcq-W-dbhknyj16wz0pi329ltd3ka3-1",
+    "contentId": "JLB-fzu33a4nig6d1w27mjp5dxcq-W-dbhknyj16wz0pi329ltd3ka3-1",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "如何",
+    "audioText": "How",
+    "fullEnglish": "How",
+    "phonetic": "haʊ",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "How",
+        "answer": "How",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "如何",
+        "phonetic": "haʊ",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "How"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "How",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "zh": "如何",
+        "componentZh": "如何"
+      }
+    }
+  },
+  {
+    "id": "JLB-fzu33a4nig6d1w27mjp5dxcq-W-dywzeg92aun46vbrrcjetn7o-1",
+    "contentId": "JLB-fzu33a4nig6d1w27mjp5dxcq-W-dywzeg92aun46vbrrcjetn7o-1",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我是",
+    "audioText": "I'm",
+    "fullEnglish": "I'm",
+    "phonetic": "aɪm",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我是",
+        "phonetic": "aɪm",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I'm"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我是",
+        "componentZh": "我是"
+      }
+    }
+  },
+  {
+    "id": "JLB-n22qi5mrdjt0ahw9u69mc234-W-sfh27fiup6a2dmfmd3p2vvti-2",
+    "contentId": "JLB-n22qi5mrdjt0ahw9u69mc234-W-sfh27fiup6a2dmfmd3p2vvti-2",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Kate",
+    "audioText": "Kate",
+    "fullEnglish": "Kate",
+    "phonetic": "keɪt",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Kate",
+        "answer": "Kate",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "Kate",
+        "phonetic": "keɪt",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Kate"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Kate",
+        "phonetic": "keɪt",
+        "pos": "PROPN_PERSON",
+        "zh": "Kate",
+        "componentZh": "Kate"
+      }
+    }
+  },
+  {
+    "id": "JLB-fzu33a4nig6d1w27mjp5dxcq-W-x8psr12u0cc902l5zru1qkmv-2",
+    "contentId": "JLB-fzu33a4nig6d1w27mjp5dxcq-W-x8psr12u0cc902l5zru1qkmv-2",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Maomao",
+    "audioText": "Maomao",
+    "fullEnglish": "Maomao",
+    "phonetic": "ˈmaʊ.maʊ",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Maomao",
+        "answer": "Maomao",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "Maomao",
+        "phonetic": "ˈmaʊ.maʊ",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Maomao"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Maomao",
+        "phonetic": "ˈmaʊ.maʊ",
+        "pos": "PROPN_PERSON",
+        "zh": "Maomao",
+        "componentZh": "Maomao"
+      }
+    }
+  },
+  {
+    "id": "JLB-n22qi5mrdjt0ahw9u69mc234-W-rmmy2dch08obpnf47b6wm5fo-4",
+    "contentId": "JLB-n22qi5mrdjt0ahw9u69mc234-W-rmmy2dch08obpnf47b6wm5fo-4",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "小姐",
+    "audioText": "Miss",
+    "fullEnglish": "Miss",
+    "phonetic": "mɪs",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Miss",
+        "answer": "Miss",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "小姐",
+        "phonetic": "mɪs",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Miss"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Miss",
+        "phonetic": "mɪs",
+        "pos": "NOUN",
+        "zh": "小姐",
+        "componentZh": "小姐"
+      }
+    }
+  },
+  {
+    "id": "JLB-hy6zcx784izgvinay9typpvk-W-mvks9b7ehj619d8dhvzuk456-4",
+    "contentId": "JLB-hy6zcx784izgvinay9typpvk-W-mvks9b7ehj619d8dhvzuk456-4",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "妈妈",
+    "audioText": "Mum",
+    "fullEnglish": "Mum",
+    "phonetic": "mʌm",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Mum",
+        "answer": "Mum",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "妈妈",
+        "phonetic": "mʌm",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Mum"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Mum",
+        "phonetic": "mʌm",
+        "pos": "NOUN",
+        "zh": "妈妈",
+        "componentZh": "妈妈"
+      }
+    }
+  },
+  {
+    "id": "JLB-n22qi5mrdjt0ahw9u69mc234-W-jxssl2gkypcfkyp00mvd7zrt-1",
+    "contentId": "JLB-n22qi5mrdjt0ahw9u69mc234-W-jxssl2gkypcfkyp00mvd7zrt-1",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哦",
+    "audioText": "Oh",
+    "fullEnglish": "Oh",
+    "phonetic": "oʊ",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Oh",
+        "answer": "Oh",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "哦",
+        "phonetic": "oʊ",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Oh"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Oh",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "zh": "哦",
+        "componentZh": "哦"
+      }
+    }
+  },
+  {
+    "id": "JLB-uuyh7fqqfutszrspe9gunttm-W-pimkckyebezf4uexeqo4cki6-1",
+    "contentId": "JLB-uuyh7fqqfutszrspe9gunttm-W-pimkckyebezf4uexeqo4cki6-1",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请",
+    "audioText": "Please",
+    "fullEnglish": "Please",
+    "phonetic": "pliːz",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Please",
+        "answer": "Please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Please"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentZh": "请"
+      }
+    }
+  },
+  {
+    "id": "JLB-uuyh7fqqfutszrspe9gunttm-W-k4qzlyk0rj4webo7w4n0funm-5",
+    "contentId": "JLB-uuyh7fqqfutszrspe9gunttm-W-k4qzlyk0rj4webo7w4n0funm-5",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "座位",
+    "audioText": "seat",
+    "fullEnglish": "seat",
+    "phonetic": "siːt",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "seat",
+        "answer": "seat",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "座位",
+        "phonetic": "siːt",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "seat"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "seat",
+        "phonetic": "siːt",
+        "pos": "NOUN",
+        "zh": "座位",
+        "componentZh": "座位"
+      }
+    }
+  },
+  {
+    "id": "JLB-hy6zcx784izgvinay9typpvk-W-mvks9b7ehj619d8dhvzuk456-2",
+    "contentId": "JLB-hy6zcx784izgvinay9typpvk-W-mvks9b7ehj619d8dhvzuk456-2",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "感谢",
+    "audioText": "Thank",
+    "fullEnglish": "Thank",
+    "phonetic": "θæŋk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Thank",
+        "answer": "Thank",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "感谢",
+        "phonetic": "θæŋk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Thank"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Thank",
+        "phonetic": "θæŋk",
+        "pos": "VERB",
+        "zh": "感谢",
+        "componentZh": "感谢"
+      }
+    }
+  },
+  {
+    "id": "JLB-fzu33a4nig6d1w27mjp5dxcq-W-dywzeg92aun46vbrrcjetn7o-3",
+    "contentId": "JLB-fzu33a4nig6d1w27mjp5dxcq-W-dywzeg92aun46vbrrcjetn7o-3",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "谢谢",
+    "audioText": "Thanks",
+    "fullEnglish": "Thanks",
+    "phonetic": "θæŋks",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Thanks",
+        "answer": "Thanks",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "谢谢",
+        "phonetic": "θæŋks",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Thanks"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Thanks",
+        "phonetic": "θæŋks",
+        "pos": "NOUN",
+        "zh": "谢谢",
+        "componentZh": "谢谢"
+      }
+    }
+  },
+  {
+    "id": "JLB-uuyh7fqqfutszrspe9gunttm-W-k4qzlyk0rj4webo7w4n0funm-3",
+    "contentId": "JLB-uuyh7fqqfutszrspe9gunttm-W-k4qzlyk0rj4webo7w4n0funm-3",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "引导不定式",
+    "audioText": "to",
+    "fullEnglish": "to",
+    "phonetic": "tuː; tə",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "对",
+        "phonetic": "tuː; tə",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "to"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "对",
+        "componentZh": "对"
+      }
+    }
+  },
+  {
+    "id": "JLB-hy6zcx784izgvinay9typpvk-W-egi8elqsscxcrsk2s4l5nnb4-7",
+    "contentId": "JLB-hy6zcx784izgvinay9typpvk-W-egi8elqsscxcrsk2s4l5nnb4-7",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "今天",
+    "audioText": "today",
+    "fullEnglish": "today",
+    "phonetic": "təˈdeɪ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "today",
+        "answer": "today",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "今天",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "today"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "today",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN",
+        "zh": "今天",
+        "componentZh": "今天"
+      }
+    }
+  },
+  {
+    "id": "JLB-n22qi5mrdjt0ahw9u69mc234-W-rmmy2dch08obpnf47b6wm5fo-5",
+    "contentId": "JLB-n22qi5mrdjt0ahw9u69mc234-W-rmmy2dch08obpnf47b6wm5fo-5",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Wang",
+    "audioText": "Wang",
+    "fullEnglish": "Wang",
+    "phonetic": "wæŋ",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Wang",
+        "answer": "Wang",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "Wang",
+        "phonetic": "wæŋ",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Wang"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Wang",
+        "phonetic": "wæŋ",
+        "pos": "PROPN_PERSON",
+        "zh": "Wang",
+        "componentZh": "Wang"
+      }
+    }
+  },
+  {
+    "id": "JLB-fzu33a4nig6d1w27mjp5dxcq-W-dbhknyj16wz0pi329ltd3ka3-3",
+    "contentId": "JLB-fzu33a4nig6d1w27mjp5dxcq-W-dbhknyj16wz0pi329ltd3ka3-3",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-uuyh7fqqfutszrspe9gunttm-W-k4qzlyk0rj4webo7w4n0funm-4",
+    "contentId": "JLB-uuyh7fqqfutszrspe9gunttm-W-k4qzlyk0rj4webo7w4n0funm-4",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "unit-03",
+    "unitTitle": "Unit 3 How Are You?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你的",
+    "audioText": "your",
+    "fullEnglish": "your",
+    "phonetic": "jʊr; jər",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "your"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentZh": "你的"
+      }
+    }
+  }
+]

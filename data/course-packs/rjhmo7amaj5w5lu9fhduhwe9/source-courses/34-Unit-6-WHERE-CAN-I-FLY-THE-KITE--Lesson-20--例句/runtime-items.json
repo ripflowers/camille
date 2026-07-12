@@ -1,0 +1,5283 @@
+[
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-S-o6wyj1v6ib529e7nvjkqu99v",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-S-o6wyj1v6ib529e7nvjkqu99v",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "妈妈，今天下午我可以在这里滑冰吗？",
+    "audioText": "Mum, can I skate here this afternoon?",
+    "fullEnglish": "Mum, can I skate here this afternoon?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Mum",
+        "answer": "Mum",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "呼语",
+        "zh": "Mum",
+        "phonetic": "mʌm",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "妈妈，今天下午我可以在这里滑冰吗？"
+      },
+      {
+        "index": 2,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      },
+      {
+        "index": 3,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 4,
+        "text": "skate",
+        "answer": "skate",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "滑冰",
+        "phonetic": "skeɪt",
+        "pos": "VERB"
+      },
+      {
+        "index": 5,
+        "text": "here",
+        "answer": "here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "地点状语",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV"
+      },
+      {
+        "index": 6,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "限定词",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "this afternoon",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "这个；下午"
+      },
+      {
+        "index": 7,
+        "text": "afternoon",
+        "answer": "afternoon",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "下午",
+        "phonetic": "ˌæftərˈnuːn",
+        "pos": "NOUN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "this afternoon",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "这个；下午"
+      },
+      {
+        "index": 8,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "妈妈，今天下午我可以在这里滑冰吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Mum",
+      "I",
+      "here",
+      "skate",
+      "afternoon",
+      "can",
+      "this"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Mum",
+        "role": "呼语",
+        "zh": "Mum"
+      },
+      {
+        "id": "ud-2",
+        "text": "can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-3",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-4",
+        "text": "skate",
+        "role": "谓语",
+        "zh": "滑冰"
+      },
+      {
+        "id": "ud-5",
+        "text": "here",
+        "role": "地点状语",
+        "zh": "这里"
+      },
+      {
+        "id": "ud-6",
+        "text": "this afternoon",
+        "role": "时间状语",
+        "zh": "这个；下午",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "this",
+            "role": "限定词",
+            "zh": "这个"
+          },
+          {
+            "id": "ud-8",
+            "text": "afternoon",
+            "role": "中心词",
+            "zh": "下午"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Mum",
+        "phonetic": "mʌm",
+        "pos": "PROPN_PERSON",
+        "zh": "Mum",
+        "componentRole": "呼语",
+        "componentZh": "Mum"
+      },
+      "2": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentRole": "助动词",
+        "componentZh": "能"
+      },
+      "3": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "4": {
+        "text": "skate",
+        "phonetic": "skeɪt",
+        "pos": "VERB",
+        "zh": "滑冰",
+        "componentRole": "谓语",
+        "componentZh": "滑冰"
+      },
+      "5": {
+        "text": "here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentRole": "地点状语",
+        "componentZh": "这里"
+      },
+      "6": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentRole": "限定词",
+        "componentZh": "这个",
+        "parentComponentText": "this afternoon",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "这个；下午"
+      },
+      "7": {
+        "text": "afternoon",
+        "phonetic": "ˌæftərˈnuːn",
+        "pos": "NOUN",
+        "zh": "下午",
+        "componentRole": "中心词",
+        "componentZh": "下午",
+        "parentComponentText": "this afternoon",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "这个；下午"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-o6wyj1v6ib529e7nvjkqu99v-1",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-o6wyj1v6ib529e7nvjkqu99v-1",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "妈妈",
+    "audioText": "Mum",
+    "fullEnglish": "Mum",
+    "phonetic": "mʌm",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Mum",
+        "answer": "Mum",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "Mum",
+        "phonetic": "mʌm",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Mum"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Mum",
+        "phonetic": "mʌm",
+        "pos": "PROPN_PERSON",
+        "zh": "Mum",
+        "componentZh": "Mum"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-o6wyj1v6ib529e7nvjkqu99v-2",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-o6wyj1v6ib529e7nvjkqu99v-2",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "能",
+    "audioText": "can",
+    "fullEnglish": "can",
+    "phonetic": "kæn",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "can"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-o6wyj1v6ib529e7nvjkqu99v-3",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-o6wyj1v6ib529e7nvjkqu99v-3",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-o6wyj1v6ib529e7nvjkqu99v-4",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-o6wyj1v6ib529e7nvjkqu99v-4",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "滑冰",
+    "audioText": "skate",
+    "fullEnglish": "skate",
+    "phonetic": "skeɪt",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "skate",
+        "answer": "skate",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "滑冰",
+        "phonetic": "skeɪt",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "skate"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "skate",
+        "phonetic": "skeɪt",
+        "pos": "VERB",
+        "zh": "滑冰",
+        "componentZh": "滑冰"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-o6wyj1v6ib529e7nvjkqu99v-5",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-o6wyj1v6ib529e7nvjkqu99v-5",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这里",
+    "audioText": "here",
+    "fullEnglish": "here",
+    "phonetic": "hɪr",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "here",
+        "answer": "here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "here"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentZh": "这里"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-o6wyj1v6ib529e7nvjkqu99v-6",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-o6wyj1v6ib529e7nvjkqu99v-6",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这个",
+    "audioText": "this",
+    "fullEnglish": "this",
+    "phonetic": "ðɪs",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "this"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentZh": "这个"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-o6wyj1v6ib529e7nvjkqu99v-7",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-o6wyj1v6ib529e7nvjkqu99v-7",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "下午",
+    "audioText": "afternoon",
+    "fullEnglish": "afternoon",
+    "phonetic": "ˌæftərˈnuːn",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "afternoon",
+        "answer": "afternoon",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "下午",
+        "phonetic": "ˌæftərˈnuːn",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "afternoon"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "afternoon",
+        "phonetic": "ˌæftərˈnuːn",
+        "pos": "NOUN",
+        "zh": "下午",
+        "componentZh": "下午"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-S-y6zqhcp0oqfqfdtxpwlkcmrg",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-S-y6zqhcp0oqfqfdtxpwlkcmrg",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "恐怕不行。这太危险了。",
+    "audioText": "I'm afraid not. It's dangerous",
+    "fullEnglish": "I'm afraid not. It's dangerous",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "我",
+        "phonetic": "aɪm",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "afraid",
+        "answer": "afraid",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "害怕的",
+        "phonetic": "əˈfreɪd",
+        "pos": "ADJ"
+      },
+      {
+        "index": 2,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "方式/程度状语",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART"
+      },
+      {
+        "index": 3,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "恐怕不行。这太危险了。"
+      },
+      {
+        "index": 4,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "dangerous",
+        "answer": "dangerous",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "危险的",
+        "phonetic": "ˈdeɪndʒərəs",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "afraid",
+      "not",
+      "It's",
+      "I'm",
+      "dangerous"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I'm",
+        "role": "主语 + 系动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "afraid",
+        "role": "表语",
+        "zh": "害怕的"
+      },
+      {
+        "id": "ud-3",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-4",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-5",
+        "text": "dangerous",
+        "role": "表语",
+        "zh": "危险的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "afraid",
+        "phonetic": "əˈfreɪd",
+        "pos": "ADJ",
+        "zh": "害怕的",
+        "componentRole": "表语",
+        "componentZh": "害怕的"
+      },
+      "2": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentRole": "方式/程度状语",
+        "componentZh": "不"
+      },
+      "4": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "5": {
+        "text": "dangerous",
+        "phonetic": "ˈdeɪndʒərəs",
+        "pos": "ADJ",
+        "zh": "危险的",
+        "componentRole": "表语",
+        "componentZh": "危险的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-y6zqhcp0oqfqfdtxpwlkcmrg-1",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-y6zqhcp0oqfqfdtxpwlkcmrg-1",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我是",
+    "audioText": "I'm",
+    "fullEnglish": "I'm",
+    "phonetic": "aɪm",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪm",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I'm"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-y6zqhcp0oqfqfdtxpwlkcmrg-2",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-y6zqhcp0oqfqfdtxpwlkcmrg-2",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "害怕的",
+    "audioText": "afraid",
+    "fullEnglish": "afraid",
+    "phonetic": "əˈfreɪd",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "afraid",
+        "answer": "afraid",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "害怕的",
+        "phonetic": "əˈfreɪd",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "afraid"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "afraid",
+        "phonetic": "əˈfreɪd",
+        "pos": "ADJ",
+        "zh": "害怕的",
+        "componentZh": "害怕的"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-y6zqhcp0oqfqfdtxpwlkcmrg-3",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-y6zqhcp0oqfqfdtxpwlkcmrg-3",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不",
+    "audioText": "not",
+    "fullEnglish": "not",
+    "phonetic": "nɑːt",
+    "pos": "PART",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART"
+      }
+    ],
+    "shuffledBlocks": [
+      "not"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentZh": "不"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-y6zqhcp0oqfqfdtxpwlkcmrg-4",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-y6zqhcp0oqfqfdtxpwlkcmrg-4",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它是",
+    "audioText": "It's",
+    "fullEnglish": "It's",
+    "phonetic": "ɪts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-y6zqhcp0oqfqfdtxpwlkcmrg-5",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-y6zqhcp0oqfqfdtxpwlkcmrg-5",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "危险的",
+    "audioText": "dangerous",
+    "fullEnglish": "dangerous",
+    "phonetic": "ˈdeɪndʒərəs",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "dangerous",
+        "answer": "dangerous",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "危险的",
+        "phonetic": "ˈdeɪndʒərəs",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "dangerous"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "dangerous",
+        "phonetic": "ˈdeɪndʒərəs",
+        "pos": "ADJ",
+        "zh": "危险的",
+        "componentZh": "危险的"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-S-om2m0s4x45hp6xz23p1kan4a",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-S-om2m0s4x45hp6xz23p1kan4a",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你可能会掉进水里。",
+    "audioText": "You may fall into the water",
+    "fullEnglish": "You may fall into the water",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "You",
+        "answer": "You",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "may",
+        "answer": "may",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "可能",
+        "phonetic": "meɪ",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "fall",
+        "answer": "fall",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "fall（短语动词）: 掉入",
+        "phonetic": "fɔl",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "into",
+        "answer": "into",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "介词",
+        "zh": "（与 throw 搭配）",
+        "phonetic": "ˈɪntuː",
+        "pos": "ADP",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "into the water",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "（与 throw 搭配）；定冠词；水"
+      },
+      {
+        "index": 4,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "the water",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；水"
+      },
+      {
+        "index": 5,
+        "text": "water",
+        "answer": "water",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "水",
+        "phonetic": "ˈwɔːtər",
+        "pos": "NOUN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "the water",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；水"
+      }
+    ],
+    "shuffledBlocks": [
+      "fall",
+      "into",
+      "water",
+      "You",
+      "may",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "You",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-2",
+        "text": "may",
+        "role": "助动词",
+        "zh": "可能"
+      },
+      {
+        "id": "ud-3",
+        "text": "fall",
+        "role": "谓语",
+        "zh": "fall（短语动词）: 掉入"
+      },
+      {
+        "id": "ud-4",
+        "text": "into the water",
+        "role": "地点状语",
+        "zh": "（与 throw 搭配）；定冠词；水",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "into",
+            "role": "介词",
+            "zh": "（与 throw 搭配）"
+          },
+          {
+            "id": "ud-6",
+            "text": "the water",
+            "role": "介词宾语",
+            "zh": "定冠词；水",
+            "children": [
+              {
+                "id": "ud-7",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-8",
+                "text": "water",
+                "role": "中心词",
+                "zh": "水"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "You",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "1": {
+        "text": "may",
+        "phonetic": "meɪ",
+        "pos": "AUX",
+        "zh": "可能",
+        "componentRole": "助动词",
+        "componentZh": "可能"
+      },
+      "2": {
+        "text": "fall",
+        "phonetic": "fɔl",
+        "pos": "VERB",
+        "zh": "fall（短语动词）: 掉入",
+        "componentRole": "谓语",
+        "componentZh": "fall（短语动词）: 掉入"
+      },
+      "3": {
+        "text": "into",
+        "phonetic": "ˈɪntuː",
+        "pos": "ADP",
+        "zh": "（与 throw 搭配）",
+        "componentRole": "介词",
+        "componentZh": "（与 throw 搭配）",
+        "parentComponentText": "into the water",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "（与 throw 搭配）；定冠词；水"
+      },
+      "4": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the water",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；水"
+      },
+      "5": {
+        "text": "water",
+        "phonetic": "ˈwɔːtər",
+        "pos": "NOUN",
+        "zh": "水",
+        "componentRole": "中心词",
+        "componentZh": "水",
+        "parentComponentText": "the water",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；水"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-om2m0s4x45hp6xz23p1kan4a-1",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-om2m0s4x45hp6xz23p1kan4a-1",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "You",
+    "fullEnglish": "You",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "You",
+        "answer": "You",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "You"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "You",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-om2m0s4x45hp6xz23p1kan4a-2",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-om2m0s4x45hp6xz23p1kan4a-2",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "可能",
+    "audioText": "may",
+    "fullEnglish": "may",
+    "phonetic": "meɪ",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "may",
+        "answer": "may",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "可能",
+        "phonetic": "meɪ",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "may"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "may",
+        "phonetic": "meɪ",
+        "pos": "AUX",
+        "zh": "可能",
+        "componentZh": "可能"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-om2m0s4x45hp6xz23p1kan4a-3",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-om2m0s4x45hp6xz23p1kan4a-3",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "fall（短语动词）: 掉入",
+    "audioText": "fall",
+    "fullEnglish": "fall",
+    "phonetic": "fɔl",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "fall",
+        "answer": "fall",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "fall（短语动词）: 掉入",
+        "phonetic": "fɔl",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "fall"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "fall",
+        "phonetic": "fɔl",
+        "pos": "VERB",
+        "zh": "fall（短语动词）: 掉入",
+        "componentZh": "fall（短语动词）: 掉入"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-om2m0s4x45hp6xz23p1kan4a-4",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-om2m0s4x45hp6xz23p1kan4a-4",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "（与 fall 搭配）",
+    "audioText": "into",
+    "fullEnglish": "into",
+    "phonetic": "ˈɪntuː",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "into",
+        "answer": "into",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 throw 搭配）",
+        "phonetic": "ˈɪntuː",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "into"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "into",
+        "phonetic": "ˈɪntuː",
+        "pos": "ADP",
+        "zh": "（与 throw 搭配）",
+        "componentZh": "（与 throw 搭配）"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-om2m0s4x45hp6xz23p1kan4a-5",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-om2m0s4x45hp6xz23p1kan4a-5",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "the",
+    "fullEnglish": "the",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "the"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-om2m0s4x45hp6xz23p1kan4a-6",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-om2m0s4x45hp6xz23p1kan4a-6",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "水",
+    "audioText": "water",
+    "fullEnglish": "water",
+    "phonetic": "ˈwɔːtər",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "water",
+        "answer": "water",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "水",
+        "phonetic": "ˈwɔːtər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "water"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "water",
+        "phonetic": "ˈwɔːtər",
+        "pos": "NOUN",
+        "zh": "水",
+        "componentZh": "水"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-S-r7lfqt3dsi1l9tmd52lf1hkn",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-S-r7lfqt3dsi1l9tmd52lf1hkn",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "为什么？",
+    "audioText": "Why?",
+    "fullEnglish": "Why?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Why",
+        "answer": "Why",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "为什么",
+        "phonetic": "waɪ",
+        "pos": "ADV"
+      },
+      {
+        "index": 1,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "为什么？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Why"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Why",
+        "role": "中心成分",
+        "zh": "为什么"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Why",
+        "phonetic": "waɪ",
+        "pos": "ADV",
+        "zh": "为什么",
+        "componentRole": "中心成分",
+        "componentZh": "为什么"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-r7lfqt3dsi1l9tmd52lf1hkn-1",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-r7lfqt3dsi1l9tmd52lf1hkn-1",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "为什么",
+    "audioText": "Why",
+    "fullEnglish": "Why",
+    "phonetic": "waɪ",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Why",
+        "answer": "Why",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为什么",
+        "phonetic": "waɪ",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "Why"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Why",
+        "phonetic": "waɪ",
+        "pos": "ADV",
+        "zh": "为什么",
+        "componentZh": "为什么"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-S-c1ycibf7228a7i7b29perxi8",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-S-c1ycibf7228a7i7b29perxi8",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "天气渐渐暖和起来了。",
+    "audioText": "It's getting warm",
+    "fullEnglish": "It's getting warm",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "getting",
+        "answer": "getting",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "get（现在分词）: 变得",
+        "phonetic": "ˈɡetɪŋ",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "warm",
+        "answer": "warm",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心成分",
+        "zh": "温暖的",
+        "phonetic": "wɔːrm",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "warm",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "温暖的"
+      }
+    ],
+    "shuffledBlocks": [
+      "getting",
+      "It's",
+      "warm"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 助动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "getting",
+        "role": "谓语",
+        "zh": "get（现在分词）: 变得"
+      },
+      {
+        "id": "ud-3",
+        "text": "warm",
+        "role": "宾语补足语",
+        "zh": "温暖的",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "warm",
+            "role": "中心成分",
+            "zh": "温暖的"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "getting",
+        "phonetic": "ˈɡetɪŋ",
+        "pos": "VERB",
+        "zh": "get（现在分词）: 变得",
+        "componentRole": "谓语",
+        "componentZh": "get（现在分词）: 变得"
+      },
+      "2": {
+        "text": "warm",
+        "phonetic": "wɔːrm",
+        "pos": "ADJ",
+        "zh": "温暖的",
+        "componentRole": "中心成分",
+        "componentZh": "温暖的",
+        "parentComponentText": "warm",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "温暖的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-c1ycibf7228a7i7b29perxi8-2",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-c1ycibf7228a7i7b29perxi8-2",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "get（现在分词）: 变得",
+    "audioText": "getting",
+    "fullEnglish": "getting",
+    "phonetic": "ˈɡetɪŋ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "getting",
+        "answer": "getting",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "get（现在分词）: 变得",
+        "phonetic": "ˈɡetɪŋ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "getting"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "getting",
+        "phonetic": "ˈɡetɪŋ",
+        "pos": "VERB",
+        "zh": "get（现在分词）: 变得",
+        "componentZh": "get（现在分词）: 变得"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-c1ycibf7228a7i7b29perxi8-3",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-c1ycibf7228a7i7b29perxi8-3",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "温暖的",
+    "audioText": "warm",
+    "fullEnglish": "warm",
+    "phonetic": "wɔːrm",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "warm",
+        "answer": "warm",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "温暖的",
+        "phonetic": "wɔːrm",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "warm"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "warm",
+        "phonetic": "wɔːrm",
+        "pos": "ADJ",
+        "zh": "温暖的",
+        "componentZh": "温暖的"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-S-xmwkkj9d5imlmkb86o70tjeh",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-S-xmwkkj9d5imlmkb86o70tjeh",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "冰层不够厚。",
+    "audioText": "The ice is not thick enough",
+    "fullEnglish": "The ice is not thick enough",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "The",
+        "answer": "The",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "The ice",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；冰"
+      },
+      {
+        "index": 1,
+        "text": "ice",
+        "answer": "ice",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "冰",
+        "phonetic": "aɪs",
+        "pos": "NOUN",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "The ice",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；冰"
+      },
+      {
+        "index": 2,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "系动词",
+        "zh": "be（现在时第三人称单数）: 是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 3,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "方式/程度状语",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART"
+      },
+      {
+        "index": 4,
+        "text": "thick",
+        "answer": "thick",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "表语",
+        "zh": "厚的",
+        "phonetic": "θɪk",
+        "pos": "ADJ"
+      },
+      {
+        "index": 5,
+        "text": "enough",
+        "answer": "enough",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "方式/程度状语",
+        "zh": "足够",
+        "phonetic": "ɪˈnʌf",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "is",
+      "enough",
+      "thick",
+      "ice",
+      "The",
+      "not"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "The ice",
+        "role": "主语",
+        "zh": "定冠词；冰",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "The",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-3",
+            "text": "ice",
+            "role": "中心词",
+            "zh": "冰"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "is",
+        "role": "系动词",
+        "zh": "be（现在时第三人称单数）: 是"
+      },
+      {
+        "id": "ud-5",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-6",
+        "text": "thick",
+        "role": "表语",
+        "zh": "厚的"
+      },
+      {
+        "id": "ud-7",
+        "text": "enough",
+        "role": "方式/程度状语",
+        "zh": "足够"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "The",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "The ice",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；冰"
+      },
+      "1": {
+        "text": "ice",
+        "phonetic": "aɪs",
+        "pos": "NOUN",
+        "zh": "冰",
+        "componentRole": "中心词",
+        "componentZh": "冰",
+        "parentComponentText": "The ice",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；冰"
+      },
+      "2": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "be（现在时第三人称单数）: 是",
+        "componentRole": "系动词",
+        "componentZh": "be（现在时第三人称单数）: 是"
+      },
+      "3": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentRole": "方式/程度状语",
+        "componentZh": "不"
+      },
+      "4": {
+        "text": "thick",
+        "phonetic": "θɪk",
+        "pos": "ADJ",
+        "zh": "厚的",
+        "componentRole": "表语",
+        "componentZh": "厚的"
+      },
+      "5": {
+        "text": "enough",
+        "phonetic": "ɪˈnʌf",
+        "pos": "ADV",
+        "zh": "足够",
+        "componentRole": "方式/程度状语",
+        "componentZh": "足够"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-xmwkkj9d5imlmkb86o70tjeh-2",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-xmwkkj9d5imlmkb86o70tjeh-2",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "冰",
+    "audioText": "ice",
+    "fullEnglish": "ice",
+    "phonetic": "aɪs",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "ice",
+        "answer": "ice",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "冰",
+        "phonetic": "aɪs",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "ice"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "ice",
+        "phonetic": "aɪs",
+        "pos": "NOUN",
+        "zh": "冰",
+        "componentZh": "冰"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-xmwkkj9d5imlmkb86o70tjeh-3",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-xmwkkj9d5imlmkb86o70tjeh-3",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "be（现在时）: 是",
+    "audioText": "is",
+    "fullEnglish": "is",
+    "phonetic": "ɪz",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "be（现在时第三人称单数）: 是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "is"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "be（现在时第三人称单数）: 是",
+        "componentZh": "be（现在时第三人称单数）: 是"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-xmwkkj9d5imlmkb86o70tjeh-5",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-xmwkkj9d5imlmkb86o70tjeh-5",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "厚的",
+    "audioText": "thick",
+    "fullEnglish": "thick",
+    "phonetic": "θɪk",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "thick",
+        "answer": "thick",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "厚的",
+        "phonetic": "θɪk",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "thick"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "thick",
+        "phonetic": "θɪk",
+        "pos": "ADJ",
+        "zh": "厚的",
+        "componentZh": "厚的"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-xmwkkj9d5imlmkb86o70tjeh-6",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-xmwkkj9d5imlmkb86o70tjeh-6",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "足够",
+    "audioText": "enough",
+    "fullEnglish": "enough",
+    "phonetic": "ɪˈnʌf",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "enough",
+        "answer": "enough",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "足够",
+        "phonetic": "ɪˈnʌf",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "enough"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "enough",
+        "phonetic": "ɪˈnʌf",
+        "pos": "ADV",
+        "zh": "足够",
+        "componentZh": "足够"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-S-ntkmp47jfwcafn5o0p194ega",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-S-ntkmp47jfwcafn5o0p194ega",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "没错。注意安全，Kate。",
+    "audioText": "That's right. Watch out for your safety, Kate",
+    "fullEnglish": "That's right. Watch out for your safety, Kate",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "That's",
+        "answer": "That's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "那是",
+        "phonetic": "ðæts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "right",
+        "answer": "right",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "正确的",
+        "phonetic": "raɪt",
+        "pos": "ADJ"
+      },
+      {
+        "index": 2,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "没错。注意安全，Kate。"
+      },
+      {
+        "index": 3,
+        "text": "Watch",
+        "answer": "Watch",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "watch（短语动词）: 注意",
+        "phonetic": "wɑːtʃ",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "Watch out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "watch（短语动词）: 注意；（与 come 搭配）"
+      },
+      {
+        "index": 4,
+        "text": "out",
+        "answer": "out",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "定语（名词修饰）",
+        "zh": "（与 come 搭配）",
+        "phonetic": "aʊt",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "Watch out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "watch（短语动词）: 注意；（与 come 搭配）"
+      },
+      {
+        "index": 5,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "介词",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "for your safety Kate",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "为了；你的；安全；Kate"
+      },
+      {
+        "index": 6,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "限定词",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "your safety Kate",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你的；安全；Kate"
+      },
+      {
+        "index": 7,
+        "text": "safety",
+        "answer": "safety",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "中心词",
+        "zh": "安全",
+        "phonetic": "ˈseɪfti",
+        "pos": "NOUN",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "your safety Kate",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你的；安全；Kate"
+      },
+      {
+        "index": 8,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "没错。注意安全，Kate。"
+      },
+      {
+        "index": 9,
+        "text": "Kate",
+        "answer": "Kate",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "修饰语",
+        "zh": "Kate",
+        "phonetic": "keɪt",
+        "pos": "PROPN_PERSON",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "your safety Kate",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你的；安全；Kate"
+      }
+    ],
+    "shuffledBlocks": [
+      "Watch",
+      "for",
+      "That's",
+      "Kate",
+      "safety",
+      "out",
+      "your",
+      "right"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "That's",
+        "role": "主语 + 系动词",
+        "zh": "那是"
+      },
+      {
+        "id": "ud-2",
+        "text": "right",
+        "role": "表语",
+        "zh": "正确的"
+      },
+      {
+        "id": "ud-3",
+        "text": "Watch out",
+        "role": "谓语",
+        "zh": "watch（短语动词）: 注意；（与 come 搭配）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "Watch",
+            "role": "中心词",
+            "zh": "watch（短语动词）: 注意"
+          },
+          {
+            "id": "ud-5",
+            "text": "out",
+            "role": "定语（名词修饰）",
+            "zh": "（与 come 搭配）"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "for your safety Kate",
+        "role": "介词短语/状语",
+        "zh": "为了；你的；安全；Kate",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "for",
+            "role": "介词",
+            "zh": "为了"
+          },
+          {
+            "id": "ud-8",
+            "text": "your safety Kate",
+            "role": "介词宾语",
+            "zh": "你的；安全；Kate",
+            "children": [
+              {
+                "id": "ud-9",
+                "text": "your",
+                "role": "限定词",
+                "zh": "你的"
+              },
+              {
+                "id": "ud-10",
+                "text": "safety",
+                "role": "中心词",
+                "zh": "安全"
+              },
+              {
+                "id": "ud-11",
+                "text": "Kate",
+                "role": "修饰语",
+                "zh": "Kate"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "That's",
+        "phonetic": "ðæts",
+        "pos": "PRON",
+        "zh": "那是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "那是"
+      },
+      "1": {
+        "text": "right",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "zh": "正确的",
+        "componentRole": "表语",
+        "componentZh": "正确的"
+      },
+      "3": {
+        "text": "Watch",
+        "phonetic": "wɑːtʃ",
+        "pos": "VERB",
+        "zh": "watch（短语动词）: 注意",
+        "componentRole": "中心词",
+        "componentZh": "watch（短语动词）: 注意",
+        "parentComponentText": "Watch out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "watch（短语动词）: 注意；（与 come 搭配）"
+      },
+      "4": {
+        "text": "out",
+        "phonetic": "aʊt",
+        "pos": "ADP",
+        "zh": "（与 come 搭配）",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "（与 come 搭配）",
+        "parentComponentText": "Watch out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "watch（短语动词）: 注意；（与 come 搭配）"
+      },
+      "5": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentRole": "介词",
+        "componentZh": "为了",
+        "parentComponentText": "for your safety Kate",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "为了；你的；安全；Kate"
+      },
+      "6": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentRole": "限定词",
+        "componentZh": "你的",
+        "parentComponentText": "your safety Kate",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你的；安全；Kate"
+      },
+      "7": {
+        "text": "safety",
+        "phonetic": "ˈseɪfti",
+        "pos": "NOUN",
+        "zh": "安全",
+        "componentRole": "中心词",
+        "componentZh": "安全",
+        "parentComponentText": "your safety Kate",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你的；安全；Kate"
+      },
+      "9": {
+        "text": "Kate",
+        "phonetic": "keɪt",
+        "pos": "PROPN_PERSON",
+        "zh": "Kate",
+        "componentRole": "修饰语",
+        "componentZh": "Kate",
+        "parentComponentText": "your safety Kate",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你的；安全；Kate"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-ntkmp47jfwcafn5o0p194ega-1",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-ntkmp47jfwcafn5o0p194ega-1",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那是",
+    "audioText": "That's",
+    "fullEnglish": "That's",
+    "phonetic": "ðæts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "That's",
+        "answer": "That's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "那是",
+        "phonetic": "ðæts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "That's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "That's",
+        "phonetic": "ðæts",
+        "pos": "PRON",
+        "zh": "那是",
+        "componentZh": "那是"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-ntkmp47jfwcafn5o0p194ega-2",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-ntkmp47jfwcafn5o0p194ega-2",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "正确的",
+    "audioText": "right",
+    "fullEnglish": "right",
+    "phonetic": "raɪt",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "right",
+        "answer": "right",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "正确的",
+        "phonetic": "raɪt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "right"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "right",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "zh": "正确的",
+        "componentZh": "正确的"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-ntkmp47jfwcafn5o0p194ega-3",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-ntkmp47jfwcafn5o0p194ega-3",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "watch（短语动词）: 注意",
+    "audioText": "Watch",
+    "fullEnglish": "Watch",
+    "phonetic": "wɑːtʃ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Watch",
+        "answer": "Watch",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "watch（短语动词）: 注意",
+        "phonetic": "wɑːtʃ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Watch"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Watch",
+        "phonetic": "wɑːtʃ",
+        "pos": "VERB",
+        "zh": "watch（短语动词）: 注意",
+        "componentZh": "watch（短语动词）: 注意"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-ntkmp47jfwcafn5o0p194ega-4",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-ntkmp47jfwcafn5o0p194ega-4",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "（与 watch 搭配）",
+    "audioText": "out",
+    "fullEnglish": "out",
+    "phonetic": "aʊt",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "out",
+        "answer": "out",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 come 搭配）",
+        "phonetic": "aʊt",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "out"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "out",
+        "phonetic": "aʊt",
+        "pos": "ADP",
+        "zh": "（与 come 搭配）",
+        "componentZh": "（与 come 搭配）"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-ntkmp47jfwcafn5o0p194ega-5",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-ntkmp47jfwcafn5o0p194ega-5",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "为了",
+    "audioText": "for",
+    "fullEnglish": "for",
+    "phonetic": "fɔːr; fər",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "for"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentZh": "为了"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-ntkmp47jfwcafn5o0p194ega-6",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-ntkmp47jfwcafn5o0p194ega-6",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你的",
+    "audioText": "your",
+    "fullEnglish": "your",
+    "phonetic": "jʊr; jər",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "your"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentZh": "你的"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-ntkmp47jfwcafn5o0p194ega-7",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-ntkmp47jfwcafn5o0p194ega-7",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "安全",
+    "audioText": "safety",
+    "fullEnglish": "safety",
+    "phonetic": "ˈseɪfti",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "safety",
+        "answer": "safety",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "安全",
+        "phonetic": "ˈseɪfti",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "safety"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "safety",
+        "phonetic": "ˈseɪfti",
+        "pos": "NOUN",
+        "zh": "安全",
+        "componentZh": "安全"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-ntkmp47jfwcafn5o0p194ega-8",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-ntkmp47jfwcafn5o0p194ega-8",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Kate",
+    "audioText": "Kate",
+    "fullEnglish": "Kate",
+    "phonetic": "keɪt",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Kate",
+        "answer": "Kate",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "Kate",
+        "phonetic": "keɪt",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Kate"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Kate",
+        "phonetic": "keɪt",
+        "pos": "PROPN_PERSON",
+        "zh": "Kate",
+        "componentZh": "Kate"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-S-u1u4bccea0yaonua6t7n9olp",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-S-u1u4bccea0yaonua6t7n9olp",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在薄冰上滑冰很危险。",
+    "audioText": "It's dangerous to skate on thin ice",
+    "fullEnglish": "It's dangerous to skate on thin ice",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "引导词/形式主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "dangerous",
+        "answer": "dangerous",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "危险的",
+        "phonetic": "ˈdeɪndʒərəs",
+        "pos": "ADJ"
+      },
+      {
+        "index": 2,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "修饰语",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to skate on thin ice",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；滑冰；在；薄的；冰"
+      },
+      {
+        "index": 3,
+        "text": "skate",
+        "answer": "skate",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "滑冰",
+        "phonetic": "skeɪt",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to skate on thin ice",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；滑冰；在；薄的；冰"
+      },
+      {
+        "index": 4,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "介词",
+        "zh": "在",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to skate on thin ice",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；滑冰；在；薄的；冰"
+      },
+      {
+        "index": 5,
+        "text": "thin",
+        "answer": "thin",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "定语（形容词）",
+        "zh": "薄的",
+        "phonetic": "θɪn",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to skate on thin ice",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；滑冰；在；薄的；冰"
+      },
+      {
+        "index": 6,
+        "text": "ice",
+        "answer": "ice",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "修饰语",
+        "zh": "冰",
+        "phonetic": "aɪs",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to skate on thin ice",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；滑冰；在；薄的；冰"
+      }
+    ],
+    "shuffledBlocks": [
+      "skate",
+      "thin",
+      "dangerous",
+      "to",
+      "It's",
+      "ice",
+      "on"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "引导词/形式主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "dangerous",
+        "role": "表语",
+        "zh": "危险的"
+      },
+      {
+        "id": "ud-3",
+        "text": "to skate on thin ice",
+        "role": "主语从句",
+        "zh": "引导不定式；滑冰；在；薄的；冰",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "to",
+            "role": "修饰语",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-5",
+            "text": "skate",
+            "role": "中心词",
+            "zh": "滑冰"
+          },
+          {
+            "id": "ud-6",
+            "text": "on",
+            "role": "介词",
+            "zh": "在"
+          },
+          {
+            "id": "ud-7",
+            "text": "thin",
+            "role": "定语（形容词）",
+            "zh": "薄的"
+          },
+          {
+            "id": "ud-8",
+            "text": "ice",
+            "role": "修饰语",
+            "zh": "冰"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "引导词/形式主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "dangerous",
+        "phonetic": "ˈdeɪndʒərəs",
+        "pos": "ADJ",
+        "zh": "危险的",
+        "componentRole": "表语",
+        "componentZh": "危险的"
+      },
+      "2": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentRole": "修饰语",
+        "componentZh": "引导不定式",
+        "parentComponentText": "to skate on thin ice",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；滑冰；在；薄的；冰"
+      },
+      "3": {
+        "text": "skate",
+        "phonetic": "skeɪt",
+        "pos": "VERB",
+        "zh": "滑冰",
+        "componentRole": "中心词",
+        "componentZh": "滑冰",
+        "parentComponentText": "to skate on thin ice",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；滑冰；在；薄的；冰"
+      },
+      "4": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在",
+        "componentRole": "介词",
+        "componentZh": "在",
+        "parentComponentText": "to skate on thin ice",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；滑冰；在；薄的；冰"
+      },
+      "5": {
+        "text": "thin",
+        "phonetic": "θɪn",
+        "pos": "ADJ",
+        "zh": "薄的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "薄的",
+        "parentComponentText": "to skate on thin ice",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；滑冰；在；薄的；冰"
+      },
+      "6": {
+        "text": "ice",
+        "phonetic": "aɪs",
+        "pos": "NOUN",
+        "zh": "冰",
+        "componentRole": "修饰语",
+        "componentZh": "冰",
+        "parentComponentText": "to skate on thin ice",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；滑冰；在；薄的；冰"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-u1u4bccea0yaonua6t7n9olp-3",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-u1u4bccea0yaonua6t7n9olp-3",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "引导不定式",
+    "audioText": "to",
+    "fullEnglish": "to",
+    "phonetic": "tuː; tə",
+    "pos": "PART",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART"
+      }
+    ],
+    "shuffledBlocks": [
+      "to"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-u1u4bccea0yaonua6t7n9olp-5",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-u1u4bccea0yaonua6t7n9olp-5",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在...上",
+    "audioText": "on",
+    "fullEnglish": "on",
+    "phonetic": "ɑːn",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在",
+        "phonetic": "ɑːn",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "on"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在",
+        "componentZh": "在"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-u1u4bccea0yaonua6t7n9olp-6",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-u1u4bccea0yaonua6t7n9olp-6",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "薄的",
+    "audioText": "thin",
+    "fullEnglish": "thin",
+    "phonetic": "θɪn",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "thin",
+        "answer": "thin",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "薄的",
+        "phonetic": "θɪn",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "thin"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "thin",
+        "phonetic": "θɪn",
+        "pos": "ADJ",
+        "zh": "薄的",
+        "componentZh": "薄的"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-S-ktn1javqxdcqqmmjqccj2ck9",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-S-ktn1javqxdcqqmmjqccj2ck9",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好的，我会的。",
+    "audioText": "All right, I will",
+    "fullEnglish": "All right, I will",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "All",
+        "answer": "All",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心词",
+        "zh": "所有",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "All right",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "所有；正确的"
+      },
+      {
+        "index": 1,
+        "text": "right",
+        "answer": "right",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "定语（形容词）",
+        "zh": "正确的",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "All right",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "所有；正确的"
+      },
+      {
+        "index": 2,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "好的，我会的。"
+      },
+      {
+        "index": 3,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 4,
+        "text": "will",
+        "answer": "will",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "谓语",
+        "zh": "将",
+        "phonetic": "wɪl",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "All",
+      "I",
+      "will",
+      "right"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "All right",
+        "role": "主语",
+        "zh": "所有；正确的",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "All",
+            "role": "中心词",
+            "zh": "所有"
+          },
+          {
+            "id": "ud-3",
+            "text": "right",
+            "role": "定语（形容词）",
+            "zh": "正确的"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-5",
+        "text": "will",
+        "role": "谓语",
+        "zh": "将"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "All",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "zh": "所有",
+        "componentRole": "中心词",
+        "componentZh": "所有",
+        "parentComponentText": "All right",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "所有；正确的"
+      },
+      "1": {
+        "text": "right",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "zh": "正确的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "正确的",
+        "parentComponentText": "All right",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "所有；正确的"
+      },
+      "3": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "4": {
+        "text": "will",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "zh": "将",
+        "componentRole": "谓语",
+        "componentZh": "将"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-ktn1javqxdcqqmmjqccj2ck9-1",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-ktn1javqxdcqqmmjqccj2ck9-1",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "所有",
+    "audioText": "All",
+    "fullEnglish": "All",
+    "phonetic": "ɔːl",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "All",
+        "answer": "All",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "所有",
+        "phonetic": "ɔːl",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "All"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "All",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "zh": "所有",
+        "componentZh": "所有"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-ktn1javqxdcqqmmjqccj2ck9-4",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-W-ktn1javqxdcqqmmjqccj2ck9-4",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "将",
+    "audioText": "will",
+    "fullEnglish": "will",
+    "phonetic": "wɪl",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "will",
+        "answer": "will",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "将",
+        "phonetic": "wɪl",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "will"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "will",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "zh": "将",
+        "componentZh": "将"
+      }
+    }
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-gabj7lq355rnnkzeq3451ppp",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-gabj7lq355rnnkzeq3451ppp",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我可以",
+    "audioText": "can I",
+    "fullEnglish": "can I",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      }
+    ],
+    "shuffledBlocks": [
+      "can",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "can",
+        "role": "谓语",
+        "zh": "能"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-xe5hdej6p7lmilht10eip9wy",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-xe5hdej6p7lmilht10eip9wy",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "今天下午",
+    "audioText": "this afternoon",
+    "fullEnglish": "this afternoon",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "afternoon",
+        "answer": "afternoon",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "下午",
+        "phonetic": "ˌæftərˈnuːn",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "afternoon",
+      "this"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "this",
+        "role": "补充成分",
+        "zh": "这个"
+      },
+      {
+        "id": "ud-2",
+        "text": "afternoon",
+        "role": "中心成分",
+        "zh": "下午"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentZh": "这个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "afternoon",
+        "phonetic": "ˌæftərˈnuːn",
+        "pos": "NOUN",
+        "zh": "下午",
+        "componentZh": "下午",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-hay9aeq2ocxdhdsasguq4erd",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-hay9aeq2ocxdhdsasguq4erd",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "恐怕不行",
+    "audioText": "afraid not",
+    "fullEnglish": "afraid not",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "afraid",
+        "answer": "afraid",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "害怕的",
+        "phonetic": "əˈfreɪd",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "afraid",
+      "not"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "afraid",
+        "role": "中心成分",
+        "zh": "害怕的"
+      },
+      {
+        "id": "ud-2",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "afraid",
+        "phonetic": "əˈfreɪd",
+        "pos": "ADJ",
+        "zh": "害怕的",
+        "componentZh": "害怕的",
+        "componentRole": "中心成分"
+      },
+      "1": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentZh": "不",
+        "componentRole": "方式/程度状语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-cpbqqmk4slodwfhju1n6nygu",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-cpbqqmk4slodwfhju1n6nygu",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "恐怕不行",
+    "audioText": "I'm afraid not",
+    "fullEnglish": "I'm afraid not",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "afraid",
+        "answer": "afraid",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "害怕的",
+        "phonetic": "əˈfreɪd",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "表语"
+      },
+      {
+        "index": 2,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "componentId": "ud-3",
+        "role": "方式/程度状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "afraid",
+      "not",
+      "I'm"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I'm",
+        "role": "主语 + 系动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "afraid",
+        "role": "表语",
+        "zh": "害怕的"
+      },
+      {
+        "id": "ud-3",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "afraid",
+        "phonetic": "əˈfreɪd",
+        "pos": "ADJ",
+        "zh": "害怕的",
+        "componentZh": "害怕的",
+        "componentRole": "表语"
+      },
+      "2": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentZh": "不",
+        "componentRole": "方式/程度状语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-kkk27vlbvk0fdwqhdvrsrmcs",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-kkk27vlbvk0fdwqhdvrsrmcs",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这很危险",
+    "audioText": "It's dangerous",
+    "fullEnglish": "It's dangerous",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "dangerous",
+        "answer": "dangerous",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "危险的",
+        "phonetic": "ˈdeɪndʒərəs",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's",
+      "dangerous"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "dangerous",
+        "role": "表语",
+        "zh": "危险的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "dangerous",
+        "phonetic": "ˈdeɪndʒərəs",
+        "pos": "ADJ",
+        "zh": "危险的",
+        "componentZh": "危险的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-rgq48k0slxmnfucthh6c62g1",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-rgq48k0slxmnfucthh6c62g1",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "可能会掉",
+    "audioText": "may fall",
+    "fullEnglish": "may fall",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "may",
+        "answer": "may",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "可能",
+        "phonetic": "meɪ",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "fall",
+        "answer": "fall",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "fall（短语动词）: 掉入",
+        "phonetic": "fɔl",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "fall",
+      "may"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "may",
+        "role": "助动词",
+        "zh": "可能"
+      },
+      {
+        "id": "ud-2",
+        "text": "fall",
+        "role": "谓语",
+        "zh": "fall（短语动词）: 掉入"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "may",
+        "phonetic": "meɪ",
+        "pos": "AUX",
+        "zh": "可能",
+        "componentZh": "可能",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "fall",
+        "phonetic": "fɔl",
+        "pos": "VERB",
+        "zh": "fall（短语动词）: 掉入",
+        "componentZh": "fall（短语动词）: 掉入",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-oeh21rv38os6s4r1j9y101gr",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-oeh21rv38os6s4r1j9y101gr",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "水里",
+    "audioText": "the water",
+    "fullEnglish": "the water",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "water",
+        "answer": "water",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "水",
+        "phonetic": "ˈwɔːtər",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "water"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "water",
+        "role": "中心成分",
+        "zh": "水"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "water",
+        "phonetic": "ˈwɔːtər",
+        "pos": "NOUN",
+        "zh": "水",
+        "componentZh": "水",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-v6tkr8jdcu6140mjyph5xajr",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-v6tkr8jdcu6140mjyph5xajr",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "冰",
+    "audioText": "The ice",
+    "fullEnglish": "The ice",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "The",
+        "answer": "The",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "ice",
+        "answer": "ice",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "冰",
+        "phonetic": "aɪs",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "ice",
+      "The"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "The",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "ice",
+        "role": "中心成分",
+        "zh": "冰"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "The",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "ice",
+        "phonetic": "aɪs",
+        "pos": "NOUN",
+        "zh": "冰",
+        "componentZh": "冰",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-u5m38rn6bavrcwv2hgosmof2",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-u5m38rn6bavrcwv2hgosmof2",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不",
+    "audioText": "is not",
+    "fullEnglish": "is not",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "be（现在时第三人称单数）: 是",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "not",
+      "is"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "is",
+        "role": "谓语",
+        "zh": "be（现在时第三人称单数）: 是"
+      },
+      {
+        "id": "ud-2",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "be（现在时第三人称单数）: 是",
+        "componentZh": "be（现在时第三人称单数）: 是",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentZh": "不",
+        "componentRole": "方式/程度状语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-k5lfxq81s7nnda2fx7oonv5a",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-k5lfxq81s7nnda2fx7oonv5a",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "足够厚",
+    "audioText": "thick enough",
+    "fullEnglish": "thick enough",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "thick",
+        "answer": "thick",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "厚的",
+        "phonetic": "θɪk",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": "enough",
+        "answer": "enough",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "足够",
+        "phonetic": "ɪˈnʌf",
+        "pos": "ADV",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "enough",
+      "thick"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "thick",
+        "role": "中心成分",
+        "zh": "厚的"
+      },
+      {
+        "id": "ud-2",
+        "text": "enough",
+        "role": "方式/程度状语",
+        "zh": "足够"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "thick",
+        "phonetic": "θɪk",
+        "pos": "ADJ",
+        "zh": "厚的",
+        "componentZh": "厚的",
+        "componentRole": "中心成分"
+      },
+      "1": {
+        "text": "enough",
+        "phonetic": "ɪˈnʌf",
+        "pos": "ADV",
+        "zh": "足够",
+        "componentZh": "足够",
+        "componentRole": "方式/程度状语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-gao2bq6r7xxbijlsuo9mzc1c",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-gao2bq6r7xxbijlsuo9mzc1c",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "没错",
+    "audioText": "That's right",
+    "fullEnglish": "That's right",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "That's",
+        "answer": "That's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "那是",
+        "phonetic": "ðæts",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "right",
+        "answer": "right",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "正确的",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "right",
+      "That's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "That's",
+        "role": "主语 + 系动词",
+        "zh": "那是"
+      },
+      {
+        "id": "ud-2",
+        "text": "right",
+        "role": "表语",
+        "zh": "正确的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "That's",
+        "phonetic": "ðæts",
+        "pos": "PRON",
+        "zh": "那是",
+        "componentZh": "那是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "right",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "zh": "正确的",
+        "componentZh": "正确的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-jmuwyj6sd5032c2ezs4koyzb",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-jmuwyj6sd5032c2ezs4koyzb",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "注意",
+    "audioText": "Watch out for",
+    "fullEnglish": "Watch out for",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Watch",
+        "answer": "Watch",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "watch（短语动词）: 注意",
+        "phonetic": "wɑːtʃ",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "中心词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "Watch out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "watch（短语动词）: 注意；（与 come 搭配）"
+      },
+      {
+        "index": 1,
+        "text": "out",
+        "answer": "out",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 come 搭配）",
+        "phonetic": "aʊt",
+        "pos": "ADP",
+        "componentId": "ud-3",
+        "role": "定语（名词修饰）",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "Watch out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "watch（短语动词）: 注意；（与 come 搭配）"
+      },
+      {
+        "index": 2,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "componentId": "ud-4",
+        "role": "状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "out",
+      "Watch",
+      "for"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Watch out",
+        "role": "谓语",
+        "zh": "watch（短语动词）: 注意；（与 come 搭配）",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "Watch",
+            "role": "中心词",
+            "zh": "watch（短语动词）: 注意"
+          },
+          {
+            "id": "ud-3",
+            "text": "out",
+            "role": "定语（名词修饰）",
+            "zh": "（与 come 搭配）"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "for",
+        "role": "状语",
+        "zh": "为了"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Watch",
+        "phonetic": "wɑːtʃ",
+        "pos": "VERB",
+        "zh": "watch（短语动词）: 注意",
+        "componentZh": "watch（短语动词）: 注意",
+        "componentRole": "中心词",
+        "parentComponentText": "Watch out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "watch（短语动词）: 注意；（与 come 搭配）"
+      },
+      "1": {
+        "text": "out",
+        "phonetic": "aʊt",
+        "pos": "ADP",
+        "zh": "（与 come 搭配）",
+        "componentZh": "（与 come 搭配）",
+        "componentRole": "定语（名词修饰）",
+        "parentComponentText": "Watch out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "watch（短语动词）: 注意；（与 come 搭配）"
+      },
+      "2": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentZh": "为了",
+        "componentRole": "状语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-vt4xqxvw8is1iuqbnh1lq9xa",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-vt4xqxvw8is1iuqbnh1lq9xa",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你的安全",
+    "audioText": "your safety",
+    "fullEnglish": "your safety",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "safety",
+        "answer": "safety",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "安全",
+        "phonetic": "ˈseɪfti",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "safety",
+      "your"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "your",
+        "role": "补充成分",
+        "zh": "你的"
+      },
+      {
+        "id": "ud-2",
+        "text": "safety",
+        "role": "中心成分",
+        "zh": "安全"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentZh": "你的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "safety",
+        "phonetic": "ˈseɪfti",
+        "pos": "NOUN",
+        "zh": "安全",
+        "componentZh": "安全",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-wwfaty2n7d4a639oezxf2k6t",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-wwfaty2n7d4a639oezxf2k6t",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "注意安全，Kate",
+    "audioText": "Watch out for your safety, Kate",
+    "fullEnglish": "Watch out for your safety, Kate",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Watch",
+        "answer": "Watch",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "watch（短语动词）: 注意",
+        "phonetic": "wɑːtʃ",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "中心词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "Watch out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "watch（短语动词）: 注意；（与 come 搭配）"
+      },
+      {
+        "index": 1,
+        "text": "out",
+        "answer": "out",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 come 搭配）",
+        "phonetic": "aʊt",
+        "pos": "ADP",
+        "componentId": "ud-3",
+        "role": "定语（名词修饰）",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "Watch out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "watch（短语动词）: 注意；（与 come 搭配）"
+      },
+      {
+        "index": 2,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "componentId": "ud-5",
+        "role": "介词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "for your safety Kate",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "为了；你的；安全；Kate"
+      },
+      {
+        "index": 3,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "componentId": "ud-7",
+        "role": "限定词",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "your safety Kate",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你的；安全；Kate"
+      },
+      {
+        "index": 4,
+        "text": "safety",
+        "answer": "safety",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "安全",
+        "phonetic": "ˈseɪfti",
+        "pos": "NOUN",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "your safety Kate",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你的；安全；Kate"
+      },
+      {
+        "index": 5,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "注意安全，Kate"
+      },
+      {
+        "index": 6,
+        "text": "Kate",
+        "answer": "Kate",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "Kate",
+        "phonetic": "keɪt",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-9",
+        "role": "修饰语",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "your safety Kate",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你的；安全；Kate"
+      }
+    ],
+    "shuffledBlocks": [
+      "Watch",
+      "for",
+      "safety",
+      "your",
+      "Kate",
+      "out"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Watch out",
+        "role": "谓语",
+        "zh": "watch（短语动词）: 注意；（与 come 搭配）",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "Watch",
+            "role": "中心词",
+            "zh": "watch（短语动词）: 注意"
+          },
+          {
+            "id": "ud-3",
+            "text": "out",
+            "role": "定语（名词修饰）",
+            "zh": "（与 come 搭配）"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "for your safety Kate",
+        "role": "介词短语/状语",
+        "zh": "为了；你的；安全；Kate",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "for",
+            "role": "介词",
+            "zh": "为了"
+          },
+          {
+            "id": "ud-6",
+            "text": "your safety Kate",
+            "role": "介词宾语",
+            "zh": "你的；安全；Kate",
+            "children": [
+              {
+                "id": "ud-7",
+                "text": "your",
+                "role": "限定词",
+                "zh": "你的"
+              },
+              {
+                "id": "ud-8",
+                "text": "safety",
+                "role": "中心词",
+                "zh": "安全"
+              },
+              {
+                "id": "ud-9",
+                "text": "Kate",
+                "role": "修饰语",
+                "zh": "Kate"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Watch",
+        "phonetic": "wɑːtʃ",
+        "pos": "VERB",
+        "zh": "watch（短语动词）: 注意",
+        "componentZh": "watch（短语动词）: 注意",
+        "componentRole": "中心词",
+        "parentComponentText": "Watch out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "watch（短语动词）: 注意；（与 come 搭配）"
+      },
+      "1": {
+        "text": "out",
+        "phonetic": "aʊt",
+        "pos": "ADP",
+        "zh": "（与 come 搭配）",
+        "componentZh": "（与 come 搭配）",
+        "componentRole": "定语（名词修饰）",
+        "parentComponentText": "Watch out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "watch（短语动词）: 注意；（与 come 搭配）"
+      },
+      "2": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentZh": "为了",
+        "componentRole": "介词",
+        "parentComponentText": "for your safety Kate",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "为了；你的；安全；Kate"
+      },
+      "3": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentZh": "你的",
+        "componentRole": "限定词",
+        "parentComponentText": "your safety Kate",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你的；安全；Kate"
+      },
+      "4": {
+        "text": "safety",
+        "phonetic": "ˈseɪfti",
+        "pos": "NOUN",
+        "zh": "安全",
+        "componentZh": "安全",
+        "componentRole": "中心词",
+        "parentComponentText": "your safety Kate",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你的；安全；Kate"
+      },
+      "6": {
+        "text": "Kate",
+        "phonetic": "keɪt",
+        "pos": "PROPN_PERSON",
+        "zh": "Kate",
+        "componentZh": "Kate",
+        "componentRole": "修饰语",
+        "parentComponentText": "your safety Kate",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你的；安全；Kate"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-bnviy76ckba4np1c1aeyn4fz",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-bnviy76ckba4np1c1aeyn4fz",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在薄冰上滑冰",
+    "audioText": "to skate on thin ice",
+    "fullEnglish": "to skate on thin ice",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "componentId": "ud-1",
+        "role": "连接词"
+      },
+      {
+        "index": 1,
+        "text": "skate",
+        "answer": "skate",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "滑冰",
+        "phonetic": "skeɪt",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      },
+      {
+        "index": 2,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "componentId": "ud-4",
+        "role": "介词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on thin ice",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；薄的；冰"
+      },
+      {
+        "index": 3,
+        "text": "thin",
+        "answer": "thin",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "薄的",
+        "phonetic": "θɪn",
+        "pos": "ADJ",
+        "componentId": "ud-6",
+        "role": "定语（形容词）",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "thin ice",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "薄的；冰"
+      },
+      {
+        "index": 4,
+        "text": "ice",
+        "answer": "ice",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "冰",
+        "phonetic": "aɪs",
+        "pos": "NOUN",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "thin ice",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "薄的；冰"
+      }
+    ],
+    "shuffledBlocks": [
+      "to",
+      "on",
+      "thin",
+      "skate",
+      "ice"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "to",
+        "role": "连接词",
+        "zh": "引导不定式"
+      },
+      {
+        "id": "ud-2",
+        "text": "skate",
+        "role": "谓语",
+        "zh": "滑冰"
+      },
+      {
+        "id": "ud-3",
+        "text": "on thin ice",
+        "role": "地点状语",
+        "zh": "在；薄的；冰",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "on",
+            "role": "介词",
+            "zh": "在"
+          },
+          {
+            "id": "ud-5",
+            "text": "thin ice",
+            "role": "介词宾语",
+            "zh": "薄的；冰",
+            "children": [
+              {
+                "id": "ud-6",
+                "text": "thin",
+                "role": "定语（形容词）",
+                "zh": "薄的"
+              },
+              {
+                "id": "ud-7",
+                "text": "ice",
+                "role": "中心词",
+                "zh": "冰"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式",
+        "componentRole": "连接词"
+      },
+      "1": {
+        "text": "skate",
+        "phonetic": "skeɪt",
+        "pos": "VERB",
+        "zh": "滑冰",
+        "componentZh": "滑冰",
+        "componentRole": "谓语"
+      },
+      "2": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在",
+        "componentZh": "在",
+        "componentRole": "介词",
+        "parentComponentText": "on thin ice",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；薄的；冰"
+      },
+      "3": {
+        "text": "thin",
+        "phonetic": "θɪn",
+        "pos": "ADJ",
+        "zh": "薄的",
+        "componentZh": "薄的",
+        "componentRole": "定语（形容词）",
+        "parentComponentText": "thin ice",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "薄的；冰"
+      },
+      "4": {
+        "text": "ice",
+        "phonetic": "aɪs",
+        "pos": "NOUN",
+        "zh": "冰",
+        "componentZh": "冰",
+        "componentRole": "中心词",
+        "parentComponentText": "thin ice",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "薄的；冰"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-iggqjxqi4tx9hx4v0fcdrynf",
+    "contentId": "JLB-q1d7lzjeop8dphwif9uzwrsl-PHRASE-iggqjxqi4tx9hx4v0fcdrynf",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "q1d7lzjeop8dphwif9uzwrsl",
+    "unitTitle": "Unit 6  WHERE CAN I FLY THE KITE?-Lesson 20-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好的",
+    "audioText": "All right",
+    "fullEnglish": "All right",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "All",
+        "answer": "All",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "所有",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "right",
+        "answer": "right",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "正确的",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "All",
+      "right"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "All",
+        "role": "补充成分",
+        "zh": "所有"
+      },
+      {
+        "id": "ud-2",
+        "text": "right",
+        "role": "中心成分",
+        "zh": "正确的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "All",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "zh": "所有",
+        "componentZh": "所有",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "right",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "zh": "正确的",
+        "componentZh": "正确的",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

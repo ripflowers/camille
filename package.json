@@ -1,0 +1,32 @@
+{
+  "name": "enstudy-sentence-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5173",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 5174",
+    "import:excel": "tsx scripts/import-excel.ts",
+    "import:study-data": "tsx scripts/import-excel.ts /Users/ripflowers/Downloads/study_data",
+    "import:julebu": "tsx scripts/import-julebu-course-pack.ts fqg57vkritz89iaeb1ofbfne",
+    "import:julebu:even": "tsx scripts/import-julebu-course-pack.ts yqqt0uygfog158mpu5v08050",
+    "import:online:new": "tsx scripts/import-julebu-course-pack.ts d2g62c40u03cdjj5gfqngk6t",
+    "split:legacy-data": "tsx scripts/split-legacy-runtime-data.ts",
+    "merge:beijing-units": "tsx scripts/merge-beijing-units.ts",
+    "repair:data": "tsx scripts/repair-learning-data.ts --all",
+    "setup:nlp": "uv venv .venv-nlp --python python3.9 && uv pip install --python .venv-nlp/bin/python -r requirements-nlp.txt && .venv-nlp/bin/python scripts/setup-nlp.py",
+    "analyze:data": ".venv-nlp/bin/python scripts/enhance-sentence-analysis.py",
+    "audit:data": "tsx scripts/audit-learning-data.ts",
+    "test": "tsx tests/learning-runtime.test.ts"
+  },
+  "dependencies": {
+    "vite": "^7.0.3",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.10",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  }
+}

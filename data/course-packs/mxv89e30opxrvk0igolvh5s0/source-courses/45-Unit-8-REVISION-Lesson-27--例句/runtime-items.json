@@ -1,0 +1,1454 @@
+[
+  {
+    "id": "JLB-k7z34gfbchx2o5t1af58dvss-S-nnp47cdvh5d12c8envcl2uln",
+    "contentId": "JLB-k7z34gfbchx2o5t1af58dvss-S-nnp47cdvh5d12c8envcl2uln",
+    "type": "sentence",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "k7z34gfbchx2o5t1af58dvss",
+    "unitTitle": "Unit 8  REVISION-Lesson 27-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "美式橄榄球非常受欢迎。",
+    "audioText": "American football is very popular",
+    "fullEnglish": "American football is very popular",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "American",
+        "answer": "American",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "定语（形容词）",
+        "zh": "美国的",
+        "phonetic": "əˈmerɪkən",
+        "pos": "ADJ",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "American football",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "美国的；橄榄球"
+      },
+      {
+        "index": 1,
+        "text": "football",
+        "answer": "football",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "橄榄球",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "American football",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "美国的；橄榄球"
+      },
+      {
+        "index": 2,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 3,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "方式/程度状语",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV"
+      },
+      {
+        "index": 4,
+        "text": "popular",
+        "answer": "popular",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "表语",
+        "zh": "受欢迎的",
+        "phonetic": "ˈpɑːpjələr",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "football",
+      "popular",
+      "very",
+      "American",
+      "is"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "American football",
+        "role": "主语",
+        "zh": "美国的；橄榄球",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "American",
+            "role": "定语（形容词）",
+            "zh": "美国的"
+          },
+          {
+            "id": "ud-3",
+            "text": "football",
+            "role": "中心词",
+            "zh": "橄榄球"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-5",
+        "text": "very",
+        "role": "方式/程度状语",
+        "zh": "非常"
+      },
+      {
+        "id": "ud-6",
+        "text": "popular",
+        "role": "表语",
+        "zh": "受欢迎的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "American",
+        "phonetic": "əˈmerɪkən",
+        "pos": "ADJ",
+        "zh": "美国的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "美国的",
+        "parentComponentText": "American football",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "美国的；橄榄球"
+      },
+      "1": {
+        "text": "football",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN",
+        "zh": "橄榄球",
+        "componentRole": "中心词",
+        "componentZh": "橄榄球",
+        "parentComponentText": "American football",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "美国的；橄榄球"
+      },
+      "2": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "3": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentRole": "方式/程度状语",
+        "componentZh": "非常"
+      },
+      "4": {
+        "text": "popular",
+        "phonetic": "ˈpɑːpjələr",
+        "pos": "ADJ",
+        "zh": "受欢迎的",
+        "componentRole": "表语",
+        "componentZh": "受欢迎的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-k7z34gfbchx2o5t1af58dvss-W-nnp47cdvh5d12c8envcl2uln-1",
+    "contentId": "JLB-k7z34gfbchx2o5t1af58dvss-W-nnp47cdvh5d12c8envcl2uln-1",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "k7z34gfbchx2o5t1af58dvss",
+    "unitTitle": "Unit 8  REVISION-Lesson 27-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "美国的",
+    "audioText": "American",
+    "fullEnglish": "American",
+    "phonetic": "əˈmerɪkən",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "American",
+        "answer": "American",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "美国的",
+        "phonetic": "əˈmerɪkən",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "American"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "American",
+        "phonetic": "əˈmerɪkən",
+        "pos": "ADJ",
+        "zh": "美国的",
+        "componentZh": "美国的"
+      }
+    }
+  },
+  {
+    "id": "JLB-k7z34gfbchx2o5t1af58dvss-W-nnp47cdvh5d12c8envcl2uln-2",
+    "contentId": "JLB-k7z34gfbchx2o5t1af58dvss-W-nnp47cdvh5d12c8envcl2uln-2",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "k7z34gfbchx2o5t1af58dvss",
+    "unitTitle": "Unit 8  REVISION-Lesson 27-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "橄榄球",
+    "audioText": "football",
+    "fullEnglish": "football",
+    "phonetic": "ˈfʊtbɔːl",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "football",
+        "answer": "football",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "橄榄球",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "football"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "football",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN",
+        "zh": "橄榄球",
+        "componentZh": "橄榄球"
+      }
+    }
+  },
+  {
+    "id": "JLB-k7z34gfbchx2o5t1af58dvss-W-nnp47cdvh5d12c8envcl2uln-3",
+    "contentId": "JLB-k7z34gfbchx2o5t1af58dvss-W-nnp47cdvh5d12c8envcl2uln-3",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "k7z34gfbchx2o5t1af58dvss",
+    "unitTitle": "Unit 8  REVISION-Lesson 27-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "is",
+    "fullEnglish": "is",
+    "phonetic": "ɪz",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "is"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是"
+      }
+    }
+  },
+  {
+    "id": "JLB-k7z34gfbchx2o5t1af58dvss-W-nnp47cdvh5d12c8envcl2uln-4",
+    "contentId": "JLB-k7z34gfbchx2o5t1af58dvss-W-nnp47cdvh5d12c8envcl2uln-4",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "k7z34gfbchx2o5t1af58dvss",
+    "unitTitle": "Unit 8  REVISION-Lesson 27-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "非常",
+    "audioText": "very",
+    "fullEnglish": "very",
+    "phonetic": "ˈveri",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "very"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentZh": "非常"
+      }
+    }
+  },
+  {
+    "id": "JLB-k7z34gfbchx2o5t1af58dvss-W-nnp47cdvh5d12c8envcl2uln-5",
+    "contentId": "JLB-k7z34gfbchx2o5t1af58dvss-W-nnp47cdvh5d12c8envcl2uln-5",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "k7z34gfbchx2o5t1af58dvss",
+    "unitTitle": "Unit 8  REVISION-Lesson 27-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "受欢迎的",
+    "audioText": "popular",
+    "fullEnglish": "popular",
+    "phonetic": "ˈpɑːpjələr",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "popular",
+        "answer": "popular",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "受欢迎的",
+        "phonetic": "ˈpɑːpjələr",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "popular"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "popular",
+        "phonetic": "ˈpɑːpjələr",
+        "pos": "ADJ",
+        "zh": "受欢迎的",
+        "componentZh": "受欢迎的"
+      }
+    }
+  },
+  {
+    "id": "JLB-k7z34gfbchx2o5t1af58dvss-S-k9csem4hs9uzwji071joi8qa",
+    "contentId": "JLB-k7z34gfbchx2o5t1af58dvss-S-k9csem4hs9uzwji071joi8qa",
+    "type": "sentence",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "k7z34gfbchx2o5t1af58dvss",
+    "unitTitle": "Unit 8  REVISION-Lesson 27-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "London是英国的首都。",
+    "audioText": "London is the capital city of the U. K",
+    "fullEnglish": "London is the capital city of the U. K",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "London",
+        "answer": "London",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "伦敦",
+        "phonetic": "ˈlʌndən",
+        "pos": "PROPN"
+      },
+      {
+        "index": 1,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "补充成分",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      },
+      {
+        "index": 3,
+        "text": "capital",
+        "answer": "capital",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "补充成分",
+        "zh": "首都",
+        "phonetic": "ˈkæpɪt(ə)l",
+        "pos": "NOUN"
+      },
+      {
+        "index": 4,
+        "text": "city",
+        "answer": "city",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "城市",
+        "phonetic": "ˈsɪti",
+        "pos": "NOUN"
+      },
+      {
+        "index": 5,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "介词",
+        "zh": "的",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "of the U K",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "的；定冠词；英国"
+      },
+      {
+        "index": 6,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "of the U K",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "的；定冠词；英国"
+      },
+      {
+        "index": 7,
+        "text": "U",
+        "answer": "U",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "定语（名词修饰）",
+        "zh": "英国",
+        "phonetic": "juː",
+        "pos": "PROPN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "of the U K",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "的；定冠词；英国"
+      },
+      {
+        "index": 8,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "London是英国的首都。"
+      },
+      {
+        "index": 9,
+        "text": "K",
+        "answer": "K",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "中心词",
+        "zh": "英国",
+        "phonetic": "keɪ",
+        "pos": "PROPN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "of the U K",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "的；定冠词；英国"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "capital",
+      "city",
+      "is",
+      "the",
+      "U",
+      "London",
+      "of",
+      "K"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "London",
+        "role": "主语",
+        "zh": "伦敦"
+      },
+      {
+        "id": "ud-2",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-3",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-4",
+        "text": "capital",
+        "role": "补充成分",
+        "zh": "首都"
+      },
+      {
+        "id": "ud-5",
+        "text": "city",
+        "role": "表语",
+        "zh": "城市"
+      },
+      {
+        "id": "ud-6",
+        "text": "of the U K",
+        "role": "补充成分",
+        "zh": "的；定冠词；英国",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "of",
+            "role": "介词",
+            "zh": "的"
+          },
+          {
+            "id": "ud-8",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-9",
+            "text": "U",
+            "role": "定语（名词修饰）",
+            "zh": "英国"
+          },
+          {
+            "id": "ud-10",
+            "text": "K",
+            "role": "中心词",
+            "zh": "英国"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "London",
+        "phonetic": "ˈlʌndən",
+        "pos": "PROPN",
+        "zh": "伦敦",
+        "componentRole": "主语",
+        "componentZh": "伦敦"
+      },
+      "1": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "2": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "补充成分",
+        "componentZh": "定冠词"
+      },
+      "3": {
+        "text": "capital",
+        "phonetic": "ˈkæpɪt(ə)l",
+        "pos": "NOUN",
+        "zh": "首都",
+        "componentRole": "补充成分",
+        "componentZh": "首都"
+      },
+      "4": {
+        "text": "city",
+        "phonetic": "ˈsɪti",
+        "pos": "NOUN",
+        "zh": "城市",
+        "componentRole": "表语",
+        "componentZh": "城市"
+      },
+      "5": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "的",
+        "componentRole": "介词",
+        "componentZh": "的",
+        "parentComponentText": "of the U K",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "的；定冠词；英国"
+      },
+      "6": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "of the U K",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "的；定冠词；英国"
+      },
+      "7": {
+        "text": "U",
+        "phonetic": "juː",
+        "pos": "PROPN",
+        "zh": "英国",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "英国",
+        "parentComponentText": "of the U K",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "的；定冠词；英国"
+      },
+      "9": {
+        "text": "K",
+        "phonetic": "keɪ",
+        "pos": "PROPN",
+        "zh": "英国",
+        "componentRole": "中心词",
+        "componentZh": "英国",
+        "parentComponentText": "of the U K",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "的；定冠词；英国"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-k7z34gfbchx2o5t1af58dvss-W-k9csem4hs9uzwji071joi8qa-1",
+    "contentId": "JLB-k7z34gfbchx2o5t1af58dvss-W-k9csem4hs9uzwji071joi8qa-1",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "k7z34gfbchx2o5t1af58dvss",
+    "unitTitle": "Unit 8  REVISION-Lesson 27-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "伦敦",
+    "audioText": "London",
+    "fullEnglish": "London",
+    "phonetic": "ˈlʌndən",
+    "pos": "PROPN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "London",
+        "answer": "London",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "伦敦",
+        "phonetic": "ˈlʌndən",
+        "pos": "PROPN"
+      }
+    ],
+    "shuffledBlocks": [
+      "London"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "London",
+        "phonetic": "ˈlʌndən",
+        "pos": "PROPN",
+        "zh": "伦敦",
+        "componentZh": "伦敦"
+      }
+    }
+  },
+  {
+    "id": "JLB-k7z34gfbchx2o5t1af58dvss-W-k9csem4hs9uzwji071joi8qa-3",
+    "contentId": "JLB-k7z34gfbchx2o5t1af58dvss-W-k9csem4hs9uzwji071joi8qa-3",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "k7z34gfbchx2o5t1af58dvss",
+    "unitTitle": "Unit 8  REVISION-Lesson 27-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "the",
+    "fullEnglish": "the",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "the"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-k7z34gfbchx2o5t1af58dvss-W-k9csem4hs9uzwji071joi8qa-4",
+    "contentId": "JLB-k7z34gfbchx2o5t1af58dvss-W-k9csem4hs9uzwji071joi8qa-4",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "k7z34gfbchx2o5t1af58dvss",
+    "unitTitle": "Unit 8  REVISION-Lesson 27-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "首都",
+    "audioText": "capital",
+    "fullEnglish": "capital",
+    "phonetic": "ˈkæpɪt(ə)l",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "capital",
+        "answer": "capital",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "首都",
+        "phonetic": "ˈkæpɪt(ə)l",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "capital"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "capital",
+        "phonetic": "ˈkæpɪt(ə)l",
+        "pos": "NOUN",
+        "zh": "首都",
+        "componentZh": "首都"
+      }
+    }
+  },
+  {
+    "id": "JLB-k7z34gfbchx2o5t1af58dvss-W-k9csem4hs9uzwji071joi8qa-5",
+    "contentId": "JLB-k7z34gfbchx2o5t1af58dvss-W-k9csem4hs9uzwji071joi8qa-5",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "k7z34gfbchx2o5t1af58dvss",
+    "unitTitle": "Unit 8  REVISION-Lesson 27-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "城市",
+    "audioText": "city",
+    "fullEnglish": "city",
+    "phonetic": "ˈsɪti",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "city",
+        "answer": "city",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "城市",
+        "phonetic": "ˈsɪti",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "city"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "city",
+        "phonetic": "ˈsɪti",
+        "pos": "NOUN",
+        "zh": "城市",
+        "componentZh": "城市"
+      }
+    }
+  },
+  {
+    "id": "JLB-k7z34gfbchx2o5t1af58dvss-W-k9csem4hs9uzwji071joi8qa-6",
+    "contentId": "JLB-k7z34gfbchx2o5t1af58dvss-W-k9csem4hs9uzwji071joi8qa-6",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "k7z34gfbchx2o5t1af58dvss",
+    "unitTitle": "Unit 8  REVISION-Lesson 27-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "的",
+    "audioText": "of",
+    "fullEnglish": "of",
+    "phonetic": "ʌv",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "的",
+        "phonetic": "ʌv",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "of"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "的",
+        "componentZh": "的"
+      }
+    }
+  },
+  {
+    "id": "JLB-k7z34gfbchx2o5t1af58dvss-W-k9csem4hs9uzwji071joi8qa-7",
+    "contentId": "JLB-k7z34gfbchx2o5t1af58dvss-W-k9csem4hs9uzwji071joi8qa-7",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "k7z34gfbchx2o5t1af58dvss",
+    "unitTitle": "Unit 8  REVISION-Lesson 27-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "英国",
+    "audioText": "U",
+    "fullEnglish": "U",
+    "phonetic": "juː",
+    "pos": "PROPN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "U",
+        "answer": "U",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "英国",
+        "phonetic": "juː",
+        "pos": "PROPN"
+      }
+    ],
+    "shuffledBlocks": [
+      "U"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "U",
+        "phonetic": "juː",
+        "pos": "PROPN",
+        "zh": "英国",
+        "componentZh": "英国"
+      }
+    }
+  },
+  {
+    "id": "JLB-k7z34gfbchx2o5t1af58dvss-W-k9csem4hs9uzwji071joi8qa-8",
+    "contentId": "JLB-k7z34gfbchx2o5t1af58dvss-W-k9csem4hs9uzwji071joi8qa-8",
+    "type": "word",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "k7z34gfbchx2o5t1af58dvss",
+    "unitTitle": "Unit 8  REVISION-Lesson 27-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "英国",
+    "audioText": "K",
+    "fullEnglish": "K",
+    "phonetic": "keɪ",
+    "pos": "PROPN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "K",
+        "answer": "K",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "英国",
+        "phonetic": "keɪ",
+        "pos": "PROPN"
+      }
+    ],
+    "shuffledBlocks": [
+      "K"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "K",
+        "phonetic": "keɪ",
+        "pos": "PROPN",
+        "zh": "英国",
+        "componentZh": "英国"
+      }
+    }
+  },
+  {
+    "id": "JLB-k7z34gfbchx2o5t1af58dvss-PHRASE-gcz62tp2vlhq5zhbobcc7o5t",
+    "contentId": "JLB-k7z34gfbchx2o5t1af58dvss-PHRASE-gcz62tp2vlhq5zhbobcc7o5t",
+    "type": "phrase",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "k7z34gfbchx2o5t1af58dvss",
+    "unitTitle": "Unit 8  REVISION-Lesson 27-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "美式橄榄球",
+    "audioText": "American football",
+    "fullEnglish": "American football",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "American",
+        "answer": "American",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "美国的",
+        "phonetic": "əˈmerɪkən",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "football",
+        "answer": "football",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "橄榄球",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "American",
+      "football"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "American",
+        "role": "补充成分",
+        "zh": "美国的"
+      },
+      {
+        "id": "ud-2",
+        "text": "football",
+        "role": "中心成分",
+        "zh": "橄榄球"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "American",
+        "phonetic": "əˈmerɪkən",
+        "pos": "ADJ",
+        "zh": "美国的",
+        "componentZh": "美国的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "football",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN",
+        "zh": "橄榄球",
+        "componentZh": "橄榄球",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-k7z34gfbchx2o5t1af58dvss-PHRASE-akelgm2i7zw8knu4q2hj8rpw",
+    "contentId": "JLB-k7z34gfbchx2o5t1af58dvss-PHRASE-akelgm2i7zw8knu4q2hj8rpw",
+    "type": "phrase",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "k7z34gfbchx2o5t1af58dvss",
+    "unitTitle": "Unit 8  REVISION-Lesson 27-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "非常受欢迎",
+    "audioText": "very popular",
+    "fullEnglish": "very popular",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "popular",
+        "answer": "popular",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "受欢迎的",
+        "phonetic": "ˈpɑːpjələr",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "very",
+      "popular"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "very",
+        "role": "方式/程度状语",
+        "zh": "非常"
+      },
+      {
+        "id": "ud-2",
+        "text": "popular",
+        "role": "中心成分",
+        "zh": "受欢迎的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentZh": "非常",
+        "componentRole": "方式/程度状语"
+      },
+      "1": {
+        "text": "popular",
+        "phonetic": "ˈpɑːpjələr",
+        "pos": "ADJ",
+        "zh": "受欢迎的",
+        "componentZh": "受欢迎的",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-k7z34gfbchx2o5t1af58dvss-PHRASE-qz1n4dkmmpm38tuv4awrzmvq",
+    "contentId": "JLB-k7z34gfbchx2o5t1af58dvss-PHRASE-qz1n4dkmmpm38tuv4awrzmvq",
+    "type": "phrase",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "k7z34gfbchx2o5t1af58dvss",
+    "unitTitle": "Unit 8  REVISION-Lesson 27-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "首都",
+    "audioText": "the capital city",
+    "fullEnglish": "the capital city",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "capital",
+        "answer": "capital",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "首都",
+        "phonetic": "ˈkæpɪt(ə)l",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "city",
+        "answer": "city",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "城市",
+        "phonetic": "ˈsɪti",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "capital",
+      "the",
+      "city"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "capital",
+        "role": "补充成分",
+        "zh": "首都"
+      },
+      {
+        "id": "ud-3",
+        "text": "city",
+        "role": "中心成分",
+        "zh": "城市"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "capital",
+        "phonetic": "ˈkæpɪt(ə)l",
+        "pos": "NOUN",
+        "zh": "首都",
+        "componentZh": "首都",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "city",
+        "phonetic": "ˈsɪti",
+        "pos": "NOUN",
+        "zh": "城市",
+        "componentZh": "城市",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-k7z34gfbchx2o5t1af58dvss-PHRASE-tayyk10bkfymqad4ogbnerv4",
+    "contentId": "JLB-k7z34gfbchx2o5t1af58dvss-PHRASE-tayyk10bkfymqad4ogbnerv4",
+    "type": "phrase",
+    "coursePackageId": "mxv89e30opxrvk0igolvh5s0",
+    "coursePackageName": "【北京版】五年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "k7z34gfbchx2o5t1af58dvss",
+    "unitTitle": "Unit 8  REVISION-Lesson 27-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "英国",
+    "audioText": "the U. K",
+    "fullEnglish": "the U. K",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "U",
+        "answer": "U",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "英国",
+        "phonetic": "juː",
+        "pos": "PROPN",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "英国"
+      },
+      {
+        "index": 3,
+        "text": "K",
+        "answer": "K",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "英国",
+        "phonetic": "keɪ",
+        "pos": "PROPN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "K",
+      "U",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "U",
+        "role": "补充成分",
+        "zh": "英国"
+      },
+      {
+        "id": "ud-3",
+        "text": "K",
+        "role": "中心成分",
+        "zh": "英国"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "U",
+        "phonetic": "juː",
+        "pos": "PROPN",
+        "zh": "英国",
+        "componentZh": "英国",
+        "componentRole": "补充成分"
+      },
+      "3": {
+        "text": "K",
+        "phonetic": "keɪ",
+        "pos": "PROPN",
+        "zh": "英国",
+        "componentZh": "英国",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

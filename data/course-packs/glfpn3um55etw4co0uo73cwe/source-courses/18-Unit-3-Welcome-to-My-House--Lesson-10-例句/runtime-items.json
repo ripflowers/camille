@@ -1,0 +1,3261 @@
+[
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-S-fqw3ozln66oo86ti9ygtbjvz",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-S-fqw3ozln66oo86ti9ygtbjvz",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们去厨房吧。",
+    "audioText": "Let's go to the kitchen",
+    "fullEnglish": "Let's go to the kitchen",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "宾语 + 谓语",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "go to the kitchen",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "去；到；定冠词；厨房"
+      },
+      {
+        "index": 2,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "介词",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "to the kitchen",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "到；定冠词；厨房"
+      },
+      {
+        "index": 3,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "the kitchen",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；厨房"
+      },
+      {
+        "index": 4,
+        "text": "kitchen",
+        "answer": "kitchen",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "厨房",
+        "phonetic": "ˈkɪtʃɪn",
+        "pos": "NOUN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "the kitchen",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；厨房"
+      }
+    ],
+    "shuffledBlocks": [
+      "go",
+      "Let's",
+      "kitchen",
+      "to",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let's",
+        "role": "宾语 + 谓语",
+        "zh": "让我们"
+      },
+      {
+        "id": "ud-2",
+        "text": "go to the kitchen",
+        "role": "不定式短语",
+        "zh": "去；到；定冠词；厨房",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "go",
+            "role": "谓语",
+            "zh": "去"
+          },
+          {
+            "id": "ud-4",
+            "text": "to the kitchen",
+            "role": "介词短语/状语",
+            "zh": "到；定冠词；厨房",
+            "children": [
+              {
+                "id": "ud-5",
+                "text": "to",
+                "role": "介词",
+                "zh": "到"
+              },
+              {
+                "id": "ud-6",
+                "text": "the kitchen",
+                "role": "介词宾语",
+                "zh": "定冠词；厨房",
+                "children": [
+                  {
+                    "id": "ud-7",
+                    "text": "the",
+                    "role": "限定词",
+                    "zh": "定冠词"
+                  },
+                  {
+                    "id": "ud-8",
+                    "text": "kitchen",
+                    "role": "中心词",
+                    "zh": "厨房"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentRole": "宾语 + 谓语",
+        "componentZh": "让我们"
+      },
+      "1": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentRole": "谓语",
+        "componentZh": "去",
+        "parentComponentText": "go to the kitchen",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "去；到；定冠词；厨房"
+      },
+      "2": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentRole": "介词",
+        "componentZh": "到",
+        "parentComponentText": "to the kitchen",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "到；定冠词；厨房"
+      },
+      "3": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the kitchen",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；厨房"
+      },
+      "4": {
+        "text": "kitchen",
+        "phonetic": "ˈkɪtʃɪn",
+        "pos": "NOUN",
+        "zh": "厨房",
+        "componentRole": "中心词",
+        "componentZh": "厨房",
+        "parentComponentText": "the kitchen",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；厨房"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-fqw3ozln66oo86ti9ygtbjvz-1",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-fqw3ozln66oo86ti9ygtbjvz-1",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让我们",
+    "audioText": "Let's",
+    "fullEnglish": "Let's",
+    "phonetic": "lets",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentZh": "让我们"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-fqw3ozln66oo86ti9ygtbjvz-2",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-fqw3ozln66oo86ti9ygtbjvz-2",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "去",
+    "audioText": "go",
+    "fullEnglish": "go",
+    "phonetic": "ɡoʊ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "go"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-fqw3ozln66oo86ti9ygtbjvz-3",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-fqw3ozln66oo86ti9ygtbjvz-3",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "到",
+    "audioText": "to",
+    "fullEnglish": "to",
+    "phonetic": "tuː; tə",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "to"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentZh": "到"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-fqw3ozln66oo86ti9ygtbjvz-4",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-fqw3ozln66oo86ti9ygtbjvz-4",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "the",
+    "fullEnglish": "the",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "the"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-fqw3ozln66oo86ti9ygtbjvz-5",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-fqw3ozln66oo86ti9ygtbjvz-5",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "厨房",
+    "audioText": "kitchen",
+    "fullEnglish": "kitchen",
+    "phonetic": "ˈkɪtʃɪn",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "kitchen",
+        "answer": "kitchen",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "厨房",
+        "phonetic": "ˈkɪtʃɪn",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "kitchen"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "kitchen",
+        "phonetic": "ˈkɪtʃɪn",
+        "pos": "NOUN",
+        "zh": "厨房",
+        "componentZh": "厨房"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-S-wx5qhd8h0pz7z711dza0imqz",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-S-wx5qhd8h0pz7z711dza0imqz",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我渴了。",
+    "audioText": "I'm thirsty",
+    "fullEnglish": "I'm thirsty",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "我是",
+        "phonetic": "aɪm",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "thirsty",
+        "answer": "thirsty",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "渴",
+        "phonetic": "ˈθɜːrsti",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "thirsty",
+      "I'm"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I'm",
+        "role": "主语 + 系动词",
+        "zh": "我是"
+      },
+      {
+        "id": "ud-2",
+        "text": "thirsty",
+        "role": "表语",
+        "zh": "渴"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "我是"
+      },
+      "1": {
+        "text": "thirsty",
+        "phonetic": "ˈθɜːrsti",
+        "pos": "ADJ",
+        "zh": "渴",
+        "componentRole": "表语",
+        "componentZh": "渴"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-S-r7xsh4yw06nr72tgqy99wajy",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-S-r7xsh4yw06nr72tgqy99wajy",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哇，你那边的冰箱可真大。",
+    "audioText": "Wow, you have a big fridge there",
+    "fullEnglish": "Wow, you have a big fridge there",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Wow",
+        "answer": "Wow",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "哇",
+        "phonetic": "waʊ",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哇，你那边的冰箱可真大。"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "a big fridge",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；大的；冰箱"
+      },
+      {
+        "index": 5,
+        "text": "big",
+        "answer": "big",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "定语（形容词）",
+        "zh": "大的",
+        "phonetic": "bɪɡ",
+        "pos": "ADJ",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "a big fridge",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；大的；冰箱"
+      },
+      {
+        "index": 6,
+        "text": "fridge",
+        "answer": "fridge",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "冰箱",
+        "phonetic": "frɪdʒ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "a big fridge",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；大的；冰箱"
+      },
+      {
+        "index": 7,
+        "text": "there",
+        "answer": "there",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "地点状语",
+        "zh": "那里",
+        "phonetic": "ðer; ðər",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "have",
+      "you",
+      "there",
+      "fridge",
+      "Wow",
+      "a",
+      "big"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Wow",
+        "role": "语气/引导语",
+        "zh": "哇"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-4",
+        "text": "a big fridge",
+        "role": "宾语",
+        "zh": "一个；大的；冰箱",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-6",
+            "text": "big",
+            "role": "定语（形容词）",
+            "zh": "大的"
+          },
+          {
+            "id": "ud-7",
+            "text": "fridge",
+            "role": "中心词",
+            "zh": "冰箱"
+          }
+        ]
+      },
+      {
+        "id": "ud-8",
+        "text": "there",
+        "role": "地点状语",
+        "zh": "那里"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Wow",
+        "phonetic": "waʊ",
+        "pos": "INTJ",
+        "zh": "哇",
+        "componentRole": "语气/引导语",
+        "componentZh": "哇"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "3": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有"
+      },
+      "4": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "a big fridge",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；大的；冰箱"
+      },
+      "5": {
+        "text": "big",
+        "phonetic": "bɪɡ",
+        "pos": "ADJ",
+        "zh": "大的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "大的",
+        "parentComponentText": "a big fridge",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；大的；冰箱"
+      },
+      "6": {
+        "text": "fridge",
+        "phonetic": "frɪdʒ",
+        "pos": "NOUN",
+        "zh": "冰箱",
+        "componentRole": "中心词",
+        "componentZh": "冰箱",
+        "parentComponentText": "a big fridge",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；大的；冰箱"
+      },
+      "7": {
+        "text": "there",
+        "phonetic": "ðer; ðər",
+        "pos": "ADV",
+        "zh": "那里",
+        "componentRole": "地点状语",
+        "componentZh": "那里"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-r7xsh4yw06nr72tgqy99wajy-1",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-r7xsh4yw06nr72tgqy99wajy-1",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哇",
+    "audioText": "Wow",
+    "fullEnglish": "Wow",
+    "phonetic": "waʊ",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Wow",
+        "answer": "Wow",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "哇",
+        "phonetic": "waʊ",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Wow"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Wow",
+        "phonetic": "waʊ",
+        "pos": "INTJ",
+        "zh": "哇",
+        "componentZh": "哇"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-r7xsh4yw06nr72tgqy99wajy-2",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-r7xsh4yw06nr72tgqy99wajy-2",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-r7xsh4yw06nr72tgqy99wajy-3",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-r7xsh4yw06nr72tgqy99wajy-3",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "有",
+    "audioText": "have",
+    "fullEnglish": "have",
+    "phonetic": "hæv",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "have"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-r7xsh4yw06nr72tgqy99wajy-4",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-r7xsh4yw06nr72tgqy99wajy-4",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个",
+    "audioText": "a",
+    "fullEnglish": "a",
+    "phonetic": "ə; eɪ",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "a"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-r7xsh4yw06nr72tgqy99wajy-5",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-r7xsh4yw06nr72tgqy99wajy-5",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "大的",
+    "audioText": "big",
+    "fullEnglish": "big",
+    "phonetic": "bɪɡ",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "big",
+        "answer": "big",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "大的",
+        "phonetic": "bɪɡ",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "big"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "big",
+        "phonetic": "bɪɡ",
+        "pos": "ADJ",
+        "zh": "大的",
+        "componentZh": "大的"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-r7xsh4yw06nr72tgqy99wajy-6",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-r7xsh4yw06nr72tgqy99wajy-6",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "冰箱",
+    "audioText": "fridge",
+    "fullEnglish": "fridge",
+    "phonetic": "frɪdʒ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "fridge",
+        "answer": "fridge",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "冰箱",
+        "phonetic": "frɪdʒ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "fridge"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "fridge",
+        "phonetic": "frɪdʒ",
+        "pos": "NOUN",
+        "zh": "冰箱",
+        "componentZh": "冰箱"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-r7xsh4yw06nr72tgqy99wajy-7",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-r7xsh4yw06nr72tgqy99wajy-7",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那里",
+    "audioText": "there",
+    "fullEnglish": "there",
+    "phonetic": "ðer; ðər",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "there",
+        "answer": "there",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "那里",
+        "phonetic": "ðer; ðər",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "there"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "there",
+        "phonetic": "ðer; ðər",
+        "pos": "ADV",
+        "zh": "那里",
+        "componentZh": "那里"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-S-qc1kgvetsytkchtt8yl4xa4j",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-S-qc1kgvetsytkchtt8yl4xa4j",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我想要一些苹果汁。",
+    "audioText": "I'd like to have some apple juice",
+    "fullEnglish": "I'd like to have some apple juice",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'd",
+        "answer": "I'd",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词",
+        "zh": "I would 的缩写",
+        "phonetic": "aɪd",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "连接词",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to have some apple juice",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；有；一些；苹果；果汁"
+      },
+      {
+        "index": 3,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to have some apple juice",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；有；一些；苹果；果汁"
+      },
+      {
+        "index": 4,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "some apple juice",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；苹果；果汁"
+      },
+      {
+        "index": 5,
+        "text": "apple",
+        "answer": "apple",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "定语（名词修饰）",
+        "zh": "苹果",
+        "phonetic": "ˈæp(ə)l",
+        "pos": "NOUN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "some apple juice",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；苹果；果汁"
+      },
+      {
+        "index": 6,
+        "text": "juice",
+        "answer": "juice",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "中心词",
+        "zh": "果汁",
+        "phonetic": "dʒuːs",
+        "pos": "NOUN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "some apple juice",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；苹果；果汁"
+      }
+    ],
+    "shuffledBlocks": [
+      "some",
+      "juice",
+      "apple",
+      "to",
+      "like",
+      "I'd",
+      "have"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I'd",
+        "role": "主语 + 助动词",
+        "zh": "I would 的缩写"
+      },
+      {
+        "id": "ud-2",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-3",
+        "text": "to have some apple juice",
+        "role": "不定式短语",
+        "zh": "到；有；一些；苹果；果汁",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "to",
+            "role": "连接词",
+            "zh": "到"
+          },
+          {
+            "id": "ud-5",
+            "text": "have",
+            "role": "谓语",
+            "zh": "有"
+          },
+          {
+            "id": "ud-6",
+            "text": "some apple juice",
+            "role": "宾语",
+            "zh": "一些；苹果；果汁",
+            "children": [
+              {
+                "id": "ud-7",
+                "text": "some",
+                "role": "限定词",
+                "zh": "一些"
+              },
+              {
+                "id": "ud-8",
+                "text": "apple",
+                "role": "定语（名词修饰）",
+                "zh": "苹果"
+              },
+              {
+                "id": "ud-9",
+                "text": "juice",
+                "role": "中心词",
+                "zh": "果汁"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I'd",
+        "phonetic": "aɪd",
+        "pos": "PRON",
+        "zh": "I would 的缩写",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "I would 的缩写"
+      },
+      "1": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "谓语",
+        "componentZh": "喜欢"
+      },
+      "2": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentRole": "连接词",
+        "componentZh": "到",
+        "parentComponentText": "to have some apple juice",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；有；一些；苹果；果汁"
+      },
+      "3": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有",
+        "parentComponentText": "to have some apple juice",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；有；一些；苹果；果汁"
+      },
+      "4": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some apple juice",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；苹果；果汁"
+      },
+      "5": {
+        "text": "apple",
+        "phonetic": "ˈæp(ə)l",
+        "pos": "NOUN",
+        "zh": "苹果",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "苹果",
+        "parentComponentText": "some apple juice",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；苹果；果汁"
+      },
+      "6": {
+        "text": "juice",
+        "phonetic": "dʒuːs",
+        "pos": "NOUN",
+        "zh": "果汁",
+        "componentRole": "中心词",
+        "componentZh": "果汁",
+        "parentComponentText": "some apple juice",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；苹果；果汁"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-qc1kgvetsytkchtt8yl4xa4j-1",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-qc1kgvetsytkchtt8yl4xa4j-1",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "I would 的缩写",
+    "audioText": "I'd",
+    "fullEnglish": "I'd",
+    "phonetic": "aɪd",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'd",
+        "answer": "I'd",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "I would 的缩写",
+        "phonetic": "aɪd",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I'd"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I'd",
+        "phonetic": "aɪd",
+        "pos": "PRON",
+        "zh": "I would 的缩写",
+        "componentZh": "I would 的缩写"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-qc1kgvetsytkchtt8yl4xa4j-2",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-qc1kgvetsytkchtt8yl4xa4j-2",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "喜欢",
+    "audioText": "like",
+    "fullEnglish": "like",
+    "phonetic": "laɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "like"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentZh": "喜欢"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-qc1kgvetsytkchtt8yl4xa4j-5",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-qc1kgvetsytkchtt8yl4xa4j-5",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些",
+    "audioText": "some",
+    "fullEnglish": "some",
+    "phonetic": "sʌm; səm",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "some"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-qc1kgvetsytkchtt8yl4xa4j-6",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-qc1kgvetsytkchtt8yl4xa4j-6",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "苹果",
+    "audioText": "apple",
+    "fullEnglish": "apple",
+    "phonetic": "ˈæp(ə)l",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "apple",
+        "answer": "apple",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "苹果",
+        "phonetic": "ˈæp(ə)l",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "apple"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "apple",
+        "phonetic": "ˈæp(ə)l",
+        "pos": "NOUN",
+        "zh": "苹果",
+        "componentZh": "苹果"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-qc1kgvetsytkchtt8yl4xa4j-7",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-qc1kgvetsytkchtt8yl4xa4j-7",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "果汁",
+    "audioText": "juice",
+    "fullEnglish": "juice",
+    "phonetic": "dʒuːs",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "juice",
+        "answer": "juice",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "果汁",
+        "phonetic": "dʒuːs",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "juice"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "juice",
+        "phonetic": "dʒuːs",
+        "pos": "NOUN",
+        "zh": "果汁",
+        "componentZh": "果汁"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-S-rpqsuaqojq2tt3vdu9i6syyg",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-S-rpqsuaqojq2tt3vdu9i6syyg",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "您想用桌上的玻璃杯吗？",
+    "audioText": "Would you like to use the glass on the table?",
+    "fullEnglish": "Would you like to use the glass on the table?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Would",
+        "answer": "Would",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "将",
+        "phonetic": "wʊd",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "连接词",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "to use the glass on the table",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；使用；定冠词；玻璃杯；在...上；桌子"
+      },
+      {
+        "index": 4,
+        "text": "use",
+        "answer": "use",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "谓语",
+        "zh": "使用",
+        "phonetic": "juːz",
+        "pos": "VERB",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "to use the glass on the table",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；使用；定冠词；玻璃杯；在...上；桌子"
+      },
+      {
+        "index": 5,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "the glass",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；玻璃杯"
+      },
+      {
+        "index": 6,
+        "text": "glass",
+        "answer": "glass",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "中心词",
+        "zh": "玻璃杯",
+        "phonetic": "ɡlæs",
+        "pos": "NOUN",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "the glass",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；玻璃杯"
+      },
+      {
+        "index": 7,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "介词",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "parentComponentId": "ud-10",
+        "parentComponentText": "on the table",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在...上；定冠词；桌子"
+      },
+      {
+        "index": 8,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-13",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-12",
+        "parentComponentText": "the table",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；桌子"
+      },
+      {
+        "index": 9,
+        "text": "table",
+        "answer": "table",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-14",
+        "role": "中心词",
+        "zh": "桌子",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "parentComponentId": "ud-12",
+        "parentComponentText": "the table",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；桌子"
+      },
+      {
+        "index": 10,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "您想用桌上的玻璃杯吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "like",
+      "to",
+      "the",
+      "the",
+      "table",
+      "glass",
+      "on",
+      "use",
+      "you",
+      "Would"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Would",
+        "role": "助动词",
+        "zh": "将"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-4",
+        "text": "to use the glass on the table",
+        "role": "不定式短语",
+        "zh": "到；使用；定冠词；玻璃杯；在...上；桌子",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "to",
+            "role": "连接词",
+            "zh": "到"
+          },
+          {
+            "id": "ud-6",
+            "text": "use",
+            "role": "谓语",
+            "zh": "使用"
+          },
+          {
+            "id": "ud-7",
+            "text": "the glass",
+            "role": "宾语",
+            "zh": "定冠词；玻璃杯",
+            "children": [
+              {
+                "id": "ud-8",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-9",
+                "text": "glass",
+                "role": "中心词",
+                "zh": "玻璃杯"
+              }
+            ]
+          },
+          {
+            "id": "ud-10",
+            "text": "on the table",
+            "role": "地点状语",
+            "zh": "在...上；定冠词；桌子",
+            "children": [
+              {
+                "id": "ud-11",
+                "text": "on",
+                "role": "介词",
+                "zh": "在...上"
+              },
+              {
+                "id": "ud-12",
+                "text": "the table",
+                "role": "介词宾语",
+                "zh": "定冠词；桌子",
+                "children": [
+                  {
+                    "id": "ud-13",
+                    "text": "the",
+                    "role": "限定词",
+                    "zh": "定冠词"
+                  },
+                  {
+                    "id": "ud-14",
+                    "text": "table",
+                    "role": "中心词",
+                    "zh": "桌子"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Would",
+        "phonetic": "wʊd",
+        "pos": "AUX",
+        "zh": "将",
+        "componentRole": "助动词",
+        "componentZh": "将"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "2": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "谓语",
+        "componentZh": "喜欢"
+      },
+      "3": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentRole": "连接词",
+        "componentZh": "到",
+        "parentComponentText": "to use the glass on the table",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；使用；定冠词；玻璃杯；在...上；桌子"
+      },
+      "4": {
+        "text": "use",
+        "phonetic": "juːz",
+        "pos": "VERB",
+        "zh": "使用",
+        "componentRole": "谓语",
+        "componentZh": "使用",
+        "parentComponentText": "to use the glass on the table",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；使用；定冠词；玻璃杯；在...上；桌子"
+      },
+      "5": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the glass",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；玻璃杯"
+      },
+      "6": {
+        "text": "glass",
+        "phonetic": "ɡlæs",
+        "pos": "NOUN",
+        "zh": "玻璃杯",
+        "componentRole": "中心词",
+        "componentZh": "玻璃杯",
+        "parentComponentText": "the glass",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；玻璃杯"
+      },
+      "7": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentRole": "介词",
+        "componentZh": "在...上",
+        "parentComponentText": "on the table",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在...上；定冠词；桌子"
+      },
+      "8": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the table",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；桌子"
+      },
+      "9": {
+        "text": "table",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "zh": "桌子",
+        "componentRole": "中心词",
+        "componentZh": "桌子",
+        "parentComponentText": "the table",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；桌子"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-rpqsuaqojq2tt3vdu9i6syyg-1",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-rpqsuaqojq2tt3vdu9i6syyg-1",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "将",
+    "audioText": "Would",
+    "fullEnglish": "Would",
+    "phonetic": "wʊd",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Would",
+        "answer": "Would",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "将",
+        "phonetic": "wʊd",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "Would"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Would",
+        "phonetic": "wʊd",
+        "pos": "AUX",
+        "zh": "将",
+        "componentZh": "将"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-rpqsuaqojq2tt3vdu9i6syyg-5",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-rpqsuaqojq2tt3vdu9i6syyg-5",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "使用",
+    "audioText": "use",
+    "fullEnglish": "use",
+    "phonetic": "juːz",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "use",
+        "answer": "use",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "使用",
+        "phonetic": "juːz",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "use"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "use",
+        "phonetic": "juːz",
+        "pos": "VERB",
+        "zh": "使用",
+        "componentZh": "使用"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-rpqsuaqojq2tt3vdu9i6syyg-7",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-rpqsuaqojq2tt3vdu9i6syyg-7",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "玻璃杯",
+    "audioText": "glass",
+    "fullEnglish": "glass",
+    "phonetic": "ɡlæs",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "glass",
+        "answer": "glass",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "玻璃杯",
+        "phonetic": "ɡlæs",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "glass"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "glass",
+        "phonetic": "ɡlæs",
+        "pos": "NOUN",
+        "zh": "玻璃杯",
+        "componentZh": "玻璃杯"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-rpqsuaqojq2tt3vdu9i6syyg-8",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-rpqsuaqojq2tt3vdu9i6syyg-8",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在...上",
+    "audioText": "on",
+    "fullEnglish": "on",
+    "phonetic": "ɑːn",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "on"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentZh": "在...上"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-rpqsuaqojq2tt3vdu9i6syyg-9",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-rpqsuaqojq2tt3vdu9i6syyg-9",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "桌子",
+    "audioText": "table",
+    "fullEnglish": "table",
+    "phonetic": "ˈteɪbl",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "table",
+        "answer": "table",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "桌子",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "table"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "table",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "zh": "桌子",
+        "componentZh": "桌子"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-S-oz7lzsqxvg3of522l5uhvjnb",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-S-oz7lzsqxvg3of522l5uhvjnb",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不用了，谢谢。",
+    "audioText": "No, thank you",
+    "fullEnglish": "No, thank you",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "No",
+        "answer": "No",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "不",
+        "phonetic": "noʊ",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "不用了，谢谢。"
+      },
+      {
+        "index": 2,
+        "text": "thank",
+        "answer": "thank",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "感谢",
+        "phonetic": "θæŋk",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "宾语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "No",
+      "thank"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "No",
+        "role": "语气/引导语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-2",
+        "text": "thank",
+        "role": "谓语",
+        "zh": "感谢"
+      },
+      {
+        "id": "ud-3",
+        "text": "you",
+        "role": "宾语",
+        "zh": "你"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "No",
+        "phonetic": "noʊ",
+        "pos": "INTJ",
+        "zh": "不",
+        "componentRole": "语气/引导语",
+        "componentZh": "不"
+      },
+      "2": {
+        "text": "thank",
+        "phonetic": "θæŋk",
+        "pos": "VERB",
+        "zh": "感谢",
+        "componentRole": "谓语",
+        "componentZh": "感谢"
+      },
+      "3": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "宾语",
+        "componentZh": "你"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-oz7lzsqxvg3of522l5uhvjnb-1",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-oz7lzsqxvg3of522l5uhvjnb-1",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不",
+    "audioText": "No",
+    "fullEnglish": "No",
+    "phonetic": "noʊ",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "No",
+        "answer": "No",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "noʊ",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "No"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "No",
+        "phonetic": "noʊ",
+        "pos": "INTJ",
+        "zh": "不",
+        "componentZh": "不"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-W-oz7lzsqxvg3of522l5uhvjnb-2",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-W-oz7lzsqxvg3of522l5uhvjnb-2",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "感谢",
+    "audioText": "thank",
+    "fullEnglish": "thank",
+    "phonetic": "θæŋk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "thank",
+        "answer": "thank",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "感谢",
+        "phonetic": "θæŋk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "thank"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "thank",
+        "phonetic": "θæŋk",
+        "pos": "VERB",
+        "zh": "感谢",
+        "componentZh": "感谢"
+      }
+    }
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-PHRASE-zpkh96gb1pdd76w00zj7jlg9",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-PHRASE-zpkh96gb1pdd76w00zj7jlg9",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "厨房",
+    "audioText": "the kitchen",
+    "fullEnglish": "the kitchen",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "kitchen",
+        "answer": "kitchen",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "厨房",
+        "phonetic": "ˈkɪtʃɪn",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "kitchen",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "kitchen",
+        "role": "中心成分",
+        "zh": "厨房"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "kitchen",
+        "phonetic": "ˈkɪtʃɪn",
+        "pos": "NOUN",
+        "zh": "厨房",
+        "componentZh": "厨房",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-PHRASE-zpc53dhta1s386a795pi7i23",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-PHRASE-zpc53dhta1s386a795pi7i23",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个大冰箱",
+    "audioText": "a big fridge",
+    "fullEnglish": "a big fridge",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "big",
+        "answer": "big",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "大的",
+        "phonetic": "bɪɡ",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "fridge",
+        "answer": "fridge",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "冰箱",
+        "phonetic": "frɪdʒ",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "fridge",
+      "big",
+      "a"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "a",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-2",
+        "text": "big",
+        "role": "补充成分",
+        "zh": "大的"
+      },
+      {
+        "id": "ud-3",
+        "text": "fridge",
+        "role": "中心成分",
+        "zh": "冰箱"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "big",
+        "phonetic": "bɪɡ",
+        "pos": "ADJ",
+        "zh": "大的",
+        "componentZh": "大的",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "fridge",
+        "phonetic": "frɪdʒ",
+        "pos": "NOUN",
+        "zh": "冰箱",
+        "componentZh": "冰箱",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-PHRASE-abgl8d39sttht8ca20tjdmjs",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-PHRASE-abgl8d39sttht8ca20tjdmjs",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "想喝",
+    "audioText": "like to have",
+    "fullEnglish": "like to have",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "componentId": "ud-3",
+        "role": "连接词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；有"
+      },
+      {
+        "index": 2,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；有"
+      }
+    ],
+    "shuffledBlocks": [
+      "like",
+      "to",
+      "have"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-2",
+        "text": "to have",
+        "role": "不定式短语",
+        "zh": "到；有",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "to",
+            "role": "连接词",
+            "zh": "到"
+          },
+          {
+            "id": "ud-4",
+            "text": "have",
+            "role": "谓语",
+            "zh": "有"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentZh": "喜欢",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentZh": "到",
+        "componentRole": "连接词",
+        "parentComponentText": "to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；有"
+      },
+      "2": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有",
+        "componentRole": "谓语",
+        "parentComponentText": "to have",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；有"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-PHRASE-l4vajb4btm1u0zk5gp4bzlr0",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-PHRASE-l4vajb4btm1u0zk5gp4bzlr0",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些苹果汁",
+    "audioText": "some apple juice",
+    "fullEnglish": "some apple juice",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "apple",
+        "answer": "apple",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "苹果",
+        "phonetic": "ˈæp(ə)l",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "juice",
+        "answer": "juice",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "果汁",
+        "phonetic": "dʒuːs",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "juice",
+      "apple",
+      "some"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "apple",
+        "role": "补充成分",
+        "zh": "苹果"
+      },
+      {
+        "id": "ud-3",
+        "text": "juice",
+        "role": "中心成分",
+        "zh": "果汁"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "apple",
+        "phonetic": "ˈæp(ə)l",
+        "pos": "NOUN",
+        "zh": "苹果",
+        "componentZh": "苹果",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "juice",
+        "phonetic": "dʒuːs",
+        "pos": "NOUN",
+        "zh": "果汁",
+        "componentZh": "果汁",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-PHRASE-ff9t1in687g8kqdd7ih7296h",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-PHRASE-ff9t1in687g8kqdd7ih7296h",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "想要使用",
+    "audioText": "like to use",
+    "fullEnglish": "like to use",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "componentId": "ud-3",
+        "role": "连接词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "to use",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；使用"
+      },
+      {
+        "index": 2,
+        "text": "use",
+        "answer": "use",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "使用",
+        "phonetic": "juːz",
+        "pos": "VERB",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "to use",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；使用"
+      }
+    ],
+    "shuffledBlocks": [
+      "like",
+      "to",
+      "use"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-2",
+        "text": "to use",
+        "role": "不定式短语",
+        "zh": "到；使用",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "to",
+            "role": "连接词",
+            "zh": "到"
+          },
+          {
+            "id": "ud-4",
+            "text": "use",
+            "role": "谓语",
+            "zh": "使用"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentZh": "喜欢",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentZh": "到",
+        "componentRole": "连接词",
+        "parentComponentText": "to use",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；使用"
+      },
+      "2": {
+        "text": "use",
+        "phonetic": "juːz",
+        "pos": "VERB",
+        "zh": "使用",
+        "componentZh": "使用",
+        "componentRole": "谓语",
+        "parentComponentText": "to use",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；使用"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-PHRASE-pyiodji6gm7mna9kgccfbi0m",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-PHRASE-pyiodji6gm7mna9kgccfbi0m",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这个玻璃杯",
+    "audioText": "the glass",
+    "fullEnglish": "the glass",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "glass",
+        "answer": "glass",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "玻璃杯",
+        "phonetic": "ɡlæs",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "glass"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "glass",
+        "role": "中心成分",
+        "zh": "玻璃杯"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "glass",
+        "phonetic": "ɡlæs",
+        "pos": "NOUN",
+        "zh": "玻璃杯",
+        "componentZh": "玻璃杯",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-PHRASE-uehbec0a2is4vgou41ro056a",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-PHRASE-uehbec0a2is4vgou41ro056a",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "桌子上",
+    "audioText": "the table",
+    "fullEnglish": "the table",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "table",
+        "answer": "table",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "桌子",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "table"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "table",
+        "role": "中心成分",
+        "zh": "桌子"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "table",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "zh": "桌子",
+        "componentZh": "桌子",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-dd5poelseug9a3i1ofiww38y-PHRASE-edhgiotmv89d5vgmzy9meio8",
+    "contentId": "JLB-dd5poelseug9a3i1ofiww38y-PHRASE-edhgiotmv89d5vgmzy9meio8",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "dd5poelseug9a3i1ofiww38y",
+    "unitTitle": "Unit 3 Welcome to My House--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "谢谢",
+    "audioText": "thank you",
+    "fullEnglish": "thank you",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "thank",
+        "answer": "thank",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "感谢",
+        "phonetic": "θæŋk",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "宾语"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "thank"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "thank",
+        "role": "谓语",
+        "zh": "感谢"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "宾语",
+        "zh": "你"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "thank",
+        "phonetic": "θæŋk",
+        "pos": "VERB",
+        "zh": "感谢",
+        "componentZh": "感谢",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "宾语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

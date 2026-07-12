@@ -1,0 +1,964 @@
+[
+  {
+    "id": "JLB-r4jee6mh5b8pv96lca7kf40f-S-ge1o13s3j2rl0qky6bevi6f1",
+    "contentId": "JLB-r4jee6mh5b8pv96lca7kf40f-S-ge1o13s3j2rl0qky6bevi6f1",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "r4jee6mh5b8pv96lca7kf40f",
+    "unitTitle": "Unit 6 Happy Holidays--Lesson 23【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "祝你圣诞快乐！",
+    "audioText": "Merry Christmas to you!",
+    "fullEnglish": "Merry Christmas to you!",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Merry",
+        "answer": "Merry",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "快乐的",
+        "phonetic": "ˈmeri",
+        "pos": "ADJ"
+      },
+      {
+        "index": 1,
+        "text": "Christmas",
+        "answer": "Christmas",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "圣诞节",
+        "phonetic": "ˈkrɪsməs",
+        "pos": "NOUN"
+      },
+      {
+        "index": 2,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "介词",
+        "zh": "对",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to you",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "对；你"
+      },
+      {
+        "index": 3,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to you",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "对；你"
+      },
+      {
+        "index": 4,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "祝你圣诞快乐！"
+      }
+    ],
+    "shuffledBlocks": [
+      "to",
+      "you",
+      "Christmas",
+      "Merry"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Merry",
+        "role": "补充成分",
+        "zh": "快乐的"
+      },
+      {
+        "id": "ud-2",
+        "text": "Christmas",
+        "role": "中心成分",
+        "zh": "圣诞节"
+      },
+      {
+        "id": "ud-3",
+        "text": "to you",
+        "role": "补充成分",
+        "zh": "对；你",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "to",
+            "role": "介词",
+            "zh": "对"
+          },
+          {
+            "id": "ud-5",
+            "text": "you",
+            "role": "中心词",
+            "zh": "你"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Merry",
+        "phonetic": "ˈmeri",
+        "pos": "ADJ",
+        "zh": "快乐的",
+        "componentRole": "补充成分",
+        "componentZh": "快乐的"
+      },
+      "1": {
+        "text": "Christmas",
+        "phonetic": "ˈkrɪsməs",
+        "pos": "NOUN",
+        "zh": "圣诞节",
+        "componentRole": "中心成分",
+        "componentZh": "圣诞节"
+      },
+      "2": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "对",
+        "componentRole": "介词",
+        "componentZh": "对",
+        "parentComponentText": "to you",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "对；你"
+      },
+      "3": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "中心词",
+        "componentZh": "你",
+        "parentComponentText": "to you",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "对；你"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r4jee6mh5b8pv96lca7kf40f-W-ge1o13s3j2rl0qky6bevi6f1-1",
+    "contentId": "JLB-r4jee6mh5b8pv96lca7kf40f-W-ge1o13s3j2rl0qky6bevi6f1-1",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "r4jee6mh5b8pv96lca7kf40f",
+    "unitTitle": "Unit 6 Happy Holidays--Lesson 23【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "快乐的",
+    "audioText": "Merry",
+    "fullEnglish": "Merry",
+    "phonetic": "ˈmeri",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Merry",
+        "answer": "Merry",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "快乐的",
+        "phonetic": "ˈmeri",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Merry"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Merry",
+        "phonetic": "ˈmeri",
+        "pos": "ADJ",
+        "zh": "快乐的",
+        "componentZh": "快乐的"
+      }
+    }
+  },
+  {
+    "id": "JLB-r4jee6mh5b8pv96lca7kf40f-W-ge1o13s3j2rl0qky6bevi6f1-2",
+    "contentId": "JLB-r4jee6mh5b8pv96lca7kf40f-W-ge1o13s3j2rl0qky6bevi6f1-2",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "r4jee6mh5b8pv96lca7kf40f",
+    "unitTitle": "Unit 6 Happy Holidays--Lesson 23【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "圣诞节",
+    "audioText": "Christmas",
+    "fullEnglish": "Christmas",
+    "phonetic": "ˈkrɪsməs",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Christmas",
+        "answer": "Christmas",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "圣诞节",
+        "phonetic": "ˈkrɪsməs",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Christmas"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Christmas",
+        "phonetic": "ˈkrɪsməs",
+        "pos": "NOUN",
+        "zh": "圣诞节",
+        "componentZh": "圣诞节"
+      }
+    }
+  },
+  {
+    "id": "JLB-r4jee6mh5b8pv96lca7kf40f-W-ge1o13s3j2rl0qky6bevi6f1-3",
+    "contentId": "JLB-r4jee6mh5b8pv96lca7kf40f-W-ge1o13s3j2rl0qky6bevi6f1-3",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "r4jee6mh5b8pv96lca7kf40f",
+    "unitTitle": "Unit 6 Happy Holidays--Lesson 23【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "给",
+    "audioText": "to",
+    "fullEnglish": "to",
+    "phonetic": "tuː; tə",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "对",
+        "phonetic": "tuː; tə",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "to"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "对",
+        "componentZh": "对"
+      }
+    }
+  },
+  {
+    "id": "JLB-r4jee6mh5b8pv96lca7kf40f-W-ge1o13s3j2rl0qky6bevi6f1-4",
+    "contentId": "JLB-r4jee6mh5b8pv96lca7kf40f-W-ge1o13s3j2rl0qky6bevi6f1-4",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "r4jee6mh5b8pv96lca7kf40f",
+    "unitTitle": "Unit 6 Happy Holidays--Lesson 23【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-r4jee6mh5b8pv96lca7kf40f-S-rsdk7uwess0v66vq83vjk8mu",
+    "contentId": "JLB-r4jee6mh5b8pv96lca7kf40f-S-rsdk7uwess0v66vq83vjk8mu",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "r4jee6mh5b8pv96lca7kf40f",
+    "unitTitle": "Unit 6 Happy Holidays--Lesson 23【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "圣诞快乐！",
+    "audioText": "Merry Christmas!",
+    "fullEnglish": "Merry Christmas!",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Merry",
+        "answer": "Merry",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "快乐的",
+        "phonetic": "ˈmeri",
+        "pos": "ADJ"
+      },
+      {
+        "index": 1,
+        "text": "Christmas",
+        "answer": "Christmas",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "圣诞节",
+        "phonetic": "ˈkrɪsməs",
+        "pos": "NOUN"
+      },
+      {
+        "index": 2,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "圣诞快乐！"
+      }
+    ],
+    "shuffledBlocks": [
+      "Merry",
+      "Christmas"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Merry",
+        "role": "补充成分",
+        "zh": "快乐的"
+      },
+      {
+        "id": "ud-2",
+        "text": "Christmas",
+        "role": "中心成分",
+        "zh": "圣诞节"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Merry",
+        "phonetic": "ˈmeri",
+        "pos": "ADJ",
+        "zh": "快乐的",
+        "componentRole": "补充成分",
+        "componentZh": "快乐的"
+      },
+      "1": {
+        "text": "Christmas",
+        "phonetic": "ˈkrɪsməs",
+        "pos": "NOUN",
+        "zh": "圣诞节",
+        "componentRole": "中心成分",
+        "componentZh": "圣诞节"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r4jee6mh5b8pv96lca7kf40f-S-jog27wsl6zid2cinu0q5tf5x",
+    "contentId": "JLB-r4jee6mh5b8pv96lca7kf40f-S-jog27wsl6zid2cinu0q5tf5x",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "r4jee6mh5b8pv96lca7kf40f",
+    "unitTitle": "Unit 6 Happy Holidays--Lesson 23【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "圣诞快乐，亲爱的圣诞老人！",
+    "audioText": "Merry Christmas, dear Santa!",
+    "fullEnglish": "Merry Christmas, dear Santa!",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Merry",
+        "answer": "Merry",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "快乐的",
+        "phonetic": "ˈmeri",
+        "pos": "ADJ"
+      },
+      {
+        "index": 1,
+        "text": "Christmas",
+        "answer": "Christmas",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "圣诞节",
+        "phonetic": "ˈkrɪsməs",
+        "pos": "NOUN"
+      },
+      {
+        "index": 2,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "圣诞快乐，亲爱的圣诞老人！"
+      },
+      {
+        "index": 3,
+        "text": "dear",
+        "answer": "dear",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "定语（形容词）",
+        "zh": "亲爱的",
+        "phonetic": "dɪr",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "dear Santa",
+        "parentComponentRole": "呼语",
+        "parentComponentZh": "亲爱的；Santa"
+      },
+      {
+        "index": 4,
+        "text": "Santa",
+        "answer": "Santa",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "Santa",
+        "phonetic": "ˈsæntə",
+        "pos": "PROPN_PERSON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "dear Santa",
+        "parentComponentRole": "呼语",
+        "parentComponentZh": "亲爱的；Santa"
+      },
+      {
+        "index": 5,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "圣诞快乐，亲爱的圣诞老人！"
+      }
+    ],
+    "shuffledBlocks": [
+      "dear",
+      "Santa",
+      "Christmas",
+      "Merry"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Merry",
+        "role": "补充成分",
+        "zh": "快乐的"
+      },
+      {
+        "id": "ud-2",
+        "text": "Christmas",
+        "role": "中心成分",
+        "zh": "圣诞节"
+      },
+      {
+        "id": "ud-3",
+        "text": "dear Santa",
+        "role": "呼语",
+        "zh": "亲爱的；Santa",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "dear",
+            "role": "定语（形容词）",
+            "zh": "亲爱的"
+          },
+          {
+            "id": "ud-5",
+            "text": "Santa",
+            "role": "中心词",
+            "zh": "Santa"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Merry",
+        "phonetic": "ˈmeri",
+        "pos": "ADJ",
+        "zh": "快乐的",
+        "componentRole": "补充成分",
+        "componentZh": "快乐的"
+      },
+      "1": {
+        "text": "Christmas",
+        "phonetic": "ˈkrɪsməs",
+        "pos": "NOUN",
+        "zh": "圣诞节",
+        "componentRole": "中心成分",
+        "componentZh": "圣诞节"
+      },
+      "3": {
+        "text": "dear",
+        "phonetic": "dɪr",
+        "pos": "ADJ",
+        "zh": "亲爱的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "亲爱的",
+        "parentComponentText": "dear Santa",
+        "parentComponentRole": "呼语",
+        "parentComponentZh": "亲爱的；Santa"
+      },
+      "4": {
+        "text": "Santa",
+        "phonetic": "ˈsæntə",
+        "pos": "PROPN_PERSON",
+        "zh": "Santa",
+        "componentRole": "中心词",
+        "componentZh": "Santa",
+        "parentComponentText": "dear Santa",
+        "parentComponentRole": "呼语",
+        "parentComponentZh": "亲爱的；Santa"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r4jee6mh5b8pv96lca7kf40f-W-jog27wsl6zid2cinu0q5tf5x-3",
+    "contentId": "JLB-r4jee6mh5b8pv96lca7kf40f-W-jog27wsl6zid2cinu0q5tf5x-3",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "r4jee6mh5b8pv96lca7kf40f",
+    "unitTitle": "Unit 6 Happy Holidays--Lesson 23【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "亲爱的",
+    "audioText": "dear",
+    "fullEnglish": "dear",
+    "phonetic": "dɪr",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "dear",
+        "answer": "dear",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "亲爱的",
+        "phonetic": "dɪr",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "dear"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "dear",
+        "phonetic": "dɪr",
+        "pos": "ADJ",
+        "zh": "亲爱的",
+        "componentZh": "亲爱的"
+      }
+    }
+  },
+  {
+    "id": "JLB-r4jee6mh5b8pv96lca7kf40f-W-jog27wsl6zid2cinu0q5tf5x-4",
+    "contentId": "JLB-r4jee6mh5b8pv96lca7kf40f-W-jog27wsl6zid2cinu0q5tf5x-4",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "r4jee6mh5b8pv96lca7kf40f",
+    "unitTitle": "Unit 6 Happy Holidays--Lesson 23【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Santa",
+    "audioText": "Santa",
+    "fullEnglish": "Santa",
+    "phonetic": "ˈsæntə",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Santa",
+        "answer": "Santa",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "Santa",
+        "phonetic": "ˈsæntə",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Santa"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Santa",
+        "phonetic": "ˈsæntə",
+        "pos": "PROPN_PERSON",
+        "zh": "Santa",
+        "componentZh": "Santa"
+      }
+    }
+  },
+  {
+    "id": "JLB-r4jee6mh5b8pv96lca7kf40f-PHRASE-zu1qngqi5naeilmhks1lmhvt",
+    "contentId": "JLB-r4jee6mh5b8pv96lca7kf40f-PHRASE-zu1qngqi5naeilmhks1lmhvt",
+    "type": "phrase",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "r4jee6mh5b8pv96lca7kf40f",
+    "unitTitle": "Unit 6 Happy Holidays--Lesson 23【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "圣诞快乐",
+    "audioText": "Merry Christmas",
+    "fullEnglish": "Merry Christmas",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Merry",
+        "answer": "Merry",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "快乐的",
+        "phonetic": "ˈmeri",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "Christmas",
+        "answer": "Christmas",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "圣诞节",
+        "phonetic": "ˈkrɪsməs",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "Merry",
+      "Christmas"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Merry",
+        "role": "补充成分",
+        "zh": "快乐的"
+      },
+      {
+        "id": "ud-2",
+        "text": "Christmas",
+        "role": "中心成分",
+        "zh": "圣诞节"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Merry",
+        "phonetic": "ˈmeri",
+        "pos": "ADJ",
+        "zh": "快乐的",
+        "componentZh": "快乐的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "Christmas",
+        "phonetic": "ˈkrɪsməs",
+        "pos": "NOUN",
+        "zh": "圣诞节",
+        "componentZh": "圣诞节",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r4jee6mh5b8pv96lca7kf40f-PHRASE-rde6t226ff5maaq8xzh0u7zm",
+    "contentId": "JLB-r4jee6mh5b8pv96lca7kf40f-PHRASE-rde6t226ff5maaq8xzh0u7zm",
+    "type": "phrase",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "r4jee6mh5b8pv96lca7kf40f",
+    "unitTitle": "Unit 6 Happy Holidays--Lesson 23【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "给你",
+    "audioText": "to you",
+    "fullEnglish": "to you",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "对",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "to",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "to",
+        "role": "补充成分",
+        "zh": "对"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "中心成分",
+        "zh": "你"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "对",
+        "componentZh": "对",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r4jee6mh5b8pv96lca7kf40f-PHRASE-jrq51hy6rg3tnqxvnpp3kjnm",
+    "contentId": "JLB-r4jee6mh5b8pv96lca7kf40f-PHRASE-jrq51hy6rg3tnqxvnpp3kjnm",
+    "type": "phrase",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "r4jee6mh5b8pv96lca7kf40f",
+    "unitTitle": "Unit 6 Happy Holidays--Lesson 23【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "亲爱的圣诞老人",
+    "audioText": "dear Santa",
+    "fullEnglish": "dear Santa",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "dear",
+        "answer": "dear",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "亲爱的",
+        "phonetic": "dɪr",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "Santa",
+        "answer": "Santa",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "Santa",
+        "phonetic": "ˈsæntə",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "Santa",
+      "dear"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "dear",
+        "role": "补充成分",
+        "zh": "亲爱的"
+      },
+      {
+        "id": "ud-2",
+        "text": "Santa",
+        "role": "中心成分",
+        "zh": "Santa"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "dear",
+        "phonetic": "dɪr",
+        "pos": "ADJ",
+        "zh": "亲爱的",
+        "componentZh": "亲爱的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "Santa",
+        "phonetic": "ˈsæntə",
+        "pos": "PROPN_PERSON",
+        "zh": "Santa",
+        "componentZh": "Santa",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

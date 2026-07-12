@@ -1,0 +1,4738 @@
+[
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-nrr01guo4chzg89x1rxke1bd",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-nrr01guo4chzg89x1rxke1bd",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我弄了些咖啡。",
+    "audioText": "I've got some coffee",
+    "fullEnglish": "I've got some coffee",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I've",
+        "answer": "I've",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词",
+        "zh": "我",
+        "phonetic": "aɪv",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "got",
+        "answer": "got",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some coffee",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；咖啡"
+      },
+      {
+        "index": 3,
+        "text": "coffee",
+        "answer": "coffee",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "咖啡",
+        "phonetic": "ˈkɔːfi",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some coffee",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；咖啡"
+      }
+    ],
+    "shuffledBlocks": [
+      "some",
+      "got",
+      "I've",
+      "coffee"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I've",
+        "role": "主语 + 助动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "got",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到"
+      },
+      {
+        "id": "ud-3",
+        "text": "some coffee",
+        "role": "宾语",
+        "zh": "一些；咖啡",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "some",
+            "role": "限定词",
+            "zh": "一些"
+          },
+          {
+            "id": "ud-5",
+            "text": "coffee",
+            "role": "中心词",
+            "zh": "咖啡"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I've",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "got",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "zh": "get（过去式）: 得到",
+        "componentRole": "谓语",
+        "componentZh": "get（过去式）: 得到"
+      },
+      "2": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some coffee",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；咖啡"
+      },
+      "3": {
+        "text": "coffee",
+        "phonetic": "ˈkɔːfi",
+        "pos": "NOUN",
+        "zh": "咖啡",
+        "componentRole": "中心词",
+        "componentZh": "咖啡",
+        "parentComponentText": "some coffee",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；咖啡"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-nrr01guo4chzg89x1rxke1bd-1",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-nrr01guo4chzg89x1rxke1bd-1",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I've",
+    "fullEnglish": "I've",
+    "phonetic": "aɪv",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I've",
+        "answer": "I've",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪv",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I've"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I've",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-nrr01guo4chzg89x1rxke1bd-2",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-nrr01guo4chzg89x1rxke1bd-2",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "get（过去分词）: 得到",
+    "audioText": "got",
+    "fullEnglish": "got",
+    "phonetic": "ɡɑːt",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "got",
+        "answer": "got",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "get（过去式）: 得到",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "got"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "got",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "zh": "get（过去式）: 得到",
+        "componentZh": "get（过去式）: 得到"
+      }
+    }
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-nrr01guo4chzg89x1rxke1bd-3",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-nrr01guo4chzg89x1rxke1bd-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些",
+    "audioText": "some",
+    "fullEnglish": "some",
+    "phonetic": "sʌm; səm",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "some"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些"
+      }
+    }
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-nrr01guo4chzg89x1rxke1bd-4",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-nrr01guo4chzg89x1rxke1bd-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "咖啡",
+    "audioText": "coffee",
+    "fullEnglish": "coffee",
+    "phonetic": "ˈkɔːfi",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "coffee",
+        "answer": "coffee",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "咖啡",
+        "phonetic": "ˈkɔːfi",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "coffee"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "coffee",
+        "phonetic": "ˈkɔːfi",
+        "pos": "NOUN",
+        "zh": "咖啡",
+        "componentZh": "咖啡"
+      }
+    }
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-vdwu711ohk1fdb9ou6fsvitb",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-vdwu711ohk1fdb9ou6fsvitb",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我拥有的比你少。",
+    "audioText": "I've got less than you have",
+    "fullEnglish": "I've got less than you have",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I've",
+        "answer": "I've",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词",
+        "zh": "我",
+        "phonetic": "aɪv",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "got",
+        "answer": "got",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "less",
+        "answer": "less",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "更少的",
+        "phonetic": "lɛs",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "less than you have",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "更少的；比；你；构成现在完成时"
+      },
+      {
+        "index": 3,
+        "text": "than",
+        "answer": "than",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "修饰语",
+        "zh": "比",
+        "phonetic": "ðæn; ðən",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "less than you have",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "更少的；比；你；构成现在完成时"
+      },
+      {
+        "index": 4,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "修饰语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "less than you have",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "更少的；比；你；构成现在完成时"
+      },
+      {
+        "index": 5,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "动词",
+        "zh": "构成现在完成时",
+        "phonetic": "hæv",
+        "pos": "AUX",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "less than you have",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "更少的；比；你；构成现在完成时"
+      }
+    ],
+    "shuffledBlocks": [
+      "I've",
+      "got",
+      "you",
+      "than",
+      "less",
+      "have"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I've",
+        "role": "主语 + 助动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "got",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到"
+      },
+      {
+        "id": "ud-3",
+        "text": "less than you have",
+        "role": "宾语",
+        "zh": "更少的；比；你；构成现在完成时",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "less",
+            "role": "中心词",
+            "zh": "更少的"
+          },
+          {
+            "id": "ud-5",
+            "text": "than",
+            "role": "修饰语",
+            "zh": "比"
+          },
+          {
+            "id": "ud-6",
+            "text": "you",
+            "role": "修饰语",
+            "zh": "你"
+          },
+          {
+            "id": "ud-7",
+            "text": "have",
+            "role": "动词",
+            "zh": "构成现在完成时"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I've",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "got",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "zh": "get（过去式）: 得到",
+        "componentRole": "谓语",
+        "componentZh": "get（过去式）: 得到"
+      },
+      "2": {
+        "text": "less",
+        "phonetic": "lɛs",
+        "pos": "ADJ",
+        "zh": "更少的",
+        "componentRole": "中心词",
+        "componentZh": "更少的",
+        "parentComponentText": "less than you have",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "更少的；比；你；构成现在完成时"
+      },
+      "3": {
+        "text": "than",
+        "phonetic": "ðæn; ðən",
+        "pos": "ADP",
+        "zh": "比",
+        "componentRole": "修饰语",
+        "componentZh": "比",
+        "parentComponentText": "less than you have",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "更少的；比；你；构成现在完成时"
+      },
+      "4": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "修饰语",
+        "componentZh": "你",
+        "parentComponentText": "less than you have",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "更少的；比；你；构成现在完成时"
+      },
+      "5": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "AUX",
+        "zh": "构成现在完成时",
+        "componentRole": "动词",
+        "componentZh": "构成现在完成时",
+        "parentComponentText": "less than you have",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "更少的；比；你；构成现在完成时"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-vdwu711ohk1fdb9ou6fsvitb-3",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-vdwu711ohk1fdb9ou6fsvitb-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "更少的",
+    "audioText": "less",
+    "fullEnglish": "less",
+    "phonetic": "lɛs",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "less",
+        "answer": "less",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "更少的",
+        "phonetic": "lɛs",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "less"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "less",
+        "phonetic": "lɛs",
+        "pos": "ADJ",
+        "zh": "更少的",
+        "componentZh": "更少的"
+      }
+    }
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-vdwu711ohk1fdb9ou6fsvitb-4",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-vdwu711ohk1fdb9ou6fsvitb-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "比",
+    "audioText": "than",
+    "fullEnglish": "than",
+    "phonetic": "ðæn; ðən",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "than",
+        "answer": "than",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "比",
+        "phonetic": "ðæn; ðən",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "than"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "than",
+        "phonetic": "ðæn; ðən",
+        "pos": "ADP",
+        "zh": "比",
+        "componentZh": "比"
+      }
+    }
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-vdwu711ohk1fdb9ou6fsvitb-5",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-vdwu711ohk1fdb9ou6fsvitb-5",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-vdwu711ohk1fdb9ou6fsvitb-6",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-vdwu711ohk1fdb9ou6fsvitb-6",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "有",
+    "audioText": "have",
+    "fullEnglish": "have",
+    "phonetic": "hæv",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "构成现在完成时",
+        "phonetic": "hæv",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "have"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "AUX",
+        "zh": "构成现在完成时",
+        "componentZh": "构成现在完成时"
+      }
+    }
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-z7wmyddrxbc098epigm6np68",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-z7wmyddrxbc098epigm6np68",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我几乎一无所有。",
+    "audioText": "I've got very little",
+    "fullEnglish": "I've got very little",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I've",
+        "answer": "I've",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词",
+        "zh": "我",
+        "phonetic": "aɪv",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "got",
+        "answer": "got",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "方式/程度状语",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "very little",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "非常；少的"
+      },
+      {
+        "index": 3,
+        "text": "little",
+        "answer": "little",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心成分",
+        "zh": "少的",
+        "phonetic": "ˈlɪtl",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "very little",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "非常；少的"
+      }
+    ],
+    "shuffledBlocks": [
+      "got",
+      "little",
+      "very",
+      "I've"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I've",
+        "role": "主语 + 助动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "got",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到"
+      },
+      {
+        "id": "ud-3",
+        "text": "very little",
+        "role": "宾语补足语",
+        "zh": "非常；少的",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "very",
+            "role": "方式/程度状语",
+            "zh": "非常"
+          },
+          {
+            "id": "ud-5",
+            "text": "little",
+            "role": "中心成分",
+            "zh": "少的"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I've",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "got",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "zh": "get（过去式）: 得到",
+        "componentRole": "谓语",
+        "componentZh": "get（过去式）: 得到"
+      },
+      "2": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentRole": "方式/程度状语",
+        "componentZh": "非常",
+        "parentComponentText": "very little",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "非常；少的"
+      },
+      "3": {
+        "text": "little",
+        "phonetic": "ˈlɪtl",
+        "pos": "ADJ",
+        "zh": "少的",
+        "componentRole": "中心成分",
+        "componentZh": "少的",
+        "parentComponentText": "very little",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "非常；少的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-z7wmyddrxbc098epigm6np68-3",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-z7wmyddrxbc098epigm6np68-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "非常",
+    "audioText": "very",
+    "fullEnglish": "very",
+    "phonetic": "ˈveri",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "very"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentZh": "非常"
+      }
+    }
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-z7wmyddrxbc098epigm6np68-4",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-z7wmyddrxbc098epigm6np68-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "少的",
+    "audioText": "little",
+    "fullEnglish": "little",
+    "phonetic": "ˈlɪtl",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "little",
+        "answer": "little",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "少的",
+        "phonetic": "ˈlɪtl",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "little"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "little",
+        "phonetic": "ˈlɪtl",
+        "pos": "ADJ",
+        "zh": "少的",
+        "componentZh": "少的"
+      }
+    }
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-m8upu09atoyiqb5wdsj8i59u",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-m8upu09atoyiqb5wdsj8i59u",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我有几本书。",
+    "audioText": "I've got some books",
+    "fullEnglish": "I've got some books",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I've",
+        "answer": "I've",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词",
+        "zh": "我",
+        "phonetic": "aɪv",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "got",
+        "answer": "got",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some books",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；书（复数）"
+      },
+      {
+        "index": 3,
+        "text": "books",
+        "answer": "books",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "书（复数）",
+        "phonetic": "bʊks",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some books",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；书（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "got",
+      "books",
+      "some",
+      "I've"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I've",
+        "role": "主语 + 助动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "got",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到"
+      },
+      {
+        "id": "ud-3",
+        "text": "some books",
+        "role": "宾语",
+        "zh": "一些；书（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "some",
+            "role": "限定词",
+            "zh": "一些"
+          },
+          {
+            "id": "ud-5",
+            "text": "books",
+            "role": "中心词",
+            "zh": "书（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I've",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "got",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "zh": "get（过去式）: 得到",
+        "componentRole": "谓语",
+        "componentZh": "get（过去式）: 得到"
+      },
+      "2": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some books",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；书（复数）"
+      },
+      "3": {
+        "text": "books",
+        "phonetic": "bʊks",
+        "pos": "NOUN",
+        "zh": "书（复数）",
+        "componentRole": "中心词",
+        "componentZh": "书（复数）",
+        "parentComponentText": "some books",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；书（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-m8upu09atoyiqb5wdsj8i59u-4",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-m8upu09atoyiqb5wdsj8i59u-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "书（复数）",
+    "audioText": "books",
+    "fullEnglish": "books",
+    "phonetic": "bʊks",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "books",
+        "answer": "books",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "书（复数）",
+        "phonetic": "bʊks",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "books"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "books",
+        "phonetic": "bʊks",
+        "pos": "NOUN",
+        "zh": "书（复数）",
+        "componentZh": "书（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-gdthfc215bkh9d1cbhsa89ok",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-gdthfc215bkh9d1cbhsa89ok",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我有的比你少。",
+    "audioText": "I've got fewer than you have",
+    "fullEnglish": "I've got fewer than you have",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I've",
+        "answer": "I've",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词",
+        "zh": "我",
+        "phonetic": "aɪv",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "got",
+        "answer": "got",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "fewer",
+        "answer": "fewer",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "更少的（复数）",
+        "phonetic": "fjuːər",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "fewer than you have",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "更少的（复数）；比；你；构成现在完成时"
+      },
+      {
+        "index": 3,
+        "text": "than",
+        "answer": "than",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "修饰语",
+        "zh": "比",
+        "phonetic": "ðæn; ðən",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "fewer than you have",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "更少的（复数）；比；你；构成现在完成时"
+      },
+      {
+        "index": 4,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "修饰语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "fewer than you have",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "更少的（复数）；比；你；构成现在完成时"
+      },
+      {
+        "index": 5,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "动词",
+        "zh": "构成现在完成时",
+        "phonetic": "hæv",
+        "pos": "AUX",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "fewer than you have",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "更少的（复数）；比；你；构成现在完成时"
+      }
+    ],
+    "shuffledBlocks": [
+      "I've",
+      "fewer",
+      "you",
+      "than",
+      "have",
+      "got"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I've",
+        "role": "主语 + 助动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "got",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到"
+      },
+      {
+        "id": "ud-3",
+        "text": "fewer than you have",
+        "role": "宾语",
+        "zh": "更少的（复数）；比；你；构成现在完成时",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "fewer",
+            "role": "中心词",
+            "zh": "更少的（复数）"
+          },
+          {
+            "id": "ud-5",
+            "text": "than",
+            "role": "修饰语",
+            "zh": "比"
+          },
+          {
+            "id": "ud-6",
+            "text": "you",
+            "role": "修饰语",
+            "zh": "你"
+          },
+          {
+            "id": "ud-7",
+            "text": "have",
+            "role": "动词",
+            "zh": "构成现在完成时"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I've",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "got",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "zh": "get（过去式）: 得到",
+        "componentRole": "谓语",
+        "componentZh": "get（过去式）: 得到"
+      },
+      "2": {
+        "text": "fewer",
+        "phonetic": "fjuːər",
+        "pos": "ADJ",
+        "zh": "更少的（复数）",
+        "componentRole": "中心词",
+        "componentZh": "更少的（复数）",
+        "parentComponentText": "fewer than you have",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "更少的（复数）；比；你；构成现在完成时"
+      },
+      "3": {
+        "text": "than",
+        "phonetic": "ðæn; ðən",
+        "pos": "ADP",
+        "zh": "比",
+        "componentRole": "修饰语",
+        "componentZh": "比",
+        "parentComponentText": "fewer than you have",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "更少的（复数）；比；你；构成现在完成时"
+      },
+      "4": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "修饰语",
+        "componentZh": "你",
+        "parentComponentText": "fewer than you have",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "更少的（复数）；比；你；构成现在完成时"
+      },
+      "5": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "AUX",
+        "zh": "构成现在完成时",
+        "componentRole": "动词",
+        "componentZh": "构成现在完成时",
+        "parentComponentText": "fewer than you have",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "更少的（复数）；比；你；构成现在完成时"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-gdthfc215bkh9d1cbhsa89ok-3",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-gdthfc215bkh9d1cbhsa89ok-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "更少的（复数）",
+    "audioText": "fewer",
+    "fullEnglish": "fewer",
+    "phonetic": "fjuːər",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "fewer",
+        "answer": "fewer",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "更少的（复数）",
+        "phonetic": "fjuːər",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "fewer"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "fewer",
+        "phonetic": "fjuːər",
+        "pos": "ADJ",
+        "zh": "更少的（复数）",
+        "componentZh": "更少的（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-sht8yd6b7ft4bztq8b7jr7j9",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-sht8yd6b7ft4bztq8b7jr7j9",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我拥有的很少。",
+    "audioText": "I've got very few",
+    "fullEnglish": "I've got very few",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I've",
+        "answer": "I've",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词",
+        "zh": "我",
+        "phonetic": "aɪv",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "got",
+        "answer": "got",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "方式/程度状语",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "very few",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "非常；很少的"
+      },
+      {
+        "index": 3,
+        "text": "few",
+        "answer": "few",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心成分",
+        "zh": "很少的",
+        "phonetic": "fjuː",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "very few",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "非常；很少的"
+      }
+    ],
+    "shuffledBlocks": [
+      "I've",
+      "very",
+      "got",
+      "few"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I've",
+        "role": "主语 + 助动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "got",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到"
+      },
+      {
+        "id": "ud-3",
+        "text": "very few",
+        "role": "宾语补足语",
+        "zh": "非常；很少的",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "very",
+            "role": "方式/程度状语",
+            "zh": "非常"
+          },
+          {
+            "id": "ud-5",
+            "text": "few",
+            "role": "中心成分",
+            "zh": "很少的"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I've",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "got",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "zh": "get（过去式）: 得到",
+        "componentRole": "谓语",
+        "componentZh": "get（过去式）: 得到"
+      },
+      "2": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentRole": "方式/程度状语",
+        "componentZh": "非常",
+        "parentComponentText": "very few",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "非常；很少的"
+      },
+      "3": {
+        "text": "few",
+        "phonetic": "fjuː",
+        "pos": "ADJ",
+        "zh": "很少的",
+        "componentRole": "中心成分",
+        "componentZh": "很少的",
+        "parentComponentText": "very few",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "非常；很少的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-sht8yd6b7ft4bztq8b7jr7j9-4",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-sht8yd6b7ft4bztq8b7jr7j9-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "很少的",
+    "audioText": "few",
+    "fullEnglish": "few",
+    "phonetic": "fjuː",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "few",
+        "answer": "few",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "很少的",
+        "phonetic": "fjuː",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "few"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "few",
+        "phonetic": "fjuː",
+        "pos": "ADJ",
+        "zh": "很少的",
+        "componentZh": "很少的"
+      }
+    }
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-rzrcb46x9yncbw5djc7txylw",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-rzrcb46x9yncbw5djc7txylw",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我有一些肉。",
+    "audioText": "I've got some meat",
+    "fullEnglish": "I've got some meat",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I've",
+        "answer": "I've",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词",
+        "zh": "我",
+        "phonetic": "aɪv",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "got",
+        "answer": "got",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some meat",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；肉"
+      },
+      {
+        "index": 3,
+        "text": "meat",
+        "answer": "meat",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "肉",
+        "phonetic": "miːt",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some meat",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；肉"
+      }
+    ],
+    "shuffledBlocks": [
+      "some",
+      "meat",
+      "got",
+      "I've"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I've",
+        "role": "主语 + 助动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "got",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到"
+      },
+      {
+        "id": "ud-3",
+        "text": "some meat",
+        "role": "宾语",
+        "zh": "一些；肉",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "some",
+            "role": "限定词",
+            "zh": "一些"
+          },
+          {
+            "id": "ud-5",
+            "text": "meat",
+            "role": "中心词",
+            "zh": "肉"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I've",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "got",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "zh": "get（过去式）: 得到",
+        "componentRole": "谓语",
+        "componentZh": "get（过去式）: 得到"
+      },
+      "2": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some meat",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；肉"
+      },
+      "3": {
+        "text": "meat",
+        "phonetic": "miːt",
+        "pos": "NOUN",
+        "zh": "肉",
+        "componentRole": "中心词",
+        "componentZh": "肉",
+        "parentComponentText": "some meat",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；肉"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-rzrcb46x9yncbw5djc7txylw-4",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-rzrcb46x9yncbw5djc7txylw-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "肉",
+    "audioText": "meat",
+    "fullEnglish": "meat",
+    "phonetic": "miːt",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "meat",
+        "answer": "meat",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "肉",
+        "phonetic": "miːt",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "meat"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "meat",
+        "phonetic": "miːt",
+        "pos": "NOUN",
+        "zh": "肉",
+        "componentZh": "肉"
+      }
+    }
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-v3y3vltatejplin5vh6beyoy",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-v3y3vltatejplin5vh6beyoy",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我有一些钱。",
+    "audioText": "I've got some money",
+    "fullEnglish": "I've got some money",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I've",
+        "answer": "I've",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词",
+        "zh": "我",
+        "phonetic": "aɪv",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "got",
+        "answer": "got",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some money",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；钱"
+      },
+      {
+        "index": 3,
+        "text": "money",
+        "answer": "money",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "钱",
+        "phonetic": "ˈmʌni",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some money",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；钱"
+      }
+    ],
+    "shuffledBlocks": [
+      "I've",
+      "some",
+      "money",
+      "got"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I've",
+        "role": "主语 + 助动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "got",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到"
+      },
+      {
+        "id": "ud-3",
+        "text": "some money",
+        "role": "宾语",
+        "zh": "一些；钱",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "some",
+            "role": "限定词",
+            "zh": "一些"
+          },
+          {
+            "id": "ud-5",
+            "text": "money",
+            "role": "中心词",
+            "zh": "钱"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I've",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "got",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "zh": "get（过去式）: 得到",
+        "componentRole": "谓语",
+        "componentZh": "get（过去式）: 得到"
+      },
+      "2": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some money",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；钱"
+      },
+      "3": {
+        "text": "money",
+        "phonetic": "ˈmʌni",
+        "pos": "NOUN",
+        "zh": "钱",
+        "componentRole": "中心词",
+        "componentZh": "钱",
+        "parentComponentText": "some money",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；钱"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-v3y3vltatejplin5vh6beyoy-4",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-v3y3vltatejplin5vh6beyoy-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "钱",
+    "audioText": "money",
+    "fullEnglish": "money",
+    "phonetic": "ˈmʌni",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "money",
+        "answer": "money",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "钱",
+        "phonetic": "ˈmʌni",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "money"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "money",
+        "phonetic": "ˈmʌni",
+        "pos": "NOUN",
+        "zh": "钱",
+        "componentZh": "钱"
+      }
+    }
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-n9pirrta4czgusje1fxw5wka",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-n9pirrta4czgusje1fxw5wka",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我有一些蔬菜。",
+    "audioText": "I've got some vegetables",
+    "fullEnglish": "I've got some vegetables",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I've",
+        "answer": "I've",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词",
+        "zh": "我",
+        "phonetic": "aɪv",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "got",
+        "answer": "got",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some vegetables",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；蔬菜（复数）"
+      },
+      {
+        "index": 3,
+        "text": "vegetables",
+        "answer": "vegetables",
+        "blank": "__________",
+        "letterCount": 10,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "蔬菜（复数）",
+        "phonetic": "ˈvedʒtəb(ə)lz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some vegetables",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；蔬菜（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "got",
+      "some",
+      "vegetables",
+      "I've"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I've",
+        "role": "主语 + 助动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "got",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到"
+      },
+      {
+        "id": "ud-3",
+        "text": "some vegetables",
+        "role": "宾语",
+        "zh": "一些；蔬菜（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "some",
+            "role": "限定词",
+            "zh": "一些"
+          },
+          {
+            "id": "ud-5",
+            "text": "vegetables",
+            "role": "中心词",
+            "zh": "蔬菜（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I've",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "got",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "zh": "get（过去式）: 得到",
+        "componentRole": "谓语",
+        "componentZh": "get（过去式）: 得到"
+      },
+      "2": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some vegetables",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；蔬菜（复数）"
+      },
+      "3": {
+        "text": "vegetables",
+        "phonetic": "ˈvedʒtəb(ə)lz",
+        "pos": "NOUN",
+        "zh": "蔬菜（复数）",
+        "componentRole": "中心词",
+        "componentZh": "蔬菜（复数）",
+        "parentComponentText": "some vegetables",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；蔬菜（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-n9pirrta4czgusje1fxw5wka-4",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-n9pirrta4czgusje1fxw5wka-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "蔬菜（复数）",
+    "audioText": "vegetables",
+    "fullEnglish": "vegetables",
+    "phonetic": "ˈvedʒtəb(ə)lz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "vegetables",
+        "answer": "vegetables",
+        "blank": "__________",
+        "letterCount": 10,
+        "fillable": true,
+        "type": "word",
+        "zh": "蔬菜（复数）",
+        "phonetic": "ˈvedʒtəb(ə)lz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "vegetables"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "vegetables",
+        "phonetic": "ˈvedʒtəb(ə)lz",
+        "pos": "NOUN",
+        "zh": "蔬菜（复数）",
+        "componentZh": "蔬菜（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-y12vvvd5gp8dx36lvu298bt8",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-y12vvvd5gp8dx36lvu298bt8",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我有一些饼干。",
+    "audioText": "I've got some biscuits",
+    "fullEnglish": "I've got some biscuits",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I've",
+        "answer": "I've",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词",
+        "zh": "我",
+        "phonetic": "aɪv",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "got",
+        "answer": "got",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some biscuits",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；饼干（复数）"
+      },
+      {
+        "index": 3,
+        "text": "biscuits",
+        "answer": "biscuits",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "饼干（复数）",
+        "phonetic": "ˈbɪskɪts",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some biscuits",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；饼干（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "I've",
+      "biscuits",
+      "some",
+      "got"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I've",
+        "role": "主语 + 助动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "got",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到"
+      },
+      {
+        "id": "ud-3",
+        "text": "some biscuits",
+        "role": "宾语",
+        "zh": "一些；饼干（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "some",
+            "role": "限定词",
+            "zh": "一些"
+          },
+          {
+            "id": "ud-5",
+            "text": "biscuits",
+            "role": "中心词",
+            "zh": "饼干（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I've",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "got",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "zh": "get（过去式）: 得到",
+        "componentRole": "谓语",
+        "componentZh": "get（过去式）: 得到"
+      },
+      "2": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some biscuits",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；饼干（复数）"
+      },
+      "3": {
+        "text": "biscuits",
+        "phonetic": "ˈbɪskɪts",
+        "pos": "NOUN",
+        "zh": "饼干（复数）",
+        "componentRole": "中心词",
+        "componentZh": "饼干（复数）",
+        "parentComponentText": "some biscuits",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；饼干（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-y12vvvd5gp8dx36lvu298bt8-4",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-y12vvvd5gp8dx36lvu298bt8-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "饼干（复数）",
+    "audioText": "biscuits",
+    "fullEnglish": "biscuits",
+    "phonetic": "ˈbɪskɪts",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "biscuits",
+        "answer": "biscuits",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "饼干（复数）",
+        "phonetic": "ˈbɪskɪts",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "biscuits"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "biscuits",
+        "phonetic": "ˈbɪskɪts",
+        "pos": "NOUN",
+        "zh": "饼干（复数）",
+        "componentZh": "饼干（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-v7udk0kdaf46fzmy9m3bzqa6",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-v7udk0kdaf46fzmy9m3bzqa6",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我有一些文具。",
+    "audioText": "I've got some stationery",
+    "fullEnglish": "I've got some stationery",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I've",
+        "answer": "I've",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词",
+        "zh": "我",
+        "phonetic": "aɪv",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "got",
+        "answer": "got",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some stationery",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；文具"
+      },
+      {
+        "index": 3,
+        "text": "stationery",
+        "answer": "stationery",
+        "blank": "__________",
+        "letterCount": 10,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "文具",
+        "phonetic": "ˈsteɪʃəneri",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some stationery",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；文具"
+      }
+    ],
+    "shuffledBlocks": [
+      "stationery",
+      "I've",
+      "got",
+      "some"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I've",
+        "role": "主语 + 助动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "got",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到"
+      },
+      {
+        "id": "ud-3",
+        "text": "some stationery",
+        "role": "宾语",
+        "zh": "一些；文具",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "some",
+            "role": "限定词",
+            "zh": "一些"
+          },
+          {
+            "id": "ud-5",
+            "text": "stationery",
+            "role": "中心词",
+            "zh": "文具"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I've",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "got",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "zh": "get（过去式）: 得到",
+        "componentRole": "谓语",
+        "componentZh": "get（过去式）: 得到"
+      },
+      "2": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some stationery",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；文具"
+      },
+      "3": {
+        "text": "stationery",
+        "phonetic": "ˈsteɪʃəneri",
+        "pos": "NOUN",
+        "zh": "文具",
+        "componentRole": "中心词",
+        "componentZh": "文具",
+        "parentComponentText": "some stationery",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；文具"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-v7udk0kdaf46fzmy9m3bzqa6-4",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-v7udk0kdaf46fzmy9m3bzqa6-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "文具",
+    "audioText": "stationery",
+    "fullEnglish": "stationery",
+    "phonetic": "ˈsteɪʃəneri",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "stationery",
+        "answer": "stationery",
+        "blank": "__________",
+        "letterCount": 10,
+        "fillable": true,
+        "type": "word",
+        "zh": "文具",
+        "phonetic": "ˈsteɪʃəneri",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "stationery"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "stationery",
+        "phonetic": "ˈsteɪʃəneri",
+        "pos": "NOUN",
+        "zh": "文具",
+        "componentZh": "文具"
+      }
+    }
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-w65q8a6ev3r7vofaytac2nxq",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-w65q8a6ev3r7vofaytac2nxq",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我有一些巧克力。",
+    "audioText": "I've got some chocolate",
+    "fullEnglish": "I've got some chocolate",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I've",
+        "answer": "I've",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词",
+        "zh": "我",
+        "phonetic": "aɪv",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "got",
+        "answer": "got",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some chocolate",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；巧克力"
+      },
+      {
+        "index": 3,
+        "text": "chocolate",
+        "answer": "chocolate",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "巧克力",
+        "phonetic": "ˈtʃɔːklət",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some chocolate",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；巧克力"
+      }
+    ],
+    "shuffledBlocks": [
+      "I've",
+      "some",
+      "chocolate",
+      "got"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I've",
+        "role": "主语 + 助动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "got",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到"
+      },
+      {
+        "id": "ud-3",
+        "text": "some chocolate",
+        "role": "宾语",
+        "zh": "一些；巧克力",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "some",
+            "role": "限定词",
+            "zh": "一些"
+          },
+          {
+            "id": "ud-5",
+            "text": "chocolate",
+            "role": "中心词",
+            "zh": "巧克力"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I've",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "got",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "zh": "get（过去式）: 得到",
+        "componentRole": "谓语",
+        "componentZh": "get（过去式）: 得到"
+      },
+      "2": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some chocolate",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；巧克力"
+      },
+      "3": {
+        "text": "chocolate",
+        "phonetic": "ˈtʃɔːklət",
+        "pos": "NOUN",
+        "zh": "巧克力",
+        "componentRole": "中心词",
+        "componentZh": "巧克力",
+        "parentComponentText": "some chocolate",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；巧克力"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-w65q8a6ev3r7vofaytac2nxq-4",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-w65q8a6ev3r7vofaytac2nxq-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "巧克力",
+    "audioText": "chocolate",
+    "fullEnglish": "chocolate",
+    "phonetic": "ˈtʃɔːklət",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "chocolate",
+        "answer": "chocolate",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "巧克力",
+        "phonetic": "ˈtʃɔːklət",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "chocolate"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "chocolate",
+        "phonetic": "ˈtʃɔːklət",
+        "pos": "NOUN",
+        "zh": "巧克力",
+        "componentZh": "巧克力"
+      }
+    }
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-hpmmmrwojn1xapzx9sa33mty",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-hpmmmrwojn1xapzx9sa33mty",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我收到了一些礼物。",
+    "audioText": "I've got some presents",
+    "fullEnglish": "I've got some presents",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I've",
+        "answer": "I've",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词",
+        "zh": "我",
+        "phonetic": "aɪv",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "got",
+        "answer": "got",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some presents",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；礼物（复数）"
+      },
+      {
+        "index": 3,
+        "text": "presents",
+        "answer": "presents",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "礼物（复数）",
+        "phonetic": "ˈprez(ə)nts",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some presents",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；礼物（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "presents",
+      "I've",
+      "got",
+      "some"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I've",
+        "role": "主语 + 助动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "got",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到"
+      },
+      {
+        "id": "ud-3",
+        "text": "some presents",
+        "role": "宾语",
+        "zh": "一些；礼物（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "some",
+            "role": "限定词",
+            "zh": "一些"
+          },
+          {
+            "id": "ud-5",
+            "text": "presents",
+            "role": "中心词",
+            "zh": "礼物（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I've",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "got",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "zh": "get（过去式）: 得到",
+        "componentRole": "谓语",
+        "componentZh": "get（过去式）: 得到"
+      },
+      "2": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some presents",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；礼物（复数）"
+      },
+      "3": {
+        "text": "presents",
+        "phonetic": "ˈprez(ə)nts",
+        "pos": "NOUN",
+        "zh": "礼物（复数）",
+        "componentRole": "中心词",
+        "componentZh": "礼物（复数）",
+        "parentComponentText": "some presents",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；礼物（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-hpmmmrwojn1xapzx9sa33mty-4",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-hpmmmrwojn1xapzx9sa33mty-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "礼物（复数）",
+    "audioText": "presents",
+    "fullEnglish": "presents",
+    "phonetic": "ˈprez(ə)nts",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "presents",
+        "answer": "presents",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "礼物（复数）",
+        "phonetic": "ˈprez(ə)nts",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "presents"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "presents",
+        "phonetic": "ˈprez(ə)nts",
+        "pos": "NOUN",
+        "zh": "礼物（复数）",
+        "componentZh": "礼物（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-t5g5dq1odauqay3i5dhljth7",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-S-t5g5dq1odauqay3i5dhljth7",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我弄到了一些墨水。",
+    "audioText": "I've got some ink",
+    "fullEnglish": "I've got some ink",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I've",
+        "answer": "I've",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词",
+        "zh": "我",
+        "phonetic": "aɪv",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "got",
+        "answer": "got",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some ink",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；墨水"
+      },
+      {
+        "index": 3,
+        "text": "ink",
+        "answer": "ink",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "墨水",
+        "phonetic": "ɪŋk",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some ink",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；墨水"
+      }
+    ],
+    "shuffledBlocks": [
+      "I've",
+      "some",
+      "got",
+      "ink"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I've",
+        "role": "主语 + 助动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "got",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到"
+      },
+      {
+        "id": "ud-3",
+        "text": "some ink",
+        "role": "宾语",
+        "zh": "一些；墨水",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "some",
+            "role": "限定词",
+            "zh": "一些"
+          },
+          {
+            "id": "ud-5",
+            "text": "ink",
+            "role": "中心词",
+            "zh": "墨水"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I've",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "got",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "zh": "get（过去式）: 得到",
+        "componentRole": "谓语",
+        "componentZh": "get（过去式）: 得到"
+      },
+      "2": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some ink",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；墨水"
+      },
+      "3": {
+        "text": "ink",
+        "phonetic": "ɪŋk",
+        "pos": "NOUN",
+        "zh": "墨水",
+        "componentRole": "中心词",
+        "componentZh": "墨水",
+        "parentComponentText": "some ink",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；墨水"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-t5g5dq1odauqay3i5dhljth7-4",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-W-t5g5dq1odauqay3i5dhljth7-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "墨水",
+    "audioText": "ink",
+    "fullEnglish": "ink",
+    "phonetic": "ɪŋk",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "ink",
+        "answer": "ink",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "墨水",
+        "phonetic": "ɪŋk",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "ink"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "ink",
+        "phonetic": "ɪŋk",
+        "pos": "NOUN",
+        "zh": "墨水",
+        "componentZh": "墨水"
+      }
+    }
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-q9seby786m22lfrv7sul940z",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-q9seby786m22lfrv7sul940z",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我有",
+    "audioText": "I've got",
+    "fullEnglish": "I've got",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I've",
+        "answer": "I've",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词"
+      },
+      {
+        "index": 1,
+        "text": "got",
+        "answer": "got",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "get（过去式）: 得到",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "I've",
+      "got"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I've",
+        "role": "主语 + 助动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "got",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I've",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语 + 助动词"
+      },
+      "1": {
+        "text": "got",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "zh": "get（过去式）: 得到",
+        "componentZh": "get（过去式）: 得到",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-okrz2d3tc2zb1obtei8jyi15",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-okrz2d3tc2zb1obtei8jyi15",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些咖啡",
+    "audioText": "some coffee",
+    "fullEnglish": "some coffee",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "coffee",
+        "answer": "coffee",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "咖啡",
+        "phonetic": "ˈkɔːfi",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "coffee",
+      "some"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "coffee",
+        "role": "中心成分",
+        "zh": "咖啡"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "coffee",
+        "phonetic": "ˈkɔːfi",
+        "pos": "NOUN",
+        "zh": "咖啡",
+        "componentZh": "咖啡",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-arua4zavapc87hnfuy1tsawb",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-arua4zavapc87hnfuy1tsawb",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你有",
+    "audioText": "you have",
+    "fullEnglish": "you have",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "构成现在完成时",
+        "phonetic": "hæv",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "have"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-2",
+        "text": "have",
+        "role": "谓语",
+        "zh": "构成现在完成时"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "AUX",
+        "zh": "构成现在完成时",
+        "componentZh": "构成现在完成时",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-kaoxxg948khlumu4h7wxp91e",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-kaoxxg948khlumu4h7wxp91e",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "非常少",
+    "audioText": "very little",
+    "fullEnglish": "very little",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "little",
+        "answer": "little",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "少的",
+        "phonetic": "ˈlɪtl",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "little",
+      "very"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "very",
+        "role": "方式/程度状语",
+        "zh": "非常"
+      },
+      {
+        "id": "ud-2",
+        "text": "little",
+        "role": "中心成分",
+        "zh": "少的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentZh": "非常",
+        "componentRole": "方式/程度状语"
+      },
+      "1": {
+        "text": "little",
+        "phonetic": "ˈlɪtl",
+        "pos": "ADJ",
+        "zh": "少的",
+        "componentZh": "少的",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-ft7f1zav4r43wzwjsttj35hw",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-ft7f1zav4r43wzwjsttj35hw",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些书",
+    "audioText": "some books",
+    "fullEnglish": "some books",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "books",
+        "answer": "books",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "书（复数）",
+        "phonetic": "bʊks",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "books",
+      "some"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "books",
+        "role": "中心成分",
+        "zh": "书（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "books",
+        "phonetic": "bʊks",
+        "pos": "NOUN",
+        "zh": "书（复数）",
+        "componentZh": "书（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-juvb15dvdgm8uy9emhrgbqw4",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-juvb15dvdgm8uy9emhrgbqw4",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我拥有的更少",
+    "audioText": "I've got fewer",
+    "fullEnglish": "I've got fewer",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I've",
+        "answer": "I've",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词"
+      },
+      {
+        "index": 1,
+        "text": "got",
+        "answer": "got",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "get（过去式）: 得到",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      },
+      {
+        "index": 2,
+        "text": "fewer",
+        "answer": "fewer",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "更少的（复数）",
+        "phonetic": "fjuːər",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "宾语"
+      }
+    ],
+    "shuffledBlocks": [
+      "got",
+      "I've",
+      "fewer"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I've",
+        "role": "主语 + 助动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "got",
+        "role": "谓语",
+        "zh": "get（过去式）: 得到"
+      },
+      {
+        "id": "ud-3",
+        "text": "fewer",
+        "role": "宾语",
+        "zh": "更少的（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I've",
+        "phonetic": "aɪv",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语 + 助动词"
+      },
+      "1": {
+        "text": "got",
+        "phonetic": "ɡɑːt",
+        "pos": "VERB",
+        "zh": "get（过去式）: 得到",
+        "componentZh": "get（过去式）: 得到",
+        "componentRole": "谓语"
+      },
+      "2": {
+        "text": "fewer",
+        "phonetic": "fjuːər",
+        "pos": "ADJ",
+        "zh": "更少的（复数）",
+        "componentZh": "更少的（复数）",
+        "componentRole": "宾语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-a1r3j8yr8s63gtet8muktb2r",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-a1r3j8yr8s63gtet8muktb2r",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "比你拥有的",
+    "audioText": "than you have",
+    "fullEnglish": "than you have",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "than",
+        "answer": "than",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "比",
+        "phonetic": "ðæn; ðən",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "连接词"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "构成现在完成时",
+        "phonetic": "hæv",
+        "pos": "AUX",
+        "componentId": "ud-3",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "have",
+      "than",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "than",
+        "role": "连接词",
+        "zh": "比"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "have",
+        "role": "谓语",
+        "zh": "构成现在完成时"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "than",
+        "phonetic": "ðæn; ðən",
+        "pos": "ADP",
+        "zh": "比",
+        "componentZh": "比",
+        "componentRole": "连接词"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "AUX",
+        "zh": "构成现在完成时",
+        "componentZh": "构成现在完成时",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-isjmoktjszypeexxf3dbmj8h",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-isjmoktjszypeexxf3dbmj8h",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "很少",
+    "audioText": "very few",
+    "fullEnglish": "very few",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "few",
+        "answer": "few",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "很少的",
+        "phonetic": "fjuː",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "very",
+      "few"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "very",
+        "role": "方式/程度状语",
+        "zh": "非常"
+      },
+      {
+        "id": "ud-2",
+        "text": "few",
+        "role": "中心成分",
+        "zh": "很少的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentZh": "非常",
+        "componentRole": "方式/程度状语"
+      },
+      "1": {
+        "text": "few",
+        "phonetic": "fjuː",
+        "pos": "ADJ",
+        "zh": "很少的",
+        "componentZh": "很少的",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-viausg6jne4x7sq5p3l4n0a7",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-viausg6jne4x7sq5p3l4n0a7",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些肉",
+    "audioText": "some meat",
+    "fullEnglish": "some meat",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "meat",
+        "answer": "meat",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "肉",
+        "phonetic": "miːt",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "some",
+      "meat"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "meat",
+        "role": "中心成分",
+        "zh": "肉"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "meat",
+        "phonetic": "miːt",
+        "pos": "NOUN",
+        "zh": "肉",
+        "componentZh": "肉",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-tlge5vcb9tqkg1pmsacmz0qh",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-tlge5vcb9tqkg1pmsacmz0qh",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些钱",
+    "audioText": "some money",
+    "fullEnglish": "some money",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "money",
+        "answer": "money",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "钱",
+        "phonetic": "ˈmʌni",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "some",
+      "money"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "money",
+        "role": "中心成分",
+        "zh": "钱"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "money",
+        "phonetic": "ˈmʌni",
+        "pos": "NOUN",
+        "zh": "钱",
+        "componentZh": "钱",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-ys8tu2jkwfxgyxpkd9u8xkps",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-ys8tu2jkwfxgyxpkd9u8xkps",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些蔬菜",
+    "audioText": "some vegetables",
+    "fullEnglish": "some vegetables",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "vegetables",
+        "answer": "vegetables",
+        "blank": "__________",
+        "letterCount": 10,
+        "fillable": true,
+        "type": "word",
+        "zh": "蔬菜（复数）",
+        "phonetic": "ˈvedʒtəb(ə)lz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "vegetables",
+      "some"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "vegetables",
+        "role": "中心成分",
+        "zh": "蔬菜（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "vegetables",
+        "phonetic": "ˈvedʒtəb(ə)lz",
+        "pos": "NOUN",
+        "zh": "蔬菜（复数）",
+        "componentZh": "蔬菜（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-x4uxd025w6qfubevp5at2ys5",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-x4uxd025w6qfubevp5at2ys5",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些饼干",
+    "audioText": "some biscuits",
+    "fullEnglish": "some biscuits",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "biscuits",
+        "answer": "biscuits",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "饼干（复数）",
+        "phonetic": "ˈbɪskɪts",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "some",
+      "biscuits"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "biscuits",
+        "role": "中心成分",
+        "zh": "饼干（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "biscuits",
+        "phonetic": "ˈbɪskɪts",
+        "pos": "NOUN",
+        "zh": "饼干（复数）",
+        "componentZh": "饼干（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-y3ylmx9yv98d0zgbdtbpx097",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-y3ylmx9yv98d0zgbdtbpx097",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些文具",
+    "audioText": "some stationery",
+    "fullEnglish": "some stationery",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "stationery",
+        "answer": "stationery",
+        "blank": "__________",
+        "letterCount": 10,
+        "fillable": true,
+        "type": "word",
+        "zh": "文具",
+        "phonetic": "ˈsteɪʃəneri",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "stationery",
+      "some"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "stationery",
+        "role": "中心成分",
+        "zh": "文具"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "stationery",
+        "phonetic": "ˈsteɪʃəneri",
+        "pos": "NOUN",
+        "zh": "文具",
+        "componentZh": "文具",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-dgwd1768rp3764jit7ub83kd",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-dgwd1768rp3764jit7ub83kd",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些巧克力",
+    "audioText": "some chocolate",
+    "fullEnglish": "some chocolate",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "chocolate",
+        "answer": "chocolate",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "巧克力",
+        "phonetic": "ˈtʃɔːklət",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "some",
+      "chocolate"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "chocolate",
+        "role": "中心成分",
+        "zh": "巧克力"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "chocolate",
+        "phonetic": "ˈtʃɔːklət",
+        "pos": "NOUN",
+        "zh": "巧克力",
+        "componentZh": "巧克力",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-i4rqztmmzhvfn2b1tidky6xo",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-i4rqztmmzhvfn2b1tidky6xo",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些礼物",
+    "audioText": "some presents",
+    "fullEnglish": "some presents",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "presents",
+        "answer": "presents",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "礼物（复数）",
+        "phonetic": "ˈprez(ə)nts",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "some",
+      "presents"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "主语",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "presents",
+        "role": "谓语",
+        "zh": "礼物（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "presents",
+        "phonetic": "ˈprez(ə)nts",
+        "pos": "NOUN",
+        "zh": "礼物（复数）",
+        "componentZh": "礼物（复数）",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-uxhrlu8mowc2mgwapabq82hq",
+    "contentId": "JLB-ksq5ewlwe6bespzuy44lgrrh-PHRASE-uxhrlu8mowc2mgwapabq82hq",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "ksq5ewlwe6bespzuy44lgrrh",
+    "unitTitle": "lesson 110",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些墨水",
+    "audioText": "some ink",
+    "fullEnglish": "some ink",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "ink",
+        "answer": "ink",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "墨水",
+        "phonetic": "ɪŋk",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "some",
+      "ink"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "ink",
+        "role": "中心成分",
+        "zh": "墨水"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "ink",
+        "phonetic": "ɪŋk",
+        "pos": "NOUN",
+        "zh": "墨水",
+        "componentZh": "墨水",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

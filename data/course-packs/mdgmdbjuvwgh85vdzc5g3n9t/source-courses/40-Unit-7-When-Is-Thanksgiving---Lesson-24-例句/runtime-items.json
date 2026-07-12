@@ -1,0 +1,2236 @@
+[
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-S-w9hwku0icrl39twhkhx3kqs8",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-S-w9hwku0icrl39twhkhx3kqs8",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我喜欢这棵圣诞树！",
+    "audioText": "I like the Christmas tree!",
+    "fullEnglish": "I like the Christmas tree!",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP"
+      },
+      {
+        "index": 2,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "the Christmas tree",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；圣诞节；树"
+      },
+      {
+        "index": 3,
+        "text": "Christmas",
+        "answer": "Christmas",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "定语（名词修饰）",
+        "zh": "圣诞节",
+        "phonetic": "ˈkrɪsməs",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "the Christmas tree",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；圣诞节；树"
+      },
+      {
+        "index": 4,
+        "text": "tree",
+        "answer": "tree",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "树",
+        "phonetic": "triː",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "the Christmas tree",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；圣诞节；树"
+      },
+      {
+        "index": 5,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我喜欢这棵圣诞树！"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "Christmas",
+      "I",
+      "tree",
+      "like"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "like",
+        "role": "谓语",
+        "zh": "像"
+      },
+      {
+        "id": "ud-3",
+        "text": "the Christmas tree",
+        "role": "宾语",
+        "zh": "定冠词；圣诞节；树",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-5",
+            "text": "Christmas",
+            "role": "定语（名词修饰）",
+            "zh": "圣诞节"
+          },
+          {
+            "id": "ud-6",
+            "text": "tree",
+            "role": "中心词",
+            "zh": "树"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentRole": "谓语",
+        "componentZh": "像"
+      },
+      "2": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the Christmas tree",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；圣诞节；树"
+      },
+      "3": {
+        "text": "Christmas",
+        "phonetic": "ˈkrɪsməs",
+        "pos": "NOUN",
+        "zh": "圣诞节",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "圣诞节",
+        "parentComponentText": "the Christmas tree",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；圣诞节；树"
+      },
+      "4": {
+        "text": "tree",
+        "phonetic": "triː",
+        "pos": "NOUN",
+        "zh": "树",
+        "componentRole": "中心词",
+        "componentZh": "树",
+        "parentComponentText": "the Christmas tree",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；圣诞节；树"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-w9hwku0icrl39twhkhx3kqs8-1",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-w9hwku0icrl39twhkhx3kqs8-1",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-w9hwku0icrl39twhkhx3kqs8-2",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-w9hwku0icrl39twhkhx3kqs8-2",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "喜欢",
+    "audioText": "like",
+    "fullEnglish": "like",
+    "phonetic": "laɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "like"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentZh": "像"
+      }
+    }
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-w9hwku0icrl39twhkhx3kqs8-3",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-w9hwku0icrl39twhkhx3kqs8-3",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "the",
+    "fullEnglish": "the",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "the"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-w9hwku0icrl39twhkhx3kqs8-4",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-w9hwku0icrl39twhkhx3kqs8-4",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "圣诞节",
+    "audioText": "Christmas",
+    "fullEnglish": "Christmas",
+    "phonetic": "ˈkrɪsməs",
+    "pos": "PROPN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Christmas",
+        "answer": "Christmas",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "圣诞节",
+        "phonetic": "ˈkrɪsməs",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Christmas"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Christmas",
+        "phonetic": "ˈkrɪsməs",
+        "pos": "NOUN",
+        "zh": "圣诞节",
+        "componentZh": "圣诞节"
+      }
+    }
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-w9hwku0icrl39twhkhx3kqs8-5",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-w9hwku0icrl39twhkhx3kqs8-5",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "树",
+    "audioText": "tree",
+    "fullEnglish": "tree",
+    "phonetic": "triː",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "tree",
+        "answer": "tree",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "树",
+        "phonetic": "triː",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "tree"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "tree",
+        "phonetic": "triː",
+        "pos": "NOUN",
+        "zh": "树",
+        "componentZh": "树"
+      }
+    }
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-S-vrijb2gmfzmyauqa15aeupad",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-S-vrijb2gmfzmyauqa15aeupad",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我喜欢那些五颜六色的球。",
+    "audioText": "I like the colourful balls",
+    "fullEnglish": "I like the colourful balls",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP"
+      },
+      {
+        "index": 2,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "the colourful balls",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；多彩的；球（复数）"
+      },
+      {
+        "index": 3,
+        "text": "colourful",
+        "answer": "colourful",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "定语（形容词）",
+        "zh": "多彩的",
+        "phonetic": "ˈkʌlərf(ə)l",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "the colourful balls",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；多彩的；球（复数）"
+      },
+      {
+        "index": 4,
+        "text": "balls",
+        "answer": "balls",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "球（复数）",
+        "phonetic": "bɔːlz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "the colourful balls",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；多彩的；球（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "balls",
+      "I",
+      "colourful",
+      "like"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "like",
+        "role": "谓语",
+        "zh": "像"
+      },
+      {
+        "id": "ud-3",
+        "text": "the colourful balls",
+        "role": "宾语",
+        "zh": "定冠词；多彩的；球（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-5",
+            "text": "colourful",
+            "role": "定语（形容词）",
+            "zh": "多彩的"
+          },
+          {
+            "id": "ud-6",
+            "text": "balls",
+            "role": "中心词",
+            "zh": "球（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentRole": "谓语",
+        "componentZh": "像"
+      },
+      "2": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the colourful balls",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；多彩的；球（复数）"
+      },
+      "3": {
+        "text": "colourful",
+        "phonetic": "ˈkʌlərf(ə)l",
+        "pos": "ADJ",
+        "zh": "多彩的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "多彩的",
+        "parentComponentText": "the colourful balls",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；多彩的；球（复数）"
+      },
+      "4": {
+        "text": "balls",
+        "phonetic": "bɔːlz",
+        "pos": "NOUN",
+        "zh": "球（复数）",
+        "componentRole": "中心词",
+        "componentZh": "球（复数）",
+        "parentComponentText": "the colourful balls",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；多彩的；球（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-vrijb2gmfzmyauqa15aeupad-4",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-vrijb2gmfzmyauqa15aeupad-4",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "彩色的",
+    "audioText": "colourful",
+    "fullEnglish": "colourful",
+    "phonetic": "ˈkʌlərf(ə)l",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "colourful",
+        "answer": "colourful",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "多彩的",
+        "phonetic": "ˈkʌlərf(ə)l",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "colourful"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "colourful",
+        "phonetic": "ˈkʌlərf(ə)l",
+        "pos": "ADJ",
+        "zh": "多彩的",
+        "componentZh": "多彩的"
+      }
+    }
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-vrijb2gmfzmyauqa15aeupad-5",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-vrijb2gmfzmyauqa15aeupad-5",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "球（复数）",
+    "audioText": "balls",
+    "fullEnglish": "balls",
+    "phonetic": "bɔːlz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "balls",
+        "answer": "balls",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "球（复数）",
+        "phonetic": "bɔːlz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "balls"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "balls",
+        "phonetic": "bɔːlz",
+        "pos": "NOUN",
+        "zh": "球（复数）",
+        "componentZh": "球（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-S-p381ansgo3and01cwswvm3gp",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-S-p381ansgo3and01cwswvm3gp",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它们是金色、银色和红色。",
+    "audioText": "They are gold, silver, and red",
+    "fullEnglish": "They are gold, silver, and red",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "They",
+        "answer": "They",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "他们",
+        "phonetic": "ðeɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "系动词",
+        "zh": "（构成现在进行时）",
+        "phonetic": "ɑr",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "gold",
+        "answer": "gold",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "金色",
+        "phonetic": "ɡoʊld",
+        "pos": "NOUN"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "它们是金色、银色和红色。"
+      },
+      {
+        "index": 4,
+        "text": "silver",
+        "answer": "silver",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "并列成分",
+        "zh": "银色",
+        "phonetic": "ˈsɪlvər",
+        "pos": "NOUN"
+      },
+      {
+        "index": 5,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "它们是金色、银色和红色。"
+      },
+      {
+        "index": 6,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "and red",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；红色的"
+      },
+      {
+        "index": 7,
+        "text": "red",
+        "answer": "red",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心成分",
+        "zh": "红色的",
+        "phonetic": "red",
+        "pos": "ADJ",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "and red",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；红色的"
+      }
+    ],
+    "shuffledBlocks": [
+      "and",
+      "silver",
+      "gold",
+      "are",
+      "They",
+      "red"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "They",
+        "role": "主语",
+        "zh": "他们"
+      },
+      {
+        "id": "ud-2",
+        "text": "are",
+        "role": "系动词",
+        "zh": "（构成现在进行时）"
+      },
+      {
+        "id": "ud-3",
+        "text": "gold",
+        "role": "表语",
+        "zh": "金色"
+      },
+      {
+        "id": "ud-4",
+        "text": "silver",
+        "role": "并列成分",
+        "zh": "银色"
+      },
+      {
+        "id": "ud-5",
+        "text": "and red",
+        "role": "并列成分",
+        "zh": "和；红色的",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "and",
+            "role": "并列连词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-7",
+            "text": "red",
+            "role": "中心成分",
+            "zh": "红色的"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "They",
+        "phonetic": "ðeɪ",
+        "pos": "PRON",
+        "zh": "他们",
+        "componentRole": "主语",
+        "componentZh": "他们"
+      },
+      "1": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "（构成现在进行时）",
+        "componentRole": "系动词",
+        "componentZh": "（构成现在进行时）"
+      },
+      "2": {
+        "text": "gold",
+        "phonetic": "ɡoʊld",
+        "pos": "NOUN",
+        "zh": "金色",
+        "componentRole": "表语",
+        "componentZh": "金色"
+      },
+      "4": {
+        "text": "silver",
+        "phonetic": "ˈsɪlvər",
+        "pos": "NOUN",
+        "zh": "银色",
+        "componentRole": "并列成分",
+        "componentZh": "银色"
+      },
+      "6": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和",
+        "parentComponentText": "and red",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；红色的"
+      },
+      "7": {
+        "text": "red",
+        "phonetic": "red",
+        "pos": "ADJ",
+        "zh": "红色的",
+        "componentRole": "中心成分",
+        "componentZh": "红色的",
+        "parentComponentText": "and red",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；红色的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-p381ansgo3and01cwswvm3gp-1",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-p381ansgo3and01cwswvm3gp-1",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他们",
+    "audioText": "They",
+    "fullEnglish": "They",
+    "phonetic": "ðeɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "They",
+        "answer": "They",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "他们",
+        "phonetic": "ðeɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "They"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "They",
+        "phonetic": "ðeɪ",
+        "pos": "PRON",
+        "zh": "他们",
+        "componentZh": "他们"
+      }
+    }
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-p381ansgo3and01cwswvm3gp-2",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-p381ansgo3and01cwswvm3gp-2",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "are",
+    "fullEnglish": "are",
+    "phonetic": "ɑr",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "（构成现在进行时）",
+        "phonetic": "ɑr",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "are"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "（构成现在进行时）",
+        "componentZh": "（构成现在进行时）"
+      }
+    }
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-p381ansgo3and01cwswvm3gp-3",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-p381ansgo3and01cwswvm3gp-3",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "金色",
+    "audioText": "gold",
+    "fullEnglish": "gold",
+    "phonetic": "ɡoʊld",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "gold",
+        "answer": "gold",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "金色",
+        "phonetic": "ɡoʊld",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "gold"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "gold",
+        "phonetic": "ɡoʊld",
+        "pos": "NOUN",
+        "zh": "金色",
+        "componentZh": "金色"
+      }
+    }
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-p381ansgo3and01cwswvm3gp-4",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-p381ansgo3and01cwswvm3gp-4",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "银色",
+    "audioText": "silver",
+    "fullEnglish": "silver",
+    "phonetic": "ˈsɪlvər",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "silver",
+        "answer": "silver",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "银色",
+        "phonetic": "ˈsɪlvər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "silver"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "silver",
+        "phonetic": "ˈsɪlvər",
+        "pos": "NOUN",
+        "zh": "银色",
+        "componentZh": "银色"
+      }
+    }
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-p381ansgo3and01cwswvm3gp-5",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-p381ansgo3and01cwswvm3gp-5",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "和",
+    "audioText": "and",
+    "fullEnglish": "and",
+    "phonetic": "ænd; ənd",
+    "pos": "CCONJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "and"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和"
+      }
+    }
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-p381ansgo3and01cwswvm3gp-6",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-p381ansgo3and01cwswvm3gp-6",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "红色",
+    "audioText": "red",
+    "fullEnglish": "red",
+    "phonetic": "red",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "red",
+        "answer": "red",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "红色的",
+        "phonetic": "red",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "red"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "red",
+        "phonetic": "red",
+        "pos": "ADJ",
+        "zh": "红色的",
+        "componentZh": "红色的"
+      }
+    }
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-S-xgkk5ivx2nmcg2plbjbn4jik",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-S-xgkk5ivx2nmcg2plbjbn4jik",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我也喜欢我的礼物。那是一条粉色的裙子。",
+    "audioText": "I like my gift, too. It's a pink skirt",
+    "fullEnglish": "I like my gift, too. It's a pink skirt",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP"
+      },
+      {
+        "index": 2,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "my gift",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我的；礼物"
+      },
+      {
+        "index": 3,
+        "text": "gift",
+        "answer": "gift",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "礼物",
+        "phonetic": "ɡɪft",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "my gift",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我的；礼物"
+      },
+      {
+        "index": 4,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我也喜欢我的礼物。那是一条粉色的裙子。"
+      },
+      {
+        "index": 5,
+        "text": "too",
+        "answer": "too",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "方式/程度状语",
+        "zh": "也",
+        "phonetic": "tuː",
+        "pos": "ADV"
+      },
+      {
+        "index": 6,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我也喜欢我的礼物。那是一条粉色的裙子。"
+      },
+      {
+        "index": 7,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 8,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "补充成分",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      },
+      {
+        "index": 9,
+        "text": "pink",
+        "answer": "pink",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "补充成分",
+        "zh": "粉色的",
+        "phonetic": "pɪŋk",
+        "pos": "ADJ"
+      },
+      {
+        "index": 10,
+        "text": "skirt",
+        "answer": "skirt",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "表语",
+        "zh": "裙子",
+        "phonetic": "skɜːrt",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "a",
+      "It's",
+      "like",
+      "skirt",
+      "gift",
+      "too",
+      "my",
+      "I",
+      "pink"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "like",
+        "role": "谓语",
+        "zh": "像"
+      },
+      {
+        "id": "ud-3",
+        "text": "my gift",
+        "role": "宾语",
+        "zh": "我的；礼物",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "my",
+            "role": "限定词",
+            "zh": "我的"
+          },
+          {
+            "id": "ud-5",
+            "text": "gift",
+            "role": "中心词",
+            "zh": "礼物"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "too",
+        "role": "方式/程度状语",
+        "zh": "也"
+      },
+      {
+        "id": "ud-7",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-8",
+        "text": "a",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-9",
+        "text": "pink",
+        "role": "补充成分",
+        "zh": "粉色的"
+      },
+      {
+        "id": "ud-10",
+        "text": "skirt",
+        "role": "表语",
+        "zh": "裙子"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentRole": "谓语",
+        "componentZh": "像"
+      },
+      "2": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "限定词",
+        "componentZh": "我的",
+        "parentComponentText": "my gift",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我的；礼物"
+      },
+      "3": {
+        "text": "gift",
+        "phonetic": "ɡɪft",
+        "pos": "NOUN",
+        "zh": "礼物",
+        "componentRole": "中心词",
+        "componentZh": "礼物",
+        "parentComponentText": "my gift",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我的；礼物"
+      },
+      "5": {
+        "text": "too",
+        "phonetic": "tuː",
+        "pos": "ADV",
+        "zh": "也",
+        "componentRole": "方式/程度状语",
+        "componentZh": "也"
+      },
+      "7": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "8": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "补充成分",
+        "componentZh": "一个"
+      },
+      "9": {
+        "text": "pink",
+        "phonetic": "pɪŋk",
+        "pos": "ADJ",
+        "zh": "粉色的",
+        "componentRole": "补充成分",
+        "componentZh": "粉色的"
+      },
+      "10": {
+        "text": "skirt",
+        "phonetic": "skɜːrt",
+        "pos": "NOUN",
+        "zh": "裙子",
+        "componentRole": "表语",
+        "componentZh": "裙子"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-xgkk5ivx2nmcg2plbjbn4jik-3",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-xgkk5ivx2nmcg2plbjbn4jik-3",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的",
+    "audioText": "my",
+    "fullEnglish": "my",
+    "phonetic": "maɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "my"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的"
+      }
+    }
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-xgkk5ivx2nmcg2plbjbn4jik-4",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-xgkk5ivx2nmcg2plbjbn4jik-4",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "礼物",
+    "audioText": "gift",
+    "fullEnglish": "gift",
+    "phonetic": "ɡɪft",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "gift",
+        "answer": "gift",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "礼物",
+        "phonetic": "ɡɪft",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "gift"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "gift",
+        "phonetic": "ɡɪft",
+        "pos": "NOUN",
+        "zh": "礼物",
+        "componentZh": "礼物"
+      }
+    }
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-xgkk5ivx2nmcg2plbjbn4jik-5",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-xgkk5ivx2nmcg2plbjbn4jik-5",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "也",
+    "audioText": "too",
+    "fullEnglish": "too",
+    "phonetic": "tuː",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "too",
+        "answer": "too",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "也",
+        "phonetic": "tuː",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "too"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "too",
+        "phonetic": "tuː",
+        "pos": "ADV",
+        "zh": "也",
+        "componentZh": "也"
+      }
+    }
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-xgkk5ivx2nmcg2plbjbn4jik-6",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-xgkk5ivx2nmcg2plbjbn4jik-6",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它是",
+    "audioText": "It's",
+    "fullEnglish": "It's",
+    "phonetic": "ɪts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是"
+      }
+    }
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-xgkk5ivx2nmcg2plbjbn4jik-7",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-xgkk5ivx2nmcg2plbjbn4jik-7",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个",
+    "audioText": "a",
+    "fullEnglish": "a",
+    "phonetic": "ə; eɪ",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "a"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个"
+      }
+    }
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-xgkk5ivx2nmcg2plbjbn4jik-8",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-xgkk5ivx2nmcg2plbjbn4jik-8",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "粉色的",
+    "audioText": "pink",
+    "fullEnglish": "pink",
+    "phonetic": "pɪŋk",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "pink",
+        "answer": "pink",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "粉色的",
+        "phonetic": "pɪŋk",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "pink"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "pink",
+        "phonetic": "pɪŋk",
+        "pos": "ADJ",
+        "zh": "粉色的",
+        "componentZh": "粉色的"
+      }
+    }
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-xgkk5ivx2nmcg2plbjbn4jik-9",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-xgkk5ivx2nmcg2plbjbn4jik-9",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "裙子",
+    "audioText": "skirt",
+    "fullEnglish": "skirt",
+    "phonetic": "skɜːrt",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "skirt",
+        "answer": "skirt",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "裙子",
+        "phonetic": "skɜːrt",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "skirt"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "skirt",
+        "phonetic": "skɜːrt",
+        "pos": "NOUN",
+        "zh": "裙子",
+        "componentZh": "裙子"
+      }
+    }
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-S-j1kabywpe8x5qc3djc40a4y9",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-S-j1kabywpe8x5qc3djc40a4y9",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我喜欢我的礼物。它是一只棕色的熊。",
+    "audioText": "I like my gift. It's a brown bear",
+    "fullEnglish": "I like my gift. It's a brown bear",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP"
+      },
+      {
+        "index": 2,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "my gift",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我的；礼物"
+      },
+      {
+        "index": 3,
+        "text": "gift",
+        "answer": "gift",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "礼物",
+        "phonetic": "ɡɪft",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "my gift",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我的；礼物"
+      },
+      {
+        "index": 4,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我喜欢我的礼物。它是一只棕色的熊。"
+      },
+      {
+        "index": 5,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 6,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "补充成分",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      },
+      {
+        "index": 7,
+        "text": "brown",
+        "answer": "brown",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "补充成分",
+        "zh": "棕色的",
+        "phonetic": "braʊn",
+        "pos": "ADJ"
+      },
+      {
+        "index": 8,
+        "text": "bear",
+        "answer": "bear",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "表语",
+        "zh": "熊",
+        "phonetic": "ber",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "my",
+      "brown",
+      "I",
+      "like",
+      "It's",
+      "gift",
+      "bear",
+      "a"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "like",
+        "role": "谓语",
+        "zh": "像"
+      },
+      {
+        "id": "ud-3",
+        "text": "my gift",
+        "role": "宾语",
+        "zh": "我的；礼物",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "my",
+            "role": "限定词",
+            "zh": "我的"
+          },
+          {
+            "id": "ud-5",
+            "text": "gift",
+            "role": "中心词",
+            "zh": "礼物"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-7",
+        "text": "a",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-8",
+        "text": "brown",
+        "role": "补充成分",
+        "zh": "棕色的"
+      },
+      {
+        "id": "ud-9",
+        "text": "bear",
+        "role": "表语",
+        "zh": "熊"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentRole": "谓语",
+        "componentZh": "像"
+      },
+      "2": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "限定词",
+        "componentZh": "我的",
+        "parentComponentText": "my gift",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我的；礼物"
+      },
+      "3": {
+        "text": "gift",
+        "phonetic": "ɡɪft",
+        "pos": "NOUN",
+        "zh": "礼物",
+        "componentRole": "中心词",
+        "componentZh": "礼物",
+        "parentComponentText": "my gift",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我的；礼物"
+      },
+      "5": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "6": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "补充成分",
+        "componentZh": "一个"
+      },
+      "7": {
+        "text": "brown",
+        "phonetic": "braʊn",
+        "pos": "ADJ",
+        "zh": "棕色的",
+        "componentRole": "补充成分",
+        "componentZh": "棕色的"
+      },
+      "8": {
+        "text": "bear",
+        "phonetic": "ber",
+        "pos": "NOUN",
+        "zh": "熊",
+        "componentRole": "表语",
+        "componentZh": "熊"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-j1kabywpe8x5qc3djc40a4y9-7",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-j1kabywpe8x5qc3djc40a4y9-7",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "棕色的",
+    "audioText": "brown",
+    "fullEnglish": "brown",
+    "phonetic": "braʊn",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "brown",
+        "answer": "brown",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "棕色的",
+        "phonetic": "braʊn",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "brown"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "brown",
+        "phonetic": "braʊn",
+        "pos": "ADJ",
+        "zh": "棕色的",
+        "componentZh": "棕色的"
+      }
+    }
+  },
+  {
+    "id": "JLB-zhed0lfbnwdbxazysy23pp9d-W-j1kabywpe8x5qc3djc40a4y9-8",
+    "contentId": "JLB-zhed0lfbnwdbxazysy23pp9d-W-j1kabywpe8x5qc3djc40a4y9-8",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zhed0lfbnwdbxazysy23pp9d",
+    "unitTitle": "Unit 7 When Is Thanksgiving?--Lesson 24【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "熊",
+    "audioText": "bear",
+    "fullEnglish": "bear",
+    "phonetic": "ber",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "bear",
+        "answer": "bear",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "熊",
+        "phonetic": "ber",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "bear"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "bear",
+        "phonetic": "ber",
+        "pos": "NOUN",
+        "zh": "熊",
+        "componentZh": "熊"
+      }
+    }
+  }
+]

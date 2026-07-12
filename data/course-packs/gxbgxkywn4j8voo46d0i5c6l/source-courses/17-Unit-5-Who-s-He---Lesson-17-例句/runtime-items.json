@@ -1,0 +1,3068 @@
+[
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-S-kcemgks85dq2287t63m88mqd",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-S-kcemgks85dq2287t63m88mqd",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这个男人是谁？",
+    "audioText": "Who's this man?",
+    "fullEnglish": "Who's this man?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Who's",
+        "answer": "Who's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "疑问词 + 系动词",
+        "zh": "谁的",
+        "phonetic": "huz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "this man",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这个；这个男人是谁？"
+      },
+      {
+        "index": 2,
+        "text": "man",
+        "answer": "man",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "这个男人是谁？",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "this man",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这个；这个男人是谁？"
+      },
+      {
+        "index": 3,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "这个男人是谁？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Who's",
+      "this",
+      "man"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Who's",
+        "role": "疑问词 + 系动词",
+        "zh": "谁的"
+      },
+      {
+        "id": "ud-2",
+        "text": "this man",
+        "role": "主语",
+        "zh": "这个；这个男人是谁？",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "this",
+            "role": "限定词",
+            "zh": "这个"
+          },
+          {
+            "id": "ud-4",
+            "text": "man",
+            "role": "中心词",
+            "zh": "这个男人是谁？"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Who's",
+        "phonetic": "huz",
+        "pos": "PRON",
+        "zh": "谁的",
+        "componentRole": "疑问词 + 系动词",
+        "componentZh": "谁的"
+      },
+      "1": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentRole": "限定词",
+        "componentZh": "这个",
+        "parentComponentText": "this man",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这个；这个男人是谁？"
+      },
+      "2": {
+        "text": "man",
+        "zh": "这个男人是谁？",
+        "componentRole": "中心词",
+        "componentZh": "这个男人是谁？",
+        "parentComponentText": "this man",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这个；这个男人是谁？"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-S-k7mem85oyunsjz7xvw0g8lwq",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-S-k7mem85oyunsjz7xvw0g8lwq",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他是我叔叔。",
+    "audioText": "He's my uncle",
+    "fullEnglish": "He's my uncle",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "补充成分",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "uncle",
+        "answer": "uncle",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "叔叔",
+        "phonetic": "ˈʌŋk(ə)l",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "my",
+      "uncle",
+      "He's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-2",
+        "text": "my",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-3",
+        "text": "uncle",
+        "role": "表语",
+        "zh": "叔叔"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "他是"
+      },
+      "1": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "补充成分",
+        "componentZh": "我的"
+      },
+      "2": {
+        "text": "uncle",
+        "phonetic": "ˈʌŋk(ə)l",
+        "pos": "NOUN",
+        "zh": "叔叔",
+        "componentRole": "表语",
+        "componentZh": "叔叔"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-W-k7mem85oyunsjz7xvw0g8lwq-1",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-W-k7mem85oyunsjz7xvw0g8lwq-1",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他是",
+    "audioText": "He's",
+    "fullEnglish": "He's",
+    "phonetic": "hiːz",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "He's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentZh": "他是"
+      }
+    }
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-W-k7mem85oyunsjz7xvw0g8lwq-2",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-W-k7mem85oyunsjz7xvw0g8lwq-2",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的",
+    "audioText": "my",
+    "fullEnglish": "my",
+    "phonetic": "maɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "my"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的"
+      }
+    }
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-W-k7mem85oyunsjz7xvw0g8lwq-3",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-W-k7mem85oyunsjz7xvw0g8lwq-3",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "叔叔",
+    "audioText": "uncle",
+    "fullEnglish": "uncle",
+    "phonetic": "ˈʌŋk(ə)l",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "uncle",
+        "answer": "uncle",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "叔叔",
+        "phonetic": "ˈʌŋk(ə)l",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "uncle"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "uncle",
+        "phonetic": "ˈʌŋk(ə)l",
+        "pos": "NOUN",
+        "zh": "叔叔",
+        "componentZh": "叔叔"
+      }
+    }
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-S-xuq8lmklds7756aua5izihgh",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-S-xuq8lmklds7756aua5izihgh",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那个男孩是谁？",
+    "audioText": "Who's that boy?",
+    "fullEnglish": "Who's that boy?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Who's",
+        "answer": "Who's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "动词",
+        "zh": "谁的",
+        "phonetic": "huz",
+        "pos": "PRON",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "Who's that boy",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "谁的；那个；那个男孩是谁？"
+      },
+      {
+        "index": 1,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "Who's that boy",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "谁的；那个；那个男孩是谁？"
+      },
+      {
+        "index": 2,
+        "text": "boy",
+        "answer": "boy",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "那个男孩是谁？",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "Who's that boy",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "谁的；那个；那个男孩是谁？"
+      },
+      {
+        "index": 3,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "那个男孩是谁？"
+      }
+    ],
+    "shuffledBlocks": [
+      "boy",
+      "Who's",
+      "that"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Who's",
+        "role": "中心成分",
+        "zh": "谁的"
+      },
+      {
+        "id": "ud-2",
+        "text": "Who's that boy",
+        "role": "主语",
+        "zh": "谁的；那个；那个男孩是谁？",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "Who's",
+            "role": "动词",
+            "zh": "谁的"
+          },
+          {
+            "id": "ud-4",
+            "text": "that",
+            "role": "限定词",
+            "zh": "那个"
+          },
+          {
+            "id": "ud-5",
+            "text": "boy",
+            "role": "中心词",
+            "zh": "那个男孩是谁？"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Who's",
+        "phonetic": "huz",
+        "pos": "PRON",
+        "zh": "谁的",
+        "componentRole": "动词",
+        "componentZh": "谁的",
+        "parentComponentText": "Who's that boy",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "谁的；那个；那个男孩是谁？"
+      },
+      "1": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentRole": "限定词",
+        "componentZh": "那个",
+        "parentComponentText": "Who's that boy",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "谁的；那个；那个男孩是谁？"
+      },
+      "2": {
+        "text": "boy",
+        "zh": "那个男孩是谁？",
+        "componentRole": "中心词",
+        "componentZh": "那个男孩是谁？",
+        "parentComponentText": "Who's that boy",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "谁的；那个；那个男孩是谁？"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-S-elrhpgbw4x7dow6v6ivot357",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-S-elrhpgbw4x7dow6v6ivot357",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他是Victor，我的朋友。",
+    "audioText": "He's Victor, my friend",
+    "fullEnglish": "He's Victor, my friend",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "Victor",
+        "answer": "Victor",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "Victor",
+        "phonetic": "ˈvɪktər",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 2,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "他是Victor，我的朋友。"
+      },
+      {
+        "index": 3,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "my friend",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我的；朋友"
+      },
+      {
+        "index": 4,
+        "text": "friend",
+        "answer": "friend",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "朋友",
+        "phonetic": "frend",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "my friend",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我的；朋友"
+      }
+    ],
+    "shuffledBlocks": [
+      "my",
+      "friend",
+      "He's",
+      "Victor"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-2",
+        "text": "Victor",
+        "role": "表语",
+        "zh": "Victor"
+      },
+      {
+        "id": "ud-3",
+        "text": "my friend",
+        "role": "补充成分",
+        "zh": "我的；朋友",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "my",
+            "role": "限定词",
+            "zh": "我的"
+          },
+          {
+            "id": "ud-5",
+            "text": "friend",
+            "role": "中心词",
+            "zh": "朋友"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "他是"
+      },
+      "1": {
+        "text": "Victor",
+        "phonetic": "ˈvɪktər",
+        "pos": "PROPN_PERSON",
+        "zh": "Victor",
+        "componentRole": "表语",
+        "componentZh": "Victor"
+      },
+      "3": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "限定词",
+        "componentZh": "我的",
+        "parentComponentText": "my friend",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我的；朋友"
+      },
+      "4": {
+        "text": "friend",
+        "phonetic": "frend",
+        "pos": "NOUN",
+        "zh": "朋友",
+        "componentRole": "中心词",
+        "componentZh": "朋友",
+        "parentComponentText": "my friend",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我的；朋友"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-W-elrhpgbw4x7dow6v6ivot357-2",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-W-elrhpgbw4x7dow6v6ivot357-2",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Victor",
+    "audioText": "Victor",
+    "fullEnglish": "Victor",
+    "phonetic": "ˈvɪktər",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Victor",
+        "answer": "Victor",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "Victor",
+        "phonetic": "ˈvɪktər",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Victor"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Victor",
+        "phonetic": "ˈvɪktər",
+        "pos": "PROPN_PERSON",
+        "zh": "Victor",
+        "componentZh": "Victor"
+      }
+    }
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-W-elrhpgbw4x7dow6v6ivot357-4",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-W-elrhpgbw4x7dow6v6ivot357-4",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "朋友",
+    "audioText": "friend",
+    "fullEnglish": "friend",
+    "phonetic": "frend",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "friend",
+        "answer": "friend",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "朋友",
+        "phonetic": "frend",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "friend"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "friend",
+        "phonetic": "frend",
+        "pos": "NOUN",
+        "zh": "朋友",
+        "componentZh": "朋友"
+      }
+    }
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-S-e0es4t1f6wbsefq2izill13h",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-S-e0es4t1f6wbsefq2izill13h",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你有多少个叔叔？",
+    "audioText": "How many uncles do you have?",
+    "fullEnglish": "How many uncles do you have?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "How",
+        "answer": "How",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "副词",
+        "zh": "如何",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "How many uncles",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "如何；许多；叔叔（复数）"
+      },
+      {
+        "index": 1,
+        "text": "many",
+        "answer": "many",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "定语（形容词）",
+        "zh": "许多",
+        "phonetic": "ˈmeni",
+        "pos": "ADJ",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "How many uncles",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "如何；许多；叔叔（复数）"
+      },
+      {
+        "index": 2,
+        "text": "uncles",
+        "answer": "uncles",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "叔叔（复数）",
+        "phonetic": "ˈʌŋkəlz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "How many uncles",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "如何；许多；叔叔（复数）"
+      },
+      {
+        "index": 3,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "助动词",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你有多少个叔叔？"
+      }
+    ],
+    "shuffledBlocks": [
+      "many",
+      "do",
+      "have",
+      "How",
+      "you",
+      "uncles"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "How many uncles",
+        "role": "宾语",
+        "zh": "如何；许多；叔叔（复数）",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "How",
+            "role": "副词",
+            "zh": "如何"
+          },
+          {
+            "id": "ud-3",
+            "text": "many",
+            "role": "定语（形容词）",
+            "zh": "许多"
+          },
+          {
+            "id": "ud-4",
+            "text": "uncles",
+            "role": "中心词",
+            "zh": "叔叔（复数）"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "do",
+        "role": "助动词",
+        "zh": "做"
+      },
+      {
+        "id": "ud-6",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-7",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "How",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "zh": "如何",
+        "componentRole": "副词",
+        "componentZh": "如何",
+        "parentComponentText": "How many uncles",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "如何；许多；叔叔（复数）"
+      },
+      "1": {
+        "text": "many",
+        "phonetic": "ˈmeni",
+        "pos": "ADJ",
+        "zh": "许多",
+        "componentRole": "定语（形容词）",
+        "componentZh": "许多",
+        "parentComponentText": "How many uncles",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "如何；许多；叔叔（复数）"
+      },
+      "2": {
+        "text": "uncles",
+        "phonetic": "ˈʌŋkəlz",
+        "pos": "NOUN",
+        "zh": "叔叔（复数）",
+        "componentRole": "中心词",
+        "componentZh": "叔叔（复数）",
+        "parentComponentText": "How many uncles",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "如何；许多；叔叔（复数）"
+      },
+      "3": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentRole": "助动词",
+        "componentZh": "做"
+      },
+      "4": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "5": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-W-e0es4t1f6wbsefq2izill13h-1",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-W-e0es4t1f6wbsefq2izill13h-1",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "如何",
+    "audioText": "How",
+    "fullEnglish": "How",
+    "phonetic": "haʊ",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "How",
+        "answer": "How",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "如何",
+        "phonetic": "haʊ",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "How"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "How",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "zh": "如何",
+        "componentZh": "如何"
+      }
+    }
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-W-e0es4t1f6wbsefq2izill13h-2",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-W-e0es4t1f6wbsefq2izill13h-2",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "许多",
+    "audioText": "many",
+    "fullEnglish": "many",
+    "phonetic": "ˈmeni",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "many",
+        "answer": "many",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "许多",
+        "phonetic": "ˈmeni",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "many"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "many",
+        "phonetic": "ˈmeni",
+        "pos": "ADJ",
+        "zh": "许多",
+        "componentZh": "许多"
+      }
+    }
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-W-e0es4t1f6wbsefq2izill13h-3",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-W-e0es4t1f6wbsefq2izill13h-3",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "叔叔（复数）",
+    "audioText": "uncles",
+    "fullEnglish": "uncles",
+    "phonetic": "ˈʌŋkəlz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "uncles",
+        "answer": "uncles",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "叔叔（复数）",
+        "phonetic": "ˈʌŋkəlz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "uncles"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "uncles",
+        "phonetic": "ˈʌŋkəlz",
+        "pos": "NOUN",
+        "zh": "叔叔（复数）",
+        "componentZh": "叔叔（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-W-e0es4t1f6wbsefq2izill13h-4",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-W-e0es4t1f6wbsefq2izill13h-4",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "构成疑问句",
+    "audioText": "do",
+    "fullEnglish": "do",
+    "phonetic": "duː; də",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "do"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做"
+      }
+    }
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-W-e0es4t1f6wbsefq2izill13h-5",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-W-e0es4t1f6wbsefq2izill13h-5",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-W-e0es4t1f6wbsefq2izill13h-6",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-W-e0es4t1f6wbsefq2izill13h-6",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "有",
+    "audioText": "have",
+    "fullEnglish": "have",
+    "phonetic": "hæv",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "have"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有"
+      }
+    }
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-S-xfqh5kx6lo13jh5hucxgu4ai",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-S-xfqh5kx6lo13jh5hucxgu4ai",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我有两个叔叔。我喜欢他们。",
+    "audioText": "I have two uncles. I like them",
+    "fullEnglish": "I have two uncles. I like them",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "two",
+        "answer": "two",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "数量词",
+        "zh": "两",
+        "phonetic": "tuː",
+        "pos": "NUM",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "two uncles",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "两；叔叔（复数）"
+      },
+      {
+        "index": 3,
+        "text": "uncles",
+        "answer": "uncles",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "叔叔（复数）",
+        "phonetic": "ˈʌŋkəlz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "two uncles",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "两；叔叔（复数）"
+      },
+      {
+        "index": 4,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我有两个叔叔。我喜欢他们。"
+      },
+      {
+        "index": 5,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 6,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "谓语",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 7,
+        "text": "them",
+        "answer": "them",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "宾语",
+        "zh": "他们",
+        "phonetic": "ðem; ðəm",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "have",
+      "uncles",
+      "like",
+      "I",
+      "two",
+      "them",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-3",
+        "text": "two uncles",
+        "role": "宾语",
+        "zh": "两；叔叔（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "two",
+            "role": "数量词",
+            "zh": "两"
+          },
+          {
+            "id": "ud-5",
+            "text": "uncles",
+            "role": "中心词",
+            "zh": "叔叔（复数）"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-7",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-8",
+        "text": "them",
+        "role": "宾语",
+        "zh": "他们"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有"
+      },
+      "2": {
+        "text": "two",
+        "phonetic": "tuː",
+        "pos": "NUM",
+        "zh": "两",
+        "componentRole": "数量词",
+        "componentZh": "两",
+        "parentComponentText": "two uncles",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "两；叔叔（复数）"
+      },
+      "3": {
+        "text": "uncles",
+        "phonetic": "ˈʌŋkəlz",
+        "pos": "NOUN",
+        "zh": "叔叔（复数）",
+        "componentRole": "中心词",
+        "componentZh": "叔叔（复数）",
+        "parentComponentText": "two uncles",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "两；叔叔（复数）"
+      },
+      "5": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "6": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "谓语",
+        "componentZh": "喜欢"
+      },
+      "7": {
+        "text": "them",
+        "phonetic": "ðem; ðəm",
+        "pos": "PRON",
+        "zh": "他们",
+        "componentRole": "宾语",
+        "componentZh": "他们"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-W-xfqh5kx6lo13jh5hucxgu4ai-1",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-W-xfqh5kx6lo13jh5hucxgu4ai-1",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-W-xfqh5kx6lo13jh5hucxgu4ai-3",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-W-xfqh5kx6lo13jh5hucxgu4ai-3",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "两",
+    "audioText": "two",
+    "fullEnglish": "two",
+    "phonetic": "tuː",
+    "pos": "NUM",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "two",
+        "answer": "two",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "两",
+        "phonetic": "tuː",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "two"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "two",
+        "phonetic": "tuː",
+        "pos": "NUM",
+        "zh": "两",
+        "componentZh": "两"
+      }
+    }
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-W-xfqh5kx6lo13jh5hucxgu4ai-5",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-W-xfqh5kx6lo13jh5hucxgu4ai-5",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "喜欢",
+    "audioText": "like",
+    "fullEnglish": "like",
+    "phonetic": "laɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "like"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentZh": "喜欢"
+      }
+    }
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-W-xfqh5kx6lo13jh5hucxgu4ai-6",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-W-xfqh5kx6lo13jh5hucxgu4ai-6",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他们",
+    "audioText": "them",
+    "fullEnglish": "them",
+    "phonetic": "ðem; ðəm",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "them",
+        "answer": "them",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "他们",
+        "phonetic": "ðem; ðəm",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "them"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "them",
+        "phonetic": "ðem; ðəm",
+        "pos": "PRON",
+        "zh": "他们",
+        "componentZh": "他们"
+      }
+    }
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-S-y4r8syuqvqjru2nqvnsh60kq",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-S-y4r8syuqvqjru2nqvnsh60kq",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你有多少朋友？",
+    "audioText": "How many friends do you have?",
+    "fullEnglish": "How many friends do you have?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "How",
+        "answer": "How",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "副词",
+        "zh": "如何",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "How many friends",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "如何；许多；朋友（复数）"
+      },
+      {
+        "index": 1,
+        "text": "many",
+        "answer": "many",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "定语（形容词）",
+        "zh": "许多",
+        "phonetic": "ˈmeni",
+        "pos": "ADJ",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "How many friends",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "如何；许多；朋友（复数）"
+      },
+      {
+        "index": 2,
+        "text": "friends",
+        "answer": "friends",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "朋友（复数）",
+        "phonetic": "frendz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "How many friends",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "如何；许多；朋友（复数）"
+      },
+      {
+        "index": 3,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "助动词",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你有多少朋友？"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "many",
+      "friends",
+      "do",
+      "How",
+      "have"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "How many friends",
+        "role": "宾语",
+        "zh": "如何；许多；朋友（复数）",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "How",
+            "role": "副词",
+            "zh": "如何"
+          },
+          {
+            "id": "ud-3",
+            "text": "many",
+            "role": "定语（形容词）",
+            "zh": "许多"
+          },
+          {
+            "id": "ud-4",
+            "text": "friends",
+            "role": "中心词",
+            "zh": "朋友（复数）"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "do",
+        "role": "助动词",
+        "zh": "做"
+      },
+      {
+        "id": "ud-6",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-7",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "How",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "zh": "如何",
+        "componentRole": "副词",
+        "componentZh": "如何",
+        "parentComponentText": "How many friends",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "如何；许多；朋友（复数）"
+      },
+      "1": {
+        "text": "many",
+        "phonetic": "ˈmeni",
+        "pos": "ADJ",
+        "zh": "许多",
+        "componentRole": "定语（形容词）",
+        "componentZh": "许多",
+        "parentComponentText": "How many friends",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "如何；许多；朋友（复数）"
+      },
+      "2": {
+        "text": "friends",
+        "phonetic": "frendz",
+        "pos": "NOUN",
+        "zh": "朋友（复数）",
+        "componentRole": "中心词",
+        "componentZh": "朋友（复数）",
+        "parentComponentText": "How many friends",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "如何；许多；朋友（复数）"
+      },
+      "3": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentRole": "助动词",
+        "componentZh": "做"
+      },
+      "4": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "5": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-W-y4r8syuqvqjru2nqvnsh60kq-3",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-W-y4r8syuqvqjru2nqvnsh60kq-3",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "朋友（复数）",
+    "audioText": "friends",
+    "fullEnglish": "friends",
+    "phonetic": "frendz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "friends",
+        "answer": "friends",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "朋友（复数）",
+        "phonetic": "frendz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "friends"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "friends",
+        "phonetic": "frendz",
+        "pos": "NOUN",
+        "zh": "朋友（复数）",
+        "componentZh": "朋友（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-S-fhfnh3ydno240qb82d6wyrrv",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-S-fhfnh3ydno240qb82d6wyrrv",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我有很多朋友。",
+    "audioText": "I have many friends",
+    "fullEnglish": "I have many friends",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "many",
+        "answer": "many",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "定语（形容词）",
+        "zh": "许多",
+        "phonetic": "ˈmeni",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "many friends",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "许多；朋友（复数）"
+      },
+      {
+        "index": 3,
+        "text": "friends",
+        "answer": "friends",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "朋友（复数）",
+        "phonetic": "frendz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "many friends",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "许多；朋友（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "many",
+      "friends",
+      "have",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-3",
+        "text": "many friends",
+        "role": "宾语",
+        "zh": "许多；朋友（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "many",
+            "role": "定语（形容词）",
+            "zh": "许多"
+          },
+          {
+            "id": "ud-5",
+            "text": "friends",
+            "role": "中心词",
+            "zh": "朋友（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有"
+      },
+      "2": {
+        "text": "many",
+        "phonetic": "ˈmeni",
+        "pos": "ADJ",
+        "zh": "许多",
+        "componentRole": "定语（形容词）",
+        "componentZh": "许多",
+        "parentComponentText": "many friends",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "许多；朋友（复数）"
+      },
+      "3": {
+        "text": "friends",
+        "phonetic": "frendz",
+        "pos": "NOUN",
+        "zh": "朋友（复数）",
+        "componentRole": "中心词",
+        "componentZh": "朋友（复数）",
+        "parentComponentText": "many friends",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "许多；朋友（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-PHRASE-dw7l9ezomf4yvp2xkxucg9yw",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-PHRASE-dw7l9ezomf4yvp2xkxucg9yw",
+    "type": "phrase",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的叔叔",
+    "audioText": "my uncle",
+    "fullEnglish": "my uncle",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "uncle",
+        "answer": "uncle",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "叔叔",
+        "phonetic": "ˈʌŋk(ə)l",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "uncle",
+      "my"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "my",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-2",
+        "text": "uncle",
+        "role": "中心成分",
+        "zh": "叔叔"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "uncle",
+        "phonetic": "ˈʌŋk(ə)l",
+        "pos": "NOUN",
+        "zh": "叔叔",
+        "componentZh": "叔叔",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-PHRASE-h37o49h0q0x1kl5sv7egyty4",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-PHRASE-h37o49h0q0x1kl5sv7egyty4",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他是Victor,",
+    "audioText": "He's Victor",
+    "fullEnglish": "He's Victor",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "Victor",
+        "answer": "Victor",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "Victor",
+        "phonetic": "ˈvɪktər",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "Victor",
+      "He's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-2",
+        "text": "Victor",
+        "role": "表语",
+        "zh": "Victor"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentZh": "他是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "Victor",
+        "phonetic": "ˈvɪktər",
+        "pos": "PROPN_PERSON",
+        "zh": "Victor",
+        "componentZh": "Victor",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-PHRASE-df6cz4l9kw2mu5ecclyahqkv",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-PHRASE-df6cz4l9kw2mu5ecclyahqkv",
+    "type": "phrase",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的朋友",
+    "audioText": "my friend",
+    "fullEnglish": "my friend",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "friend",
+        "answer": "friend",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "朋友",
+        "phonetic": "frend",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "friend",
+      "my"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "my",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-2",
+        "text": "friend",
+        "role": "中心成分",
+        "zh": "朋友"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "friend",
+        "phonetic": "frend",
+        "pos": "NOUN",
+        "zh": "朋友",
+        "componentZh": "朋友",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-PHRASE-swiez7wzmpes2yg4fgws8cmb",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-PHRASE-swiez7wzmpes2yg4fgws8cmb",
+    "type": "phrase",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "多少",
+    "audioText": "How many",
+    "fullEnglish": "How many",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "How",
+        "answer": "How",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "如何",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "many",
+        "answer": "many",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "许多",
+        "phonetic": "ˈmeni",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "many",
+      "How"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "How",
+        "role": "方式/程度状语",
+        "zh": "如何"
+      },
+      {
+        "id": "ud-2",
+        "text": "many",
+        "role": "中心成分",
+        "zh": "许多"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "How",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "zh": "如何",
+        "componentZh": "如何",
+        "componentRole": "方式/程度状语"
+      },
+      "1": {
+        "text": "many",
+        "phonetic": "ˈmeni",
+        "pos": "ADJ",
+        "zh": "许多",
+        "componentZh": "许多",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-PHRASE-rfni8869dyi3zhqc88gxg0ol",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-PHRASE-rfni8869dyi3zhqc88gxg0ol",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你有",
+    "audioText": "do you have",
+    "fullEnglish": "do you have",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "do",
+      "you",
+      "have"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "do",
+        "role": "助动词",
+        "zh": "做"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-PHRASE-h7brbt6mblc4yw5q8p6w5dc3",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-PHRASE-h7brbt6mblc4yw5q8p6w5dc3",
+    "type": "phrase",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "两个叔叔",
+    "audioText": "two uncles",
+    "fullEnglish": "two uncles",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "two",
+        "answer": "two",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "两",
+        "phonetic": "tuː",
+        "pos": "NUM",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "uncles",
+        "answer": "uncles",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "叔叔（复数）",
+        "phonetic": "ˈʌŋkəlz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "two",
+      "uncles"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "two",
+        "role": "补充成分",
+        "zh": "两"
+      },
+      {
+        "id": "ud-2",
+        "text": "uncles",
+        "role": "中心成分",
+        "zh": "叔叔（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "two",
+        "phonetic": "tuː",
+        "pos": "NUM",
+        "zh": "两",
+        "componentZh": "两",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "uncles",
+        "phonetic": "ˈʌŋkəlz",
+        "pos": "NOUN",
+        "zh": "叔叔（复数）",
+        "componentZh": "叔叔（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-PHRASE-v79i2tyyuf6v9tczgrbw4vm5",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-PHRASE-v79i2tyyuf6v9tczgrbw4vm5",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我有两个叔叔",
+    "audioText": "I have two uncles",
+    "fullEnglish": "I have two uncles",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      },
+      {
+        "index": 2,
+        "text": "two",
+        "answer": "two",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "两",
+        "phonetic": "tuː",
+        "pos": "NUM",
+        "componentId": "ud-4",
+        "role": "数量词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "two uncles",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "两；叔叔（复数）"
+      },
+      {
+        "index": 3,
+        "text": "uncles",
+        "answer": "uncles",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "叔叔（复数）",
+        "phonetic": "ˈʌŋkəlz",
+        "pos": "NOUN",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "two uncles",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "两；叔叔（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "have",
+      "two",
+      "uncles",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-3",
+        "text": "two uncles",
+        "role": "宾语",
+        "zh": "两；叔叔（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "two",
+            "role": "数量词",
+            "zh": "两"
+          },
+          {
+            "id": "ud-5",
+            "text": "uncles",
+            "role": "中心词",
+            "zh": "叔叔（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有",
+        "componentRole": "谓语"
+      },
+      "2": {
+        "text": "two",
+        "phonetic": "tuː",
+        "pos": "NUM",
+        "zh": "两",
+        "componentZh": "两",
+        "componentRole": "数量词",
+        "parentComponentText": "two uncles",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "两；叔叔（复数）"
+      },
+      "3": {
+        "text": "uncles",
+        "phonetic": "ˈʌŋkəlz",
+        "pos": "NOUN",
+        "zh": "叔叔（复数）",
+        "componentZh": "叔叔（复数）",
+        "componentRole": "中心词",
+        "parentComponentText": "two uncles",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "两；叔叔（复数）"
+      }
+    },
+    "sentenceType": "主谓宾结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-PHRASE-qsoyn4yasq0p9hcyu9ckdth8",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-PHRASE-qsoyn4yasq0p9hcyu9ckdth8",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我喜欢他们",
+    "audioText": "I like them",
+    "fullEnglish": "I like them",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      },
+      {
+        "index": 2,
+        "text": "them",
+        "answer": "them",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "他们",
+        "phonetic": "ðem; ðəm",
+        "pos": "PRON",
+        "componentId": "ud-3",
+        "role": "宾语"
+      }
+    ],
+    "shuffledBlocks": [
+      "them",
+      "I",
+      "like"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-3",
+        "text": "them",
+        "role": "宾语",
+        "zh": "他们"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentZh": "喜欢",
+        "componentRole": "谓语"
+      },
+      "2": {
+        "text": "them",
+        "phonetic": "ðem; ðəm",
+        "pos": "PRON",
+        "zh": "他们",
+        "componentZh": "他们",
+        "componentRole": "宾语"
+      }
+    },
+    "sentenceType": "主谓宾结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-g73o8s7brzjl36g8bnh0cesn-PHRASE-is9ap9hhp344f5fe6mdsbhl4",
+    "contentId": "JLB-g73o8s7brzjl36g8bnh0cesn-PHRASE-is9ap9hhp344f5fe6mdsbhl4",
+    "type": "phrase",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "g73o8s7brzjl36g8bnh0cesn",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 17【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "许多朋友",
+    "audioText": "many friends",
+    "fullEnglish": "many friends",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "many",
+        "answer": "many",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "许多",
+        "phonetic": "ˈmeni",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "friends",
+        "answer": "friends",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "朋友（复数）",
+        "phonetic": "frendz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "friends",
+      "many"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "many",
+        "role": "补充成分",
+        "zh": "许多"
+      },
+      {
+        "id": "ud-2",
+        "text": "friends",
+        "role": "中心成分",
+        "zh": "朋友（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "many",
+        "phonetic": "ˈmeni",
+        "pos": "ADJ",
+        "zh": "许多",
+        "componentZh": "许多",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "friends",
+        "phonetic": "frendz",
+        "pos": "NOUN",
+        "zh": "朋友（复数）",
+        "componentZh": "朋友（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

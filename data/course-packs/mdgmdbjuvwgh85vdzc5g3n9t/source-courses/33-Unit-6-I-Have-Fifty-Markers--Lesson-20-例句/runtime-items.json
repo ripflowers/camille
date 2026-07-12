@@ -1,0 +1,3108 @@
+[
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-S-a5x88lim0sjsz5o6omdkl6v7",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-S-a5x88lim0sjsz5o6omdkl6v7",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你有好多橡皮擦。",
+    "audioText": "You have so many erasers",
+    "fullEnglish": "You have so many erasers",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "You",
+        "answer": "You",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "so",
+        "answer": "so",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "副词",
+        "zh": "所以",
+        "phonetic": "soʊ",
+        "pos": "ADV",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "so many erasers",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "所以；许多；橡皮擦（复数）"
+      },
+      {
+        "index": 3,
+        "text": "many",
+        "answer": "many",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "定语（形容词）",
+        "zh": "许多",
+        "phonetic": "ˈmeni",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "so many erasers",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "所以；许多；橡皮擦（复数）"
+      },
+      {
+        "index": 4,
+        "text": "erasers",
+        "answer": "erasers",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "橡皮擦（复数）",
+        "phonetic": "ɪˈreɪzərz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "so many erasers",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "所以；许多；橡皮擦（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "so",
+      "have",
+      "You",
+      "many",
+      "erasers"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "You",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-2",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-3",
+        "text": "so many erasers",
+        "role": "宾语",
+        "zh": "所以；许多；橡皮擦（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "so",
+            "role": "副词",
+            "zh": "所以"
+          },
+          {
+            "id": "ud-5",
+            "text": "many",
+            "role": "定语（形容词）",
+            "zh": "许多"
+          },
+          {
+            "id": "ud-6",
+            "text": "erasers",
+            "role": "中心词",
+            "zh": "橡皮擦（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "You",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "1": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有"
+      },
+      "2": {
+        "text": "so",
+        "phonetic": "soʊ",
+        "pos": "ADV",
+        "zh": "所以",
+        "componentRole": "副词",
+        "componentZh": "所以",
+        "parentComponentText": "so many erasers",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "所以；许多；橡皮擦（复数）"
+      },
+      "3": {
+        "text": "many",
+        "phonetic": "ˈmeni",
+        "pos": "ADJ",
+        "zh": "许多",
+        "componentRole": "定语（形容词）",
+        "componentZh": "许多",
+        "parentComponentText": "so many erasers",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "所以；许多；橡皮擦（复数）"
+      },
+      "4": {
+        "text": "erasers",
+        "phonetic": "ɪˈreɪzərz",
+        "pos": "NOUN",
+        "zh": "橡皮擦（复数）",
+        "componentRole": "中心词",
+        "componentZh": "橡皮擦（复数）",
+        "parentComponentText": "so many erasers",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "所以；许多；橡皮擦（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-a5x88lim0sjsz5o6omdkl6v7-1",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-a5x88lim0sjsz5o6omdkl6v7-1",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "You",
+    "fullEnglish": "You",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "You",
+        "answer": "You",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "You"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "You",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-a5x88lim0sjsz5o6omdkl6v7-2",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-a5x88lim0sjsz5o6omdkl6v7-2",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "有",
+    "audioText": "have",
+    "fullEnglish": "have",
+    "phonetic": "hæv",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "have"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-a5x88lim0sjsz5o6omdkl6v7-3",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-a5x88lim0sjsz5o6omdkl6v7-3",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "如此",
+    "audioText": "so",
+    "fullEnglish": "so",
+    "phonetic": "soʊ",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "so",
+        "answer": "so",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "所以",
+        "phonetic": "soʊ",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "so"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "so",
+        "phonetic": "soʊ",
+        "pos": "ADV",
+        "zh": "所以",
+        "componentZh": "所以"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-a5x88lim0sjsz5o6omdkl6v7-4",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-a5x88lim0sjsz5o6omdkl6v7-4",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "许多",
+    "audioText": "many",
+    "fullEnglish": "many",
+    "phonetic": "ˈmeni",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "many",
+        "answer": "many",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "许多",
+        "phonetic": "ˈmeni",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "many"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "many",
+        "phonetic": "ˈmeni",
+        "pos": "ADJ",
+        "zh": "许多",
+        "componentZh": "许多"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-a5x88lim0sjsz5o6omdkl6v7-5",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-a5x88lim0sjsz5o6omdkl6v7-5",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "橡皮擦（复数）",
+    "audioText": "erasers",
+    "fullEnglish": "erasers",
+    "phonetic": "ɪˈreɪzərz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "erasers",
+        "answer": "erasers",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "橡皮擦（复数）",
+        "phonetic": "ɪˈreɪzərz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "erasers"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "erasers",
+        "phonetic": "ɪˈreɪzərz",
+        "pos": "NOUN",
+        "zh": "橡皮擦（复数）",
+        "componentZh": "橡皮擦（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-S-qc6riujuo32fu6f9t2dimu7b",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-S-qc6riujuo32fu6f9t2dimu7b",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的。我有六十个。",
+    "audioText": "Yes. I have sixty",
+    "fullEnglish": "Yes. I have sixty",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的。我有六十个。"
+      },
+      {
+        "index": 2,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "sixty",
+        "answer": "sixty",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "宾语",
+        "zh": "六十",
+        "phonetic": "ˈsɪksti",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes",
+      "have",
+      "I",
+      "sixty"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yes",
+        "role": "中心成分",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-4",
+        "text": "sixty",
+        "role": "宾语",
+        "zh": "六十"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentRole": "中心成分",
+        "componentZh": "是的"
+      },
+      "2": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "3": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有"
+      },
+      "4": {
+        "text": "sixty",
+        "phonetic": "ˈsɪksti",
+        "pos": "NUM",
+        "zh": "六十",
+        "componentRole": "宾语",
+        "componentZh": "六十"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-qc6riujuo32fu6f9t2dimu7b-1",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-qc6riujuo32fu6f9t2dimu7b-1",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的",
+    "audioText": "Yes",
+    "fullEnglish": "Yes",
+    "phonetic": "jes",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-qc6riujuo32fu6f9t2dimu7b-2",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-qc6riujuo32fu6f9t2dimu7b-2",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-qc6riujuo32fu6f9t2dimu7b-4",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-qc6riujuo32fu6f9t2dimu7b-4",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "六十",
+    "audioText": "sixty",
+    "fullEnglish": "sixty",
+    "phonetic": "ˈsɪksti",
+    "pos": "NUM",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "sixty",
+        "answer": "sixty",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "六十",
+        "phonetic": "ˈsɪksti",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "sixty"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "sixty",
+        "phonetic": "ˈsɪksti",
+        "pos": "NUM",
+        "zh": "六十",
+        "componentZh": "六十"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-S-b1ea3f0jbzdf0ufbrnlm9e1o",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-S-b1ea3f0jbzdf0ufbrnlm9e1o",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我收集尺子。",
+    "audioText": "I collect rulers",
+    "fullEnglish": "I collect rulers",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "collect",
+        "answer": "collect",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "收集",
+        "phonetic": "kəˈlekt",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "rulers",
+        "answer": "rulers",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "宾语",
+        "zh": "尺子（复数）",
+        "phonetic": "ˈrʊlər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "rulers",
+      "collect",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "collect",
+        "role": "谓语",
+        "zh": "收集"
+      },
+      {
+        "id": "ud-3",
+        "text": "rulers",
+        "role": "宾语",
+        "zh": "尺子（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "collect",
+        "phonetic": "kəˈlekt",
+        "pos": "VERB",
+        "zh": "收集",
+        "componentRole": "谓语",
+        "componentZh": "收集"
+      },
+      "2": {
+        "text": "rulers",
+        "phonetic": "ˈrʊlər",
+        "pos": "NOUN",
+        "zh": "尺子（复数）",
+        "componentRole": "宾语",
+        "componentZh": "尺子（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-b1ea3f0jbzdf0ufbrnlm9e1o-2",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-b1ea3f0jbzdf0ufbrnlm9e1o-2",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "收集",
+    "audioText": "collect",
+    "fullEnglish": "collect",
+    "phonetic": "kəˈlekt",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "collect",
+        "answer": "collect",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "收集",
+        "phonetic": "kəˈlekt",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "collect"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "collect",
+        "phonetic": "kəˈlekt",
+        "pos": "VERB",
+        "zh": "收集",
+        "componentZh": "收集"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-b1ea3f0jbzdf0ufbrnlm9e1o-3",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-b1ea3f0jbzdf0ufbrnlm9e1o-3",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "尺子（复数）",
+    "audioText": "rulers",
+    "fullEnglish": "rulers",
+    "phonetic": "ˈrʊlər",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "rulers",
+        "answer": "rulers",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "尺子（复数）",
+        "phonetic": "ˈrʊlər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "rulers"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "rulers",
+        "phonetic": "ˈrʊlər",
+        "pos": "NOUN",
+        "zh": "尺子（复数）",
+        "componentZh": "尺子（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-S-gyppquqmv8vx8zjkr8stuseq",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-S-gyppquqmv8vx8zjkr8stuseq",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Guoguo，你收集些什么？",
+    "audioText": "What do you collect, Guoguo?",
+    "fullEnglish": "What do you collect, Guoguo?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "宾语",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "collect",
+        "answer": "collect",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "收集",
+        "phonetic": "kəˈlekt",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Guoguo，你收集些什么？"
+      },
+      {
+        "index": 5,
+        "text": "Guoguo",
+        "answer": "Guoguo",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "呼语",
+        "zh": "Guoguo",
+        "phonetic": "guoguo",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Guoguo，你收集些什么？"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "do",
+      "What",
+      "collect",
+      "Guoguo"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What",
+        "role": "宾语",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "do",
+        "role": "助动词",
+        "zh": "构成疑问句"
+      },
+      {
+        "id": "ud-3",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-4",
+        "text": "collect",
+        "role": "谓语",
+        "zh": "收集"
+      },
+      {
+        "id": "ud-5",
+        "text": "Guoguo",
+        "role": "呼语",
+        "zh": "Guoguo"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "宾语",
+        "componentZh": "什么"
+      },
+      "1": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentRole": "助动词",
+        "componentZh": "构成疑问句"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "3": {
+        "text": "collect",
+        "phonetic": "kəˈlekt",
+        "pos": "VERB",
+        "zh": "收集",
+        "componentRole": "谓语",
+        "componentZh": "收集"
+      },
+      "5": {
+        "text": "Guoguo",
+        "phonetic": "guoguo",
+        "pos": "PROPN_PERSON",
+        "zh": "Guoguo",
+        "componentRole": "呼语",
+        "componentZh": "Guoguo"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-gyppquqmv8vx8zjkr8stuseq-1",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-gyppquqmv8vx8zjkr8stuseq-1",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么",
+    "audioText": "What",
+    "fullEnglish": "What",
+    "phonetic": "wʌt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "What"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-gyppquqmv8vx8zjkr8stuseq-2",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-gyppquqmv8vx8zjkr8stuseq-2",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "助动词",
+    "audioText": "do",
+    "fullEnglish": "do",
+    "phonetic": "duː; də",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "do"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentZh": "构成疑问句"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-gyppquqmv8vx8zjkr8stuseq-5",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-gyppquqmv8vx8zjkr8stuseq-5",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Guoguo",
+    "audioText": "Guoguo",
+    "fullEnglish": "Guoguo",
+    "phonetic": "guoguo",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Guoguo",
+        "answer": "Guoguo",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "Guoguo",
+        "phonetic": "guoguo",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Guoguo"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Guoguo",
+        "phonetic": "guoguo",
+        "pos": "PROPN_PERSON",
+        "zh": "Guoguo",
+        "componentZh": "Guoguo"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-S-d6nag0uc1w0r8ae9xqu3yhil",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-S-d6nag0uc1w0r8ae9xqu3yhil",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我有四十个。",
+    "audioText": "I have forty",
+    "fullEnglish": "I have forty",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "forty",
+        "answer": "forty",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "宾语",
+        "zh": "四十",
+        "phonetic": "ˈfɔrti",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "forty",
+      "have"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-3",
+        "text": "forty",
+        "role": "宾语",
+        "zh": "四十"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有"
+      },
+      "2": {
+        "text": "forty",
+        "phonetic": "ˈfɔrti",
+        "pos": "NUM",
+        "zh": "四十",
+        "componentRole": "宾语",
+        "componentZh": "四十"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-d6nag0uc1w0r8ae9xqu3yhil-3",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-d6nag0uc1w0r8ae9xqu3yhil-3",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "四十",
+    "audioText": "forty",
+    "fullEnglish": "forty",
+    "phonetic": "ˈfɔrti",
+    "pos": "NUM",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "forty",
+        "answer": "forty",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "四十",
+        "phonetic": "ˈfɔrti",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "forty"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "forty",
+        "phonetic": "ˈfɔrti",
+        "pos": "NUM",
+        "zh": "四十",
+        "componentZh": "四十"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-S-f6fdrvvckvmtb0tdq1vg3xgs",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-S-f6fdrvvckvmtb0tdq1vg3xgs",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你有好多玩具车啊。",
+    "audioText": "You have so many toy cars",
+    "fullEnglish": "You have so many toy cars",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "You",
+        "answer": "You",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "so",
+        "answer": "so",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "副词",
+        "zh": "所以",
+        "phonetic": "soʊ",
+        "pos": "ADV",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "so many toy cars",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "所以；许多；玩具；汽车（复数）"
+      },
+      {
+        "index": 3,
+        "text": "many",
+        "answer": "many",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "定语（形容词）",
+        "zh": "许多",
+        "phonetic": "ˈmeni",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "so many toy cars",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "所以；许多；玩具；汽车（复数）"
+      },
+      {
+        "index": 4,
+        "text": "toy",
+        "answer": "toy",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "定语（名词修饰）",
+        "zh": "玩具",
+        "phonetic": "tɔɪ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "so many toy cars",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "所以；许多；玩具；汽车（复数）"
+      },
+      {
+        "index": 5,
+        "text": "cars",
+        "answer": "cars",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "汽车（复数）",
+        "phonetic": "kɑrz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "so many toy cars",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "所以；许多；玩具；汽车（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "You",
+      "toy",
+      "many",
+      "cars",
+      "so",
+      "have"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "You",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-2",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-3",
+        "text": "so many toy cars",
+        "role": "宾语",
+        "zh": "所以；许多；玩具；汽车（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "so",
+            "role": "副词",
+            "zh": "所以"
+          },
+          {
+            "id": "ud-5",
+            "text": "many",
+            "role": "定语（形容词）",
+            "zh": "许多"
+          },
+          {
+            "id": "ud-6",
+            "text": "toy",
+            "role": "定语（名词修饰）",
+            "zh": "玩具"
+          },
+          {
+            "id": "ud-7",
+            "text": "cars",
+            "role": "中心词",
+            "zh": "汽车（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "You",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "1": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有"
+      },
+      "2": {
+        "text": "so",
+        "phonetic": "soʊ",
+        "pos": "ADV",
+        "zh": "所以",
+        "componentRole": "副词",
+        "componentZh": "所以",
+        "parentComponentText": "so many toy cars",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "所以；许多；玩具；汽车（复数）"
+      },
+      "3": {
+        "text": "many",
+        "phonetic": "ˈmeni",
+        "pos": "ADJ",
+        "zh": "许多",
+        "componentRole": "定语（形容词）",
+        "componentZh": "许多",
+        "parentComponentText": "so many toy cars",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "所以；许多；玩具；汽车（复数）"
+      },
+      "4": {
+        "text": "toy",
+        "phonetic": "tɔɪ",
+        "pos": "NOUN",
+        "zh": "玩具",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "玩具",
+        "parentComponentText": "so many toy cars",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "所以；许多；玩具；汽车（复数）"
+      },
+      "5": {
+        "text": "cars",
+        "phonetic": "kɑrz",
+        "pos": "NOUN",
+        "zh": "汽车（复数）",
+        "componentRole": "中心词",
+        "componentZh": "汽车（复数）",
+        "parentComponentText": "so many toy cars",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "所以；许多；玩具；汽车（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-f6fdrvvckvmtb0tdq1vg3xgs-5",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-f6fdrvvckvmtb0tdq1vg3xgs-5",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "玩具",
+    "audioText": "toy",
+    "fullEnglish": "toy",
+    "phonetic": "tɔɪ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "toy",
+        "answer": "toy",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "玩具",
+        "phonetic": "tɔɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "toy"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "toy",
+        "phonetic": "tɔɪ",
+        "pos": "NOUN",
+        "zh": "玩具",
+        "componentZh": "玩具"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-f6fdrvvckvmtb0tdq1vg3xgs-6",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-f6fdrvvckvmtb0tdq1vg3xgs-6",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "汽车（复数）",
+    "audioText": "cars",
+    "fullEnglish": "cars",
+    "phonetic": "kɑrz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "cars",
+        "answer": "cars",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "汽车（复数）",
+        "phonetic": "kɑrz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "cars"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "cars",
+        "phonetic": "kɑrz",
+        "pos": "NOUN",
+        "zh": "汽车（复数）",
+        "componentZh": "汽车（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-S-keohypidh2fgllqpcw7215lp",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-S-keohypidh2fgllqpcw7215lp",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的。我收集它们。",
+    "audioText": "Yes. I collect them",
+    "fullEnglish": "Yes. I collect them",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的。我收集它们。"
+      },
+      {
+        "index": 2,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "collect",
+        "answer": "collect",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "收集",
+        "phonetic": "kəˈlekt",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "them",
+        "answer": "them",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "宾语",
+        "zh": "他们",
+        "phonetic": "ðem; ðəm",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "them",
+      "Yes",
+      "I",
+      "collect"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yes",
+        "role": "中心成分",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "collect",
+        "role": "谓语",
+        "zh": "收集"
+      },
+      {
+        "id": "ud-4",
+        "text": "them",
+        "role": "宾语",
+        "zh": "他们"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentRole": "中心成分",
+        "componentZh": "是的"
+      },
+      "2": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "3": {
+        "text": "collect",
+        "phonetic": "kəˈlekt",
+        "pos": "VERB",
+        "zh": "收集",
+        "componentRole": "谓语",
+        "componentZh": "收集"
+      },
+      "4": {
+        "text": "them",
+        "phonetic": "ðem; ðəm",
+        "pos": "PRON",
+        "zh": "他们",
+        "componentRole": "宾语",
+        "componentZh": "他们"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-keohypidh2fgllqpcw7215lp-4",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-keohypidh2fgllqpcw7215lp-4",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它们",
+    "audioText": "them",
+    "fullEnglish": "them",
+    "phonetic": "ðem; ðəm",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "them",
+        "answer": "them",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "他们",
+        "phonetic": "ðem; ðəm",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "them"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "them",
+        "phonetic": "ðem; ðəm",
+        "pos": "PRON",
+        "zh": "他们",
+        "componentZh": "他们"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-S-tmxw89qn726yb73nst6xsqi3",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-S-tmxw89qn726yb73nst6xsqi3",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我有二十个。",
+    "audioText": "I have twenty",
+    "fullEnglish": "I have twenty",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "twenty",
+        "answer": "twenty",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "宾语",
+        "zh": "二十",
+        "phonetic": "ˈtwenti",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "have",
+      "twenty",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-3",
+        "text": "twenty",
+        "role": "宾语",
+        "zh": "二十"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有"
+      },
+      "2": {
+        "text": "twenty",
+        "phonetic": "ˈtwenti",
+        "pos": "NUM",
+        "zh": "二十",
+        "componentRole": "宾语",
+        "componentZh": "二十"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-tmxw89qn726yb73nst6xsqi3-3",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-tmxw89qn726yb73nst6xsqi3-3",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "二十",
+    "audioText": "twenty",
+    "fullEnglish": "twenty",
+    "phonetic": "ˈtwenti",
+    "pos": "NUM",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "twenty",
+        "answer": "twenty",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "二十",
+        "phonetic": "ˈtwenti",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "twenty"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "twenty",
+        "phonetic": "ˈtwenti",
+        "pos": "NUM",
+        "zh": "二十",
+        "componentZh": "二十"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-S-tzk23oamq8eubgve2onky5b9",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-S-tzk23oamq8eubgve2onky5b9",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我有十个。",
+    "audioText": "I have ten",
+    "fullEnglish": "I have ten",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "ten",
+        "answer": "ten",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "宾语",
+        "zh": "十",
+        "phonetic": "ten",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "ten",
+      "I",
+      "have"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-3",
+        "text": "ten",
+        "role": "宾语",
+        "zh": "十"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有"
+      },
+      "2": {
+        "text": "ten",
+        "phonetic": "ten",
+        "pos": "NUM",
+        "zh": "十",
+        "componentRole": "宾语",
+        "componentZh": "十"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-tzk23oamq8eubgve2onky5b9-3",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-tzk23oamq8eubgve2onky5b9-3",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "十",
+    "audioText": "ten",
+    "fullEnglish": "ten",
+    "phonetic": "ten",
+    "pos": "NUM",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "ten",
+        "answer": "ten",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "十",
+        "phonetic": "ten",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "ten"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "ten",
+        "phonetic": "ten",
+        "pos": "NUM",
+        "zh": "十",
+        "componentZh": "十"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-S-tpv85efgweq8btuz4xlgw2dj",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-S-tpv85efgweq8btuz4xlgw2dj",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让我们把它们放在一起。",
+    "audioText": "Let's put them together",
+    "fullEnglish": "Let's put them together",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "宾语 + 谓语",
+        "zh": "让我们（缩写形式）",
+        "phonetic": "lets",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "put",
+        "answer": "put",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "put（短语动词原型）: 放置",
+        "phonetic": "pʊt",
+        "pos": "VERB",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "put them together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "put（短语动词原型）: 放置；他们；一起"
+      },
+      {
+        "index": 2,
+        "text": "them",
+        "answer": "them",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "宾语",
+        "zh": "他们",
+        "phonetic": "ðem; ðəm",
+        "pos": "PRON",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "put them together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "put（短语动词原型）: 放置；他们；一起"
+      },
+      {
+        "index": 3,
+        "text": "together",
+        "answer": "together",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "方式/程度状语",
+        "zh": "一起",
+        "phonetic": "təˈɡeðər",
+        "pos": "ADV",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "put them together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "put（短语动词原型）: 放置；他们；一起"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let's",
+      "together",
+      "them",
+      "put"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let's",
+        "role": "宾语 + 谓语",
+        "zh": "让我们（缩写形式）"
+      },
+      {
+        "id": "ud-2",
+        "text": "put them together",
+        "role": "宾语补足语",
+        "zh": "put（短语动词原型）: 放置；他们；一起",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "put",
+            "role": "谓语",
+            "zh": "put（短语动词原型）: 放置"
+          },
+          {
+            "id": "ud-4",
+            "text": "them",
+            "role": "宾语",
+            "zh": "他们"
+          },
+          {
+            "id": "ud-5",
+            "text": "together",
+            "role": "方式/程度状语",
+            "zh": "一起"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们（缩写形式）",
+        "componentRole": "宾语 + 谓语",
+        "componentZh": "让我们（缩写形式）"
+      },
+      "1": {
+        "text": "put",
+        "phonetic": "pʊt",
+        "pos": "VERB",
+        "zh": "put（短语动词原型）: 放置",
+        "componentRole": "谓语",
+        "componentZh": "put（短语动词原型）: 放置",
+        "parentComponentText": "put them together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "put（短语动词原型）: 放置；他们；一起"
+      },
+      "2": {
+        "text": "them",
+        "phonetic": "ðem; ðəm",
+        "pos": "PRON",
+        "zh": "他们",
+        "componentRole": "宾语",
+        "componentZh": "他们",
+        "parentComponentText": "put them together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "put（短语动词原型）: 放置；他们；一起"
+      },
+      "3": {
+        "text": "together",
+        "phonetic": "təˈɡeðər",
+        "pos": "ADV",
+        "zh": "一起",
+        "componentRole": "方式/程度状语",
+        "componentZh": "一起",
+        "parentComponentText": "put them together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "put（短语动词原型）: 放置；他们；一起"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-tpv85efgweq8btuz4xlgw2dj-1",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-tpv85efgweq8btuz4xlgw2dj-1",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让我们（缩写形式）",
+    "audioText": "Let's",
+    "fullEnglish": "Let's",
+    "phonetic": "lets",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "让我们（缩写形式）",
+        "phonetic": "lets",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们（缩写形式）",
+        "componentZh": "让我们（缩写形式）"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-tpv85efgweq8btuz4xlgw2dj-2",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-tpv85efgweq8btuz4xlgw2dj-2",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "put（短语动词原型）: 放置",
+    "audioText": "put",
+    "fullEnglish": "put",
+    "phonetic": "pʊt",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "put",
+        "answer": "put",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "put（短语动词原型）: 放置",
+        "phonetic": "pʊt",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "put"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "put",
+        "phonetic": "pʊt",
+        "pos": "VERB",
+        "zh": "put（短语动词原型）: 放置",
+        "componentZh": "put（短语动词原型）: 放置"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-tpv85efgweq8btuz4xlgw2dj-4",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-tpv85efgweq8btuz4xlgw2dj-4",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一起",
+    "audioText": "together",
+    "fullEnglish": "together",
+    "phonetic": "təˈɡeðər",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "together",
+        "answer": "together",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "一起",
+        "phonetic": "təˈɡeðər",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "together"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "together",
+        "phonetic": "təˈɡeðər",
+        "pos": "ADV",
+        "zh": "一起",
+        "componentZh": "一起"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-S-xe2asfvl4w6cz76yt7nob2h8",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-S-xe2asfvl4w6cz76yt7nob2h8",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "二十加十等于三十。",
+    "audioText": "Twenty plus ten is thirty",
+    "fullEnglish": "Twenty plus ten is thirty",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Twenty",
+        "answer": "Twenty",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心词",
+        "zh": "二十",
+        "phonetic": "ˈtwenti",
+        "pos": "NUM",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "Twenty plus ten",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "二十；加；十"
+      },
+      {
+        "index": 1,
+        "text": "plus",
+        "answer": "plus",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "并列连词",
+        "zh": "加",
+        "phonetic": "plʌs",
+        "pos": "ADP",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "Twenty plus ten",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "二十；加；十"
+      },
+      {
+        "index": 2,
+        "text": "ten",
+        "answer": "ten",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "修饰语",
+        "zh": "十",
+        "phonetic": "ten",
+        "pos": "NUM",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "Twenty plus ten",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "二十；加；十"
+      },
+      {
+        "index": 3,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 4,
+        "text": "thirty",
+        "answer": "thirty",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "表语",
+        "zh": "三十",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "thirty",
+      "ten",
+      "is",
+      "Twenty",
+      "plus"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Twenty plus ten",
+        "role": "主语",
+        "zh": "二十；加；十",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "Twenty",
+            "role": "中心词",
+            "zh": "二十"
+          },
+          {
+            "id": "ud-3",
+            "text": "plus",
+            "role": "并列连词",
+            "zh": "加"
+          },
+          {
+            "id": "ud-4",
+            "text": "ten",
+            "role": "修饰语",
+            "zh": "十"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-6",
+        "text": "thirty",
+        "role": "表语",
+        "zh": "三十"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Twenty",
+        "phonetic": "ˈtwenti",
+        "pos": "NUM",
+        "zh": "二十",
+        "componentRole": "中心词",
+        "componentZh": "二十",
+        "parentComponentText": "Twenty plus ten",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "二十；加；十"
+      },
+      "1": {
+        "text": "plus",
+        "phonetic": "plʌs",
+        "pos": "ADP",
+        "zh": "加",
+        "componentRole": "并列连词",
+        "componentZh": "加",
+        "parentComponentText": "Twenty plus ten",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "二十；加；十"
+      },
+      "2": {
+        "text": "ten",
+        "phonetic": "ten",
+        "pos": "NUM",
+        "zh": "十",
+        "componentRole": "修饰语",
+        "componentZh": "十",
+        "parentComponentText": "Twenty plus ten",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "二十；加；十"
+      },
+      "3": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "4": {
+        "text": "thirty",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM",
+        "zh": "三十",
+        "componentRole": "表语",
+        "componentZh": "三十"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-xe2asfvl4w6cz76yt7nob2h8-2",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-xe2asfvl4w6cz76yt7nob2h8-2",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "加",
+    "audioText": "plus",
+    "fullEnglish": "plus",
+    "phonetic": "plʌs",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "plus",
+        "answer": "plus",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "加",
+        "phonetic": "plʌs",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "plus"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "plus",
+        "phonetic": "plʌs",
+        "pos": "ADP",
+        "zh": "加",
+        "componentZh": "加"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-xe2asfvl4w6cz76yt7nob2h8-4",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-xe2asfvl4w6cz76yt7nob2h8-4",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "is",
+    "fullEnglish": "is",
+    "phonetic": "ɪz",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "is"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-W-xe2asfvl4w6cz76yt7nob2h8-5",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-W-xe2asfvl4w6cz76yt7nob2h8-5",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "三十",
+    "audioText": "thirty",
+    "fullEnglish": "thirty",
+    "phonetic": "ˈθɜrti",
+    "pos": "NUM",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "thirty",
+        "answer": "thirty",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "三十",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "thirty"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "thirty",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM",
+        "zh": "三十",
+        "componentZh": "三十"
+      }
+    }
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-PHRASE-tr0bebt30kwivhvimph9vmlc",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-PHRASE-tr0bebt30kwivhvimph9vmlc",
+    "type": "phrase",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我收集尺子。",
+    "audioText": "I collect rulers",
+    "fullEnglish": "I collect rulers",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "collect",
+        "answer": "collect",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "收集",
+        "phonetic": "kəˈlekt",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      },
+      {
+        "index": 2,
+        "text": "rulers",
+        "answer": "rulers",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "尺子（复数）",
+        "phonetic": "ˈrʊlər",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "宾语"
+      }
+    ],
+    "shuffledBlocks": [
+      "rulers",
+      "collect",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "collect",
+        "role": "谓语",
+        "zh": "收集"
+      },
+      {
+        "id": "ud-3",
+        "text": "rulers",
+        "role": "宾语",
+        "zh": "尺子（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "collect",
+        "phonetic": "kəˈlekt",
+        "pos": "VERB",
+        "zh": "收集",
+        "componentZh": "收集",
+        "componentRole": "谓语"
+      },
+      "2": {
+        "text": "rulers",
+        "phonetic": "ˈrʊlər",
+        "pos": "NOUN",
+        "zh": "尺子（复数）",
+        "componentZh": "尺子（复数）",
+        "componentRole": "宾语"
+      }
+    },
+    "sentenceType": "主谓宾结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-re15tod85uvxv0fxce7owdsa-PHRASE-gcbem12axl5qw1f4bwexucbe",
+    "contentId": "JLB-re15tod85uvxv0fxce7owdsa-PHRASE-gcbem12axl5qw1f4bwexucbe",
+    "type": "phrase",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "re15tod85uvxv0fxce7owdsa",
+    "unitTitle": "Unit 6 I Have Fifty Markers--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的。我收集它们。",
+    "audioText": "Yes. I collect them",
+    "fullEnglish": "Yes. I collect them",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的。我收集它们。"
+      },
+      {
+        "index": 2,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 3,
+        "text": "collect",
+        "answer": "collect",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "收集",
+        "phonetic": "kəˈlekt",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      },
+      {
+        "index": 4,
+        "text": "them",
+        "answer": "them",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "他们",
+        "phonetic": "ðem; ðəm",
+        "pos": "PRON",
+        "componentId": "ud-4",
+        "role": "宾语"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes",
+      "I",
+      "collect",
+      "them"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yes",
+        "role": "中心成分",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "collect",
+        "role": "谓语",
+        "zh": "收集"
+      },
+      {
+        "id": "ud-4",
+        "text": "them",
+        "role": "宾语",
+        "zh": "他们"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的",
+        "componentRole": "中心成分"
+      },
+      "2": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "3": {
+        "text": "collect",
+        "phonetic": "kəˈlekt",
+        "pos": "VERB",
+        "zh": "收集",
+        "componentZh": "收集",
+        "componentRole": "谓语"
+      },
+      "4": {
+        "text": "them",
+        "phonetic": "ðem; ðəm",
+        "pos": "PRON",
+        "zh": "他们",
+        "componentZh": "他们",
+        "componentRole": "宾语"
+      }
+    },
+    "sentenceType": "主谓宾结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

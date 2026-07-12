@@ -1,0 +1,187 @@
+{
+  "id": "fdk41igweuhbnq5y945ne4y0",
+  "title": "Unit 5 ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤Children’s Day--Lesson 17【单词】",
+  "description": "Lesson 17",
+  "video": "",
+  "order": 28,
+  "coursePackId": "bv6fb22v7phxpki8gbyior1t",
+  "type": "normal",
+  "mediaUrl": null,
+  "mediaAssetId": null,
+  "image": null,
+  "statements": [
+    {
+      "id": "iaq3ni834d624ed03ro9hs53",
+      "order": 1,
+      "chinese": "铅笔盒",
+      "english": "pencil case",
+      "soundmark": "/ˈpens(ə)l/ ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤/keɪs/ ",
+      "type": "",
+      "sentenceId": "okg2d8gbb5rj6ufcgaktvx7h",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "uqbs3mqhuk7m1qt59t6d5a7y",
+      "order": 2,
+      "chinese": "水",
+      "english": "water",
+      "soundmark": "/ˈwɔːtər/ ",
+      "type": "",
+      "sentenceId": "donig0yu9eosiayx02bi3ea8",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "pkyuau4jm3nq3rzl3lcr3vrg",
+      "order": 3,
+      "chinese": "瓶子",
+      "english": "bottle",
+      "soundmark": "/ˈbɑːt(ə)l/ ",
+      "type": "",
+      "sentenceId": "l2632r762lkxvdjxb82yhehz",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "c41cxlkanisqaap0azlfcf3p",
+      "order": 4,
+      "chinese": "看",
+      "english": "look",
+      "soundmark": "/lʊk/ ",
+      "type": "",
+      "sentenceId": "e5ed0w3dn26jzmr9tgy1q341",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    }
+  ],
+  "sentences": [
+    {
+      "id": "okg2d8gbb5rj6ufcgaktvx7h",
+      "content": "pencil case",
+      "english": "pencil case",
+      "chinese": "铅笔盒",
+      "sortOrder": 1,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "pencil",
+          "phonetic": {
+            "uk": "ˈpens(ə)l",
+            "us": "ˈpens(ə)l"
+          },
+          "definition": "铅笔"
+        },
+        {
+          "pos": "NOUN",
+          "word": "case",
+          "phonetic": {
+            "uk": "keɪs",
+            "us": "keɪs"
+          },
+          "definition": "盒子"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "root": 1,
+        "edges": [
+          {
+            "label": "compound",
+            "source": 1,
+            "target": 0
+          }
+        ],
+        "nodes": [
+          {
+            "id": 0,
+            "dep": "compound",
+            "pos": "NOUN",
+            "tag": "NN",
+            "head": "case",
+            "word": "pencil",
+            "lemma": "pencil",
+            "phrase": "pencil",
+            "end_idx": 0,
+            "head_id": 1,
+            "children": [],
+            "left_edge": 0,
+            "start_idx": 0,
+            "right_edge": 0
+          },
+          {
+            "id": 1,
+            "dep": "ROOT",
+            "pos": "NOUN",
+            "tag": "NN",
+            "head": "case",
+            "word": "case",
+            "lemma": "case",
+            "phrase": "pencil case",
+            "end_idx": 1,
+            "head_id": 1,
+            "children": [
+              0
+            ],
+            "left_edge": 0,
+            "start_idx": 0,
+            "right_edge": 1
+          }
+        ],
+        "sentence": "pencil case"
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "donig0yu9eosiayx02bi3ea8",
+      "content": "water",
+      "english": "water",
+      "chinese": "水",
+      "sortOrder": 2,
+      "wordDetails": [],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "l2632r762lkxvdjxb82yhehz",
+      "content": "bottle",
+      "english": "bottle",
+      "chinese": "瓶子",
+      "sortOrder": 3,
+      "wordDetails": [],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "e5ed0w3dn26jzmr9tgy1q341",
+      "content": "look",
+      "english": "look",
+      "chinese": "看",
+      "sortOrder": 4,
+      "wordDetails": [],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    }
+  ],
+  "statementId": ""
+}

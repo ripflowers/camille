@@ -1,0 +1,4455 @@
+[
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-l6jmiecqehrjnh0lbd4fxa8c",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-l6jmiecqehrjnh0lbd4fxa8c",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你的新裙子是什么颜色的？",
+    "audioText": "What colour's your new dress?",
+    "fullEnglish": "What colour's your new dress?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "What colour's",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "什么；颜色"
+      },
+      {
+        "index": 1,
+        "text": "colour's",
+        "answer": "colour's",
+        "blank": "______’_",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "颜色",
+        "phonetic": "ˈkʌlərz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "What colour's",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "什么；颜色"
+      },
+      {
+        "index": 2,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "补充成分",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "new",
+        "answer": "new",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "补充成分",
+        "zh": "新的",
+        "phonetic": "nuː",
+        "pos": "ADJ"
+      },
+      {
+        "index": 4,
+        "text": "dress",
+        "answer": "dress",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "表语",
+        "zh": "连衣裙",
+        "phonetic": "dres",
+        "pos": "NOUN"
+      },
+      {
+        "index": 5,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你的新裙子是什么颜色的？"
+      }
+    ],
+    "shuffledBlocks": [
+      "dress",
+      "new",
+      "What",
+      "colour's",
+      "your"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What colour's",
+        "role": "主语",
+        "zh": "什么；颜色",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "What",
+            "role": "限定词",
+            "zh": "什么"
+          },
+          {
+            "id": "ud-3",
+            "text": "colour's",
+            "role": "中心词",
+            "zh": "颜色"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "colour's",
+        "role": "系动词",
+        "zh": "颜色"
+      },
+      {
+        "id": "ud-5",
+        "text": "your",
+        "role": "补充成分",
+        "zh": "你的"
+      },
+      {
+        "id": "ud-6",
+        "text": "new",
+        "role": "补充成分",
+        "zh": "新的"
+      },
+      {
+        "id": "ud-7",
+        "text": "dress",
+        "role": "表语",
+        "zh": "连衣裙"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "限定词",
+        "componentZh": "什么",
+        "parentComponentText": "What colour's",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "什么；颜色"
+      },
+      "1": {
+        "text": "colour's",
+        "phonetic": "ˈkʌlərz",
+        "pos": "NOUN",
+        "zh": "颜色",
+        "componentRole": "中心词",
+        "componentZh": "颜色",
+        "parentComponentText": "What colour's",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "什么；颜色"
+      },
+      "2": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentRole": "补充成分",
+        "componentZh": "你的"
+      },
+      "3": {
+        "text": "new",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "zh": "新的",
+        "componentRole": "补充成分",
+        "componentZh": "新的"
+      },
+      "4": {
+        "text": "dress",
+        "phonetic": "dres",
+        "pos": "NOUN",
+        "zh": "连衣裙",
+        "componentRole": "表语",
+        "componentZh": "连衣裙"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-l6jmiecqehrjnh0lbd4fxa8c-1",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-l6jmiecqehrjnh0lbd4fxa8c-1",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么",
+    "audioText": "What",
+    "fullEnglish": "What",
+    "phonetic": "wʌt",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "What"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-l6jmiecqehrjnh0lbd4fxa8c-2",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-l6jmiecqehrjnh0lbd4fxa8c-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "颜色",
+    "audioText": "colour's",
+    "fullEnglish": "colour's",
+    "phonetic": "ˈkʌlərz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "colour's",
+        "answer": "colour's",
+        "blank": "______’_",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "颜色",
+        "phonetic": "ˈkʌlərz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "colour's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "colour's",
+        "phonetic": "ˈkʌlərz",
+        "pos": "NOUN",
+        "zh": "颜色",
+        "componentZh": "颜色"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-l6jmiecqehrjnh0lbd4fxa8c-3",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-l6jmiecqehrjnh0lbd4fxa8c-3",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你的",
+    "audioText": "your",
+    "fullEnglish": "your",
+    "phonetic": "jʊr; jər",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "your"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentZh": "你的"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-l6jmiecqehrjnh0lbd4fxa8c-4",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-l6jmiecqehrjnh0lbd4fxa8c-4",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "新的",
+    "audioText": "new",
+    "fullEnglish": "new",
+    "phonetic": "nuː",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "new",
+        "answer": "new",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "新的",
+        "phonetic": "nuː",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "new"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "new",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "zh": "新的",
+        "componentZh": "新的"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-l6jmiecqehrjnh0lbd4fxa8c-5",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-l6jmiecqehrjnh0lbd4fxa8c-5",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "连衣裙",
+    "audioText": "dress",
+    "fullEnglish": "dress",
+    "phonetic": "dres",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "dress",
+        "answer": "dress",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "连衣裙",
+        "phonetic": "dres",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "dress"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "dress",
+        "phonetic": "dres",
+        "pos": "NOUN",
+        "zh": "连衣裙",
+        "componentZh": "连衣裙"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-xixvcu6w7auunonw941o5rdr",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-xixvcu6w7auunonw941o5rdr",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它是绿色的。",
+    "audioText": "It's green",
+    "fullEnglish": "It's green",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "green",
+        "answer": "green",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "绿色的",
+        "phonetic": "ɡriːn",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "green",
+      "It's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "green",
+        "role": "表语",
+        "zh": "绿色的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "green",
+        "phonetic": "ɡriːn",
+        "pos": "ADJ",
+        "zh": "绿色的",
+        "componentRole": "表语",
+        "componentZh": "绿色的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-xixvcu6w7auunonw941o5rdr-1",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-xixvcu6w7auunonw941o5rdr-1",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它是",
+    "audioText": "It's",
+    "fullEnglish": "It's",
+    "phonetic": "ɪts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-xixvcu6w7auunonw941o5rdr-2",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-xixvcu6w7auunonw941o5rdr-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "绿色的",
+    "audioText": "green",
+    "fullEnglish": "green",
+    "phonetic": "ɡriːn",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "green",
+        "answer": "green",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "绿色的",
+        "phonetic": "ɡriːn",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "green"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "green",
+        "phonetic": "ɡriːn",
+        "pos": "ADJ",
+        "zh": "绿色的",
+        "componentZh": "绿色的"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-sw3frtp8myeeon1jggeijq06",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-sw3frtp8myeeon1jggeijq06",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "上楼来看看吧。",
+    "audioText": "Come upstairs and see it",
+    "fullEnglish": "Come upstairs and see it",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Come",
+        "answer": "Come",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "来",
+        "phonetic": "kʌm",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "upstairs",
+        "answer": "upstairs",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "方式/程度状语",
+        "zh": "在楼上",
+        "phonetic": "ˌʌpˈsterz",
+        "pos": "ADV"
+      },
+      {
+        "index": 2,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "and see it",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；看；它"
+      },
+      {
+        "index": 3,
+        "text": "see",
+        "answer": "see",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "谓语",
+        "zh": "看",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "and see it",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；看；它"
+      },
+      {
+        "index": 4,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "宾语",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "and see it",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；看；它"
+      }
+    ],
+    "shuffledBlocks": [
+      "and",
+      "see",
+      "Come",
+      "upstairs",
+      "it"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Come",
+        "role": "谓语",
+        "zh": "来"
+      },
+      {
+        "id": "ud-2",
+        "text": "upstairs",
+        "role": "方式/程度状语",
+        "zh": "在楼上"
+      },
+      {
+        "id": "ud-3",
+        "text": "and see it",
+        "role": "并列分句",
+        "zh": "和；看；它",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "and",
+            "role": "并列连词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-5",
+            "text": "see",
+            "role": "谓语",
+            "zh": "看"
+          },
+          {
+            "id": "ud-6",
+            "text": "it",
+            "role": "宾语",
+            "zh": "它"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Come",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "zh": "来",
+        "componentRole": "谓语",
+        "componentZh": "来"
+      },
+      "1": {
+        "text": "upstairs",
+        "phonetic": "ˌʌpˈsterz",
+        "pos": "ADV",
+        "zh": "在楼上",
+        "componentRole": "方式/程度状语",
+        "componentZh": "在楼上"
+      },
+      "2": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和",
+        "parentComponentText": "and see it",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；看；它"
+      },
+      "3": {
+        "text": "see",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "zh": "看",
+        "componentRole": "谓语",
+        "componentZh": "看",
+        "parentComponentText": "and see it",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；看；它"
+      },
+      "4": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentRole": "宾语",
+        "componentZh": "它",
+        "parentComponentText": "and see it",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；看；它"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-sw3frtp8myeeon1jggeijq06-1",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-sw3frtp8myeeon1jggeijq06-1",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "来",
+    "audioText": "Come",
+    "fullEnglish": "Come",
+    "phonetic": "kʌm",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Come",
+        "answer": "Come",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "来",
+        "phonetic": "kʌm",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Come"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Come",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "zh": "来",
+        "componentZh": "来"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-sw3frtp8myeeon1jggeijq06-2",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-sw3frtp8myeeon1jggeijq06-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "楼上",
+    "audioText": "upstairs",
+    "fullEnglish": "upstairs",
+    "phonetic": "ˌʌpˈsterz",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "upstairs",
+        "answer": "upstairs",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "在楼上",
+        "phonetic": "ˌʌpˈsterz",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "upstairs"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "upstairs",
+        "phonetic": "ˌʌpˈsterz",
+        "pos": "ADV",
+        "zh": "在楼上",
+        "componentZh": "在楼上"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-sw3frtp8myeeon1jggeijq06-3",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-sw3frtp8myeeon1jggeijq06-3",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "和",
+    "audioText": "and",
+    "fullEnglish": "and",
+    "phonetic": "ænd; ənd",
+    "pos": "CCONJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "and"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-sw3frtp8myeeon1jggeijq06-4",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-sw3frtp8myeeon1jggeijq06-4",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "看",
+    "audioText": "see",
+    "fullEnglish": "see",
+    "phonetic": "siː",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "see",
+        "answer": "see",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "看",
+        "phonetic": "siː",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "see"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "see",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "zh": "看",
+        "componentZh": "看"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-sw3frtp8myeeon1jggeijq06-5",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-sw3frtp8myeeon1jggeijq06-5",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它",
+    "audioText": "it",
+    "fullEnglish": "it",
+    "phonetic": "ɪt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "it"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-e0ovcp9yu1rirlkwvnijz26z",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-e0ovcp9yu1rirlkwvnijz26z",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "谢谢。",
+    "audioText": "Thank you",
+    "fullEnglish": "Thank you",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Thank",
+        "answer": "Thank",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "感谢",
+        "phonetic": "θæŋk",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "宾语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Thank",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Thank",
+        "role": "谓语",
+        "zh": "感谢"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "宾语",
+        "zh": "你"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Thank",
+        "phonetic": "θæŋk",
+        "pos": "VERB",
+        "zh": "感谢",
+        "componentRole": "谓语",
+        "componentZh": "感谢"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "宾语",
+        "componentZh": "你"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-e0ovcp9yu1rirlkwvnijz26z-1",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-e0ovcp9yu1rirlkwvnijz26z-1",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "感谢",
+    "audioText": "Thank",
+    "fullEnglish": "Thank",
+    "phonetic": "θæŋk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Thank",
+        "answer": "Thank",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "感谢",
+        "phonetic": "θæŋk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Thank"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Thank",
+        "phonetic": "θæŋk",
+        "pos": "VERB",
+        "zh": "感谢",
+        "componentZh": "感谢"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-e0ovcp9yu1rirlkwvnijz26z-2",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-e0ovcp9yu1rirlkwvnijz26z-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-xihm7q0ei8jao3gangjwhakv",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-xihm7q0ei8jao3gangjwhakv",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "看！它在这里！",
+    "audioText": "Look! Here it is!",
+    "fullEnglish": "Look! Here it is!",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Look",
+        "answer": "Look",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "看",
+        "phonetic": "lʊk",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "看！它在这里！"
+      },
+      {
+        "index": 2,
+        "text": "Here",
+        "answer": "Here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV"
+      },
+      {
+        "index": 3,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "修饰语",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "it is",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "它；是"
+      },
+      {
+        "index": 4,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "it is",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "它；是"
+      },
+      {
+        "index": 5,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "看！它在这里！"
+      }
+    ],
+    "shuffledBlocks": [
+      "it",
+      "Here",
+      "Look",
+      "is"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Look",
+        "role": "谓语",
+        "zh": "看"
+      },
+      {
+        "id": "ud-2",
+        "text": "Here",
+        "role": "表语",
+        "zh": "这里"
+      },
+      {
+        "id": "ud-3",
+        "text": "it is",
+        "role": "系动词",
+        "zh": "它；是",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "it",
+            "role": "修饰语",
+            "zh": "它"
+          },
+          {
+            "id": "ud-5",
+            "text": "is",
+            "role": "中心词",
+            "zh": "是"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Look",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "zh": "看",
+        "componentRole": "谓语",
+        "componentZh": "看"
+      },
+      "2": {
+        "text": "Here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentRole": "表语",
+        "componentZh": "这里"
+      },
+      "3": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentRole": "修饰语",
+        "componentZh": "它",
+        "parentComponentText": "it is",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "它；是"
+      },
+      "4": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "中心词",
+        "componentZh": "是",
+        "parentComponentText": "it is",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "它；是"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-xihm7q0ei8jao3gangjwhakv-1",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-xihm7q0ei8jao3gangjwhakv-1",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "看",
+    "audioText": "Look",
+    "fullEnglish": "Look",
+    "phonetic": "lʊk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Look",
+        "answer": "Look",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "看",
+        "phonetic": "lʊk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Look"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Look",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "zh": "看",
+        "componentZh": "看"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-xihm7q0ei8jao3gangjwhakv-2",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-xihm7q0ei8jao3gangjwhakv-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这里",
+    "audioText": "Here",
+    "fullEnglish": "Here",
+    "phonetic": "hɪr",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Here",
+        "answer": "Here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "Here"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentZh": "这里"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-xihm7q0ei8jao3gangjwhakv-4",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-xihm7q0ei8jao3gangjwhakv-4",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "is",
+    "fullEnglish": "is",
+    "phonetic": "ɪz",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "is"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-xe80gtn3icf9ryj05wyhb794",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-xe80gtn3icf9ryj05wyhb794",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那条裙子真好看。",
+    "audioText": "that's a nice dress",
+    "fullEnglish": "that's a nice dress",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "that's",
+        "answer": "that's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "那是",
+        "phonetic": "ðæts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "补充成分",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      },
+      {
+        "index": 2,
+        "text": "nice",
+        "answer": "nice",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "补充成分",
+        "zh": "好的",
+        "phonetic": "naɪs",
+        "pos": "ADJ"
+      },
+      {
+        "index": 3,
+        "text": "dress",
+        "answer": "dress",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "表语",
+        "zh": "连衣裙",
+        "phonetic": "dres",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "a",
+      "that's",
+      "dress",
+      "nice"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "that's",
+        "role": "主语 + 系动词",
+        "zh": "那是"
+      },
+      {
+        "id": "ud-2",
+        "text": "a",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-3",
+        "text": "nice",
+        "role": "补充成分",
+        "zh": "好的"
+      },
+      {
+        "id": "ud-4",
+        "text": "dress",
+        "role": "表语",
+        "zh": "连衣裙"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "that's",
+        "phonetic": "ðæts",
+        "pos": "PRON",
+        "zh": "那是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "那是"
+      },
+      "1": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "补充成分",
+        "componentZh": "一个"
+      },
+      "2": {
+        "text": "nice",
+        "phonetic": "naɪs",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentRole": "补充成分",
+        "componentZh": "好的"
+      },
+      "3": {
+        "text": "dress",
+        "phonetic": "dres",
+        "pos": "NOUN",
+        "zh": "连衣裙",
+        "componentRole": "表语",
+        "componentZh": "连衣裙"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-xe80gtn3icf9ryj05wyhb794-1",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-xe80gtn3icf9ryj05wyhb794-1",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那是",
+    "audioText": "that's",
+    "fullEnglish": "that's",
+    "phonetic": "ðæts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "that's",
+        "answer": "that's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "那是",
+        "phonetic": "ðæts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "that's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "that's",
+        "phonetic": "ðæts",
+        "pos": "PRON",
+        "zh": "那是",
+        "componentZh": "那是"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-xe80gtn3icf9ryj05wyhb794-2",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-xe80gtn3icf9ryj05wyhb794-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个",
+    "audioText": "a",
+    "fullEnglish": "a",
+    "phonetic": "ə; eɪ",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "a"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-xe80gtn3icf9ryj05wyhb794-3",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-xe80gtn3icf9ryj05wyhb794-3",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "漂亮的",
+    "audioText": "nice",
+    "fullEnglish": "nice",
+    "phonetic": "naɪs",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "nice",
+        "answer": "nice",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "好的",
+        "phonetic": "naɪs",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "nice"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "nice",
+        "phonetic": "naɪs",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentZh": "好的"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-zuwwusbdljgw2cpadlkuhhmj",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-zuwwusbdljgw2cpadlkuhhmj",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这非常聪明。",
+    "audioText": "it's very smart",
+    "fullEnglish": "it's very smart",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "it's",
+        "answer": "it's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "方式/程度状语",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV"
+      },
+      {
+        "index": 2,
+        "text": "smart",
+        "answer": "smart",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "聪明",
+        "phonetic": "smɑːrt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "smart",
+      "very",
+      "it's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "it's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "very",
+        "role": "方式/程度状语",
+        "zh": "非常"
+      },
+      {
+        "id": "ud-3",
+        "text": "smart",
+        "role": "表语",
+        "zh": "聪明"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "it's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentRole": "方式/程度状语",
+        "componentZh": "非常"
+      },
+      "2": {
+        "text": "smart",
+        "phonetic": "smɑːrt",
+        "pos": "ADJ",
+        "zh": "聪明",
+        "componentRole": "表语",
+        "componentZh": "聪明"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-zuwwusbdljgw2cpadlkuhhmj-2",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-zuwwusbdljgw2cpadlkuhhmj-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "非常",
+    "audioText": "very",
+    "fullEnglish": "very",
+    "phonetic": "ˈveri",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "very"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentZh": "非常"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-zuwwusbdljgw2cpadlkuhhmj-3",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-zuwwusbdljgw2cpadlkuhhmj-3",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "时髦",
+    "audioText": "smart",
+    "fullEnglish": "smart",
+    "phonetic": "smɑːrt",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "smart",
+        "answer": "smart",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "聪明",
+        "phonetic": "smɑːrt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "smart"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "smart",
+        "phonetic": "smɑːrt",
+        "pos": "ADJ",
+        "zh": "聪明",
+        "componentZh": "聪明"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-bny09qgdy4qe2z9p1772yeag",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-bny09qgdy4qe2z9p1772yeag",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的帽子也是新的。",
+    "audioText": "My hat's new, too",
+    "fullEnglish": "My hat's new, too",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "My",
+        "answer": "My",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "My hat's",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；帽子是"
+      },
+      {
+        "index": 1,
+        "text": "hat's",
+        "answer": "hat's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "帽子是",
+        "phonetic": "hæts",
+        "pos": "NOUN",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "My hat's",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；帽子是"
+      },
+      {
+        "index": 2,
+        "text": "new",
+        "answer": "new",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "新的",
+        "phonetic": "nuː",
+        "pos": "ADJ"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我的帽子也是新的。"
+      },
+      {
+        "index": 4,
+        "text": "too",
+        "answer": "too",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "方式/程度状语",
+        "zh": "也",
+        "phonetic": "tuː",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "My",
+      "new",
+      "hat's",
+      "too"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "My hat's",
+        "role": "主语",
+        "zh": "我的；帽子是",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "My",
+            "role": "限定词",
+            "zh": "我的"
+          },
+          {
+            "id": "ud-3",
+            "text": "hat's",
+            "role": "中心词",
+            "zh": "帽子是"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "hat's",
+        "role": "系动词",
+        "zh": "帽子是"
+      },
+      {
+        "id": "ud-5",
+        "text": "new",
+        "role": "表语",
+        "zh": "新的"
+      },
+      {
+        "id": "ud-6",
+        "text": "too",
+        "role": "方式/程度状语",
+        "zh": "也"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "My",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "限定词",
+        "componentZh": "我的",
+        "parentComponentText": "My hat's",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；帽子是"
+      },
+      "1": {
+        "text": "hat's",
+        "phonetic": "hæts",
+        "pos": "NOUN",
+        "zh": "帽子是",
+        "componentRole": "中心词",
+        "componentZh": "帽子是",
+        "parentComponentText": "My hat's",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；帽子是"
+      },
+      "2": {
+        "text": "new",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "zh": "新的",
+        "componentRole": "表语",
+        "componentZh": "新的"
+      },
+      "4": {
+        "text": "too",
+        "phonetic": "tuː",
+        "pos": "ADV",
+        "zh": "也",
+        "componentRole": "方式/程度状语",
+        "componentZh": "也"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-bny09qgdy4qe2z9p1772yeag-1",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-bny09qgdy4qe2z9p1772yeag-1",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的",
+    "audioText": "My",
+    "fullEnglish": "My",
+    "phonetic": "maɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "My",
+        "answer": "My",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "My"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "My",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-bny09qgdy4qe2z9p1772yeag-2",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-bny09qgdy4qe2z9p1772yeag-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "帽子是",
+    "audioText": "hat's",
+    "fullEnglish": "hat's",
+    "phonetic": "hæts",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "hat's",
+        "answer": "hat's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "帽子是",
+        "phonetic": "hæts",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "hat's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "hat's",
+        "phonetic": "hæts",
+        "pos": "NOUN",
+        "zh": "帽子是",
+        "componentZh": "帽子是"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-bny09qgdy4qe2z9p1772yeag-4",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-bny09qgdy4qe2z9p1772yeag-4",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "也",
+    "audioText": "too",
+    "fullEnglish": "too",
+    "phonetic": "tuː",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "too",
+        "answer": "too",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "也",
+        "phonetic": "tuː",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "too"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "too",
+        "phonetic": "tuː",
+        "pos": "ADV",
+        "zh": "也",
+        "componentZh": "也"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-vglu8eonp0c4jguge2km8ps4",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-vglu8eonp0c4jguge2km8ps4",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它是什么颜色的？",
+    "audioText": "What colour is it?",
+    "fullEnglish": "What colour is it?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "colour",
+        "answer": "colour",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "颜色",
+        "phonetic": "ˈkʌlər",
+        "pos": "NOUN"
+      },
+      {
+        "index": 2,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 3,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      },
+      {
+        "index": 4,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "它是什么颜色的？"
+      }
+    ],
+    "shuffledBlocks": [
+      "colour",
+      "it",
+      "is",
+      "What"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What",
+        "role": "补充成分",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "colour",
+        "role": "表语",
+        "zh": "颜色"
+      },
+      {
+        "id": "ud-3",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-4",
+        "text": "it",
+        "role": "主语",
+        "zh": "它"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "补充成分",
+        "componentZh": "什么"
+      },
+      "1": {
+        "text": "colour",
+        "phonetic": "ˈkʌlər",
+        "pos": "NOUN",
+        "zh": "颜色",
+        "componentRole": "表语",
+        "componentZh": "颜色"
+      },
+      "2": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "3": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentRole": "主语",
+        "componentZh": "它"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-vglu8eonp0c4jguge2km8ps4-2",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-vglu8eonp0c4jguge2km8ps4-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "颜色",
+    "audioText": "colour",
+    "fullEnglish": "colour",
+    "phonetic": "ˈkʌlər",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "colour",
+        "answer": "colour",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "颜色",
+        "phonetic": "ˈkʌlər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "colour"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "colour",
+        "phonetic": "ˈkʌlər",
+        "pos": "NOUN",
+        "zh": "颜色",
+        "componentZh": "颜色"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-pkhy6e74688spwclgo4mw8tp",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-pkhy6e74688spwclgo4mw8tp",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "颜色是一样的。",
+    "audioText": "It's the same colour",
+    "fullEnglish": "It's the same colour",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "补充成分",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      },
+      {
+        "index": 2,
+        "text": "same",
+        "answer": "same",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "补充成分",
+        "zh": "相同的",
+        "phonetic": "seɪm",
+        "pos": "ADJ"
+      },
+      {
+        "index": 3,
+        "text": "colour",
+        "answer": "colour",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "表语",
+        "zh": "颜色",
+        "phonetic": "ˈkʌlər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's",
+      "colour",
+      "same",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-3",
+        "text": "same",
+        "role": "补充成分",
+        "zh": "相同的"
+      },
+      {
+        "id": "ud-4",
+        "text": "colour",
+        "role": "表语",
+        "zh": "颜色"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "补充成分",
+        "componentZh": "定冠词"
+      },
+      "2": {
+        "text": "same",
+        "phonetic": "seɪm",
+        "pos": "ADJ",
+        "zh": "相同的",
+        "componentRole": "补充成分",
+        "componentZh": "相同的"
+      },
+      "3": {
+        "text": "colour",
+        "phonetic": "ˈkʌlər",
+        "pos": "NOUN",
+        "zh": "颜色",
+        "componentRole": "表语",
+        "componentZh": "颜色"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-pkhy6e74688spwclgo4mw8tp-2",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-pkhy6e74688spwclgo4mw8tp-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "the",
+    "fullEnglish": "the",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "the"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-pkhy6e74688spwclgo4mw8tp-3",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-pkhy6e74688spwclgo4mw8tp-3",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "相同的",
+    "audioText": "same",
+    "fullEnglish": "same",
+    "phonetic": "seɪm",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "same",
+        "answer": "same",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "相同的",
+        "phonetic": "seɪm",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "same"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "same",
+        "phonetic": "seɪm",
+        "pos": "ADJ",
+        "zh": "相同的",
+        "componentZh": "相同的"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-ue2r86g76h7ep14agz0eucgv",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-ue2r86g76h7ep14agz0eucgv",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它也是绿色的。",
+    "audioText": "It's green, too",
+    "fullEnglish": "It's green, too",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "green",
+        "answer": "green",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "绿色的",
+        "phonetic": "ɡriːn",
+        "pos": "ADJ"
+      },
+      {
+        "index": 2,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "它也是绿色的。"
+      },
+      {
+        "index": 3,
+        "text": "too",
+        "answer": "too",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "方式/程度状语",
+        "zh": "也",
+        "phonetic": "tuː",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "green",
+      "too",
+      "It's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "green",
+        "role": "表语",
+        "zh": "绿色的"
+      },
+      {
+        "id": "ud-3",
+        "text": "too",
+        "role": "方式/程度状语",
+        "zh": "也"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "green",
+        "phonetic": "ɡriːn",
+        "pos": "ADJ",
+        "zh": "绿色的",
+        "componentRole": "表语",
+        "componentZh": "绿色的"
+      },
+      "3": {
+        "text": "too",
+        "phonetic": "tuː",
+        "pos": "ADV",
+        "zh": "也",
+        "componentRole": "方式/程度状语",
+        "componentZh": "也"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-a3v9r577lt3fc66j47ibxwqk",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-S-a3v9r577lt3fc66j47ibxwqk",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那顶帽子真漂亮！",
+    "audioText": "That is a lovely hat!",
+    "fullEnglish": "That is a lovely hat!",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "That",
+        "answer": "That",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "那",
+        "phonetic": "ðæt",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "补充成分",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      },
+      {
+        "index": 3,
+        "text": "lovely",
+        "answer": "lovely",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "补充成分",
+        "zh": "可爱的",
+        "phonetic": "ˈlʌvli",
+        "pos": "ADJ"
+      },
+      {
+        "index": 4,
+        "text": "hat",
+        "answer": "hat",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "帽子",
+        "phonetic": "hæt",
+        "pos": "NOUN"
+      },
+      {
+        "index": 5,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "那顶帽子真漂亮！"
+      }
+    ],
+    "shuffledBlocks": [
+      "is",
+      "lovely",
+      "That",
+      "hat",
+      "a"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "That",
+        "role": "主语",
+        "zh": "那"
+      },
+      {
+        "id": "ud-2",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-3",
+        "text": "a",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-4",
+        "text": "lovely",
+        "role": "补充成分",
+        "zh": "可爱的"
+      },
+      {
+        "id": "ud-5",
+        "text": "hat",
+        "role": "表语",
+        "zh": "帽子"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "That",
+        "phonetic": "ðæt",
+        "pos": "PRON",
+        "zh": "那",
+        "componentRole": "主语",
+        "componentZh": "那"
+      },
+      "1": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "2": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "补充成分",
+        "componentZh": "一个"
+      },
+      "3": {
+        "text": "lovely",
+        "phonetic": "ˈlʌvli",
+        "pos": "ADJ",
+        "zh": "可爱的",
+        "componentRole": "补充成分",
+        "componentZh": "可爱的"
+      },
+      "4": {
+        "text": "hat",
+        "phonetic": "hæt",
+        "pos": "NOUN",
+        "zh": "帽子",
+        "componentRole": "表语",
+        "componentZh": "帽子"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-a3v9r577lt3fc66j47ibxwqk-1",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-a3v9r577lt3fc66j47ibxwqk-1",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那个",
+    "audioText": "That",
+    "fullEnglish": "That",
+    "phonetic": "ðæt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "That",
+        "answer": "That",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "那",
+        "phonetic": "ðæt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "That"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "That",
+        "phonetic": "ðæt",
+        "pos": "PRON",
+        "zh": "那",
+        "componentZh": "那"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-a3v9r577lt3fc66j47ibxwqk-4",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-a3v9r577lt3fc66j47ibxwqk-4",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "可爱的",
+    "audioText": "lovely",
+    "fullEnglish": "lovely",
+    "phonetic": "ˈlʌvli",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "lovely",
+        "answer": "lovely",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "可爱的",
+        "phonetic": "ˈlʌvli",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "lovely"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "lovely",
+        "phonetic": "ˈlʌvli",
+        "pos": "ADJ",
+        "zh": "可爱的",
+        "componentZh": "可爱的"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-a3v9r577lt3fc66j47ibxwqk-5",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-W-a3v9r577lt3fc66j47ibxwqk-5",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "帽子",
+    "audioText": "hat",
+    "fullEnglish": "hat",
+    "phonetic": "hæt",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "hat",
+        "answer": "hat",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "帽子",
+        "phonetic": "hæt",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "hat"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "hat",
+        "phonetic": "hæt",
+        "pos": "NOUN",
+        "zh": "帽子",
+        "componentZh": "帽子"
+      }
+    }
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-er39yha6kf57flzuda8d9oci",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-er39yha6kf57flzuda8d9oci",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么颜色的",
+    "audioText": "What colour's",
+    "fullEnglish": "What colour's",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "colour's",
+        "answer": "colour's",
+        "blank": "______’_",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "颜色",
+        "phonetic": "ˈkʌlərz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分 + 补充成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "colour's",
+      "What"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What",
+        "role": "补充成分",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "colour's",
+        "role": "中心成分 + 补充成分",
+        "zh": "颜色"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "colour's",
+        "phonetic": "ˈkʌlərz",
+        "pos": "NOUN",
+        "zh": "颜色",
+        "componentZh": "颜色",
+        "componentRole": "中心成分 + 补充成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-ktym2m7kxp1own8pp2q9wubs",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-ktym2m7kxp1own8pp2q9wubs",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "新裙子",
+    "audioText": "new dress",
+    "fullEnglish": "new dress",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "new",
+        "answer": "new",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "新的",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "dress",
+        "answer": "dress",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "连衣裙",
+        "phonetic": "dres",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "dress",
+      "new"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "new",
+        "role": "补充成分",
+        "zh": "新的"
+      },
+      {
+        "id": "ud-2",
+        "text": "dress",
+        "role": "中心成分",
+        "zh": "连衣裙"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "new",
+        "phonetic": "nuː",
+        "pos": "ADJ",
+        "zh": "新的",
+        "componentZh": "新的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "dress",
+        "phonetic": "dres",
+        "pos": "NOUN",
+        "zh": "连衣裙",
+        "componentZh": "连衣裙",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-lgi6zhu1uqaxypplktla47p8",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-lgi6zhu1uqaxypplktla47p8",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "上楼来",
+    "audioText": "Come upstairs",
+    "fullEnglish": "Come upstairs",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Come",
+        "answer": "Come",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "来",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "upstairs",
+        "answer": "upstairs",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "在楼上",
+        "phonetic": "ˌʌpˈsterz",
+        "pos": "ADV",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "Come",
+      "upstairs"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Come",
+        "role": "谓语",
+        "zh": "来"
+      },
+      {
+        "id": "ud-2",
+        "text": "upstairs",
+        "role": "方式/程度状语",
+        "zh": "在楼上"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Come",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "zh": "来",
+        "componentZh": "来",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "upstairs",
+        "phonetic": "ˌʌpˈsterz",
+        "pos": "ADV",
+        "zh": "在楼上",
+        "componentZh": "在楼上",
+        "componentRole": "方式/程度状语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-hiqvlcbkueh5ebhpunrgxjta",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-hiqvlcbkueh5ebhpunrgxjta",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "看到它",
+    "audioText": "see it",
+    "fullEnglish": "see it",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "see",
+        "answer": "see",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "看",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "宾语"
+      }
+    ],
+    "shuffledBlocks": [
+      "see",
+      "it"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "see",
+        "role": "谓语",
+        "zh": "看"
+      },
+      {
+        "id": "ud-2",
+        "text": "it",
+        "role": "宾语",
+        "zh": "它"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "see",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "zh": "看",
+        "componentZh": "看",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它",
+        "componentRole": "宾语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-a5tolk4r7wk9or8vts0u0emc",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-a5tolk4r7wk9or8vts0u0emc",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "看看它",
+    "audioText": "and see it",
+    "fullEnglish": "and see it",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "componentId": "ud-1",
+        "role": "并列连词"
+      },
+      {
+        "index": 1,
+        "text": "see",
+        "answer": "see",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "看",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      },
+      {
+        "index": 2,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "componentId": "ud-3",
+        "role": "宾语"
+      }
+    ],
+    "shuffledBlocks": [
+      "it",
+      "see",
+      "and"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "and",
+        "role": "并列连词",
+        "zh": "和"
+      },
+      {
+        "id": "ud-2",
+        "text": "see",
+        "role": "谓语",
+        "zh": "看"
+      },
+      {
+        "id": "ud-3",
+        "text": "it",
+        "role": "宾语",
+        "zh": "它"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和",
+        "componentRole": "并列连词"
+      },
+      "1": {
+        "text": "see",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "zh": "看",
+        "componentZh": "看",
+        "componentRole": "谓语"
+      },
+      "2": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它",
+        "componentRole": "宾语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-zdnjw3khyoaseprnu97wy6iv",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-zdnjw3khyoaseprnu97wy6iv",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "看！",
+    "audioText": "Look",
+    "fullEnglish": "Look",
+    "phonetic": "lʊk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Look",
+        "answer": "Look",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "看",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "Look"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Look",
+        "role": "谓语",
+        "zh": "看"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Look",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "zh": "看",
+        "componentZh": "看",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-l1nnvnhjvkbt57rg3742c14r",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-l1nnvnhjvkbt57rg3742c14r",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它是",
+    "audioText": "it is",
+    "fullEnglish": "it is",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "it",
+      "is"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "it",
+        "role": "主语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-2",
+        "text": "is",
+        "role": "谓语",
+        "zh": "是"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-s56ygroz02lv66cnk8z3oxxs",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-s56ygroz02lv66cnk8z3oxxs",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它在这里！",
+    "audioText": "Here it is",
+    "fullEnglish": "Here it is",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Here",
+        "answer": "Here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "表语"
+      },
+      {
+        "index": 1,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "componentId": "ud-3",
+        "role": "系动词"
+      }
+    ],
+    "shuffledBlocks": [
+      "is",
+      "it",
+      "Here"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Here",
+        "role": "表语",
+        "zh": "这里"
+      },
+      {
+        "id": "ud-2",
+        "text": "it",
+        "role": "主语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-3",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentZh": "这里",
+        "componentRole": "表语"
+      },
+      "1": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是",
+        "componentRole": "系动词"
+      }
+    },
+    "sentenceType": "主系表结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-itppofyp3z6ggehdxr3gpezj",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-itppofyp3z6ggehdxr3gpezj",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一条漂亮的裙子",
+    "audioText": "a nice dress",
+    "fullEnglish": "a nice dress",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "nice",
+        "answer": "nice",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "好的",
+        "phonetic": "naɪs",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "dress",
+        "answer": "dress",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "连衣裙",
+        "phonetic": "dres",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "dress",
+      "nice",
+      "a"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "a",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-2",
+        "text": "nice",
+        "role": "补充成分",
+        "zh": "好的"
+      },
+      {
+        "id": "ud-3",
+        "text": "dress",
+        "role": "中心成分",
+        "zh": "连衣裙"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "nice",
+        "phonetic": "naɪs",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentZh": "好的",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "dress",
+        "phonetic": "dres",
+        "pos": "NOUN",
+        "zh": "连衣裙",
+        "componentZh": "连衣裙",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-wgohu22tw4r7ph3cutquz8w8",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-wgohu22tw4r7ph3cutquz8w8",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "非常时髦",
+    "audioText": "very smart",
+    "fullEnglish": "very smart",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "smart",
+        "answer": "smart",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "聪明",
+        "phonetic": "smɑːrt",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "smart",
+      "very"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "very",
+        "role": "方式/程度状语",
+        "zh": "非常"
+      },
+      {
+        "id": "ud-2",
+        "text": "smart",
+        "role": "中心成分",
+        "zh": "聪明"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentZh": "非常",
+        "componentRole": "方式/程度状语"
+      },
+      "1": {
+        "text": "smart",
+        "phonetic": "smɑːrt",
+        "pos": "ADJ",
+        "zh": "聪明",
+        "componentZh": "聪明",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-zpju1s4b9wl7bobkh5vhrfkp",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-zpju1s4b9wl7bobkh5vhrfkp",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么颜色",
+    "audioText": "What colour",
+    "fullEnglish": "What colour",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "colour",
+        "answer": "colour",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "颜色",
+        "phonetic": "ˈkʌlər",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "colour",
+      "What"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What",
+        "role": "补充成分",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "colour",
+        "role": "中心成分",
+        "zh": "颜色"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "colour",
+        "phonetic": "ˈkʌlər",
+        "pos": "NOUN",
+        "zh": "颜色",
+        "componentZh": "颜色",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-yfshz4pa0ei07n6d4tmsgmd1",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-yfshz4pa0ei07n6d4tmsgmd1",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "相同的",
+    "audioText": "the same",
+    "fullEnglish": "the same",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "same",
+        "answer": "same",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "相同的",
+        "phonetic": "seɪm",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "same"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "same",
+        "role": "中心成分",
+        "zh": "相同的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "same",
+        "phonetic": "seɪm",
+        "pos": "ADJ",
+        "zh": "相同的",
+        "componentZh": "相同的",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-h6a5mvhvukf2l8karqjtukv7",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-h6a5mvhvukf2l8karqjtukv7",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它是绿色的,",
+    "audioText": "It's green",
+    "fullEnglish": "It's green",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "green",
+        "answer": "green",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "绿色的",
+        "phonetic": "ɡriːn",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's",
+      "green"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "green",
+        "role": "表语",
+        "zh": "绿色的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "green",
+        "phonetic": "ɡriːn",
+        "pos": "ADJ",
+        "zh": "绿色的",
+        "componentZh": "绿色的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-ombtxslhk3twan4bg214qvvu",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-ombtxslhk3twan4bg214qvvu",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "也是",
+    "audioText": "too",
+    "fullEnglish": "too",
+    "phonetic": "tuː",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "too",
+        "answer": "too",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "也",
+        "phonetic": "tuː",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "too"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "too",
+        "role": "中心成分",
+        "zh": "也"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "too",
+        "phonetic": "tuː",
+        "pos": "ADV",
+        "zh": "也",
+        "componentZh": "也",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-drtv7k34vyw24met7lutotup",
+    "contentId": "JLB-vyqwbf7q2ym0l7vmy1jp5cem-PHRASE-drtv7k34vyw24met7lutotup",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "vyqwbf7q2ym0l7vmy1jp5cem",
+    "unitTitle": "Lesson 13",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一顶漂亮的帽子",
+    "audioText": "a lovely hat",
+    "fullEnglish": "a lovely hat",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "lovely",
+        "answer": "lovely",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "可爱的",
+        "phonetic": "ˈlʌvli",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "hat",
+        "answer": "hat",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "帽子",
+        "phonetic": "hæt",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "hat",
+      "a",
+      "lovely"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "a",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-2",
+        "text": "lovely",
+        "role": "补充成分",
+        "zh": "可爱的"
+      },
+      {
+        "id": "ud-3",
+        "text": "hat",
+        "role": "中心成分",
+        "zh": "帽子"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "lovely",
+        "phonetic": "ˈlʌvli",
+        "pos": "ADJ",
+        "zh": "可爱的",
+        "componentZh": "可爱的",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "hat",
+        "phonetic": "hæt",
+        "pos": "NOUN",
+        "zh": "帽子",
+        "componentZh": "帽子",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

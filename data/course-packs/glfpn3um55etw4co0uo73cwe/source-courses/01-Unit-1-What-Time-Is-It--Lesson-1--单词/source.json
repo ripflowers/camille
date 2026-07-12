@@ -1,0 +1,127 @@
+{
+  "id": "zv3wa23w09zqyz9jd1e358l1",
+  "title": "Unit ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤1 What Time Is It?-Lesson 1-【单词】",
+  "description": "Lesson 1",
+  "video": "",
+  "order": 1,
+  "coursePackId": "glfpn3um55etw4co0uo73cwe",
+  "type": "normal",
+  "mediaUrl": null,
+  "mediaAssetId": null,
+  "image": null,
+  "statements": [
+    {
+      "id": "qwx2aj0uqqsy6zg08qbqctcw",
+      "order": 1,
+      "chinese": "时间",
+      "english": "Time",
+      "soundmark": "/taɪm/ ",
+      "type": "",
+      "sentenceId": "y2qvwn4dpw4vlzbh46rm5mkz",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "h9bzx8qtze1atd6g5msrrj5p",
+      "order": 2,
+      "chinese": "点钟",
+      "english": "o'clock",
+      "soundmark": "/oʊ/ ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤/klɑːk/ ",
+      "type": "",
+      "sentenceId": "wulbfd8zmudz4116b4yix9xe",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "ywswqdydldqgfr2v0bzzqavb",
+      "order": 3,
+      "chinese": "好",
+      "english": "Nice",
+      "soundmark": "/naɪs/ ",
+      "type": "",
+      "sentenceId": "y31ydjsa9lynrucs5t6r5a1f",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    }
+  ],
+  "sentences": [
+    {
+      "id": "y2qvwn4dpw4vlzbh46rm5mkz",
+      "content": "Time",
+      "english": "Time",
+      "chinese": "时间",
+      "sortOrder": 1,
+      "wordDetails": [],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "wulbfd8zmudz4116b4yix9xe",
+      "content": "o’clock",
+      "english": "o'clock",
+      "chinese": "点钟",
+      "sortOrder": 2,
+      "wordDetails": [
+        {
+          "pos": "ADV",
+          "word": "o'clock",
+          "phonetic": {
+            "uk": "əˈklɒk",
+            "us": "əˈklɑːk"
+          },
+          "definition": "…点钟"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "root": 0,
+        "edges": [],
+        "nodes": [
+          {
+            "id": 0,
+            "dep": "ROOT",
+            "pos": "NOUN",
+            "tag": "NN",
+            "head": "o’clock",
+            "word": "o’clock",
+            "lemma": "o’clock",
+            "phrase": "o’clock",
+            "end_idx": 0,
+            "head_id": 0,
+            "children": [],
+            "left_edge": 0,
+            "start_idx": 0,
+            "right_edge": 0
+          }
+        ],
+        "sentence": "o’clock"
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "y31ydjsa9lynrucs5t6r5a1f",
+      "content": "Nice",
+      "english": "Nice",
+      "chinese": "好",
+      "sortOrder": 3,
+      "wordDetails": [],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    }
+  ],
+  "statementId": ""
+}

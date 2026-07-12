@@ -1,0 +1,7734 @@
+[
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-S-tc0ji2fcknz5hb3i64367sfu",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-S-tc0ji2fcknz5hb3i64367sfu",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那个男人是胖还是瘦？",
+    "audioText": "Is that man fat or thin?",
+    "fullEnglish": "Is that man fat or thin?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Is",
+        "answer": "Is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "that man",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；男人"
+      },
+      {
+        "index": 2,
+        "text": "man",
+        "answer": "man",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "男人",
+        "phonetic": "mæn",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "that man",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；男人"
+      },
+      {
+        "index": 3,
+        "text": "fat",
+        "answer": "fat",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "胖的",
+        "phonetic": "fæt",
+        "pos": "ADJ"
+      },
+      {
+        "index": 4,
+        "text": "or",
+        "answer": "or",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "并列连词",
+        "zh": "或者",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "or thin",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；瘦的"
+      },
+      {
+        "index": 5,
+        "text": "thin",
+        "answer": "thin",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心成分",
+        "zh": "瘦的",
+        "phonetic": "θɪn",
+        "pos": "ADJ",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "or thin",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；瘦的"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "那个男人是胖还是瘦？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Is",
+      "man",
+      "or",
+      "fat",
+      "thin",
+      "that"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-2",
+        "text": "that man",
+        "role": "主语",
+        "zh": "那个；男人",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "that",
+            "role": "限定词",
+            "zh": "那个"
+          },
+          {
+            "id": "ud-4",
+            "text": "man",
+            "role": "中心词",
+            "zh": "男人"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "fat",
+        "role": "表语",
+        "zh": "胖的"
+      },
+      {
+        "id": "ud-6",
+        "text": "or thin",
+        "role": "并列成分",
+        "zh": "或者；瘦的",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "or",
+            "role": "并列连词",
+            "zh": "或者"
+          },
+          {
+            "id": "ud-8",
+            "text": "thin",
+            "role": "中心成分",
+            "zh": "瘦的"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "1": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentRole": "限定词",
+        "componentZh": "那个",
+        "parentComponentText": "that man",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；男人"
+      },
+      "2": {
+        "text": "man",
+        "phonetic": "mæn",
+        "pos": "NOUN",
+        "zh": "男人",
+        "componentRole": "中心词",
+        "componentZh": "男人",
+        "parentComponentText": "that man",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；男人"
+      },
+      "3": {
+        "text": "fat",
+        "phonetic": "fæt",
+        "pos": "ADJ",
+        "zh": "胖的",
+        "componentRole": "表语",
+        "componentZh": "胖的"
+      },
+      "4": {
+        "text": "or",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "zh": "或者",
+        "componentRole": "并列连词",
+        "componentZh": "或者",
+        "parentComponentText": "or thin",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；瘦的"
+      },
+      "5": {
+        "text": "thin",
+        "phonetic": "θɪn",
+        "pos": "ADJ",
+        "zh": "瘦的",
+        "componentRole": "中心成分",
+        "componentZh": "瘦的",
+        "parentComponentText": "or thin",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；瘦的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-tc0ji2fcknz5hb3i64367sfu-1",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-tc0ji2fcknz5hb3i64367sfu-1",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "Is",
+    "fullEnglish": "Is",
+    "phonetic": "ɪz",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Is",
+        "answer": "Is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "Is"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-tc0ji2fcknz5hb3i64367sfu-2",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-tc0ji2fcknz5hb3i64367sfu-2",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那个",
+    "audioText": "that",
+    "fullEnglish": "that",
+    "phonetic": "ðæt",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "that"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentZh": "那个"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-tc0ji2fcknz5hb3i64367sfu-3",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-tc0ji2fcknz5hb3i64367sfu-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "男人",
+    "audioText": "man",
+    "fullEnglish": "man",
+    "phonetic": "mæn",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "man",
+        "answer": "man",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "男人",
+        "phonetic": "mæn",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "man"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "man",
+        "phonetic": "mæn",
+        "pos": "NOUN",
+        "zh": "男人",
+        "componentZh": "男人"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-tc0ji2fcknz5hb3i64367sfu-4",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-tc0ji2fcknz5hb3i64367sfu-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "胖的",
+    "audioText": "fat",
+    "fullEnglish": "fat",
+    "phonetic": "fæt",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "fat",
+        "answer": "fat",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "胖的",
+        "phonetic": "fæt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "fat"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "fat",
+        "phonetic": "fæt",
+        "pos": "ADJ",
+        "zh": "胖的",
+        "componentZh": "胖的"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-tc0ji2fcknz5hb3i64367sfu-5",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-tc0ji2fcknz5hb3i64367sfu-5",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "或者",
+    "audioText": "or",
+    "fullEnglish": "or",
+    "phonetic": "ɔr",
+    "pos": "CCONJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "or",
+        "answer": "or",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "或者",
+        "phonetic": "ɔr",
+        "pos": "CCONJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "or"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "or",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "zh": "或者",
+        "componentZh": "或者"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-tc0ji2fcknz5hb3i64367sfu-6",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-tc0ji2fcknz5hb3i64367sfu-6",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "瘦的",
+    "audioText": "thin",
+    "fullEnglish": "thin",
+    "phonetic": "θɪn",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "thin",
+        "answer": "thin",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "瘦的",
+        "phonetic": "θɪn",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "thin"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "thin",
+        "phonetic": "θɪn",
+        "pos": "ADJ",
+        "zh": "瘦的",
+        "componentZh": "瘦的"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-S-gsyhq8bjbq4wm1z7ra57ulpo",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-S-gsyhq8bjbq4wm1z7ra57ulpo",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他不瘦。他很胖。",
+    "audioText": "He's not thin. He's fat",
+    "fullEnglish": "He's not thin. He's fat",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "方式/程度状语",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART"
+      },
+      {
+        "index": 2,
+        "text": "thin",
+        "answer": "thin",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "瘦的",
+        "phonetic": "θɪn",
+        "pos": "ADJ"
+      },
+      {
+        "index": 3,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "他不瘦。他很胖。"
+      },
+      {
+        "index": 4,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语 + 系动词",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "fat",
+        "answer": "fat",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "胖的",
+        "phonetic": "fæt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "thin",
+      "not",
+      "He's",
+      "He's",
+      "fat"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-2",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-3",
+        "text": "thin",
+        "role": "表语",
+        "zh": "瘦的"
+      },
+      {
+        "id": "ud-4",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-5",
+        "text": "fat",
+        "role": "表语",
+        "zh": "胖的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "他是"
+      },
+      "1": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentRole": "方式/程度状语",
+        "componentZh": "不"
+      },
+      "2": {
+        "text": "thin",
+        "phonetic": "θɪn",
+        "pos": "ADJ",
+        "zh": "瘦的",
+        "componentRole": "表语",
+        "componentZh": "瘦的"
+      },
+      "4": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "他是"
+      },
+      "5": {
+        "text": "fat",
+        "phonetic": "fæt",
+        "pos": "ADJ",
+        "zh": "胖的",
+        "componentRole": "表语",
+        "componentZh": "胖的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-gsyhq8bjbq4wm1z7ra57ulpo-1",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-gsyhq8bjbq4wm1z7ra57ulpo-1",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他是",
+    "audioText": "He's",
+    "fullEnglish": "He's",
+    "phonetic": "hiːz",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "He's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentZh": "他是"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-gsyhq8bjbq4wm1z7ra57ulpo-2",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-gsyhq8bjbq4wm1z7ra57ulpo-2",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不",
+    "audioText": "not",
+    "fullEnglish": "not",
+    "phonetic": "nɑːt",
+    "pos": "PART",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART"
+      }
+    ],
+    "shuffledBlocks": [
+      "not"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentZh": "不"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-S-p8jt6z166yqo68ntd3sc3vz1",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-S-p8jt6z166yqo68ntd3sc3vz1",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Steven是热情还是冷漠？",
+    "audioText": "Is Steven hot or cold?",
+    "fullEnglish": "Is Steven hot or cold?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Is",
+        "answer": "Is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "Steven",
+        "answer": "Steven",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "Steven",
+        "phonetic": "ˈstiːvən",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 2,
+        "text": "hot",
+        "answer": "hot",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "热的",
+        "phonetic": "hɑːt",
+        "pos": "ADJ"
+      },
+      {
+        "index": 3,
+        "text": "or",
+        "answer": "or",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "并列连词",
+        "zh": "或者",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "or cold",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；感冒"
+      },
+      {
+        "index": 4,
+        "text": "cold",
+        "answer": "cold",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心成分",
+        "zh": "感冒",
+        "phonetic": "koʊld",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "or cold",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；感冒"
+      },
+      {
+        "index": 5,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Steven是热情还是冷漠？"
+      }
+    ],
+    "shuffledBlocks": [
+      "hot",
+      "cold",
+      "Steven",
+      "Is",
+      "or"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-2",
+        "text": "Steven",
+        "role": "主语",
+        "zh": "Steven"
+      },
+      {
+        "id": "ud-3",
+        "text": "hot",
+        "role": "表语",
+        "zh": "热的"
+      },
+      {
+        "id": "ud-4",
+        "text": "or cold",
+        "role": "并列成分",
+        "zh": "或者；感冒",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "or",
+            "role": "并列连词",
+            "zh": "或者"
+          },
+          {
+            "id": "ud-6",
+            "text": "cold",
+            "role": "中心成分",
+            "zh": "感冒"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "1": {
+        "text": "Steven",
+        "phonetic": "ˈstiːvən",
+        "pos": "PROPN_PERSON",
+        "zh": "Steven",
+        "componentRole": "主语",
+        "componentZh": "Steven"
+      },
+      "2": {
+        "text": "hot",
+        "phonetic": "hɑːt",
+        "pos": "ADJ",
+        "zh": "热的",
+        "componentRole": "表语",
+        "componentZh": "热的"
+      },
+      "3": {
+        "text": "or",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "zh": "或者",
+        "componentRole": "并列连词",
+        "componentZh": "或者",
+        "parentComponentText": "or cold",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；感冒"
+      },
+      "4": {
+        "text": "cold",
+        "phonetic": "koʊld",
+        "pos": "NOUN",
+        "zh": "感冒",
+        "componentRole": "中心成分",
+        "componentZh": "感冒",
+        "parentComponentText": "or cold",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；感冒"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-p8jt6z166yqo68ntd3sc3vz1-2",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-p8jt6z166yqo68ntd3sc3vz1-2",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Steven",
+    "audioText": "Steven",
+    "fullEnglish": "Steven",
+    "phonetic": "ˈstiːvən",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Steven",
+        "answer": "Steven",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "Steven",
+        "phonetic": "ˈstiːvən",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Steven"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Steven",
+        "phonetic": "ˈstiːvən",
+        "pos": "PROPN_PERSON",
+        "zh": "Steven",
+        "componentZh": "Steven"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-p8jt6z166yqo68ntd3sc3vz1-3",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-p8jt6z166yqo68ntd3sc3vz1-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "热的",
+    "audioText": "hot",
+    "fullEnglish": "hot",
+    "phonetic": "hɑːt",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "hot",
+        "answer": "hot",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "热的",
+        "phonetic": "hɑːt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "hot"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "hot",
+        "phonetic": "hɑːt",
+        "pos": "ADJ",
+        "zh": "热的",
+        "componentZh": "热的"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-p8jt6z166yqo68ntd3sc3vz1-5",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-p8jt6z166yqo68ntd3sc3vz1-5",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "冷的",
+    "audioText": "cold",
+    "fullEnglish": "cold",
+    "phonetic": "koʊld",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "cold",
+        "answer": "cold",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "感冒",
+        "phonetic": "koʊld",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "cold"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "cold",
+        "phonetic": "koʊld",
+        "pos": "NOUN",
+        "zh": "感冒",
+        "componentZh": "感冒"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-S-h0cq1d16da7tjp97xhns1fj5",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-S-h0cq1d16da7tjp97xhns1fj5",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他不是冷漠。他是热情。",
+    "audioText": "He's not cold. He's hot",
+    "fullEnglish": "He's not cold. He's hot",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "方式/程度状语",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART"
+      },
+      {
+        "index": 2,
+        "text": "cold",
+        "answer": "cold",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "感冒",
+        "phonetic": "koʊld",
+        "pos": "NOUN"
+      },
+      {
+        "index": 3,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "他不是冷漠。他是热情。"
+      },
+      {
+        "index": 4,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语 + 系动词",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "hot",
+        "answer": "hot",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "热的",
+        "phonetic": "hɑːt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "hot",
+      "He's",
+      "not",
+      "He's",
+      "cold"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-2",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-3",
+        "text": "cold",
+        "role": "表语",
+        "zh": "感冒"
+      },
+      {
+        "id": "ud-4",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-5",
+        "text": "hot",
+        "role": "表语",
+        "zh": "热的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "他是"
+      },
+      "1": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentRole": "方式/程度状语",
+        "componentZh": "不"
+      },
+      "2": {
+        "text": "cold",
+        "phonetic": "koʊld",
+        "pos": "NOUN",
+        "zh": "感冒",
+        "componentRole": "表语",
+        "componentZh": "感冒"
+      },
+      "4": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "他是"
+      },
+      "5": {
+        "text": "hot",
+        "phonetic": "hɑːt",
+        "pos": "ADJ",
+        "zh": "热的",
+        "componentRole": "表语",
+        "componentZh": "热的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-S-fkizf01s55nrl6r7rry0bfla",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-S-fkizf01s55nrl6r7rry0bfla",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那位空乘是年轻还是年长？",
+    "audioText": "Is that air hostess young or old?",
+    "fullEnglish": "Is that air hostess young or old?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Is",
+        "answer": "Is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "that air hostess",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；通风；女乘务员"
+      },
+      {
+        "index": 2,
+        "text": "air",
+        "answer": "air",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "定语（名词修饰）",
+        "zh": "通风",
+        "phonetic": "ɛr",
+        "pos": "VERB",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "that air hostess",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；通风；女乘务员"
+      },
+      {
+        "index": 3,
+        "text": "hostess",
+        "answer": "hostess",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "女乘务员",
+        "phonetic": "ˈhoʊstəs",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "that air hostess",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；通风；女乘务员"
+      },
+      {
+        "index": 4,
+        "text": "young",
+        "answer": "young",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "表语",
+        "zh": "年轻的",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ"
+      },
+      {
+        "index": 5,
+        "text": "or",
+        "answer": "or",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "并列连词",
+        "zh": "或者",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "or old",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；旧的"
+      },
+      {
+        "index": 6,
+        "text": "old",
+        "answer": "old",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "中心成分",
+        "zh": "旧的",
+        "phonetic": "oʊld",
+        "pos": "ADJ",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "or old",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；旧的"
+      },
+      {
+        "index": 7,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "那位空乘是年轻还是年长？"
+      }
+    ],
+    "shuffledBlocks": [
+      "young",
+      "Is",
+      "hostess",
+      "old",
+      "that",
+      "air",
+      "or"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-2",
+        "text": "that air hostess",
+        "role": "主语",
+        "zh": "那个；通风；女乘务员",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "that",
+            "role": "限定词",
+            "zh": "那个"
+          },
+          {
+            "id": "ud-4",
+            "text": "air",
+            "role": "定语（名词修饰）",
+            "zh": "通风"
+          },
+          {
+            "id": "ud-5",
+            "text": "hostess",
+            "role": "中心词",
+            "zh": "女乘务员"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "young",
+        "role": "表语",
+        "zh": "年轻的"
+      },
+      {
+        "id": "ud-7",
+        "text": "or old",
+        "role": "并列成分",
+        "zh": "或者；旧的",
+        "children": [
+          {
+            "id": "ud-8",
+            "text": "or",
+            "role": "并列连词",
+            "zh": "或者"
+          },
+          {
+            "id": "ud-9",
+            "text": "old",
+            "role": "中心成分",
+            "zh": "旧的"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "1": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentRole": "限定词",
+        "componentZh": "那个",
+        "parentComponentText": "that air hostess",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；通风；女乘务员"
+      },
+      "2": {
+        "text": "air",
+        "phonetic": "ɛr",
+        "pos": "VERB",
+        "zh": "通风",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "通风",
+        "parentComponentText": "that air hostess",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；通风；女乘务员"
+      },
+      "3": {
+        "text": "hostess",
+        "phonetic": "ˈhoʊstəs",
+        "pos": "NOUN",
+        "zh": "女乘务员",
+        "componentRole": "中心词",
+        "componentZh": "女乘务员",
+        "parentComponentText": "that air hostess",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；通风；女乘务员"
+      },
+      "4": {
+        "text": "young",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ",
+        "zh": "年轻的",
+        "componentRole": "表语",
+        "componentZh": "年轻的"
+      },
+      "5": {
+        "text": "or",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "zh": "或者",
+        "componentRole": "并列连词",
+        "componentZh": "或者",
+        "parentComponentText": "or old",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；旧的"
+      },
+      "6": {
+        "text": "old",
+        "phonetic": "oʊld",
+        "pos": "ADJ",
+        "zh": "旧的",
+        "componentRole": "中心成分",
+        "componentZh": "旧的",
+        "parentComponentText": "or old",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；旧的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-fkizf01s55nrl6r7rry0bfla-3",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-fkizf01s55nrl6r7rry0bfla-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "空气",
+    "audioText": "air",
+    "fullEnglish": "air",
+    "phonetic": "ɛr",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "air",
+        "answer": "air",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "通风",
+        "phonetic": "ɛr",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "air"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "air",
+        "phonetic": "ɛr",
+        "pos": "VERB",
+        "zh": "通风",
+        "componentZh": "通风"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-fkizf01s55nrl6r7rry0bfla-4",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-fkizf01s55nrl6r7rry0bfla-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "女乘务员",
+    "audioText": "hostess",
+    "fullEnglish": "hostess",
+    "phonetic": "ˈhoʊstəs",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "hostess",
+        "answer": "hostess",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "女乘务员",
+        "phonetic": "ˈhoʊstəs",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "hostess"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "hostess",
+        "phonetic": "ˈhoʊstəs",
+        "pos": "NOUN",
+        "zh": "女乘务员",
+        "componentZh": "女乘务员"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-fkizf01s55nrl6r7rry0bfla-5",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-fkizf01s55nrl6r7rry0bfla-5",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "年轻的",
+    "audioText": "young",
+    "fullEnglish": "young",
+    "phonetic": "jʌŋ",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "young",
+        "answer": "young",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "年轻的",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "young"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "young",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ",
+        "zh": "年轻的",
+        "componentZh": "年轻的"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-fkizf01s55nrl6r7rry0bfla-7",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-fkizf01s55nrl6r7rry0bfla-7",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "年老的",
+    "audioText": "old",
+    "fullEnglish": "old",
+    "phonetic": "oʊld",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "old",
+        "answer": "old",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "旧的",
+        "phonetic": "oʊld",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "old"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "old",
+        "phonetic": "oʊld",
+        "pos": "ADJ",
+        "zh": "旧的",
+        "componentZh": "旧的"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-S-e736wapafoa1as84eox00g7j",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-S-e736wapafoa1as84eox00g7j",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她并不老。她很年轻。",
+    "audioText": "She's not old. She's young",
+    "fullEnglish": "She's not old. She's young",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "方式/程度状语",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART"
+      },
+      {
+        "index": 2,
+        "text": "old",
+        "answer": "old",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "旧的",
+        "phonetic": "oʊld",
+        "pos": "ADJ"
+      },
+      {
+        "index": 3,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "她并不老。她很年轻。"
+      },
+      {
+        "index": 4,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语 + 系动词",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "young",
+        "answer": "young",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "年轻的",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "young",
+      "old",
+      "She's",
+      "She's",
+      "not"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-2",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-3",
+        "text": "old",
+        "role": "表语",
+        "zh": "旧的"
+      },
+      {
+        "id": "ud-4",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-5",
+        "text": "young",
+        "role": "表语",
+        "zh": "年轻的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "她是"
+      },
+      "1": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentRole": "方式/程度状语",
+        "componentZh": "不"
+      },
+      "2": {
+        "text": "old",
+        "phonetic": "oʊld",
+        "pos": "ADJ",
+        "zh": "旧的",
+        "componentRole": "表语",
+        "componentZh": "旧的"
+      },
+      "4": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "她是"
+      },
+      "5": {
+        "text": "young",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ",
+        "zh": "年轻的",
+        "componentRole": "表语",
+        "componentZh": "年轻的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-e736wapafoa1as84eox00g7j-1",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-e736wapafoa1as84eox00g7j-1",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她是",
+    "audioText": "She's",
+    "fullEnglish": "She's",
+    "phonetic": "ʃiːz",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "She's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentZh": "她是"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-S-vxas8r7ynnespurnj81ng2jm",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-S-vxas8r7ynnespurnj81ng2jm",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那个女人是瘦还是胖？",
+    "audioText": "Is that woman thin or fat?",
+    "fullEnglish": "Is that woman thin or fat?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Is",
+        "answer": "Is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "that woman",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；女人"
+      },
+      {
+        "index": 2,
+        "text": "woman",
+        "answer": "woman",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "女人",
+        "phonetic": "ˈwʊmən",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "that woman",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；女人"
+      },
+      {
+        "index": 3,
+        "text": "thin",
+        "answer": "thin",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "瘦的",
+        "phonetic": "θɪn",
+        "pos": "ADJ"
+      },
+      {
+        "index": 4,
+        "text": "or",
+        "answer": "or",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "并列连词",
+        "zh": "或者",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "or fat",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；胖的"
+      },
+      {
+        "index": 5,
+        "text": "fat",
+        "answer": "fat",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心成分",
+        "zh": "胖的",
+        "phonetic": "fæt",
+        "pos": "ADJ",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "or fat",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；胖的"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "那个女人是瘦还是胖？"
+      }
+    ],
+    "shuffledBlocks": [
+      "that",
+      "thin",
+      "or",
+      "woman",
+      "fat",
+      "Is"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-2",
+        "text": "that woman",
+        "role": "主语",
+        "zh": "那个；女人",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "that",
+            "role": "限定词",
+            "zh": "那个"
+          },
+          {
+            "id": "ud-4",
+            "text": "woman",
+            "role": "中心词",
+            "zh": "女人"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "thin",
+        "role": "表语",
+        "zh": "瘦的"
+      },
+      {
+        "id": "ud-6",
+        "text": "or fat",
+        "role": "并列成分",
+        "zh": "或者；胖的",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "or",
+            "role": "并列连词",
+            "zh": "或者"
+          },
+          {
+            "id": "ud-8",
+            "text": "fat",
+            "role": "中心成分",
+            "zh": "胖的"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "1": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentRole": "限定词",
+        "componentZh": "那个",
+        "parentComponentText": "that woman",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；女人"
+      },
+      "2": {
+        "text": "woman",
+        "phonetic": "ˈwʊmən",
+        "pos": "NOUN",
+        "zh": "女人",
+        "componentRole": "中心词",
+        "componentZh": "女人",
+        "parentComponentText": "that woman",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；女人"
+      },
+      "3": {
+        "text": "thin",
+        "phonetic": "θɪn",
+        "pos": "ADJ",
+        "zh": "瘦的",
+        "componentRole": "表语",
+        "componentZh": "瘦的"
+      },
+      "4": {
+        "text": "or",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "zh": "或者",
+        "componentRole": "并列连词",
+        "componentZh": "或者",
+        "parentComponentText": "or fat",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；胖的"
+      },
+      "5": {
+        "text": "fat",
+        "phonetic": "fæt",
+        "pos": "ADJ",
+        "zh": "胖的",
+        "componentRole": "中心成分",
+        "componentZh": "胖的",
+        "parentComponentText": "or fat",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；胖的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-vxas8r7ynnespurnj81ng2jm-3",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-vxas8r7ynnespurnj81ng2jm-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "女人",
+    "audioText": "woman",
+    "fullEnglish": "woman",
+    "phonetic": "ˈwʊmən",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "woman",
+        "answer": "woman",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "女人",
+        "phonetic": "ˈwʊmən",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "woman"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "woman",
+        "phonetic": "ˈwʊmən",
+        "pos": "NOUN",
+        "zh": "女人",
+        "componentZh": "女人"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-S-zhn5d68gxcscnsnqc7b36k4y",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-S-zhn5d68gxcscnsnqc7b36k4y",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她不胖。她很瘦。",
+    "audioText": "She's not fat. She's thin",
+    "fullEnglish": "She's not fat. She's thin",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "方式/程度状语",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART"
+      },
+      {
+        "index": 2,
+        "text": "fat",
+        "answer": "fat",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "胖的",
+        "phonetic": "fæt",
+        "pos": "ADJ"
+      },
+      {
+        "index": 3,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "她不胖。她很瘦。"
+      },
+      {
+        "index": 4,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语 + 系动词",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "thin",
+        "answer": "thin",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "瘦的",
+        "phonetic": "θɪn",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "She's",
+      "fat",
+      "not",
+      "She's",
+      "thin"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-2",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-3",
+        "text": "fat",
+        "role": "表语",
+        "zh": "胖的"
+      },
+      {
+        "id": "ud-4",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-5",
+        "text": "thin",
+        "role": "表语",
+        "zh": "瘦的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "她是"
+      },
+      "1": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentRole": "方式/程度状语",
+        "componentZh": "不"
+      },
+      "2": {
+        "text": "fat",
+        "phonetic": "fæt",
+        "pos": "ADJ",
+        "zh": "胖的",
+        "componentRole": "表语",
+        "componentZh": "胖的"
+      },
+      "4": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "她是"
+      },
+      "5": {
+        "text": "thin",
+        "phonetic": "θɪn",
+        "pos": "ADJ",
+        "zh": "瘦的",
+        "componentRole": "表语",
+        "componentZh": "瘦的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-S-bg0albq62gci3grwhy7boe8j",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-S-bg0albq62gci3grwhy7boe8j",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Emma是冷艳还是热情？",
+    "audioText": "Is Emma cold or hot?",
+    "fullEnglish": "Is Emma cold or hot?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Is",
+        "answer": "Is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "Emma",
+        "answer": "Emma",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "Emma",
+        "phonetic": "ˈemə",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 2,
+        "text": "cold",
+        "answer": "cold",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "感冒",
+        "phonetic": "koʊld",
+        "pos": "NOUN"
+      },
+      {
+        "index": 3,
+        "text": "or",
+        "answer": "or",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "并列连词",
+        "zh": "或者",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "or hot",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；热的"
+      },
+      {
+        "index": 4,
+        "text": "hot",
+        "answer": "hot",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心成分",
+        "zh": "热的",
+        "phonetic": "hɑːt",
+        "pos": "ADJ",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "or hot",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；热的"
+      },
+      {
+        "index": 5,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Emma是冷艳还是热情？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Emma",
+      "Is",
+      "or",
+      "cold",
+      "hot"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-2",
+        "text": "Emma",
+        "role": "主语",
+        "zh": "Emma"
+      },
+      {
+        "id": "ud-3",
+        "text": "cold",
+        "role": "表语",
+        "zh": "感冒"
+      },
+      {
+        "id": "ud-4",
+        "text": "or hot",
+        "role": "并列成分",
+        "zh": "或者；热的",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "or",
+            "role": "并列连词",
+            "zh": "或者"
+          },
+          {
+            "id": "ud-6",
+            "text": "hot",
+            "role": "中心成分",
+            "zh": "热的"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "1": {
+        "text": "Emma",
+        "phonetic": "ˈemə",
+        "pos": "PROPN_PERSON",
+        "zh": "Emma",
+        "componentRole": "主语",
+        "componentZh": "Emma"
+      },
+      "2": {
+        "text": "cold",
+        "phonetic": "koʊld",
+        "pos": "NOUN",
+        "zh": "感冒",
+        "componentRole": "表语",
+        "componentZh": "感冒"
+      },
+      "3": {
+        "text": "or",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "zh": "或者",
+        "componentRole": "并列连词",
+        "componentZh": "或者",
+        "parentComponentText": "or hot",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；热的"
+      },
+      "4": {
+        "text": "hot",
+        "phonetic": "hɑːt",
+        "pos": "ADJ",
+        "zh": "热的",
+        "componentRole": "中心成分",
+        "componentZh": "热的",
+        "parentComponentText": "or hot",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；热的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-bg0albq62gci3grwhy7boe8j-2",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-bg0albq62gci3grwhy7boe8j-2",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Emma",
+    "audioText": "Emma",
+    "fullEnglish": "Emma",
+    "phonetic": "ˈemə",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Emma",
+        "answer": "Emma",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "Emma",
+        "phonetic": "ˈemə",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Emma"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Emma",
+        "phonetic": "ˈemə",
+        "pos": "PROPN_PERSON",
+        "zh": "Emma",
+        "componentZh": "Emma"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-S-d4xmoy1tl2bovhy4ggrmy3q7",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-S-d4xmoy1tl2bovhy4ggrmy3q7",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她并不热情，反而很冷淡。",
+    "audioText": "She's not hot. She's cold",
+    "fullEnglish": "She's not hot. She's cold",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "方式/程度状语",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART"
+      },
+      {
+        "index": 2,
+        "text": "hot",
+        "answer": "hot",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "热的",
+        "phonetic": "hɑːt",
+        "pos": "ADJ"
+      },
+      {
+        "index": 3,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "她并不热情，反而很冷淡。"
+      },
+      {
+        "index": 4,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语 + 系动词",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "cold",
+        "answer": "cold",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "感冒",
+        "phonetic": "koʊld",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "not",
+      "hot",
+      "cold",
+      "She's",
+      "She's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-2",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-3",
+        "text": "hot",
+        "role": "表语",
+        "zh": "热的"
+      },
+      {
+        "id": "ud-4",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-5",
+        "text": "cold",
+        "role": "表语",
+        "zh": "感冒"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "她是"
+      },
+      "1": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentRole": "方式/程度状语",
+        "componentZh": "不"
+      },
+      "2": {
+        "text": "hot",
+        "phonetic": "hɑːt",
+        "pos": "ADJ",
+        "zh": "热的",
+        "componentRole": "表语",
+        "componentZh": "热的"
+      },
+      "4": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "她是"
+      },
+      "5": {
+        "text": "cold",
+        "phonetic": "koʊld",
+        "pos": "NOUN",
+        "zh": "感冒",
+        "componentRole": "表语",
+        "componentZh": "感冒"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-S-src2j6njdnlisrakv4spaxmu",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-S-src2j6njdnlisrakv4spaxmu",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那位女警察是矮还是高？",
+    "audioText": "Is that policewoman short or tall?",
+    "fullEnglish": "Is that policewoman short or tall?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Is",
+        "answer": "Is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "that policewoman",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；女警察"
+      },
+      {
+        "index": 2,
+        "text": "policewoman",
+        "answer": "policewoman",
+        "blank": "___________",
+        "letterCount": 11,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "女警察",
+        "phonetic": "pəˈliːswʊmən",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "that policewoman",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；女警察"
+      },
+      {
+        "index": 3,
+        "text": "short",
+        "answer": "short",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "矮",
+        "phonetic": "ʃɔːrt",
+        "pos": "ADJ"
+      },
+      {
+        "index": 4,
+        "text": "or",
+        "answer": "or",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "并列连词",
+        "zh": "或者",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "or tall",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；高"
+      },
+      {
+        "index": 5,
+        "text": "tall",
+        "answer": "tall",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心成分",
+        "zh": "高",
+        "phonetic": "tɔːl",
+        "pos": "ADJ",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "or tall",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；高"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "那位女警察是矮还是高？"
+      }
+    ],
+    "shuffledBlocks": [
+      "short",
+      "Is",
+      "tall",
+      "policewoman",
+      "that",
+      "or"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-2",
+        "text": "that policewoman",
+        "role": "主语",
+        "zh": "那个；女警察",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "that",
+            "role": "限定词",
+            "zh": "那个"
+          },
+          {
+            "id": "ud-4",
+            "text": "policewoman",
+            "role": "中心词",
+            "zh": "女警察"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "short",
+        "role": "表语",
+        "zh": "矮"
+      },
+      {
+        "id": "ud-6",
+        "text": "or tall",
+        "role": "并列成分",
+        "zh": "或者；高",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "or",
+            "role": "并列连词",
+            "zh": "或者"
+          },
+          {
+            "id": "ud-8",
+            "text": "tall",
+            "role": "中心成分",
+            "zh": "高"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "1": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentRole": "限定词",
+        "componentZh": "那个",
+        "parentComponentText": "that policewoman",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；女警察"
+      },
+      "2": {
+        "text": "policewoman",
+        "phonetic": "pəˈliːswʊmən",
+        "pos": "NOUN",
+        "zh": "女警察",
+        "componentRole": "中心词",
+        "componentZh": "女警察",
+        "parentComponentText": "that policewoman",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；女警察"
+      },
+      "3": {
+        "text": "short",
+        "phonetic": "ʃɔːrt",
+        "pos": "ADJ",
+        "zh": "矮",
+        "componentRole": "表语",
+        "componentZh": "矮"
+      },
+      "4": {
+        "text": "or",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "zh": "或者",
+        "componentRole": "并列连词",
+        "componentZh": "或者",
+        "parentComponentText": "or tall",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；高"
+      },
+      "5": {
+        "text": "tall",
+        "phonetic": "tɔːl",
+        "pos": "ADJ",
+        "zh": "高",
+        "componentRole": "中心成分",
+        "componentZh": "高",
+        "parentComponentText": "or tall",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；高"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-src2j6njdnlisrakv4spaxmu-3",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-src2j6njdnlisrakv4spaxmu-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "女警察",
+    "audioText": "policewoman",
+    "fullEnglish": "policewoman",
+    "phonetic": "pəˈliːswʊmən",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "policewoman",
+        "answer": "policewoman",
+        "blank": "___________",
+        "letterCount": 11,
+        "fillable": true,
+        "type": "word",
+        "zh": "女警察",
+        "phonetic": "pəˈliːswʊmən",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "policewoman"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "policewoman",
+        "phonetic": "pəˈliːswʊmən",
+        "pos": "NOUN",
+        "zh": "女警察",
+        "componentZh": "女警察"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-src2j6njdnlisrakv4spaxmu-4",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-src2j6njdnlisrakv4spaxmu-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "矮的",
+    "audioText": "short",
+    "fullEnglish": "short",
+    "phonetic": "ʃɔːrt",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "short",
+        "answer": "short",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "矮",
+        "phonetic": "ʃɔːrt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "short"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "short",
+        "phonetic": "ʃɔːrt",
+        "pos": "ADJ",
+        "zh": "矮",
+        "componentZh": "矮"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-src2j6njdnlisrakv4spaxmu-6",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-src2j6njdnlisrakv4spaxmu-6",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "高的",
+    "audioText": "tall",
+    "fullEnglish": "tall",
+    "phonetic": "tɔːl",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "tall",
+        "answer": "tall",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "高",
+        "phonetic": "tɔːl",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "tall"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "tall",
+        "phonetic": "tɔːl",
+        "pos": "ADJ",
+        "zh": "高",
+        "componentZh": "高"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-S-l7q57vajt5q0iqwlo30gt6t5",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-S-l7q57vajt5q0iqwlo30gt6t5",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她个子不高。她很矮。",
+    "audioText": "She's not tall. She's short",
+    "fullEnglish": "She's not tall. She's short",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "方式/程度状语",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART"
+      },
+      {
+        "index": 2,
+        "text": "tall",
+        "answer": "tall",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "高",
+        "phonetic": "tɔːl",
+        "pos": "ADJ"
+      },
+      {
+        "index": 3,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "她个子不高。她很矮。"
+      },
+      {
+        "index": 4,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语 + 系动词",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "short",
+        "answer": "short",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "矮",
+        "phonetic": "ʃɔːrt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "tall",
+      "short",
+      "She's",
+      "She's",
+      "not"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-2",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-3",
+        "text": "tall",
+        "role": "表语",
+        "zh": "高"
+      },
+      {
+        "id": "ud-4",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-5",
+        "text": "short",
+        "role": "表语",
+        "zh": "矮"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "她是"
+      },
+      "1": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentRole": "方式/程度状语",
+        "componentZh": "不"
+      },
+      "2": {
+        "text": "tall",
+        "phonetic": "tɔːl",
+        "pos": "ADJ",
+        "zh": "高",
+        "componentRole": "表语",
+        "componentZh": "高"
+      },
+      "4": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "她是"
+      },
+      "5": {
+        "text": "short",
+        "phonetic": "ʃɔːrt",
+        "pos": "ADJ",
+        "zh": "矮",
+        "componentRole": "表语",
+        "componentZh": "矮"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-S-rom3xnnqhi0eooi511vzrdb4",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-S-rom3xnnqhi0eooi511vzrdb4",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那个送奶工是年长的还是年轻的？",
+    "audioText": "Is that milkman old or young?",
+    "fullEnglish": "Is that milkman old or young?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Is",
+        "answer": "Is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "that milkman",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；送奶工"
+      },
+      {
+        "index": 2,
+        "text": "milkman",
+        "answer": "milkman",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "送奶工",
+        "phonetic": "ˈmɪlkˌmæn",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "that milkman",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；送奶工"
+      },
+      {
+        "index": 3,
+        "text": "old",
+        "answer": "old",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "旧的",
+        "phonetic": "oʊld",
+        "pos": "ADJ"
+      },
+      {
+        "index": 4,
+        "text": "or",
+        "answer": "or",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "并列连词",
+        "zh": "或者",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "or young",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；年轻的"
+      },
+      {
+        "index": 5,
+        "text": "young",
+        "answer": "young",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心成分",
+        "zh": "年轻的",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "or young",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；年轻的"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "那个送奶工是年长的还是年轻的？"
+      }
+    ],
+    "shuffledBlocks": [
+      "that",
+      "old",
+      "young",
+      "milkman",
+      "or",
+      "Is"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-2",
+        "text": "that milkman",
+        "role": "主语",
+        "zh": "那个；送奶工",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "that",
+            "role": "限定词",
+            "zh": "那个"
+          },
+          {
+            "id": "ud-4",
+            "text": "milkman",
+            "role": "中心词",
+            "zh": "送奶工"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "old",
+        "role": "表语",
+        "zh": "旧的"
+      },
+      {
+        "id": "ud-6",
+        "text": "or young",
+        "role": "并列成分",
+        "zh": "或者；年轻的",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "or",
+            "role": "并列连词",
+            "zh": "或者"
+          },
+          {
+            "id": "ud-8",
+            "text": "young",
+            "role": "中心成分",
+            "zh": "年轻的"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "1": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentRole": "限定词",
+        "componentZh": "那个",
+        "parentComponentText": "that milkman",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；送奶工"
+      },
+      "2": {
+        "text": "milkman",
+        "phonetic": "ˈmɪlkˌmæn",
+        "pos": "NOUN",
+        "zh": "送奶工",
+        "componentRole": "中心词",
+        "componentZh": "送奶工",
+        "parentComponentText": "that milkman",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；送奶工"
+      },
+      "3": {
+        "text": "old",
+        "phonetic": "oʊld",
+        "pos": "ADJ",
+        "zh": "旧的",
+        "componentRole": "表语",
+        "componentZh": "旧的"
+      },
+      "4": {
+        "text": "or",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "zh": "或者",
+        "componentRole": "并列连词",
+        "componentZh": "或者",
+        "parentComponentText": "or young",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；年轻的"
+      },
+      "5": {
+        "text": "young",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ",
+        "zh": "年轻的",
+        "componentRole": "中心成分",
+        "componentZh": "年轻的",
+        "parentComponentText": "or young",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；年轻的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-rom3xnnqhi0eooi511vzrdb4-3",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-rom3xnnqhi0eooi511vzrdb4-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "送奶工",
+    "audioText": "milkman",
+    "fullEnglish": "milkman",
+    "phonetic": "ˈmɪlkˌmæn",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "milkman",
+        "answer": "milkman",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "送奶工",
+        "phonetic": "ˈmɪlkˌmæn",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "milkman"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "milkman",
+        "phonetic": "ˈmɪlkˌmæn",
+        "pos": "NOUN",
+        "zh": "送奶工",
+        "componentZh": "送奶工"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-S-gkepq0m2m49vccp6t25jltgz",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-S-gkepq0m2m49vccp6t25jltgz",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他不年轻了。他老了。",
+    "audioText": "He's not young. He's old",
+    "fullEnglish": "He's not young. He's old",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "方式/程度状语",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART"
+      },
+      {
+        "index": 2,
+        "text": "young",
+        "answer": "young",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "年轻的",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ"
+      },
+      {
+        "index": 3,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "他不年轻了。他老了。"
+      },
+      {
+        "index": 4,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语 + 系动词",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "old",
+        "answer": "old",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "旧的",
+        "phonetic": "oʊld",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "young",
+      "He's",
+      "old",
+      "He's",
+      "not"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-2",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-3",
+        "text": "young",
+        "role": "表语",
+        "zh": "年轻的"
+      },
+      {
+        "id": "ud-4",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-5",
+        "text": "old",
+        "role": "表语",
+        "zh": "旧的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "他是"
+      },
+      "1": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentRole": "方式/程度状语",
+        "componentZh": "不"
+      },
+      "2": {
+        "text": "young",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ",
+        "zh": "年轻的",
+        "componentRole": "表语",
+        "componentZh": "年轻的"
+      },
+      "4": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "他是"
+      },
+      "5": {
+        "text": "old",
+        "phonetic": "oʊld",
+        "pos": "ADJ",
+        "zh": "旧的",
+        "componentRole": "表语",
+        "componentZh": "旧的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-S-en70rrolc9gh3qwku8yg3twb",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-S-en70rrolc9gh3qwku8yg3twb",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那个警察是高还是矮？",
+    "audioText": "Is that policeman tall or short?",
+    "fullEnglish": "Is that policeman tall or short?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Is",
+        "answer": "Is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "that policeman",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；警察"
+      },
+      {
+        "index": 2,
+        "text": "policeman",
+        "answer": "policeman",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "警察",
+        "phonetic": "pəˈliːsmən",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "that policeman",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；警察"
+      },
+      {
+        "index": 3,
+        "text": "tall",
+        "answer": "tall",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "高",
+        "phonetic": "tɔːl",
+        "pos": "ADJ"
+      },
+      {
+        "index": 4,
+        "text": "or",
+        "answer": "or",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "并列连词",
+        "zh": "或者",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "or short",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；矮"
+      },
+      {
+        "index": 5,
+        "text": "short",
+        "answer": "short",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心成分",
+        "zh": "矮",
+        "phonetic": "ʃɔːrt",
+        "pos": "ADJ",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "or short",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；矮"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "那个警察是高还是矮？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Is",
+      "or",
+      "policeman",
+      "tall",
+      "that",
+      "short"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-2",
+        "text": "that policeman",
+        "role": "主语",
+        "zh": "那个；警察",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "that",
+            "role": "限定词",
+            "zh": "那个"
+          },
+          {
+            "id": "ud-4",
+            "text": "policeman",
+            "role": "中心词",
+            "zh": "警察"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "tall",
+        "role": "表语",
+        "zh": "高"
+      },
+      {
+        "id": "ud-6",
+        "text": "or short",
+        "role": "并列成分",
+        "zh": "或者；矮",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "or",
+            "role": "并列连词",
+            "zh": "或者"
+          },
+          {
+            "id": "ud-8",
+            "text": "short",
+            "role": "中心成分",
+            "zh": "矮"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "1": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentRole": "限定词",
+        "componentZh": "那个",
+        "parentComponentText": "that policeman",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；警察"
+      },
+      "2": {
+        "text": "policeman",
+        "phonetic": "pəˈliːsmən",
+        "pos": "NOUN",
+        "zh": "警察",
+        "componentRole": "中心词",
+        "componentZh": "警察",
+        "parentComponentText": "that policeman",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；警察"
+      },
+      "3": {
+        "text": "tall",
+        "phonetic": "tɔːl",
+        "pos": "ADJ",
+        "zh": "高",
+        "componentRole": "表语",
+        "componentZh": "高"
+      },
+      "4": {
+        "text": "or",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "zh": "或者",
+        "componentRole": "并列连词",
+        "componentZh": "或者",
+        "parentComponentText": "or short",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；矮"
+      },
+      "5": {
+        "text": "short",
+        "phonetic": "ʃɔːrt",
+        "pos": "ADJ",
+        "zh": "矮",
+        "componentRole": "中心成分",
+        "componentZh": "矮",
+        "parentComponentText": "or short",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；矮"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-en70rrolc9gh3qwku8yg3twb-3",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-en70rrolc9gh3qwku8yg3twb-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "警察",
+    "audioText": "policeman",
+    "fullEnglish": "policeman",
+    "phonetic": "pəˈliːsmən",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "policeman",
+        "answer": "policeman",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "警察",
+        "phonetic": "pəˈliːsmən",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "policeman"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "policeman",
+        "phonetic": "pəˈliːsmən",
+        "pos": "NOUN",
+        "zh": "警察",
+        "componentZh": "警察"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-S-vay6zf9ldjanibc29j96mtb2",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-S-vay6zf9ldjanibc29j96mtb2",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他不矮。他很高。",
+    "audioText": "He's not short. He's tall",
+    "fullEnglish": "He's not short. He's tall",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "方式/程度状语",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART"
+      },
+      {
+        "index": 2,
+        "text": "short",
+        "answer": "short",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "矮",
+        "phonetic": "ʃɔːrt",
+        "pos": "ADJ"
+      },
+      {
+        "index": 3,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "他不矮。他很高。"
+      },
+      {
+        "index": 4,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语 + 系动词",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "tall",
+        "answer": "tall",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "高",
+        "phonetic": "tɔːl",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "not",
+      "tall",
+      "He's",
+      "short",
+      "He's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-2",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-3",
+        "text": "short",
+        "role": "表语",
+        "zh": "矮"
+      },
+      {
+        "id": "ud-4",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-5",
+        "text": "tall",
+        "role": "表语",
+        "zh": "高"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "他是"
+      },
+      "1": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentRole": "方式/程度状语",
+        "componentZh": "不"
+      },
+      "2": {
+        "text": "short",
+        "phonetic": "ʃɔːrt",
+        "pos": "ADJ",
+        "zh": "矮",
+        "componentRole": "表语",
+        "componentZh": "矮"
+      },
+      "4": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "他是"
+      },
+      "5": {
+        "text": "tall",
+        "phonetic": "tɔːl",
+        "pos": "ADJ",
+        "zh": "高",
+        "componentRole": "表语",
+        "componentZh": "高"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-S-hfcenhajv3xx306bm7pn36oh",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-S-hfcenhajv3xx306bm7pn36oh",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那个护士很干净还是很脏？",
+    "audioText": "Is that nurse clean or dirty?",
+    "fullEnglish": "Is that nurse clean or dirty?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Is",
+        "answer": "Is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "that nurse",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；护士"
+      },
+      {
+        "index": 2,
+        "text": "nurse",
+        "answer": "nurse",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "护士",
+        "phonetic": "nɜːrs",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "that nurse",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；护士"
+      },
+      {
+        "index": 3,
+        "text": "clean",
+        "answer": "clean",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "清洁",
+        "phonetic": "kliːn",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "or",
+        "answer": "or",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "并列连词",
+        "zh": "或者",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "or dirty",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；脏的"
+      },
+      {
+        "index": 5,
+        "text": "dirty",
+        "answer": "dirty",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心成分",
+        "zh": "脏的",
+        "phonetic": "ˈdɜːrti",
+        "pos": "ADJ",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "or dirty",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；脏的"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "那个护士很干净还是很脏？"
+      }
+    ],
+    "shuffledBlocks": [
+      "or",
+      "nurse",
+      "clean",
+      "dirty",
+      "Is",
+      "that"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-2",
+        "text": "that nurse",
+        "role": "主语",
+        "zh": "那个；护士",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "that",
+            "role": "限定词",
+            "zh": "那个"
+          },
+          {
+            "id": "ud-4",
+            "text": "nurse",
+            "role": "中心词",
+            "zh": "护士"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "clean",
+        "role": "表语",
+        "zh": "清洁"
+      },
+      {
+        "id": "ud-6",
+        "text": "or dirty",
+        "role": "并列成分",
+        "zh": "或者；脏的",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "or",
+            "role": "并列连词",
+            "zh": "或者"
+          },
+          {
+            "id": "ud-8",
+            "text": "dirty",
+            "role": "中心成分",
+            "zh": "脏的"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "1": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentRole": "限定词",
+        "componentZh": "那个",
+        "parentComponentText": "that nurse",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；护士"
+      },
+      "2": {
+        "text": "nurse",
+        "phonetic": "nɜːrs",
+        "pos": "NOUN",
+        "zh": "护士",
+        "componentRole": "中心词",
+        "componentZh": "护士",
+        "parentComponentText": "that nurse",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "那个；护士"
+      },
+      "3": {
+        "text": "clean",
+        "phonetic": "kliːn",
+        "pos": "VERB",
+        "zh": "清洁",
+        "componentRole": "表语",
+        "componentZh": "清洁"
+      },
+      "4": {
+        "text": "or",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "zh": "或者",
+        "componentRole": "并列连词",
+        "componentZh": "或者",
+        "parentComponentText": "or dirty",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；脏的"
+      },
+      "5": {
+        "text": "dirty",
+        "phonetic": "ˈdɜːrti",
+        "pos": "ADJ",
+        "zh": "脏的",
+        "componentRole": "中心成分",
+        "componentZh": "脏的",
+        "parentComponentText": "or dirty",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；脏的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-hfcenhajv3xx306bm7pn36oh-3",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-hfcenhajv3xx306bm7pn36oh-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "护士",
+    "audioText": "nurse",
+    "fullEnglish": "nurse",
+    "phonetic": "nɜːrs",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "nurse",
+        "answer": "nurse",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "护士",
+        "phonetic": "nɜːrs",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "nurse"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "nurse",
+        "phonetic": "nɜːrs",
+        "pos": "NOUN",
+        "zh": "护士",
+        "componentZh": "护士"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-hfcenhajv3xx306bm7pn36oh-4",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-hfcenhajv3xx306bm7pn36oh-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "干净的",
+    "audioText": "clean",
+    "fullEnglish": "clean",
+    "phonetic": "kliːn",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "clean",
+        "answer": "clean",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "清洁",
+        "phonetic": "kliːn",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "clean"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "clean",
+        "phonetic": "kliːn",
+        "pos": "VERB",
+        "zh": "清洁",
+        "componentZh": "清洁"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-W-hfcenhajv3xx306bm7pn36oh-6",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-W-hfcenhajv3xx306bm7pn36oh-6",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "脏的",
+    "audioText": "dirty",
+    "fullEnglish": "dirty",
+    "phonetic": "ˈdɜːrti",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "dirty",
+        "answer": "dirty",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "脏的",
+        "phonetic": "ˈdɜːrti",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "dirty"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "dirty",
+        "phonetic": "ˈdɜːrti",
+        "pos": "ADJ",
+        "zh": "脏的",
+        "componentZh": "脏的"
+      }
+    }
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-S-tzebklsuc3qdzi1r76z25bua",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-S-tzebklsuc3qdzi1r76z25bua",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她不脏。她很干净。",
+    "audioText": "She's not dirty. She's clean",
+    "fullEnglish": "She's not dirty. She's clean",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "方式/程度状语",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART"
+      },
+      {
+        "index": 2,
+        "text": "dirty",
+        "answer": "dirty",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "脏的",
+        "phonetic": "ˈdɜːrti",
+        "pos": "ADJ"
+      },
+      {
+        "index": 3,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "她不脏。她很干净。"
+      },
+      {
+        "index": 4,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语 + 系动词",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "clean",
+        "answer": "clean",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "清洁",
+        "phonetic": "kliːn",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "She's",
+      "She's",
+      "not",
+      "clean",
+      "dirty"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-2",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-3",
+        "text": "dirty",
+        "role": "表语",
+        "zh": "脏的"
+      },
+      {
+        "id": "ud-4",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-5",
+        "text": "clean",
+        "role": "表语",
+        "zh": "清洁"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "她是"
+      },
+      "1": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentRole": "方式/程度状语",
+        "componentZh": "不"
+      },
+      "2": {
+        "text": "dirty",
+        "phonetic": "ˈdɜːrti",
+        "pos": "ADJ",
+        "zh": "脏的",
+        "componentRole": "表语",
+        "componentZh": "脏的"
+      },
+      "4": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "她是"
+      },
+      "5": {
+        "text": "clean",
+        "phonetic": "kliːn",
+        "pos": "VERB",
+        "zh": "清洁",
+        "componentRole": "表语",
+        "componentZh": "清洁"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-wqovcbxjsg4m7flqjcdgjn0h",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-wqovcbxjsg4m7flqjcdgjn0h",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那个男人",
+    "audioText": "that man",
+    "fullEnglish": "that man",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "man",
+        "answer": "man",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "男人",
+        "phonetic": "mæn",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "that",
+      "man"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "that",
+        "role": "补充成分",
+        "zh": "那个"
+      },
+      {
+        "id": "ud-2",
+        "text": "man",
+        "role": "中心成分",
+        "zh": "男人"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentZh": "那个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "man",
+        "phonetic": "mæn",
+        "pos": "NOUN",
+        "zh": "男人",
+        "componentZh": "男人",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-pc97816va2bu0953p5r9z9md",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-pc97816va2bu0953p5r9z9md",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他不瘦",
+    "audioText": "He's not thin",
+    "fullEnglish": "He's not thin",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 2,
+        "text": "thin",
+        "answer": "thin",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "瘦的",
+        "phonetic": "θɪn",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "not",
+      "thin",
+      "He's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-2",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-3",
+        "text": "thin",
+        "role": "表语",
+        "zh": "瘦的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentZh": "他是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentZh": "不",
+        "componentRole": "方式/程度状语"
+      },
+      "2": {
+        "text": "thin",
+        "phonetic": "θɪn",
+        "pos": "ADJ",
+        "zh": "瘦的",
+        "componentZh": "瘦的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-jj5wdns1e4e57yo3d659kpze",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-jj5wdns1e4e57yo3d659kpze",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他很胖",
+    "audioText": "He's fat",
+    "fullEnglish": "He's fat",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "fat",
+        "answer": "fat",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "胖的",
+        "phonetic": "fæt",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "He's",
+      "fat"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-2",
+        "text": "fat",
+        "role": "表语",
+        "zh": "胖的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentZh": "他是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "fat",
+        "phonetic": "fæt",
+        "pos": "ADJ",
+        "zh": "胖的",
+        "componentZh": "胖的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-fc3pnq5fvtw1sfxih0krm386",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-fc3pnq5fvtw1sfxih0krm386",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "热还是冷",
+    "audioText": "hot or cold",
+    "fullEnglish": "hot or cold",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "hot",
+        "answer": "hot",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "热的",
+        "phonetic": "hɑːt",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": "or",
+        "answer": "or",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "或者",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "componentId": "ud-3",
+        "role": "并列连词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "or cold",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；感冒"
+      },
+      {
+        "index": 2,
+        "text": "cold",
+        "answer": "cold",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "感冒",
+        "phonetic": "koʊld",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "中心成分",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "or cold",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；感冒"
+      }
+    ],
+    "shuffledBlocks": [
+      "cold",
+      "hot",
+      "or"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "hot",
+        "role": "中心成分",
+        "zh": "热的"
+      },
+      {
+        "id": "ud-2",
+        "text": "or cold",
+        "role": "并列成分",
+        "zh": "或者；感冒",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "or",
+            "role": "并列连词",
+            "zh": "或者"
+          },
+          {
+            "id": "ud-4",
+            "text": "cold",
+            "role": "中心成分",
+            "zh": "感冒"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "hot",
+        "phonetic": "hɑːt",
+        "pos": "ADJ",
+        "zh": "热的",
+        "componentZh": "热的",
+        "componentRole": "中心成分"
+      },
+      "1": {
+        "text": "or",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "zh": "或者",
+        "componentZh": "或者",
+        "componentRole": "并列连词",
+        "parentComponentText": "or cold",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；感冒"
+      },
+      "2": {
+        "text": "cold",
+        "phonetic": "koʊld",
+        "pos": "NOUN",
+        "zh": "感冒",
+        "componentZh": "感冒",
+        "componentRole": "中心成分",
+        "parentComponentText": "or cold",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；感冒"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-gtomv9sdbkv0zan7l715q1tu",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-gtomv9sdbkv0zan7l715q1tu",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他不冷",
+    "audioText": "He's not cold",
+    "fullEnglish": "He's not cold",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 2,
+        "text": "cold",
+        "answer": "cold",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "感冒",
+        "phonetic": "koʊld",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "He's",
+      "cold",
+      "not"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-2",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-3",
+        "text": "cold",
+        "role": "表语",
+        "zh": "感冒"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentZh": "他是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentZh": "不",
+        "componentRole": "方式/程度状语"
+      },
+      "2": {
+        "text": "cold",
+        "phonetic": "koʊld",
+        "pos": "NOUN",
+        "zh": "感冒",
+        "componentZh": "感冒",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-n2tr99li7yva154inp8liyur",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-n2tr99li7yva154inp8liyur",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他很热",
+    "audioText": "He's hot",
+    "fullEnglish": "He's hot",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "hot",
+        "answer": "hot",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "热的",
+        "phonetic": "hɑːt",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "hot",
+      "He's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-2",
+        "text": "hot",
+        "role": "表语",
+        "zh": "热的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentZh": "他是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "hot",
+        "phonetic": "hɑːt",
+        "pos": "ADJ",
+        "zh": "热的",
+        "componentZh": "热的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-xi0uiqnb66xppho9bg39dz74",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-xi0uiqnb66xppho9bg39dz74",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "空姐",
+    "audioText": "air hostess",
+    "fullEnglish": "air hostess",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "air",
+        "answer": "air",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "通风",
+        "phonetic": "ɛr",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "hostess",
+        "answer": "hostess",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "女乘务员",
+        "phonetic": "ˈhoʊstəs",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "hostess",
+      "air"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "air",
+        "role": "补充成分",
+        "zh": "通风"
+      },
+      {
+        "id": "ud-2",
+        "text": "hostess",
+        "role": "中心成分",
+        "zh": "女乘务员"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "air",
+        "phonetic": "ɛr",
+        "pos": "VERB",
+        "zh": "通风",
+        "componentZh": "通风",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "hostess",
+        "phonetic": "ˈhoʊstəs",
+        "pos": "NOUN",
+        "zh": "女乘务员",
+        "componentZh": "女乘务员",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-v5nb3n8kqynfuelif1d53mlq",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-v5nb3n8kqynfuelif1d53mlq",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "年轻还是年长",
+    "audioText": "young or old",
+    "fullEnglish": "young or old",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "young",
+        "answer": "young",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "年轻的",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": "or",
+        "answer": "or",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "或者",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "componentId": "ud-3",
+        "role": "并列连词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "or old",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；旧的"
+      },
+      {
+        "index": 2,
+        "text": "old",
+        "answer": "old",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "旧的",
+        "phonetic": "oʊld",
+        "pos": "ADJ",
+        "componentId": "ud-4",
+        "role": "中心成分",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "or old",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；旧的"
+      }
+    ],
+    "shuffledBlocks": [
+      "old",
+      "young",
+      "or"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "young",
+        "role": "中心成分",
+        "zh": "年轻的"
+      },
+      {
+        "id": "ud-2",
+        "text": "or old",
+        "role": "并列成分",
+        "zh": "或者；旧的",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "or",
+            "role": "并列连词",
+            "zh": "或者"
+          },
+          {
+            "id": "ud-4",
+            "text": "old",
+            "role": "中心成分",
+            "zh": "旧的"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "young",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ",
+        "zh": "年轻的",
+        "componentZh": "年轻的",
+        "componentRole": "中心成分"
+      },
+      "1": {
+        "text": "or",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "zh": "或者",
+        "componentZh": "或者",
+        "componentRole": "并列连词",
+        "parentComponentText": "or old",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；旧的"
+      },
+      "2": {
+        "text": "old",
+        "phonetic": "oʊld",
+        "pos": "ADJ",
+        "zh": "旧的",
+        "componentZh": "旧的",
+        "componentRole": "中心成分",
+        "parentComponentText": "or old",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；旧的"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-w7p3lwliait1owlcofg0gogc",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-w7p3lwliait1owlcofg0gogc",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她不老",
+    "audioText": "She's not old",
+    "fullEnglish": "She's not old",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 2,
+        "text": "old",
+        "answer": "old",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "旧的",
+        "phonetic": "oʊld",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "old",
+      "She's",
+      "not"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-2",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-3",
+        "text": "old",
+        "role": "表语",
+        "zh": "旧的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentZh": "她是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentZh": "不",
+        "componentRole": "方式/程度状语"
+      },
+      "2": {
+        "text": "old",
+        "phonetic": "oʊld",
+        "pos": "ADJ",
+        "zh": "旧的",
+        "componentZh": "旧的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-vjvdrvqnzo1og299sc71d6wl",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-vjvdrvqnzo1og299sc71d6wl",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她很年轻",
+    "audioText": "She's young",
+    "fullEnglish": "She's young",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "young",
+        "answer": "young",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "年轻的",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "young",
+      "She's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-2",
+        "text": "young",
+        "role": "表语",
+        "zh": "年轻的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentZh": "她是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "young",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ",
+        "zh": "年轻的",
+        "componentZh": "年轻的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-sankw9o2oqzwboldwljdoaoj",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-sankw9o2oqzwboldwljdoaoj",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那个女人",
+    "audioText": "that woman",
+    "fullEnglish": "that woman",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "woman",
+        "answer": "woman",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "女人",
+        "phonetic": "ˈwʊmən",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "woman",
+      "that"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "that",
+        "role": "补充成分",
+        "zh": "那个"
+      },
+      {
+        "id": "ud-2",
+        "text": "woman",
+        "role": "中心成分",
+        "zh": "女人"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentZh": "那个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "woman",
+        "phonetic": "ˈwʊmən",
+        "pos": "NOUN",
+        "zh": "女人",
+        "componentZh": "女人",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-etwpk746ecgjph0gjj10xgys",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-etwpk746ecgjph0gjj10xgys",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她不胖",
+    "audioText": "She's not fat",
+    "fullEnglish": "She's not fat",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 2,
+        "text": "fat",
+        "answer": "fat",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "胖的",
+        "phonetic": "fæt",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "She's",
+      "not",
+      "fat"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-2",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-3",
+        "text": "fat",
+        "role": "表语",
+        "zh": "胖的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentZh": "她是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentZh": "不",
+        "componentRole": "方式/程度状语"
+      },
+      "2": {
+        "text": "fat",
+        "phonetic": "fæt",
+        "pos": "ADJ",
+        "zh": "胖的",
+        "componentZh": "胖的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-bvlxp78r2gm6yjt8wrxeudsj",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-bvlxp78r2gm6yjt8wrxeudsj",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她很瘦",
+    "audioText": "She's thin",
+    "fullEnglish": "She's thin",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "thin",
+        "answer": "thin",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "瘦的",
+        "phonetic": "θɪn",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "thin",
+      "She's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-2",
+        "text": "thin",
+        "role": "表语",
+        "zh": "瘦的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentZh": "她是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "thin",
+        "phonetic": "θɪn",
+        "pos": "ADJ",
+        "zh": "瘦的",
+        "componentZh": "瘦的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-u5xnfa4f6ojaz5tjpcto0sd8",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-u5xnfa4f6ojaz5tjpcto0sd8",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她不热情",
+    "audioText": "She's not hot",
+    "fullEnglish": "She's not hot",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 2,
+        "text": "hot",
+        "answer": "hot",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "热的",
+        "phonetic": "hɑːt",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "not",
+      "She's",
+      "hot"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-2",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-3",
+        "text": "hot",
+        "role": "表语",
+        "zh": "热的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentZh": "她是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentZh": "不",
+        "componentRole": "方式/程度状语"
+      },
+      "2": {
+        "text": "hot",
+        "phonetic": "hɑːt",
+        "pos": "ADJ",
+        "zh": "热的",
+        "componentZh": "热的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-n5agwan0gz2jxncz7jrlfc5v",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-n5agwan0gz2jxncz7jrlfc5v",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她很冷漠",
+    "audioText": "She's cold",
+    "fullEnglish": "She's cold",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "cold",
+        "answer": "cold",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "感冒",
+        "phonetic": "koʊld",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "cold",
+      "She's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-2",
+        "text": "cold",
+        "role": "表语",
+        "zh": "感冒"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentZh": "她是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "cold",
+        "phonetic": "koʊld",
+        "pos": "NOUN",
+        "zh": "感冒",
+        "componentZh": "感冒",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-dzhg7ebnmorgqfad79jbgc0s",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-dzhg7ebnmorgqfad79jbgc0s",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "矮还是高",
+    "audioText": "short or tall",
+    "fullEnglish": "short or tall",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "short",
+        "answer": "short",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "矮",
+        "phonetic": "ʃɔːrt",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": "or",
+        "answer": "or",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "或者",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "componentId": "ud-3",
+        "role": "并列连词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "or tall",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；高"
+      },
+      {
+        "index": 2,
+        "text": "tall",
+        "answer": "tall",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "高",
+        "phonetic": "tɔːl",
+        "pos": "ADJ",
+        "componentId": "ud-4",
+        "role": "中心成分",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "or tall",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；高"
+      }
+    ],
+    "shuffledBlocks": [
+      "or",
+      "short",
+      "tall"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "short",
+        "role": "中心成分",
+        "zh": "矮"
+      },
+      {
+        "id": "ud-2",
+        "text": "or tall",
+        "role": "并列成分",
+        "zh": "或者；高",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "or",
+            "role": "并列连词",
+            "zh": "或者"
+          },
+          {
+            "id": "ud-4",
+            "text": "tall",
+            "role": "中心成分",
+            "zh": "高"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "short",
+        "phonetic": "ʃɔːrt",
+        "pos": "ADJ",
+        "zh": "矮",
+        "componentZh": "矮",
+        "componentRole": "中心成分"
+      },
+      "1": {
+        "text": "or",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "zh": "或者",
+        "componentZh": "或者",
+        "componentRole": "并列连词",
+        "parentComponentText": "or tall",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；高"
+      },
+      "2": {
+        "text": "tall",
+        "phonetic": "tɔːl",
+        "pos": "ADJ",
+        "zh": "高",
+        "componentZh": "高",
+        "componentRole": "中心成分",
+        "parentComponentText": "or tall",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；高"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-oh42378q0x21zltxx3wj23v1",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-oh42378q0x21zltxx3wj23v1",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她不高",
+    "audioText": "She's not tall",
+    "fullEnglish": "She's not tall",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 2,
+        "text": "tall",
+        "answer": "tall",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "高",
+        "phonetic": "tɔːl",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "tall",
+      "She's",
+      "not"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-2",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-3",
+        "text": "tall",
+        "role": "表语",
+        "zh": "高"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentZh": "她是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentZh": "不",
+        "componentRole": "方式/程度状语"
+      },
+      "2": {
+        "text": "tall",
+        "phonetic": "tɔːl",
+        "pos": "ADJ",
+        "zh": "高",
+        "componentZh": "高",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-iy3eqqw3wfu1l7wn5eu8mj51",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-iy3eqqw3wfu1l7wn5eu8mj51",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她很矮",
+    "audioText": "She's short",
+    "fullEnglish": "She's short",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "short",
+        "answer": "short",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "矮",
+        "phonetic": "ʃɔːrt",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "She's",
+      "short"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-2",
+        "text": "short",
+        "role": "表语",
+        "zh": "矮"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentZh": "她是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "short",
+        "phonetic": "ʃɔːrt",
+        "pos": "ADJ",
+        "zh": "矮",
+        "componentZh": "矮",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-qx9dgznjk88aasgv78nr34my",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-qx9dgznjk88aasgv78nr34my",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "年老还是年轻",
+    "audioText": "old or young",
+    "fullEnglish": "old or young",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "old",
+        "answer": "old",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "旧的",
+        "phonetic": "oʊld",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": "or",
+        "answer": "or",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "或者",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "componentId": "ud-3",
+        "role": "并列连词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "or young",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；年轻的"
+      },
+      {
+        "index": 2,
+        "text": "young",
+        "answer": "young",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "年轻的",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ",
+        "componentId": "ud-4",
+        "role": "中心成分",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "or young",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；年轻的"
+      }
+    ],
+    "shuffledBlocks": [
+      "old",
+      "or",
+      "young"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "old",
+        "role": "中心成分",
+        "zh": "旧的"
+      },
+      {
+        "id": "ud-2",
+        "text": "or young",
+        "role": "并列成分",
+        "zh": "或者；年轻的",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "or",
+            "role": "并列连词",
+            "zh": "或者"
+          },
+          {
+            "id": "ud-4",
+            "text": "young",
+            "role": "中心成分",
+            "zh": "年轻的"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "old",
+        "phonetic": "oʊld",
+        "pos": "ADJ",
+        "zh": "旧的",
+        "componentZh": "旧的",
+        "componentRole": "中心成分"
+      },
+      "1": {
+        "text": "or",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "zh": "或者",
+        "componentZh": "或者",
+        "componentRole": "并列连词",
+        "parentComponentText": "or young",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；年轻的"
+      },
+      "2": {
+        "text": "young",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ",
+        "zh": "年轻的",
+        "componentZh": "年轻的",
+        "componentRole": "中心成分",
+        "parentComponentText": "or young",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；年轻的"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-xznxg8qun9m5w6uxhofobqr0",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-xznxg8qun9m5w6uxhofobqr0",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他不年轻",
+    "audioText": "He's not young",
+    "fullEnglish": "He's not young",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 2,
+        "text": "young",
+        "answer": "young",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "年轻的",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "not",
+      "He's",
+      "young"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-2",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-3",
+        "text": "young",
+        "role": "表语",
+        "zh": "年轻的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentZh": "他是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentZh": "不",
+        "componentRole": "方式/程度状语"
+      },
+      "2": {
+        "text": "young",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ",
+        "zh": "年轻的",
+        "componentZh": "年轻的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-qhgmsyorcy1exyglfluiu04y",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-qhgmsyorcy1exyglfluiu04y",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他老了",
+    "audioText": "He's old",
+    "fullEnglish": "He's old",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "old",
+        "answer": "old",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "旧的",
+        "phonetic": "oʊld",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "old",
+      "He's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-2",
+        "text": "old",
+        "role": "表语",
+        "zh": "旧的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentZh": "他是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "old",
+        "phonetic": "oʊld",
+        "pos": "ADJ",
+        "zh": "旧的",
+        "componentZh": "旧的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-wfnkfrqsomtjcqwshlujgrlb",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-wfnkfrqsomtjcqwshlujgrlb",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "高还是矮",
+    "audioText": "tall or short",
+    "fullEnglish": "tall or short",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "tall",
+        "answer": "tall",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "高",
+        "phonetic": "tɔːl",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": "or",
+        "answer": "or",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "或者",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "componentId": "ud-3",
+        "role": "并列连词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "or short",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；矮"
+      },
+      {
+        "index": 2,
+        "text": "short",
+        "answer": "short",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "矮",
+        "phonetic": "ʃɔːrt",
+        "pos": "ADJ",
+        "componentId": "ud-4",
+        "role": "中心成分",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "or short",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；矮"
+      }
+    ],
+    "shuffledBlocks": [
+      "tall",
+      "short",
+      "or"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "tall",
+        "role": "中心成分",
+        "zh": "高"
+      },
+      {
+        "id": "ud-2",
+        "text": "or short",
+        "role": "并列成分",
+        "zh": "或者；矮",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "or",
+            "role": "并列连词",
+            "zh": "或者"
+          },
+          {
+            "id": "ud-4",
+            "text": "short",
+            "role": "中心成分",
+            "zh": "矮"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "tall",
+        "phonetic": "tɔːl",
+        "pos": "ADJ",
+        "zh": "高",
+        "componentZh": "高",
+        "componentRole": "中心成分"
+      },
+      "1": {
+        "text": "or",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "zh": "或者",
+        "componentZh": "或者",
+        "componentRole": "并列连词",
+        "parentComponentText": "or short",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；矮"
+      },
+      "2": {
+        "text": "short",
+        "phonetic": "ʃɔːrt",
+        "pos": "ADJ",
+        "zh": "矮",
+        "componentZh": "矮",
+        "componentRole": "中心成分",
+        "parentComponentText": "or short",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "或者；矮"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-hhbsdnumz7ahdl9bhnkmljoj",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-hhbsdnumz7ahdl9bhnkmljoj",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他个子不矮",
+    "audioText": "He's not short",
+    "fullEnglish": "He's not short",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 2,
+        "text": "short",
+        "answer": "short",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "矮",
+        "phonetic": "ʃɔːrt",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "not",
+      "short",
+      "He's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-2",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-3",
+        "text": "short",
+        "role": "表语",
+        "zh": "矮"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentZh": "他是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentZh": "不",
+        "componentRole": "方式/程度状语"
+      },
+      "2": {
+        "text": "short",
+        "phonetic": "ʃɔːrt",
+        "pos": "ADJ",
+        "zh": "矮",
+        "componentZh": "矮",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-c1u5t7tww8848f8k38vhutlw",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-c1u5t7tww8848f8k38vhutlw",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他很高",
+    "audioText": "He's tall",
+    "fullEnglish": "He's tall",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "tall",
+        "answer": "tall",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "高",
+        "phonetic": "tɔːl",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "He's",
+      "tall"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-2",
+        "text": "tall",
+        "role": "表语",
+        "zh": "高"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentZh": "他是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "tall",
+        "phonetic": "tɔːl",
+        "pos": "ADJ",
+        "zh": "高",
+        "componentZh": "高",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-zoz0d7qpghxl4nl4cvcnqkix",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-zoz0d7qpghxl4nl4cvcnqkix",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那个护士",
+    "audioText": "that nurse",
+    "fullEnglish": "that nurse",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "nurse",
+        "answer": "nurse",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "护士",
+        "phonetic": "nɜːrs",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "that",
+      "nurse"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "that",
+        "role": "补充成分",
+        "zh": "那个"
+      },
+      {
+        "id": "ud-2",
+        "text": "nurse",
+        "role": "中心成分",
+        "zh": "护士"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentZh": "那个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "nurse",
+        "phonetic": "nɜːrs",
+        "pos": "NOUN",
+        "zh": "护士",
+        "componentZh": "护士",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-cn1mz9yilsudldjeybs8ewth",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-cn1mz9yilsudldjeybs8ewth",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她不脏",
+    "audioText": "She's not dirty",
+    "fullEnglish": "She's not dirty",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "not",
+        "answer": "not",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 2,
+        "text": "dirty",
+        "answer": "dirty",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "脏的",
+        "phonetic": "ˈdɜːrti",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "dirty",
+      "She's",
+      "not"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-2",
+        "text": "not",
+        "role": "方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-3",
+        "text": "dirty",
+        "role": "表语",
+        "zh": "脏的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentZh": "她是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "not",
+        "phonetic": "nɑːt",
+        "pos": "PART",
+        "zh": "不",
+        "componentZh": "不",
+        "componentRole": "方式/程度状语"
+      },
+      "2": {
+        "text": "dirty",
+        "phonetic": "ˈdɜːrti",
+        "pos": "ADJ",
+        "zh": "脏的",
+        "componentZh": "脏的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-lyekuv1vkxf85frccdryy68p",
+    "contentId": "JLB-e6bd29763vqcil6jz0ah63ci-PHRASE-lyekuv1vkxf85frccdryy68p",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "e6bd29763vqcil6jz0ah63ci",
+    "unitTitle": "lesson 10",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她很干净",
+    "audioText": "She's clean",
+    "fullEnglish": "She's clean",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "clean",
+        "answer": "clean",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "清洁",
+        "phonetic": "kliːn",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "She's",
+      "clean"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-2",
+        "text": "clean",
+        "role": "表语",
+        "zh": "清洁"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentZh": "她是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "clean",
+        "phonetic": "kliːn",
+        "pos": "VERB",
+        "zh": "清洁",
+        "componentZh": "清洁",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

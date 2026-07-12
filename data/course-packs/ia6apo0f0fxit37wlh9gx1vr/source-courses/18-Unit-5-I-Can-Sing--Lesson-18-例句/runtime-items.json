@@ -1,0 +1,1806 @@
+[
+  {
+    "id": "JLB-sg42qqqhmoe44c9dwqxk8oea-S-e7zeayxhha6ndwd36dai7pyc",
+    "contentId": "JLB-sg42qqqhmoe44c9dwqxk8oea-S-e7zeayxhha6ndwd36dai7pyc",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "sg42qqqhmoe44c9dwqxk8oea",
+    "unitTitle": "Unit 5 I Can Sing--Lesson 18【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你会打乒乓球吗？",
+    "audioText": "Can you play ping-pong?",
+    "fullEnglish": "Can you play ping-pong?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Can",
+        "answer": "Can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "打",
+        "phonetic": "pleɪ",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "ping",
+        "answer": "ping",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "定语（名词修饰）",
+        "zh": "你会打乒乓球吗？",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "ping pong",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你会打乒乓球吗？"
+      },
+      {
+        "index": 4,
+        "text": "-",
+        "answer": "-",
+        "blank": "-",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "symbol",
+        "zh": "你会打乒乓球吗？"
+      },
+      {
+        "index": 5,
+        "text": "pong",
+        "answer": "pong",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "你会打乒乓球吗？",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "ping pong",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你会打乒乓球吗？"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你会打乒乓球吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "play",
+      "you",
+      "Can",
+      "pong",
+      "ping"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "play",
+        "role": "谓语",
+        "zh": "打"
+      },
+      {
+        "id": "ud-4",
+        "text": "ping pong",
+        "role": "宾语",
+        "zh": "你会打乒乓球吗？",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "ping",
+            "role": "定语（名词修饰）",
+            "zh": "你会打乒乓球吗？"
+          },
+          {
+            "id": "ud-6",
+            "text": "pong",
+            "role": "中心词",
+            "zh": "你会打乒乓球吗？"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentRole": "助动词",
+        "componentZh": "能"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "2": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "打",
+        "componentRole": "谓语",
+        "componentZh": "打"
+      },
+      "3": {
+        "text": "ping",
+        "zh": "你会打乒乓球吗？",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "你会打乒乓球吗？",
+        "parentComponentText": "ping pong",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你会打乒乓球吗？"
+      },
+      "5": {
+        "text": "pong",
+        "zh": "你会打乒乓球吗？",
+        "componentRole": "中心词",
+        "componentZh": "你会打乒乓球吗？",
+        "parentComponentText": "ping pong",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你会打乒乓球吗？"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-e7zeayxhha6ndwd36dai7pyc-1",
+    "contentId": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-e7zeayxhha6ndwd36dai7pyc-1",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "sg42qqqhmoe44c9dwqxk8oea",
+    "unitTitle": "Unit 5 I Can Sing--Lesson 18【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "能",
+    "audioText": "Can",
+    "fullEnglish": "Can",
+    "phonetic": "kæn",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Can",
+        "answer": "Can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "Can"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能"
+      }
+    }
+  },
+  {
+    "id": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-e7zeayxhha6ndwd36dai7pyc-2",
+    "contentId": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-e7zeayxhha6ndwd36dai7pyc-2",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "sg42qqqhmoe44c9dwqxk8oea",
+    "unitTitle": "Unit 5 I Can Sing--Lesson 18【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-e7zeayxhha6ndwd36dai7pyc-3",
+    "contentId": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-e7zeayxhha6ndwd36dai7pyc-3",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "sg42qqqhmoe44c9dwqxk8oea",
+    "unitTitle": "Unit 5 I Can Sing--Lesson 18【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "打",
+    "audioText": "play",
+    "fullEnglish": "play",
+    "phonetic": "pleɪ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "打",
+        "phonetic": "pleɪ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "play"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "打",
+        "componentZh": "打"
+      }
+    }
+  },
+  {
+    "id": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-e7zeayxhha6ndwd36dai7pyc-4",
+    "contentId": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-e7zeayxhha6ndwd36dai7pyc-4",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "sg42qqqhmoe44c9dwqxk8oea",
+    "unitTitle": "Unit 5 I Can Sing--Lesson 18【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "乒乓球",
+    "audioText": "ping-pong",
+    "fullEnglish": "ping-pong",
+    "phonetic": "ˈpɪŋ pɑːŋ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "ping-pong",
+        "answer": "ping-pong",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "乒乓球",
+        "phonetic": "ˈpɪŋ pɑːŋ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "ping-pong"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "ping-pong",
+        "phonetic": "ˈpɪŋ pɑːŋ",
+        "pos": "NOUN",
+        "zh": "乒乓球",
+        "componentZh": "乒乓球"
+      }
+    }
+  },
+  {
+    "id": "JLB-sg42qqqhmoe44c9dwqxk8oea-S-nc7h3d34n7vi2o8nwtsb7abd",
+    "contentId": "JLB-sg42qqqhmoe44c9dwqxk8oea-S-nc7h3d34n7vi2o8nwtsb7abd",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "sg42qqqhmoe44c9dwqxk8oea",
+    "unitTitle": "Unit 5 I Can Sing--Lesson 18【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的，我可以。",
+    "audioText": "Yes, I can",
+    "fullEnglish": "Yes, I can",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，我可以。"
+      },
+      {
+        "index": 2,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes",
+      "I",
+      "can"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yes",
+        "role": "语气/引导语",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "can",
+        "role": "谓语",
+        "zh": "能"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentRole": "语气/引导语",
+        "componentZh": "是的"
+      },
+      "2": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "3": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentRole": "谓语",
+        "componentZh": "能"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-nc7h3d34n7vi2o8nwtsb7abd-1",
+    "contentId": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-nc7h3d34n7vi2o8nwtsb7abd-1",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "sg42qqqhmoe44c9dwqxk8oea",
+    "unitTitle": "Unit 5 I Can Sing--Lesson 18【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的",
+    "audioText": "Yes",
+    "fullEnglish": "Yes",
+    "phonetic": "jes",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的"
+      }
+    }
+  },
+  {
+    "id": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-nc7h3d34n7vi2o8nwtsb7abd-2",
+    "contentId": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-nc7h3d34n7vi2o8nwtsb7abd-2",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "sg42qqqhmoe44c9dwqxk8oea",
+    "unitTitle": "Unit 5 I Can Sing--Lesson 18【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-sg42qqqhmoe44c9dwqxk8oea-S-a014qe4llg384d2v1kho8ryx",
+    "contentId": "JLB-sg42qqqhmoe44c9dwqxk8oea-S-a014qe4llg384d2v1kho8ryx",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "sg42qqqhmoe44c9dwqxk8oea",
+    "unitTitle": "Unit 5 I Can Sing--Lesson 18【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们来打乒乓球吧。",
+    "audioText": "Let's play ping-pong",
+    "fullEnglish": "Let's play ping-pong",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "宾语 + 谓语",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "打",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "play ping pong",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "打；我们来打乒乓球吧。"
+      },
+      {
+        "index": 2,
+        "text": "ping",
+        "answer": "ping",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "定语（名词修饰）",
+        "zh": "我们来打乒乓球吧。",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "ping pong",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我们来打乒乓球吧。"
+      },
+      {
+        "index": 3,
+        "text": "-",
+        "answer": "-",
+        "blank": "-",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "symbol",
+        "zh": "我们来打乒乓球吧。"
+      },
+      {
+        "index": 4,
+        "text": "pong",
+        "answer": "pong",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "我们来打乒乓球吧。",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "ping pong",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我们来打乒乓球吧。"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let's",
+      "ping",
+      "play",
+      "pong"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let's",
+        "role": "宾语 + 谓语",
+        "zh": "让我们"
+      },
+      {
+        "id": "ud-2",
+        "text": "play ping pong",
+        "role": "宾语补足语",
+        "zh": "打；我们来打乒乓球吧。",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "play",
+            "role": "谓语",
+            "zh": "打"
+          },
+          {
+            "id": "ud-4",
+            "text": "ping pong",
+            "role": "宾语",
+            "zh": "我们来打乒乓球吧。",
+            "children": [
+              {
+                "id": "ud-5",
+                "text": "ping",
+                "role": "定语（名词修饰）",
+                "zh": "我们来打乒乓球吧。"
+              },
+              {
+                "id": "ud-6",
+                "text": "pong",
+                "role": "中心词",
+                "zh": "我们来打乒乓球吧。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentRole": "宾语 + 谓语",
+        "componentZh": "让我们"
+      },
+      "1": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "打",
+        "componentRole": "谓语",
+        "componentZh": "打",
+        "parentComponentText": "play ping pong",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "打；我们来打乒乓球吧。"
+      },
+      "2": {
+        "text": "ping",
+        "zh": "我们来打乒乓球吧。",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "我们来打乒乓球吧。",
+        "parentComponentText": "ping pong",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我们来打乒乓球吧。"
+      },
+      "4": {
+        "text": "pong",
+        "zh": "我们来打乒乓球吧。",
+        "componentRole": "中心词",
+        "componentZh": "我们来打乒乓球吧。",
+        "parentComponentText": "ping pong",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我们来打乒乓球吧。"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-a014qe4llg384d2v1kho8ryx-1",
+    "contentId": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-a014qe4llg384d2v1kho8ryx-1",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "sg42qqqhmoe44c9dwqxk8oea",
+    "unitTitle": "Unit 5 I Can Sing--Lesson 18【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让我们",
+    "audioText": "Let's",
+    "fullEnglish": "Let's",
+    "phonetic": "lets",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentZh": "让我们"
+      }
+    }
+  },
+  {
+    "id": "JLB-sg42qqqhmoe44c9dwqxk8oea-S-gjiidtur9k93hqtj7anz6c2b",
+    "contentId": "JLB-sg42qqqhmoe44c9dwqxk8oea-S-gjiidtur9k93hqtj7anz6c2b",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "sg42qqqhmoe44c9dwqxk8oea",
+    "unitTitle": "Unit 5 I Can Sing--Lesson 18【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我会游泳。",
+    "audioText": "I can swim",
+    "fullEnglish": "I can swim",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "swim",
+        "answer": "swim",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "游泳",
+        "phonetic": "swɪm",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "can",
+      "swim",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-3",
+        "text": "swim",
+        "role": "谓语",
+        "zh": "游泳"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentRole": "助动词",
+        "componentZh": "能"
+      },
+      "2": {
+        "text": "swim",
+        "phonetic": "swɪm",
+        "pos": "VERB",
+        "zh": "游泳",
+        "componentRole": "谓语",
+        "componentZh": "游泳"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-gjiidtur9k93hqtj7anz6c2b-3",
+    "contentId": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-gjiidtur9k93hqtj7anz6c2b-3",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "sg42qqqhmoe44c9dwqxk8oea",
+    "unitTitle": "Unit 5 I Can Sing--Lesson 18【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "游泳",
+    "audioText": "swim",
+    "fullEnglish": "swim",
+    "phonetic": "swɪm",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "swim",
+        "answer": "swim",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "游泳",
+        "phonetic": "swɪm",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "swim"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "swim",
+        "phonetic": "swɪm",
+        "pos": "VERB",
+        "zh": "游泳",
+        "componentZh": "游泳"
+      }
+    }
+  },
+  {
+    "id": "JLB-sg42qqqhmoe44c9dwqxk8oea-S-kp6ep48forclkacu40ifkwr9",
+    "contentId": "JLB-sg42qqqhmoe44c9dwqxk8oea-S-kp6ep48forclkacu40ifkwr9",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "sg42qqqhmoe44c9dwqxk8oea",
+    "unitTitle": "Unit 5 I Can Sing--Lesson 18【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你会游泳吗？",
+    "audioText": "Can you swim?",
+    "fullEnglish": "Can you swim?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Can",
+        "answer": "Can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "swim",
+        "answer": "swim",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "游泳",
+        "phonetic": "swɪm",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你会游泳吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "Can",
+      "swim"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "swim",
+        "role": "谓语",
+        "zh": "游泳"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentRole": "助动词",
+        "componentZh": "能"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "2": {
+        "text": "swim",
+        "phonetic": "swɪm",
+        "pos": "VERB",
+        "zh": "游泳",
+        "componentRole": "谓语",
+        "componentZh": "游泳"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sg42qqqhmoe44c9dwqxk8oea-S-up62kv1q8d9go7oay7na959y",
+    "contentId": "JLB-sg42qqqhmoe44c9dwqxk8oea-S-up62kv1q8d9go7oay7na959y",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "sg42qqqhmoe44c9dwqxk8oea",
+    "unitTitle": "Unit 5 I Can Sing--Lesson 18【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不，我做不到。",
+    "audioText": "No, I can't",
+    "fullEnglish": "No, I can't",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "No",
+        "answer": "No",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "不，我做不到。"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "不，我做不到。"
+      },
+      {
+        "index": 2,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "can't",
+        "answer": "can't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "方式/程度状语 + 谓语",
+        "zh": "不，我做不到。"
+      }
+    ],
+    "shuffledBlocks": [
+      "No",
+      "I",
+      "can't"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "No",
+        "role": "语气/引导语",
+        "zh": "不，我做不到。"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "can't",
+        "role": "方式/程度状语 + 谓语",
+        "zh": "不，我做不到。"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "No",
+        "zh": "不，我做不到。",
+        "componentRole": "语气/引导语",
+        "componentZh": "不，我做不到。"
+      },
+      "2": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "3": {
+        "text": "can't",
+        "zh": "不，我做不到。",
+        "componentRole": "方式/程度状语 + 谓语",
+        "componentZh": "不，我做不到。"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sg42qqqhmoe44c9dwqxk8oea-S-r0p4v0bclyfxijmbz5h72u8d",
+    "contentId": "JLB-sg42qqqhmoe44c9dwqxk8oea-S-r0p4v0bclyfxijmbz5h72u8d",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "sg42qqqhmoe44c9dwqxk8oea",
+    "unitTitle": "Unit 5 I Can Sing--Lesson 18【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们出去玩吧。",
+    "audioText": "Let's go out and play",
+    "fullEnglish": "Let's go out and play",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "宾语 + 谓语",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "go out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "去；出去"
+      },
+      {
+        "index": 2,
+        "text": "out",
+        "answer": "out",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "定语（名词修饰）",
+        "zh": "出去",
+        "phonetic": "aʊt",
+        "pos": "ADV",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "go out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "去；出去"
+      },
+      {
+        "index": 3,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "and play",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；打"
+      },
+      {
+        "index": 4,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "谓语",
+        "zh": "打",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "and play",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；打"
+      }
+    ],
+    "shuffledBlocks": [
+      "out",
+      "go",
+      "Let's",
+      "and",
+      "play"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let's",
+        "role": "宾语 + 谓语",
+        "zh": "让我们"
+      },
+      {
+        "id": "ud-2",
+        "text": "go out and play",
+        "role": "宾语补足语",
+        "zh": "去；出去；和；打",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "go out",
+            "role": "谓语",
+            "zh": "去；出去",
+            "children": [
+              {
+                "id": "ud-4",
+                "text": "go",
+                "role": "中心词",
+                "zh": "去"
+              },
+              {
+                "id": "ud-5",
+                "text": "out",
+                "role": "定语（名词修饰）",
+                "zh": "出去"
+              }
+            ]
+          },
+          {
+            "id": "ud-6",
+            "text": "and play",
+            "role": "并列分句",
+            "zh": "和；打",
+            "children": [
+              {
+                "id": "ud-7",
+                "text": "and",
+                "role": "并列连词",
+                "zh": "和"
+              },
+              {
+                "id": "ud-8",
+                "text": "play",
+                "role": "谓语",
+                "zh": "打"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentRole": "宾语 + 谓语",
+        "componentZh": "让我们"
+      },
+      "1": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentRole": "中心词",
+        "componentZh": "去",
+        "parentComponentText": "go out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "去；出去"
+      },
+      "2": {
+        "text": "out",
+        "phonetic": "aʊt",
+        "pos": "ADV",
+        "zh": "出去",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "出去",
+        "parentComponentText": "go out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "去；出去"
+      },
+      "3": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和",
+        "parentComponentText": "and play",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；打"
+      },
+      "4": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "打",
+        "componentRole": "谓语",
+        "componentZh": "打",
+        "parentComponentText": "and play",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；打"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-r0p4v0bclyfxijmbz5h72u8d-2",
+    "contentId": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-r0p4v0bclyfxijmbz5h72u8d-2",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "sg42qqqhmoe44c9dwqxk8oea",
+    "unitTitle": "Unit 5 I Can Sing--Lesson 18【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "去",
+    "audioText": "go",
+    "fullEnglish": "go",
+    "phonetic": "ɡoʊ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "go"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去"
+      }
+    }
+  },
+  {
+    "id": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-r0p4v0bclyfxijmbz5h72u8d-3",
+    "contentId": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-r0p4v0bclyfxijmbz5h72u8d-3",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "sg42qqqhmoe44c9dwqxk8oea",
+    "unitTitle": "Unit 5 I Can Sing--Lesson 18【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "出去",
+    "audioText": "out",
+    "fullEnglish": "out",
+    "phonetic": "aʊt",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "out",
+        "answer": "out",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "出去",
+        "phonetic": "aʊt",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "out"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "out",
+        "phonetic": "aʊt",
+        "pos": "ADV",
+        "zh": "出去",
+        "componentZh": "出去"
+      }
+    }
+  },
+  {
+    "id": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-r0p4v0bclyfxijmbz5h72u8d-4",
+    "contentId": "JLB-sg42qqqhmoe44c9dwqxk8oea-W-r0p4v0bclyfxijmbz5h72u8d-4",
+    "type": "word",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "sg42qqqhmoe44c9dwqxk8oea",
+    "unitTitle": "Unit 5 I Can Sing--Lesson 18【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "和",
+    "audioText": "and",
+    "fullEnglish": "and",
+    "phonetic": "ænd; ənd",
+    "pos": "CCONJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "and"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和"
+      }
+    }
+  },
+  {
+    "id": "JLB-sg42qqqhmoe44c9dwqxk8oea-PHRASE-skqdksutldvuvvx4qhyfkaxa",
+    "contentId": "JLB-sg42qqqhmoe44c9dwqxk8oea-PHRASE-skqdksutldvuvvx4qhyfkaxa",
+    "type": "phrase",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "sg42qqqhmoe44c9dwqxk8oea",
+    "unitTitle": "Unit 5 I Can Sing--Lesson 18【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让我们",
+    "audioText": "Let's",
+    "fullEnglish": "Let's",
+    "phonetic": "lets",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "宾语 + 谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let's",
+        "role": "宾语 + 谓语",
+        "zh": "让我们"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentZh": "让我们",
+        "componentRole": "宾语 + 谓语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sg42qqqhmoe44c9dwqxk8oea-PHRASE-sazcuuoa2d2lzft04rmqy9p1",
+    "contentId": "JLB-sg42qqqhmoe44c9dwqxk8oea-PHRASE-sazcuuoa2d2lzft04rmqy9p1",
+    "type": "phrase",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "sg42qqqhmoe44c9dwqxk8oea",
+    "unitTitle": "Unit 5 I Can Sing--Lesson 18【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "会游泳",
+    "audioText": "can swim",
+    "fullEnglish": "can swim",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "swim",
+        "answer": "swim",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "游泳",
+        "phonetic": "swɪm",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "can",
+      "swim"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-2",
+        "text": "swim",
+        "role": "谓语",
+        "zh": "游泳"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "swim",
+        "phonetic": "swɪm",
+        "pos": "VERB",
+        "zh": "游泳",
+        "componentZh": "游泳",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-sg42qqqhmoe44c9dwqxk8oea-PHRASE-oh9ggk0xqo6gn269do9pw91b",
+    "contentId": "JLB-sg42qqqhmoe44c9dwqxk8oea-PHRASE-oh9ggk0xqo6gn269do9pw91b",
+    "type": "sentence",
+    "coursePackageId": "ia6apo0f0fxit37wlh9gx1vr",
+    "coursePackageName": "【北京版】一年级上册【课本同步】",
+    "grade": "在线课程",
+    "unitId": "sg42qqqhmoe44c9dwqxk8oea",
+    "unitTitle": "Unit 5 I Can Sing--Lesson 18【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "出去",
+    "audioText": "go out",
+    "fullEnglish": "go out",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "中心词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "go out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "去；出去"
+      },
+      {
+        "index": 1,
+        "text": "out",
+        "answer": "out",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "出去",
+        "phonetic": "aʊt",
+        "pos": "ADV",
+        "componentId": "ud-3",
+        "role": "定语（名词修饰）",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "go out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "去；出去"
+      }
+    ],
+    "shuffledBlocks": [
+      "go",
+      "out"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "go out",
+        "role": "谓语",
+        "zh": "去；出去",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "go",
+            "role": "中心词",
+            "zh": "去"
+          },
+          {
+            "id": "ud-3",
+            "text": "out",
+            "role": "定语（名词修饰）",
+            "zh": "出去"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去",
+        "componentRole": "中心词",
+        "parentComponentText": "go out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "去；出去"
+      },
+      "1": {
+        "text": "out",
+        "phonetic": "aʊt",
+        "pos": "ADV",
+        "zh": "出去",
+        "componentZh": "出去",
+        "componentRole": "定语（名词修饰）",
+        "parentComponentText": "go out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "去；出去"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

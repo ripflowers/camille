@@ -1,0 +1,1891 @@
+[
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-S-kuvz6g52i9j6yt6vwkws2h9k",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-S-kuvz6g52i9j6yt6vwkws2h9k",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我出生于5月23日。",
+    "audioText": "I was born on May 23rd",
+    "fullEnglish": "I was born on May 23rd",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语（动作承受者）",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "was",
+        "answer": "was",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "被动语态助动词",
+        "zh": "be（过去式）: 构成过去时",
+        "phonetic": "wʌz; wəz",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "born",
+        "answer": "born",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "出生",
+        "phonetic": "bɔːrn",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "介词",
+        "zh": "在",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "on May",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；可以"
+      },
+      {
+        "index": 4,
+        "text": "May",
+        "answer": "May",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "可以",
+        "phonetic": "meɪ",
+        "pos": "AUX",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "May",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "可以"
+      },
+      {
+        "index": 5,
+        "text": "23rd",
+        "answer": "23rd",
+        "blank": "23rd",
+        "letterCount": 2,
+        "fillable": false,
+        "type": "date",
+        "zh": "我出生于5月23日。"
+      }
+    ],
+    "shuffledBlocks": [
+      "born",
+      "on",
+      "was",
+      "I",
+      "May"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语（动作承受者）",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "was",
+        "role": "被动语态助动词",
+        "zh": "be（过去式）: 构成过去时"
+      },
+      {
+        "id": "ud-3",
+        "text": "born",
+        "role": "谓语",
+        "zh": "出生"
+      },
+      {
+        "id": "ud-4",
+        "text": "on May",
+        "role": "地点状语",
+        "zh": "在；可以",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "on",
+            "role": "介词",
+            "zh": "在"
+          },
+          {
+            "id": "ud-6",
+            "text": "May",
+            "role": "介词宾语",
+            "zh": "可以",
+            "children": [
+              {
+                "id": "ud-7",
+                "text": "May",
+                "role": "中心词",
+                "zh": "可以"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ud-8",
+        "text": "23rd",
+        "role": "状语",
+        "zh": "我出生于5月23日。"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语（动作承受者）",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "was",
+        "phonetic": "wʌz; wəz",
+        "pos": "AUX",
+        "zh": "be（过去式）: 构成过去时",
+        "componentRole": "被动语态助动词",
+        "componentZh": "be（过去式）: 构成过去时"
+      },
+      "2": {
+        "text": "born",
+        "phonetic": "bɔːrn",
+        "pos": "VERB",
+        "zh": "出生",
+        "componentRole": "谓语",
+        "componentZh": "出生"
+      },
+      "3": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在",
+        "componentRole": "介词",
+        "componentZh": "在",
+        "parentComponentText": "on May",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；可以"
+      },
+      "4": {
+        "text": "May",
+        "phonetic": "meɪ",
+        "pos": "AUX",
+        "zh": "可以",
+        "componentRole": "中心词",
+        "componentZh": "可以",
+        "parentComponentText": "May",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "可以"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-W-kuvz6g52i9j6yt6vwkws2h9k-1",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-W-kuvz6g52i9j6yt6vwkws2h9k-1",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-W-kuvz6g52i9j6yt6vwkws2h9k-2",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-W-kuvz6g52i9j6yt6vwkws2h9k-2",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "be（过去式）: 构成过去时",
+    "audioText": "was",
+    "fullEnglish": "was",
+    "phonetic": "wʌz; wəz",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "was",
+        "answer": "was",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "be（过去式）: 构成过去时",
+        "phonetic": "wʌz; wəz",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "was"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "was",
+        "phonetic": "wʌz; wəz",
+        "pos": "AUX",
+        "zh": "be（过去式）: 构成过去时",
+        "componentZh": "be（过去式）: 构成过去时"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-W-kuvz6g52i9j6yt6vwkws2h9k-3",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-W-kuvz6g52i9j6yt6vwkws2h9k-3",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "出生",
+    "audioText": "born",
+    "fullEnglish": "born",
+    "phonetic": "bɔːrn",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "born",
+        "answer": "born",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "出生",
+        "phonetic": "bɔːrn",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "born"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "born",
+        "phonetic": "bɔːrn",
+        "pos": "VERB",
+        "zh": "出生",
+        "componentZh": "出生"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-W-kuvz6g52i9j6yt6vwkws2h9k-4",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-W-kuvz6g52i9j6yt6vwkws2h9k-4",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在...上",
+    "audioText": "on",
+    "fullEnglish": "on",
+    "phonetic": "ɑːn",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在",
+        "phonetic": "ɑːn",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "on"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在",
+        "componentZh": "在"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-W-kuvz6g52i9j6yt6vwkws2h9k-5",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-W-kuvz6g52i9j6yt6vwkws2h9k-5",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "五月",
+    "audioText": "May",
+    "fullEnglish": "May",
+    "phonetic": "meɪ",
+    "pos": "PROPN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "May",
+        "answer": "May",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "可以",
+        "phonetic": "meɪ",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "May"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "May",
+        "phonetic": "meɪ",
+        "pos": "AUX",
+        "zh": "可以",
+        "componentZh": "可以"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-W-kuvz6g52i9j6yt6vwkws2h9k-6",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-W-kuvz6g52i9j6yt6vwkws2h9k-6",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "23日",
+    "audioText": "23rd",
+    "fullEnglish": "23rd",
+    "phonetic": "tuː θɜrd",
+    "pos": "NUM",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "23rd",
+        "answer": "23rd",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "23日",
+        "phonetic": "tuː θɜrd",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "23rd"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "23rd",
+        "phonetic": "tuː θɜrd",
+        "pos": "NUM",
+        "zh": "23日",
+        "componentZh": "23日"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-S-idh5dl2omtrxyrglkzrlrt2n",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-S-idh5dl2omtrxyrglkzrlrt2n",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "爸爸，您是什么时候出生的？",
+    "audioText": "When were you born, Dad?",
+    "fullEnglish": "When were you born, Dad?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "When",
+        "answer": "When",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "方式/程度状语",
+        "zh": "什么时候",
+        "phonetic": "wen",
+        "pos": "ADV"
+      },
+      {
+        "index": 1,
+        "text": "were",
+        "answer": "were",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "被动语态助动词",
+        "zh": "be（过去式）: 构成过去时",
+        "phonetic": "wɜːr; wər",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "主语（动作承受者）",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "born",
+        "answer": "born",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "出生",
+        "phonetic": "bɔːrn",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "爸爸，您是什么时候出生的？"
+      },
+      {
+        "index": 5,
+        "text": "Dad",
+        "answer": "Dad",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "呼语",
+        "zh": "爸爸",
+        "phonetic": "dæd",
+        "pos": "NOUN"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "爸爸，您是什么时候出生的？"
+      }
+    ],
+    "shuffledBlocks": [
+      "were",
+      "Dad",
+      "you",
+      "When",
+      "born"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "When",
+        "role": "方式/程度状语",
+        "zh": "什么时候"
+      },
+      {
+        "id": "ud-2",
+        "text": "were",
+        "role": "被动语态助动词",
+        "zh": "be（过去式）: 构成过去时"
+      },
+      {
+        "id": "ud-3",
+        "text": "you",
+        "role": "主语（动作承受者）",
+        "zh": "你"
+      },
+      {
+        "id": "ud-4",
+        "text": "born",
+        "role": "谓语",
+        "zh": "出生"
+      },
+      {
+        "id": "ud-5",
+        "text": "Dad",
+        "role": "呼语",
+        "zh": "爸爸"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "When",
+        "phonetic": "wen",
+        "pos": "ADV",
+        "zh": "什么时候",
+        "componentRole": "方式/程度状语",
+        "componentZh": "什么时候"
+      },
+      "1": {
+        "text": "were",
+        "phonetic": "wɜːr; wər",
+        "pos": "AUX",
+        "zh": "be（过去式）: 构成过去时",
+        "componentRole": "被动语态助动词",
+        "componentZh": "be（过去式）: 构成过去时"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语（动作承受者）",
+        "componentZh": "你"
+      },
+      "3": {
+        "text": "born",
+        "phonetic": "bɔːrn",
+        "pos": "VERB",
+        "zh": "出生",
+        "componentRole": "谓语",
+        "componentZh": "出生"
+      },
+      "5": {
+        "text": "Dad",
+        "phonetic": "dæd",
+        "pos": "NOUN",
+        "zh": "爸爸",
+        "componentRole": "呼语",
+        "componentZh": "爸爸"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-W-idh5dl2omtrxyrglkzrlrt2n-1",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-W-idh5dl2omtrxyrglkzrlrt2n-1",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么时候",
+    "audioText": "When",
+    "fullEnglish": "When",
+    "phonetic": "wen",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "When",
+        "answer": "When",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么时候",
+        "phonetic": "wen",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "When"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "When",
+        "phonetic": "wen",
+        "pos": "ADV",
+        "zh": "什么时候",
+        "componentZh": "什么时候"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-W-idh5dl2omtrxyrglkzrlrt2n-2",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-W-idh5dl2omtrxyrglkzrlrt2n-2",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "be（过去式）: 构成过去时",
+    "audioText": "were",
+    "fullEnglish": "were",
+    "phonetic": "wɜːr; wər",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "were",
+        "answer": "were",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "be（过去式）: 构成过去时",
+        "phonetic": "wɜːr; wər",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "were"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "were",
+        "phonetic": "wɜːr; wər",
+        "pos": "AUX",
+        "zh": "be（过去式）: 构成过去时",
+        "componentZh": "be（过去式）: 构成过去时"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-W-idh5dl2omtrxyrglkzrlrt2n-3",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-W-idh5dl2omtrxyrglkzrlrt2n-3",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-W-idh5dl2omtrxyrglkzrlrt2n-5",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-W-idh5dl2omtrxyrglkzrlrt2n-5",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Dad",
+    "audioText": "Dad",
+    "fullEnglish": "Dad",
+    "phonetic": "dæd",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Dad",
+        "answer": "Dad",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "爸爸",
+        "phonetic": "dæd",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Dad"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Dad",
+        "phonetic": "dæd",
+        "pos": "NOUN",
+        "zh": "爸爸",
+        "componentZh": "爸爸"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-S-brdcagwkw5g611h0xlnhs9ds",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-S-brdcagwkw5g611h0xlnhs9ds",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我会为你做一个蛋糕。",
+    "audioText": "I will make a cake for you",
+    "fullEnglish": "I will make a cake for you",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "will",
+        "answer": "will",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "将",
+        "phonetic": "wɪl",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "make",
+        "answer": "make",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "制作",
+        "phonetic": "meɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "a cake",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；蛋糕"
+      },
+      {
+        "index": 4,
+        "text": "cake",
+        "answer": "cake",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "蛋糕",
+        "phonetic": "keɪk",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "a cake",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；蛋糕"
+      },
+      {
+        "index": 5,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "介词",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "for you",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "为了；你"
+      },
+      {
+        "index": 6,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "中心词",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "you",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你"
+      }
+    ],
+    "shuffledBlocks": [
+      "will",
+      "a",
+      "cake",
+      "you",
+      "for",
+      "I",
+      "make"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "will",
+        "role": "助动词",
+        "zh": "将"
+      },
+      {
+        "id": "ud-3",
+        "text": "make",
+        "role": "谓语",
+        "zh": "制作"
+      },
+      {
+        "id": "ud-4",
+        "text": "a cake",
+        "role": "宾语",
+        "zh": "一个；蛋糕",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-6",
+            "text": "cake",
+            "role": "中心词",
+            "zh": "蛋糕"
+          }
+        ]
+      },
+      {
+        "id": "ud-7",
+        "text": "for you",
+        "role": "介词短语/状语",
+        "zh": "为了；你",
+        "children": [
+          {
+            "id": "ud-8",
+            "text": "for",
+            "role": "介词",
+            "zh": "为了"
+          },
+          {
+            "id": "ud-9",
+            "text": "you",
+            "role": "介词宾语",
+            "zh": "你",
+            "children": [
+              {
+                "id": "ud-10",
+                "text": "you",
+                "role": "中心词",
+                "zh": "你"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "will",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "zh": "将",
+        "componentRole": "助动词",
+        "componentZh": "将"
+      },
+      "2": {
+        "text": "make",
+        "phonetic": "meɪk",
+        "pos": "VERB",
+        "zh": "制作",
+        "componentRole": "谓语",
+        "componentZh": "制作"
+      },
+      "3": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "a cake",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；蛋糕"
+      },
+      "4": {
+        "text": "cake",
+        "phonetic": "keɪk",
+        "pos": "NOUN",
+        "zh": "蛋糕",
+        "componentRole": "中心词",
+        "componentZh": "蛋糕",
+        "parentComponentText": "a cake",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；蛋糕"
+      },
+      "5": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentRole": "介词",
+        "componentZh": "为了",
+        "parentComponentText": "for you",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "为了；你"
+      },
+      "6": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "中心词",
+        "componentZh": "你",
+        "parentComponentText": "you",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-W-brdcagwkw5g611h0xlnhs9ds-2",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-W-brdcagwkw5g611h0xlnhs9ds-2",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "将",
+    "audioText": "will",
+    "fullEnglish": "will",
+    "phonetic": "wɪl",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "will",
+        "answer": "will",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "将",
+        "phonetic": "wɪl",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "will"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "will",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "zh": "将",
+        "componentZh": "将"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-W-brdcagwkw5g611h0xlnhs9ds-3",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-W-brdcagwkw5g611h0xlnhs9ds-3",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "制作",
+    "audioText": "make",
+    "fullEnglish": "make",
+    "phonetic": "meɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "make",
+        "answer": "make",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "制作",
+        "phonetic": "meɪk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "make"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "make",
+        "phonetic": "meɪk",
+        "pos": "VERB",
+        "zh": "制作",
+        "componentZh": "制作"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-W-brdcagwkw5g611h0xlnhs9ds-4",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-W-brdcagwkw5g611h0xlnhs9ds-4",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个",
+    "audioText": "a",
+    "fullEnglish": "a",
+    "phonetic": "ə; eɪ",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "a"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-W-brdcagwkw5g611h0xlnhs9ds-5",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-W-brdcagwkw5g611h0xlnhs9ds-5",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "蛋糕",
+    "audioText": "cake",
+    "fullEnglish": "cake",
+    "phonetic": "keɪk",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "cake",
+        "answer": "cake",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "蛋糕",
+        "phonetic": "keɪk",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "cake"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "cake",
+        "phonetic": "keɪk",
+        "pos": "NOUN",
+        "zh": "蛋糕",
+        "componentZh": "蛋糕"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-W-brdcagwkw5g611h0xlnhs9ds-6",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-W-brdcagwkw5g611h0xlnhs9ds-6",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "为",
+    "audioText": "for",
+    "fullEnglish": "for",
+    "phonetic": "fɔːr; fər",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "for"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentZh": "为了"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-S-g2wsucouksec5ew1uupwn2p2",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-S-g2wsucouksec5ew1uupwn2p2",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "奶奶是什么时候出生的？",
+    "audioText": "When was Grandma born?",
+    "fullEnglish": "When was Grandma born?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "When",
+        "answer": "When",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "方式/程度状语",
+        "zh": "什么时候",
+        "phonetic": "wen",
+        "pos": "ADV"
+      },
+      {
+        "index": 1,
+        "text": "was",
+        "answer": "was",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "被动语态助动词",
+        "zh": "be（过去式）: 构成过去时",
+        "phonetic": "wʌz; wəz",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "Grandma",
+        "answer": "Grandma",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "主语（动作承受者）",
+        "zh": "Grandma",
+        "phonetic": "ˈɡrænmɑː",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 3,
+        "text": "born",
+        "answer": "born",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "出生",
+        "phonetic": "bɔːrn",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "奶奶是什么时候出生的？"
+      }
+    ],
+    "shuffledBlocks": [
+      "was",
+      "Grandma",
+      "born",
+      "When"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "When",
+        "role": "方式/程度状语",
+        "zh": "什么时候"
+      },
+      {
+        "id": "ud-2",
+        "text": "was",
+        "role": "被动语态助动词",
+        "zh": "be（过去式）: 构成过去时"
+      },
+      {
+        "id": "ud-3",
+        "text": "Grandma",
+        "role": "主语（动作承受者）",
+        "zh": "Grandma"
+      },
+      {
+        "id": "ud-4",
+        "text": "born",
+        "role": "谓语",
+        "zh": "出生"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "When",
+        "phonetic": "wen",
+        "pos": "ADV",
+        "zh": "什么时候",
+        "componentRole": "方式/程度状语",
+        "componentZh": "什么时候"
+      },
+      "1": {
+        "text": "was",
+        "phonetic": "wʌz; wəz",
+        "pos": "AUX",
+        "zh": "be（过去式）: 构成过去时",
+        "componentRole": "被动语态助动词",
+        "componentZh": "be（过去式）: 构成过去时"
+      },
+      "2": {
+        "text": "Grandma",
+        "phonetic": "ˈɡrænmɑː",
+        "pos": "PROPN_PERSON",
+        "zh": "Grandma",
+        "componentRole": "主语（动作承受者）",
+        "componentZh": "Grandma"
+      },
+      "3": {
+        "text": "born",
+        "phonetic": "bɔːrn",
+        "pos": "VERB",
+        "zh": "出生",
+        "componentRole": "谓语",
+        "componentZh": "出生"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-W-g2wsucouksec5ew1uupwn2p2-3",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-W-g2wsucouksec5ew1uupwn2p2-3",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Grandma",
+    "audioText": "Grandma",
+    "fullEnglish": "Grandma",
+    "phonetic": "ˈɡrænmɑː",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Grandma",
+        "answer": "Grandma",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "Grandma",
+        "phonetic": "ˈɡrænmɑː",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Grandma"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Grandma",
+        "phonetic": "ˈɡrænmɑː",
+        "pos": "PROPN_PERSON",
+        "zh": "Grandma",
+        "componentZh": "Grandma"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-S-ytina56nom03021a0x3261yc",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-S-ytina56nom03021a0x3261yc",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她出生于6月15日。",
+    "audioText": "She was born on June 15th",
+    "fullEnglish": "She was born on June 15th",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She",
+        "answer": "She",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语（动作承受者）",
+        "zh": "她",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "was",
+        "answer": "was",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "被动语态助动词",
+        "zh": "be（过去式）: 构成过去时",
+        "phonetic": "wʌz; wəz",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "born",
+        "answer": "born",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "出生",
+        "phonetic": "bɔːrn",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "介词",
+        "zh": "在",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "on June",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；六月"
+      },
+      {
+        "index": 4,
+        "text": "June",
+        "answer": "June",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "六月",
+        "phonetic": "dʒuːn",
+        "pos": "PROPN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "June",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "六月"
+      },
+      {
+        "index": 5,
+        "text": "15th",
+        "answer": "15th",
+        "blank": "15th",
+        "letterCount": 2,
+        "fillable": false,
+        "type": "date",
+        "zh": "她出生于6月15日。"
+      }
+    ],
+    "shuffledBlocks": [
+      "June",
+      "on",
+      "was",
+      "She",
+      "born"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She",
+        "role": "主语（动作承受者）",
+        "zh": "她"
+      },
+      {
+        "id": "ud-2",
+        "text": "was",
+        "role": "被动语态助动词",
+        "zh": "be（过去式）: 构成过去时"
+      },
+      {
+        "id": "ud-3",
+        "text": "born",
+        "role": "谓语",
+        "zh": "出生"
+      },
+      {
+        "id": "ud-4",
+        "text": "on June",
+        "role": "地点状语",
+        "zh": "在；六月",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "on",
+            "role": "介词",
+            "zh": "在"
+          },
+          {
+            "id": "ud-6",
+            "text": "June",
+            "role": "介词宾语",
+            "zh": "六月",
+            "children": [
+              {
+                "id": "ud-7",
+                "text": "June",
+                "role": "中心词",
+                "zh": "六月"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ud-8",
+        "text": "15th",
+        "role": "状语",
+        "zh": "她出生于6月15日。"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON",
+        "zh": "她",
+        "componentRole": "主语（动作承受者）",
+        "componentZh": "她"
+      },
+      "1": {
+        "text": "was",
+        "phonetic": "wʌz; wəz",
+        "pos": "AUX",
+        "zh": "be（过去式）: 构成过去时",
+        "componentRole": "被动语态助动词",
+        "componentZh": "be（过去式）: 构成过去时"
+      },
+      "2": {
+        "text": "born",
+        "phonetic": "bɔːrn",
+        "pos": "VERB",
+        "zh": "出生",
+        "componentRole": "谓语",
+        "componentZh": "出生"
+      },
+      "3": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在",
+        "componentRole": "介词",
+        "componentZh": "在",
+        "parentComponentText": "on June",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；六月"
+      },
+      "4": {
+        "text": "June",
+        "phonetic": "dʒuːn",
+        "pos": "PROPN",
+        "zh": "六月",
+        "componentRole": "中心词",
+        "componentZh": "六月",
+        "parentComponentText": "June",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "六月"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-W-ytina56nom03021a0x3261yc-1",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-W-ytina56nom03021a0x3261yc-1",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她",
+    "audioText": "She",
+    "fullEnglish": "She",
+    "phonetic": "ʃiː; ʃi",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She",
+        "answer": "She",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "她",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "She"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "She",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON",
+        "zh": "她",
+        "componentZh": "她"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-W-ytina56nom03021a0x3261yc-5",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-W-ytina56nom03021a0x3261yc-5",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "六月",
+    "audioText": "June",
+    "fullEnglish": "June",
+    "phonetic": "dʒuːn",
+    "pos": "PROPN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "June",
+        "answer": "June",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "六月",
+        "phonetic": "dʒuːn",
+        "pos": "PROPN"
+      }
+    ],
+    "shuffledBlocks": [
+      "June"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "June",
+        "phonetic": "dʒuːn",
+        "pos": "PROPN",
+        "zh": "六月",
+        "componentZh": "六月"
+      }
+    }
+  },
+  {
+    "id": "JLB-jvzxwwktlq5y31fd191dcabf-W-ytina56nom03021a0x3261yc-6",
+    "contentId": "JLB-jvzxwwktlq5y31fd191dcabf-W-ytina56nom03021a0x3261yc-6",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jvzxwwktlq5y31fd191dcabf",
+    "unitTitle": "Unit 3 I Was Born on May 23rd--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "第十五",
+    "audioText": "15th",
+    "fullEnglish": "15th",
+    "phonetic": "fɪfˈtiːnθ",
+    "pos": "NUM",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "15th",
+        "answer": "15th",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "第十五",
+        "phonetic": "fɪfˈtiːnθ",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "15th"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "15th",
+        "phonetic": "fɪfˈtiːnθ",
+        "pos": "ADJ",
+        "zh": "第十五",
+        "componentZh": "第十五"
+      }
+    }
+  }
+]

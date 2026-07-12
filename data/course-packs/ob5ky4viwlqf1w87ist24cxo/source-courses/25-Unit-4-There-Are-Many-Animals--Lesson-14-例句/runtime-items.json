@@ -1,0 +1,2833 @@
+[
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-S-femawynpiu78grefwmqod9gz",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-S-femawynpiu78grefwmqod9gz",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Yangyang，看这四只小猫咪。",
+    "audioText": "Yangyang, look at the four baby cats",
+    "fullEnglish": "Yangyang, look at the four baby cats",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yangyang",
+        "answer": "Yangyang",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Yangyang，看这四只小猫咪。"
+      },
+      {
+        "index": 2,
+        "text": "look",
+        "answer": "look",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "看",
+        "phonetic": "lʊk",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "at",
+        "answer": "at",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "介词",
+        "zh": "在",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "at the four baby cats",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；定冠词；四；幼崽；猫（复数）"
+      },
+      {
+        "index": 4,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "the four baby cats",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；四；幼崽；猫（复数）"
+      },
+      {
+        "index": 5,
+        "text": "four",
+        "answer": "four",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "数量词",
+        "zh": "四",
+        "phonetic": "fɔr",
+        "pos": "NUM",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "the four baby cats",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；四；幼崽；猫（复数）"
+      },
+      {
+        "index": 6,
+        "text": "baby",
+        "answer": "baby",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "定语（名词修饰）",
+        "zh": "幼崽",
+        "phonetic": "ˈbeɪbi",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "the four baby cats",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；四；幼崽；猫（复数）"
+      },
+      {
+        "index": 7,
+        "text": "cats",
+        "answer": "cats",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "中心词",
+        "zh": "猫（复数）",
+        "phonetic": "kæts",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "the four baby cats",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；四；幼崽；猫（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "at",
+      "baby",
+      "Yangyang",
+      "cats",
+      "look",
+      "the",
+      "four"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yangyang",
+        "role": "主语",
+        "zh": "Yangyang"
+      },
+      {
+        "id": "ud-2",
+        "text": "look",
+        "role": "谓语",
+        "zh": "看"
+      },
+      {
+        "id": "ud-3",
+        "text": "at the four baby cats",
+        "role": "地点状语",
+        "zh": "在；定冠词；四；幼崽；猫（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "at",
+            "role": "介词",
+            "zh": "在"
+          },
+          {
+            "id": "ud-5",
+            "text": "the four baby cats",
+            "role": "介词宾语",
+            "zh": "定冠词；四；幼崽；猫（复数）",
+            "children": [
+              {
+                "id": "ud-6",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-7",
+                "text": "four",
+                "role": "数量词",
+                "zh": "四"
+              },
+              {
+                "id": "ud-8",
+                "text": "baby",
+                "role": "定语（名词修饰）",
+                "zh": "幼崽"
+              },
+              {
+                "id": "ud-9",
+                "text": "cats",
+                "role": "中心词",
+                "zh": "猫（复数）"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON",
+        "zh": "Yangyang",
+        "componentRole": "主语",
+        "componentZh": "Yangyang"
+      },
+      "2": {
+        "text": "look",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "zh": "看",
+        "componentRole": "谓语",
+        "componentZh": "看"
+      },
+      "3": {
+        "text": "at",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "zh": "在",
+        "componentRole": "介词",
+        "componentZh": "在",
+        "parentComponentText": "at the four baby cats",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；定冠词；四；幼崽；猫（复数）"
+      },
+      "4": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the four baby cats",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；四；幼崽；猫（复数）"
+      },
+      "5": {
+        "text": "four",
+        "phonetic": "fɔr",
+        "pos": "NUM",
+        "zh": "四",
+        "componentRole": "数量词",
+        "componentZh": "四",
+        "parentComponentText": "the four baby cats",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；四；幼崽；猫（复数）"
+      },
+      "6": {
+        "text": "baby",
+        "phonetic": "ˈbeɪbi",
+        "pos": "NOUN",
+        "zh": "幼崽",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "幼崽",
+        "parentComponentText": "the four baby cats",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；四；幼崽；猫（复数）"
+      },
+      "7": {
+        "text": "cats",
+        "phonetic": "kæts",
+        "pos": "NOUN",
+        "zh": "猫（复数）",
+        "componentRole": "中心词",
+        "componentZh": "猫（复数）",
+        "parentComponentText": "the four baby cats",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；四；幼崽；猫（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-femawynpiu78grefwmqod9gz-1",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-femawynpiu78grefwmqod9gz-1",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Yangyang",
+    "audioText": "Yangyang",
+    "fullEnglish": "Yangyang",
+    "phonetic": "yangyang",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yangyang",
+        "answer": "Yangyang",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yangyang"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON",
+        "zh": "Yangyang",
+        "componentZh": "Yangyang"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-femawynpiu78grefwmqod9gz-2",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-femawynpiu78grefwmqod9gz-2",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "看",
+    "audioText": "look",
+    "fullEnglish": "look",
+    "phonetic": "lʊk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "look",
+        "answer": "look",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "看",
+        "phonetic": "lʊk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "look"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "look",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "zh": "看",
+        "componentZh": "看"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-femawynpiu78grefwmqod9gz-3",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-femawynpiu78grefwmqod9gz-3",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在",
+    "audioText": "at",
+    "fullEnglish": "at",
+    "phonetic": "æt; ət",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "at",
+        "answer": "at",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在",
+        "phonetic": "æt; ət",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "at"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "at",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "zh": "在",
+        "componentZh": "在"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-femawynpiu78grefwmqod9gz-4",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-femawynpiu78grefwmqod9gz-4",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "the",
+    "fullEnglish": "the",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "the"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-femawynpiu78grefwmqod9gz-5",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-femawynpiu78grefwmqod9gz-5",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "四",
+    "audioText": "four",
+    "fullEnglish": "four",
+    "phonetic": "fɔr",
+    "pos": "NUM",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "four",
+        "answer": "four",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "四",
+        "phonetic": "fɔr",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "four"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "four",
+        "phonetic": "fɔr",
+        "pos": "NUM",
+        "zh": "四",
+        "componentZh": "四"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-femawynpiu78grefwmqod9gz-6",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-femawynpiu78grefwmqod9gz-6",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "幼崽",
+    "audioText": "baby",
+    "fullEnglish": "baby",
+    "phonetic": "ˈbeɪbi",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "baby",
+        "answer": "baby",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "幼崽",
+        "phonetic": "ˈbeɪbi",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "baby"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "baby",
+        "phonetic": "ˈbeɪbi",
+        "pos": "NOUN",
+        "zh": "幼崽",
+        "componentZh": "幼崽"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-femawynpiu78grefwmqod9gz-7",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-femawynpiu78grefwmqod9gz-7",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "猫（复数）",
+    "audioText": "cats",
+    "fullEnglish": "cats",
+    "phonetic": "kæts",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "cats",
+        "answer": "cats",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "猫（复数）",
+        "phonetic": "kæts",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "cats"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "cats",
+        "phonetic": "kæts",
+        "pos": "NOUN",
+        "zh": "猫（复数）",
+        "componentZh": "猫（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-S-m3m3cnwomudyytiksbg0panz",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-S-m3m3cnwomudyytiksbg0panz",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哦，它们真瘦。",
+    "audioText": "Oh, they are thin",
+    "fullEnglish": "Oh, they are thin",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Oh",
+        "answer": "Oh",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "哦",
+        "phonetic": "oʊ",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哦，它们真瘦。"
+      },
+      {
+        "index": 2,
+        "text": "they",
+        "answer": "they",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "他们",
+        "phonetic": "ðeɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɑr",
+        "pos": "AUX"
+      },
+      {
+        "index": 4,
+        "text": "thin",
+        "answer": "thin",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "表语",
+        "zh": "瘦的",
+        "phonetic": "θɪn",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "they",
+      "thin",
+      "are",
+      "Oh"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Oh",
+        "role": "语气/引导语",
+        "zh": "哦"
+      },
+      {
+        "id": "ud-2",
+        "text": "they",
+        "role": "主语",
+        "zh": "他们"
+      },
+      {
+        "id": "ud-3",
+        "text": "are",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-4",
+        "text": "thin",
+        "role": "表语",
+        "zh": "瘦的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Oh",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "zh": "哦",
+        "componentRole": "语气/引导语",
+        "componentZh": "哦"
+      },
+      "2": {
+        "text": "they",
+        "phonetic": "ðeɪ",
+        "pos": "PRON",
+        "zh": "他们",
+        "componentRole": "主语",
+        "componentZh": "他们"
+      },
+      "3": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "4": {
+        "text": "thin",
+        "phonetic": "θɪn",
+        "pos": "ADJ",
+        "zh": "瘦的",
+        "componentRole": "表语",
+        "componentZh": "瘦的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-m3m3cnwomudyytiksbg0panz-1",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-m3m3cnwomudyytiksbg0panz-1",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哦",
+    "audioText": "Oh",
+    "fullEnglish": "Oh",
+    "phonetic": "oʊ",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Oh",
+        "answer": "Oh",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "哦",
+        "phonetic": "oʊ",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Oh"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Oh",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "zh": "哦",
+        "componentZh": "哦"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-m3m3cnwomudyytiksbg0panz-2",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-m3m3cnwomudyytiksbg0panz-2",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他们",
+    "audioText": "they",
+    "fullEnglish": "they",
+    "phonetic": "ðeɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "they",
+        "answer": "they",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "他们",
+        "phonetic": "ðeɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "they"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "they",
+        "phonetic": "ðeɪ",
+        "pos": "PRON",
+        "zh": "他们",
+        "componentZh": "他们"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-m3m3cnwomudyytiksbg0panz-3",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-m3m3cnwomudyytiksbg0panz-3",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "are",
+    "fullEnglish": "are",
+    "phonetic": "ɑr",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɑr",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "are"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-m3m3cnwomudyytiksbg0panz-4",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-m3m3cnwomudyytiksbg0panz-4",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "瘦的",
+    "audioText": "thin",
+    "fullEnglish": "thin",
+    "phonetic": "θɪn",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "thin",
+        "answer": "thin",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "瘦的",
+        "phonetic": "θɪn",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "thin"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "thin",
+        "phonetic": "θɪn",
+        "pos": "ADJ",
+        "zh": "瘦的",
+        "componentZh": "瘦的"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-S-mewe419kg014yy0vt4l4r1tx",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-S-mewe419kg014yy0vt4l4r1tx",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你喜欢猫吗？",
+    "audioText": "Do you like cats?",
+    "fullEnglish": "Do you like cats?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Do",
+        "answer": "Do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "助动词",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "cats",
+        "answer": "cats",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "宾语",
+        "zh": "猫（复数）",
+        "phonetic": "kæts",
+        "pos": "NOUN"
+      },
+      {
+        "index": 4,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你喜欢猫吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "Do",
+      "cats",
+      "like"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Do",
+        "role": "助动词",
+        "zh": "助动词"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-4",
+        "text": "cats",
+        "role": "宾语",
+        "zh": "猫（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "助动词",
+        "componentRole": "助动词",
+        "componentZh": "助动词"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "2": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "谓语",
+        "componentZh": "喜欢"
+      },
+      "3": {
+        "text": "cats",
+        "phonetic": "kæts",
+        "pos": "NOUN",
+        "zh": "猫（复数）",
+        "componentRole": "宾语",
+        "componentZh": "猫（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-mewe419kg014yy0vt4l4r1tx-1",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-mewe419kg014yy0vt4l4r1tx-1",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "构成疑问句",
+    "audioText": "Do",
+    "fullEnglish": "Do",
+    "phonetic": "duː; də",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Do",
+        "answer": "Do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "助动词",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "Do"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "助动词",
+        "componentZh": "助动词"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-mewe419kg014yy0vt4l4r1tx-2",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-mewe419kg014yy0vt4l4r1tx-2",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-mewe419kg014yy0vt4l4r1tx-3",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-mewe419kg014yy0vt4l4r1tx-3",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "喜欢",
+    "audioText": "like",
+    "fullEnglish": "like",
+    "phonetic": "laɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "like"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentZh": "喜欢"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-S-iwc7ixdg9vvxmzscj8oyoar5",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-S-iwc7ixdg9vvxmzscj8oyoar5",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的，我愿意。",
+    "audioText": "Yes, I do",
+    "fullEnglish": "Yes, I do",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，我愿意。"
+      },
+      {
+        "index": 2,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "助动词",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "do",
+      "Yes",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yes",
+        "role": "语气/引导语",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "do",
+        "role": "谓语",
+        "zh": "助动词"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentRole": "语气/引导语",
+        "componentZh": "是的"
+      },
+      "2": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "3": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "助动词",
+        "componentRole": "谓语",
+        "componentZh": "助动词"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-iwc7ixdg9vvxmzscj8oyoar5-1",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-iwc7ixdg9vvxmzscj8oyoar5-1",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的",
+    "audioText": "Yes",
+    "fullEnglish": "Yes",
+    "phonetic": "jes",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-iwc7ixdg9vvxmzscj8oyoar5-2",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-iwc7ixdg9vvxmzscj8oyoar5-2",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-S-ztp9ze1qazgqim6svhg0944l",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-S-ztp9ze1qazgqim6svhg0944l",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我也喜欢狗。",
+    "audioText": "I like dogs, too",
+    "fullEnglish": "I like dogs, too",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "dogs",
+        "answer": "dogs",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "宾语",
+        "zh": "狗（复数）",
+        "phonetic": "dɔːɡz",
+        "pos": "NOUN"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我也喜欢狗。"
+      },
+      {
+        "index": 4,
+        "text": "too",
+        "answer": "too",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "方式/程度状语",
+        "zh": "也",
+        "phonetic": "tuː",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "dogs",
+      "too",
+      "like",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-3",
+        "text": "dogs",
+        "role": "宾语",
+        "zh": "狗（复数）"
+      },
+      {
+        "id": "ud-4",
+        "text": "too",
+        "role": "方式/程度状语",
+        "zh": "也"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "谓语",
+        "componentZh": "喜欢"
+      },
+      "2": {
+        "text": "dogs",
+        "phonetic": "dɔːɡz",
+        "pos": "NOUN",
+        "zh": "狗（复数）",
+        "componentRole": "宾语",
+        "componentZh": "狗（复数）"
+      },
+      "4": {
+        "text": "too",
+        "phonetic": "tuː",
+        "pos": "ADV",
+        "zh": "也",
+        "componentRole": "方式/程度状语",
+        "componentZh": "也"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-ztp9ze1qazgqim6svhg0944l-3",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-ztp9ze1qazgqim6svhg0944l-3",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "狗（复数）",
+    "audioText": "dogs",
+    "fullEnglish": "dogs",
+    "phonetic": "dɔːɡz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "dogs",
+        "answer": "dogs",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "狗（复数）",
+        "phonetic": "dɔːɡz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "dogs"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "dogs",
+        "phonetic": "dɔːɡz",
+        "pos": "NOUN",
+        "zh": "狗（复数）",
+        "componentZh": "狗（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-ztp9ze1qazgqim6svhg0944l-4",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-ztp9ze1qazgqim6svhg0944l-4",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "也",
+    "audioText": "too",
+    "fullEnglish": "too",
+    "phonetic": "tuː",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "too",
+        "answer": "too",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "也",
+        "phonetic": "tuː",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "too"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "too",
+        "phonetic": "tuː",
+        "pos": "ADV",
+        "zh": "也",
+        "componentZh": "也"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-S-c7uhxmsi3g3jqdfc2yq8lg00",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-S-c7uhxmsi3g3jqdfc2yq8lg00",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你喜欢狗吗，Guoguo？",
+    "audioText": "Do you like dogs, Guoguo?",
+    "fullEnglish": "Do you like dogs, Guoguo?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Do",
+        "answer": "Do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "助动词",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "dogs",
+        "answer": "dogs",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "狗（复数）",
+        "phonetic": "dɔːɡz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "dogs Guoguo",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "狗（复数）；Guoguo"
+      },
+      {
+        "index": 4,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你喜欢狗吗，Guoguo？"
+      },
+      {
+        "index": 5,
+        "text": "Guoguo",
+        "answer": "Guoguo",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "修饰语",
+        "zh": "Guoguo",
+        "phonetic": "guoguo",
+        "pos": "PROPN_PERSON",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "dogs Guoguo",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "狗（复数）；Guoguo"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你喜欢狗吗，Guoguo？"
+      }
+    ],
+    "shuffledBlocks": [
+      "like",
+      "dogs",
+      "Guoguo",
+      "you",
+      "Do"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Do",
+        "role": "助动词",
+        "zh": "助动词"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-4",
+        "text": "dogs Guoguo",
+        "role": "宾语",
+        "zh": "狗（复数）；Guoguo",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "dogs",
+            "role": "中心词",
+            "zh": "狗（复数）"
+          },
+          {
+            "id": "ud-6",
+            "text": "Guoguo",
+            "role": "修饰语",
+            "zh": "Guoguo"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "助动词",
+        "componentRole": "助动词",
+        "componentZh": "助动词"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "2": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "谓语",
+        "componentZh": "喜欢"
+      },
+      "3": {
+        "text": "dogs",
+        "phonetic": "dɔːɡz",
+        "pos": "NOUN",
+        "zh": "狗（复数）",
+        "componentRole": "中心词",
+        "componentZh": "狗（复数）",
+        "parentComponentText": "dogs Guoguo",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "狗（复数）；Guoguo"
+      },
+      "5": {
+        "text": "Guoguo",
+        "phonetic": "guoguo",
+        "pos": "PROPN_PERSON",
+        "zh": "Guoguo",
+        "componentRole": "修饰语",
+        "componentZh": "Guoguo",
+        "parentComponentText": "dogs Guoguo",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "狗（复数）；Guoguo"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-c7uhxmsi3g3jqdfc2yq8lg00-5",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-c7uhxmsi3g3jqdfc2yq8lg00-5",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Guoguo",
+    "audioText": "Guoguo",
+    "fullEnglish": "Guoguo",
+    "phonetic": "guoguo",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Guoguo",
+        "answer": "Guoguo",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "Guoguo",
+        "phonetic": "guoguo",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Guoguo"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Guoguo",
+        "phonetic": "guoguo",
+        "pos": "PROPN_PERSON",
+        "zh": "Guoguo",
+        "componentZh": "Guoguo"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-S-cndo0qzpi1jau4vdwp7e15do",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-S-cndo0qzpi1jau4vdwp7e15do",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我也喜欢鸟。",
+    "audioText": "I like birds, too",
+    "fullEnglish": "I like birds, too",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "birds",
+        "answer": "birds",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "宾语",
+        "zh": "鸟（复数）",
+        "phonetic": "bɜːrdz",
+        "pos": "NOUN"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我也喜欢鸟。"
+      },
+      {
+        "index": 4,
+        "text": "too",
+        "answer": "too",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "方式/程度状语",
+        "zh": "也",
+        "phonetic": "tuː",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "like",
+      "birds",
+      "too"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-3",
+        "text": "birds",
+        "role": "宾语",
+        "zh": "鸟（复数）"
+      },
+      {
+        "id": "ud-4",
+        "text": "too",
+        "role": "方式/程度状语",
+        "zh": "也"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "谓语",
+        "componentZh": "喜欢"
+      },
+      "2": {
+        "text": "birds",
+        "phonetic": "bɜːrdz",
+        "pos": "NOUN",
+        "zh": "鸟（复数）",
+        "componentRole": "宾语",
+        "componentZh": "鸟（复数）"
+      },
+      "4": {
+        "text": "too",
+        "phonetic": "tuː",
+        "pos": "ADV",
+        "zh": "也",
+        "componentRole": "方式/程度状语",
+        "componentZh": "也"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-cndo0qzpi1jau4vdwp7e15do-3",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-cndo0qzpi1jau4vdwp7e15do-3",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "鸟（复数）",
+    "audioText": "birds",
+    "fullEnglish": "birds",
+    "phonetic": "bɜːrdz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "birds",
+        "answer": "birds",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "鸟（复数）",
+        "phonetic": "bɜːrdz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "birds"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "birds",
+        "phonetic": "bɜːrdz",
+        "pos": "NOUN",
+        "zh": "鸟（复数）",
+        "componentZh": "鸟（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-S-evygaw65ib4ase3j13vdsafz",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-S-evygaw65ib4ase3j13vdsafz",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我有两只鸟。",
+    "audioText": "I have two birds",
+    "fullEnglish": "I have two birds",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "two",
+        "answer": "two",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "数量词",
+        "zh": "两",
+        "phonetic": "tuː",
+        "pos": "NUM",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "two birds",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "两；鸟（复数）"
+      },
+      {
+        "index": 3,
+        "text": "birds",
+        "answer": "birds",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "鸟（复数）",
+        "phonetic": "bɜːrdz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "two birds",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "两；鸟（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "two",
+      "birds",
+      "I",
+      "have"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-3",
+        "text": "two birds",
+        "role": "宾语",
+        "zh": "两；鸟（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "two",
+            "role": "数量词",
+            "zh": "两"
+          },
+          {
+            "id": "ud-5",
+            "text": "birds",
+            "role": "中心词",
+            "zh": "鸟（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有"
+      },
+      "2": {
+        "text": "two",
+        "phonetic": "tuː",
+        "pos": "NUM",
+        "zh": "两",
+        "componentRole": "数量词",
+        "componentZh": "两",
+        "parentComponentText": "two birds",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "两；鸟（复数）"
+      },
+      "3": {
+        "text": "birds",
+        "phonetic": "bɜːrdz",
+        "pos": "NOUN",
+        "zh": "鸟（复数）",
+        "componentRole": "中心词",
+        "componentZh": "鸟（复数）",
+        "parentComponentText": "two birds",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "两；鸟（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-evygaw65ib4ase3j13vdsafz-2",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-evygaw65ib4ase3j13vdsafz-2",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "有",
+    "audioText": "have",
+    "fullEnglish": "have",
+    "phonetic": "hæv",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "have"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-W-evygaw65ib4ase3j13vdsafz-3",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-W-evygaw65ib4ase3j13vdsafz-3",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "两",
+    "audioText": "two",
+    "fullEnglish": "two",
+    "phonetic": "tuː",
+    "pos": "NUM",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "two",
+        "answer": "two",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "两",
+        "phonetic": "tuː",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "two"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "two",
+        "phonetic": "tuː",
+        "pos": "NUM",
+        "zh": "两",
+        "componentZh": "两"
+      }
+    }
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-PHRASE-k9711thh724cw0gnz8htmdzq",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-PHRASE-k9711thh724cw0gnz8htmdzq",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "看",
+    "audioText": "look at",
+    "fullEnglish": "look at",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "look",
+        "answer": "look",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "看",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "at",
+        "answer": "at",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "look",
+      "at"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "look",
+        "role": "谓语",
+        "zh": "看"
+      },
+      {
+        "id": "ud-2",
+        "text": "at",
+        "role": "方式/程度状语",
+        "zh": "在"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "look",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "zh": "看",
+        "componentZh": "看",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "at",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "zh": "在",
+        "componentZh": "在",
+        "componentRole": "方式/程度状语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-PHRASE-n8pksuufz51uusmmexy379qz",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-PHRASE-n8pksuufz51uusmmexy379qz",
+    "type": "phrase",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那四只小猫",
+    "audioText": "the four baby cats",
+    "fullEnglish": "the four baby cats",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "four",
+        "answer": "four",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "四",
+        "phonetic": "fɔr",
+        "pos": "NUM",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "baby",
+        "answer": "baby",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "幼崽",
+        "phonetic": "ˈbeɪbi",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "补充成分"
+      },
+      {
+        "index": 3,
+        "text": "cats",
+        "answer": "cats",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "猫（复数）",
+        "phonetic": "kæts",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "baby",
+      "four",
+      "cats"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "four",
+        "role": "补充成分",
+        "zh": "四"
+      },
+      {
+        "id": "ud-3",
+        "text": "baby",
+        "role": "补充成分",
+        "zh": "幼崽"
+      },
+      {
+        "id": "ud-4",
+        "text": "cats",
+        "role": "中心成分",
+        "zh": "猫（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "four",
+        "phonetic": "fɔr",
+        "pos": "NUM",
+        "zh": "四",
+        "componentZh": "四",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "baby",
+        "phonetic": "ˈbeɪbi",
+        "pos": "NOUN",
+        "zh": "幼崽",
+        "componentZh": "幼崽",
+        "componentRole": "补充成分"
+      },
+      "3": {
+        "text": "cats",
+        "phonetic": "kæts",
+        "pos": "NOUN",
+        "zh": "猫（复数）",
+        "componentZh": "猫（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-PHRASE-znva1eappdjph9e3p4miysdt",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-PHRASE-znva1eappdjph9e3p4miysdt",
+    "type": "phrase",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我确实",
+    "audioText": "I do",
+    "fullEnglish": "I do",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "助动词",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "do"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "do",
+        "role": "谓语",
+        "zh": "助动词"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "助动词",
+        "componentZh": "助动词",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-PHRASE-zl9bupv68ctry6m21xxpcbuo",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-PHRASE-zl9bupv68ctry6m21xxpcbuo",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "喜欢狗",
+    "audioText": "like dogs",
+    "fullEnglish": "like dogs",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "dogs",
+        "answer": "dogs",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "狗（复数）",
+        "phonetic": "dɔːɡz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "like",
+      "dogs"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "like",
+        "role": "补充成分",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-2",
+        "text": "dogs",
+        "role": "中心成分",
+        "zh": "狗（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentZh": "喜欢",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "dogs",
+        "phonetic": "dɔːɡz",
+        "pos": "NOUN",
+        "zh": "狗（复数）",
+        "componentZh": "狗（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-r8raay08xwmwltnl30qrnbcl-PHRASE-b6yx6osse25em0l1k63qlz9e",
+    "contentId": "JLB-r8raay08xwmwltnl30qrnbcl-PHRASE-b6yx6osse25em0l1k63qlz9e",
+    "type": "phrase",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "r8raay08xwmwltnl30qrnbcl",
+    "unitTitle": "Unit 4 There Are Many Animals--Lesson 14【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "两只鸟",
+    "audioText": "two birds",
+    "fullEnglish": "two birds",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "two",
+        "answer": "two",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "两",
+        "phonetic": "tuː",
+        "pos": "NUM",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "birds",
+        "answer": "birds",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "鸟（复数）",
+        "phonetic": "bɜːrdz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "birds",
+      "two"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "two",
+        "role": "补充成分",
+        "zh": "两"
+      },
+      {
+        "id": "ud-2",
+        "text": "birds",
+        "role": "中心成分",
+        "zh": "鸟（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "two",
+        "phonetic": "tuː",
+        "pos": "NUM",
+        "zh": "两",
+        "componentZh": "两",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "birds",
+        "phonetic": "bɜːrdz",
+        "pos": "NOUN",
+        "zh": "鸟（复数）",
+        "componentZh": "鸟（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

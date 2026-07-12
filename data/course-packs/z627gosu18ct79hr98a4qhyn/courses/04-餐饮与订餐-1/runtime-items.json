@@ -1,0 +1,6767 @@
+[
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-S-66920c3669a8024cb528529b",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-S-66920c3669a8024cb528529b",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你好，我想预订晚上7点的两人桌。",
+    "audioText": "Hi, I'd like to make a reservation for two at 7:00 p. m",
+    "fullEnglish": "Hi, I'd like to make a reservation for two at 7:00 p. m",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Hi",
+        "answer": "Hi",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "你好",
+        "phonetic": "haɪ",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你好，我想预订晚上7点的两人桌。"
+      },
+      {
+        "index": 2,
+        "text": "I'd",
+        "answer": "I'd",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语 + 助动词",
+        "zh": "I would 的缩写",
+        "phonetic": "aɪd",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP"
+      },
+      {
+        "index": 4,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "连接词",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "to make a reservation for two at 7:00 p m",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；做；一个；预订；为了；两个；在；你好，我想预订晚上7点的两人桌。；p；m"
+      },
+      {
+        "index": 5,
+        "text": "make",
+        "answer": "make",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "谓语",
+        "zh": "做",
+        "phonetic": "meɪk",
+        "pos": "VERB",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "to make a reservation for two at 7:00 p m",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；做；一个；预订；为了；两个；在；你好，我想预订晚上7点的两人桌。；p；m"
+      },
+      {
+        "index": 6,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "a reservation for two",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；预订；为了；两个"
+      },
+      {
+        "index": 7,
+        "text": "reservation",
+        "answer": "reservation",
+        "blank": "___________",
+        "letterCount": 11,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "中心词",
+        "zh": "预订",
+        "phonetic": "ˌrezərˈveɪʃ(ə)n",
+        "pos": "NOUN",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "a reservation for two",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；预订；为了；两个"
+      },
+      {
+        "index": 8,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "介词",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "a reservation for two",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；预订；为了；两个"
+      },
+      {
+        "index": 9,
+        "text": "two",
+        "answer": "two",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "修饰语",
+        "zh": "两个",
+        "phonetic": "tuː",
+        "pos": "NUM",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "a reservation for two",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；预订；为了；两个"
+      },
+      {
+        "index": 10,
+        "text": "at",
+        "answer": "at",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-13",
+        "role": "介词",
+        "zh": "在",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "parentComponentId": "ud-12",
+        "parentComponentText": "at 7:00 p m",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；你好，我想预订晚上7点的两人桌。；p；m"
+      },
+      {
+        "index": 11,
+        "text": "7:00",
+        "answer": "7:00",
+        "blank": "7:00",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "time",
+        "zh": "你好，我想预订晚上7点的两人桌。"
+      },
+      {
+        "index": 12,
+        "text": "p",
+        "answer": "p",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-16",
+        "role": "定语（名词修饰）",
+        "zh": "p",
+        "phonetic": "piː",
+        "pos": "NOUN",
+        "parentComponentId": "ud-14",
+        "parentComponentText": "7:00 p m",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你好，我想预订晚上7点的两人桌。；p；m"
+      },
+      {
+        "index": 13,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你好，我想预订晚上7点的两人桌。"
+      },
+      {
+        "index": 14,
+        "text": "m",
+        "answer": "m",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-17",
+        "role": "修饰语",
+        "zh": "m",
+        "phonetic": "ɛm",
+        "pos": "NOUN",
+        "parentComponentId": "ud-14",
+        "parentComponentText": "7:00 p m",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你好，我想预订晚上7点的两人桌。；p；m"
+      }
+    ],
+    "shuffledBlocks": [
+      "reservation",
+      "to",
+      "m",
+      "p",
+      "for",
+      "like",
+      "I'd",
+      "at",
+      "a",
+      "Hi",
+      "make",
+      "two"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Hi",
+        "role": "语气/引导语",
+        "zh": "你好"
+      },
+      {
+        "id": "ud-2",
+        "text": "I'd",
+        "role": "主语 + 助动词",
+        "zh": "I would 的缩写"
+      },
+      {
+        "id": "ud-3",
+        "text": "like",
+        "role": "谓语",
+        "zh": "像"
+      },
+      {
+        "id": "ud-4",
+        "text": "to make a reservation for two at 7:00 p m",
+        "role": "不定式短语",
+        "zh": "到；做；一个；预订；为了；两个；在；你好，我想预订晚上7点的两人桌。；p；m",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "to",
+            "role": "连接词",
+            "zh": "到"
+          },
+          {
+            "id": "ud-6",
+            "text": "make",
+            "role": "谓语",
+            "zh": "做"
+          },
+          {
+            "id": "ud-7",
+            "text": "a reservation for two",
+            "role": "宾语",
+            "zh": "一个；预订；为了；两个",
+            "children": [
+              {
+                "id": "ud-8",
+                "text": "a",
+                "role": "限定词",
+                "zh": "一个"
+              },
+              {
+                "id": "ud-9",
+                "text": "reservation",
+                "role": "中心词",
+                "zh": "预订"
+              },
+              {
+                "id": "ud-10",
+                "text": "for",
+                "role": "介词",
+                "zh": "为了"
+              },
+              {
+                "id": "ud-11",
+                "text": "two",
+                "role": "修饰语",
+                "zh": "两个"
+              }
+            ]
+          },
+          {
+            "id": "ud-12",
+            "text": "at 7:00 p m",
+            "role": "地点状语",
+            "zh": "在；你好，我想预订晚上7点的两人桌。；p；m",
+            "children": [
+              {
+                "id": "ud-13",
+                "text": "at",
+                "role": "介词",
+                "zh": "在"
+              },
+              {
+                "id": "ud-14",
+                "text": "7:00 p m",
+                "role": "介词宾语",
+                "zh": "你好，我想预订晚上7点的两人桌。；p；m",
+                "children": [
+                  {
+                    "id": "ud-15",
+                    "text": "7:00",
+                    "role": "中心词",
+                    "zh": "你好，我想预订晚上7点的两人桌。"
+                  },
+                  {
+                    "id": "ud-16",
+                    "text": "p",
+                    "role": "定语（名词修饰）",
+                    "zh": "p"
+                  },
+                  {
+                    "id": "ud-17",
+                    "text": "m",
+                    "role": "修饰语",
+                    "zh": "m"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Hi",
+        "phonetic": "haɪ",
+        "pos": "INTJ",
+        "zh": "你好",
+        "componentRole": "语气/引导语",
+        "componentZh": "你好"
+      },
+      "2": {
+        "text": "I'd",
+        "phonetic": "aɪd",
+        "pos": "PRON",
+        "zh": "I would 的缩写",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "I would 的缩写"
+      },
+      "3": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentRole": "谓语",
+        "componentZh": "像"
+      },
+      "4": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentRole": "连接词",
+        "componentZh": "到",
+        "parentComponentText": "to make a reservation for two at 7:00 p m",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；做；一个；预订；为了；两个；在；你好，我想预订晚上7点的两人桌。；p；m"
+      },
+      "5": {
+        "text": "make",
+        "phonetic": "meɪk",
+        "pos": "VERB",
+        "zh": "做",
+        "componentRole": "谓语",
+        "componentZh": "做",
+        "parentComponentText": "to make a reservation for two at 7:00 p m",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；做；一个；预订；为了；两个；在；你好，我想预订晚上7点的两人桌。；p；m"
+      },
+      "6": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "a reservation for two",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；预订；为了；两个"
+      },
+      "7": {
+        "text": "reservation",
+        "phonetic": "ˌrezərˈveɪʃ(ə)n",
+        "pos": "NOUN",
+        "zh": "预订",
+        "componentRole": "中心词",
+        "componentZh": "预订",
+        "parentComponentText": "a reservation for two",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；预订；为了；两个"
+      },
+      "8": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentRole": "介词",
+        "componentZh": "为了",
+        "parentComponentText": "a reservation for two",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；预订；为了；两个"
+      },
+      "9": {
+        "text": "two",
+        "phonetic": "tuː",
+        "pos": "NUM",
+        "zh": "两个",
+        "componentRole": "修饰语",
+        "componentZh": "两个",
+        "parentComponentText": "a reservation for two",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；预订；为了；两个"
+      },
+      "10": {
+        "text": "at",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "zh": "在",
+        "componentRole": "介词",
+        "componentZh": "在",
+        "parentComponentText": "at 7:00 p m",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；你好，我想预订晚上7点的两人桌。；p；m"
+      },
+      "12": {
+        "text": "p",
+        "phonetic": "piː",
+        "pos": "NOUN",
+        "zh": "p",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "p",
+        "parentComponentText": "7:00 p m",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你好，我想预订晚上7点的两人桌。；p；m"
+      },
+      "14": {
+        "text": "m",
+        "phonetic": "ɛm",
+        "pos": "NOUN",
+        "zh": "m",
+        "componentRole": "修饰语",
+        "componentZh": "m",
+        "parentComponentText": "7:00 p m",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你好，我想预订晚上7点的两人桌。；p；m"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-1",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-1",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你好",
+    "audioText": "Hi",
+    "fullEnglish": "Hi",
+    "phonetic": "haɪ",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Hi",
+        "answer": "Hi",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "你好",
+        "phonetic": "haɪ",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Hi"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Hi",
+        "phonetic": "haɪ",
+        "pos": "INTJ",
+        "zh": "你好",
+        "componentZh": "你好"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-2",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-2",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "I would（缩写）: 我想要",
+    "audioText": "I'd",
+    "fullEnglish": "I'd",
+    "phonetic": "aɪd",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'd",
+        "answer": "I'd",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "I would 的缩写",
+        "phonetic": "aɪd",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I'd"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I'd",
+        "phonetic": "aɪd",
+        "pos": "PRON",
+        "zh": "I would 的缩写",
+        "componentZh": "I would 的缩写"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-3",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-3",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "喜欢",
+    "audioText": "like",
+    "fullEnglish": "like",
+    "phonetic": "laɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "like"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentZh": "像"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-4",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-4",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "引导不定式",
+    "audioText": "to",
+    "fullEnglish": "to",
+    "phonetic": "tuː; tə",
+    "pos": "PART",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "to"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentZh": "到"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-5",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-5",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "做",
+    "audioText": "make",
+    "fullEnglish": "make",
+    "phonetic": "meɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "make",
+        "answer": "make",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "meɪk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "make"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "make",
+        "phonetic": "meɪk",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-6",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-6",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个",
+    "audioText": "a",
+    "fullEnglish": "a",
+    "phonetic": "ə; eɪ",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "a"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-7",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-7",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "预订",
+    "audioText": "reservation",
+    "fullEnglish": "reservation",
+    "phonetic": "ˌrezərˈveɪʃ(ə)n",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "reservation",
+        "answer": "reservation",
+        "blank": "___________",
+        "letterCount": 11,
+        "fillable": true,
+        "type": "word",
+        "zh": "预订",
+        "phonetic": "ˌrezərˈveɪʃ(ə)n",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "reservation"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "reservation",
+        "phonetic": "ˌrezərˈveɪʃ(ə)n",
+        "pos": "NOUN",
+        "zh": "预订",
+        "componentZh": "预订"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-8",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-8",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "为了",
+    "audioText": "for",
+    "fullEnglish": "for",
+    "phonetic": "fɔːr; fər",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "for"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentZh": "为了"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-9",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-9",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "两个",
+    "audioText": "two",
+    "fullEnglish": "two",
+    "phonetic": "tuː",
+    "pos": "NUM",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "two",
+        "answer": "two",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "两个",
+        "phonetic": "tuː",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "two"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "two",
+        "phonetic": "tuː",
+        "pos": "NUM",
+        "zh": "两个",
+        "componentZh": "两个"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-10",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-10",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在",
+    "audioText": "at",
+    "fullEnglish": "at",
+    "phonetic": "æt; ət",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "at",
+        "answer": "at",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在",
+        "phonetic": "æt; ət",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "at"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "at",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "zh": "在",
+        "componentZh": "在"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-12",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-12",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "下午",
+    "audioText": "p",
+    "fullEnglish": "p",
+    "phonetic": "piː",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "p",
+        "answer": "p",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "p",
+        "phonetic": "piː",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "p"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "p",
+        "phonetic": "piː",
+        "pos": "NOUN",
+        "zh": "p",
+        "componentZh": "p"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-13",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529b-13",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "（与 p 搭配）",
+    "audioText": "m",
+    "fullEnglish": "m",
+    "phonetic": "ɛm",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "m",
+        "answer": "m",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "m",
+        "phonetic": "ɛm",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "m"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "m",
+        "phonetic": "ɛm",
+        "pos": "NOUN",
+        "zh": "m",
+        "componentZh": "m"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-S-66920c3669a8024cb528529c",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-S-66920c3669a8024cb528529c",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "当然，请问您贵姓？",
+    "audioText": "certainly may I have your name please",
+    "fullEnglish": "certainly may I have your name please",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "certainly",
+        "answer": "certainly",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "方式/程度状语",
+        "zh": "当然",
+        "phonetic": "ˈsɜːrt(ə)nli",
+        "pos": "ADV"
+      },
+      {
+        "index": 1,
+        "text": "may",
+        "answer": "may",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "可以",
+        "phonetic": "meɪ",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "your name",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你的；名字"
+      },
+      {
+        "index": 5,
+        "text": "name",
+        "answer": "name",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "名字",
+        "phonetic": "neɪm",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "your name",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你的；名字"
+      },
+      {
+        "index": 6,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "have",
+      "name",
+      "certainly",
+      "please",
+      "your",
+      "may"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "certainly",
+        "role": "方式/程度状语",
+        "zh": "当然"
+      },
+      {
+        "id": "ud-2",
+        "text": "may",
+        "role": "助动词",
+        "zh": "可以"
+      },
+      {
+        "id": "ud-3",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-4",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-5",
+        "text": "your name",
+        "role": "宾语",
+        "zh": "你的；名字",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "your",
+            "role": "限定词",
+            "zh": "你的"
+          },
+          {
+            "id": "ud-7",
+            "text": "name",
+            "role": "中心词",
+            "zh": "名字"
+          }
+        ]
+      },
+      {
+        "id": "ud-8",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "certainly",
+        "phonetic": "ˈsɜːrt(ə)nli",
+        "pos": "ADV",
+        "zh": "当然",
+        "componentRole": "方式/程度状语",
+        "componentZh": "当然"
+      },
+      "1": {
+        "text": "may",
+        "phonetic": "meɪ",
+        "pos": "AUX",
+        "zh": "可以",
+        "componentRole": "助动词",
+        "componentZh": "可以"
+      },
+      "2": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "3": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有"
+      },
+      "4": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentRole": "限定词",
+        "componentZh": "你的",
+        "parentComponentText": "your name",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你的；名字"
+      },
+      "5": {
+        "text": "name",
+        "phonetic": "neɪm",
+        "pos": "NOUN",
+        "zh": "名字",
+        "componentRole": "中心词",
+        "componentZh": "名字",
+        "parentComponentText": "your name",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你的；名字"
+      },
+      "6": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529c-1",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529c-1",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "当然",
+    "audioText": "certainly",
+    "fullEnglish": "certainly",
+    "phonetic": "ˈsɜːrt(ə)nli",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "certainly",
+        "answer": "certainly",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "当然",
+        "phonetic": "ˈsɜːrt(ə)nli",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "certainly"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "certainly",
+        "phonetic": "ˈsɜːrt(ə)nli",
+        "pos": "ADV",
+        "zh": "当然",
+        "componentZh": "当然"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529c-2",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529c-2",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "可以",
+    "audioText": "may",
+    "fullEnglish": "may",
+    "phonetic": "meɪ",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "may",
+        "answer": "may",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "可以",
+        "phonetic": "meɪ",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "may"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "may",
+        "phonetic": "meɪ",
+        "pos": "AUX",
+        "zh": "可以",
+        "componentZh": "可以"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529c-3",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529c-3",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529c-4",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529c-4",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "有",
+    "audioText": "have",
+    "fullEnglish": "have",
+    "phonetic": "hæv",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "have"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529c-5",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529c-5",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你的",
+    "audioText": "your",
+    "fullEnglish": "your",
+    "phonetic": "jʊr; jər",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "your"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentZh": "你的"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529c-6",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529c-6",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "名字",
+    "audioText": "name",
+    "fullEnglish": "name",
+    "phonetic": "neɪm",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "name",
+        "answer": "name",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "名字",
+        "phonetic": "neɪm",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "name"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "name",
+        "phonetic": "neɪm",
+        "pos": "NOUN",
+        "zh": "名字",
+        "componentZh": "名字"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529c-7",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529c-7",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请",
+    "audioText": "please",
+    "fullEnglish": "please",
+    "phonetic": "pliːz",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "please"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentZh": "请"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-S-66920c3669a8024cb528529d",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-S-66920c3669a8024cb528529d",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我是Anna Smith，请问你们有户外座位吗？",
+    "audioText": "It's Anna Smith. Do you have any outdoor seating?",
+    "fullEnglish": "It's Anna Smith. Do you have any outdoor seating?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "Anna",
+        "answer": "Anna",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "Anna",
+        "phonetic": "ˈʌnə",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 2,
+        "text": "Smith",
+        "answer": "Smith",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "补充成分",
+        "zh": "Smith",
+        "phonetic": "smɪθ",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 3,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我是Anna Smith，请问你们有户外座位吗？"
+      },
+      {
+        "index": 4,
+        "text": "Do",
+        "answer": "Do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "助动词",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      },
+      {
+        "index": 5,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 6,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      },
+      {
+        "index": 7,
+        "text": "any",
+        "answer": "any",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "限定词",
+        "zh": "任何",
+        "phonetic": "ˈeni",
+        "pos": "DET",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "any outdoor seating",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；户外的；座位（复数）"
+      },
+      {
+        "index": 8,
+        "text": "outdoor",
+        "answer": "outdoor",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "定语（形容词）",
+        "zh": "户外的",
+        "phonetic": "ˈaʊtdɔːr",
+        "pos": "ADJ",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "any outdoor seating",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；户外的；座位（复数）"
+      },
+      {
+        "index": 9,
+        "text": "seating",
+        "answer": "seating",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "中心词",
+        "zh": "座位（复数）",
+        "phonetic": "ˈsiːtɪŋ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "any outdoor seating",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；户外的；座位（复数）"
+      },
+      {
+        "index": 10,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我是Anna Smith，请问你们有户外座位吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "any",
+      "Smith",
+      "you",
+      "Do",
+      "have",
+      "seating",
+      "It's",
+      "outdoor",
+      "Anna"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "Anna",
+        "role": "表语",
+        "zh": "Anna"
+      },
+      {
+        "id": "ud-3",
+        "text": "Smith",
+        "role": "补充成分",
+        "zh": "Smith"
+      },
+      {
+        "id": "ud-4",
+        "text": "Do",
+        "role": "助动词",
+        "zh": "构成疑问句"
+      },
+      {
+        "id": "ud-5",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-6",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-7",
+        "text": "any outdoor seating",
+        "role": "宾语",
+        "zh": "任何；户外的；座位（复数）",
+        "children": [
+          {
+            "id": "ud-8",
+            "text": "any",
+            "role": "限定词",
+            "zh": "任何"
+          },
+          {
+            "id": "ud-9",
+            "text": "outdoor",
+            "role": "定语（形容词）",
+            "zh": "户外的"
+          },
+          {
+            "id": "ud-10",
+            "text": "seating",
+            "role": "中心词",
+            "zh": "座位（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "Anna",
+        "phonetic": "ˈʌnə",
+        "pos": "PROPN_PERSON",
+        "zh": "Anna",
+        "componentRole": "表语",
+        "componentZh": "Anna"
+      },
+      "2": {
+        "text": "Smith",
+        "phonetic": "smɪθ",
+        "pos": "PROPN_PERSON",
+        "zh": "Smith",
+        "componentRole": "补充成分",
+        "componentZh": "Smith"
+      },
+      "4": {
+        "text": "Do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentRole": "助动词",
+        "componentZh": "构成疑问句"
+      },
+      "5": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "6": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有"
+      },
+      "7": {
+        "text": "any",
+        "phonetic": "ˈeni",
+        "pos": "DET",
+        "zh": "任何",
+        "componentRole": "限定词",
+        "componentZh": "任何",
+        "parentComponentText": "any outdoor seating",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；户外的；座位（复数）"
+      },
+      "8": {
+        "text": "outdoor",
+        "phonetic": "ˈaʊtdɔːr",
+        "pos": "ADJ",
+        "zh": "户外的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "户外的",
+        "parentComponentText": "any outdoor seating",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；户外的；座位（复数）"
+      },
+      "9": {
+        "text": "seating",
+        "phonetic": "ˈsiːtɪŋ",
+        "pos": "NOUN",
+        "zh": "座位（复数）",
+        "componentRole": "中心词",
+        "componentZh": "座位（复数）",
+        "parentComponentText": "any outdoor seating",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；户外的；座位（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529d-1",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529d-1",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它是",
+    "audioText": "It's",
+    "fullEnglish": "It's",
+    "phonetic": "ɪts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529d-2",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529d-2",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Anna",
+    "audioText": "Anna",
+    "fullEnglish": "Anna",
+    "phonetic": "ˈʌnə",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Anna",
+        "answer": "Anna",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "Anna",
+        "phonetic": "ˈʌnə",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Anna"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Anna",
+        "phonetic": "ˈʌnə",
+        "pos": "PROPN_PERSON",
+        "zh": "Anna",
+        "componentZh": "Anna"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529d-3",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529d-3",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Smith",
+    "audioText": "Smith",
+    "fullEnglish": "Smith",
+    "phonetic": "smɪθ",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Smith",
+        "answer": "Smith",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "Smith",
+        "phonetic": "smɪθ",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Smith"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Smith",
+        "phonetic": "smɪθ",
+        "pos": "PROPN_PERSON",
+        "zh": "Smith",
+        "componentZh": "Smith"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529d-4",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529d-4",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "做",
+    "audioText": "Do",
+    "fullEnglish": "Do",
+    "phonetic": "duː; də",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Do",
+        "answer": "Do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "Do"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentZh": "构成疑问句"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529d-5",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529d-5",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529d-7",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529d-7",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "任何",
+    "audioText": "any",
+    "fullEnglish": "any",
+    "phonetic": "ˈeni",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "any",
+        "answer": "any",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "任何",
+        "phonetic": "ˈeni",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "any"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "any",
+        "phonetic": "ˈeni",
+        "pos": "DET",
+        "zh": "任何",
+        "componentZh": "任何"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529d-8",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529d-8",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "户外的",
+    "audioText": "outdoor",
+    "fullEnglish": "outdoor",
+    "phonetic": "ˈaʊtdɔːr",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "outdoor",
+        "answer": "outdoor",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "户外的",
+        "phonetic": "ˈaʊtdɔːr",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "outdoor"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "outdoor",
+        "phonetic": "ˈaʊtdɔːr",
+        "pos": "ADJ",
+        "zh": "户外的",
+        "componentZh": "户外的"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529d-9",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529d-9",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "座位（复数）",
+    "audioText": "seating",
+    "fullEnglish": "seating",
+    "phonetic": "ˈsiːtɪŋ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "seating",
+        "answer": "seating",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "座位（复数）",
+        "phonetic": "ˈsiːtɪŋ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "seating"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "seating",
+        "phonetic": "ˈsiːtɪŋ",
+        "pos": "NOUN",
+        "zh": "座位（复数）",
+        "componentZh": "座位（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-S-66920c3669a8024cb528529e",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-S-66920c3669a8024cb528529e",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的，我们有的。您更喜欢室内还是室外？",
+    "audioText": "Yes, we do. Would you prefer indoors or outdoors?",
+    "fullEnglish": "Yes, we do. Would you prefer indoors or outdoors?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，我们有的。您更喜欢室内还是室外？"
+      },
+      {
+        "index": 2,
+        "text": "we",
+        "answer": "we",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      },
+      {
+        "index": 4,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，我们有的。您更喜欢室内还是室外？"
+      },
+      {
+        "index": 5,
+        "text": "Would",
+        "answer": "Would",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "助动词",
+        "zh": "将",
+        "phonetic": "wʊd",
+        "pos": "AUX"
+      },
+      {
+        "index": 6,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 7,
+        "text": "prefer",
+        "answer": "prefer",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "谓语",
+        "zh": "更喜欢",
+        "phonetic": "prɪˈfɜːr",
+        "pos": "VERB"
+      },
+      {
+        "index": 8,
+        "text": "indoors",
+        "answer": "indoors",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "室内",
+        "phonetic": "ˌɪnˈdɔːrz",
+        "pos": "ADV",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "indoors or outdoors",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "室内；或者；室外"
+      },
+      {
+        "index": 9,
+        "text": "or",
+        "answer": "or",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "并列连词",
+        "zh": "或者",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "indoors or outdoors",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "室内；或者；室外"
+      },
+      {
+        "index": 10,
+        "text": "outdoors",
+        "answer": "outdoors",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "副词",
+        "zh": "室外",
+        "phonetic": "ˌaʊtˈdɔːrz",
+        "pos": "ADV",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "indoors or outdoors",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "室内；或者；室外"
+      },
+      {
+        "index": 11,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，我们有的。您更喜欢室内还是室外？"
+      }
+    ],
+    "shuffledBlocks": [
+      "we",
+      "Would",
+      "you",
+      "or",
+      "outdoors",
+      "do",
+      "indoors",
+      "Yes",
+      "prefer"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yes",
+        "role": "语气/引导语",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "we",
+        "role": "主语",
+        "zh": "我们"
+      },
+      {
+        "id": "ud-3",
+        "text": "do",
+        "role": "谓语",
+        "zh": "构成疑问句"
+      },
+      {
+        "id": "ud-4",
+        "text": "Would",
+        "role": "助动词",
+        "zh": "将"
+      },
+      {
+        "id": "ud-5",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-6",
+        "text": "prefer",
+        "role": "谓语",
+        "zh": "更喜欢"
+      },
+      {
+        "id": "ud-7",
+        "text": "indoors or outdoors",
+        "role": "方式/程度状语",
+        "zh": "室内；或者；室外",
+        "children": [
+          {
+            "id": "ud-8",
+            "text": "indoors",
+            "role": "中心词",
+            "zh": "室内"
+          },
+          {
+            "id": "ud-9",
+            "text": "or",
+            "role": "并列连词",
+            "zh": "或者"
+          },
+          {
+            "id": "ud-10",
+            "text": "outdoors",
+            "role": "副词",
+            "zh": "室外"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentRole": "语气/引导语",
+        "componentZh": "是的"
+      },
+      "2": {
+        "text": "we",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentRole": "主语",
+        "componentZh": "我们"
+      },
+      "3": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentRole": "谓语",
+        "componentZh": "构成疑问句"
+      },
+      "5": {
+        "text": "Would",
+        "phonetic": "wʊd",
+        "pos": "AUX",
+        "zh": "将",
+        "componentRole": "助动词",
+        "componentZh": "将"
+      },
+      "6": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "7": {
+        "text": "prefer",
+        "phonetic": "prɪˈfɜːr",
+        "pos": "VERB",
+        "zh": "更喜欢",
+        "componentRole": "谓语",
+        "componentZh": "更喜欢"
+      },
+      "8": {
+        "text": "indoors",
+        "phonetic": "ˌɪnˈdɔːrz",
+        "pos": "ADV",
+        "zh": "室内",
+        "componentRole": "中心词",
+        "componentZh": "室内",
+        "parentComponentText": "indoors or outdoors",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "室内；或者；室外"
+      },
+      "9": {
+        "text": "or",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "zh": "或者",
+        "componentRole": "并列连词",
+        "componentZh": "或者",
+        "parentComponentText": "indoors or outdoors",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "室内；或者；室外"
+      },
+      "10": {
+        "text": "outdoors",
+        "phonetic": "ˌaʊtˈdɔːrz",
+        "pos": "ADV",
+        "zh": "室外",
+        "componentRole": "副词",
+        "componentZh": "室外",
+        "parentComponentText": "indoors or outdoors",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "室内；或者；室外"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529e-1",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529e-1",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的",
+    "audioText": "Yes",
+    "fullEnglish": "Yes",
+    "phonetic": "jes",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529e-2",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529e-2",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们",
+    "audioText": "we",
+    "fullEnglish": "we",
+    "phonetic": "wiː; wi",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "we",
+        "answer": "we",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "we"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "we",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentZh": "我们"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529e-4",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529e-4",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "will（过去式）: 将",
+    "audioText": "Would",
+    "fullEnglish": "Would",
+    "phonetic": "wʊd",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Would",
+        "answer": "Would",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "将",
+        "phonetic": "wʊd",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "Would"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Would",
+        "phonetic": "wʊd",
+        "pos": "AUX",
+        "zh": "将",
+        "componentZh": "将"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529e-6",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529e-6",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "更喜欢",
+    "audioText": "prefer",
+    "fullEnglish": "prefer",
+    "phonetic": "prɪˈfɜːr",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "prefer",
+        "answer": "prefer",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "更喜欢",
+        "phonetic": "prɪˈfɜːr",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "prefer"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "prefer",
+        "phonetic": "prɪˈfɜːr",
+        "pos": "VERB",
+        "zh": "更喜欢",
+        "componentZh": "更喜欢"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529e-7",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529e-7",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "室内",
+    "audioText": "indoors",
+    "fullEnglish": "indoors",
+    "phonetic": "ˌɪnˈdɔːrz",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "indoors",
+        "answer": "indoors",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "室内",
+        "phonetic": "ˌɪnˈdɔːrz",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "indoors"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "indoors",
+        "phonetic": "ˌɪnˈdɔːrz",
+        "pos": "ADV",
+        "zh": "室内",
+        "componentZh": "室内"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529e-8",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529e-8",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "或者",
+    "audioText": "or",
+    "fullEnglish": "or",
+    "phonetic": "ɔr",
+    "pos": "CCONJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "or",
+        "answer": "or",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "或者",
+        "phonetic": "ɔr",
+        "pos": "CCONJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "or"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "or",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "zh": "或者",
+        "componentZh": "或者"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529e-9",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529e-9",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "室外",
+    "audioText": "outdoors",
+    "fullEnglish": "outdoors",
+    "phonetic": "ˌaʊtˈdɔːrz",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "outdoors",
+        "answer": "outdoors",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "室外",
+        "phonetic": "ˌaʊtˈdɔːrz",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "outdoors"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "outdoors",
+        "phonetic": "ˌaʊtˈdɔːrz",
+        "pos": "ADV",
+        "zh": "室外",
+        "componentZh": "室外"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-S-66920c3669a8024cb528529f",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-S-66920c3669a8024cb528529f",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "户外也可以，我们能要一个靠窗的桌子吗",
+    "audioText": "Outdoor is also okay, could we have a table by the window?",
+    "fullEnglish": "Outdoor is also okay, could we have a table by the window?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Outdoor",
+        "answer": "Outdoor",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "户外的",
+        "phonetic": "ˈaʊtdɔːr",
+        "pos": "ADJ"
+      },
+      {
+        "index": 1,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "also",
+        "answer": "also",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "方式/程度状语",
+        "zh": "也",
+        "phonetic": "ˈɔːlsoʊ",
+        "pos": "ADV"
+      },
+      {
+        "index": 3,
+        "text": "okay",
+        "answer": "okay",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "表语",
+        "zh": "好的",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "ADJ"
+      },
+      {
+        "index": 4,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "户外也可以，我们能要一个靠窗的桌子吗"
+      },
+      {
+        "index": 5,
+        "text": "could",
+        "answer": "could",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "助动词",
+        "zh": "能",
+        "phonetic": "kʊd",
+        "pos": "AUX",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "could we have a table by the window",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "能；我们；有；一个；桌子；在...旁边；定冠词；窗户"
+      },
+      {
+        "index": 6,
+        "text": "we",
+        "answer": "we",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "主语",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "could we have a table by the window",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "能；我们；有；一个；桌子；在...旁边；定冠词；窗户"
+      },
+      {
+        "index": 7,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "could we have a table by the window",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "能；我们；有；一个；桌子；在...旁边；定冠词；窗户"
+      },
+      {
+        "index": 8,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "a table by the window",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；桌子；在...旁边；定冠词；窗户"
+      },
+      {
+        "index": 9,
+        "text": "table",
+        "answer": "table",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "中心词",
+        "zh": "桌子",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "a table by the window",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；桌子；在...旁边；定冠词；窗户"
+      },
+      {
+        "index": 10,
+        "text": "by",
+        "answer": "by",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-12",
+        "role": "介词",
+        "zh": "在...旁边",
+        "phonetic": "baɪ",
+        "pos": "ADP",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "a table by the window",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；桌子；在...旁边；定冠词；窗户"
+      },
+      {
+        "index": 11,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-13",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "a table by the window",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；桌子；在...旁边；定冠词；窗户"
+      },
+      {
+        "index": 12,
+        "text": "window",
+        "answer": "window",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-14",
+        "role": "修饰语",
+        "zh": "窗户",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "a table by the window",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；桌子；在...旁边；定冠词；窗户"
+      },
+      {
+        "index": 13,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "户外也可以，我们能要一个靠窗的桌子吗"
+      }
+    ],
+    "shuffledBlocks": [
+      "is",
+      "have",
+      "table",
+      "we",
+      "a",
+      "the",
+      "also",
+      "by",
+      "okay",
+      "could",
+      "window",
+      "Outdoor"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Outdoor",
+        "role": "主语",
+        "zh": "户外的"
+      },
+      {
+        "id": "ud-2",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-3",
+        "text": "also",
+        "role": "方式/程度状语",
+        "zh": "也"
+      },
+      {
+        "id": "ud-4",
+        "text": "okay",
+        "role": "表语",
+        "zh": "好的"
+      },
+      {
+        "id": "ud-5",
+        "text": "could we have a table by the window",
+        "role": "补充成分",
+        "zh": "能；我们；有；一个；桌子；在...旁边；定冠词；窗户",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "could",
+            "role": "助动词",
+            "zh": "能"
+          },
+          {
+            "id": "ud-7",
+            "text": "we",
+            "role": "主语",
+            "zh": "我们"
+          },
+          {
+            "id": "ud-8",
+            "text": "have",
+            "role": "谓语",
+            "zh": "有"
+          },
+          {
+            "id": "ud-9",
+            "text": "a table by the window",
+            "role": "宾语",
+            "zh": "一个；桌子；在...旁边；定冠词；窗户",
+            "children": [
+              {
+                "id": "ud-10",
+                "text": "a",
+                "role": "限定词",
+                "zh": "一个"
+              },
+              {
+                "id": "ud-11",
+                "text": "table",
+                "role": "中心词",
+                "zh": "桌子"
+              },
+              {
+                "id": "ud-12",
+                "text": "by",
+                "role": "介词",
+                "zh": "在...旁边"
+              },
+              {
+                "id": "ud-13",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-14",
+                "text": "window",
+                "role": "修饰语",
+                "zh": "窗户"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Outdoor",
+        "phonetic": "ˈaʊtdɔːr",
+        "pos": "ADJ",
+        "zh": "户外的",
+        "componentRole": "主语",
+        "componentZh": "户外的"
+      },
+      "1": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "2": {
+        "text": "also",
+        "phonetic": "ˈɔːlsoʊ",
+        "pos": "ADV",
+        "zh": "也",
+        "componentRole": "方式/程度状语",
+        "componentZh": "也"
+      },
+      "3": {
+        "text": "okay",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentRole": "表语",
+        "componentZh": "好的"
+      },
+      "5": {
+        "text": "could",
+        "phonetic": "kʊd",
+        "pos": "AUX",
+        "zh": "能",
+        "componentRole": "助动词",
+        "componentZh": "能",
+        "parentComponentText": "could we have a table by the window",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "能；我们；有；一个；桌子；在...旁边；定冠词；窗户"
+      },
+      "6": {
+        "text": "we",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentRole": "主语",
+        "componentZh": "我们",
+        "parentComponentText": "could we have a table by the window",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "能；我们；有；一个；桌子；在...旁边；定冠词；窗户"
+      },
+      "7": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有",
+        "parentComponentText": "could we have a table by the window",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "能；我们；有；一个；桌子；在...旁边；定冠词；窗户"
+      },
+      "8": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "a table by the window",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；桌子；在...旁边；定冠词；窗户"
+      },
+      "9": {
+        "text": "table",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "zh": "桌子",
+        "componentRole": "中心词",
+        "componentZh": "桌子",
+        "parentComponentText": "a table by the window",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；桌子；在...旁边；定冠词；窗户"
+      },
+      "10": {
+        "text": "by",
+        "phonetic": "baɪ",
+        "pos": "ADP",
+        "zh": "在...旁边",
+        "componentRole": "介词",
+        "componentZh": "在...旁边",
+        "parentComponentText": "a table by the window",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；桌子；在...旁边；定冠词；窗户"
+      },
+      "11": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "a table by the window",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；桌子；在...旁边；定冠词；窗户"
+      },
+      "12": {
+        "text": "window",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "zh": "窗户",
+        "componentRole": "修饰语",
+        "componentZh": "窗户",
+        "parentComponentText": "a table by the window",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；桌子；在...旁边；定冠词；窗户"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529f-2",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529f-2",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "is",
+    "fullEnglish": "is",
+    "phonetic": "ɪz",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "is"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529f-3",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529f-3",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "也",
+    "audioText": "also",
+    "fullEnglish": "also",
+    "phonetic": "ˈɔːlsoʊ",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "also",
+        "answer": "also",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "也",
+        "phonetic": "ˈɔːlsoʊ",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "also"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "also",
+        "phonetic": "ˈɔːlsoʊ",
+        "pos": "ADV",
+        "zh": "也",
+        "componentZh": "也"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529f-4",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529f-4",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好的",
+    "audioText": "okay",
+    "fullEnglish": "okay",
+    "phonetic": "oʊˈkeɪ",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "okay",
+        "answer": "okay",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "好的",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "okay"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "okay",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentZh": "好的"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529f-5",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529f-5",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "可以",
+    "audioText": "could",
+    "fullEnglish": "could",
+    "phonetic": "kʊd",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "could",
+        "answer": "could",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kʊd",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "could"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "could",
+        "phonetic": "kʊd",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529f-9",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529f-9",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "桌子",
+    "audioText": "table",
+    "fullEnglish": "table",
+    "phonetic": "ˈteɪbl",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "table",
+        "answer": "table",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "桌子",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "table"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "table",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "zh": "桌子",
+        "componentZh": "桌子"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529f-10",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529f-10",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在...旁边",
+    "audioText": "by",
+    "fullEnglish": "by",
+    "phonetic": "baɪ",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "by",
+        "answer": "by",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...旁边",
+        "phonetic": "baɪ",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "by"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "by",
+        "phonetic": "baɪ",
+        "pos": "ADP",
+        "zh": "在...旁边",
+        "componentZh": "在...旁边"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529f-11",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529f-11",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "the",
+    "fullEnglish": "the",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "the"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529f-12",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-W-66920c3669a8024cb528529f-12",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "窗户",
+    "audioText": "window",
+    "fullEnglish": "window",
+    "phonetic": "ˈwɪndoʊ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "window",
+        "answer": "window",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "窗户",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "window"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "window",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "zh": "窗户",
+        "componentZh": "窗户"
+      }
+    }
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-hjjr2g8ljhk16q2eljkejsjf",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-hjjr2g8ljhk16q2eljkejsjf",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我想",
+    "audioText": "I'd like",
+    "fullEnglish": "I'd like",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'd",
+        "answer": "I'd",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "I would 的缩写",
+        "phonetic": "aɪd",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 助动词"
+      },
+      {
+        "index": 1,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "I'd",
+      "like"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I'd",
+        "role": "主语 + 助动词",
+        "zh": "I would 的缩写"
+      },
+      {
+        "id": "ud-2",
+        "text": "like",
+        "role": "谓语",
+        "zh": "像"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I'd",
+        "phonetic": "aɪd",
+        "pos": "PRON",
+        "zh": "I would 的缩写",
+        "componentZh": "I would 的缩写",
+        "componentRole": "主语 + 助动词"
+      },
+      "1": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentZh": "像",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-tn9v659qay9obuqvxrpn11rp",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-tn9v659qay9obuqvxrpn11rp",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "预订",
+    "audioText": "to make",
+    "fullEnglish": "to make",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "连接词"
+      },
+      {
+        "index": 1,
+        "text": "make",
+        "answer": "make",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "meɪk",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "to",
+      "make"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "to",
+        "role": "连接词",
+        "zh": "到"
+      },
+      {
+        "id": "ud-2",
+        "text": "make",
+        "role": "谓语",
+        "zh": "做"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentZh": "到",
+        "componentRole": "连接词"
+      },
+      "1": {
+        "text": "make",
+        "phonetic": "meɪk",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-dmtu3hpv5cg4rpiv05ge7svw",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-dmtu3hpv5cg4rpiv05ge7svw",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个预约",
+    "audioText": "a reservation",
+    "fullEnglish": "a reservation",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "reservation",
+        "answer": "reservation",
+        "blank": "___________",
+        "letterCount": 11,
+        "fillable": true,
+        "type": "word",
+        "zh": "预订",
+        "phonetic": "ˌrezərˈveɪʃ(ə)n",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "reservation",
+      "a"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "a",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-2",
+        "text": "reservation",
+        "role": "中心成分",
+        "zh": "预订"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "reservation",
+        "phonetic": "ˌrezərˈveɪʃ(ə)n",
+        "pos": "NOUN",
+        "zh": "预订",
+        "componentZh": "预订",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-c0ij9xkdz5zo3hxks6p6tq8w",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-c0ij9xkdz5zo3hxks6p6tq8w",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你好，我想预订",
+    "audioText": "Hi, I'd like to make a reservation",
+    "fullEnglish": "Hi, I'd like to make a reservation",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Hi",
+        "answer": "Hi",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "你好",
+        "phonetic": "haɪ",
+        "pos": "INTJ",
+        "componentId": "ud-1",
+        "role": "语气/引导语"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你好，我想预订"
+      },
+      {
+        "index": 2,
+        "text": "I'd",
+        "answer": "I'd",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "I would 的缩写",
+        "phonetic": "aɪd",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语 + 助动词"
+      },
+      {
+        "index": 3,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "componentId": "ud-3",
+        "role": "谓语"
+      },
+      {
+        "index": 4,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "componentId": "ud-5",
+        "role": "连接词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "to make a reservation",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；做；一个；预订"
+      },
+      {
+        "index": 5,
+        "text": "make",
+        "answer": "make",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "meɪk",
+        "pos": "VERB",
+        "componentId": "ud-6",
+        "role": "谓语",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "to make a reservation",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；做；一个；预订"
+      },
+      {
+        "index": 6,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-8",
+        "role": "限定词",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "a reservation",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；预订"
+      },
+      {
+        "index": 7,
+        "text": "reservation",
+        "answer": "reservation",
+        "blank": "___________",
+        "letterCount": 11,
+        "fillable": true,
+        "type": "word",
+        "zh": "预订",
+        "phonetic": "ˌrezərˈveɪʃ(ə)n",
+        "pos": "NOUN",
+        "componentId": "ud-9",
+        "role": "中心词",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "a reservation",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；预订"
+      }
+    ],
+    "shuffledBlocks": [
+      "Hi",
+      "like",
+      "reservation",
+      "to",
+      "make",
+      "I'd",
+      "a"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Hi",
+        "role": "语气/引导语",
+        "zh": "你好"
+      },
+      {
+        "id": "ud-2",
+        "text": "I'd",
+        "role": "主语 + 助动词",
+        "zh": "I would 的缩写"
+      },
+      {
+        "id": "ud-3",
+        "text": "like",
+        "role": "谓语",
+        "zh": "像"
+      },
+      {
+        "id": "ud-4",
+        "text": "to make a reservation",
+        "role": "不定式短语",
+        "zh": "到；做；一个；预订",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "to",
+            "role": "连接词",
+            "zh": "到"
+          },
+          {
+            "id": "ud-6",
+            "text": "make",
+            "role": "谓语",
+            "zh": "做"
+          },
+          {
+            "id": "ud-7",
+            "text": "a reservation",
+            "role": "宾语",
+            "zh": "一个；预订",
+            "children": [
+              {
+                "id": "ud-8",
+                "text": "a",
+                "role": "限定词",
+                "zh": "一个"
+              },
+              {
+                "id": "ud-9",
+                "text": "reservation",
+                "role": "中心词",
+                "zh": "预订"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Hi",
+        "phonetic": "haɪ",
+        "pos": "INTJ",
+        "zh": "你好",
+        "componentZh": "你好",
+        "componentRole": "语气/引导语"
+      },
+      "2": {
+        "text": "I'd",
+        "phonetic": "aɪd",
+        "pos": "PRON",
+        "zh": "I would 的缩写",
+        "componentZh": "I would 的缩写",
+        "componentRole": "主语 + 助动词"
+      },
+      "3": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentZh": "像",
+        "componentRole": "谓语"
+      },
+      "4": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentZh": "到",
+        "componentRole": "连接词",
+        "parentComponentText": "to make a reservation",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；做；一个；预订"
+      },
+      "5": {
+        "text": "make",
+        "phonetic": "meɪk",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做",
+        "componentRole": "谓语",
+        "parentComponentText": "to make a reservation",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；做；一个；预订"
+      },
+      "6": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "限定词",
+        "parentComponentText": "a reservation",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；预订"
+      },
+      "7": {
+        "text": "reservation",
+        "phonetic": "ˌrezərˈveɪʃ(ə)n",
+        "pos": "NOUN",
+        "zh": "预订",
+        "componentZh": "预订",
+        "componentRole": "中心词",
+        "parentComponentText": "a reservation",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；预订"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-u1m16ezclnyks4p4rbmpolhd",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-u1m16ezclnyks4p4rbmpolhd",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "两人份",
+    "audioText": "for two",
+    "fullEnglish": "for two",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "two",
+        "answer": "two",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "两个",
+        "phonetic": "tuː",
+        "pos": "NUM",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "two",
+      "for"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "for",
+        "role": "补充成分",
+        "zh": "为了"
+      },
+      {
+        "id": "ud-2",
+        "text": "two",
+        "role": "中心成分",
+        "zh": "两个"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentZh": "为了",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "two",
+        "phonetic": "tuː",
+        "pos": "NUM",
+        "zh": "两个",
+        "componentZh": "两个",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-w09b9ctr39yeftocp03qn9va",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-w09b9ctr39yeftocp03qn9va",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在晚上7点",
+    "audioText": "at 7:00 p. m",
+    "fullEnglish": "at 7:00 p. m",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "at",
+        "answer": "at",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "7:00",
+        "answer": "7:00",
+        "blank": "7:00",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "time",
+        "zh": "在晚上7点"
+      },
+      {
+        "index": 2,
+        "text": "p",
+        "answer": "p",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "p",
+        "phonetic": "piː",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "数量词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "p m",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "p；m"
+      },
+      {
+        "index": 3,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "在晚上7点"
+      },
+      {
+        "index": 4,
+        "text": "m",
+        "answer": "m",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "m",
+        "phonetic": "ɛm",
+        "pos": "NOUN",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "p m",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "p；m"
+      }
+    ],
+    "shuffledBlocks": [
+      "p",
+      "m",
+      "at"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "at",
+        "role": "补充成分",
+        "zh": "在"
+      },
+      {
+        "id": "ud-2",
+        "text": "7:00",
+        "role": "中心成分",
+        "zh": "在晚上7点"
+      },
+      {
+        "id": "ud-3",
+        "text": "p m",
+        "role": "补充成分",
+        "zh": "p；m",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "p",
+            "role": "数量词",
+            "zh": "p"
+          },
+          {
+            "id": "ud-5",
+            "text": "m",
+            "role": "中心词",
+            "zh": "m"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "at",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "zh": "在",
+        "componentZh": "在",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "p",
+        "phonetic": "piː",
+        "pos": "NOUN",
+        "zh": "p",
+        "componentZh": "p",
+        "componentRole": "数量词",
+        "parentComponentText": "p m",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "p；m"
+      },
+      "4": {
+        "text": "m",
+        "phonetic": "ɛm",
+        "pos": "NOUN",
+        "zh": "m",
+        "componentZh": "m",
+        "componentRole": "中心词",
+        "parentComponentText": "p m",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "p；m"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-zd1k71wwylpsaje4zuc7tau6",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-zd1k71wwylpsaje4zuc7tau6",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "两人晚上7点的位置",
+    "audioText": "for two at 7:00 p. m",
+    "fullEnglish": "for two at 7:00 p. m",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "two",
+        "answer": "two",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "两个",
+        "phonetic": "tuː",
+        "pos": "NUM",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      },
+      {
+        "index": 2,
+        "text": "at",
+        "answer": "at",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "componentId": "ud-4",
+        "role": "介词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "at 7:00",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在；两人晚上7点的位置"
+      },
+      {
+        "index": 3,
+        "text": "7:00",
+        "answer": "7:00",
+        "blank": "7:00",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "time",
+        "zh": "两人晚上7点的位置"
+      },
+      {
+        "index": 4,
+        "text": "p",
+        "answer": "p",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "p",
+        "phonetic": "piː",
+        "pos": "NOUN",
+        "componentId": "ud-7",
+        "role": "数量词",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "p m",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "p；m"
+      },
+      {
+        "index": 5,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "两人晚上7点的位置"
+      },
+      {
+        "index": 6,
+        "text": "m",
+        "answer": "m",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "m",
+        "phonetic": "ɛm",
+        "pos": "NOUN",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "p m",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "p；m"
+      }
+    ],
+    "shuffledBlocks": [
+      "for",
+      "at",
+      "two",
+      "m",
+      "p"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "for",
+        "role": "补充成分",
+        "zh": "为了"
+      },
+      {
+        "id": "ud-2",
+        "text": "two",
+        "role": "中心成分",
+        "zh": "两个"
+      },
+      {
+        "id": "ud-3",
+        "text": "at 7:00",
+        "role": "补充成分",
+        "zh": "在；两人晚上7点的位置",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "at",
+            "role": "介词",
+            "zh": "在"
+          },
+          {
+            "id": "ud-5",
+            "text": "7:00",
+            "role": "中心词",
+            "zh": "两人晚上7点的位置"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "p m",
+        "role": "补充成分",
+        "zh": "p；m",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "p",
+            "role": "数量词",
+            "zh": "p"
+          },
+          {
+            "id": "ud-8",
+            "text": "m",
+            "role": "中心词",
+            "zh": "m"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentZh": "为了",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "two",
+        "phonetic": "tuː",
+        "pos": "NUM",
+        "zh": "两个",
+        "componentZh": "两个",
+        "componentRole": "中心成分"
+      },
+      "2": {
+        "text": "at",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "zh": "在",
+        "componentZh": "在",
+        "componentRole": "介词",
+        "parentComponentText": "at 7:00",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在；两人晚上7点的位置"
+      },
+      "4": {
+        "text": "p",
+        "phonetic": "piː",
+        "pos": "NOUN",
+        "zh": "p",
+        "componentZh": "p",
+        "componentRole": "数量词",
+        "parentComponentText": "p m",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "p；m"
+      },
+      "6": {
+        "text": "m",
+        "phonetic": "ɛm",
+        "pos": "NOUN",
+        "zh": "m",
+        "componentZh": "m",
+        "componentRole": "中心词",
+        "parentComponentText": "p m",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "p；m"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-dysnz3rkltdza0tt856x0slq",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-dysnz3rkltdza0tt856x0slq",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我可以",
+    "audioText": "may I",
+    "fullEnglish": "may I",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "may",
+        "answer": "may",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "可以",
+        "phonetic": "meɪ",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      }
+    ],
+    "shuffledBlocks": [
+      "may",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "may",
+        "role": "谓语",
+        "zh": "可以"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "may",
+        "phonetic": "meɪ",
+        "pos": "AUX",
+        "zh": "可以",
+        "componentZh": "可以",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-jmnrjftzr72hi3vnvpt6dz40",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-jmnrjftzr72hi3vnvpt6dz40",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你的名字",
+    "audioText": "your name",
+    "fullEnglish": "your name",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "name",
+        "answer": "name",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "名字",
+        "phonetic": "neɪm",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "your",
+      "name"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "your",
+        "role": "补充成分",
+        "zh": "你的"
+      },
+      {
+        "id": "ud-2",
+        "text": "name",
+        "role": "中心成分",
+        "zh": "名字"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentZh": "你的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "name",
+        "phonetic": "neɪm",
+        "pos": "NOUN",
+        "zh": "名字",
+        "componentZh": "名字",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-jpdnrojfao6u25kvpyxollgk",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-jpdnrojfao6u25kvpyxollgk",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Anna Smith",
+    "audioText": "Anna Smith",
+    "fullEnglish": "Anna Smith",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Anna",
+        "answer": "Anna",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "Anna",
+        "phonetic": "ˈʌnə",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": "Smith",
+        "answer": "Smith",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "Smith",
+        "phonetic": "smɪθ",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "Anna",
+      "Smith"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Anna",
+        "role": "中心成分",
+        "zh": "Anna"
+      },
+      {
+        "id": "ud-2",
+        "text": "Smith",
+        "role": "补充成分",
+        "zh": "Smith"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Anna",
+        "phonetic": "ˈʌnə",
+        "pos": "PROPN_PERSON",
+        "zh": "Anna",
+        "componentZh": "Anna",
+        "componentRole": "中心成分"
+      },
+      "1": {
+        "text": "Smith",
+        "phonetic": "smɪθ",
+        "pos": "PROPN_PERSON",
+        "zh": "Smith",
+        "componentZh": "Smith",
+        "componentRole": "补充成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-n1es7x5bsa9gfbuadyvu68gs",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-n1es7x5bsa9gfbuadyvu68gs",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这是Anna Smith",
+    "audioText": "It's Anna Smith",
+    "fullEnglish": "It's Anna Smith",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "Anna",
+        "answer": "Anna",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "Anna",
+        "phonetic": "ˈʌnə",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-2",
+        "role": "表语"
+      },
+      {
+        "index": 2,
+        "text": "Smith",
+        "answer": "Smith",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "Smith",
+        "phonetic": "smɪθ",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-3",
+        "role": "补充成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "Smith",
+      "Anna",
+      "It's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "Anna",
+        "role": "表语",
+        "zh": "Anna"
+      },
+      {
+        "id": "ud-3",
+        "text": "Smith",
+        "role": "补充成分",
+        "zh": "Smith"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "Anna",
+        "phonetic": "ˈʌnə",
+        "pos": "PROPN_PERSON",
+        "zh": "Anna",
+        "componentZh": "Anna",
+        "componentRole": "表语"
+      },
+      "2": {
+        "text": "Smith",
+        "phonetic": "smɪθ",
+        "pos": "PROPN_PERSON",
+        "zh": "Smith",
+        "componentZh": "Smith",
+        "componentRole": "补充成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-c2uwsr3yj8kfy3phakso8o7e",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-c2uwsr3yj8kfy3phakso8o7e",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "任何户外座位",
+    "audioText": "any outdoor seating",
+    "fullEnglish": "any outdoor seating",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "any",
+        "answer": "any",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "任何",
+        "phonetic": "ˈeni",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "outdoor",
+        "answer": "outdoor",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "户外的",
+        "phonetic": "ˈaʊtdɔːr",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "seating",
+        "answer": "seating",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "座位（复数）",
+        "phonetic": "ˈsiːtɪŋ",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "outdoor",
+      "seating",
+      "any"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "any",
+        "role": "补充成分",
+        "zh": "任何"
+      },
+      {
+        "id": "ud-2",
+        "text": "outdoor",
+        "role": "补充成分",
+        "zh": "户外的"
+      },
+      {
+        "id": "ud-3",
+        "text": "seating",
+        "role": "中心成分",
+        "zh": "座位（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "any",
+        "phonetic": "ˈeni",
+        "pos": "DET",
+        "zh": "任何",
+        "componentZh": "任何",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "outdoor",
+        "phonetic": "ˈaʊtdɔːr",
+        "pos": "ADJ",
+        "zh": "户外的",
+        "componentZh": "户外的",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "seating",
+        "phonetic": "ˈsiːtɪŋ",
+        "pos": "NOUN",
+        "zh": "座位（复数）",
+        "componentZh": "座位（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-s36vv9xbhn85v2al5itaccci",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-s36vv9xbhn85v2al5itaccci",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你们有户外座位吗？",
+    "audioText": "Do you have any outdoor seating?",
+    "fullEnglish": "Do you have any outdoor seating?",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Do",
+        "answer": "Do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      },
+      {
+        "index": 3,
+        "text": "any",
+        "answer": "any",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "任何",
+        "phonetic": "ˈeni",
+        "pos": "DET",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "any outdoor seating",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；户外的；座位（复数）"
+      },
+      {
+        "index": 4,
+        "text": "outdoor",
+        "answer": "outdoor",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "户外的",
+        "phonetic": "ˈaʊtdɔːr",
+        "pos": "ADJ",
+        "componentId": "ud-6",
+        "role": "定语（形容词）",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "any outdoor seating",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；户外的；座位（复数）"
+      },
+      {
+        "index": 5,
+        "text": "seating",
+        "answer": "seating",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "座位（复数）",
+        "phonetic": "ˈsiːtɪŋ",
+        "pos": "NOUN",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "any outdoor seating",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；户外的；座位（复数）"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你们有户外座位吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Do",
+      "have",
+      "outdoor",
+      "any",
+      "seating",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Do",
+        "role": "助动词",
+        "zh": "构成疑问句"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-4",
+        "text": "any outdoor seating",
+        "role": "宾语",
+        "zh": "任何；户外的；座位（复数）",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "any",
+            "role": "限定词",
+            "zh": "任何"
+          },
+          {
+            "id": "ud-6",
+            "text": "outdoor",
+            "role": "定语（形容词）",
+            "zh": "户外的"
+          },
+          {
+            "id": "ud-7",
+            "text": "seating",
+            "role": "中心词",
+            "zh": "座位（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentZh": "构成疑问句",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有",
+        "componentRole": "谓语"
+      },
+      "3": {
+        "text": "any",
+        "phonetic": "ˈeni",
+        "pos": "DET",
+        "zh": "任何",
+        "componentZh": "任何",
+        "componentRole": "限定词",
+        "parentComponentText": "any outdoor seating",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；户外的；座位（复数）"
+      },
+      "4": {
+        "text": "outdoor",
+        "phonetic": "ˈaʊtdɔːr",
+        "pos": "ADJ",
+        "zh": "户外的",
+        "componentZh": "户外的",
+        "componentRole": "定语（形容词）",
+        "parentComponentText": "any outdoor seating",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；户外的；座位（复数）"
+      },
+      "5": {
+        "text": "seating",
+        "phonetic": "ˈsiːtɪŋ",
+        "pos": "NOUN",
+        "zh": "座位（复数）",
+        "componentZh": "座位（复数）",
+        "componentRole": "中心词",
+        "parentComponentText": "any outdoor seating",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；户外的；座位（复数）"
+      }
+    },
+    "sentenceType": "一般疑问句",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-pdz95jbq6i40cxll6cqzov9d",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-pdz95jbq6i40cxll6cqzov9d",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们确实",
+    "audioText": "we do",
+    "fullEnglish": "we do",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "we",
+        "answer": "we",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "do",
+      "we"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "we",
+        "role": "主语",
+        "zh": "我们"
+      },
+      {
+        "id": "ud-2",
+        "text": "do",
+        "role": "谓语",
+        "zh": "构成疑问句"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "we",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentZh": "我们",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentZh": "构成疑问句",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-euhxowhzya1tqq1fk80ducik",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-euhxowhzya1tqq1fk80ducik",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的，我们愿意",
+    "audioText": "Yes, we do",
+    "fullEnglish": "Yes, we do",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "componentId": "ud-1",
+        "role": "语气/引导语"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，我们愿意"
+      },
+      {
+        "index": 2,
+        "text": "we",
+        "answer": "we",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 3,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "componentId": "ud-3",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "do",
+      "we",
+      "Yes"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yes",
+        "role": "语气/引导语",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "we",
+        "role": "主语",
+        "zh": "我们"
+      },
+      {
+        "id": "ud-3",
+        "text": "do",
+        "role": "谓语",
+        "zh": "构成疑问句"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的",
+        "componentRole": "语气/引导语"
+      },
+      "2": {
+        "text": "we",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentZh": "我们",
+        "componentRole": "主语"
+      },
+      "3": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentZh": "构成疑问句",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-xwm3z09do63xg4d73owvnw78",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-xwm3z09do63xg4d73owvnw78",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你更喜欢室内还是室外？",
+    "audioText": "Would you prefer indoors or outdoors?",
+    "fullEnglish": "Would you prefer indoors or outdoors?",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Would",
+        "answer": "Would",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "将",
+        "phonetic": "wʊd",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "prefer",
+        "answer": "prefer",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "更喜欢",
+        "phonetic": "prɪˈfɜːr",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      },
+      {
+        "index": 3,
+        "text": "indoors",
+        "answer": "indoors",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "室内",
+        "phonetic": "ˌɪnˈdɔːrz",
+        "pos": "ADV",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "indoors or outdoors",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "室内；或者；室外"
+      },
+      {
+        "index": 4,
+        "text": "or",
+        "answer": "or",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "或者",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "componentId": "ud-6",
+        "role": "并列连词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "indoors or outdoors",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "室内；或者；室外"
+      },
+      {
+        "index": 5,
+        "text": "outdoors",
+        "answer": "outdoors",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "室外",
+        "phonetic": "ˌaʊtˈdɔːrz",
+        "pos": "ADV",
+        "componentId": "ud-7",
+        "role": "副词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "indoors or outdoors",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "室内；或者；室外"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你更喜欢室内还是室外？"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "Would",
+      "indoors",
+      "or",
+      "outdoors",
+      "prefer"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Would",
+        "role": "助动词",
+        "zh": "将"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "prefer",
+        "role": "谓语",
+        "zh": "更喜欢"
+      },
+      {
+        "id": "ud-4",
+        "text": "indoors or outdoors",
+        "role": "方式/程度状语",
+        "zh": "室内；或者；室外",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "indoors",
+            "role": "中心词",
+            "zh": "室内"
+          },
+          {
+            "id": "ud-6",
+            "text": "or",
+            "role": "并列连词",
+            "zh": "或者"
+          },
+          {
+            "id": "ud-7",
+            "text": "outdoors",
+            "role": "副词",
+            "zh": "室外"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Would",
+        "phonetic": "wʊd",
+        "pos": "AUX",
+        "zh": "将",
+        "componentZh": "将",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "prefer",
+        "phonetic": "prɪˈfɜːr",
+        "pos": "VERB",
+        "zh": "更喜欢",
+        "componentZh": "更喜欢",
+        "componentRole": "谓语"
+      },
+      "3": {
+        "text": "indoors",
+        "phonetic": "ˌɪnˈdɔːrz",
+        "pos": "ADV",
+        "zh": "室内",
+        "componentZh": "室内",
+        "componentRole": "中心词",
+        "parentComponentText": "indoors or outdoors",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "室内；或者；室外"
+      },
+      "4": {
+        "text": "or",
+        "phonetic": "ɔr",
+        "pos": "CCONJ",
+        "zh": "或者",
+        "componentZh": "或者",
+        "componentRole": "并列连词",
+        "parentComponentText": "indoors or outdoors",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "室内；或者；室外"
+      },
+      "5": {
+        "text": "outdoors",
+        "phonetic": "ˌaʊtˈdɔːrz",
+        "pos": "ADV",
+        "zh": "室外",
+        "componentZh": "室外",
+        "componentRole": "副词",
+        "parentComponentText": "indoors or outdoors",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "室内；或者；室外"
+      }
+    },
+    "sentenceType": "一般疑问句",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-sivgwlsf5kw3ykundn186783",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-sivgwlsf5kw3ykundn186783",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "也可以",
+    "audioText": "is also okay",
+    "fullEnglish": "is also okay",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "系动词"
+      },
+      {
+        "index": 1,
+        "text": "also",
+        "answer": "also",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "也",
+        "phonetic": "ˈɔːlsoʊ",
+        "pos": "ADV",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 2,
+        "text": "okay",
+        "answer": "okay",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "好的",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "is",
+      "also",
+      "okay"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-2",
+        "text": "also",
+        "role": "方式/程度状语",
+        "zh": "也"
+      },
+      {
+        "id": "ud-3",
+        "text": "okay",
+        "role": "表语",
+        "zh": "好的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是",
+        "componentRole": "系动词"
+      },
+      "1": {
+        "text": "also",
+        "phonetic": "ˈɔːlsoʊ",
+        "pos": "ADV",
+        "zh": "也",
+        "componentZh": "也",
+        "componentRole": "方式/程度状语"
+      },
+      "2": {
+        "text": "okay",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentZh": "好的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "主系表结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-tpmf9bkzllm334mqe8sy8ccr",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-tpmf9bkzllm334mqe8sy8ccr",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "户外也可以",
+    "audioText": "Outdoor is also okay",
+    "fullEnglish": "Outdoor is also okay",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Outdoor",
+        "answer": "Outdoor",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "户外的",
+        "phonetic": "ˈaʊtdɔːr",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "系动词"
+      },
+      {
+        "index": 2,
+        "text": "also",
+        "answer": "also",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "也",
+        "phonetic": "ˈɔːlsoʊ",
+        "pos": "ADV",
+        "componentId": "ud-3",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 3,
+        "text": "okay",
+        "answer": "okay",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "好的",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "ADJ",
+        "componentId": "ud-4",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "is",
+      "okay",
+      "Outdoor",
+      "also"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Outdoor",
+        "role": "主语",
+        "zh": "户外的"
+      },
+      {
+        "id": "ud-2",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-3",
+        "text": "also",
+        "role": "方式/程度状语",
+        "zh": "也"
+      },
+      {
+        "id": "ud-4",
+        "text": "okay",
+        "role": "表语",
+        "zh": "好的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Outdoor",
+        "phonetic": "ˈaʊtdɔːr",
+        "pos": "ADJ",
+        "zh": "户外的",
+        "componentZh": "户外的",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是",
+        "componentRole": "系动词"
+      },
+      "2": {
+        "text": "also",
+        "phonetic": "ˈɔːlsoʊ",
+        "pos": "ADV",
+        "zh": "也",
+        "componentZh": "也",
+        "componentRole": "方式/程度状语"
+      },
+      "3": {
+        "text": "okay",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentZh": "好的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "主系表结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-ivc45i1jijsa1zkovd1eu4y1",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-ivc45i1jijsa1zkovd1eu4y1",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们可以",
+    "audioText": "could we",
+    "fullEnglish": "could we",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "could",
+        "answer": "could",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kʊd",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "we",
+        "answer": "we",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      }
+    ],
+    "shuffledBlocks": [
+      "could",
+      "we"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "could",
+        "role": "谓语",
+        "zh": "能"
+      },
+      {
+        "id": "ud-2",
+        "text": "we",
+        "role": "主语",
+        "zh": "我们"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "could",
+        "phonetic": "kʊd",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "we",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentZh": "我们",
+        "componentRole": "主语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-k2293brimgyghfv3ubt6fx3c",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-k2293brimgyghfv3ubt6fx3c",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一张桌子",
+    "audioText": "a table",
+    "fullEnglish": "a table",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "table",
+        "answer": "table",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "桌子",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "a",
+      "table"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "a",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-2",
+        "text": "table",
+        "role": "中心成分",
+        "zh": "桌子"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "table",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "zh": "桌子",
+        "componentZh": "桌子",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-j6841w56u2nfbbtoyr77n0u9",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-j6841w56u2nfbbtoyr77n0u9",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "靠窗",
+    "audioText": "by the window",
+    "fullEnglish": "by the window",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "by",
+        "answer": "by",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...旁边",
+        "phonetic": "baɪ",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "window",
+        "answer": "window",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "窗户",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "window",
+      "by"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "by",
+        "role": "补充成分",
+        "zh": "在...旁边"
+      },
+      {
+        "id": "ud-2",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-3",
+        "text": "window",
+        "role": "中心成分",
+        "zh": "窗户"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "by",
+        "phonetic": "baɪ",
+        "pos": "ADP",
+        "zh": "在...旁边",
+        "componentZh": "在...旁边",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "window",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "zh": "窗户",
+        "componentZh": "窗户",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-g8tblhjmbikty6zfmo1nvs2m",
+    "contentId": "JLB-ngcvm0qls1qmtw0r6lep8jui-PHRASE-g8tblhjmbikty6zfmo1nvs2m",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "ngcvm0qls1qmtw0r6lep8jui",
+    "unitTitle": "餐饮与订餐(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们可以要一张靠窗的桌子吗？",
+    "audioText": "could we have a table by the window?",
+    "fullEnglish": "could we have a table by the window?",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "could",
+        "answer": "could",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kʊd",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "we",
+        "answer": "we",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      },
+      {
+        "index": 3,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "a table",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；桌子"
+      },
+      {
+        "index": 4,
+        "text": "table",
+        "answer": "table",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "桌子",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "a table",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；桌子"
+      },
+      {
+        "index": 5,
+        "text": "by",
+        "answer": "by",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...旁边",
+        "phonetic": "baɪ",
+        "pos": "ADP",
+        "componentId": "ud-8",
+        "role": "介词",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "by the window",
+        "parentComponentRole": "方式/伴随状语",
+        "parentComponentZh": "在...旁边；定冠词；窗户"
+      },
+      {
+        "index": 6,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-10",
+        "role": "限定词",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "the window",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；窗户"
+      },
+      {
+        "index": 7,
+        "text": "window",
+        "answer": "window",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "窗户",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "componentId": "ud-11",
+        "role": "中心词",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "the window",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；窗户"
+      },
+      {
+        "index": 8,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我们可以要一张靠窗的桌子吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "could",
+      "the",
+      "a",
+      "table",
+      "window",
+      "we",
+      "have",
+      "by"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "could",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-2",
+        "text": "we",
+        "role": "主语",
+        "zh": "我们"
+      },
+      {
+        "id": "ud-3",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-4",
+        "text": "a table",
+        "role": "宾语",
+        "zh": "一个；桌子",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-6",
+            "text": "table",
+            "role": "中心词",
+            "zh": "桌子"
+          }
+        ]
+      },
+      {
+        "id": "ud-7",
+        "text": "by the window",
+        "role": "方式/伴随状语",
+        "zh": "在...旁边；定冠词；窗户",
+        "children": [
+          {
+            "id": "ud-8",
+            "text": "by",
+            "role": "介词",
+            "zh": "在...旁边"
+          },
+          {
+            "id": "ud-9",
+            "text": "the window",
+            "role": "介词宾语",
+            "zh": "定冠词；窗户",
+            "children": [
+              {
+                "id": "ud-10",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-11",
+                "text": "window",
+                "role": "中心词",
+                "zh": "窗户"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "could",
+        "phonetic": "kʊd",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "we",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentZh": "我们",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有",
+        "componentRole": "谓语"
+      },
+      "3": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "限定词",
+        "parentComponentText": "a table",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；桌子"
+      },
+      "4": {
+        "text": "table",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "zh": "桌子",
+        "componentZh": "桌子",
+        "componentRole": "中心词",
+        "parentComponentText": "a table",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；桌子"
+      },
+      "5": {
+        "text": "by",
+        "phonetic": "baɪ",
+        "pos": "ADP",
+        "zh": "在...旁边",
+        "componentZh": "在...旁边",
+        "componentRole": "介词",
+        "parentComponentText": "by the window",
+        "parentComponentRole": "方式/伴随状语",
+        "parentComponentZh": "在...旁边；定冠词；窗户"
+      },
+      "6": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "限定词",
+        "parentComponentText": "the window",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；窗户"
+      },
+      "7": {
+        "text": "window",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "zh": "窗户",
+        "componentZh": "窗户",
+        "componentRole": "中心词",
+        "parentComponentText": "the window",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；窗户"
+      }
+    },
+    "sentenceType": "一般疑问句",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

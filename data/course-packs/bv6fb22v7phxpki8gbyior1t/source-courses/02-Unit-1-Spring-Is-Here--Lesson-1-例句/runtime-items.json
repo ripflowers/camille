@@ -1,0 +1,3004 @@
+[
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-S-t0ormdfotbs1r7c3o3pi06pc",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-S-t0ormdfotbs1r7c3o3pi06pc",
+    "type": "sentence",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你能和我一起打乒乓球吗？",
+    "audioText": "Can you play ping-pong with me?",
+    "fullEnglish": "Can you play ping-pong with me?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Can",
+        "answer": "Can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "可以",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "玩",
+        "phonetic": "pleɪ",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "ping",
+        "answer": "ping",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "定语（名词修饰）",
+        "zh": "你能和我一起打乒乓球吗？",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "ping pong",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你能和我一起打乒乓球吗？"
+      },
+      {
+        "index": 4,
+        "text": "-",
+        "answer": "-",
+        "blank": "-",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "symbol",
+        "zh": "你能和我一起打乒乓球吗？"
+      },
+      {
+        "index": 5,
+        "text": "pong",
+        "answer": "pong",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "你能和我一起打乒乓球吗？",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "ping pong",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你能和我一起打乒乓球吗？"
+      },
+      {
+        "index": 6,
+        "text": "with",
+        "answer": "with",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "介词",
+        "zh": "和",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "with me",
+        "parentComponentRole": "方式/伴随状语",
+        "parentComponentZh": "和；我"
+      },
+      {
+        "index": 7,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "中心词",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "me",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "我"
+      },
+      {
+        "index": 8,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你能和我一起打乒乓球吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "pong",
+      "me",
+      "Can",
+      "with",
+      "play",
+      "ping",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Can",
+        "role": "助动词",
+        "zh": "可以"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "play",
+        "role": "谓语",
+        "zh": "玩"
+      },
+      {
+        "id": "ud-4",
+        "text": "ping pong",
+        "role": "宾语",
+        "zh": "你能和我一起打乒乓球吗？",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "ping",
+            "role": "定语（名词修饰）",
+            "zh": "你能和我一起打乒乓球吗？"
+          },
+          {
+            "id": "ud-6",
+            "text": "pong",
+            "role": "中心词",
+            "zh": "你能和我一起打乒乓球吗？"
+          }
+        ]
+      },
+      {
+        "id": "ud-7",
+        "text": "with me",
+        "role": "方式/伴随状语",
+        "zh": "和；我",
+        "children": [
+          {
+            "id": "ud-8",
+            "text": "with",
+            "role": "介词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-9",
+            "text": "me",
+            "role": "介词宾语",
+            "zh": "我",
+            "children": [
+              {
+                "id": "ud-10",
+                "text": "me",
+                "role": "中心词",
+                "zh": "我"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "可以",
+        "componentRole": "助动词",
+        "componentZh": "可以"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "2": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "玩",
+        "componentRole": "谓语",
+        "componentZh": "玩"
+      },
+      "3": {
+        "text": "ping",
+        "zh": "你能和我一起打乒乓球吗？",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "你能和我一起打乒乓球吗？",
+        "parentComponentText": "ping pong",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你能和我一起打乒乓球吗？"
+      },
+      "5": {
+        "text": "pong",
+        "zh": "你能和我一起打乒乓球吗？",
+        "componentRole": "中心词",
+        "componentZh": "你能和我一起打乒乓球吗？",
+        "parentComponentText": "ping pong",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你能和我一起打乒乓球吗？"
+      },
+      "6": {
+        "text": "with",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "zh": "和",
+        "componentRole": "介词",
+        "componentZh": "和",
+        "parentComponentText": "with me",
+        "parentComponentRole": "方式/伴随状语",
+        "parentComponentZh": "和；我"
+      },
+      "7": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "中心词",
+        "componentZh": "我",
+        "parentComponentText": "me",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "我"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-t0ormdfotbs1r7c3o3pi06pc-1",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-t0ormdfotbs1r7c3o3pi06pc-1",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "能",
+    "audioText": "Can",
+    "fullEnglish": "Can",
+    "phonetic": "kæn",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Can",
+        "answer": "Can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "可以",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "Can"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "可以",
+        "componentZh": "可以"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-t0ormdfotbs1r7c3o3pi06pc-2",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-t0ormdfotbs1r7c3o3pi06pc-2",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-t0ormdfotbs1r7c3o3pi06pc-3",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-t0ormdfotbs1r7c3o3pi06pc-3",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "打",
+    "audioText": "play",
+    "fullEnglish": "play",
+    "phonetic": "pleɪ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "玩",
+        "phonetic": "pleɪ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "play"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "玩",
+        "componentZh": "玩"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-t0ormdfotbs1r7c3o3pi06pc-4",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-t0ormdfotbs1r7c3o3pi06pc-4",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "乒乓球",
+    "audioText": "ping-pong",
+    "fullEnglish": "ping-pong",
+    "phonetic": "ˈpɪŋ pɑːŋ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "ping-pong",
+        "answer": "ping-pong",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "乒乓球",
+        "phonetic": "ˈpɪŋ pɑːŋ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "ping-pong"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "ping-pong",
+        "phonetic": "ˈpɪŋ pɑːŋ",
+        "pos": "NOUN",
+        "zh": "乒乓球",
+        "componentZh": "乒乓球"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-t0ormdfotbs1r7c3o3pi06pc-5",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-t0ormdfotbs1r7c3o3pi06pc-5",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "和",
+    "audioText": "with",
+    "fullEnglish": "with",
+    "phonetic": "wɪð; wɪθ",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "with",
+        "answer": "with",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "with"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "with",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "zh": "和",
+        "componentZh": "和"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-t0ormdfotbs1r7c3o3pi06pc-6",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-t0ormdfotbs1r7c3o3pi06pc-6",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "me",
+    "fullEnglish": "me",
+    "phonetic": "miː",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "me"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-S-ug69l2i44713evhm1t18o9xx",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-S-ug69l2i44713evhm1t18o9xx",
+    "type": "sentence",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "抱歉我无法前往。我正在为妈妈准备礼物，明天是妇女节。",
+    "audioText": "I'm sorry I can't. I'm making a gift for my mum. Tomorrow is Women's Day",
+    "fullEnglish": "I'm sorry I can't. I'm making a gift for my mum. Tomorrow is Women's Day",
+    "sentenceType": "主谓宾结构（含宾语从句）",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "我是",
+        "phonetic": "aɪm",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "sorry",
+        "answer": "sorry",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "抱歉",
+        "phonetic": "ˈsɑːri",
+        "pos": "INTJ"
+      },
+      {
+        "index": 2,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "I can't",
+        "parentComponentRole": "宾语从句",
+        "parentComponentZh": "我；不能"
+      },
+      {
+        "index": 3,
+        "text": "can't",
+        "answer": "can't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "方式/程度状语",
+        "zh": "不能",
+        "phonetic": "kænt",
+        "pos": "AUX",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "I can't",
+        "parentComponentRole": "宾语从句",
+        "parentComponentZh": "我；不能"
+      },
+      {
+        "index": 4,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "抱歉我无法前往。我正在为妈妈准备礼物，明天是妇女节。"
+      },
+      {
+        "index": 5,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "主语 + 助动词",
+        "zh": "我是",
+        "phonetic": "aɪm",
+        "pos": "PRON"
+      },
+      {
+        "index": 6,
+        "text": "making",
+        "answer": "making",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "谓语",
+        "zh": "make（现在分词）: 制作",
+        "phonetic": "ˈmeɪkɪŋ",
+        "pos": "VERB"
+      },
+      {
+        "index": 7,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "a gift for my mum",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；礼物；为；我的；Mum"
+      },
+      {
+        "index": 8,
+        "text": "gift",
+        "answer": "gift",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "中心词",
+        "zh": "礼物",
+        "phonetic": "ɡɪft",
+        "pos": "NOUN",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "a gift for my mum",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；礼物；为；我的；Mum"
+      },
+      {
+        "index": 9,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-12",
+        "role": "介词",
+        "zh": "为",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "a gift for my mum",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；礼物；为；我的；Mum"
+      },
+      {
+        "index": 10,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-13",
+        "role": "限定词",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "a gift for my mum",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；礼物；为；我的；Mum"
+      },
+      {
+        "index": 11,
+        "text": "mum",
+        "answer": "mum",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-14",
+        "role": "修饰语",
+        "zh": "Mum",
+        "phonetic": "mʌm",
+        "pos": "PROPN_PERSON",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "a gift for my mum",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；礼物；为；我的；Mum"
+      },
+      {
+        "index": 12,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "抱歉我无法前往。我正在为妈妈准备礼物，明天是妇女节。"
+      },
+      {
+        "index": 13,
+        "text": "Tomorrow",
+        "answer": "Tomorrow",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-15",
+        "role": "主语",
+        "zh": "明天",
+        "phonetic": "təˈmɑːroʊ",
+        "pos": "NOUN"
+      },
+      {
+        "index": 14,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-16",
+        "role": "系动词",
+        "zh": "be（现在时第三人称单数）: 是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 15,
+        "text": "Women's",
+        "answer": "Women's",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-17",
+        "role": "补充成分",
+        "zh": "妇女的",
+        "phonetic": "ˈwɪmɪnz",
+        "pos": "NOUN"
+      },
+      {
+        "index": 16,
+        "text": "Day",
+        "answer": "Day",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-18",
+        "role": "表语",
+        "zh": "日",
+        "phonetic": "deɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "I'm",
+      "I'm",
+      "can't",
+      "making",
+      "sorry",
+      "my",
+      "gift",
+      "is",
+      "mum",
+      "Women's",
+      "Day",
+      "I",
+      "for",
+      "a",
+      "Tomorrow"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I'm",
+        "role": "主语 + 系动词",
+        "zh": "我是"
+      },
+      {
+        "id": "ud-2",
+        "text": "sorry",
+        "role": "表语",
+        "zh": "抱歉"
+      },
+      {
+        "id": "ud-3",
+        "text": "I can't",
+        "role": "宾语从句",
+        "zh": "我；不能",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "I",
+            "role": "主语",
+            "zh": "我"
+          },
+          {
+            "id": "ud-5",
+            "text": "can't",
+            "role": "方式/程度状语",
+            "zh": "不能"
+          },
+          {
+            "id": "ud-6",
+            "text": "can't",
+            "role": "谓语",
+            "zh": "不能"
+          }
+        ]
+      },
+      {
+        "id": "ud-7",
+        "text": "I'm",
+        "role": "主语 + 助动词",
+        "zh": "我是"
+      },
+      {
+        "id": "ud-8",
+        "text": "making",
+        "role": "谓语",
+        "zh": "make（现在分词）: 制作"
+      },
+      {
+        "id": "ud-9",
+        "text": "a gift for my mum",
+        "role": "宾语",
+        "zh": "一个；礼物；为；我的；Mum",
+        "children": [
+          {
+            "id": "ud-10",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-11",
+            "text": "gift",
+            "role": "中心词",
+            "zh": "礼物"
+          },
+          {
+            "id": "ud-12",
+            "text": "for",
+            "role": "介词",
+            "zh": "为"
+          },
+          {
+            "id": "ud-13",
+            "text": "my",
+            "role": "限定词",
+            "zh": "我的"
+          },
+          {
+            "id": "ud-14",
+            "text": "mum",
+            "role": "修饰语",
+            "zh": "Mum"
+          }
+        ]
+      },
+      {
+        "id": "ud-15",
+        "text": "Tomorrow",
+        "role": "主语",
+        "zh": "明天"
+      },
+      {
+        "id": "ud-16",
+        "text": "is",
+        "role": "系动词",
+        "zh": "be（现在时第三人称单数）: 是"
+      },
+      {
+        "id": "ud-17",
+        "text": "Women's",
+        "role": "补充成分",
+        "zh": "妇女的"
+      },
+      {
+        "id": "ud-18",
+        "text": "Day",
+        "role": "表语",
+        "zh": "日"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "我是"
+      },
+      "1": {
+        "text": "sorry",
+        "phonetic": "ˈsɑːri",
+        "pos": "INTJ",
+        "zh": "抱歉",
+        "componentRole": "表语",
+        "componentZh": "抱歉"
+      },
+      "2": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我",
+        "parentComponentText": "I can't",
+        "parentComponentRole": "宾语从句",
+        "parentComponentZh": "我；不能"
+      },
+      "3": {
+        "text": "can't",
+        "phonetic": "kænt",
+        "pos": "AUX",
+        "zh": "不能",
+        "componentRole": "方式/程度状语",
+        "componentZh": "不能",
+        "parentComponentText": "I can't",
+        "parentComponentRole": "宾语从句",
+        "parentComponentZh": "我；不能"
+      },
+      "5": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我是",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "我是"
+      },
+      "6": {
+        "text": "making",
+        "phonetic": "ˈmeɪkɪŋ",
+        "pos": "VERB",
+        "zh": "make（现在分词）: 制作",
+        "componentRole": "谓语",
+        "componentZh": "make（现在分词）: 制作"
+      },
+      "7": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "a gift for my mum",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；礼物；为；我的；Mum"
+      },
+      "8": {
+        "text": "gift",
+        "phonetic": "ɡɪft",
+        "pos": "NOUN",
+        "zh": "礼物",
+        "componentRole": "中心词",
+        "componentZh": "礼物",
+        "parentComponentText": "a gift for my mum",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；礼物；为；我的；Mum"
+      },
+      "9": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为",
+        "componentRole": "介词",
+        "componentZh": "为",
+        "parentComponentText": "a gift for my mum",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；礼物；为；我的；Mum"
+      },
+      "10": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "限定词",
+        "componentZh": "我的",
+        "parentComponentText": "a gift for my mum",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；礼物；为；我的；Mum"
+      },
+      "11": {
+        "text": "mum",
+        "phonetic": "mʌm",
+        "pos": "PROPN_PERSON",
+        "zh": "Mum",
+        "componentRole": "修饰语",
+        "componentZh": "Mum",
+        "parentComponentText": "a gift for my mum",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；礼物；为；我的；Mum"
+      },
+      "13": {
+        "text": "Tomorrow",
+        "phonetic": "təˈmɑːroʊ",
+        "pos": "NOUN",
+        "zh": "明天",
+        "componentRole": "主语",
+        "componentZh": "明天"
+      },
+      "14": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "be（现在时第三人称单数）: 是",
+        "componentRole": "系动词",
+        "componentZh": "be（现在时第三人称单数）: 是"
+      },
+      "15": {
+        "text": "Women's",
+        "phonetic": "ˈwɪmɪnz",
+        "pos": "NOUN",
+        "zh": "妇女的",
+        "componentRole": "补充成分",
+        "componentZh": "妇女的"
+      },
+      "16": {
+        "text": "Day",
+        "phonetic": "deɪ",
+        "pos": "NOUN",
+        "zh": "日",
+        "componentRole": "表语",
+        "componentZh": "日"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-1",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-1",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "I am 的缩写: 我",
+    "audioText": "I'm",
+    "fullEnglish": "I'm",
+    "phonetic": "aɪm",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我是",
+        "phonetic": "aɪm",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I'm"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我是",
+        "componentZh": "我是"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-2",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-2",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "抱歉的",
+    "audioText": "sorry",
+    "fullEnglish": "sorry",
+    "phonetic": "ˈsɑːri",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "sorry",
+        "answer": "sorry",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "抱歉",
+        "phonetic": "ˈsɑːri",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "sorry"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "sorry",
+        "phonetic": "ˈsɑːri",
+        "pos": "INTJ",
+        "zh": "抱歉",
+        "componentZh": "抱歉"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-3",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-3",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-4",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-4",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "cannot 的缩写: 不能",
+    "audioText": "can't",
+    "fullEnglish": "can't",
+    "phonetic": "kænt",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "can't",
+        "answer": "can't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "不能",
+        "phonetic": "kænt",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "can't"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "can't",
+        "phonetic": "kænt",
+        "pos": "AUX",
+        "zh": "不能",
+        "componentZh": "不能"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-6",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-6",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "make（现在分词）: 制作",
+    "audioText": "making",
+    "fullEnglish": "making",
+    "phonetic": "ˈmeɪkɪŋ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "making",
+        "answer": "making",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "make（现在分词）: 制作",
+        "phonetic": "ˈmeɪkɪŋ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "making"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "making",
+        "phonetic": "ˈmeɪkɪŋ",
+        "pos": "VERB",
+        "zh": "make（现在分词）: 制作",
+        "componentZh": "make（现在分词）: 制作"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-7",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-7",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个",
+    "audioText": "a",
+    "fullEnglish": "a",
+    "phonetic": "ə; eɪ",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "a"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-8",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-8",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "礼物",
+    "audioText": "gift",
+    "fullEnglish": "gift",
+    "phonetic": "ɡɪft",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "gift",
+        "answer": "gift",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "礼物",
+        "phonetic": "ɡɪft",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "gift"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "gift",
+        "phonetic": "ɡɪft",
+        "pos": "NOUN",
+        "zh": "礼物",
+        "componentZh": "礼物"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-9",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-9",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "为了",
+    "audioText": "for",
+    "fullEnglish": "for",
+    "phonetic": "fɔːr; fər",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "for"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为",
+        "componentZh": "为"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-10",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-10",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的",
+    "audioText": "my",
+    "fullEnglish": "my",
+    "phonetic": "maɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "my"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-11",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-11",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "妈妈",
+    "audioText": "mum",
+    "fullEnglish": "mum",
+    "phonetic": "mʌm",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "mum",
+        "answer": "mum",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "Mum",
+        "phonetic": "mʌm",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "mum"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "mum",
+        "phonetic": "mʌm",
+        "pos": "PROPN_PERSON",
+        "zh": "Mum",
+        "componentZh": "Mum"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-12",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-12",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "明天",
+    "audioText": "Tomorrow",
+    "fullEnglish": "Tomorrow",
+    "phonetic": "təˈmɑːroʊ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Tomorrow",
+        "answer": "Tomorrow",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "明天",
+        "phonetic": "təˈmɑːroʊ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Tomorrow"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Tomorrow",
+        "phonetic": "təˈmɑːroʊ",
+        "pos": "NOUN",
+        "zh": "明天",
+        "componentZh": "明天"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-13",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-13",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "is",
+    "fullEnglish": "is",
+    "phonetic": "ɪz",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "be（现在时第三人称单数）: 是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "is"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "be（现在时第三人称单数）: 是",
+        "componentZh": "be（现在时第三人称单数）: 是"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-14",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-14",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "妇女的",
+    "audioText": "Women's",
+    "fullEnglish": "Women's",
+    "phonetic": "ˈwɪmɪnz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Women's",
+        "answer": "Women's",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "妇女的",
+        "phonetic": "ˈwɪmɪnz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Women's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Women's",
+        "phonetic": "ˈwɪmɪnz",
+        "pos": "NOUN",
+        "zh": "妇女的",
+        "componentZh": "妇女的"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-15",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-ug69l2i44713evhm1t18o9xx-15",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "节日",
+    "audioText": "Day",
+    "fullEnglish": "Day",
+    "phonetic": "deɪ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Day",
+        "answer": "Day",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "日",
+        "phonetic": "deɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Day"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Day",
+        "phonetic": "deɪ",
+        "pos": "NOUN",
+        "zh": "日",
+        "componentZh": "日"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-S-nqh62o1rot7kr6keya201x2e",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-S-nqh62o1rot7kr6keya201x2e",
+    "type": "sentence",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哦，对了。明天是3月8日。我也想给我妈妈准备一份礼物。",
+    "audioText": "Oh, yes. Tomorrow is March 8th. I want to make a gift for my mum, too",
+    "fullEnglish": "Oh, yes. Tomorrow is March 8th. I want to make a gift for my mum, too",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Oh",
+        "answer": "Oh",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "哦",
+        "phonetic": "oʊ",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哦，对了。明天是3月8日。我也想给我妈妈准备一份礼物。"
+      },
+      {
+        "index": 2,
+        "text": "yes",
+        "answer": "yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      },
+      {
+        "index": 3,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哦，对了。明天是3月8日。我也想给我妈妈准备一份礼物。"
+      },
+      {
+        "index": 4,
+        "text": "Tomorrow",
+        "answer": "Tomorrow",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "主语",
+        "zh": "明天",
+        "phonetic": "təˈmɑːroʊ",
+        "pos": "NOUN"
+      },
+      {
+        "index": 5,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "系动词",
+        "zh": "be（现在时第三人称单数）: 是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 6,
+        "text": "March",
+        "answer": "March",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "三月",
+        "phonetic": "mɑːrtʃ",
+        "pos": "NOUN"
+      },
+      {
+        "index": 7,
+        "text": "8th",
+        "answer": "8th",
+        "blank": "8th",
+        "letterCount": 2,
+        "fillable": false,
+        "type": "date",
+        "zh": "哦，对了。明天是3月8日。我也想给我妈妈准备一份礼物。"
+      },
+      {
+        "index": 8,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哦，对了。明天是3月8日。我也想给我妈妈准备一份礼物。"
+      },
+      {
+        "index": 9,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 10,
+        "text": "want",
+        "answer": "want",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "谓语",
+        "zh": "想要",
+        "phonetic": "wɑːnt",
+        "pos": "VERB"
+      },
+      {
+        "index": 11,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "连接词",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "to make a gift for my mum",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；制作；一个；礼物；为；我的；Mum"
+      },
+      {
+        "index": 12,
+        "text": "make",
+        "answer": "make",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "谓语",
+        "zh": "制作",
+        "phonetic": "meɪk",
+        "pos": "VERB",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "to make a gift for my mum",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；制作；一个；礼物；为；我的；Mum"
+      },
+      {
+        "index": 13,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-13",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-12",
+        "parentComponentText": "a gift for my mum",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；礼物；为；我的；Mum"
+      },
+      {
+        "index": 14,
+        "text": "gift",
+        "answer": "gift",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-14",
+        "role": "中心词",
+        "zh": "礼物",
+        "phonetic": "ɡɪft",
+        "pos": "NOUN",
+        "parentComponentId": "ud-12",
+        "parentComponentText": "a gift for my mum",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；礼物；为；我的；Mum"
+      },
+      {
+        "index": 15,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-15",
+        "role": "介词",
+        "zh": "为",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "parentComponentId": "ud-12",
+        "parentComponentText": "a gift for my mum",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；礼物；为；我的；Mum"
+      },
+      {
+        "index": 16,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-16",
+        "role": "限定词",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "parentComponentId": "ud-12",
+        "parentComponentText": "a gift for my mum",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；礼物；为；我的；Mum"
+      },
+      {
+        "index": 17,
+        "text": "mum",
+        "answer": "mum",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-17",
+        "role": "修饰语",
+        "zh": "Mum",
+        "phonetic": "mʌm",
+        "pos": "PROPN_PERSON",
+        "parentComponentId": "ud-12",
+        "parentComponentText": "a gift for my mum",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；礼物；为；我的；Mum"
+      },
+      {
+        "index": 18,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哦，对了。明天是3月8日。我也想给我妈妈准备一份礼物。"
+      },
+      {
+        "index": 19,
+        "text": "too",
+        "answer": "too",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-18",
+        "role": "方式/程度状语",
+        "zh": "也",
+        "phonetic": "tuː",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "Oh",
+      "my",
+      "is",
+      "mum",
+      "gift",
+      "make",
+      "Tomorrow",
+      "for",
+      "to",
+      "a",
+      "too",
+      "yes",
+      "want",
+      "I",
+      "March"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Oh",
+        "role": "语气/引导语",
+        "zh": "哦"
+      },
+      {
+        "id": "ud-2",
+        "text": "yes",
+        "role": "中心成分",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-3",
+        "text": "Tomorrow",
+        "role": "主语",
+        "zh": "明天"
+      },
+      {
+        "id": "ud-4",
+        "text": "is",
+        "role": "系动词",
+        "zh": "be（现在时第三人称单数）: 是"
+      },
+      {
+        "id": "ud-5",
+        "text": "March",
+        "role": "表语",
+        "zh": "三月"
+      },
+      {
+        "id": "ud-6",
+        "text": "8th",
+        "role": "补充成分",
+        "zh": "哦，对了。明天是3月8日。我也想给我妈妈准备一份礼物。"
+      },
+      {
+        "id": "ud-7",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-8",
+        "text": "want",
+        "role": "谓语",
+        "zh": "想要"
+      },
+      {
+        "id": "ud-9",
+        "text": "to make a gift for my mum",
+        "role": "不定式短语",
+        "zh": "引导不定式；制作；一个；礼物；为；我的；Mum",
+        "children": [
+          {
+            "id": "ud-10",
+            "text": "to",
+            "role": "连接词",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-11",
+            "text": "make",
+            "role": "谓语",
+            "zh": "制作"
+          },
+          {
+            "id": "ud-12",
+            "text": "a gift for my mum",
+            "role": "宾语",
+            "zh": "一个；礼物；为；我的；Mum",
+            "children": [
+              {
+                "id": "ud-13",
+                "text": "a",
+                "role": "限定词",
+                "zh": "一个"
+              },
+              {
+                "id": "ud-14",
+                "text": "gift",
+                "role": "中心词",
+                "zh": "礼物"
+              },
+              {
+                "id": "ud-15",
+                "text": "for",
+                "role": "介词",
+                "zh": "为"
+              },
+              {
+                "id": "ud-16",
+                "text": "my",
+                "role": "限定词",
+                "zh": "我的"
+              },
+              {
+                "id": "ud-17",
+                "text": "mum",
+                "role": "修饰语",
+                "zh": "Mum"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ud-18",
+        "text": "too",
+        "role": "方式/程度状语",
+        "zh": "也"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Oh",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "zh": "哦",
+        "componentRole": "语气/引导语",
+        "componentZh": "哦"
+      },
+      "2": {
+        "text": "yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentRole": "中心成分",
+        "componentZh": "是的"
+      },
+      "4": {
+        "text": "Tomorrow",
+        "phonetic": "təˈmɑːroʊ",
+        "pos": "NOUN",
+        "zh": "明天",
+        "componentRole": "主语",
+        "componentZh": "明天"
+      },
+      "5": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "be（现在时第三人称单数）: 是",
+        "componentRole": "系动词",
+        "componentZh": "be（现在时第三人称单数）: 是"
+      },
+      "6": {
+        "text": "March",
+        "phonetic": "mɑːrtʃ",
+        "pos": "NOUN",
+        "zh": "三月",
+        "componentRole": "表语",
+        "componentZh": "三月"
+      },
+      "9": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "10": {
+        "text": "want",
+        "phonetic": "wɑːnt",
+        "pos": "VERB",
+        "zh": "想要",
+        "componentRole": "谓语",
+        "componentZh": "想要"
+      },
+      "11": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentRole": "连接词",
+        "componentZh": "引导不定式",
+        "parentComponentText": "to make a gift for my mum",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；制作；一个；礼物；为；我的；Mum"
+      },
+      "12": {
+        "text": "make",
+        "phonetic": "meɪk",
+        "pos": "VERB",
+        "zh": "制作",
+        "componentRole": "谓语",
+        "componentZh": "制作",
+        "parentComponentText": "to make a gift for my mum",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；制作；一个；礼物；为；我的；Mum"
+      },
+      "13": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "a gift for my mum",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；礼物；为；我的；Mum"
+      },
+      "14": {
+        "text": "gift",
+        "phonetic": "ɡɪft",
+        "pos": "NOUN",
+        "zh": "礼物",
+        "componentRole": "中心词",
+        "componentZh": "礼物",
+        "parentComponentText": "a gift for my mum",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；礼物；为；我的；Mum"
+      },
+      "15": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为",
+        "componentRole": "介词",
+        "componentZh": "为",
+        "parentComponentText": "a gift for my mum",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；礼物；为；我的；Mum"
+      },
+      "16": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "限定词",
+        "componentZh": "我的",
+        "parentComponentText": "a gift for my mum",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；礼物；为；我的；Mum"
+      },
+      "17": {
+        "text": "mum",
+        "phonetic": "mʌm",
+        "pos": "PROPN_PERSON",
+        "zh": "Mum",
+        "componentRole": "修饰语",
+        "componentZh": "Mum",
+        "parentComponentText": "a gift for my mum",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；礼物；为；我的；Mum"
+      },
+      "19": {
+        "text": "too",
+        "phonetic": "tuː",
+        "pos": "ADV",
+        "zh": "也",
+        "componentRole": "方式/程度状语",
+        "componentZh": "也"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-nqh62o1rot7kr6keya201x2e-1",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-nqh62o1rot7kr6keya201x2e-1",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哦",
+    "audioText": "Oh",
+    "fullEnglish": "Oh",
+    "phonetic": "oʊ",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Oh",
+        "answer": "Oh",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "哦",
+        "phonetic": "oʊ",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Oh"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Oh",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "zh": "哦",
+        "componentZh": "哦"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-nqh62o1rot7kr6keya201x2e-2",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-nqh62o1rot7kr6keya201x2e-2",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的",
+    "audioText": "yes",
+    "fullEnglish": "yes",
+    "phonetic": "jes",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "yes",
+        "answer": "yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "yes"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-nqh62o1rot7kr6keya201x2e-5",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-nqh62o1rot7kr6keya201x2e-5",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "三月",
+    "audioText": "March",
+    "fullEnglish": "March",
+    "phonetic": "mɑːrtʃ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "March",
+        "answer": "March",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "三月",
+        "phonetic": "mɑːrtʃ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "March"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "March",
+        "phonetic": "mɑːrtʃ",
+        "pos": "NOUN",
+        "zh": "三月",
+        "componentZh": "三月"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-nqh62o1rot7kr6keya201x2e-6",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-nqh62o1rot7kr6keya201x2e-6",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "第八",
+    "audioText": "8th",
+    "fullEnglish": "8th",
+    "phonetic": "eɪtθ",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "8th",
+        "answer": "8th",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "第八",
+        "phonetic": "eɪtθ",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "8th"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "8th",
+        "phonetic": "eɪtθ",
+        "pos": "ADJ",
+        "zh": "第八",
+        "componentZh": "第八"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-nqh62o1rot7kr6keya201x2e-8",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-nqh62o1rot7kr6keya201x2e-8",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "想要",
+    "audioText": "want",
+    "fullEnglish": "want",
+    "phonetic": "wɑːnt",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "want",
+        "answer": "want",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "想要",
+        "phonetic": "wɑːnt",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "want"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "want",
+        "phonetic": "wɑːnt",
+        "pos": "VERB",
+        "zh": "想要",
+        "componentZh": "想要"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-nqh62o1rot7kr6keya201x2e-9",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-nqh62o1rot7kr6keya201x2e-9",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "引导不定式",
+    "audioText": "to",
+    "fullEnglish": "to",
+    "phonetic": "tuː; tə",
+    "pos": "PART",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART"
+      }
+    ],
+    "shuffledBlocks": [
+      "to"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-nqh62o1rot7kr6keya201x2e-10",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-nqh62o1rot7kr6keya201x2e-10",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "制作",
+    "audioText": "make",
+    "fullEnglish": "make",
+    "phonetic": "meɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "make",
+        "answer": "make",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "制作",
+        "phonetic": "meɪk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "make"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "make",
+        "phonetic": "meɪk",
+        "pos": "VERB",
+        "zh": "制作",
+        "componentZh": "制作"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-nqh62o1rot7kr6keya201x2e-16",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-nqh62o1rot7kr6keya201x2e-16",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "也",
+    "audioText": "too",
+    "fullEnglish": "too",
+    "phonetic": "tuː",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "too",
+        "answer": "too",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "也",
+        "phonetic": "tuː",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "too"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "too",
+        "phonetic": "tuː",
+        "pos": "ADV",
+        "zh": "也",
+        "componentZh": "也"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-S-rwi1i2amin70ukfe2dg4210e",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-S-rwi1i2amin70ukfe2dg4210e",
+    "type": "sentence",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让我们一起做吧。",
+    "audioText": "Let's do it together",
+    "fullEnglish": "Let's do it together",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "宾语 + 谓语",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "do it together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "做；它；一起"
+      },
+      {
+        "index": 2,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "宾语",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "do it together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "做；它；一起"
+      },
+      {
+        "index": 3,
+        "text": "together",
+        "answer": "together",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "方式/程度状语",
+        "zh": "一起",
+        "phonetic": "təˈɡeðər",
+        "pos": "ADV",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "do it together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "做；它；一起"
+      }
+    ],
+    "shuffledBlocks": [
+      "do",
+      "Let's",
+      "together",
+      "it"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let's",
+        "role": "宾语 + 谓语",
+        "zh": "让我们"
+      },
+      {
+        "id": "ud-2",
+        "text": "do it together",
+        "role": "宾语补足语",
+        "zh": "做；它；一起",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "do",
+            "role": "谓语",
+            "zh": "做"
+          },
+          {
+            "id": "ud-4",
+            "text": "it",
+            "role": "宾语",
+            "zh": "它"
+          },
+          {
+            "id": "ud-5",
+            "text": "together",
+            "role": "方式/程度状语",
+            "zh": "一起"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentRole": "宾语 + 谓语",
+        "componentZh": "让我们"
+      },
+      "1": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentRole": "谓语",
+        "componentZh": "做",
+        "parentComponentText": "do it together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "做；它；一起"
+      },
+      "2": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentRole": "宾语",
+        "componentZh": "它",
+        "parentComponentText": "do it together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "做；它；一起"
+      },
+      "3": {
+        "text": "together",
+        "phonetic": "təˈɡeðər",
+        "pos": "ADV",
+        "zh": "一起",
+        "componentRole": "方式/程度状语",
+        "componentZh": "一起",
+        "parentComponentText": "do it together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "做；它；一起"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-rwi1i2amin70ukfe2dg4210e-1",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-rwi1i2amin70ukfe2dg4210e-1",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让我们（缩写形式）",
+    "audioText": "Let's",
+    "fullEnglish": "Let's",
+    "phonetic": "lets",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentZh": "让我们"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-rwi1i2amin70ukfe2dg4210e-2",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-rwi1i2amin70ukfe2dg4210e-2",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "做",
+    "audioText": "do",
+    "fullEnglish": "do",
+    "phonetic": "duː; də",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "do"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-rwi1i2amin70ukfe2dg4210e-3",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-rwi1i2amin70ukfe2dg4210e-3",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它",
+    "audioText": "it",
+    "fullEnglish": "it",
+    "phonetic": "ɪt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "it"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它"
+      }
+    }
+  },
+  {
+    "id": "JLB-civcmeal7mwqjb2fzp187prm-W-rwi1i2amin70ukfe2dg4210e-4",
+    "contentId": "JLB-civcmeal7mwqjb2fzp187prm-W-rwi1i2amin70ukfe2dg4210e-4",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "civcmeal7mwqjb2fzp187prm",
+    "unitTitle": "Unit 1 Spring Is Here--Lesson 1【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一起",
+    "audioText": "together",
+    "fullEnglish": "together",
+    "phonetic": "təˈɡeðər",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "together",
+        "answer": "together",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "一起",
+        "phonetic": "təˈɡeðər",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "together"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "together",
+        "phonetic": "təˈɡeðər",
+        "pos": "ADV",
+        "zh": "一起",
+        "componentZh": "一起"
+      }
+    }
+  }
+]

@@ -1,0 +1,2525 @@
+[
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-S-h7yae08h20jg121g2hpif9mv",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-S-h7yae08h20jg121g2hpif9mv",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你喜欢这把伞吗？",
+    "audioText": "Do you like this umbrella?",
+    "fullEnglish": "Do you like this umbrella?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Do",
+        "answer": "Do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "this umbrella",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；雨伞"
+      },
+      {
+        "index": 4,
+        "text": "umbrella",
+        "answer": "umbrella",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "雨伞",
+        "phonetic": "ʌmˈbrelə",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "this umbrella",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；雨伞"
+      },
+      {
+        "index": 5,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你喜欢这把伞吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Do",
+      "like",
+      "you",
+      "this",
+      "umbrella"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Do",
+        "role": "助动词",
+        "zh": "做"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-4",
+        "text": "this umbrella",
+        "role": "宾语",
+        "zh": "这个；雨伞",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "this",
+            "role": "限定词",
+            "zh": "这个"
+          },
+          {
+            "id": "ud-6",
+            "text": "umbrella",
+            "role": "中心词",
+            "zh": "雨伞"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentRole": "助动词",
+        "componentZh": "做"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "2": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "谓语",
+        "componentZh": "喜欢"
+      },
+      "3": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentRole": "限定词",
+        "componentZh": "这个",
+        "parentComponentText": "this umbrella",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；雨伞"
+      },
+      "4": {
+        "text": "umbrella",
+        "phonetic": "ʌmˈbrelə",
+        "pos": "NOUN",
+        "zh": "雨伞",
+        "componentRole": "中心词",
+        "componentZh": "雨伞",
+        "parentComponentText": "this umbrella",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；雨伞"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-W-h7yae08h20jg121g2hpif9mv-1",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-W-h7yae08h20jg121g2hpif9mv-1",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "构成疑问句",
+    "audioText": "Do",
+    "fullEnglish": "Do",
+    "phonetic": "duː; də",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Do",
+        "answer": "Do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Do"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做"
+      }
+    }
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-W-h7yae08h20jg121g2hpif9mv-2",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-W-h7yae08h20jg121g2hpif9mv-2",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-W-h7yae08h20jg121g2hpif9mv-3",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-W-h7yae08h20jg121g2hpif9mv-3",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "喜欢",
+    "audioText": "like",
+    "fullEnglish": "like",
+    "phonetic": "laɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "like"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentZh": "喜欢"
+      }
+    }
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-W-h7yae08h20jg121g2hpif9mv-4",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-W-h7yae08h20jg121g2hpif9mv-4",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这个",
+    "audioText": "this",
+    "fullEnglish": "this",
+    "phonetic": "ðɪs",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "this"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentZh": "这个"
+      }
+    }
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-W-h7yae08h20jg121g2hpif9mv-5",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-W-h7yae08h20jg121g2hpif9mv-5",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "雨伞",
+    "audioText": "umbrella",
+    "fullEnglish": "umbrella",
+    "phonetic": "ʌmˈbrelə",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "umbrella",
+        "answer": "umbrella",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "雨伞",
+        "phonetic": "ʌmˈbrelə",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "umbrella"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "umbrella",
+        "phonetic": "ʌmˈbrelə",
+        "pos": "NOUN",
+        "zh": "雨伞",
+        "componentZh": "雨伞"
+      }
+    }
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-S-jl9lxnp6hdc2rbcu9p0twuey",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-S-jl9lxnp6hdc2rbcu9p0twuey",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哦！是橙色的。我喜欢。",
+    "audioText": "Oh! It's orange. I like it",
+    "fullEnglish": "Oh! It's orange. I like it",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Oh",
+        "answer": "Oh",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "哦",
+        "phonetic": "oʊ",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哦！是橙色的。我喜欢。"
+      },
+      {
+        "index": 2,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "orange",
+        "answer": "orange",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "橙子",
+        "phonetic": "ˈɔːrɪndʒ",
+        "pos": "NOUN"
+      },
+      {
+        "index": 4,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哦！是橙色的。我喜欢。"
+      },
+      {
+        "index": 5,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 6,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "谓语",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 7,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "宾语",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's",
+      "I",
+      "it",
+      "like",
+      "orange",
+      "Oh"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Oh",
+        "role": "中心成分",
+        "zh": "哦"
+      },
+      {
+        "id": "ud-2",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-3",
+        "text": "orange",
+        "role": "表语",
+        "zh": "橙子"
+      },
+      {
+        "id": "ud-4",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-5",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-6",
+        "text": "it",
+        "role": "宾语",
+        "zh": "它"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Oh",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "zh": "哦",
+        "componentRole": "中心成分",
+        "componentZh": "哦"
+      },
+      "2": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "3": {
+        "text": "orange",
+        "phonetic": "ˈɔːrɪndʒ",
+        "pos": "NOUN",
+        "zh": "橙子",
+        "componentRole": "表语",
+        "componentZh": "橙子"
+      },
+      "5": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "6": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "谓语",
+        "componentZh": "喜欢"
+      },
+      "7": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentRole": "宾语",
+        "componentZh": "它"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-W-jl9lxnp6hdc2rbcu9p0twuey-1",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-W-jl9lxnp6hdc2rbcu9p0twuey-1",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哦",
+    "audioText": "Oh",
+    "fullEnglish": "Oh",
+    "phonetic": "oʊ",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Oh",
+        "answer": "Oh",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "哦",
+        "phonetic": "oʊ",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Oh"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Oh",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "zh": "哦",
+        "componentZh": "哦"
+      }
+    }
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-W-jl9lxnp6hdc2rbcu9p0twuey-2",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-W-jl9lxnp6hdc2rbcu9p0twuey-2",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它是",
+    "audioText": "It's",
+    "fullEnglish": "It's",
+    "phonetic": "ɪts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是"
+      }
+    }
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-W-jl9lxnp6hdc2rbcu9p0twuey-3",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-W-jl9lxnp6hdc2rbcu9p0twuey-3",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "橙子",
+    "audioText": "orange",
+    "fullEnglish": "orange",
+    "phonetic": "ˈɔːrɪndʒ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "orange",
+        "answer": "orange",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "橙子",
+        "phonetic": "ˈɔːrɪndʒ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "orange"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "orange",
+        "phonetic": "ˈɔːrɪndʒ",
+        "pos": "NOUN",
+        "zh": "橙子",
+        "componentZh": "橙子"
+      }
+    }
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-W-jl9lxnp6hdc2rbcu9p0twuey-4",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-W-jl9lxnp6hdc2rbcu9p0twuey-4",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-W-jl9lxnp6hdc2rbcu9p0twuey-6",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-W-jl9lxnp6hdc2rbcu9p0twuey-6",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它",
+    "audioText": "it",
+    "fullEnglish": "it",
+    "phonetic": "ɪt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "it"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它"
+      }
+    }
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-S-kgk32xg3s2bl6xexdqfh0qee",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-S-kgk32xg3s2bl6xexdqfh0qee",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你喜欢那辆车吗？它是蓝色的。",
+    "audioText": "Do you like that car? It's blue",
+    "fullEnglish": "Do you like that car? It's blue",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Do",
+        "answer": "Do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "that car",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "那个；汽车"
+      },
+      {
+        "index": 4,
+        "text": "car",
+        "answer": "car",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "汽车",
+        "phonetic": "kɑːr",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "that car",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "那个；汽车"
+      },
+      {
+        "index": 5,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你喜欢那辆车吗？它是蓝色的。"
+      },
+      {
+        "index": 6,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 7,
+        "text": "blue",
+        "answer": "blue",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "表语",
+        "zh": "蓝色的",
+        "phonetic": "bluː",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "that",
+      "car",
+      "Do",
+      "It's",
+      "like",
+      "blue"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Do",
+        "role": "助动词",
+        "zh": "做"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-4",
+        "text": "that car",
+        "role": "宾语",
+        "zh": "那个；汽车",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "that",
+            "role": "限定词",
+            "zh": "那个"
+          },
+          {
+            "id": "ud-6",
+            "text": "car",
+            "role": "中心词",
+            "zh": "汽车"
+          }
+        ]
+      },
+      {
+        "id": "ud-7",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-8",
+        "text": "blue",
+        "role": "表语",
+        "zh": "蓝色的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentRole": "助动词",
+        "componentZh": "做"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "2": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "谓语",
+        "componentZh": "喜欢"
+      },
+      "3": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentRole": "限定词",
+        "componentZh": "那个",
+        "parentComponentText": "that car",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "那个；汽车"
+      },
+      "4": {
+        "text": "car",
+        "phonetic": "kɑːr",
+        "pos": "NOUN",
+        "zh": "汽车",
+        "componentRole": "中心词",
+        "componentZh": "汽车",
+        "parentComponentText": "that car",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "那个；汽车"
+      },
+      "6": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "7": {
+        "text": "blue",
+        "phonetic": "bluː",
+        "pos": "ADJ",
+        "zh": "蓝色的",
+        "componentRole": "表语",
+        "componentZh": "蓝色的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-W-kgk32xg3s2bl6xexdqfh0qee-4",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-W-kgk32xg3s2bl6xexdqfh0qee-4",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那",
+    "audioText": "that",
+    "fullEnglish": "that",
+    "phonetic": "ðæt",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "that"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentZh": "那个"
+      }
+    }
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-W-kgk32xg3s2bl6xexdqfh0qee-5",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-W-kgk32xg3s2bl6xexdqfh0qee-5",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "汽车",
+    "audioText": "car",
+    "fullEnglish": "car",
+    "phonetic": "kɑːr",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "car",
+        "answer": "car",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "汽车",
+        "phonetic": "kɑːr",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "car"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "car",
+        "phonetic": "kɑːr",
+        "pos": "NOUN",
+        "zh": "汽车",
+        "componentZh": "汽车"
+      }
+    }
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-W-kgk32xg3s2bl6xexdqfh0qee-7",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-W-kgk32xg3s2bl6xexdqfh0qee-7",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "蓝色的",
+    "audioText": "blue",
+    "fullEnglish": "blue",
+    "phonetic": "bluː",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "blue",
+        "answer": "blue",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "蓝色的",
+        "phonetic": "bluː",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "blue"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "blue",
+        "phonetic": "bluː",
+        "pos": "ADJ",
+        "zh": "蓝色的",
+        "componentZh": "蓝色的"
+      }
+    }
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-S-qo9kb664vnv5iaqo6y8e61it",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-S-qo9kb664vnv5iaqo6y8e61it",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不，我喜欢这辆黑色的车。",
+    "audioText": "No. I like this black car",
+    "fullEnglish": "No. I like this black car",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "No",
+        "answer": "No",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "不",
+        "phonetic": "noʊ",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "不，我喜欢这辆黑色的车。"
+      },
+      {
+        "index": 2,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "this black car",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；黑色的；汽车"
+      },
+      {
+        "index": 5,
+        "text": "black",
+        "answer": "black",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "定语（形容词）",
+        "zh": "黑色的",
+        "phonetic": "blæk",
+        "pos": "ADJ",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "this black car",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；黑色的；汽车"
+      },
+      {
+        "index": 6,
+        "text": "car",
+        "answer": "car",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "汽车",
+        "phonetic": "kɑːr",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "this black car",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；黑色的；汽车"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "No",
+      "this",
+      "black",
+      "car",
+      "like"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "No",
+        "role": "中心成分",
+        "zh": "不"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-4",
+        "text": "this black car",
+        "role": "宾语",
+        "zh": "这个；黑色的；汽车",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "this",
+            "role": "限定词",
+            "zh": "这个"
+          },
+          {
+            "id": "ud-6",
+            "text": "black",
+            "role": "定语（形容词）",
+            "zh": "黑色的"
+          },
+          {
+            "id": "ud-7",
+            "text": "car",
+            "role": "中心词",
+            "zh": "汽车"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "No",
+        "phonetic": "noʊ",
+        "pos": "INTJ",
+        "zh": "不",
+        "componentRole": "中心成分",
+        "componentZh": "不"
+      },
+      "2": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "3": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "谓语",
+        "componentZh": "喜欢"
+      },
+      "4": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentRole": "限定词",
+        "componentZh": "这个",
+        "parentComponentText": "this black car",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；黑色的；汽车"
+      },
+      "5": {
+        "text": "black",
+        "phonetic": "blæk",
+        "pos": "ADJ",
+        "zh": "黑色的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "黑色的",
+        "parentComponentText": "this black car",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；黑色的；汽车"
+      },
+      "6": {
+        "text": "car",
+        "phonetic": "kɑːr",
+        "pos": "NOUN",
+        "zh": "汽车",
+        "componentRole": "中心词",
+        "componentZh": "汽车",
+        "parentComponentText": "this black car",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；黑色的；汽车"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-W-qo9kb664vnv5iaqo6y8e61it-1",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-W-qo9kb664vnv5iaqo6y8e61it-1",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不",
+    "audioText": "No",
+    "fullEnglish": "No",
+    "phonetic": "noʊ",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "No",
+        "answer": "No",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "noʊ",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "No"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "No",
+        "phonetic": "noʊ",
+        "pos": "INTJ",
+        "zh": "不",
+        "componentZh": "不"
+      }
+    }
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-W-qo9kb664vnv5iaqo6y8e61it-5",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-W-qo9kb664vnv5iaqo6y8e61it-5",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "黑色的",
+    "audioText": "black",
+    "fullEnglish": "black",
+    "phonetic": "blæk",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "black",
+        "answer": "black",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "黑色的",
+        "phonetic": "blæk",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "black"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "black",
+        "phonetic": "blæk",
+        "pos": "ADJ",
+        "zh": "黑色的",
+        "componentZh": "黑色的"
+      }
+    }
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-PHRASE-h3o2vclmsmrr87uz8qxkodew",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-PHRASE-h3o2vclmsmrr87uz8qxkodew",
+    "type": "phrase",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这把伞",
+    "audioText": "this umbrella",
+    "fullEnglish": "this umbrella",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "umbrella",
+        "answer": "umbrella",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "雨伞",
+        "phonetic": "ʌmˈbrelə",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "umbrella",
+      "this"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "this",
+        "role": "补充成分",
+        "zh": "这个"
+      },
+      {
+        "id": "ud-2",
+        "text": "umbrella",
+        "role": "中心成分",
+        "zh": "雨伞"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentZh": "这个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "umbrella",
+        "phonetic": "ʌmˈbrelə",
+        "pos": "NOUN",
+        "zh": "雨伞",
+        "componentZh": "雨伞",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-PHRASE-jfg02x6924a0e2slaqymy7u5",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-PHRASE-jfg02x6924a0e2slaqymy7u5",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哦！",
+    "audioText": "Oh!",
+    "fullEnglish": "Oh!",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Oh",
+        "answer": "Oh",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "哦",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哦！"
+      }
+    ],
+    "shuffledBlocks": [
+      "Oh"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Oh",
+        "role": "中心成分",
+        "zh": "哦"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Oh",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "zh": "哦",
+        "componentZh": "哦",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-PHRASE-fiw1me8ak51g8i9xv9y8g6p0",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-PHRASE-fiw1me8ak51g8i9xv9y8g6p0",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它是橙色的",
+    "audioText": "It's orange",
+    "fullEnglish": "It's orange",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "orange",
+        "answer": "orange",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "橙子",
+        "phonetic": "ˈɔːrɪndʒ",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "orange",
+      "It's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "orange",
+        "role": "表语",
+        "zh": "橙子"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "orange",
+        "phonetic": "ˈɔːrɪndʒ",
+        "pos": "NOUN",
+        "zh": "橙子",
+        "componentZh": "橙子",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-PHRASE-hz73jklohm7wen4y81lhdcny",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-PHRASE-hz73jklohm7wen4y81lhdcny",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哦！是橙色的",
+    "audioText": "Oh! It's orange",
+    "fullEnglish": "Oh! It's orange",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Oh",
+        "answer": "Oh",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "哦",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哦！是橙色的"
+      },
+      {
+        "index": 2,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 3,
+        "text": "orange",
+        "answer": "orange",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "橙子",
+        "phonetic": "ˈɔːrɪndʒ",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's",
+      "orange",
+      "Oh"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Oh",
+        "role": "中心成分",
+        "zh": "哦"
+      },
+      {
+        "id": "ud-2",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-3",
+        "text": "orange",
+        "role": "表语",
+        "zh": "橙子"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Oh",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "zh": "哦",
+        "componentZh": "哦",
+        "componentRole": "中心成分"
+      },
+      "2": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是",
+        "componentRole": "主语 + 系动词"
+      },
+      "3": {
+        "text": "orange",
+        "phonetic": "ˈɔːrɪndʒ",
+        "pos": "NOUN",
+        "zh": "橙子",
+        "componentZh": "橙子",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-PHRASE-vpczjf3a5z6pvgbz7kl0vwap",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-PHRASE-vpczjf3a5z6pvgbz7kl0vwap",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我喜欢它",
+    "audioText": "I like it",
+    "fullEnglish": "I like it",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      },
+      {
+        "index": 2,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "componentId": "ud-3",
+        "role": "宾语"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "like",
+      "it"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-3",
+        "text": "it",
+        "role": "宾语",
+        "zh": "它"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentZh": "喜欢",
+        "componentRole": "谓语"
+      },
+      "2": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它",
+        "componentRole": "宾语"
+      }
+    },
+    "sentenceType": "主谓宾结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-PHRASE-vkvtkv8sht0t9e68hf2o99y2",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-PHRASE-vkvtkv8sht0t9e68hf2o99y2",
+    "type": "phrase",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那辆车",
+    "audioText": "that car",
+    "fullEnglish": "that car",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "car",
+        "answer": "car",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "汽车",
+        "phonetic": "kɑːr",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "car",
+      "that"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "that",
+        "role": "补充成分",
+        "zh": "那个"
+      },
+      {
+        "id": "ud-2",
+        "text": "car",
+        "role": "中心成分",
+        "zh": "汽车"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentZh": "那个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "car",
+        "phonetic": "kɑːr",
+        "pos": "NOUN",
+        "zh": "汽车",
+        "componentZh": "汽车",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-PHRASE-k4dsdis0anp6qfaxcn2jpvub",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-PHRASE-k4dsdis0anp6qfaxcn2jpvub",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你喜欢那辆车吗？",
+    "audioText": "Do you like that car?",
+    "fullEnglish": "Do you like that car?",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Do",
+        "answer": "Do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      },
+      {
+        "index": 3,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "that car",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "那个；汽车"
+      },
+      {
+        "index": 4,
+        "text": "car",
+        "answer": "car",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "汽车",
+        "phonetic": "kɑːr",
+        "pos": "NOUN",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "that car",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "那个；汽车"
+      },
+      {
+        "index": 5,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你喜欢那辆车吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Do",
+      "you",
+      "like",
+      "car",
+      "that"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Do",
+        "role": "助动词",
+        "zh": "做"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-4",
+        "text": "that car",
+        "role": "宾语",
+        "zh": "那个；汽车",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "that",
+            "role": "限定词",
+            "zh": "那个"
+          },
+          {
+            "id": "ud-6",
+            "text": "car",
+            "role": "中心词",
+            "zh": "汽车"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentZh": "喜欢",
+        "componentRole": "谓语"
+      },
+      "3": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentZh": "那个",
+        "componentRole": "限定词",
+        "parentComponentText": "that car",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "那个；汽车"
+      },
+      "4": {
+        "text": "car",
+        "phonetic": "kɑːr",
+        "pos": "NOUN",
+        "zh": "汽车",
+        "componentZh": "汽车",
+        "componentRole": "中心词",
+        "parentComponentText": "that car",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "那个；汽车"
+      }
+    },
+    "sentenceType": "一般疑问句",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-PHRASE-ipfhp9bneg5kbwbomp34hc2h",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-PHRASE-ipfhp9bneg5kbwbomp34hc2h",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它是蓝色的",
+    "audioText": "It's blue",
+    "fullEnglish": "It's blue",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "blue",
+        "answer": "blue",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "蓝色的",
+        "phonetic": "bluː",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "blue",
+      "It's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "blue",
+        "role": "表语",
+        "zh": "蓝色的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "blue",
+        "phonetic": "bluː",
+        "pos": "ADJ",
+        "zh": "蓝色的",
+        "componentZh": "蓝色的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-se9de3fgsxstylm7vpw9z6wp-PHRASE-am9h8kw5jhjrvqod1zesro7j",
+    "contentId": "JLB-se9de3fgsxstylm7vpw9z6wp-PHRASE-am9h8kw5jhjrvqod1zesro7j",
+    "type": "phrase",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "se9de3fgsxstylm7vpw9z6wp",
+    "unitTitle": "Unit 3 What Colour Is Your Bag?--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这辆黑色的车",
+    "audioText": "this black car",
+    "fullEnglish": "this black car",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "black",
+        "answer": "black",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "黑色的",
+        "phonetic": "blæk",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "car",
+        "answer": "car",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "汽车",
+        "phonetic": "kɑːr",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "this",
+      "black",
+      "car"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "this",
+        "role": "补充成分",
+        "zh": "这个"
+      },
+      {
+        "id": "ud-2",
+        "text": "black",
+        "role": "补充成分",
+        "zh": "黑色的"
+      },
+      {
+        "id": "ud-3",
+        "text": "car",
+        "role": "中心成分",
+        "zh": "汽车"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentZh": "这个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "black",
+        "phonetic": "blæk",
+        "pos": "ADJ",
+        "zh": "黑色的",
+        "componentZh": "黑色的",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "car",
+        "phonetic": "kɑːr",
+        "pos": "NOUN",
+        "zh": "汽车",
+        "componentZh": "汽车",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

@@ -1,0 +1,6751 @@
+[
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-so45pewudnhn8555tyv9yws2",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-so45pewudnhn8555tyv9yws2",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不要服用任何阿司匹林！",
+    "audioText": "Don't take any aspirins!",
+    "fullEnglish": "Don't take any aspirins!",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Don't",
+        "answer": "Don't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不",
+        "phonetic": "doʊnt",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "take",
+        "answer": "take",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "带",
+        "phonetic": "teɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "any",
+        "answer": "any",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "任何",
+        "phonetic": "ˈeni",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "any aspirins",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；阿司匹林（复数）"
+      },
+      {
+        "index": 3,
+        "text": "aspirins",
+        "answer": "aspirins",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "阿司匹林（复数）",
+        "phonetic": "əˈspɪrɪnz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "any aspirins",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；阿司匹林（复数）"
+      },
+      {
+        "index": 4,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "不要服用任何阿司匹林！"
+      }
+    ],
+    "shuffledBlocks": [
+      "any",
+      "take",
+      "Don't",
+      "aspirins"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Don't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-2",
+        "text": "take",
+        "role": "谓语",
+        "zh": "带"
+      },
+      {
+        "id": "ud-3",
+        "text": "any aspirins",
+        "role": "宾语",
+        "zh": "任何；阿司匹林（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "any",
+            "role": "限定词",
+            "zh": "任何"
+          },
+          {
+            "id": "ud-5",
+            "text": "aspirins",
+            "role": "中心词",
+            "zh": "阿司匹林（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Don't",
+        "phonetic": "doʊnt",
+        "pos": "AUX",
+        "zh": "不",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "不"
+      },
+      "1": {
+        "text": "take",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "zh": "带",
+        "componentRole": "谓语",
+        "componentZh": "带"
+      },
+      "2": {
+        "text": "any",
+        "phonetic": "ˈeni",
+        "pos": "DET",
+        "zh": "任何",
+        "componentRole": "限定词",
+        "componentZh": "任何",
+        "parentComponentText": "any aspirins",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；阿司匹林（复数）"
+      },
+      "3": {
+        "text": "aspirins",
+        "phonetic": "əˈspɪrɪnz",
+        "pos": "NOUN",
+        "zh": "阿司匹林（复数）",
+        "componentRole": "中心词",
+        "componentZh": "阿司匹林（复数）",
+        "parentComponentText": "any aspirins",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；阿司匹林（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-so45pewudnhn8555tyv9yws2-1",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-so45pewudnhn8555tyv9yws2-1",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "do（否定缩写）: 不要",
+    "audioText": "Don't",
+    "fullEnglish": "Don't",
+    "phonetic": "doʊnt",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Don't",
+        "answer": "Don't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "doʊnt",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "Don't"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Don't",
+        "phonetic": "doʊnt",
+        "pos": "AUX",
+        "zh": "不",
+        "componentZh": "不"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-so45pewudnhn8555tyv9yws2-2",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-so45pewudnhn8555tyv9yws2-2",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "拿",
+    "audioText": "take",
+    "fullEnglish": "take",
+    "phonetic": "teɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "take",
+        "answer": "take",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "带",
+        "phonetic": "teɪk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "take"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "take",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "zh": "带",
+        "componentZh": "带"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-so45pewudnhn8555tyv9yws2-3",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-so45pewudnhn8555tyv9yws2-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "任何",
+    "audioText": "any",
+    "fullEnglish": "any",
+    "phonetic": "ˈeni",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "any",
+        "answer": "any",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "任何",
+        "phonetic": "ˈeni",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "any"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "any",
+        "phonetic": "ˈeni",
+        "pos": "DET",
+        "zh": "任何",
+        "componentZh": "任何"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-so45pewudnhn8555tyv9yws2-4",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-so45pewudnhn8555tyv9yws2-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "阿司匹林（复数）",
+    "audioText": "aspirins",
+    "fullEnglish": "aspirins",
+    "phonetic": "əˈspɪrɪnz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "aspirins",
+        "answer": "aspirins",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "阿司匹林（复数）",
+        "phonetic": "əˈspɪrɪnz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "aspirins"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "aspirins",
+        "phonetic": "əˈspɪrɪnz",
+        "pos": "NOUN",
+        "zh": "阿司匹林（复数）",
+        "componentZh": "阿司匹林（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-k9fs03xb83uvadmquhmvalnf",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-k9fs03xb83uvadmquhmvalnf",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你千万不能服用任何阿司匹林。",
+    "audioText": "You mustn't take any aspirins",
+    "fullEnglish": "You mustn't take any aspirins",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "You",
+        "answer": "You",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "mustn't",
+        "answer": "mustn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "take",
+        "answer": "take",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "带",
+        "phonetic": "teɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "any",
+        "answer": "any",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "任何",
+        "phonetic": "ˈeni",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "any aspirins",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；阿司匹林（复数）"
+      },
+      {
+        "index": 4,
+        "text": "aspirins",
+        "answer": "aspirins",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "阿司匹林（复数）",
+        "phonetic": "əˈspɪrɪnz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "any aspirins",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；阿司匹林（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "aspirins",
+      "any",
+      "take",
+      "You",
+      "mustn't"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "You",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-2",
+        "text": "mustn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以"
+      },
+      {
+        "id": "ud-3",
+        "text": "take",
+        "role": "谓语",
+        "zh": "带"
+      },
+      {
+        "id": "ud-4",
+        "text": "any aspirins",
+        "role": "宾语",
+        "zh": "任何；阿司匹林（复数）",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "any",
+            "role": "限定词",
+            "zh": "任何"
+          },
+          {
+            "id": "ud-6",
+            "text": "aspirins",
+            "role": "中心词",
+            "zh": "阿司匹林（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "You",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "1": {
+        "text": "mustn't",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "zh": "must not（缩写）: 不可以",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "must not（缩写）: 不可以"
+      },
+      "2": {
+        "text": "take",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "zh": "带",
+        "componentRole": "谓语",
+        "componentZh": "带"
+      },
+      "3": {
+        "text": "any",
+        "phonetic": "ˈeni",
+        "pos": "DET",
+        "zh": "任何",
+        "componentRole": "限定词",
+        "componentZh": "任何",
+        "parentComponentText": "any aspirins",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；阿司匹林（复数）"
+      },
+      "4": {
+        "text": "aspirins",
+        "phonetic": "əˈspɪrɪnz",
+        "pos": "NOUN",
+        "zh": "阿司匹林（复数）",
+        "componentRole": "中心词",
+        "componentZh": "阿司匹林（复数）",
+        "parentComponentText": "any aspirins",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；阿司匹林（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-k9fs03xb83uvadmquhmvalnf-1",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-k9fs03xb83uvadmquhmvalnf-1",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "You",
+    "fullEnglish": "You",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "You",
+        "answer": "You",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "You"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "You",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-k9fs03xb83uvadmquhmvalnf-2",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-k9fs03xb83uvadmquhmvalnf-2",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "must not（缩写）: 不可以",
+    "audioText": "mustn't",
+    "fullEnglish": "mustn't",
+    "phonetic": "ˈmʌsnt",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "mustn't",
+        "answer": "mustn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "must not（缩写）: 不可以",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "mustn't"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "mustn't",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "zh": "must not（缩写）: 不可以",
+        "componentZh": "must not（缩写）: 不可以"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-u25q26rpxqgt1vljg5d69hgr",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-u25q26rpxqgt1vljg5d69hgr",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不要服用这种药！",
+    "audioText": "Don't take this medicine!",
+    "fullEnglish": "Don't take this medicine!",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Don't",
+        "answer": "Don't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不",
+        "phonetic": "doʊnt",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "take",
+        "answer": "take",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "带",
+        "phonetic": "teɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "this medicine",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；药"
+      },
+      {
+        "index": 3,
+        "text": "medicine",
+        "answer": "medicine",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "药",
+        "phonetic": "ˈmedɪs(ə)n",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "this medicine",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；药"
+      },
+      {
+        "index": 4,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "不要服用这种药！"
+      }
+    ],
+    "shuffledBlocks": [
+      "Don't",
+      "take",
+      "this",
+      "medicine"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Don't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-2",
+        "text": "take",
+        "role": "谓语",
+        "zh": "带"
+      },
+      {
+        "id": "ud-3",
+        "text": "this medicine",
+        "role": "宾语",
+        "zh": "这个；药",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "this",
+            "role": "限定词",
+            "zh": "这个"
+          },
+          {
+            "id": "ud-5",
+            "text": "medicine",
+            "role": "中心词",
+            "zh": "药"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Don't",
+        "phonetic": "doʊnt",
+        "pos": "AUX",
+        "zh": "不",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "不"
+      },
+      "1": {
+        "text": "take",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "zh": "带",
+        "componentRole": "谓语",
+        "componentZh": "带"
+      },
+      "2": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentRole": "限定词",
+        "componentZh": "这个",
+        "parentComponentText": "this medicine",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；药"
+      },
+      "3": {
+        "text": "medicine",
+        "phonetic": "ˈmedɪs(ə)n",
+        "pos": "NOUN",
+        "zh": "药",
+        "componentRole": "中心词",
+        "componentZh": "药",
+        "parentComponentText": "this medicine",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；药"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-u25q26rpxqgt1vljg5d69hgr-3",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-u25q26rpxqgt1vljg5d69hgr-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这个",
+    "audioText": "this",
+    "fullEnglish": "this",
+    "phonetic": "ðɪs",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "this"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentZh": "这个"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-u25q26rpxqgt1vljg5d69hgr-4",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-u25q26rpxqgt1vljg5d69hgr-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "药",
+    "audioText": "medicine",
+    "fullEnglish": "medicine",
+    "phonetic": "ˈmedɪs(ə)n",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "medicine",
+        "answer": "medicine",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "药",
+        "phonetic": "ˈmedɪs(ə)n",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "medicine"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "medicine",
+        "phonetic": "ˈmedɪs(ə)n",
+        "pos": "NOUN",
+        "zh": "药",
+        "componentZh": "药"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-er7sv6o0z5em5fa19de2ppya",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-er7sv6o0z5em5fa19de2ppya",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你绝不能服用这种药。",
+    "audioText": "You mustn't take this medicine",
+    "fullEnglish": "You mustn't take this medicine",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "You",
+        "answer": "You",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "mustn't",
+        "answer": "mustn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "take",
+        "answer": "take",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "带",
+        "phonetic": "teɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "this medicine",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；药"
+      },
+      {
+        "index": 4,
+        "text": "medicine",
+        "answer": "medicine",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "药",
+        "phonetic": "ˈmedɪs(ə)n",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "this medicine",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；药"
+      }
+    ],
+    "shuffledBlocks": [
+      "take",
+      "this",
+      "mustn't",
+      "You",
+      "medicine"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "You",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-2",
+        "text": "mustn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以"
+      },
+      {
+        "id": "ud-3",
+        "text": "take",
+        "role": "谓语",
+        "zh": "带"
+      },
+      {
+        "id": "ud-4",
+        "text": "this medicine",
+        "role": "宾语",
+        "zh": "这个；药",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "this",
+            "role": "限定词",
+            "zh": "这个"
+          },
+          {
+            "id": "ud-6",
+            "text": "medicine",
+            "role": "中心词",
+            "zh": "药"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "You",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "1": {
+        "text": "mustn't",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "zh": "must not（缩写）: 不可以",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "must not（缩写）: 不可以"
+      },
+      "2": {
+        "text": "take",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "zh": "带",
+        "componentRole": "谓语",
+        "componentZh": "带"
+      },
+      "3": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentRole": "限定词",
+        "componentZh": "这个",
+        "parentComponentText": "this medicine",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；药"
+      },
+      "4": {
+        "text": "medicine",
+        "phonetic": "ˈmedɪs(ə)n",
+        "pos": "NOUN",
+        "zh": "药",
+        "componentRole": "中心词",
+        "componentZh": "药",
+        "parentComponentText": "this medicine",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；药"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-hbmqq62eetgt15syncld2uss",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-hbmqq62eetgt15syncld2uss",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "别叫医生！",
+    "audioText": "Don't call the doctor!",
+    "fullEnglish": "Don't call the doctor!",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Don't",
+        "answer": "Don't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不",
+        "phonetic": "doʊnt",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "call",
+        "answer": "call",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "打电话",
+        "phonetic": "kɔːl",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "the doctor",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；医生"
+      },
+      {
+        "index": 3,
+        "text": "doctor",
+        "answer": "doctor",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "医生",
+        "phonetic": "ˈdɑːktər",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "the doctor",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；医生"
+      },
+      {
+        "index": 4,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "别叫医生！"
+      }
+    ],
+    "shuffledBlocks": [
+      "Don't",
+      "the",
+      "doctor",
+      "call"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Don't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-2",
+        "text": "call",
+        "role": "谓语",
+        "zh": "打电话"
+      },
+      {
+        "id": "ud-3",
+        "text": "the doctor",
+        "role": "宾语",
+        "zh": "定冠词；医生",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-5",
+            "text": "doctor",
+            "role": "中心词",
+            "zh": "医生"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Don't",
+        "phonetic": "doʊnt",
+        "pos": "AUX",
+        "zh": "不",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "不"
+      },
+      "1": {
+        "text": "call",
+        "phonetic": "kɔːl",
+        "pos": "VERB",
+        "zh": "打电话",
+        "componentRole": "谓语",
+        "componentZh": "打电话"
+      },
+      "2": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the doctor",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；医生"
+      },
+      "3": {
+        "text": "doctor",
+        "phonetic": "ˈdɑːktər",
+        "pos": "NOUN",
+        "zh": "医生",
+        "componentRole": "中心词",
+        "componentZh": "医生",
+        "parentComponentText": "the doctor",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；医生"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-hbmqq62eetgt15syncld2uss-2",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-hbmqq62eetgt15syncld2uss-2",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "呼叫",
+    "audioText": "call",
+    "fullEnglish": "call",
+    "phonetic": "kɔːl",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "call",
+        "answer": "call",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "打电话",
+        "phonetic": "kɔːl",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "call"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "call",
+        "phonetic": "kɔːl",
+        "pos": "VERB",
+        "zh": "打电话",
+        "componentZh": "打电话"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-hbmqq62eetgt15syncld2uss-3",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-hbmqq62eetgt15syncld2uss-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "the",
+    "fullEnglish": "the",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "the"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-hbmqq62eetgt15syncld2uss-4",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-hbmqq62eetgt15syncld2uss-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "医生",
+    "audioText": "doctor",
+    "fullEnglish": "doctor",
+    "phonetic": "ˈdɑːktər",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "doctor",
+        "answer": "doctor",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "医生",
+        "phonetic": "ˈdɑːktər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "doctor"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "doctor",
+        "phonetic": "ˈdɑːktər",
+        "pos": "NOUN",
+        "zh": "医生",
+        "componentZh": "医生"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-sgl6nesdx2f33c3cyrtspao0",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-sgl6nesdx2f33c3cyrtspao0",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你绝不能叫医生。",
+    "audioText": "You mustn't call the doctor",
+    "fullEnglish": "You mustn't call the doctor",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "You",
+        "answer": "You",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "mustn't",
+        "answer": "mustn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "call",
+        "answer": "call",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "打电话",
+        "phonetic": "kɔːl",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "the doctor",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；医生"
+      },
+      {
+        "index": 4,
+        "text": "doctor",
+        "answer": "doctor",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "医生",
+        "phonetic": "ˈdɑːktər",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "the doctor",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；医生"
+      }
+    ],
+    "shuffledBlocks": [
+      "doctor",
+      "call",
+      "mustn't",
+      "the",
+      "You"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "You",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-2",
+        "text": "mustn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以"
+      },
+      {
+        "id": "ud-3",
+        "text": "call",
+        "role": "谓语",
+        "zh": "打电话"
+      },
+      {
+        "id": "ud-4",
+        "text": "the doctor",
+        "role": "宾语",
+        "zh": "定冠词；医生",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-6",
+            "text": "doctor",
+            "role": "中心词",
+            "zh": "医生"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "You",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "1": {
+        "text": "mustn't",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "zh": "must not（缩写）: 不可以",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "must not（缩写）: 不可以"
+      },
+      "2": {
+        "text": "call",
+        "phonetic": "kɔːl",
+        "pos": "VERB",
+        "zh": "打电话",
+        "componentRole": "谓语",
+        "componentZh": "打电话"
+      },
+      "3": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the doctor",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；医生"
+      },
+      "4": {
+        "text": "doctor",
+        "phonetic": "ˈdɑːktər",
+        "pos": "NOUN",
+        "zh": "医生",
+        "componentRole": "中心词",
+        "componentZh": "医生",
+        "parentComponentText": "the doctor",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；医生"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-iprcylen1a1fygrkgcgzdpip",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-iprcylen1a1fygrkgcgzdpip",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不要玩火柴！",
+    "audioText": "Don't play with matches!",
+    "fullEnglish": "Don't play with matches!",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Don't",
+        "answer": "Don't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不",
+        "phonetic": "doʊnt",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "玩",
+        "phonetic": "pleɪ",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "with",
+        "answer": "with",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "介词",
+        "zh": "和",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "with matches",
+        "parentComponentRole": "方式/伴随状语",
+        "parentComponentZh": "和；火柴（复数）"
+      },
+      {
+        "index": 3,
+        "text": "matches",
+        "answer": "matches",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "火柴（复数）",
+        "phonetic": "mætʃɪz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "matches",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "火柴（复数）"
+      },
+      {
+        "index": 4,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "不要玩火柴！"
+      }
+    ],
+    "shuffledBlocks": [
+      "Don't",
+      "with",
+      "play",
+      "matches"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Don't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-2",
+        "text": "play",
+        "role": "谓语",
+        "zh": "玩"
+      },
+      {
+        "id": "ud-3",
+        "text": "with matches",
+        "role": "方式/伴随状语",
+        "zh": "和；火柴（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "with",
+            "role": "介词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-5",
+            "text": "matches",
+            "role": "介词宾语",
+            "zh": "火柴（复数）",
+            "children": [
+              {
+                "id": "ud-6",
+                "text": "matches",
+                "role": "中心词",
+                "zh": "火柴（复数）"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Don't",
+        "phonetic": "doʊnt",
+        "pos": "AUX",
+        "zh": "不",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "不"
+      },
+      "1": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "玩",
+        "componentRole": "谓语",
+        "componentZh": "玩"
+      },
+      "2": {
+        "text": "with",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "zh": "和",
+        "componentRole": "介词",
+        "componentZh": "和",
+        "parentComponentText": "with matches",
+        "parentComponentRole": "方式/伴随状语",
+        "parentComponentZh": "和；火柴（复数）"
+      },
+      "3": {
+        "text": "matches",
+        "phonetic": "mætʃɪz",
+        "pos": "NOUN",
+        "zh": "火柴（复数）",
+        "componentRole": "中心词",
+        "componentZh": "火柴（复数）",
+        "parentComponentText": "matches",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "火柴（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-iprcylen1a1fygrkgcgzdpip-2",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-iprcylen1a1fygrkgcgzdpip-2",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "玩",
+    "audioText": "play",
+    "fullEnglish": "play",
+    "phonetic": "pleɪ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "玩",
+        "phonetic": "pleɪ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "play"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "玩",
+        "componentZh": "玩"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-iprcylen1a1fygrkgcgzdpip-3",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-iprcylen1a1fygrkgcgzdpip-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "和...一起",
+    "audioText": "with",
+    "fullEnglish": "with",
+    "phonetic": "wɪð; wɪθ",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "with",
+        "answer": "with",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "with"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "with",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "zh": "和",
+        "componentZh": "和"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-iprcylen1a1fygrkgcgzdpip-4",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-iprcylen1a1fygrkgcgzdpip-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "火柴（复数）",
+    "audioText": "matches",
+    "fullEnglish": "matches",
+    "phonetic": "mætʃɪz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "matches",
+        "answer": "matches",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "火柴（复数）",
+        "phonetic": "mætʃɪz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "matches"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "matches",
+        "phonetic": "mætʃɪz",
+        "pos": "NOUN",
+        "zh": "火柴（复数）",
+        "componentZh": "火柴（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-y2o9sg07a5r01d7dempkn6ty",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-y2o9sg07a5r01d7dempkn6ty",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你绝不能玩火柴。",
+    "audioText": "You mustn't play with matches",
+    "fullEnglish": "You mustn't play with matches",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "You",
+        "answer": "You",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "mustn't",
+        "answer": "mustn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "玩",
+        "phonetic": "pleɪ",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "with",
+        "answer": "with",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "介词",
+        "zh": "和",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "with matches",
+        "parentComponentRole": "方式/伴随状语",
+        "parentComponentZh": "和；火柴（复数）"
+      },
+      {
+        "index": 4,
+        "text": "matches",
+        "answer": "matches",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "火柴（复数）",
+        "phonetic": "mætʃɪz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "matches",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "火柴（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "mustn't",
+      "matches",
+      "You",
+      "play",
+      "with"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "You",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-2",
+        "text": "mustn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以"
+      },
+      {
+        "id": "ud-3",
+        "text": "play",
+        "role": "谓语",
+        "zh": "玩"
+      },
+      {
+        "id": "ud-4",
+        "text": "with matches",
+        "role": "方式/伴随状语",
+        "zh": "和；火柴（复数）",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "with",
+            "role": "介词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-6",
+            "text": "matches",
+            "role": "介词宾语",
+            "zh": "火柴（复数）",
+            "children": [
+              {
+                "id": "ud-7",
+                "text": "matches",
+                "role": "中心词",
+                "zh": "火柴（复数）"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "You",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "1": {
+        "text": "mustn't",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "zh": "must not（缩写）: 不可以",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "must not（缩写）: 不可以"
+      },
+      "2": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "玩",
+        "componentRole": "谓语",
+        "componentZh": "玩"
+      },
+      "3": {
+        "text": "with",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "zh": "和",
+        "componentRole": "介词",
+        "componentZh": "和",
+        "parentComponentText": "with matches",
+        "parentComponentRole": "方式/伴随状语",
+        "parentComponentZh": "和；火柴（复数）"
+      },
+      "4": {
+        "text": "matches",
+        "phonetic": "mætʃɪz",
+        "pos": "NOUN",
+        "zh": "火柴（复数）",
+        "componentRole": "中心词",
+        "componentZh": "火柴（复数）",
+        "parentComponentText": "matches",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "火柴（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-e25q1m9kwiri1ihsyz0ith7i",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-e25q1m9kwiri1ihsyz0ith7i",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不要在图书馆里说话！",
+    "audioText": "Don't talk in the library!",
+    "fullEnglish": "Don't talk in the library!",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Don't",
+        "answer": "Don't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不",
+        "phonetic": "doʊnt",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "talk",
+        "answer": "talk",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "谈话",
+        "phonetic": "tɔːk",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "介词",
+        "zh": "在...里",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "in the library",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在...里；定冠词；图书馆"
+      },
+      {
+        "index": 3,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "the library",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；图书馆"
+      },
+      {
+        "index": 4,
+        "text": "library",
+        "answer": "library",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "图书馆",
+        "phonetic": "ˈlaɪbreri",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "the library",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；图书馆"
+      },
+      {
+        "index": 5,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "不要在图书馆里说话！"
+      }
+    ],
+    "shuffledBlocks": [
+      "Don't",
+      "talk",
+      "in",
+      "library",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Don't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-2",
+        "text": "talk",
+        "role": "谓语",
+        "zh": "谈话"
+      },
+      {
+        "id": "ud-3",
+        "text": "in the library",
+        "role": "地点状语",
+        "zh": "在...里；定冠词；图书馆",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "in",
+            "role": "介词",
+            "zh": "在...里"
+          },
+          {
+            "id": "ud-5",
+            "text": "the library",
+            "role": "介词宾语",
+            "zh": "定冠词；图书馆",
+            "children": [
+              {
+                "id": "ud-6",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-7",
+                "text": "library",
+                "role": "中心词",
+                "zh": "图书馆"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Don't",
+        "phonetic": "doʊnt",
+        "pos": "AUX",
+        "zh": "不",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "不"
+      },
+      "1": {
+        "text": "talk",
+        "phonetic": "tɔːk",
+        "pos": "VERB",
+        "zh": "谈话",
+        "componentRole": "谓语",
+        "componentZh": "谈话"
+      },
+      "2": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在...里",
+        "componentRole": "介词",
+        "componentZh": "在...里",
+        "parentComponentText": "in the library",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在...里；定冠词；图书馆"
+      },
+      "3": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the library",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；图书馆"
+      },
+      "4": {
+        "text": "library",
+        "phonetic": "ˈlaɪbreri",
+        "pos": "NOUN",
+        "zh": "图书馆",
+        "componentRole": "中心词",
+        "componentZh": "图书馆",
+        "parentComponentText": "the library",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；图书馆"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-e25q1m9kwiri1ihsyz0ith7i-2",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-e25q1m9kwiri1ihsyz0ith7i-2",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "说话",
+    "audioText": "talk",
+    "fullEnglish": "talk",
+    "phonetic": "tɔːk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "talk",
+        "answer": "talk",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "谈话",
+        "phonetic": "tɔːk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "talk"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "talk",
+        "phonetic": "tɔːk",
+        "pos": "VERB",
+        "zh": "谈话",
+        "componentZh": "谈话"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-e25q1m9kwiri1ihsyz0ith7i-3",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-e25q1m9kwiri1ihsyz0ith7i-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在...里面",
+    "audioText": "in",
+    "fullEnglish": "in",
+    "phonetic": "ɪn",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...里",
+        "phonetic": "ɪn",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "in"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在...里",
+        "componentZh": "在...里"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-e25q1m9kwiri1ihsyz0ith7i-5",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-e25q1m9kwiri1ihsyz0ith7i-5",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "图书馆",
+    "audioText": "library",
+    "fullEnglish": "library",
+    "phonetic": "ˈlaɪbreri",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "library",
+        "answer": "library",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "图书馆",
+        "phonetic": "ˈlaɪbreri",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "library"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "library",
+        "phonetic": "ˈlaɪbreri",
+        "pos": "NOUN",
+        "zh": "图书馆",
+        "componentZh": "图书馆"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-jcbprqovwvqvpr86j1d0m4z0",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-jcbprqovwvqvpr86j1d0m4z0",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "图书馆内请勿交谈。",
+    "audioText": "You mustn't talk in the library",
+    "fullEnglish": "You mustn't talk in the library",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "You",
+        "answer": "You",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "mustn't",
+        "answer": "mustn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "talk",
+        "answer": "talk",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "谈话",
+        "phonetic": "tɔːk",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "介词",
+        "zh": "在...里",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "in the library",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在...里；定冠词；图书馆"
+      },
+      {
+        "index": 4,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "the library",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；图书馆"
+      },
+      {
+        "index": 5,
+        "text": "library",
+        "answer": "library",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "图书馆",
+        "phonetic": "ˈlaɪbreri",
+        "pos": "NOUN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "the library",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；图书馆"
+      }
+    ],
+    "shuffledBlocks": [
+      "mustn't",
+      "the",
+      "library",
+      "talk",
+      "in",
+      "You"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "You",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-2",
+        "text": "mustn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以"
+      },
+      {
+        "id": "ud-3",
+        "text": "talk",
+        "role": "谓语",
+        "zh": "谈话"
+      },
+      {
+        "id": "ud-4",
+        "text": "in the library",
+        "role": "地点状语",
+        "zh": "在...里；定冠词；图书馆",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "in",
+            "role": "介词",
+            "zh": "在...里"
+          },
+          {
+            "id": "ud-6",
+            "text": "the library",
+            "role": "介词宾语",
+            "zh": "定冠词；图书馆",
+            "children": [
+              {
+                "id": "ud-7",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-8",
+                "text": "library",
+                "role": "中心词",
+                "zh": "图书馆"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "You",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "1": {
+        "text": "mustn't",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "zh": "must not（缩写）: 不可以",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "must not（缩写）: 不可以"
+      },
+      "2": {
+        "text": "talk",
+        "phonetic": "tɔːk",
+        "pos": "VERB",
+        "zh": "谈话",
+        "componentRole": "谓语",
+        "componentZh": "谈话"
+      },
+      "3": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在...里",
+        "componentRole": "介词",
+        "componentZh": "在...里",
+        "parentComponentText": "in the library",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在...里；定冠词；图书馆"
+      },
+      "4": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the library",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；图书馆"
+      },
+      "5": {
+        "text": "library",
+        "phonetic": "ˈlaɪbreri",
+        "pos": "NOUN",
+        "zh": "图书馆",
+        "componentRole": "中心词",
+        "componentZh": "图书馆",
+        "parentComponentText": "the library",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；图书馆"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-w5627k8otovk2qjy62ofl6o1",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-w5627k8otovk2qjy62ofl6o1",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "别出声！",
+    "audioText": "Don't make a noise!",
+    "fullEnglish": "Don't make a noise!",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Don't",
+        "answer": "Don't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不",
+        "phonetic": "doʊnt",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "make",
+        "answer": "make",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "make（短语动词）: 安排",
+        "phonetic": "meɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "不定冠词",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "a noise",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "不定冠词；噪音"
+      },
+      {
+        "index": 3,
+        "text": "noise",
+        "answer": "noise",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "噪音",
+        "phonetic": "nɔɪz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "a noise",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "不定冠词；噪音"
+      },
+      {
+        "index": 4,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "别出声！"
+      }
+    ],
+    "shuffledBlocks": [
+      "a",
+      "noise",
+      "Don't",
+      "make"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Don't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-2",
+        "text": "make",
+        "role": "谓语",
+        "zh": "make（短语动词）: 安排"
+      },
+      {
+        "id": "ud-3",
+        "text": "a noise",
+        "role": "宾语",
+        "zh": "不定冠词；噪音",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "a",
+            "role": "限定词",
+            "zh": "不定冠词"
+          },
+          {
+            "id": "ud-5",
+            "text": "noise",
+            "role": "中心词",
+            "zh": "噪音"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Don't",
+        "phonetic": "doʊnt",
+        "pos": "AUX",
+        "zh": "不",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "不"
+      },
+      "1": {
+        "text": "make",
+        "phonetic": "meɪk",
+        "pos": "VERB",
+        "zh": "make（短语动词）: 安排",
+        "componentRole": "谓语",
+        "componentZh": "make（短语动词）: 安排"
+      },
+      "2": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "不定冠词",
+        "componentRole": "限定词",
+        "componentZh": "不定冠词",
+        "parentComponentText": "a noise",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "不定冠词；噪音"
+      },
+      "3": {
+        "text": "noise",
+        "phonetic": "nɔɪz",
+        "pos": "NOUN",
+        "zh": "噪音",
+        "componentRole": "中心词",
+        "componentZh": "噪音",
+        "parentComponentText": "a noise",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "不定冠词；噪音"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-w5627k8otovk2qjy62ofl6o1-2",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-w5627k8otovk2qjy62ofl6o1-2",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "制造",
+    "audioText": "make",
+    "fullEnglish": "make",
+    "phonetic": "meɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "make",
+        "answer": "make",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "make（短语动词）: 安排",
+        "phonetic": "meɪk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "make"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "make",
+        "phonetic": "meɪk",
+        "pos": "VERB",
+        "zh": "make（短语动词）: 安排",
+        "componentZh": "make（短语动词）: 安排"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-w5627k8otovk2qjy62ofl6o1-3",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-w5627k8otovk2qjy62ofl6o1-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不定冠词",
+    "audioText": "a",
+    "fullEnglish": "a",
+    "phonetic": "ə; eɪ",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "不定冠词",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "a"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "不定冠词",
+        "componentZh": "不定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-w5627k8otovk2qjy62ofl6o1-4",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-w5627k8otovk2qjy62ofl6o1-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "噪音",
+    "audioText": "noise",
+    "fullEnglish": "noise",
+    "phonetic": "nɔɪz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "noise",
+        "answer": "noise",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "噪音",
+        "phonetic": "nɔɪz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "noise"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "noise",
+        "phonetic": "nɔɪz",
+        "pos": "NOUN",
+        "zh": "噪音",
+        "componentZh": "噪音"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-oz9rxa1p01ot73atbqpr5dtk",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-oz9rxa1p01ot73atbqpr5dtk",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你不可以发出噪音。",
+    "audioText": "You mustn't make a noise",
+    "fullEnglish": "You mustn't make a noise",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "You",
+        "answer": "You",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "mustn't",
+        "answer": "mustn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "make",
+        "answer": "make",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "make（短语动词）: 安排",
+        "phonetic": "meɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "不定冠词",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "a noise",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "不定冠词；噪音"
+      },
+      {
+        "index": 4,
+        "text": "noise",
+        "answer": "noise",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "噪音",
+        "phonetic": "nɔɪz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "a noise",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "不定冠词；噪音"
+      }
+    ],
+    "shuffledBlocks": [
+      "mustn't",
+      "a",
+      "noise",
+      "make",
+      "You"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "You",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-2",
+        "text": "mustn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以"
+      },
+      {
+        "id": "ud-3",
+        "text": "make",
+        "role": "谓语",
+        "zh": "make（短语动词）: 安排"
+      },
+      {
+        "id": "ud-4",
+        "text": "a noise",
+        "role": "宾语",
+        "zh": "不定冠词；噪音",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "a",
+            "role": "限定词",
+            "zh": "不定冠词"
+          },
+          {
+            "id": "ud-6",
+            "text": "noise",
+            "role": "中心词",
+            "zh": "噪音"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "You",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "1": {
+        "text": "mustn't",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "zh": "must not（缩写）: 不可以",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "must not（缩写）: 不可以"
+      },
+      "2": {
+        "text": "make",
+        "phonetic": "meɪk",
+        "pos": "VERB",
+        "zh": "make（短语动词）: 安排",
+        "componentRole": "谓语",
+        "componentZh": "make（短语动词）: 安排"
+      },
+      "3": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "不定冠词",
+        "componentRole": "限定词",
+        "componentZh": "不定冠词",
+        "parentComponentText": "a noise",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "不定冠词；噪音"
+      },
+      "4": {
+        "text": "noise",
+        "phonetic": "nɔɪz",
+        "pos": "NOUN",
+        "zh": "噪音",
+        "componentRole": "中心词",
+        "componentZh": "噪音",
+        "parentComponentText": "a noise",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "不定冠词；噪音"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-yx37hopglrrdv94ooldijmgl",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-yx37hopglrrdv94ooldijmgl",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "别开这么快！",
+    "audioText": "Don't drive so quickly!",
+    "fullEnglish": "Don't drive so quickly!",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Don't",
+        "answer": "Don't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不",
+        "phonetic": "doʊnt",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "drive",
+        "answer": "drive",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "驾驶",
+        "phonetic": "draɪv",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "so",
+        "answer": "so",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "副词",
+        "zh": "所以",
+        "phonetic": "soʊ",
+        "pos": "ADV",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "so quickly",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "所以；快速地"
+      },
+      {
+        "index": 3,
+        "text": "quickly",
+        "answer": "quickly",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "快速地",
+        "phonetic": "ˈkwɪkli",
+        "pos": "ADV",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "so quickly",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "所以；快速地"
+      },
+      {
+        "index": 4,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "别开这么快！"
+      }
+    ],
+    "shuffledBlocks": [
+      "drive",
+      "so",
+      "quickly",
+      "Don't"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Don't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-2",
+        "text": "drive",
+        "role": "谓语",
+        "zh": "驾驶"
+      },
+      {
+        "id": "ud-3",
+        "text": "so quickly",
+        "role": "方式/程度状语",
+        "zh": "所以；快速地",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "so",
+            "role": "副词",
+            "zh": "所以"
+          },
+          {
+            "id": "ud-5",
+            "text": "quickly",
+            "role": "中心词",
+            "zh": "快速地"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Don't",
+        "phonetic": "doʊnt",
+        "pos": "AUX",
+        "zh": "不",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "不"
+      },
+      "1": {
+        "text": "drive",
+        "phonetic": "draɪv",
+        "pos": "VERB",
+        "zh": "驾驶",
+        "componentRole": "谓语",
+        "componentZh": "驾驶"
+      },
+      "2": {
+        "text": "so",
+        "phonetic": "soʊ",
+        "pos": "ADV",
+        "zh": "所以",
+        "componentRole": "副词",
+        "componentZh": "所以",
+        "parentComponentText": "so quickly",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "所以；快速地"
+      },
+      "3": {
+        "text": "quickly",
+        "phonetic": "ˈkwɪkli",
+        "pos": "ADV",
+        "zh": "快速地",
+        "componentRole": "中心词",
+        "componentZh": "快速地",
+        "parentComponentText": "so quickly",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "所以；快速地"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-yx37hopglrrdv94ooldijmgl-2",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-yx37hopglrrdv94ooldijmgl-2",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "驾驶",
+    "audioText": "drive",
+    "fullEnglish": "drive",
+    "phonetic": "draɪv",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "drive",
+        "answer": "drive",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "驾驶",
+        "phonetic": "draɪv",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "drive"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "drive",
+        "phonetic": "draɪv",
+        "pos": "VERB",
+        "zh": "驾驶",
+        "componentZh": "驾驶"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-yx37hopglrrdv94ooldijmgl-3",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-yx37hopglrrdv94ooldijmgl-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "如此",
+    "audioText": "so",
+    "fullEnglish": "so",
+    "phonetic": "soʊ",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "so",
+        "answer": "so",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "所以",
+        "phonetic": "soʊ",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "so"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "so",
+        "phonetic": "soʊ",
+        "pos": "ADV",
+        "zh": "所以",
+        "componentZh": "所以"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-yx37hopglrrdv94ooldijmgl-4",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-yx37hopglrrdv94ooldijmgl-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "快速地",
+    "audioText": "quickly",
+    "fullEnglish": "quickly",
+    "phonetic": "ˈkwɪkli",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "quickly",
+        "answer": "quickly",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "快速地",
+        "phonetic": "ˈkwɪkli",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "quickly"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "quickly",
+        "phonetic": "ˈkwɪkli",
+        "pos": "ADV",
+        "zh": "快速地",
+        "componentZh": "快速地"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-ex8vio950f09bs137hib52ka",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-ex8vio950f09bs137hib52ka",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你千万别开这么快。",
+    "audioText": "You mustn't drive so quickly",
+    "fullEnglish": "You mustn't drive so quickly",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "You",
+        "answer": "You",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "mustn't",
+        "answer": "mustn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "drive",
+        "answer": "drive",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "驾驶",
+        "phonetic": "draɪv",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "so",
+        "answer": "so",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "副词",
+        "zh": "所以",
+        "phonetic": "soʊ",
+        "pos": "ADV",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "so quickly",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "所以；快速地"
+      },
+      {
+        "index": 4,
+        "text": "quickly",
+        "answer": "quickly",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "快速地",
+        "phonetic": "ˈkwɪkli",
+        "pos": "ADV",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "so quickly",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "所以；快速地"
+      }
+    ],
+    "shuffledBlocks": [
+      "mustn't",
+      "quickly",
+      "so",
+      "drive",
+      "You"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "You",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-2",
+        "text": "mustn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以"
+      },
+      {
+        "id": "ud-3",
+        "text": "drive",
+        "role": "谓语",
+        "zh": "驾驶"
+      },
+      {
+        "id": "ud-4",
+        "text": "so quickly",
+        "role": "方式/程度状语",
+        "zh": "所以；快速地",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "so",
+            "role": "副词",
+            "zh": "所以"
+          },
+          {
+            "id": "ud-6",
+            "text": "quickly",
+            "role": "中心词",
+            "zh": "快速地"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "You",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "1": {
+        "text": "mustn't",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "zh": "must not（缩写）: 不可以",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "must not（缩写）: 不可以"
+      },
+      "2": {
+        "text": "drive",
+        "phonetic": "draɪv",
+        "pos": "VERB",
+        "zh": "驾驶",
+        "componentRole": "谓语",
+        "componentZh": "驾驶"
+      },
+      "3": {
+        "text": "so",
+        "phonetic": "soʊ",
+        "pos": "ADV",
+        "zh": "所以",
+        "componentRole": "副词",
+        "componentZh": "所以",
+        "parentComponentText": "so quickly",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "所以；快速地"
+      },
+      "4": {
+        "text": "quickly",
+        "phonetic": "ˈkwɪkli",
+        "pos": "ADV",
+        "zh": "快速地",
+        "componentRole": "中心词",
+        "componentZh": "快速地",
+        "parentComponentText": "so quickly",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "所以；快速地"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-vo5mf09roix030hvs9ej4hc5",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-vo5mf09roix030hvs9ej4hc5",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请勿将身体探出窗外！",
+    "audioText": "Don't lean out of the window!",
+    "fullEnglish": "Don't lean out of the window!",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Don't",
+        "answer": "Don't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不",
+        "phonetic": "doʊnt",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "lean",
+        "answer": "lean",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "lean（短语动词原型）: 倾斜",
+        "phonetic": "liːn",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "out",
+        "answer": "out",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "介词",
+        "zh": "（与 go 搭配）",
+        "phonetic": "aʊt",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "out of the window",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "（与 go 搭配）；的；定冠词；窗户"
+      },
+      {
+        "index": 3,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "修饰语",
+        "zh": "的",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "of the window",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "的；定冠词；窗户"
+      },
+      {
+        "index": 4,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "of the window",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "的；定冠词；窗户"
+      },
+      {
+        "index": 5,
+        "text": "window",
+        "answer": "window",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "窗户",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "of the window",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "的；定冠词；窗户"
+      },
+      {
+        "index": 6,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "请勿将身体探出窗外！"
+      }
+    ],
+    "shuffledBlocks": [
+      "Don't",
+      "the",
+      "out",
+      "lean",
+      "of",
+      "window"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Don't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-2",
+        "text": "lean",
+        "role": "谓语",
+        "zh": "lean（短语动词原型）: 倾斜"
+      },
+      {
+        "id": "ud-3",
+        "text": "out of the window",
+        "role": "介词短语/状语",
+        "zh": "（与 go 搭配）；的；定冠词；窗户",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "out",
+            "role": "介词",
+            "zh": "（与 go 搭配）"
+          },
+          {
+            "id": "ud-5",
+            "text": "of the window",
+            "role": "介词宾语",
+            "zh": "的；定冠词；窗户",
+            "children": [
+              {
+                "id": "ud-6",
+                "text": "of",
+                "role": "修饰语",
+                "zh": "的"
+              },
+              {
+                "id": "ud-7",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-8",
+                "text": "window",
+                "role": "中心词",
+                "zh": "窗户"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Don't",
+        "phonetic": "doʊnt",
+        "pos": "AUX",
+        "zh": "不",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "不"
+      },
+      "1": {
+        "text": "lean",
+        "phonetic": "liːn",
+        "pos": "VERB",
+        "zh": "lean（短语动词原型）: 倾斜",
+        "componentRole": "谓语",
+        "componentZh": "lean（短语动词原型）: 倾斜"
+      },
+      "2": {
+        "text": "out",
+        "phonetic": "aʊt",
+        "pos": "ADP",
+        "zh": "（与 go 搭配）",
+        "componentRole": "介词",
+        "componentZh": "（与 go 搭配）",
+        "parentComponentText": "out of the window",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "（与 go 搭配）；的；定冠词；窗户"
+      },
+      "3": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "的",
+        "componentRole": "修饰语",
+        "componentZh": "的",
+        "parentComponentText": "of the window",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "的；定冠词；窗户"
+      },
+      "4": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "of the window",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "的；定冠词；窗户"
+      },
+      "5": {
+        "text": "window",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "zh": "窗户",
+        "componentRole": "中心词",
+        "componentZh": "窗户",
+        "parentComponentText": "of the window",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "的；定冠词；窗户"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-vo5mf09roix030hvs9ej4hc5-2",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-vo5mf09roix030hvs9ej4hc5-2",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "lean（短语动词原型）: 倾斜",
+    "audioText": "lean",
+    "fullEnglish": "lean",
+    "phonetic": "liːn",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "lean",
+        "answer": "lean",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "lean（短语动词原型）: 倾斜",
+        "phonetic": "liːn",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "lean"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "lean",
+        "phonetic": "liːn",
+        "pos": "VERB",
+        "zh": "lean（短语动词原型）: 倾斜",
+        "componentZh": "lean（短语动词原型）: 倾斜"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-vo5mf09roix030hvs9ej4hc5-3",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-vo5mf09roix030hvs9ej4hc5-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "（与 lean 搭配）",
+    "audioText": "out",
+    "fullEnglish": "out",
+    "phonetic": "aʊt",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "out",
+        "answer": "out",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 go 搭配）",
+        "phonetic": "aʊt",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "out"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "out",
+        "phonetic": "aʊt",
+        "pos": "ADP",
+        "zh": "（与 go 搭配）",
+        "componentZh": "（与 go 搭配）"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-vo5mf09roix030hvs9ej4hc5-4",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-vo5mf09roix030hvs9ej4hc5-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "的",
+    "audioText": "of",
+    "fullEnglish": "of",
+    "phonetic": "ʌv",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "的",
+        "phonetic": "ʌv",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "of"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "的",
+        "componentZh": "的"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-vo5mf09roix030hvs9ej4hc5-6",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-vo5mf09roix030hvs9ej4hc5-6",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "窗户",
+    "audioText": "window",
+    "fullEnglish": "window",
+    "phonetic": "ˈwɪndoʊ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "window",
+        "answer": "window",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "窗户",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "window"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "window",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "zh": "窗户",
+        "componentZh": "窗户"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-yugbnt28u4jrl78cas2r0yxi",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-yugbnt28u4jrl78cas2r0yxi",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "切勿将身体探出窗外。",
+    "audioText": "You mustn't lean out of the window",
+    "fullEnglish": "You mustn't lean out of the window",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "You",
+        "answer": "You",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "mustn't",
+        "answer": "mustn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "lean",
+        "answer": "lean",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "lean（短语动词原型）: 倾斜",
+        "phonetic": "liːn",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "out",
+        "answer": "out",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "介词",
+        "zh": "（与 go 搭配）",
+        "phonetic": "aʊt",
+        "pos": "ADP",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "out of the window",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "（与 go 搭配）；的；定冠词；窗户"
+      },
+      {
+        "index": 4,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "修饰语",
+        "zh": "的",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "of the window",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "的；定冠词；窗户"
+      },
+      {
+        "index": 5,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "of the window",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "的；定冠词；窗户"
+      },
+      {
+        "index": 6,
+        "text": "window",
+        "answer": "window",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "中心词",
+        "zh": "窗户",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "of the window",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "的；定冠词；窗户"
+      }
+    ],
+    "shuffledBlocks": [
+      "window",
+      "out",
+      "the",
+      "lean",
+      "of",
+      "You",
+      "mustn't"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "You",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-2",
+        "text": "mustn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以"
+      },
+      {
+        "id": "ud-3",
+        "text": "lean",
+        "role": "谓语",
+        "zh": "lean（短语动词原型）: 倾斜"
+      },
+      {
+        "id": "ud-4",
+        "text": "out of the window",
+        "role": "介词短语/状语",
+        "zh": "（与 go 搭配）；的；定冠词；窗户",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "out",
+            "role": "介词",
+            "zh": "（与 go 搭配）"
+          },
+          {
+            "id": "ud-6",
+            "text": "of the window",
+            "role": "介词宾语",
+            "zh": "的；定冠词；窗户",
+            "children": [
+              {
+                "id": "ud-7",
+                "text": "of",
+                "role": "修饰语",
+                "zh": "的"
+              },
+              {
+                "id": "ud-8",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-9",
+                "text": "window",
+                "role": "中心词",
+                "zh": "窗户"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "You",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "1": {
+        "text": "mustn't",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "zh": "must not（缩写）: 不可以",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "must not（缩写）: 不可以"
+      },
+      "2": {
+        "text": "lean",
+        "phonetic": "liːn",
+        "pos": "VERB",
+        "zh": "lean（短语动词原型）: 倾斜",
+        "componentRole": "谓语",
+        "componentZh": "lean（短语动词原型）: 倾斜"
+      },
+      "3": {
+        "text": "out",
+        "phonetic": "aʊt",
+        "pos": "ADP",
+        "zh": "（与 go 搭配）",
+        "componentRole": "介词",
+        "componentZh": "（与 go 搭配）",
+        "parentComponentText": "out of the window",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "（与 go 搭配）；的；定冠词；窗户"
+      },
+      "4": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "的",
+        "componentRole": "修饰语",
+        "componentZh": "的",
+        "parentComponentText": "of the window",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "的；定冠词；窗户"
+      },
+      "5": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "of the window",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "的；定冠词；窗户"
+      },
+      "6": {
+        "text": "window",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "zh": "窗户",
+        "componentRole": "中心词",
+        "componentZh": "窗户",
+        "parentComponentText": "of the window",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "的；定冠词；窗户"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-gfveolmaqo4qnic79lpcirh1",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-gfveolmaqo4qnic79lpcirh1",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "别打碎那个花瓶！",
+    "audioText": "Don't break that vase!",
+    "fullEnglish": "Don't break that vase!",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Don't",
+        "answer": "Don't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不",
+        "phonetic": "doʊnt",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "break",
+        "answer": "break",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "break（原型）: 打破",
+        "phonetic": "breɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "that vase",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "那个；花瓶"
+      },
+      {
+        "index": 3,
+        "text": "vase",
+        "answer": "vase",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "花瓶",
+        "phonetic": "veɪs",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "that vase",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "那个；花瓶"
+      },
+      {
+        "index": 4,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "别打碎那个花瓶！"
+      }
+    ],
+    "shuffledBlocks": [
+      "break",
+      "Don't",
+      "vase",
+      "that"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Don't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-2",
+        "text": "break",
+        "role": "谓语",
+        "zh": "break（原型）: 打破"
+      },
+      {
+        "id": "ud-3",
+        "text": "that vase",
+        "role": "宾语",
+        "zh": "那个；花瓶",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "that",
+            "role": "限定词",
+            "zh": "那个"
+          },
+          {
+            "id": "ud-5",
+            "text": "vase",
+            "role": "中心词",
+            "zh": "花瓶"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Don't",
+        "phonetic": "doʊnt",
+        "pos": "AUX",
+        "zh": "不",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "不"
+      },
+      "1": {
+        "text": "break",
+        "phonetic": "breɪk",
+        "pos": "VERB",
+        "zh": "break（原型）: 打破",
+        "componentRole": "谓语",
+        "componentZh": "break（原型）: 打破"
+      },
+      "2": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentRole": "限定词",
+        "componentZh": "那个",
+        "parentComponentText": "that vase",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "那个；花瓶"
+      },
+      "3": {
+        "text": "vase",
+        "phonetic": "veɪs",
+        "pos": "NOUN",
+        "zh": "花瓶",
+        "componentRole": "中心词",
+        "componentZh": "花瓶",
+        "parentComponentText": "that vase",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "那个；花瓶"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-gfveolmaqo4qnic79lpcirh1-2",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-gfveolmaqo4qnic79lpcirh1-2",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "打破",
+    "audioText": "break",
+    "fullEnglish": "break",
+    "phonetic": "breɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "break",
+        "answer": "break",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "break（原型）: 打破",
+        "phonetic": "breɪk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "break"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "break",
+        "phonetic": "breɪk",
+        "pos": "VERB",
+        "zh": "break（原型）: 打破",
+        "componentZh": "break（原型）: 打破"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-gfveolmaqo4qnic79lpcirh1-3",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-gfveolmaqo4qnic79lpcirh1-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那个",
+    "audioText": "that",
+    "fullEnglish": "that",
+    "phonetic": "ðæt",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "that"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentZh": "那个"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-gfveolmaqo4qnic79lpcirh1-4",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-W-gfveolmaqo4qnic79lpcirh1-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "花瓶",
+    "audioText": "vase",
+    "fullEnglish": "vase",
+    "phonetic": "veɪs",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "vase",
+        "answer": "vase",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "花瓶",
+        "phonetic": "veɪs",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "vase"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "vase",
+        "phonetic": "veɪs",
+        "pos": "NOUN",
+        "zh": "花瓶",
+        "componentZh": "花瓶"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-k4pn2czf97yp79dabbms7i34",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-S-k4pn2czf97yp79dabbms7i34",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你绝不能打碎那个花瓶。",
+    "audioText": "You mustn't break that vase",
+    "fullEnglish": "You mustn't break that vase",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "You",
+        "answer": "You",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "mustn't",
+        "answer": "mustn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "break",
+        "answer": "break",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "break（原型）: 打破",
+        "phonetic": "breɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "that vase",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "那个；花瓶"
+      },
+      {
+        "index": 4,
+        "text": "vase",
+        "answer": "vase",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "花瓶",
+        "phonetic": "veɪs",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "that vase",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "那个；花瓶"
+      }
+    ],
+    "shuffledBlocks": [
+      "break",
+      "mustn't",
+      "You",
+      "vase",
+      "that"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "You",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-2",
+        "text": "mustn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以"
+      },
+      {
+        "id": "ud-3",
+        "text": "break",
+        "role": "谓语",
+        "zh": "break（原型）: 打破"
+      },
+      {
+        "id": "ud-4",
+        "text": "that vase",
+        "role": "宾语",
+        "zh": "那个；花瓶",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "that",
+            "role": "限定词",
+            "zh": "那个"
+          },
+          {
+            "id": "ud-6",
+            "text": "vase",
+            "role": "中心词",
+            "zh": "花瓶"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "You",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "1": {
+        "text": "mustn't",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "zh": "must not（缩写）: 不可以",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "must not（缩写）: 不可以"
+      },
+      "2": {
+        "text": "break",
+        "phonetic": "breɪk",
+        "pos": "VERB",
+        "zh": "break（原型）: 打破",
+        "componentRole": "谓语",
+        "componentZh": "break（原型）: 打破"
+      },
+      "3": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentRole": "限定词",
+        "componentZh": "那个",
+        "parentComponentText": "that vase",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "那个；花瓶"
+      },
+      "4": {
+        "text": "vase",
+        "phonetic": "veɪs",
+        "pos": "NOUN",
+        "zh": "花瓶",
+        "componentRole": "中心词",
+        "componentZh": "花瓶",
+        "parentComponentText": "that vase",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "那个；花瓶"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-WORD-sl1m8s1eyzsqbo49thb4uqad",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-WORD-sl1m8s1eyzsqbo49thb4uqad",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不要",
+    "audioText": "Dont",
+    "fullEnglish": "Dont",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Dont",
+        "answer": "Dont",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "不要"
+      }
+    ],
+    "shuffledBlocks": [
+      "Dont"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Dont",
+        "zh": "不要",
+        "componentZh": "不要"
+      }
+    }
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-yrnifbtzuh377rnfiuu0t6sg",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-yrnifbtzuh377rnfiuu0t6sg",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "任何阿司匹林",
+    "audioText": "any aspirins",
+    "fullEnglish": "any aspirins",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "any",
+        "answer": "any",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "任何",
+        "phonetic": "ˈeni",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "aspirins",
+        "answer": "aspirins",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "阿司匹林（复数）",
+        "phonetic": "əˈspɪrɪnz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "aspirins",
+      "any"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "any",
+        "role": "补充成分",
+        "zh": "任何"
+      },
+      {
+        "id": "ud-2",
+        "text": "aspirins",
+        "role": "中心成分",
+        "zh": "阿司匹林（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "any",
+        "phonetic": "ˈeni",
+        "pos": "DET",
+        "zh": "任何",
+        "componentZh": "任何",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "aspirins",
+        "phonetic": "əˈspɪrɪnz",
+        "pos": "NOUN",
+        "zh": "阿司匹林（复数）",
+        "componentZh": "阿司匹林（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-el9c9sg8xqh60w4ycqa6i7r4",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-el9c9sg8xqh60w4ycqa6i7r4",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不能服用",
+    "audioText": "mustn't take",
+    "fullEnglish": "mustn't take",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "mustn't",
+        "answer": "mustn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "must not（缩写）: 不可以",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "take",
+        "answer": "take",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "带",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "mustn't",
+      "take"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "mustn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以"
+      },
+      {
+        "id": "ud-2",
+        "text": "take",
+        "role": "谓语",
+        "zh": "带"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "mustn't",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "zh": "must not（缩写）: 不可以",
+        "componentZh": "must not（缩写）: 不可以",
+        "componentRole": "助动词 + 方式/程度状语"
+      },
+      "1": {
+        "text": "take",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "zh": "带",
+        "componentZh": "带",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-zy335td5vjs28vkod9rf2rac",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-zy335td5vjs28vkod9rf2rac",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这种药",
+    "audioText": "this medicine",
+    "fullEnglish": "this medicine",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "medicine",
+        "answer": "medicine",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "药",
+        "phonetic": "ˈmedɪs(ə)n",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "medicine",
+      "this"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "this",
+        "role": "补充成分",
+        "zh": "这个"
+      },
+      {
+        "id": "ud-2",
+        "text": "medicine",
+        "role": "中心成分",
+        "zh": "药"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentZh": "这个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "medicine",
+        "phonetic": "ˈmedɪs(ə)n",
+        "pos": "NOUN",
+        "zh": "药",
+        "componentZh": "药",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-tsjsn72fiegq5lljdcc1tex1",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-tsjsn72fiegq5lljdcc1tex1",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "医生",
+    "audioText": "the doctor",
+    "fullEnglish": "the doctor",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "doctor",
+        "answer": "doctor",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "医生",
+        "phonetic": "ˈdɑːktər",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "doctor",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "doctor",
+        "role": "中心成分",
+        "zh": "医生"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "doctor",
+        "phonetic": "ˈdɑːktər",
+        "pos": "NOUN",
+        "zh": "医生",
+        "componentZh": "医生",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-mxqqckkeony1ipy1mkomhhlc",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-mxqqckkeony1ipy1mkomhhlc",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不可以叫",
+    "audioText": "mustn't call",
+    "fullEnglish": "mustn't call",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "mustn't",
+        "answer": "mustn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "must not（缩写）: 不可以",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "call",
+        "answer": "call",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "打电话",
+        "phonetic": "kɔːl",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "mustn't",
+      "call"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "mustn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以"
+      },
+      {
+        "id": "ud-2",
+        "text": "call",
+        "role": "谓语",
+        "zh": "打电话"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "mustn't",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "zh": "must not（缩写）: 不可以",
+        "componentZh": "must not（缩写）: 不可以",
+        "componentRole": "助动词 + 方式/程度状语"
+      },
+      "1": {
+        "text": "call",
+        "phonetic": "kɔːl",
+        "pos": "VERB",
+        "zh": "打电话",
+        "componentZh": "打电话",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-im1igiamyhuvktb9o8f3lrgd",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-im1igiamyhuvktb9o8f3lrgd",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不可以玩",
+    "audioText": "mustn't play",
+    "fullEnglish": "mustn't play",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "mustn't",
+        "answer": "mustn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "must not（缩写）: 不可以",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "玩",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "play",
+      "mustn't"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "mustn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以"
+      },
+      {
+        "id": "ud-2",
+        "text": "play",
+        "role": "谓语",
+        "zh": "玩"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "mustn't",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "zh": "must not（缩写）: 不可以",
+        "componentZh": "must not（缩写）: 不可以",
+        "componentRole": "助动词 + 方式/程度状语"
+      },
+      "1": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "玩",
+        "componentZh": "玩",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-nezai6qskm0158fe5ya0qyci",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-nezai6qskm0158fe5ya0qyci",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在图书馆里",
+    "audioText": "in the library",
+    "fullEnglish": "in the library",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...里",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "library",
+        "answer": "library",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "图书馆",
+        "phonetic": "ˈlaɪbreri",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "library",
+      "the",
+      "in"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "in",
+        "role": "补充成分",
+        "zh": "在...里"
+      },
+      {
+        "id": "ud-2",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-3",
+        "text": "library",
+        "role": "中心成分",
+        "zh": "图书馆"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在...里",
+        "componentZh": "在...里",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "library",
+        "phonetic": "ˈlaɪbreri",
+        "pos": "NOUN",
+        "zh": "图书馆",
+        "componentZh": "图书馆",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-m0092neee25jjfvoxwyrq8hl",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-m0092neee25jjfvoxwyrq8hl",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不准说话",
+    "audioText": "mustn't talk",
+    "fullEnglish": "mustn't talk",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "mustn't",
+        "answer": "mustn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "must not（缩写）: 不可以",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "talk",
+        "answer": "talk",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "谈话",
+        "phonetic": "tɔːk",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "mustn't",
+      "talk"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "mustn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以"
+      },
+      {
+        "id": "ud-2",
+        "text": "talk",
+        "role": "谓语",
+        "zh": "谈话"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "mustn't",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "zh": "must not（缩写）: 不可以",
+        "componentZh": "must not（缩写）: 不可以",
+        "componentRole": "助动词 + 方式/程度状语"
+      },
+      "1": {
+        "text": "talk",
+        "phonetic": "tɔːk",
+        "pos": "VERB",
+        "zh": "谈话",
+        "componentZh": "谈话",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-xyb6rsav1ueiwfahiqd3z9pm",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-xyb6rsav1ueiwfahiqd3z9pm",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "噪音",
+    "audioText": "a noise",
+    "fullEnglish": "a noise",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "不定冠词",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "noise",
+        "answer": "noise",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "噪音",
+        "phonetic": "nɔɪz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "a",
+      "noise"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "a",
+        "role": "补充成分",
+        "zh": "不定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "noise",
+        "role": "中心成分",
+        "zh": "噪音"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "不定冠词",
+        "componentZh": "不定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "noise",
+        "phonetic": "nɔɪz",
+        "pos": "NOUN",
+        "zh": "噪音",
+        "componentZh": "噪音",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-du4bh58e6h4lt7lvbg4hly0p",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-du4bh58e6h4lt7lvbg4hly0p",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不可以制造",
+    "audioText": "mustn't make",
+    "fullEnglish": "mustn't make",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "mustn't",
+        "answer": "mustn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "must not（缩写）: 不可以",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "make",
+        "answer": "make",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "make（短语动词）: 安排",
+        "phonetic": "meɪk",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "mustn't",
+      "make"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "mustn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以"
+      },
+      {
+        "id": "ud-2",
+        "text": "make",
+        "role": "谓语",
+        "zh": "make（短语动词）: 安排"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "mustn't",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "zh": "must not（缩写）: 不可以",
+        "componentZh": "must not（缩写）: 不可以",
+        "componentRole": "助动词 + 方式/程度状语"
+      },
+      "1": {
+        "text": "make",
+        "phonetic": "meɪk",
+        "pos": "VERB",
+        "zh": "make（短语动词）: 安排",
+        "componentZh": "make（短语动词）: 安排",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-kgkjpi0x5esejnjepwirczmk",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-kgkjpi0x5esejnjepwirczmk",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这么快",
+    "audioText": "so quickly",
+    "fullEnglish": "so quickly",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "so",
+        "answer": "so",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "所以",
+        "phonetic": "soʊ",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "quickly",
+        "answer": "quickly",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "快速地",
+        "phonetic": "ˈkwɪkli",
+        "pos": "ADV",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "so",
+      "quickly"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "so",
+        "role": "方式/程度状语",
+        "zh": "所以"
+      },
+      {
+        "id": "ud-2",
+        "text": "quickly",
+        "role": "中心成分",
+        "zh": "快速地"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "so",
+        "phonetic": "soʊ",
+        "pos": "ADV",
+        "zh": "所以",
+        "componentZh": "所以",
+        "componentRole": "方式/程度状语"
+      },
+      "1": {
+        "text": "quickly",
+        "phonetic": "ˈkwɪkli",
+        "pos": "ADV",
+        "zh": "快速地",
+        "componentZh": "快速地",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-xrbupfvj0mf7ywpaooaiazd1",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-xrbupfvj0mf7ywpaooaiazd1",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不准开",
+    "audioText": "mustn't drive",
+    "fullEnglish": "mustn't drive",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "mustn't",
+        "answer": "mustn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "must not（缩写）: 不可以",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "drive",
+        "answer": "drive",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "驾驶",
+        "phonetic": "draɪv",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "mustn't",
+      "drive"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "mustn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以"
+      },
+      {
+        "id": "ud-2",
+        "text": "drive",
+        "role": "谓语",
+        "zh": "驾驶"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "mustn't",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "zh": "must not（缩写）: 不可以",
+        "componentZh": "must not（缩写）: 不可以",
+        "componentRole": "助动词 + 方式/程度状语"
+      },
+      "1": {
+        "text": "drive",
+        "phonetic": "draɪv",
+        "pos": "VERB",
+        "zh": "驾驶",
+        "componentZh": "驾驶",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-v5xpfsjlyyrki743etr86dau",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-v5xpfsjlyyrki743etr86dau",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "探出",
+    "audioText": "lean out of",
+    "fullEnglish": "lean out of",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "lean",
+        "answer": "lean",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "lean（短语动词原型）: 倾斜",
+        "phonetic": "liːn",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "中心词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "lean out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "lean（短语动词原型）: 倾斜；（与 go 搭配）"
+      },
+      {
+        "index": 1,
+        "text": "out",
+        "answer": "out",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 go 搭配）",
+        "phonetic": "aʊt",
+        "pos": "ADP",
+        "componentId": "ud-3",
+        "role": "定语（名词修饰）",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "lean out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "lean（短语动词原型）: 倾斜；（与 go 搭配）"
+      },
+      {
+        "index": 2,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "的",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "componentId": "ud-4",
+        "role": "状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "lean",
+      "out",
+      "of"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "lean out",
+        "role": "谓语",
+        "zh": "lean（短语动词原型）: 倾斜；（与 go 搭配）",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "lean",
+            "role": "中心词",
+            "zh": "lean（短语动词原型）: 倾斜"
+          },
+          {
+            "id": "ud-3",
+            "text": "out",
+            "role": "定语（名词修饰）",
+            "zh": "（与 go 搭配）"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "of",
+        "role": "状语",
+        "zh": "的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "lean",
+        "phonetic": "liːn",
+        "pos": "VERB",
+        "zh": "lean（短语动词原型）: 倾斜",
+        "componentZh": "lean（短语动词原型）: 倾斜",
+        "componentRole": "中心词",
+        "parentComponentText": "lean out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "lean（短语动词原型）: 倾斜；（与 go 搭配）"
+      },
+      "1": {
+        "text": "out",
+        "phonetic": "aʊt",
+        "pos": "ADP",
+        "zh": "（与 go 搭配）",
+        "componentZh": "（与 go 搭配）",
+        "componentRole": "定语（名词修饰）",
+        "parentComponentText": "lean out",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "lean（短语动词原型）: 倾斜；（与 go 搭配）"
+      },
+      "2": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "的",
+        "componentZh": "的",
+        "componentRole": "状语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-b8brcwwn8s87rdh7px41622j",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-b8brcwwn8s87rdh7px41622j",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "窗外",
+    "audioText": "the window",
+    "fullEnglish": "the window",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "window",
+        "answer": "window",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "窗户",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "window",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "window",
+        "role": "中心成分",
+        "zh": "窗户"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "window",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "zh": "窗户",
+        "componentZh": "窗户",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-qtp813b8v1vfltp6pmtmcjmf",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-qtp813b8v1vfltp6pmtmcjmf",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不准倚靠",
+    "audioText": "mustn't lean",
+    "fullEnglish": "mustn't lean",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "mustn't",
+        "answer": "mustn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "must not（缩写）: 不可以",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "lean",
+        "answer": "lean",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "lean（短语动词原型）: 倾斜",
+        "phonetic": "liːn",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "mustn't",
+      "lean"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "mustn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以"
+      },
+      {
+        "id": "ud-2",
+        "text": "lean",
+        "role": "谓语",
+        "zh": "lean（短语动词原型）: 倾斜"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "mustn't",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "zh": "must not（缩写）: 不可以",
+        "componentZh": "must not（缩写）: 不可以",
+        "componentRole": "助动词 + 方式/程度状语"
+      },
+      "1": {
+        "text": "lean",
+        "phonetic": "liːn",
+        "pos": "VERB",
+        "zh": "lean（短语动词原型）: 倾斜",
+        "componentZh": "lean（短语动词原型）: 倾斜",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-weoh7rhjqyaiq62b2yiyj3go",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-weoh7rhjqyaiq62b2yiyj3go",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你不可以探身",
+    "audioText": "You mustn't lean",
+    "fullEnglish": "You mustn't lean",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "You",
+        "answer": "You",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "mustn't",
+        "answer": "mustn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "must not（缩写）: 不可以",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "助动词 + 方式/程度状语"
+      },
+      {
+        "index": 2,
+        "text": "lean",
+        "answer": "lean",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "lean（短语动词原型）: 倾斜",
+        "phonetic": "liːn",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "You",
+      "mustn't",
+      "lean"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "You",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-2",
+        "text": "mustn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以"
+      },
+      {
+        "id": "ud-3",
+        "text": "lean",
+        "role": "谓语",
+        "zh": "lean（短语动词原型）: 倾斜"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "You",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "mustn't",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "zh": "must not（缩写）: 不可以",
+        "componentZh": "must not（缩写）: 不可以",
+        "componentRole": "助动词 + 方式/程度状语"
+      },
+      "2": {
+        "text": "lean",
+        "phonetic": "liːn",
+        "pos": "VERB",
+        "zh": "lean（短语动词原型）: 倾斜",
+        "componentZh": "lean（短语动词原型）: 倾斜",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-e68z8oe1f2nhngdpqetqyr7r",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-e68z8oe1f2nhngdpqetqyr7r",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "从...出来",
+    "audioText": "out of",
+    "fullEnglish": "out of",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "out",
+        "answer": "out",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 go 搭配）",
+        "phonetic": "aʊt",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "的",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "role": "介词"
+      }
+    ],
+    "shuffledBlocks": [
+      "out",
+      "of"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "out",
+        "role": "中心成分",
+        "zh": "（与 go 搭配）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "out",
+        "phonetic": "aʊt",
+        "pos": "ADP",
+        "zh": "（与 go 搭配）",
+        "componentZh": "（与 go 搭配）",
+        "componentRole": "中心成分"
+      },
+      "1": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "的",
+        "componentZh": "的",
+        "componentRole": "介词"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-tfbbgkv7ymlzc3luibrunnp5",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-tfbbgkv7ymlzc3luibrunnp5",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "到窗外",
+    "audioText": "out of the window",
+    "fullEnglish": "out of the window",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "out",
+        "answer": "out",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 go 搭配）",
+        "phonetic": "aʊt",
+        "pos": "ADP",
+        "componentId": "ud-2",
+        "role": "中心词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "out of",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "（与 go 搭配）；的"
+      },
+      {
+        "index": 1,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "的",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "componentId": "ud-3",
+        "role": "修饰语",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "out of",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "（与 go 搭配）；的"
+      },
+      {
+        "index": 2,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-4",
+        "role": "补充成分"
+      },
+      {
+        "index": 3,
+        "text": "window",
+        "answer": "window",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "窗户",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "componentId": "ud-5",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "window",
+      "out",
+      "of",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "out of",
+        "role": "补充成分",
+        "zh": "（与 go 搭配）；的",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "out",
+            "role": "中心词",
+            "zh": "（与 go 搭配）"
+          },
+          {
+            "id": "ud-3",
+            "text": "of",
+            "role": "修饰语",
+            "zh": "的"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-5",
+        "text": "window",
+        "role": "中心成分",
+        "zh": "窗户"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "out",
+        "phonetic": "aʊt",
+        "pos": "ADP",
+        "zh": "（与 go 搭配）",
+        "componentZh": "（与 go 搭配）",
+        "componentRole": "中心词",
+        "parentComponentText": "out of",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "（与 go 搭配）；的"
+      },
+      "1": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "的",
+        "componentZh": "的",
+        "componentRole": "修饰语",
+        "parentComponentText": "out of",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "（与 go 搭配）；的"
+      },
+      "2": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "3": {
+        "text": "window",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "zh": "窗户",
+        "componentZh": "窗户",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-yf8fwlq4pqgqujx0n9f659zl",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-yf8fwlq4pqgqujx0n9f659zl",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那个花瓶",
+    "audioText": "that vase",
+    "fullEnglish": "that vase",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "vase",
+        "answer": "vase",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "花瓶",
+        "phonetic": "veɪs",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "that",
+      "vase"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "that",
+        "role": "补充成分",
+        "zh": "那个"
+      },
+      {
+        "id": "ud-2",
+        "text": "vase",
+        "role": "中心成分",
+        "zh": "花瓶"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentZh": "那个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "vase",
+        "phonetic": "veɪs",
+        "pos": "NOUN",
+        "zh": "花瓶",
+        "componentZh": "花瓶",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-rrqdlfgg0wartmymi2qgl38o",
+    "contentId": "JLB-fm0dl2g6ceoh9o3ce14ytya4-PHRASE-rrqdlfgg0wartmymi2qgl38o",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "fm0dl2g6ceoh9o3ce14ytya4",
+    "unitTitle": "lesson 64",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不可以打破",
+    "audioText": "mustn't break",
+    "fullEnglish": "mustn't break",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "mustn't",
+        "answer": "mustn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "must not（缩写）: 不可以",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "break",
+        "answer": "break",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "break（原型）: 打破",
+        "phonetic": "breɪk",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "break",
+      "mustn't"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "mustn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "must not（缩写）: 不可以"
+      },
+      {
+        "id": "ud-2",
+        "text": "break",
+        "role": "谓语",
+        "zh": "break（原型）: 打破"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "mustn't",
+        "phonetic": "ˈmʌsnt",
+        "pos": "AUX",
+        "zh": "must not（缩写）: 不可以",
+        "componentZh": "must not（缩写）: 不可以",
+        "componentRole": "助动词 + 方式/程度状语"
+      },
+      "1": {
+        "text": "break",
+        "phonetic": "breɪk",
+        "pos": "VERB",
+        "zh": "break（原型）: 打破",
+        "componentZh": "break（原型）: 打破",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

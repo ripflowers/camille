@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-label="kung fu">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#bfdbfe"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" rx="38" fill="url(#bg)"/>
+  <circle cx="118" cy="86" r="54" fill="rgba(255,255,255,.32)"/>
+  <circle cx="548" cy="340" r="72" fill="rgba(255,255,255,.22)"/>
+  <g transform="translate(170 70)">
+    <circle cx="210" cy="92" r="42" fill="#fde68a"/><path d="M160 150h100l42 92-42 28-30-66-38 122h-50l28-126-68 44-28-36z" fill="#1d4ed8"/><path d="M265 152l90-40 18 34-86 54z" fill="#f97316"/>
+  </g>
+</svg>

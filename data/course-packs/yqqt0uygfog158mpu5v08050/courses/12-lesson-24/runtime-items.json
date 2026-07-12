@@ -1,0 +1,7233 @@
+[
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-S-kwkluk9hcb0bjxd4bfn4y828",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-S-kwkluk9hcb0bjxd4bfn4y828",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请给我几支笔。",
+    "audioText": "Give me some pens please",
+    "fullEnglish": "Give me some pens please",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Give",
+        "answer": "Give",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "给",
+        "phonetic": "ɡɪv",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "间接宾语",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some pens",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；钢笔（复数）"
+      },
+      {
+        "index": 3,
+        "text": "pens",
+        "answer": "pens",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "钢笔（复数）",
+        "phonetic": "penz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some pens",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；钢笔（复数）"
+      },
+      {
+        "index": 4,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Give",
+      "please",
+      "me",
+      "pens",
+      "some"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Give",
+        "role": "谓语",
+        "zh": "给"
+      },
+      {
+        "id": "ud-2",
+        "text": "me",
+        "role": "间接宾语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "some pens",
+        "role": "宾语",
+        "zh": "一些；钢笔（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "some",
+            "role": "限定词",
+            "zh": "一些"
+          },
+          {
+            "id": "ud-5",
+            "text": "pens",
+            "role": "中心词",
+            "zh": "钢笔（复数）"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Give",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "zh": "给",
+        "componentRole": "谓语",
+        "componentZh": "给"
+      },
+      "1": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "间接宾语",
+        "componentZh": "我"
+      },
+      "2": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some pens",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；钢笔（复数）"
+      },
+      "3": {
+        "text": "pens",
+        "phonetic": "penz",
+        "pos": "NOUN",
+        "zh": "钢笔（复数）",
+        "componentRole": "中心词",
+        "componentZh": "钢笔（复数）",
+        "parentComponentText": "some pens",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；钢笔（复数）"
+      },
+      "4": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-kwkluk9hcb0bjxd4bfn4y828-1",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-kwkluk9hcb0bjxd4bfn4y828-1",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "给",
+    "audioText": "Give",
+    "fullEnglish": "Give",
+    "phonetic": "ɡɪv",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Give",
+        "answer": "Give",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "给",
+        "phonetic": "ɡɪv",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Give"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Give",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "zh": "给",
+        "componentZh": "给"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-kwkluk9hcb0bjxd4bfn4y828-2",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-kwkluk9hcb0bjxd4bfn4y828-2",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "me",
+    "fullEnglish": "me",
+    "phonetic": "miː",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "me"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-kwkluk9hcb0bjxd4bfn4y828-3",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-kwkluk9hcb0bjxd4bfn4y828-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些",
+    "audioText": "some",
+    "fullEnglish": "some",
+    "phonetic": "sʌm; səm",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "some"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-kwkluk9hcb0bjxd4bfn4y828-4",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-kwkluk9hcb0bjxd4bfn4y828-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "钢笔（复数）",
+    "audioText": "pens",
+    "fullEnglish": "pens",
+    "phonetic": "penz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "pens",
+        "answer": "pens",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "钢笔（复数）",
+        "phonetic": "penz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "pens"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "pens",
+        "phonetic": "penz",
+        "pos": "NOUN",
+        "zh": "钢笔（复数）",
+        "componentZh": "钢笔（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-kwkluk9hcb0bjxd4bfn4y828-5",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-kwkluk9hcb0bjxd4bfn4y828-5",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请",
+    "audioText": "please",
+    "fullEnglish": "please",
+    "phonetic": "pliːz",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "please"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentZh": "请"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-S-vk6se10krsvpv5pcac5kj7c4",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-S-vk6se10krsvpv5pcac5kj7c4",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哪些？",
+    "audioText": "Which ones?",
+    "fullEnglish": "Which ones?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Which",
+        "answer": "Which",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "关系代词（引导定语从句）",
+        "phonetic": "wɪtʃ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "ones",
+        "answer": "ones",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "复数: 那些",
+        "phonetic": "wʌnz",
+        "pos": "NOUN"
+      },
+      {
+        "index": 2,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哪些？"
+      }
+    ],
+    "shuffledBlocks": [
+      "ones",
+      "Which"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Which",
+        "role": "补充成分",
+        "zh": "关系代词（引导定语从句）"
+      },
+      {
+        "id": "ud-2",
+        "text": "ones",
+        "role": "中心成分",
+        "zh": "复数: 那些"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Which",
+        "phonetic": "wɪtʃ",
+        "pos": "PRON",
+        "zh": "关系代词（引导定语从句）",
+        "componentRole": "补充成分",
+        "componentZh": "关系代词（引导定语从句）"
+      },
+      "1": {
+        "text": "ones",
+        "phonetic": "wʌnz",
+        "pos": "NOUN",
+        "zh": "复数: 那些",
+        "componentRole": "中心成分",
+        "componentZh": "复数: 那些"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-S-jvcqvmg0s1irwykvjh1nyeew",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-S-jvcqvmg0s1irwykvjh1nyeew",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "桌上的那些。",
+    "audioText": "The ones on the desk",
+    "fullEnglish": "The ones on the desk",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "The",
+        "answer": "The",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      },
+      {
+        "index": 1,
+        "text": "ones",
+        "answer": "ones",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "复数: 那些",
+        "phonetic": "wʌnz",
+        "pos": "NOUN"
+      },
+      {
+        "index": 2,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "介词",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the desk",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；桌子"
+      },
+      {
+        "index": 3,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the desk",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；桌子"
+      },
+      {
+        "index": 4,
+        "text": "desk",
+        "answer": "desk",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "桌子",
+        "phonetic": "desk",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the desk",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；桌子"
+      }
+    ],
+    "shuffledBlocks": [
+      "ones",
+      "on",
+      "desk",
+      "The",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "The",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "ones",
+        "role": "中心成分",
+        "zh": "复数: 那些"
+      },
+      {
+        "id": "ud-3",
+        "text": "on the desk",
+        "role": "补充成分",
+        "zh": "在...上；定冠词；桌子",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "on",
+            "role": "介词",
+            "zh": "在...上"
+          },
+          {
+            "id": "ud-5",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-6",
+            "text": "desk",
+            "role": "中心词",
+            "zh": "桌子"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "The",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "补充成分",
+        "componentZh": "定冠词"
+      },
+      "1": {
+        "text": "ones",
+        "phonetic": "wʌnz",
+        "pos": "NOUN",
+        "zh": "复数: 那些",
+        "componentRole": "中心成分",
+        "componentZh": "复数: 那些"
+      },
+      "2": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentRole": "介词",
+        "componentZh": "在...上",
+        "parentComponentText": "on the desk",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；桌子"
+      },
+      "3": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "on the desk",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；桌子"
+      },
+      "4": {
+        "text": "desk",
+        "phonetic": "desk",
+        "pos": "NOUN",
+        "zh": "桌子",
+        "componentRole": "中心词",
+        "componentZh": "桌子",
+        "parentComponentText": "on the desk",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；桌子"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-jvcqvmg0s1irwykvjh1nyeew-1",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-jvcqvmg0s1irwykvjh1nyeew-1",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "The",
+    "fullEnglish": "The",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "The",
+        "answer": "The",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "The"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "The",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-jvcqvmg0s1irwykvjh1nyeew-2",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-jvcqvmg0s1irwykvjh1nyeew-2",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "复数: 那些",
+    "audioText": "ones",
+    "fullEnglish": "ones",
+    "phonetic": "wʌnz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "ones",
+        "answer": "ones",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "复数: 那些",
+        "phonetic": "wʌnz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "ones"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "ones",
+        "phonetic": "wʌnz",
+        "pos": "NOUN",
+        "zh": "复数: 那些",
+        "componentZh": "复数: 那些"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-jvcqvmg0s1irwykvjh1nyeew-3",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-jvcqvmg0s1irwykvjh1nyeew-3",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在...之上",
+    "audioText": "on",
+    "fullEnglish": "on",
+    "phonetic": "ɑːn",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "on"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentZh": "在...上"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-jvcqvmg0s1irwykvjh1nyeew-5",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-jvcqvmg0s1irwykvjh1nyeew-5",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "桌子",
+    "audioText": "desk",
+    "fullEnglish": "desk",
+    "phonetic": "desk",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "desk",
+        "answer": "desk",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "桌子",
+        "phonetic": "desk",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "desk"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "desk",
+        "phonetic": "desk",
+        "pos": "NOUN",
+        "zh": "桌子",
+        "componentZh": "桌子"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-S-k67qjgew7qe15begtbnz0ei5",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-S-k67qjgew7qe15begtbnz0ei5",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请给我几条领带。",
+    "audioText": "Give me some ties please",
+    "fullEnglish": "Give me some ties please",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Give",
+        "answer": "Give",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "给",
+        "phonetic": "ɡɪv",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "间接宾语",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some ties",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；领带（复数）"
+      },
+      {
+        "index": 3,
+        "text": "ties",
+        "answer": "ties",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "领带（复数）",
+        "phonetic": "taɪz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some ties",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；领带（复数）"
+      },
+      {
+        "index": 4,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Give",
+      "me",
+      "some",
+      "ties",
+      "please"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Give",
+        "role": "谓语",
+        "zh": "给"
+      },
+      {
+        "id": "ud-2",
+        "text": "me",
+        "role": "间接宾语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "some ties",
+        "role": "宾语",
+        "zh": "一些；领带（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "some",
+            "role": "限定词",
+            "zh": "一些"
+          },
+          {
+            "id": "ud-5",
+            "text": "ties",
+            "role": "中心词",
+            "zh": "领带（复数）"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Give",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "zh": "给",
+        "componentRole": "谓语",
+        "componentZh": "给"
+      },
+      "1": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "间接宾语",
+        "componentZh": "我"
+      },
+      "2": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some ties",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；领带（复数）"
+      },
+      "3": {
+        "text": "ties",
+        "phonetic": "taɪz",
+        "pos": "NOUN",
+        "zh": "领带（复数）",
+        "componentRole": "中心词",
+        "componentZh": "领带（复数）",
+        "parentComponentText": "some ties",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；领带（复数）"
+      },
+      "4": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-k67qjgew7qe15begtbnz0ei5-4",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-k67qjgew7qe15begtbnz0ei5-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "领带（复数）",
+    "audioText": "ties",
+    "fullEnglish": "ties",
+    "phonetic": "taɪz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "ties",
+        "answer": "ties",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "领带（复数）",
+        "phonetic": "taɪz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "ties"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "ties",
+        "phonetic": "taɪz",
+        "pos": "NOUN",
+        "zh": "领带（复数）",
+        "componentZh": "领带（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-S-qx43t9zz7ii5uks6ziepvii8",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-S-qx43t9zz7ii5uks6ziepvii8",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "椅子上的那些。",
+    "audioText": "The ones on the chair",
+    "fullEnglish": "The ones on the chair",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "The",
+        "answer": "The",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      },
+      {
+        "index": 1,
+        "text": "ones",
+        "answer": "ones",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "复数: 那些",
+        "phonetic": "wʌnz",
+        "pos": "NOUN"
+      },
+      {
+        "index": 2,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "介词",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the chair",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；椅子"
+      },
+      {
+        "index": 3,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the chair",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；椅子"
+      },
+      {
+        "index": 4,
+        "text": "chair",
+        "answer": "chair",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "椅子",
+        "phonetic": "tʃer",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the chair",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；椅子"
+      }
+    ],
+    "shuffledBlocks": [
+      "The",
+      "on",
+      "ones",
+      "chair",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "The",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "ones",
+        "role": "中心成分",
+        "zh": "复数: 那些"
+      },
+      {
+        "id": "ud-3",
+        "text": "on the chair",
+        "role": "补充成分",
+        "zh": "在...上；定冠词；椅子",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "on",
+            "role": "介词",
+            "zh": "在...上"
+          },
+          {
+            "id": "ud-5",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-6",
+            "text": "chair",
+            "role": "中心词",
+            "zh": "椅子"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "The",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "补充成分",
+        "componentZh": "定冠词"
+      },
+      "1": {
+        "text": "ones",
+        "phonetic": "wʌnz",
+        "pos": "NOUN",
+        "zh": "复数: 那些",
+        "componentRole": "中心成分",
+        "componentZh": "复数: 那些"
+      },
+      "2": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentRole": "介词",
+        "componentZh": "在...上",
+        "parentComponentText": "on the chair",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；椅子"
+      },
+      "3": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "on the chair",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；椅子"
+      },
+      "4": {
+        "text": "chair",
+        "phonetic": "tʃer",
+        "pos": "NOUN",
+        "zh": "椅子",
+        "componentRole": "中心词",
+        "componentZh": "椅子",
+        "parentComponentText": "on the chair",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；椅子"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-qx43t9zz7ii5uks6ziepvii8-5",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-qx43t9zz7ii5uks6ziepvii8-5",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "椅子",
+    "audioText": "chair",
+    "fullEnglish": "chair",
+    "phonetic": "tʃer",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "chair",
+        "answer": "chair",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "椅子",
+        "phonetic": "tʃer",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "chair"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "chair",
+        "phonetic": "tʃer",
+        "pos": "NOUN",
+        "zh": "椅子",
+        "componentZh": "椅子"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-S-n3723zbiqwz16zi3fzg04pgs",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-S-n3723zbiqwz16zi3fzg04pgs",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请给我几把勺子。",
+    "audioText": "Give me some spoons please",
+    "fullEnglish": "Give me some spoons please",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Give",
+        "answer": "Give",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "给",
+        "phonetic": "ɡɪv",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "间接宾语",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some spoons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；勺子（复数）"
+      },
+      {
+        "index": 3,
+        "text": "spoons",
+        "answer": "spoons",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "勺子（复数）",
+        "phonetic": "spuːnz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some spoons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；勺子（复数）"
+      },
+      {
+        "index": 4,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "some",
+      "spoons",
+      "Give",
+      "me",
+      "please"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Give",
+        "role": "谓语",
+        "zh": "给"
+      },
+      {
+        "id": "ud-2",
+        "text": "me",
+        "role": "间接宾语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "some spoons",
+        "role": "宾语",
+        "zh": "一些；勺子（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "some",
+            "role": "限定词",
+            "zh": "一些"
+          },
+          {
+            "id": "ud-5",
+            "text": "spoons",
+            "role": "中心词",
+            "zh": "勺子（复数）"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Give",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "zh": "给",
+        "componentRole": "谓语",
+        "componentZh": "给"
+      },
+      "1": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "间接宾语",
+        "componentZh": "我"
+      },
+      "2": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some spoons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；勺子（复数）"
+      },
+      "3": {
+        "text": "spoons",
+        "phonetic": "spuːnz",
+        "pos": "NOUN",
+        "zh": "勺子（复数）",
+        "componentRole": "中心词",
+        "componentZh": "勺子（复数）",
+        "parentComponentText": "some spoons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；勺子（复数）"
+      },
+      "4": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-n3723zbiqwz16zi3fzg04pgs-4",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-n3723zbiqwz16zi3fzg04pgs-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "勺子（复数）",
+    "audioText": "spoons",
+    "fullEnglish": "spoons",
+    "phonetic": "spuːnz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "spoons",
+        "answer": "spoons",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "勺子（复数）",
+        "phonetic": "spuːnz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "spoons"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "spoons",
+        "phonetic": "spuːnz",
+        "pos": "NOUN",
+        "zh": "勺子（复数）",
+        "componentZh": "勺子（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-S-y6sxuhui3eq9uoggtfolp7zq",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-S-y6sxuhui3eq9uoggtfolp7zq",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "桌上的那些。",
+    "audioText": "The ones on the table",
+    "fullEnglish": "The ones on the table",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "The",
+        "answer": "The",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      },
+      {
+        "index": 1,
+        "text": "ones",
+        "answer": "ones",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "复数: 那些",
+        "phonetic": "wʌnz",
+        "pos": "NOUN"
+      },
+      {
+        "index": 2,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "介词",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the table",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；桌子"
+      },
+      {
+        "index": 3,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the table",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；桌子"
+      },
+      {
+        "index": 4,
+        "text": "table",
+        "answer": "table",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "桌子",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the table",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；桌子"
+      }
+    ],
+    "shuffledBlocks": [
+      "The",
+      "ones",
+      "on",
+      "table",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "The",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "ones",
+        "role": "中心成分",
+        "zh": "复数: 那些"
+      },
+      {
+        "id": "ud-3",
+        "text": "on the table",
+        "role": "补充成分",
+        "zh": "在...上；定冠词；桌子",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "on",
+            "role": "介词",
+            "zh": "在...上"
+          },
+          {
+            "id": "ud-5",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-6",
+            "text": "table",
+            "role": "中心词",
+            "zh": "桌子"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "The",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "补充成分",
+        "componentZh": "定冠词"
+      },
+      "1": {
+        "text": "ones",
+        "phonetic": "wʌnz",
+        "pos": "NOUN",
+        "zh": "复数: 那些",
+        "componentRole": "中心成分",
+        "componentZh": "复数: 那些"
+      },
+      "2": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentRole": "介词",
+        "componentZh": "在...上",
+        "parentComponentText": "on the table",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；桌子"
+      },
+      "3": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "on the table",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；桌子"
+      },
+      "4": {
+        "text": "table",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "zh": "桌子",
+        "componentRole": "中心词",
+        "componentZh": "桌子",
+        "parentComponentText": "on the table",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；桌子"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-y6sxuhui3eq9uoggtfolp7zq-5",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-y6sxuhui3eq9uoggtfolp7zq-5",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "桌子",
+    "audioText": "table",
+    "fullEnglish": "table",
+    "phonetic": "ˈteɪbl",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "table",
+        "answer": "table",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "桌子",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "table"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "table",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "zh": "桌子",
+        "componentZh": "桌子"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-S-xkqgk08k796eyp9dd7lrm4er",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-S-xkqgk08k796eyp9dd7lrm4er",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请给我一些盘子。",
+    "audioText": "Give me some plates please",
+    "fullEnglish": "Give me some plates please",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Give",
+        "answer": "Give",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "给",
+        "phonetic": "ɡɪv",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "间接宾语",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some plates",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；盘子（复数）"
+      },
+      {
+        "index": 3,
+        "text": "plates",
+        "answer": "plates",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "盘子（复数）",
+        "phonetic": "pleɪts",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some plates",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；盘子（复数）"
+      },
+      {
+        "index": 4,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "plates",
+      "Give",
+      "please",
+      "some",
+      "me"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Give",
+        "role": "谓语",
+        "zh": "给"
+      },
+      {
+        "id": "ud-2",
+        "text": "me",
+        "role": "间接宾语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "some plates",
+        "role": "宾语",
+        "zh": "一些；盘子（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "some",
+            "role": "限定词",
+            "zh": "一些"
+          },
+          {
+            "id": "ud-5",
+            "text": "plates",
+            "role": "中心词",
+            "zh": "盘子（复数）"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Give",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "zh": "给",
+        "componentRole": "谓语",
+        "componentZh": "给"
+      },
+      "1": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "间接宾语",
+        "componentZh": "我"
+      },
+      "2": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some plates",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；盘子（复数）"
+      },
+      "3": {
+        "text": "plates",
+        "phonetic": "pleɪts",
+        "pos": "NOUN",
+        "zh": "盘子（复数）",
+        "componentRole": "中心词",
+        "componentZh": "盘子（复数）",
+        "parentComponentText": "some plates",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；盘子（复数）"
+      },
+      "4": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-xkqgk08k796eyp9dd7lrm4er-4",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-xkqgk08k796eyp9dd7lrm4er-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "盘子（复数）",
+    "audioText": "plates",
+    "fullEnglish": "plates",
+    "phonetic": "pleɪts",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "plates",
+        "answer": "plates",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "盘子（复数）",
+        "phonetic": "pleɪts",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "plates"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "plates",
+        "phonetic": "pleɪts",
+        "pos": "NOUN",
+        "zh": "盘子（复数）",
+        "componentZh": "盘子（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-S-nmsjbv4u8pdc2jti46v2fttm",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-S-nmsjbv4u8pdc2jti46v2fttm",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "橱柜上的那些。",
+    "audioText": "The ones on the cupboard",
+    "fullEnglish": "The ones on the cupboard",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "The",
+        "answer": "The",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      },
+      {
+        "index": 1,
+        "text": "ones",
+        "answer": "ones",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "复数: 那些",
+        "phonetic": "wʌnz",
+        "pos": "NOUN"
+      },
+      {
+        "index": 2,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "介词",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the cupboard",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；橱柜"
+      },
+      {
+        "index": 3,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the cupboard",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；橱柜"
+      },
+      {
+        "index": 4,
+        "text": "cupboard",
+        "answer": "cupboard",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "橱柜",
+        "phonetic": "ˈkʌbərd",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the cupboard",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；橱柜"
+      }
+    ],
+    "shuffledBlocks": [
+      "The",
+      "the",
+      "on",
+      "cupboard",
+      "ones"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "The",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "ones",
+        "role": "中心成分",
+        "zh": "复数: 那些"
+      },
+      {
+        "id": "ud-3",
+        "text": "on the cupboard",
+        "role": "补充成分",
+        "zh": "在...上；定冠词；橱柜",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "on",
+            "role": "介词",
+            "zh": "在...上"
+          },
+          {
+            "id": "ud-5",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-6",
+            "text": "cupboard",
+            "role": "中心词",
+            "zh": "橱柜"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "The",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "补充成分",
+        "componentZh": "定冠词"
+      },
+      "1": {
+        "text": "ones",
+        "phonetic": "wʌnz",
+        "pos": "NOUN",
+        "zh": "复数: 那些",
+        "componentRole": "中心成分",
+        "componentZh": "复数: 那些"
+      },
+      "2": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentRole": "介词",
+        "componentZh": "在...上",
+        "parentComponentText": "on the cupboard",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；橱柜"
+      },
+      "3": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "on the cupboard",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；橱柜"
+      },
+      "4": {
+        "text": "cupboard",
+        "phonetic": "ˈkʌbərd",
+        "pos": "NOUN",
+        "zh": "橱柜",
+        "componentRole": "中心词",
+        "componentZh": "橱柜",
+        "parentComponentText": "on the cupboard",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；橱柜"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-nmsjbv4u8pdc2jti46v2fttm-5",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-nmsjbv4u8pdc2jti46v2fttm-5",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "橱柜",
+    "audioText": "cupboard",
+    "fullEnglish": "cupboard",
+    "phonetic": "ˈkʌbərd",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "cupboard",
+        "answer": "cupboard",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "橱柜",
+        "phonetic": "ˈkʌbərd",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "cupboard"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "cupboard",
+        "phonetic": "ˈkʌbərd",
+        "pos": "NOUN",
+        "zh": "橱柜",
+        "componentZh": "橱柜"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-S-zz8icrkaj0dzxr0il7oypdph",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-S-zz8icrkaj0dzxr0il7oypdph",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请给我一些香烟。",
+    "audioText": "Give me some cigarettes please",
+    "fullEnglish": "Give me some cigarettes please",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Give",
+        "answer": "Give",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "给",
+        "phonetic": "ɡɪv",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "间接宾语",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some cigarettes",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；香烟（复数）"
+      },
+      {
+        "index": 3,
+        "text": "cigarettes",
+        "answer": "cigarettes",
+        "blank": "__________",
+        "letterCount": 10,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "香烟（复数）",
+        "phonetic": "ˌsɪɡəˈrɛt",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some cigarettes",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；香烟（复数）"
+      },
+      {
+        "index": 4,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Give",
+      "some",
+      "me",
+      "please",
+      "cigarettes"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Give",
+        "role": "谓语",
+        "zh": "给"
+      },
+      {
+        "id": "ud-2",
+        "text": "me",
+        "role": "间接宾语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "some cigarettes",
+        "role": "宾语",
+        "zh": "一些；香烟（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "some",
+            "role": "限定词",
+            "zh": "一些"
+          },
+          {
+            "id": "ud-5",
+            "text": "cigarettes",
+            "role": "中心词",
+            "zh": "香烟（复数）"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Give",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "zh": "给",
+        "componentRole": "谓语",
+        "componentZh": "给"
+      },
+      "1": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "间接宾语",
+        "componentZh": "我"
+      },
+      "2": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some cigarettes",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；香烟（复数）"
+      },
+      "3": {
+        "text": "cigarettes",
+        "phonetic": "ˌsɪɡəˈrɛt",
+        "pos": "NOUN",
+        "zh": "香烟（复数）",
+        "componentRole": "中心词",
+        "componentZh": "香烟（复数）",
+        "parentComponentText": "some cigarettes",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；香烟（复数）"
+      },
+      "4": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-zz8icrkaj0dzxr0il7oypdph-4",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-zz8icrkaj0dzxr0il7oypdph-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "香烟（复数）",
+    "audioText": "cigarettes",
+    "fullEnglish": "cigarettes",
+    "phonetic": "ˌsɪɡəˈrɛt",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "cigarettes",
+        "answer": "cigarettes",
+        "blank": "__________",
+        "letterCount": 10,
+        "fillable": true,
+        "type": "word",
+        "zh": "香烟（复数）",
+        "phonetic": "ˌsɪɡəˈrɛt",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "cigarettes"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "cigarettes",
+        "phonetic": "ˌsɪɡəˈrɛt",
+        "pos": "NOUN",
+        "zh": "香烟（复数）",
+        "componentZh": "香烟（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-S-w4rinrylsodpupu6kp1y1pe2",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-S-w4rinrylsodpupu6kp1y1pe2",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "电视上的那些。",
+    "audioText": "The ones on the television",
+    "fullEnglish": "The ones on the television",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "The",
+        "answer": "The",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      },
+      {
+        "index": 1,
+        "text": "ones",
+        "answer": "ones",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "复数: 那些",
+        "phonetic": "wʌnz",
+        "pos": "NOUN"
+      },
+      {
+        "index": 2,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "介词",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the television",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；电视"
+      },
+      {
+        "index": 3,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the television",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；电视"
+      },
+      {
+        "index": 4,
+        "text": "television",
+        "answer": "television",
+        "blank": "__________",
+        "letterCount": 10,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "电视",
+        "phonetic": "ˈteləˌvɪʒn",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the television",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；电视"
+      }
+    ],
+    "shuffledBlocks": [
+      "The",
+      "the",
+      "television",
+      "ones",
+      "on"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "The",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "ones",
+        "role": "中心成分",
+        "zh": "复数: 那些"
+      },
+      {
+        "id": "ud-3",
+        "text": "on the television",
+        "role": "补充成分",
+        "zh": "在...上；定冠词；电视",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "on",
+            "role": "介词",
+            "zh": "在...上"
+          },
+          {
+            "id": "ud-5",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-6",
+            "text": "television",
+            "role": "中心词",
+            "zh": "电视"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "The",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "补充成分",
+        "componentZh": "定冠词"
+      },
+      "1": {
+        "text": "ones",
+        "phonetic": "wʌnz",
+        "pos": "NOUN",
+        "zh": "复数: 那些",
+        "componentRole": "中心成分",
+        "componentZh": "复数: 那些"
+      },
+      "2": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentRole": "介词",
+        "componentZh": "在...上",
+        "parentComponentText": "on the television",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；电视"
+      },
+      "3": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "on the television",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；电视"
+      },
+      "4": {
+        "text": "television",
+        "phonetic": "ˈteləˌvɪʒn",
+        "pos": "NOUN",
+        "zh": "电视",
+        "componentRole": "中心词",
+        "componentZh": "电视",
+        "parentComponentText": "on the television",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；电视"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-w4rinrylsodpupu6kp1y1pe2-5",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-w4rinrylsodpupu6kp1y1pe2-5",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "电视",
+    "audioText": "television",
+    "fullEnglish": "television",
+    "phonetic": "ˈteləˌvɪʒn",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "television",
+        "answer": "television",
+        "blank": "__________",
+        "letterCount": 10,
+        "fillable": true,
+        "type": "word",
+        "zh": "电视",
+        "phonetic": "ˈteləˌvɪʒn",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "television"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "television",
+        "phonetic": "ˈteləˌvɪʒn",
+        "pos": "NOUN",
+        "zh": "电视",
+        "componentZh": "电视"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-S-a58lrzhsr3isdb6kfymi3upz",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-S-a58lrzhsr3isdb6kfymi3upz",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请给我一些盒子。",
+    "audioText": "Give me some boxes please",
+    "fullEnglish": "Give me some boxes please",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Give",
+        "answer": "Give",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "给",
+        "phonetic": "ɡɪv",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "间接宾语",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some boxes",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；盒子（复数）"
+      },
+      {
+        "index": 3,
+        "text": "boxes",
+        "answer": "boxes",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "盒子（复数）",
+        "phonetic": "bɑːksɪz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some boxes",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；盒子（复数）"
+      },
+      {
+        "index": 4,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Give",
+      "me",
+      "please",
+      "boxes",
+      "some"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Give",
+        "role": "谓语",
+        "zh": "给"
+      },
+      {
+        "id": "ud-2",
+        "text": "me",
+        "role": "间接宾语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "some boxes",
+        "role": "宾语",
+        "zh": "一些；盒子（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "some",
+            "role": "限定词",
+            "zh": "一些"
+          },
+          {
+            "id": "ud-5",
+            "text": "boxes",
+            "role": "中心词",
+            "zh": "盒子（复数）"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Give",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "zh": "给",
+        "componentRole": "谓语",
+        "componentZh": "给"
+      },
+      "1": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "间接宾语",
+        "componentZh": "我"
+      },
+      "2": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some boxes",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；盒子（复数）"
+      },
+      "3": {
+        "text": "boxes",
+        "phonetic": "bɑːksɪz",
+        "pos": "NOUN",
+        "zh": "盒子（复数）",
+        "componentRole": "中心词",
+        "componentZh": "盒子（复数）",
+        "parentComponentText": "some boxes",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；盒子（复数）"
+      },
+      "4": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-a58lrzhsr3isdb6kfymi3upz-4",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-a58lrzhsr3isdb6kfymi3upz-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "盒子（复数）",
+    "audioText": "boxes",
+    "fullEnglish": "boxes",
+    "phonetic": "bɑːksɪz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "boxes",
+        "answer": "boxes",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "盒子（复数）",
+        "phonetic": "bɑːksɪz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "boxes"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "boxes",
+        "phonetic": "bɑːksɪz",
+        "pos": "NOUN",
+        "zh": "盒子（复数）",
+        "componentZh": "盒子（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-S-jhnmrqbldpdasvoser25a2xr",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-S-jhnmrqbldpdasvoser25a2xr",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "地上的那些。",
+    "audioText": "The ones on the floor",
+    "fullEnglish": "The ones on the floor",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "The",
+        "answer": "The",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      },
+      {
+        "index": 1,
+        "text": "ones",
+        "answer": "ones",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "复数: 那些",
+        "phonetic": "wʌnz",
+        "pos": "NOUN"
+      },
+      {
+        "index": 2,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "介词",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the floor",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；地板"
+      },
+      {
+        "index": 3,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the floor",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；地板"
+      },
+      {
+        "index": 4,
+        "text": "floor",
+        "answer": "floor",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "地板",
+        "phonetic": "flɔːr",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the floor",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；地板"
+      }
+    ],
+    "shuffledBlocks": [
+      "on",
+      "the",
+      "ones",
+      "The",
+      "floor"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "The",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "ones",
+        "role": "中心成分",
+        "zh": "复数: 那些"
+      },
+      {
+        "id": "ud-3",
+        "text": "on the floor",
+        "role": "补充成分",
+        "zh": "在...上；定冠词；地板",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "on",
+            "role": "介词",
+            "zh": "在...上"
+          },
+          {
+            "id": "ud-5",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-6",
+            "text": "floor",
+            "role": "中心词",
+            "zh": "地板"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "The",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "补充成分",
+        "componentZh": "定冠词"
+      },
+      "1": {
+        "text": "ones",
+        "phonetic": "wʌnz",
+        "pos": "NOUN",
+        "zh": "复数: 那些",
+        "componentRole": "中心成分",
+        "componentZh": "复数: 那些"
+      },
+      "2": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentRole": "介词",
+        "componentZh": "在...上",
+        "parentComponentText": "on the floor",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；地板"
+      },
+      "3": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "on the floor",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；地板"
+      },
+      "4": {
+        "text": "floor",
+        "phonetic": "flɔːr",
+        "pos": "NOUN",
+        "zh": "地板",
+        "componentRole": "中心词",
+        "componentZh": "地板",
+        "parentComponentText": "on the floor",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；地板"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-jhnmrqbldpdasvoser25a2xr-5",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-jhnmrqbldpdasvoser25a2xr-5",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "地板",
+    "audioText": "floor",
+    "fullEnglish": "floor",
+    "phonetic": "flɔːr",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "floor",
+        "answer": "floor",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "地板",
+        "phonetic": "flɔːr",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "floor"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "floor",
+        "phonetic": "flɔːr",
+        "pos": "NOUN",
+        "zh": "地板",
+        "componentZh": "地板"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-S-p4lj8ta6hhiykqjxv9yfv29g",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-S-p4lj8ta6hhiykqjxv9yfv29g",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请给我一些瓶子。",
+    "audioText": "Give me some bottles please",
+    "fullEnglish": "Give me some bottles please",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Give",
+        "answer": "Give",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "给",
+        "phonetic": "ɡɪv",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "间接宾语",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some bottles",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；瓶子（复数）"
+      },
+      {
+        "index": 3,
+        "text": "bottles",
+        "answer": "bottles",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "瓶子（复数）",
+        "phonetic": "ˈbɑːt.əlz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some bottles",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；瓶子（复数）"
+      },
+      {
+        "index": 4,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "me",
+      "Give",
+      "bottles",
+      "please",
+      "some"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Give",
+        "role": "谓语",
+        "zh": "给"
+      },
+      {
+        "id": "ud-2",
+        "text": "me",
+        "role": "间接宾语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "some bottles",
+        "role": "宾语",
+        "zh": "一些；瓶子（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "some",
+            "role": "限定词",
+            "zh": "一些"
+          },
+          {
+            "id": "ud-5",
+            "text": "bottles",
+            "role": "中心词",
+            "zh": "瓶子（复数）"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Give",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "zh": "给",
+        "componentRole": "谓语",
+        "componentZh": "给"
+      },
+      "1": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "间接宾语",
+        "componentZh": "我"
+      },
+      "2": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some bottles",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；瓶子（复数）"
+      },
+      "3": {
+        "text": "bottles",
+        "phonetic": "ˈbɑːt.əlz",
+        "pos": "NOUN",
+        "zh": "瓶子（复数）",
+        "componentRole": "中心词",
+        "componentZh": "瓶子（复数）",
+        "parentComponentText": "some bottles",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；瓶子（复数）"
+      },
+      "4": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-p4lj8ta6hhiykqjxv9yfv29g-4",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-p4lj8ta6hhiykqjxv9yfv29g-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "瓶子（复数）",
+    "audioText": "bottles",
+    "fullEnglish": "bottles",
+    "phonetic": "ˈbɑːt.əlz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "bottles",
+        "answer": "bottles",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "瓶子（复数）",
+        "phonetic": "ˈbɑːt.əlz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "bottles"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "bottles",
+        "phonetic": "ˈbɑːt.əlz",
+        "pos": "NOUN",
+        "zh": "瓶子（复数）",
+        "componentZh": "瓶子（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-S-txq74rdhqnfipyf9kygolpn8",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-S-txq74rdhqnfipyf9kygolpn8",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "梳妆台上的那些。",
+    "audioText": "The ones on the dressing table",
+    "fullEnglish": "The ones on the dressing table",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "The",
+        "answer": "The",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      },
+      {
+        "index": 1,
+        "text": "ones",
+        "answer": "ones",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "复数: 那些",
+        "phonetic": "wʌnz",
+        "pos": "NOUN"
+      },
+      {
+        "index": 2,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "介词",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the dressing table",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；梳妆；桌子"
+      },
+      {
+        "index": 3,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the dressing table",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；梳妆；桌子"
+      },
+      {
+        "index": 4,
+        "text": "dressing",
+        "answer": "dressing",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "定语（名词修饰）",
+        "zh": "梳妆",
+        "phonetic": "ˈdresɪŋ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the dressing table",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；梳妆；桌子"
+      },
+      {
+        "index": 5,
+        "text": "table",
+        "answer": "table",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "桌子",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the dressing table",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；梳妆；桌子"
+      }
+    ],
+    "shuffledBlocks": [
+      "dressing",
+      "on",
+      "the",
+      "table",
+      "ones",
+      "The"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "The",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "ones",
+        "role": "中心成分",
+        "zh": "复数: 那些"
+      },
+      {
+        "id": "ud-3",
+        "text": "on the dressing table",
+        "role": "补充成分",
+        "zh": "在...上；定冠词；梳妆；桌子",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "on",
+            "role": "介词",
+            "zh": "在...上"
+          },
+          {
+            "id": "ud-5",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-6",
+            "text": "dressing",
+            "role": "定语（名词修饰）",
+            "zh": "梳妆"
+          },
+          {
+            "id": "ud-7",
+            "text": "table",
+            "role": "中心词",
+            "zh": "桌子"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "The",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "补充成分",
+        "componentZh": "定冠词"
+      },
+      "1": {
+        "text": "ones",
+        "phonetic": "wʌnz",
+        "pos": "NOUN",
+        "zh": "复数: 那些",
+        "componentRole": "中心成分",
+        "componentZh": "复数: 那些"
+      },
+      "2": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentRole": "介词",
+        "componentZh": "在...上",
+        "parentComponentText": "on the dressing table",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；梳妆；桌子"
+      },
+      "3": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "on the dressing table",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；梳妆；桌子"
+      },
+      "4": {
+        "text": "dressing",
+        "phonetic": "ˈdresɪŋ",
+        "pos": "NOUN",
+        "zh": "梳妆",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "梳妆",
+        "parentComponentText": "on the dressing table",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；梳妆；桌子"
+      },
+      "5": {
+        "text": "table",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "zh": "桌子",
+        "componentRole": "中心词",
+        "componentZh": "桌子",
+        "parentComponentText": "on the dressing table",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；梳妆；桌子"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-txq74rdhqnfipyf9kygolpn8-5",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-txq74rdhqnfipyf9kygolpn8-5",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "梳妆",
+    "audioText": "dressing",
+    "fullEnglish": "dressing",
+    "phonetic": "ˈdresɪŋ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "dressing",
+        "answer": "dressing",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "梳妆",
+        "phonetic": "ˈdresɪŋ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "dressing"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "dressing",
+        "phonetic": "ˈdresɪŋ",
+        "pos": "NOUN",
+        "zh": "梳妆",
+        "componentZh": "梳妆"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-S-o6gp1i7tbun8sgmcthqvmgih",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-S-o6gp1i7tbun8sgmcthqvmgih",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请给我一些书。",
+    "audioText": "Give me some books please",
+    "fullEnglish": "Give me some books please",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Give",
+        "answer": "Give",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "给",
+        "phonetic": "ɡɪv",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "间接宾语",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some books",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；书（复数）"
+      },
+      {
+        "index": 3,
+        "text": "books",
+        "answer": "books",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "书（复数）",
+        "phonetic": "bʊks",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some books",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；书（复数）"
+      },
+      {
+        "index": 4,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Give",
+      "some",
+      "me",
+      "books",
+      "please"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Give",
+        "role": "谓语",
+        "zh": "给"
+      },
+      {
+        "id": "ud-2",
+        "text": "me",
+        "role": "间接宾语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "some books",
+        "role": "宾语",
+        "zh": "一些；书（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "some",
+            "role": "限定词",
+            "zh": "一些"
+          },
+          {
+            "id": "ud-5",
+            "text": "books",
+            "role": "中心词",
+            "zh": "书（复数）"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Give",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "zh": "给",
+        "componentRole": "谓语",
+        "componentZh": "给"
+      },
+      "1": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "间接宾语",
+        "componentZh": "我"
+      },
+      "2": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some books",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；书（复数）"
+      },
+      "3": {
+        "text": "books",
+        "phonetic": "bʊks",
+        "pos": "NOUN",
+        "zh": "书（复数）",
+        "componentRole": "中心词",
+        "componentZh": "书（复数）",
+        "parentComponentText": "some books",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；书（复数）"
+      },
+      "4": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-o6gp1i7tbun8sgmcthqvmgih-4",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-o6gp1i7tbun8sgmcthqvmgih-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "书（复数）",
+    "audioText": "books",
+    "fullEnglish": "books",
+    "phonetic": "bʊks",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "books",
+        "answer": "books",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "书（复数）",
+        "phonetic": "bʊks",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "books"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "books",
+        "phonetic": "bʊks",
+        "pos": "NOUN",
+        "zh": "书（复数）",
+        "componentZh": "书（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-S-vs3ngpwo8fn76fkkk9y4868p",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-S-vs3ngpwo8fn76fkkk9y4868p",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "架子上的那些。",
+    "audioText": "The ones on the shelf",
+    "fullEnglish": "The ones on the shelf",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "The",
+        "answer": "The",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      },
+      {
+        "index": 1,
+        "text": "ones",
+        "answer": "ones",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "复数: 那些",
+        "phonetic": "wʌnz",
+        "pos": "NOUN"
+      },
+      {
+        "index": 2,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "介词",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the shelf",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；架子"
+      },
+      {
+        "index": 3,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the shelf",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；架子"
+      },
+      {
+        "index": 4,
+        "text": "shelf",
+        "answer": "shelf",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "架子",
+        "phonetic": "ʃelf",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the shelf",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；架子"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "The",
+      "ones",
+      "shelf",
+      "on"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "The",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "ones",
+        "role": "中心成分",
+        "zh": "复数: 那些"
+      },
+      {
+        "id": "ud-3",
+        "text": "on the shelf",
+        "role": "补充成分",
+        "zh": "在...上；定冠词；架子",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "on",
+            "role": "介词",
+            "zh": "在...上"
+          },
+          {
+            "id": "ud-5",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-6",
+            "text": "shelf",
+            "role": "中心词",
+            "zh": "架子"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "The",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "补充成分",
+        "componentZh": "定冠词"
+      },
+      "1": {
+        "text": "ones",
+        "phonetic": "wʌnz",
+        "pos": "NOUN",
+        "zh": "复数: 那些",
+        "componentRole": "中心成分",
+        "componentZh": "复数: 那些"
+      },
+      "2": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentRole": "介词",
+        "componentZh": "在...上",
+        "parentComponentText": "on the shelf",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；架子"
+      },
+      "3": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "on the shelf",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；架子"
+      },
+      "4": {
+        "text": "shelf",
+        "phonetic": "ʃelf",
+        "pos": "NOUN",
+        "zh": "架子",
+        "componentRole": "中心词",
+        "componentZh": "架子",
+        "parentComponentText": "on the shelf",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；架子"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-vs3ngpwo8fn76fkkk9y4868p-5",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-vs3ngpwo8fn76fkkk9y4868p-5",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "架子",
+    "audioText": "shelf",
+    "fullEnglish": "shelf",
+    "phonetic": "ʃelf",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "shelf",
+        "answer": "shelf",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "架子",
+        "phonetic": "ʃelf",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "shelf"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "shelf",
+        "phonetic": "ʃelf",
+        "pos": "NOUN",
+        "zh": "架子",
+        "componentZh": "架子"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-S-uw9lralcnu56vbmjg6b3vc8a",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-S-uw9lralcnu56vbmjg6b3vc8a",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请给我一些杂志。",
+    "audioText": "Give me some magazines please",
+    "fullEnglish": "Give me some magazines please",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Give",
+        "answer": "Give",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "给",
+        "phonetic": "ɡɪv",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "间接宾语",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some magazines",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；杂志（复数）"
+      },
+      {
+        "index": 3,
+        "text": "magazines",
+        "answer": "magazines",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "杂志（复数）",
+        "phonetic": "ˈmæɡəzinz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some magazines",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；杂志（复数）"
+      },
+      {
+        "index": 4,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "some",
+      "me",
+      "please",
+      "magazines",
+      "Give"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Give",
+        "role": "谓语",
+        "zh": "给"
+      },
+      {
+        "id": "ud-2",
+        "text": "me",
+        "role": "间接宾语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "some magazines",
+        "role": "宾语",
+        "zh": "一些；杂志（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "some",
+            "role": "限定词",
+            "zh": "一些"
+          },
+          {
+            "id": "ud-5",
+            "text": "magazines",
+            "role": "中心词",
+            "zh": "杂志（复数）"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Give",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "zh": "给",
+        "componentRole": "谓语",
+        "componentZh": "给"
+      },
+      "1": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "间接宾语",
+        "componentZh": "我"
+      },
+      "2": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some magazines",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；杂志（复数）"
+      },
+      "3": {
+        "text": "magazines",
+        "phonetic": "ˈmæɡəzinz",
+        "pos": "NOUN",
+        "zh": "杂志（复数）",
+        "componentRole": "中心词",
+        "componentZh": "杂志（复数）",
+        "parentComponentText": "some magazines",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；杂志（复数）"
+      },
+      "4": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-uw9lralcnu56vbmjg6b3vc8a-4",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-uw9lralcnu56vbmjg6b3vc8a-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "杂志（复数）",
+    "audioText": "magazines",
+    "fullEnglish": "magazines",
+    "phonetic": "ˈmæɡəzinz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "magazines",
+        "answer": "magazines",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "杂志（复数）",
+        "phonetic": "ˈmæɡəzinz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "magazines"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "magazines",
+        "phonetic": "ˈmæɡəzinz",
+        "pos": "NOUN",
+        "zh": "杂志（复数）",
+        "componentZh": "杂志（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-S-msc5rrx94y9ig00ovxnyd2bv",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-S-msc5rrx94y9ig00ovxnyd2bv",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "床上的那些。",
+    "audioText": "The ones on the bed",
+    "fullEnglish": "The ones on the bed",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "The",
+        "answer": "The",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      },
+      {
+        "index": 1,
+        "text": "ones",
+        "answer": "ones",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "复数: 那些",
+        "phonetic": "wʌnz",
+        "pos": "NOUN"
+      },
+      {
+        "index": 2,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "介词",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the bed",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；床"
+      },
+      {
+        "index": 3,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the bed",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；床"
+      },
+      {
+        "index": 4,
+        "text": "bed",
+        "answer": "bed",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "床",
+        "phonetic": "bed",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the bed",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；床"
+      }
+    ],
+    "shuffledBlocks": [
+      "on",
+      "the",
+      "bed",
+      "The",
+      "ones"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "The",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "ones",
+        "role": "中心成分",
+        "zh": "复数: 那些"
+      },
+      {
+        "id": "ud-3",
+        "text": "on the bed",
+        "role": "补充成分",
+        "zh": "在...上；定冠词；床",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "on",
+            "role": "介词",
+            "zh": "在...上"
+          },
+          {
+            "id": "ud-5",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-6",
+            "text": "bed",
+            "role": "中心词",
+            "zh": "床"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "The",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "补充成分",
+        "componentZh": "定冠词"
+      },
+      "1": {
+        "text": "ones",
+        "phonetic": "wʌnz",
+        "pos": "NOUN",
+        "zh": "复数: 那些",
+        "componentRole": "中心成分",
+        "componentZh": "复数: 那些"
+      },
+      "2": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentRole": "介词",
+        "componentZh": "在...上",
+        "parentComponentText": "on the bed",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；床"
+      },
+      "3": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "on the bed",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；床"
+      },
+      "4": {
+        "text": "bed",
+        "phonetic": "bed",
+        "pos": "NOUN",
+        "zh": "床",
+        "componentRole": "中心词",
+        "componentZh": "床",
+        "parentComponentText": "on the bed",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；床"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-msc5rrx94y9ig00ovxnyd2bv-5",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-msc5rrx94y9ig00ovxnyd2bv-5",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "床",
+    "audioText": "bed",
+    "fullEnglish": "bed",
+    "phonetic": "bed",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "bed",
+        "answer": "bed",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "床",
+        "phonetic": "bed",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "bed"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "bed",
+        "phonetic": "bed",
+        "pos": "NOUN",
+        "zh": "床",
+        "componentZh": "床"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-S-u018htv848cn0qq9gefk4mev",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-S-u018htv848cn0qq9gefk4mev",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请给我一些报纸。",
+    "audioText": "Give me some newspapers please",
+    "fullEnglish": "Give me some newspapers please",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Give",
+        "answer": "Give",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "给",
+        "phonetic": "ɡɪv",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "间接宾语",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some newspapers",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；报纸（复数）"
+      },
+      {
+        "index": 3,
+        "text": "newspapers",
+        "answer": "newspapers",
+        "blank": "__________",
+        "letterCount": 10,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "报纸（复数）",
+        "phonetic": "ˈnuːzˌpeɪpərz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "some newspapers",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；报纸（复数）"
+      },
+      {
+        "index": 4,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "some",
+      "newspapers",
+      "me",
+      "please",
+      "Give"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Give",
+        "role": "谓语",
+        "zh": "给"
+      },
+      {
+        "id": "ud-2",
+        "text": "me",
+        "role": "间接宾语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "some newspapers",
+        "role": "宾语",
+        "zh": "一些；报纸（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "some",
+            "role": "限定词",
+            "zh": "一些"
+          },
+          {
+            "id": "ud-5",
+            "text": "newspapers",
+            "role": "中心词",
+            "zh": "报纸（复数）"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Give",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "zh": "给",
+        "componentRole": "谓语",
+        "componentZh": "给"
+      },
+      "1": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "间接宾语",
+        "componentZh": "我"
+      },
+      "2": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentRole": "限定词",
+        "componentZh": "一些",
+        "parentComponentText": "some newspapers",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；报纸（复数）"
+      },
+      "3": {
+        "text": "newspapers",
+        "phonetic": "ˈnuːzˌpeɪpərz",
+        "pos": "NOUN",
+        "zh": "报纸（复数）",
+        "componentRole": "中心词",
+        "componentZh": "报纸（复数）",
+        "parentComponentText": "some newspapers",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一些；报纸（复数）"
+      },
+      "4": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-u018htv848cn0qq9gefk4mev-4",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-u018htv848cn0qq9gefk4mev-4",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "报纸（复数）",
+    "audioText": "newspapers",
+    "fullEnglish": "newspapers",
+    "phonetic": "ˈnuːzˌpeɪpərz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "newspapers",
+        "answer": "newspapers",
+        "blank": "__________",
+        "letterCount": 10,
+        "fillable": true,
+        "type": "word",
+        "zh": "报纸（复数）",
+        "phonetic": "ˈnuːzˌpeɪpərz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "newspapers"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "newspapers",
+        "phonetic": "ˈnuːzˌpeɪpərz",
+        "pos": "NOUN",
+        "zh": "报纸（复数）",
+        "componentZh": "报纸（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-S-govd69beynbwqb22tzl5uz23",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-S-govd69beynbwqb22tzl5uz23",
+    "type": "sentence",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "音响上的那些。",
+    "audioText": "The ones on the stereo",
+    "fullEnglish": "The ones on the stereo",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "The",
+        "answer": "The",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      },
+      {
+        "index": 1,
+        "text": "ones",
+        "answer": "ones",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "复数: 那些",
+        "phonetic": "wʌnz",
+        "pos": "NOUN"
+      },
+      {
+        "index": 2,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "介词",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the stereo",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；立体声音响"
+      },
+      {
+        "index": 3,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the stereo",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；立体声音响"
+      },
+      {
+        "index": 4,
+        "text": "stereo",
+        "answer": "stereo",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "立体声音响",
+        "phonetic": "ˈsterioʊ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "on the stereo",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；立体声音响"
+      }
+    ],
+    "shuffledBlocks": [
+      "stereo",
+      "on",
+      "ones",
+      "the",
+      "The"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "The",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "ones",
+        "role": "中心成分",
+        "zh": "复数: 那些"
+      },
+      {
+        "id": "ud-3",
+        "text": "on the stereo",
+        "role": "补充成分",
+        "zh": "在...上；定冠词；立体声音响",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "on",
+            "role": "介词",
+            "zh": "在...上"
+          },
+          {
+            "id": "ud-5",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-6",
+            "text": "stereo",
+            "role": "中心词",
+            "zh": "立体声音响"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "The",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "补充成分",
+        "componentZh": "定冠词"
+      },
+      "1": {
+        "text": "ones",
+        "phonetic": "wʌnz",
+        "pos": "NOUN",
+        "zh": "复数: 那些",
+        "componentRole": "中心成分",
+        "componentZh": "复数: 那些"
+      },
+      "2": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentRole": "介词",
+        "componentZh": "在...上",
+        "parentComponentText": "on the stereo",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；立体声音响"
+      },
+      "3": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "on the stereo",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；立体声音响"
+      },
+      "4": {
+        "text": "stereo",
+        "phonetic": "ˈsterioʊ",
+        "pos": "NOUN",
+        "zh": "立体声音响",
+        "componentRole": "中心词",
+        "componentZh": "立体声音响",
+        "parentComponentText": "on the stereo",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "在...上；定冠词；立体声音响"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-W-govd69beynbwqb22tzl5uz23-5",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-W-govd69beynbwqb22tzl5uz23-5",
+    "type": "word",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "立体声音响",
+    "audioText": "stereo",
+    "fullEnglish": "stereo",
+    "phonetic": "ˈsterioʊ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "stereo",
+        "answer": "stereo",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "立体声音响",
+        "phonetic": "ˈsterioʊ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "stereo"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "stereo",
+        "phonetic": "ˈsterioʊ",
+        "pos": "NOUN",
+        "zh": "立体声音响",
+        "componentZh": "立体声音响"
+      }
+    }
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-aeemryjqx9dxfcggfm9idec7",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-aeemryjqx9dxfcggfm9idec7",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些笔",
+    "audioText": "some pens",
+    "fullEnglish": "some pens",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "pens",
+        "answer": "pens",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "钢笔（复数）",
+        "phonetic": "penz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "pens",
+      "some"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "pens",
+        "role": "中心成分",
+        "zh": "钢笔（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "pens",
+        "phonetic": "penz",
+        "pos": "NOUN",
+        "zh": "钢笔（复数）",
+        "componentZh": "钢笔（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-a9fb295ij0anlc73b806yzab",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-a9fb295ij0anlc73b806yzab",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那些",
+    "audioText": "The ones",
+    "fullEnglish": "The ones",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "The",
+        "answer": "The",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "ones",
+        "answer": "ones",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "复数: 那些",
+        "phonetic": "wʌnz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "The",
+      "ones"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "The",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "ones",
+        "role": "中心成分",
+        "zh": "复数: 那些"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "The",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "ones",
+        "phonetic": "wʌnz",
+        "pos": "NOUN",
+        "zh": "复数: 那些",
+        "componentZh": "复数: 那些",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-x52fbpnehvh381iscrq3ibkh",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-x52fbpnehvh381iscrq3ibkh",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "桌子上",
+    "audioText": "the desk",
+    "fullEnglish": "the desk",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "desk",
+        "answer": "desk",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "桌子",
+        "phonetic": "desk",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "desk"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "desk",
+        "role": "中心成分",
+        "zh": "桌子"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "desk",
+        "phonetic": "desk",
+        "pos": "NOUN",
+        "zh": "桌子",
+        "componentZh": "桌子",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-axiwv8mp1suvujbijeeglczj",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-axiwv8mp1suvujbijeeglczj",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些领带",
+    "audioText": "some ties",
+    "fullEnglish": "some ties",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "ties",
+        "answer": "ties",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "领带（复数）",
+        "phonetic": "taɪz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "some",
+      "ties"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "ties",
+        "role": "中心成分",
+        "zh": "领带（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "ties",
+        "phonetic": "taɪz",
+        "pos": "NOUN",
+        "zh": "领带（复数）",
+        "componentZh": "领带（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-sf0w8zxxf2id2wzs3m32gp37",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-sf0w8zxxf2id2wzs3m32gp37",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在椅子上",
+    "audioText": "on the chair",
+    "fullEnglish": "on the chair",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "chair",
+        "answer": "chair",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "椅子",
+        "phonetic": "tʃer",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "chair",
+      "on",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "on",
+        "role": "补充成分",
+        "zh": "在...上"
+      },
+      {
+        "id": "ud-2",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-3",
+        "text": "chair",
+        "role": "中心成分",
+        "zh": "椅子"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentZh": "在...上",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "chair",
+        "phonetic": "tʃer",
+        "pos": "NOUN",
+        "zh": "椅子",
+        "componentZh": "椅子",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-gzfrsrn923zu1nfdbdcj3cua",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-gzfrsrn923zu1nfdbdcj3cua",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些勺子",
+    "audioText": "some spoons",
+    "fullEnglish": "some spoons",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "spoons",
+        "answer": "spoons",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "勺子（复数）",
+        "phonetic": "spuːnz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "some",
+      "spoons"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "spoons",
+        "role": "中心成分",
+        "zh": "勺子（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "spoons",
+        "phonetic": "spuːnz",
+        "pos": "NOUN",
+        "zh": "勺子（复数）",
+        "componentZh": "勺子（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-yhv8g7tp3ytqenm2s84qgzxu",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-yhv8g7tp3ytqenm2s84qgzxu",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在桌子上",
+    "audioText": "on the table",
+    "fullEnglish": "on the table",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "table",
+        "answer": "table",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "桌子",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "on",
+      "table",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "on",
+        "role": "补充成分",
+        "zh": "在...上"
+      },
+      {
+        "id": "ud-2",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-3",
+        "text": "table",
+        "role": "中心成分",
+        "zh": "桌子"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentZh": "在...上",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "table",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "zh": "桌子",
+        "componentZh": "桌子",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-whit54c8tevevt6jadqqw6yd",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-whit54c8tevevt6jadqqw6yd",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些盘子",
+    "audioText": "some plates",
+    "fullEnglish": "some plates",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "plates",
+        "answer": "plates",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "盘子（复数）",
+        "phonetic": "pleɪts",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "some",
+      "plates"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "plates",
+        "role": "中心成分",
+        "zh": "盘子（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "plates",
+        "phonetic": "pleɪts",
+        "pos": "NOUN",
+        "zh": "盘子（复数）",
+        "componentZh": "盘子（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-a83txtg1p5a8jvnsr90a8bdn",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-a83txtg1p5a8jvnsr90a8bdn",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "橱柜上",
+    "audioText": "the cupboard",
+    "fullEnglish": "the cupboard",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "cupboard",
+        "answer": "cupboard",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "橱柜",
+        "phonetic": "ˈkʌbərd",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "cupboard"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "cupboard",
+        "role": "中心成分",
+        "zh": "橱柜"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "cupboard",
+        "phonetic": "ˈkʌbərd",
+        "pos": "NOUN",
+        "zh": "橱柜",
+        "componentZh": "橱柜",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-nm3wfpyvtgth5bewyf2mzymf",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-nm3wfpyvtgth5bewyf2mzymf",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些香烟",
+    "audioText": "some cigarettes",
+    "fullEnglish": "some cigarettes",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "cigarettes",
+        "answer": "cigarettes",
+        "blank": "__________",
+        "letterCount": 10,
+        "fillable": true,
+        "type": "word",
+        "zh": "香烟（复数）",
+        "phonetic": "ˌsɪɡəˈrɛt",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "cigarettes",
+      "some"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "cigarettes",
+        "role": "中心成分",
+        "zh": "香烟（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "cigarettes",
+        "phonetic": "ˌsɪɡəˈrɛt",
+        "pos": "NOUN",
+        "zh": "香烟（复数）",
+        "componentZh": "香烟（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-y8cuqzr6cyot332bo7hjj7pa",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-y8cuqzr6cyot332bo7hjj7pa",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在电视上的",
+    "audioText": "on the television",
+    "fullEnglish": "on the television",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "television",
+        "answer": "television",
+        "blank": "__________",
+        "letterCount": 10,
+        "fillable": true,
+        "type": "word",
+        "zh": "电视",
+        "phonetic": "ˈteləˌvɪʒn",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "television",
+      "on"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "on",
+        "role": "补充成分",
+        "zh": "在...上"
+      },
+      {
+        "id": "ud-2",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-3",
+        "text": "television",
+        "role": "中心成分",
+        "zh": "电视"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentZh": "在...上",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "television",
+        "phonetic": "ˈteləˌvɪʒn",
+        "pos": "NOUN",
+        "zh": "电视",
+        "componentZh": "电视",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-nu7xdnk1ng81elx3r8j1gzby",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-nu7xdnk1ng81elx3r8j1gzby",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些盒子",
+    "audioText": "some boxes",
+    "fullEnglish": "some boxes",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "boxes",
+        "answer": "boxes",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "盒子（复数）",
+        "phonetic": "bɑːksɪz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "some",
+      "boxes"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "boxes",
+        "role": "中心成分",
+        "zh": "盒子（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "boxes",
+        "phonetic": "bɑːksɪz",
+        "pos": "NOUN",
+        "zh": "盒子（复数）",
+        "componentZh": "盒子（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-cu4x0gmpjkuzr4p3qlm2ebh9",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-cu4x0gmpjkuzr4p3qlm2ebh9",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在地板上",
+    "audioText": "on the floor",
+    "fullEnglish": "on the floor",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "floor",
+        "answer": "floor",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "地板",
+        "phonetic": "flɔːr",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "floor",
+      "on"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "on",
+        "role": "补充成分",
+        "zh": "在...上"
+      },
+      {
+        "id": "ud-2",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-3",
+        "text": "floor",
+        "role": "中心成分",
+        "zh": "地板"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentZh": "在...上",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "floor",
+        "phonetic": "flɔːr",
+        "pos": "NOUN",
+        "zh": "地板",
+        "componentZh": "地板",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-c21g04wibpsbfdstmyw0lhu2",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-c21g04wibpsbfdstmyw0lhu2",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些瓶子",
+    "audioText": "some bottles",
+    "fullEnglish": "some bottles",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "bottles",
+        "answer": "bottles",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "瓶子（复数）",
+        "phonetic": "ˈbɑːt.əlz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "some",
+      "bottles"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "bottles",
+        "role": "中心成分",
+        "zh": "瓶子（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "bottles",
+        "phonetic": "ˈbɑːt.əlz",
+        "pos": "NOUN",
+        "zh": "瓶子（复数）",
+        "componentZh": "瓶子（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-pknzcvkd5u33t2o9ghquazvc",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-pknzcvkd5u33t2o9ghquazvc",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在梳妆台上的",
+    "audioText": "on the dressing table",
+    "fullEnglish": "on the dressing table",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "dressing",
+        "answer": "dressing",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "梳妆",
+        "phonetic": "ˈdresɪŋ",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "补充成分"
+      },
+      {
+        "index": 3,
+        "text": "table",
+        "answer": "table",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "桌子",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "table",
+      "dressing",
+      "on"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "on",
+        "role": "补充成分",
+        "zh": "在...上"
+      },
+      {
+        "id": "ud-2",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-3",
+        "text": "dressing",
+        "role": "补充成分",
+        "zh": "梳妆"
+      },
+      {
+        "id": "ud-4",
+        "text": "table",
+        "role": "中心成分",
+        "zh": "桌子"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentZh": "在...上",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "dressing",
+        "phonetic": "ˈdresɪŋ",
+        "pos": "NOUN",
+        "zh": "梳妆",
+        "componentZh": "梳妆",
+        "componentRole": "补充成分"
+      },
+      "3": {
+        "text": "table",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "zh": "桌子",
+        "componentZh": "桌子",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-my4bxaqtoqglvokka4bwedcm",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-my4bxaqtoqglvokka4bwedcm",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些书",
+    "audioText": "some books",
+    "fullEnglish": "some books",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "books",
+        "answer": "books",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "书（复数）",
+        "phonetic": "bʊks",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "some",
+      "books"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "books",
+        "role": "中心成分",
+        "zh": "书（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "books",
+        "phonetic": "bʊks",
+        "pos": "NOUN",
+        "zh": "书（复数）",
+        "componentZh": "书（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-rz0fvym6kwruuapaqsnz7nnb",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-rz0fvym6kwruuapaqsnz7nnb",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在架子上",
+    "audioText": "on the shelf",
+    "fullEnglish": "on the shelf",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "shelf",
+        "answer": "shelf",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "架子",
+        "phonetic": "ʃelf",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "shelf",
+      "on",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "on",
+        "role": "补充成分",
+        "zh": "在...上"
+      },
+      {
+        "id": "ud-2",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-3",
+        "text": "shelf",
+        "role": "中心成分",
+        "zh": "架子"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentZh": "在...上",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "shelf",
+        "phonetic": "ʃelf",
+        "pos": "NOUN",
+        "zh": "架子",
+        "componentZh": "架子",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-uwdxhfb71fivcky1evmvn7du",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-uwdxhfb71fivcky1evmvn7du",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些杂志",
+    "audioText": "some magazines",
+    "fullEnglish": "some magazines",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "magazines",
+        "answer": "magazines",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "杂志（复数）",
+        "phonetic": "ˈmæɡəzinz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "some",
+      "magazines"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "magazines",
+        "role": "中心成分",
+        "zh": "杂志（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "magazines",
+        "phonetic": "ˈmæɡəzinz",
+        "pos": "NOUN",
+        "zh": "杂志（复数）",
+        "componentZh": "杂志（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-i1uwxk8tpqnlxz611xcm91ax",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-i1uwxk8tpqnlxz611xcm91ax",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在床上",
+    "audioText": "on the bed",
+    "fullEnglish": "on the bed",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "bed",
+        "answer": "bed",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "床",
+        "phonetic": "bed",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "on",
+      "bed"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "on",
+        "role": "补充成分",
+        "zh": "在...上"
+      },
+      {
+        "id": "ud-2",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-3",
+        "text": "bed",
+        "role": "中心成分",
+        "zh": "床"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentZh": "在...上",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "bed",
+        "phonetic": "bed",
+        "pos": "NOUN",
+        "zh": "床",
+        "componentZh": "床",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-wb82txkd4jfuo1ie7n97qqe0",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-wb82txkd4jfuo1ie7n97qqe0",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一些报纸",
+    "audioText": "some newspapers",
+    "fullEnglish": "some newspapers",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "some",
+        "answer": "some",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "一些",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "newspapers",
+        "answer": "newspapers",
+        "blank": "__________",
+        "letterCount": 10,
+        "fillable": true,
+        "type": "word",
+        "zh": "报纸（复数）",
+        "phonetic": "ˈnuːzˌpeɪpərz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "some",
+      "newspapers"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "some",
+        "role": "补充成分",
+        "zh": "一些"
+      },
+      {
+        "id": "ud-2",
+        "text": "newspapers",
+        "role": "中心成分",
+        "zh": "报纸（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "some",
+        "phonetic": "sʌm; səm",
+        "pos": "DET",
+        "zh": "一些",
+        "componentZh": "一些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "newspapers",
+        "phonetic": "ˈnuːzˌpeɪpərz",
+        "pos": "NOUN",
+        "zh": "报纸（复数）",
+        "componentZh": "报纸（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-b7krweutlvc4qztc38zkcko1",
+    "contentId": "JLB-momxuedrujmq6rlpotp93wmn-PHRASE-b7krweutlvc4qztc38zkcko1",
+    "type": "phrase",
+    "coursePackageId": "yqqt0uygfog158mpu5v08050",
+    "coursePackageName": "新概念英语第一册（双数课）（复习课）",
+    "grade": "在线课程",
+    "unitId": "momxuedrujmq6rlpotp93wmn",
+    "unitTitle": "lesson 24",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在音响上的",
+    "audioText": "on the stereo",
+    "fullEnglish": "on the stereo",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "stereo",
+        "answer": "stereo",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "立体声音响",
+        "phonetic": "ˈsterioʊ",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "stereo",
+      "the",
+      "on"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "on",
+        "role": "补充成分",
+        "zh": "在...上"
+      },
+      {
+        "id": "ud-2",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-3",
+        "text": "stereo",
+        "role": "中心成分",
+        "zh": "立体声音响"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentZh": "在...上",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "stereo",
+        "phonetic": "ˈsterioʊ",
+        "pos": "NOUN",
+        "zh": "立体声音响",
+        "componentZh": "立体声音响",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

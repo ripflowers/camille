@@ -1,0 +1,6855 @@
+[
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-S-f0gzfba805subi041wwqxe5c",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-S-f0gzfba805subi041wwqxe5c",
+    "type": "sentence",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你怎么了，Yangyang？",
+    "audioText": "What happened to you, Yangyang?",
+    "fullEnglish": "What happened to you, Yangyang?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "DET"
+      },
+      {
+        "index": 1,
+        "text": "happened",
+        "answer": "happened",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "happen（过去式）: 发生",
+        "phonetic": "ˈhæpənd",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "介词",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to you",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "引导不定式；你"
+      },
+      {
+        "index": 3,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "you",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你"
+      },
+      {
+        "index": 4,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你怎么了，Yangyang？"
+      },
+      {
+        "index": 5,
+        "text": "Yangyang",
+        "answer": "Yangyang",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "呼语",
+        "zh": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你怎么了，Yangyang？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yangyang",
+      "happened",
+      "What",
+      "you",
+      "to"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What",
+        "role": "主语",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "happened",
+        "role": "谓语",
+        "zh": "happen（过去式）: 发生"
+      },
+      {
+        "id": "ud-3",
+        "text": "to you",
+        "role": "介词短语/状语",
+        "zh": "引导不定式；你",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "to",
+            "role": "介词",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-5",
+            "text": "you",
+            "role": "介词宾语",
+            "zh": "你",
+            "children": [
+              {
+                "id": "ud-6",
+                "text": "you",
+                "role": "中心词",
+                "zh": "你"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ud-7",
+        "text": "Yangyang",
+        "role": "呼语",
+        "zh": "Yangyang"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "DET",
+        "zh": "什么",
+        "componentRole": "主语",
+        "componentZh": "什么"
+      },
+      "1": {
+        "text": "happened",
+        "phonetic": "ˈhæpənd",
+        "pos": "VERB",
+        "zh": "happen（过去式）: 发生",
+        "componentRole": "谓语",
+        "componentZh": "happen（过去式）: 发生"
+      },
+      "2": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentRole": "介词",
+        "componentZh": "引导不定式",
+        "parentComponentText": "to you",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "引导不定式；你"
+      },
+      "3": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "中心词",
+        "componentZh": "你",
+        "parentComponentText": "you",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你"
+      },
+      "5": {
+        "text": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON",
+        "zh": "Yangyang",
+        "componentRole": "呼语",
+        "componentZh": "Yangyang"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-f0gzfba805subi041wwqxe5c-1",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-f0gzfba805subi041wwqxe5c-1",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么",
+    "audioText": "What",
+    "fullEnglish": "What",
+    "phonetic": "wʌt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "What"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "DET",
+        "zh": "什么",
+        "componentZh": "什么"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-f0gzfba805subi041wwqxe5c-2",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-f0gzfba805subi041wwqxe5c-2",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "happen（过去式）: 发生",
+    "audioText": "happened",
+    "fullEnglish": "happened",
+    "phonetic": "ˈhæpənd",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "happened",
+        "answer": "happened",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "happen（过去式）: 发生",
+        "phonetic": "ˈhæpənd",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "happened"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "happened",
+        "phonetic": "ˈhæpənd",
+        "pos": "VERB",
+        "zh": "happen（过去式）: 发生",
+        "componentZh": "happen（过去式）: 发生"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-f0gzfba805subi041wwqxe5c-3",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-f0gzfba805subi041wwqxe5c-3",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "到",
+    "audioText": "to",
+    "fullEnglish": "to",
+    "phonetic": "tuː; tə",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART"
+      }
+    ],
+    "shuffledBlocks": [
+      "to"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-f0gzfba805subi041wwqxe5c-4",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-f0gzfba805subi041wwqxe5c-4",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-f0gzfba805subi041wwqxe5c-5",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-f0gzfba805subi041wwqxe5c-5",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Yangyang",
+    "audioText": "Yangyang",
+    "fullEnglish": "Yangyang",
+    "phonetic": "yangyang",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yangyang",
+        "answer": "Yangyang",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yangyang"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON",
+        "zh": "Yangyang",
+        "componentZh": "Yangyang"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-S-skrxo7ylrnx74utsre9f9nt4",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-S-skrxo7ylrnx74utsre9f9nt4",
+    "type": "sentence",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哦，妈妈，我们踢了一场足球赛,",
+    "audioText": "Oh, Mum, we had a football match",
+    "fullEnglish": "Oh, Mum, we had a football match",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Oh",
+        "answer": "Oh",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "哦",
+        "phonetic": "oʊ",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哦，妈妈，我们踢了一场足球赛,"
+      },
+      {
+        "index": 2,
+        "text": "Mum",
+        "answer": "Mum",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "呼语",
+        "zh": "妈妈",
+        "phonetic": "mʌm",
+        "pos": "NOUN"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哦，妈妈，我们踢了一场足球赛,"
+      },
+      {
+        "index": 4,
+        "text": "we",
+        "answer": "we",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "主语",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "had",
+        "answer": "had",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "have（过去式）: 有",
+        "phonetic": "hæd",
+        "pos": "VERB"
+      },
+      {
+        "index": 6,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "a football match",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；足球；比赛"
+      },
+      {
+        "index": 7,
+        "text": "football",
+        "answer": "football",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "定语（名词修饰）",
+        "zh": "足球",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "a football match",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；足球；比赛"
+      },
+      {
+        "index": 8,
+        "text": "match",
+        "answer": "match",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "比赛",
+        "phonetic": "mætʃ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "a football match",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；足球；比赛"
+      }
+    ],
+    "shuffledBlocks": [
+      "Oh",
+      "Mum",
+      "we",
+      "a",
+      "had",
+      "match",
+      "football"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Oh",
+        "role": "语气/引导语",
+        "zh": "哦"
+      },
+      {
+        "id": "ud-2",
+        "text": "Mum",
+        "role": "呼语",
+        "zh": "妈妈"
+      },
+      {
+        "id": "ud-3",
+        "text": "we",
+        "role": "主语",
+        "zh": "我们"
+      },
+      {
+        "id": "ud-4",
+        "text": "had",
+        "role": "谓语",
+        "zh": "have（过去式）: 有"
+      },
+      {
+        "id": "ud-5",
+        "text": "a football match",
+        "role": "宾语",
+        "zh": "一个；足球；比赛",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-7",
+            "text": "football",
+            "role": "定语（名词修饰）",
+            "zh": "足球"
+          },
+          {
+            "id": "ud-8",
+            "text": "match",
+            "role": "中心词",
+            "zh": "比赛"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Oh",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "zh": "哦",
+        "componentRole": "语气/引导语",
+        "componentZh": "哦"
+      },
+      "2": {
+        "text": "Mum",
+        "phonetic": "mʌm",
+        "pos": "NOUN",
+        "zh": "妈妈",
+        "componentRole": "呼语",
+        "componentZh": "妈妈"
+      },
+      "4": {
+        "text": "we",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentRole": "主语",
+        "componentZh": "我们"
+      },
+      "5": {
+        "text": "had",
+        "phonetic": "hæd",
+        "pos": "VERB",
+        "zh": "have（过去式）: 有",
+        "componentRole": "谓语",
+        "componentZh": "have（过去式）: 有"
+      },
+      "6": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "a football match",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；足球；比赛"
+      },
+      "7": {
+        "text": "football",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN",
+        "zh": "足球",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "足球",
+        "parentComponentText": "a football match",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；足球；比赛"
+      },
+      "8": {
+        "text": "match",
+        "phonetic": "mætʃ",
+        "pos": "NOUN",
+        "zh": "比赛",
+        "componentRole": "中心词",
+        "componentZh": "比赛",
+        "parentComponentText": "a football match",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；足球；比赛"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-skrxo7ylrnx74utsre9f9nt4-1",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-skrxo7ylrnx74utsre9f9nt4-1",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哦",
+    "audioText": "Oh",
+    "fullEnglish": "Oh",
+    "phonetic": "oʊ",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Oh",
+        "answer": "Oh",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "哦",
+        "phonetic": "oʊ",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Oh"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Oh",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "zh": "哦",
+        "componentZh": "哦"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-skrxo7ylrnx74utsre9f9nt4-2",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-skrxo7ylrnx74utsre9f9nt4-2",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "妈妈",
+    "audioText": "Mum",
+    "fullEnglish": "Mum",
+    "phonetic": "mʌm",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Mum",
+        "answer": "Mum",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "妈妈",
+        "phonetic": "mʌm",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Mum"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Mum",
+        "phonetic": "mʌm",
+        "pos": "NOUN",
+        "zh": "妈妈",
+        "componentZh": "妈妈"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-skrxo7ylrnx74utsre9f9nt4-3",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-skrxo7ylrnx74utsre9f9nt4-3",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们",
+    "audioText": "we",
+    "fullEnglish": "we",
+    "phonetic": "wiː; wi",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "we",
+        "answer": "we",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "we"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "we",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentZh": "我们"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-skrxo7ylrnx74utsre9f9nt4-4",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-skrxo7ylrnx74utsre9f9nt4-4",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "have（过去式）: 有",
+    "audioText": "had",
+    "fullEnglish": "had",
+    "phonetic": "hæd",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "had",
+        "answer": "had",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "have（过去式）: 有",
+        "phonetic": "hæd",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "had"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "had",
+        "phonetic": "hæd",
+        "pos": "VERB",
+        "zh": "have（过去式）: 有",
+        "componentZh": "have（过去式）: 有"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-skrxo7ylrnx74utsre9f9nt4-5",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-skrxo7ylrnx74utsre9f9nt4-5",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个",
+    "audioText": "a",
+    "fullEnglish": "a",
+    "phonetic": "ə; eɪ",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "a"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-skrxo7ylrnx74utsre9f9nt4-6",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-skrxo7ylrnx74utsre9f9nt4-6",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "足球",
+    "audioText": "football",
+    "fullEnglish": "football",
+    "phonetic": "ˈfʊtbɔːl",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "football",
+        "answer": "football",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "足球",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "football"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "football",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN",
+        "zh": "足球",
+        "componentZh": "足球"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-skrxo7ylrnx74utsre9f9nt4-7",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-skrxo7ylrnx74utsre9f9nt4-7",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "比赛",
+    "audioText": "match",
+    "fullEnglish": "match",
+    "phonetic": "mætʃ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "match",
+        "answer": "match",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "比赛",
+        "phonetic": "mætʃ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "match"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "match",
+        "phonetic": "mætʃ",
+        "pos": "NOUN",
+        "zh": "比赛",
+        "componentZh": "比赛"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-S-n8dkqmahb6bm1agywg54vos3",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-S-n8dkqmahb6bm1agywg54vos3",
+    "type": "sentence",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "而且我伤到了右腿。",
+    "audioText": "and I hurt my right leg",
+    "fullEnglish": "and I hurt my right leg",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ"
+      },
+      {
+        "index": 1,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "hurt",
+        "answer": "hurt",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "hurt（过去式）: 伤害",
+        "phonetic": "hɜːrt",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "my right leg",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我的；正确的；腿"
+      },
+      {
+        "index": 4,
+        "text": "right",
+        "answer": "right",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "定语（形容词）",
+        "zh": "正确的",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "my right leg",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我的；正确的；腿"
+      },
+      {
+        "index": 5,
+        "text": "leg",
+        "answer": "leg",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "腿",
+        "phonetic": "leɡ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "my right leg",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我的；正确的；腿"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "my",
+      "leg",
+      "hurt",
+      "right",
+      "and"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "and",
+        "role": "并列连词",
+        "zh": "和"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "hurt",
+        "role": "谓语",
+        "zh": "hurt（过去式）: 伤害"
+      },
+      {
+        "id": "ud-4",
+        "text": "my right leg",
+        "role": "宾语",
+        "zh": "我的；正确的；腿",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "my",
+            "role": "限定词",
+            "zh": "我的"
+          },
+          {
+            "id": "ud-6",
+            "text": "right",
+            "role": "定语（形容词）",
+            "zh": "正确的"
+          },
+          {
+            "id": "ud-7",
+            "text": "leg",
+            "role": "中心词",
+            "zh": "腿"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和"
+      },
+      "1": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "2": {
+        "text": "hurt",
+        "phonetic": "hɜːrt",
+        "pos": "VERB",
+        "zh": "hurt（过去式）: 伤害",
+        "componentRole": "谓语",
+        "componentZh": "hurt（过去式）: 伤害"
+      },
+      "3": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "限定词",
+        "componentZh": "我的",
+        "parentComponentText": "my right leg",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我的；正确的；腿"
+      },
+      "4": {
+        "text": "right",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "zh": "正确的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "正确的",
+        "parentComponentText": "my right leg",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我的；正确的；腿"
+      },
+      "5": {
+        "text": "leg",
+        "phonetic": "leɡ",
+        "pos": "NOUN",
+        "zh": "腿",
+        "componentRole": "中心词",
+        "componentZh": "腿",
+        "parentComponentText": "my right leg",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "我的；正确的；腿"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-n8dkqmahb6bm1agywg54vos3-1",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-n8dkqmahb6bm1agywg54vos3-1",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "和",
+    "audioText": "and",
+    "fullEnglish": "and",
+    "phonetic": "ænd; ənd",
+    "pos": "CCONJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "and"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-n8dkqmahb6bm1agywg54vos3-2",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-n8dkqmahb6bm1agywg54vos3-2",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-n8dkqmahb6bm1agywg54vos3-3",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-n8dkqmahb6bm1agywg54vos3-3",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "hurt（过去式）: 伤害",
+    "audioText": "hurt",
+    "fullEnglish": "hurt",
+    "phonetic": "hɜːrt",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "hurt",
+        "answer": "hurt",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "hurt（过去式）: 伤害",
+        "phonetic": "hɜːrt",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "hurt"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "hurt",
+        "phonetic": "hɜːrt",
+        "pos": "VERB",
+        "zh": "hurt（过去式）: 伤害",
+        "componentZh": "hurt（过去式）: 伤害"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-n8dkqmahb6bm1agywg54vos3-4",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-n8dkqmahb6bm1agywg54vos3-4",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的",
+    "audioText": "my",
+    "fullEnglish": "my",
+    "phonetic": "maɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "my"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-n8dkqmahb6bm1agywg54vos3-5",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-n8dkqmahb6bm1agywg54vos3-5",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "右边的",
+    "audioText": "right",
+    "fullEnglish": "right",
+    "phonetic": "raɪt",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "right",
+        "answer": "right",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "正确的",
+        "phonetic": "raɪt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "right"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "right",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "zh": "正确的",
+        "componentZh": "正确的"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-n8dkqmahb6bm1agywg54vos3-6",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-n8dkqmahb6bm1agywg54vos3-6",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "腿",
+    "audioText": "leg",
+    "fullEnglish": "leg",
+    "phonetic": "leɡ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "leg",
+        "answer": "leg",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "腿",
+        "phonetic": "leɡ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "leg"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "leg",
+        "phonetic": "leɡ",
+        "pos": "NOUN",
+        "zh": "腿",
+        "componentZh": "腿"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-S-nfzbqubjvyn6xyob1ie9uyrg",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-S-nfzbqubjvyn6xyob1ie9uyrg",
+    "type": "sentence",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你又伤到自己了！",
+    "audioText": "You hurt yourself again!",
+    "fullEnglish": "You hurt yourself again!",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "You",
+        "answer": "You",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "hurt",
+        "answer": "hurt",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "hurt（过去式）: 伤害",
+        "phonetic": "hɜːrt",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "yourself",
+        "answer": "yourself",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "宾语",
+        "zh": "你自己",
+        "phonetic": "jɔːrˈself",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "again",
+        "answer": "again",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "方式/程度状语",
+        "zh": "再次",
+        "phonetic": "əˈɡen",
+        "pos": "ADV"
+      },
+      {
+        "index": 4,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你又伤到自己了！"
+      }
+    ],
+    "shuffledBlocks": [
+      "yourself",
+      "hurt",
+      "You",
+      "again"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "You",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-2",
+        "text": "hurt",
+        "role": "谓语",
+        "zh": "hurt（过去式）: 伤害"
+      },
+      {
+        "id": "ud-3",
+        "text": "yourself",
+        "role": "宾语",
+        "zh": "你自己"
+      },
+      {
+        "id": "ud-4",
+        "text": "again",
+        "role": "方式/程度状语",
+        "zh": "再次"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "You",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "1": {
+        "text": "hurt",
+        "phonetic": "hɜːrt",
+        "pos": "VERB",
+        "zh": "hurt（过去式）: 伤害",
+        "componentRole": "谓语",
+        "componentZh": "hurt（过去式）: 伤害"
+      },
+      "2": {
+        "text": "yourself",
+        "phonetic": "jɔːrˈself",
+        "pos": "PRON",
+        "zh": "你自己",
+        "componentRole": "宾语",
+        "componentZh": "你自己"
+      },
+      "3": {
+        "text": "again",
+        "phonetic": "əˈɡen",
+        "pos": "ADV",
+        "zh": "再次",
+        "componentRole": "方式/程度状语",
+        "componentZh": "再次"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-nfzbqubjvyn6xyob1ie9uyrg-3",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-nfzbqubjvyn6xyob1ie9uyrg-3",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你自己",
+    "audioText": "yourself",
+    "fullEnglish": "yourself",
+    "phonetic": "jɔːrˈself",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "yourself",
+        "answer": "yourself",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "你自己",
+        "phonetic": "jɔːrˈself",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "yourself"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "yourself",
+        "phonetic": "jɔːrˈself",
+        "pos": "PRON",
+        "zh": "你自己",
+        "componentZh": "你自己"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-nfzbqubjvyn6xyob1ie9uyrg-4",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-nfzbqubjvyn6xyob1ie9uyrg-4",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "再次",
+    "audioText": "again",
+    "fullEnglish": "again",
+    "phonetic": "əˈɡen",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "again",
+        "answer": "again",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "再次",
+        "phonetic": "əˈɡen",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "again"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "again",
+        "phonetic": "əˈɡen",
+        "pos": "ADV",
+        "zh": "再次",
+        "componentZh": "再次"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-S-xvzxtk7ckm5vj6ab09k1csph",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-S-xvzxtk7ckm5vj6ab09k1csph",
+    "type": "sentence",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "别难过，妈妈。只是擦破点皮。",
+    "audioText": "Don't be upset, Mum. It's only a scratch",
+    "fullEnglish": "Don't be upset, Mum. It's only a scratch",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Don't",
+        "answer": "Don't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不要",
+        "phonetic": "doʊnt",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "be",
+        "answer": "be",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "biː",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "upset",
+        "answer": "upset",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "心烦的",
+        "phonetic": "ˌʌpˈset",
+        "pos": "ADJ"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "别难过，妈妈。只是擦破点皮。"
+      },
+      {
+        "index": 4,
+        "text": "Mum",
+        "answer": "Mum",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "呼语",
+        "zh": "妈妈",
+        "phonetic": "mʌm",
+        "pos": "NOUN"
+      },
+      {
+        "index": 5,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "别难过，妈妈。只是擦破点皮。"
+      },
+      {
+        "index": 6,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 7,
+        "text": "only",
+        "answer": "only",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "方式/程度状语",
+        "zh": "仅仅",
+        "phonetic": "ˈoʊnli",
+        "pos": "ADV"
+      },
+      {
+        "index": 8,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "补充成分",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      },
+      {
+        "index": 9,
+        "text": "scratch",
+        "answer": "scratch",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "表语",
+        "zh": "擦伤",
+        "phonetic": "skrætʃ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "a",
+      "It's",
+      "Don't",
+      "only",
+      "be",
+      "scratch",
+      "upset",
+      "Mum"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Don't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不要"
+      },
+      {
+        "id": "ud-2",
+        "text": "be",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-3",
+        "text": "upset",
+        "role": "表语",
+        "zh": "心烦的"
+      },
+      {
+        "id": "ud-4",
+        "text": "Mum",
+        "role": "呼语",
+        "zh": "妈妈"
+      },
+      {
+        "id": "ud-5",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-6",
+        "text": "only",
+        "role": "方式/程度状语",
+        "zh": "仅仅"
+      },
+      {
+        "id": "ud-7",
+        "text": "a",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-8",
+        "text": "scratch",
+        "role": "表语",
+        "zh": "擦伤"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Don't",
+        "phonetic": "doʊnt",
+        "pos": "VERB",
+        "zh": "不要",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "不要"
+      },
+      "1": {
+        "text": "be",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "2": {
+        "text": "upset",
+        "phonetic": "ˌʌpˈset",
+        "pos": "ADJ",
+        "zh": "心烦的",
+        "componentRole": "表语",
+        "componentZh": "心烦的"
+      },
+      "4": {
+        "text": "Mum",
+        "phonetic": "mʌm",
+        "pos": "NOUN",
+        "zh": "妈妈",
+        "componentRole": "呼语",
+        "componentZh": "妈妈"
+      },
+      "6": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "7": {
+        "text": "only",
+        "phonetic": "ˈoʊnli",
+        "pos": "ADV",
+        "zh": "仅仅",
+        "componentRole": "方式/程度状语",
+        "componentZh": "仅仅"
+      },
+      "8": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "补充成分",
+        "componentZh": "一个"
+      },
+      "9": {
+        "text": "scratch",
+        "phonetic": "skrætʃ",
+        "pos": "NOUN",
+        "zh": "擦伤",
+        "componentRole": "表语",
+        "componentZh": "擦伤"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-xvzxtk7ckm5vj6ab09k1csph-1",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-xvzxtk7ckm5vj6ab09k1csph-1",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "do（否定缩写）: 不要",
+    "audioText": "Don't",
+    "fullEnglish": "Don't",
+    "phonetic": "doʊnt",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Don't",
+        "answer": "Don't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "不要",
+        "phonetic": "doʊnt",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Don't"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Don't",
+        "phonetic": "doʊnt",
+        "pos": "VERB",
+        "zh": "不要",
+        "componentZh": "不要"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-xvzxtk7ckm5vj6ab09k1csph-2",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-xvzxtk7ckm5vj6ab09k1csph-2",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "be",
+    "fullEnglish": "be",
+    "phonetic": "biː",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "be",
+        "answer": "be",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "biː",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "be"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "be",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "zh": "是",
+        "componentZh": "是"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-xvzxtk7ckm5vj6ab09k1csph-3",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-xvzxtk7ckm5vj6ab09k1csph-3",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "沮丧的",
+    "audioText": "upset",
+    "fullEnglish": "upset",
+    "phonetic": "ˌʌpˈset",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "upset",
+        "answer": "upset",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "心烦的",
+        "phonetic": "ˌʌpˈset",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "upset"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "upset",
+        "phonetic": "ˌʌpˈset",
+        "pos": "ADJ",
+        "zh": "心烦的",
+        "componentZh": "心烦的"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-xvzxtk7ckm5vj6ab09k1csph-5",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-xvzxtk7ckm5vj6ab09k1csph-5",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "it（缩写）: 它",
+    "audioText": "It's",
+    "fullEnglish": "It's",
+    "phonetic": "ɪts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-xvzxtk7ckm5vj6ab09k1csph-6",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-xvzxtk7ckm5vj6ab09k1csph-6",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "仅仅",
+    "audioText": "only",
+    "fullEnglish": "only",
+    "phonetic": "ˈoʊnli",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "only",
+        "answer": "only",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "仅仅",
+        "phonetic": "ˈoʊnli",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "only"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "only",
+        "phonetic": "ˈoʊnli",
+        "pos": "ADV",
+        "zh": "仅仅",
+        "componentZh": "仅仅"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-xvzxtk7ckm5vj6ab09k1csph-8",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-xvzxtk7ckm5vj6ab09k1csph-8",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "擦伤",
+    "audioText": "scratch",
+    "fullEnglish": "scratch",
+    "phonetic": "skrætʃ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "scratch",
+        "answer": "scratch",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "擦伤",
+        "phonetic": "skrætʃ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "scratch"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "scratch",
+        "phonetic": "skrætʃ",
+        "pos": "NOUN",
+        "zh": "擦伤",
+        "componentZh": "擦伤"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-S-nsu854ak8cfqkwh1fckbtzcd",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-S-nsu854ak8cfqkwh1fckbtzcd",
+    "type": "sentence",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "下周就会好起来的，我又可以玩了。",
+    "audioText": "It will be all right next week, and I can play again",
+    "fullEnglish": "It will be all right next week, and I can play again",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It",
+        "answer": "It",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "will",
+        "answer": "will",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "将",
+        "phonetic": "wɪl",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "be",
+        "answer": "be",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "biː",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "all",
+        "answer": "all",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "方式/程度状语",
+        "zh": "所有",
+        "phonetic": "ɔːl",
+        "pos": "DET"
+      },
+      {
+        "index": 4,
+        "text": "right",
+        "answer": "right",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "正确的",
+        "phonetic": "raɪt",
+        "pos": "ADJ"
+      },
+      {
+        "index": 5,
+        "text": "next",
+        "answer": "next",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "定语（形容词）",
+        "zh": "下一个",
+        "phonetic": "nekst",
+        "pos": "ADJ",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "next week",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "下一个；周"
+      },
+      {
+        "index": 6,
+        "text": "week",
+        "answer": "week",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "周",
+        "phonetic": "wik",
+        "pos": "NOUN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "next week",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "下一个；周"
+      },
+      {
+        "index": 7,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "下周就会好起来的，我又可以玩了。"
+      },
+      {
+        "index": 8,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "and I can play again",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；我；能；玩；再次"
+      },
+      {
+        "index": 9,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "and I can play again",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；我；能；玩；再次"
+      },
+      {
+        "index": 10,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-12",
+        "role": "助动词",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "and I can play again",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；我；能；玩；再次"
+      },
+      {
+        "index": 11,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-13",
+        "role": "谓语",
+        "zh": "玩",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "and I can play again",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；我；能；玩；再次"
+      },
+      {
+        "index": 12,
+        "text": "again",
+        "answer": "again",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-14",
+        "role": "方式/程度状语",
+        "zh": "再次",
+        "phonetic": "əˈɡen",
+        "pos": "ADV",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "and I can play again",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；我；能；玩；再次"
+      }
+    ],
+    "shuffledBlocks": [
+      "be",
+      "next",
+      "will",
+      "It",
+      "all",
+      "week",
+      "can",
+      "play",
+      "and",
+      "I",
+      "again",
+      "right"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It",
+        "role": "主语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-2",
+        "text": "will",
+        "role": "助动词",
+        "zh": "将"
+      },
+      {
+        "id": "ud-3",
+        "text": "be",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-4",
+        "text": "all",
+        "role": "方式/程度状语",
+        "zh": "所有"
+      },
+      {
+        "id": "ud-5",
+        "text": "right",
+        "role": "表语",
+        "zh": "正确的"
+      },
+      {
+        "id": "ud-6",
+        "text": "next week",
+        "role": "时间状语",
+        "zh": "下一个；周",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "next",
+            "role": "定语（形容词）",
+            "zh": "下一个"
+          },
+          {
+            "id": "ud-8",
+            "text": "week",
+            "role": "中心词",
+            "zh": "周"
+          }
+        ]
+      },
+      {
+        "id": "ud-9",
+        "text": "and I can play again",
+        "role": "并列分句",
+        "zh": "和；我；能；玩；再次",
+        "children": [
+          {
+            "id": "ud-10",
+            "text": "and",
+            "role": "并列连词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-11",
+            "text": "I",
+            "role": "主语",
+            "zh": "我"
+          },
+          {
+            "id": "ud-12",
+            "text": "can",
+            "role": "助动词",
+            "zh": "能"
+          },
+          {
+            "id": "ud-13",
+            "text": "play",
+            "role": "谓语",
+            "zh": "玩"
+          },
+          {
+            "id": "ud-14",
+            "text": "again",
+            "role": "方式/程度状语",
+            "zh": "再次"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentRole": "主语",
+        "componentZh": "它"
+      },
+      "1": {
+        "text": "will",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "zh": "将",
+        "componentRole": "助动词",
+        "componentZh": "将"
+      },
+      "2": {
+        "text": "be",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "3": {
+        "text": "all",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "zh": "所有",
+        "componentRole": "方式/程度状语",
+        "componentZh": "所有"
+      },
+      "4": {
+        "text": "right",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "zh": "正确的",
+        "componentRole": "表语",
+        "componentZh": "正确的"
+      },
+      "5": {
+        "text": "next",
+        "phonetic": "nekst",
+        "pos": "ADJ",
+        "zh": "下一个",
+        "componentRole": "定语（形容词）",
+        "componentZh": "下一个",
+        "parentComponentText": "next week",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "下一个；周"
+      },
+      "6": {
+        "text": "week",
+        "phonetic": "wik",
+        "pos": "NOUN",
+        "zh": "周",
+        "componentRole": "中心词",
+        "componentZh": "周",
+        "parentComponentText": "next week",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "下一个；周"
+      },
+      "8": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和",
+        "parentComponentText": "and I can play again",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；我；能；玩；再次"
+      },
+      "9": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我",
+        "parentComponentText": "and I can play again",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；我；能；玩；再次"
+      },
+      "10": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentRole": "助动词",
+        "componentZh": "能",
+        "parentComponentText": "and I can play again",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；我；能；玩；再次"
+      },
+      "11": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "玩",
+        "componentRole": "谓语",
+        "componentZh": "玩",
+        "parentComponentText": "and I can play again",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；我；能；玩；再次"
+      },
+      "12": {
+        "text": "again",
+        "phonetic": "əˈɡen",
+        "pos": "ADV",
+        "zh": "再次",
+        "componentRole": "方式/程度状语",
+        "componentZh": "再次",
+        "parentComponentText": "and I can play again",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；我；能；玩；再次"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-nsu854ak8cfqkwh1fckbtzcd-1",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-nsu854ak8cfqkwh1fckbtzcd-1",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它",
+    "audioText": "It",
+    "fullEnglish": "It",
+    "phonetic": "ɪt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It",
+        "answer": "It",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "It"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "It",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-nsu854ak8cfqkwh1fckbtzcd-2",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-nsu854ak8cfqkwh1fckbtzcd-2",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "将",
+    "audioText": "will",
+    "fullEnglish": "will",
+    "phonetic": "wɪl",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "will",
+        "answer": "will",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "将",
+        "phonetic": "wɪl",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "will"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "will",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "zh": "将",
+        "componentZh": "将"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-nsu854ak8cfqkwh1fckbtzcd-4",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-nsu854ak8cfqkwh1fckbtzcd-4",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "所有",
+    "audioText": "all",
+    "fullEnglish": "all",
+    "phonetic": "ɔːl",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "all",
+        "answer": "all",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "所有",
+        "phonetic": "ɔːl",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "all"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "all",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "zh": "所有",
+        "componentZh": "所有"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-nsu854ak8cfqkwh1fckbtzcd-6",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-nsu854ak8cfqkwh1fckbtzcd-6",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "下一个",
+    "audioText": "next",
+    "fullEnglish": "next",
+    "phonetic": "nekst",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "next",
+        "answer": "next",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "下一个",
+        "phonetic": "nekst",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "next"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "next",
+        "phonetic": "nekst",
+        "pos": "ADJ",
+        "zh": "下一个",
+        "componentZh": "下一个"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-nsu854ak8cfqkwh1fckbtzcd-7",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-nsu854ak8cfqkwh1fckbtzcd-7",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "周",
+    "audioText": "week",
+    "fullEnglish": "week",
+    "phonetic": "wik",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "week",
+        "answer": "week",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "周",
+        "phonetic": "wik",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "week"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "week",
+        "phonetic": "wik",
+        "pos": "NOUN",
+        "zh": "周",
+        "componentZh": "周"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-nsu854ak8cfqkwh1fckbtzcd-10",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-nsu854ak8cfqkwh1fckbtzcd-10",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "可以",
+    "audioText": "can",
+    "fullEnglish": "can",
+    "phonetic": "kæn",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "can"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-nsu854ak8cfqkwh1fckbtzcd-11",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-nsu854ak8cfqkwh1fckbtzcd-11",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "玩",
+    "audioText": "play",
+    "fullEnglish": "play",
+    "phonetic": "pleɪ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "玩",
+        "phonetic": "pleɪ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "play"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "玩",
+        "componentZh": "玩"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-S-mgw2pqoand03s9reexr5vf6g",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-S-mgw2pqoand03s9reexr5vf6g",
+    "type": "sentence",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我真的很担心你。",
+    "audioText": "I'm really worried about you",
+    "fullEnglish": "I'm really worried about you",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "我是",
+        "phonetic": "aɪm",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "really",
+        "answer": "really",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "方式/程度状语",
+        "zh": "真的",
+        "phonetic": "ˈriːəli",
+        "pos": "ADV"
+      },
+      {
+        "index": 2,
+        "text": "worried",
+        "answer": "worried",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "worry（过去分词）: 担心",
+        "phonetic": "ˈwɜːrid",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "about",
+        "answer": "about",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "介词",
+        "zh": "关于",
+        "phonetic": "əˈbaʊt",
+        "pos": "ADP",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "about you",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "关于；你"
+      },
+      {
+        "index": 4,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "you",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你"
+      }
+    ],
+    "shuffledBlocks": [
+      "worried",
+      "about",
+      "you",
+      "really",
+      "I'm"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I'm",
+        "role": "主语 + 系动词",
+        "zh": "我是"
+      },
+      {
+        "id": "ud-2",
+        "text": "really",
+        "role": "方式/程度状语",
+        "zh": "真的"
+      },
+      {
+        "id": "ud-3",
+        "text": "worried",
+        "role": "表语",
+        "zh": "worry（过去分词）: 担心"
+      },
+      {
+        "id": "ud-4",
+        "text": "about you",
+        "role": "介词短语/状语",
+        "zh": "关于；你",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "about",
+            "role": "介词",
+            "zh": "关于"
+          },
+          {
+            "id": "ud-6",
+            "text": "you",
+            "role": "介词宾语",
+            "zh": "你",
+            "children": [
+              {
+                "id": "ud-7",
+                "text": "you",
+                "role": "中心词",
+                "zh": "你"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "我是"
+      },
+      "1": {
+        "text": "really",
+        "phonetic": "ˈriːəli",
+        "pos": "ADV",
+        "zh": "真的",
+        "componentRole": "方式/程度状语",
+        "componentZh": "真的"
+      },
+      "2": {
+        "text": "worried",
+        "phonetic": "ˈwɜːrid",
+        "pos": "VERB",
+        "zh": "worry（过去分词）: 担心",
+        "componentRole": "表语",
+        "componentZh": "worry（过去分词）: 担心"
+      },
+      "3": {
+        "text": "about",
+        "phonetic": "əˈbaʊt",
+        "pos": "ADP",
+        "zh": "关于",
+        "componentRole": "介词",
+        "componentZh": "关于",
+        "parentComponentText": "about you",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "关于；你"
+      },
+      "4": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "中心词",
+        "componentZh": "你",
+        "parentComponentText": "you",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-mgw2pqoand03s9reexr5vf6g-1",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-mgw2pqoand03s9reexr5vf6g-1",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I'm",
+    "fullEnglish": "I'm",
+    "phonetic": "aɪm",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我是",
+        "phonetic": "aɪm",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I'm"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我是",
+        "componentZh": "我是"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-mgw2pqoand03s9reexr5vf6g-2",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-mgw2pqoand03s9reexr5vf6g-2",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "真的",
+    "audioText": "really",
+    "fullEnglish": "really",
+    "phonetic": "ˈriːəli",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "really",
+        "answer": "really",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "真的",
+        "phonetic": "ˈriːəli",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "really"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "really",
+        "phonetic": "ˈriːəli",
+        "pos": "ADV",
+        "zh": "真的",
+        "componentZh": "真的"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-mgw2pqoand03s9reexr5vf6g-3",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-mgw2pqoand03s9reexr5vf6g-3",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "worry（过去分词）: 担心",
+    "audioText": "worried",
+    "fullEnglish": "worried",
+    "phonetic": "ˈwɜːrid",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "worried",
+        "answer": "worried",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "worry（过去分词）: 担心",
+        "phonetic": "ˈwɜːrid",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "worried"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "worried",
+        "phonetic": "ˈwɜːrid",
+        "pos": "VERB",
+        "zh": "worry（过去分词）: 担心",
+        "componentZh": "worry（过去分词）: 担心"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-mgw2pqoand03s9reexr5vf6g-4",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-mgw2pqoand03s9reexr5vf6g-4",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "关于",
+    "audioText": "about",
+    "fullEnglish": "about",
+    "phonetic": "əˈbaʊt",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "about",
+        "answer": "about",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "关于",
+        "phonetic": "əˈbaʊt",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "about"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "about",
+        "phonetic": "əˈbaʊt",
+        "pos": "ADP",
+        "zh": "关于",
+        "componentZh": "关于"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-S-depkdzmethlo2s7rmphejim6",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-S-depkdzmethlo2s7rmphejim6",
+    "type": "sentence",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "玩耍时要小心。",
+    "audioText": "Be careful when you play",
+    "fullEnglish": "Be careful when you play",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Be",
+        "answer": "Be",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "biː",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "careful",
+        "answer": "careful",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "小心的",
+        "phonetic": "ˈkerfəl",
+        "pos": "ADJ"
+      },
+      {
+        "index": 2,
+        "text": "when",
+        "answer": "when",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "方式/程度状语",
+        "zh": "当...时",
+        "phonetic": "wen",
+        "pos": "SCONJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "when you play",
+        "parentComponentRole": "状语从句",
+        "parentComponentZh": "当...时；你；玩"
+      },
+      {
+        "index": 3,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "when you play",
+        "parentComponentRole": "状语从句",
+        "parentComponentZh": "当...时；你；玩"
+      },
+      {
+        "index": 4,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "谓语",
+        "zh": "玩",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "when you play",
+        "parentComponentRole": "状语从句",
+        "parentComponentZh": "当...时；你；玩"
+      }
+    ],
+    "shuffledBlocks": [
+      "when",
+      "careful",
+      "play",
+      "you",
+      "Be"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Be",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-2",
+        "text": "careful",
+        "role": "表语",
+        "zh": "小心的"
+      },
+      {
+        "id": "ud-3",
+        "text": "when you play",
+        "role": "状语从句",
+        "zh": "当...时；你；玩",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "when",
+            "role": "方式/程度状语",
+            "zh": "当...时"
+          },
+          {
+            "id": "ud-5",
+            "text": "you",
+            "role": "主语",
+            "zh": "你"
+          },
+          {
+            "id": "ud-6",
+            "text": "play",
+            "role": "谓语",
+            "zh": "玩"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Be",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "1": {
+        "text": "careful",
+        "phonetic": "ˈkerfəl",
+        "pos": "ADJ",
+        "zh": "小心的",
+        "componentRole": "表语",
+        "componentZh": "小心的"
+      },
+      "2": {
+        "text": "when",
+        "phonetic": "wen",
+        "pos": "SCONJ",
+        "zh": "当...时",
+        "componentRole": "方式/程度状语",
+        "componentZh": "当...时",
+        "parentComponentText": "when you play",
+        "parentComponentRole": "状语从句",
+        "parentComponentZh": "当...时；你；玩"
+      },
+      "3": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你",
+        "parentComponentText": "when you play",
+        "parentComponentRole": "状语从句",
+        "parentComponentZh": "当...时；你；玩"
+      },
+      "4": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "玩",
+        "componentRole": "谓语",
+        "componentZh": "玩",
+        "parentComponentText": "when you play",
+        "parentComponentRole": "状语从句",
+        "parentComponentZh": "当...时；你；玩"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-depkdzmethlo2s7rmphejim6-2",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-depkdzmethlo2s7rmphejim6-2",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "小心的",
+    "audioText": "careful",
+    "fullEnglish": "careful",
+    "phonetic": "ˈkerfəl",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "careful",
+        "answer": "careful",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "小心的",
+        "phonetic": "ˈkerfəl",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "careful"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "careful",
+        "phonetic": "ˈkerfəl",
+        "pos": "ADJ",
+        "zh": "小心的",
+        "componentZh": "小心的"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-depkdzmethlo2s7rmphejim6-3",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-depkdzmethlo2s7rmphejim6-3",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "当...时",
+    "audioText": "when",
+    "fullEnglish": "when",
+    "phonetic": "wen",
+    "pos": "SCONJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "when",
+        "answer": "when",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "当...时",
+        "phonetic": "wen",
+        "pos": "SCONJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "when"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "when",
+        "phonetic": "wen",
+        "pos": "SCONJ",
+        "zh": "当...时",
+        "componentZh": "当...时"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-S-czteri2v0ds0zhkv2rloe415",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-S-czteri2v0ds0zhkv2rloe415",
+    "type": "sentence",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好的，我会非常小心的。",
+    "audioText": "OK, I'll be very careful",
+    "fullEnglish": "OK, I'll be very careful",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "OK",
+        "answer": "OK",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "abbreviation",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "好的",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "好的，我会非常小心的。"
+      },
+      {
+        "index": 2,
+        "text": "I'll",
+        "answer": "I'll",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语 + 助动词",
+        "zh": "我将",
+        "phonetic": "aɪl",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "be",
+        "answer": "be",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "biː",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "方式/程度状语",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV"
+      },
+      {
+        "index": 5,
+        "text": "careful",
+        "answer": "careful",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "小心的",
+        "phonetic": "ˈkerfəl",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "careful",
+      "be",
+      "I'll",
+      "very",
+      "OK"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "OK",
+        "role": "语气/引导语",
+        "zh": "好的"
+      },
+      {
+        "id": "ud-2",
+        "text": "I'll",
+        "role": "主语 + 助动词",
+        "zh": "我将"
+      },
+      {
+        "id": "ud-3",
+        "text": "be",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-4",
+        "text": "very",
+        "role": "方式/程度状语",
+        "zh": "非常"
+      },
+      {
+        "id": "ud-5",
+        "text": "careful",
+        "role": "表语",
+        "zh": "小心的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "OK",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "INTJ",
+        "zh": "好的",
+        "componentRole": "语气/引导语",
+        "componentZh": "好的"
+      },
+      "2": {
+        "text": "I'll",
+        "phonetic": "aɪl",
+        "pos": "PRON",
+        "zh": "我将",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "我将"
+      },
+      "3": {
+        "text": "be",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "4": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentRole": "方式/程度状语",
+        "componentZh": "非常"
+      },
+      "5": {
+        "text": "careful",
+        "phonetic": "ˈkerfəl",
+        "pos": "ADJ",
+        "zh": "小心的",
+        "componentRole": "表语",
+        "componentZh": "小心的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-czteri2v0ds0zhkv2rloe415-1",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-czteri2v0ds0zhkv2rloe415-1",
+    "type": "abbreviation",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好的",
+    "audioText": "OK",
+    "fullEnglish": "OK",
+    "phonetic": "oʊˈkeɪ",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "OK",
+        "answer": "OK",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "abbreviation",
+        "zh": "好的",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "OK"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "OK",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "INTJ",
+        "zh": "好的",
+        "componentZh": "好的"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-czteri2v0ds0zhkv2rloe415-2",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-czteri2v0ds0zhkv2rloe415-2",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我将",
+    "audioText": "I'll",
+    "fullEnglish": "I'll",
+    "phonetic": "aɪl",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'll",
+        "answer": "I'll",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "我将",
+        "phonetic": "aɪl",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I'll"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I'll",
+        "phonetic": "aɪl",
+        "pos": "PRON",
+        "zh": "我将",
+        "componentZh": "我将"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-czteri2v0ds0zhkv2rloe415-4",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-czteri2v0ds0zhkv2rloe415-4",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "非常",
+    "audioText": "very",
+    "fullEnglish": "very",
+    "phonetic": "ˈveri",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "very"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentZh": "非常"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-S-xzbyambntpfvn2fi3h1u2ohn",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-S-xzbyambntpfvn2fi3h1u2ohn",
+    "type": "sentence",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我不会再伤害自己了。",
+    "audioText": "I won't hurt myself again",
+    "fullEnglish": "I won't hurt myself again",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "won't",
+        "answer": "won't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不会",
+        "phonetic": "woʊnt",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "hurt",
+        "answer": "hurt",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "hurt（过去式）: 伤害",
+        "phonetic": "hɜːrt",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "myself",
+        "answer": "myself",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "宾语",
+        "zh": "我自己",
+        "phonetic": "maɪˈself",
+        "pos": "PRON"
+      },
+      {
+        "index": 4,
+        "text": "again",
+        "answer": "again",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "方式/程度状语",
+        "zh": "再次",
+        "phonetic": "əˈɡen",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "again",
+      "hurt",
+      "myself",
+      "I",
+      "won't"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "won't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不会"
+      },
+      {
+        "id": "ud-3",
+        "text": "hurt",
+        "role": "谓语",
+        "zh": "hurt（过去式）: 伤害"
+      },
+      {
+        "id": "ud-4",
+        "text": "myself",
+        "role": "宾语",
+        "zh": "我自己"
+      },
+      {
+        "id": "ud-5",
+        "text": "again",
+        "role": "方式/程度状语",
+        "zh": "再次"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "won't",
+        "phonetic": "woʊnt",
+        "pos": "AUX",
+        "zh": "不会",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "不会"
+      },
+      "2": {
+        "text": "hurt",
+        "phonetic": "hɜːrt",
+        "pos": "VERB",
+        "zh": "hurt（过去式）: 伤害",
+        "componentRole": "谓语",
+        "componentZh": "hurt（过去式）: 伤害"
+      },
+      "3": {
+        "text": "myself",
+        "phonetic": "maɪˈself",
+        "pos": "PRON",
+        "zh": "我自己",
+        "componentRole": "宾语",
+        "componentZh": "我自己"
+      },
+      "4": {
+        "text": "again",
+        "phonetic": "əˈɡen",
+        "pos": "ADV",
+        "zh": "再次",
+        "componentRole": "方式/程度状语",
+        "componentZh": "再次"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-xzbyambntpfvn2fi3h1u2ohn-2",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-xzbyambntpfvn2fi3h1u2ohn-2",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不会",
+    "audioText": "won't",
+    "fullEnglish": "won't",
+    "phonetic": "woʊnt",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "won't",
+        "answer": "won't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "不会",
+        "phonetic": "woʊnt",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "won't"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "won't",
+        "phonetic": "woʊnt",
+        "pos": "AUX",
+        "zh": "不会",
+        "componentZh": "不会"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-xzbyambntpfvn2fi3h1u2ohn-4",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-xzbyambntpfvn2fi3h1u2ohn-4",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我自己",
+    "audioText": "myself",
+    "fullEnglish": "myself",
+    "phonetic": "maɪˈself",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "myself",
+        "answer": "myself",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "我自己",
+        "phonetic": "maɪˈself",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "myself"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "myself",
+        "phonetic": "maɪˈself",
+        "pos": "PRON",
+        "zh": "我自己",
+        "componentZh": "我自己"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-S-atx989p3dsai0c4w7hhy1fhl",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-S-atx989p3dsai0c4w7hhy1fhl",
+    "type": "sentence",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "听起来不错。",
+    "audioText": "That sounds good",
+    "fullEnglish": "That sounds good",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "That",
+        "answer": "That",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "引导宾语从句",
+        "phonetic": "ðæt",
+        "pos": "SCONJ"
+      },
+      {
+        "index": 1,
+        "text": "sounds",
+        "answer": "sounds",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "sound（第三人称单数）: 听起来",
+        "phonetic": "saʊndz",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "good",
+        "answer": "good",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心成分",
+        "zh": "好的",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "good",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "好的"
+      }
+    ],
+    "shuffledBlocks": [
+      "sounds",
+      "good",
+      "That"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "That",
+        "role": "主语",
+        "zh": "引导宾语从句"
+      },
+      {
+        "id": "ud-2",
+        "text": "sounds",
+        "role": "谓语",
+        "zh": "sound（第三人称单数）: 听起来"
+      },
+      {
+        "id": "ud-3",
+        "text": "good",
+        "role": "宾语补足语",
+        "zh": "好的",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "good",
+            "role": "中心成分",
+            "zh": "好的"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "That",
+        "phonetic": "ðæt",
+        "pos": "SCONJ",
+        "zh": "引导宾语从句",
+        "componentRole": "主语",
+        "componentZh": "引导宾语从句"
+      },
+      "1": {
+        "text": "sounds",
+        "phonetic": "saʊndz",
+        "pos": "VERB",
+        "zh": "sound（第三人称单数）: 听起来",
+        "componentRole": "谓语",
+        "componentZh": "sound（第三人称单数）: 听起来"
+      },
+      "2": {
+        "text": "good",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentRole": "中心成分",
+        "componentZh": "好的",
+        "parentComponentText": "good",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "好的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-atx989p3dsai0c4w7hhy1fhl-1",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-atx989p3dsai0c4w7hhy1fhl-1",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那个",
+    "audioText": "That",
+    "fullEnglish": "That",
+    "phonetic": "ðæt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "That",
+        "answer": "That",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导宾语从句",
+        "phonetic": "ðæt",
+        "pos": "SCONJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "That"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "That",
+        "phonetic": "ðæt",
+        "pos": "SCONJ",
+        "zh": "引导宾语从句",
+        "componentZh": "引导宾语从句"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-atx989p3dsai0c4w7hhy1fhl-2",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-atx989p3dsai0c4w7hhy1fhl-2",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "sound（第三人称单数）: 听起来",
+    "audioText": "sounds",
+    "fullEnglish": "sounds",
+    "phonetic": "saʊndz",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "sounds",
+        "answer": "sounds",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "sound（第三人称单数）: 听起来",
+        "phonetic": "saʊndz",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "sounds"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "sounds",
+        "phonetic": "saʊndz",
+        "pos": "VERB",
+        "zh": "sound（第三人称单数）: 听起来",
+        "componentZh": "sound（第三人称单数）: 听起来"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-W-atx989p3dsai0c4w7hhy1fhl-3",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-W-atx989p3dsai0c4w7hhy1fhl-3",
+    "type": "word",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好的",
+    "audioText": "good",
+    "fullEnglish": "good",
+    "phonetic": "ɡʊd",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "good",
+        "answer": "good",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "好的",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "good"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "good",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentZh": "好的"
+      }
+    }
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-ledhovqko59ka9kyqlxavn06",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-ledhovqko59ka9kyqlxavn06",
+    "type": "phrase",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "发生了什么",
+    "audioText": "What happened",
+    "fullEnglish": "What happened",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "happened",
+        "answer": "happened",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "happen（过去式）: 发生",
+        "phonetic": "ˈhæpənd",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "What",
+      "happened"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What",
+        "role": "主语",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "happened",
+        "role": "谓语",
+        "zh": "happen（过去式）: 发生"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "DET",
+        "zh": "什么",
+        "componentZh": "什么",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "happened",
+        "phonetic": "ˈhæpənd",
+        "pos": "VERB",
+        "zh": "happen（过去式）: 发生",
+        "componentZh": "happen（过去式）: 发生",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-q4b0hkxwvy0w6nz08ybtx6fz",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-q4b0hkxwvy0w6nz08ybtx6fz",
+    "type": "phrase",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "对你",
+    "audioText": "to you",
+    "fullEnglish": "to you",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "to",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "to",
+        "role": "补充成分",
+        "zh": "引导不定式"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "中心成分",
+        "zh": "你"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-q754sikbcyy0upqtesh7ydxl",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-q754sikbcyy0upqtesh7ydxl",
+    "type": "phrase",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一场足球赛",
+    "audioText": "a football match",
+    "fullEnglish": "a football match",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "football",
+        "answer": "football",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "足球",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "match",
+        "answer": "match",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "比赛",
+        "phonetic": "mætʃ",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "a",
+      "match",
+      "football"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "a",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-2",
+        "text": "football",
+        "role": "补充成分",
+        "zh": "足球"
+      },
+      {
+        "id": "ud-3",
+        "text": "match",
+        "role": "中心成分",
+        "zh": "比赛"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "football",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN",
+        "zh": "足球",
+        "componentZh": "足球",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "match",
+        "phonetic": "mætʃ",
+        "pos": "NOUN",
+        "zh": "比赛",
+        "componentZh": "比赛",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-omldqnn6k3vxsk44x2dmcxkr",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-omldqnn6k3vxsk44x2dmcxkr",
+    "type": "phrase",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的右腿",
+    "audioText": "my right leg",
+    "fullEnglish": "my right leg",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "right",
+        "answer": "right",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "正确的",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "leg",
+        "answer": "leg",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "腿",
+        "phonetic": "leɡ",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "right",
+      "leg",
+      "my"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "my",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-2",
+        "text": "right",
+        "role": "补充成分",
+        "zh": "正确的"
+      },
+      {
+        "id": "ud-3",
+        "text": "leg",
+        "role": "中心成分",
+        "zh": "腿"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "right",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "zh": "正确的",
+        "componentZh": "正确的",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "leg",
+        "phonetic": "leɡ",
+        "pos": "NOUN",
+        "zh": "腿",
+        "componentZh": "腿",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-gj25iwp0pt38x1cxwmat2df8",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-gj25iwp0pt38x1cxwmat2df8",
+    "type": "phrase",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "伤到自己",
+    "audioText": "hurt yourself",
+    "fullEnglish": "hurt yourself",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "hurt",
+        "answer": "hurt",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "hurt（过去式）: 伤害",
+        "phonetic": "hɜːrt",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "yourself",
+        "answer": "yourself",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "你自己",
+        "phonetic": "jɔːrˈself",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "宾语"
+      }
+    ],
+    "shuffledBlocks": [
+      "hurt",
+      "yourself"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "hurt",
+        "role": "谓语",
+        "zh": "hurt（过去式）: 伤害"
+      },
+      {
+        "id": "ud-2",
+        "text": "yourself",
+        "role": "宾语",
+        "zh": "你自己"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "hurt",
+        "phonetic": "hɜːrt",
+        "pos": "VERB",
+        "zh": "hurt（过去式）: 伤害",
+        "componentZh": "hurt（过去式）: 伤害",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "yourself",
+        "phonetic": "jɔːrˈself",
+        "pos": "PRON",
+        "zh": "你自己",
+        "componentZh": "你自己",
+        "componentRole": "宾语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-nx06xvcmvtqeoln0s4pkkfcm",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-nx06xvcmvtqeoln0s4pkkfcm",
+    "type": "phrase",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不要",
+    "audioText": "Don't",
+    "fullEnglish": "Don't",
+    "phonetic": "doʊnt",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Don't",
+        "answer": "Don't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "不要",
+        "phonetic": "doʊnt",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "方式/程度状语 + 谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "Don't"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Don't",
+        "role": "方式/程度状语 + 谓语",
+        "zh": "不要"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Don't",
+        "phonetic": "doʊnt",
+        "pos": "VERB",
+        "zh": "不要",
+        "componentZh": "不要",
+        "componentRole": "方式/程度状语 + 谓语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-llg39wjx3xkkczo7319pdqhk",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-llg39wjx3xkkczo7319pdqhk",
+    "type": "phrase",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "难过",
+    "audioText": "be upset",
+    "fullEnglish": "be upset",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "be",
+        "answer": "be",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "系动词"
+      },
+      {
+        "index": 1,
+        "text": "upset",
+        "answer": "upset",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "心烦的",
+        "phonetic": "ˌʌpˈset",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "upset",
+      "be"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "be",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-2",
+        "text": "upset",
+        "role": "表语",
+        "zh": "心烦的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "be",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "zh": "是",
+        "componentZh": "是",
+        "componentRole": "系动词"
+      },
+      "1": {
+        "text": "upset",
+        "phonetic": "ˌʌpˈset",
+        "pos": "ADJ",
+        "zh": "心烦的",
+        "componentZh": "心烦的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "主系表结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-ge7jq16asm9h5g7ppnw1ckwt",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-ge7jq16asm9h5g7ppnw1ckwt",
+    "type": "sentence",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "别难过，妈妈",
+    "audioText": "Don't be upset, Mum",
+    "fullEnglish": "Don't be upset, Mum",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Don't",
+        "answer": "Don't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "不要",
+        "phonetic": "doʊnt",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "be",
+        "answer": "be",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "系动词"
+      },
+      {
+        "index": 2,
+        "text": "upset",
+        "answer": "upset",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "心烦的",
+        "phonetic": "ˌʌpˈset",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "表语"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "别难过，妈妈"
+      },
+      {
+        "index": 4,
+        "text": "Mum",
+        "answer": "Mum",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "妈妈",
+        "phonetic": "mʌm",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "呼语"
+      }
+    ],
+    "shuffledBlocks": [
+      "be",
+      "Mum",
+      "Don't",
+      "upset"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Don't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不要"
+      },
+      {
+        "id": "ud-2",
+        "text": "be",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-3",
+        "text": "upset",
+        "role": "表语",
+        "zh": "心烦的"
+      },
+      {
+        "id": "ud-4",
+        "text": "Mum",
+        "role": "呼语",
+        "zh": "妈妈"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Don't",
+        "phonetic": "doʊnt",
+        "pos": "VERB",
+        "zh": "不要",
+        "componentZh": "不要",
+        "componentRole": "助动词 + 方式/程度状语"
+      },
+      "1": {
+        "text": "be",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "zh": "是",
+        "componentZh": "是",
+        "componentRole": "系动词"
+      },
+      "2": {
+        "text": "upset",
+        "phonetic": "ˌʌpˈset",
+        "pos": "ADJ",
+        "zh": "心烦的",
+        "componentZh": "心烦的",
+        "componentRole": "表语"
+      },
+      "4": {
+        "text": "Mum",
+        "phonetic": "mʌm",
+        "pos": "NOUN",
+        "zh": "妈妈",
+        "componentZh": "妈妈",
+        "componentRole": "呼语"
+      }
+    },
+    "sentenceType": "主系表结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-z78941ta4zqwp02mx4e21uqs",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-z78941ta4zqwp02mx4e21uqs",
+    "type": "phrase",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个擦伤",
+    "audioText": "a scratch",
+    "fullEnglish": "a scratch",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "scratch",
+        "answer": "scratch",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "擦伤",
+        "phonetic": "skrætʃ",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "a",
+      "scratch"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "a",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-2",
+        "text": "scratch",
+        "role": "中心成分",
+        "zh": "擦伤"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "scratch",
+        "phonetic": "skrætʃ",
+        "pos": "NOUN",
+        "zh": "擦伤",
+        "componentZh": "擦伤",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-t0syou6pzoxhajkykftycg4g",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-t0syou6pzoxhajkykftycg4g",
+    "type": "sentence",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "只是擦伤而已",
+    "audioText": "It's only a scratch",
+    "fullEnglish": "It's only a scratch",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "only",
+        "answer": "only",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "仅仅",
+        "phonetic": "ˈoʊnli",
+        "pos": "ADV",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 2,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-3",
+        "role": "补充成分"
+      },
+      {
+        "index": 3,
+        "text": "scratch",
+        "answer": "scratch",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "擦伤",
+        "phonetic": "skrætʃ",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "scratch",
+      "It's",
+      "only",
+      "a"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "only",
+        "role": "方式/程度状语",
+        "zh": "仅仅"
+      },
+      {
+        "id": "ud-3",
+        "text": "a",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-4",
+        "text": "scratch",
+        "role": "表语",
+        "zh": "擦伤"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "only",
+        "phonetic": "ˈoʊnli",
+        "pos": "ADV",
+        "zh": "仅仅",
+        "componentZh": "仅仅",
+        "componentRole": "方式/程度状语"
+      },
+      "2": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "补充成分"
+      },
+      "3": {
+        "text": "scratch",
+        "phonetic": "skrætʃ",
+        "pos": "NOUN",
+        "zh": "擦伤",
+        "componentZh": "擦伤",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-au4xo6g52l5arkvvuo9qla7k",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-au4xo6g52l5arkvvuo9qla7k",
+    "type": "phrase",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "将会",
+    "audioText": "will be",
+    "fullEnglish": "will be",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "will",
+        "answer": "will",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "将",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "be",
+        "answer": "be",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "be",
+      "will"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "will",
+        "role": "助动词",
+        "zh": "将"
+      },
+      {
+        "id": "ud-2",
+        "text": "be",
+        "role": "谓语",
+        "zh": "是"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "will",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "zh": "将",
+        "componentZh": "将",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "be",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "zh": "是",
+        "componentZh": "是",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-ee14ji8vdvj7eyk9cxngzx2z",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-ee14ji8vdvj7eyk9cxngzx2z",
+    "type": "phrase",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好起来",
+    "audioText": "all right",
+    "fullEnglish": "all right",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "all",
+        "answer": "all",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "所有",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "right",
+        "answer": "right",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "正确的",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "right",
+      "all"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "all",
+        "role": "补充成分",
+        "zh": "所有"
+      },
+      {
+        "id": "ud-2",
+        "text": "right",
+        "role": "中心成分",
+        "zh": "正确的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "all",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "zh": "所有",
+        "componentZh": "所有",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "right",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "zh": "正确的",
+        "componentZh": "正确的",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-qe560ds9ap5482qwa27gqw96",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-qe560ds9ap5482qwa27gqw96",
+    "type": "phrase",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "下周",
+    "audioText": "next week",
+    "fullEnglish": "next week",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "next",
+        "answer": "next",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "下一个",
+        "phonetic": "nekst",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "week",
+        "answer": "week",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "周",
+        "phonetic": "wik",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "week",
+      "next"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "next",
+        "role": "补充成分",
+        "zh": "下一个"
+      },
+      {
+        "id": "ud-2",
+        "text": "week",
+        "role": "中心成分",
+        "zh": "周"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "next",
+        "phonetic": "nekst",
+        "pos": "ADJ",
+        "zh": "下一个",
+        "componentZh": "下一个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "week",
+        "phonetic": "wik",
+        "pos": "NOUN",
+        "zh": "周",
+        "componentZh": "周",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-ux23ua0cxye2dkaost25rij1",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-ux23ua0cxye2dkaost25rij1",
+    "type": "sentence",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "下周一切都会好起来的",
+    "audioText": "It will be all right next week",
+    "fullEnglish": "It will be all right next week",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It",
+        "answer": "It",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "will",
+        "answer": "will",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "将",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "助动词"
+      },
+      {
+        "index": 2,
+        "text": "be",
+        "answer": "be",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "系动词"
+      },
+      {
+        "index": 3,
+        "text": "all",
+        "answer": "all",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "所有",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "componentId": "ud-4",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 4,
+        "text": "right",
+        "answer": "right",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "正确的",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "componentId": "ud-5",
+        "role": "表语"
+      },
+      {
+        "index": 5,
+        "text": "next",
+        "answer": "next",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "下一个",
+        "phonetic": "nekst",
+        "pos": "ADJ",
+        "componentId": "ud-7",
+        "role": "定语（形容词）",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "next week",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "下一个；周"
+      },
+      {
+        "index": 6,
+        "text": "week",
+        "answer": "week",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "周",
+        "phonetic": "wik",
+        "pos": "NOUN",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "next week",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "下一个；周"
+      }
+    ],
+    "shuffledBlocks": [
+      "week",
+      "all",
+      "next",
+      "be",
+      "will",
+      "It",
+      "right"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It",
+        "role": "主语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-2",
+        "text": "will",
+        "role": "助动词",
+        "zh": "将"
+      },
+      {
+        "id": "ud-3",
+        "text": "be",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-4",
+        "text": "all",
+        "role": "方式/程度状语",
+        "zh": "所有"
+      },
+      {
+        "id": "ud-5",
+        "text": "right",
+        "role": "表语",
+        "zh": "正确的"
+      },
+      {
+        "id": "ud-6",
+        "text": "next week",
+        "role": "时间状语",
+        "zh": "下一个；周",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "next",
+            "role": "定语（形容词）",
+            "zh": "下一个"
+          },
+          {
+            "id": "ud-8",
+            "text": "week",
+            "role": "中心词",
+            "zh": "周"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "will",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "zh": "将",
+        "componentZh": "将",
+        "componentRole": "助动词"
+      },
+      "2": {
+        "text": "be",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "zh": "是",
+        "componentZh": "是",
+        "componentRole": "系动词"
+      },
+      "3": {
+        "text": "all",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "zh": "所有",
+        "componentZh": "所有",
+        "componentRole": "方式/程度状语"
+      },
+      "4": {
+        "text": "right",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "zh": "正确的",
+        "componentZh": "正确的",
+        "componentRole": "表语"
+      },
+      "5": {
+        "text": "next",
+        "phonetic": "nekst",
+        "pos": "ADJ",
+        "zh": "下一个",
+        "componentZh": "下一个",
+        "componentRole": "定语（形容词）",
+        "parentComponentText": "next week",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "下一个；周"
+      },
+      "6": {
+        "text": "week",
+        "phonetic": "wik",
+        "pos": "NOUN",
+        "zh": "周",
+        "componentZh": "周",
+        "componentRole": "中心词",
+        "parentComponentText": "next week",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "下一个；周"
+      }
+    },
+    "sentenceType": "主系表结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-krfjlu2u69xzguu5vt2r5ciq",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-krfjlu2u69xzguu5vt2r5ciq",
+    "type": "phrase",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "可以玩",
+    "audioText": "can play",
+    "fullEnglish": "can play",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "玩",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "can",
+      "play"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-2",
+        "text": "play",
+        "role": "谓语",
+        "zh": "玩"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "玩",
+        "componentZh": "玩",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-hbx60xyac55tpjbsaiu89gv4",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-hbx60xyac55tpjbsaiu89gv4",
+    "type": "sentence",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我就可以再玩了",
+    "audioText": "and I can play again",
+    "fullEnglish": "and I can play again",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "componentId": "ud-1",
+        "role": "并列连词"
+      },
+      {
+        "index": 1,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "componentId": "ud-3",
+        "role": "助动词"
+      },
+      {
+        "index": 3,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "玩",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "componentId": "ud-4",
+        "role": "谓语"
+      },
+      {
+        "index": 4,
+        "text": "again",
+        "answer": "again",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "再次",
+        "phonetic": "əˈɡen",
+        "pos": "ADV",
+        "componentId": "ud-5",
+        "role": "方式/程度状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "again",
+      "play",
+      "and",
+      "I",
+      "can"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "and",
+        "role": "并列连词",
+        "zh": "和"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-4",
+        "text": "play",
+        "role": "谓语",
+        "zh": "玩"
+      },
+      {
+        "id": "ud-5",
+        "text": "again",
+        "role": "方式/程度状语",
+        "zh": "再次"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和",
+        "componentRole": "并列连词"
+      },
+      "1": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能",
+        "componentRole": "助动词"
+      },
+      "3": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "玩",
+        "componentZh": "玩",
+        "componentRole": "谓语"
+      },
+      "4": {
+        "text": "again",
+        "phonetic": "əˈɡen",
+        "pos": "ADV",
+        "zh": "再次",
+        "componentZh": "再次",
+        "componentRole": "方式/程度状语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-qcdd4e29n5kxd5xlxt0iuk3v",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-qcdd4e29n5kxd5xlxt0iuk3v",
+    "type": "phrase",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "真的很担心",
+    "audioText": "really worried",
+    "fullEnglish": "really worried",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "really",
+        "answer": "really",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "真的",
+        "phonetic": "ˈriːəli",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "worried",
+        "answer": "worried",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "worry（过去分词）: 担心",
+        "phonetic": "ˈwɜːrid",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "worried",
+      "really"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "really",
+        "role": "方式/程度状语",
+        "zh": "真的"
+      },
+      {
+        "id": "ud-2",
+        "text": "worried",
+        "role": "中心成分",
+        "zh": "worry（过去分词）: 担心"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "really",
+        "phonetic": "ˈriːəli",
+        "pos": "ADV",
+        "zh": "真的",
+        "componentZh": "真的",
+        "componentRole": "方式/程度状语"
+      },
+      "1": {
+        "text": "worried",
+        "phonetic": "ˈwɜːrid",
+        "pos": "VERB",
+        "zh": "worry（过去分词）: 担心",
+        "componentZh": "worry（过去分词）: 担心",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-lrl6h2f9phof5weonk2ommy5",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-lrl6h2f9phof5weonk2ommy5",
+    "type": "phrase",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "关于你",
+    "audioText": "about you",
+    "fullEnglish": "about you",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "about",
+        "answer": "about",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "关于",
+        "phonetic": "əˈbaʊt",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "about",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "about",
+        "role": "补充成分",
+        "zh": "关于"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "中心成分",
+        "zh": "你"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "about",
+        "phonetic": "əˈbaʊt",
+        "pos": "ADP",
+        "zh": "关于",
+        "componentZh": "关于",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-klxlqqiqhip2fbjfsec1irw7",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-klxlqqiqhip2fbjfsec1irw7",
+    "type": "phrase",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "小心",
+    "audioText": "Be careful",
+    "fullEnglish": "Be careful",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Be",
+        "answer": "Be",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "系动词"
+      },
+      {
+        "index": 1,
+        "text": "careful",
+        "answer": "careful",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "小心的",
+        "phonetic": "ˈkerfəl",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "careful",
+      "Be"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Be",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-2",
+        "text": "careful",
+        "role": "表语",
+        "zh": "小心的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Be",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "zh": "是",
+        "componentZh": "是",
+        "componentRole": "系动词"
+      },
+      "1": {
+        "text": "careful",
+        "phonetic": "ˈkerfəl",
+        "pos": "ADJ",
+        "zh": "小心的",
+        "componentZh": "小心的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "主系表结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-atry1baf90vxeyrqd2mrktvz",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-atry1baf90vxeyrqd2mrktvz",
+    "type": "phrase",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我会",
+    "audioText": "I'll",
+    "fullEnglish": "I'll",
+    "phonetic": "aɪl",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'll",
+        "answer": "I'll",
+        "blank": "_’__",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "我将",
+        "phonetic": "aɪl",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "I'll"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I'll",
+        "role": "主语 + 谓语",
+        "zh": "我将"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I'll",
+        "phonetic": "aɪl",
+        "pos": "PRON",
+        "zh": "我将",
+        "componentZh": "我将",
+        "componentRole": "主语 + 谓语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-eil5cr4q476y8dox17b4w10i",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-eil5cr4q476y8dox17b4w10i",
+    "type": "phrase",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "非常小心",
+    "audioText": "very careful",
+    "fullEnglish": "very careful",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "careful",
+        "answer": "careful",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "小心的",
+        "phonetic": "ˈkerfəl",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "careful",
+      "very"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "very",
+        "role": "方式/程度状语",
+        "zh": "非常"
+      },
+      {
+        "id": "ud-2",
+        "text": "careful",
+        "role": "中心成分",
+        "zh": "小心的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentZh": "非常",
+        "componentRole": "方式/程度状语"
+      },
+      "1": {
+        "text": "careful",
+        "phonetic": "ˈkerfəl",
+        "pos": "ADJ",
+        "zh": "小心的",
+        "componentZh": "小心的",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-cjm56ey54u2y9l3ql2imhqqe",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-cjm56ey54u2y9l3ql2imhqqe",
+    "type": "phrase",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不会伤害",
+    "audioText": "won't hurt",
+    "fullEnglish": "won't hurt",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "won't",
+        "answer": "won't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "不会",
+        "phonetic": "woʊnt",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "hurt",
+        "answer": "hurt",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "hurt（过去式）: 伤害",
+        "phonetic": "hɜːrt",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "won't",
+      "hurt"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "won't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不会"
+      },
+      {
+        "id": "ud-2",
+        "text": "hurt",
+        "role": "谓语",
+        "zh": "hurt（过去式）: 伤害"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "won't",
+        "phonetic": "woʊnt",
+        "pos": "AUX",
+        "zh": "不会",
+        "componentZh": "不会",
+        "componentRole": "助动词 + 方式/程度状语"
+      },
+      "1": {
+        "text": "hurt",
+        "phonetic": "hɜːrt",
+        "pos": "VERB",
+        "zh": "hurt（过去式）: 伤害",
+        "componentZh": "hurt（过去式）: 伤害",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-un0t6svgfrcuousoyw7eo03u",
+    "contentId": "JLB-gll8b02qh41k91s2wgivj129-PHRASE-un0t6svgfrcuousoyw7eo03u",
+    "type": "phrase",
+    "coursePackageId": "k1gv2v8slqn59zy1ic8ndv8n",
+    "coursePackageName": "【北京版】六年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gll8b02qh41k91s2wgivj129",
+    "unitTitle": "Unit 2 WHAT HAPPENED TO YOUR NECK?-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "听起来不错",
+    "audioText": "sounds good",
+    "fullEnglish": "sounds good",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "sounds",
+        "answer": "sounds",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "sound（第三人称单数）: 听起来",
+        "phonetic": "saʊndz",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "good",
+        "answer": "good",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "好的",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "中心成分",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "good",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "好的"
+      }
+    ],
+    "shuffledBlocks": [
+      "sounds",
+      "good"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "sounds",
+        "role": "谓语",
+        "zh": "sound（第三人称单数）: 听起来"
+      },
+      {
+        "id": "ud-2",
+        "text": "good",
+        "role": "宾语补足语",
+        "zh": "好的",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "good",
+            "role": "中心成分",
+            "zh": "好的"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "sounds",
+        "phonetic": "saʊndz",
+        "pos": "VERB",
+        "zh": "sound（第三人称单数）: 听起来",
+        "componentZh": "sound（第三人称单数）: 听起来",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "good",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentZh": "好的",
+        "componentRole": "中心成分",
+        "parentComponentText": "good",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "好的"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

@@ -1,0 +1,1417 @@
+[
+  {
+    "id": "JLB-igopm4y587ipx6sbth6rdr8o-S-vfdlxef5t7ya8oq3mm6t7brq",
+    "contentId": "JLB-igopm4y587ipx6sbth6rdr8o-S-vfdlxef5t7ya8oq3mm6t7brq",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "igopm4y587ipx6sbth6rdr8o",
+    "unitTitle": "Unit 2 October 1st Is Our National Day--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "今天是几号，Lingling？",
+    "audioText": "What is the date today, Lingling?",
+    "fullEnglish": "What is the date today, Lingling?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "表语",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "the date",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；日期"
+      },
+      {
+        "index": 3,
+        "text": "date",
+        "answer": "date",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "日期",
+        "phonetic": "deɪt",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "the date",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；日期"
+      },
+      {
+        "index": 4,
+        "text": "today",
+        "answer": "today",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "时间状语",
+        "zh": "今天",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN"
+      },
+      {
+        "index": 5,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "今天是几号，Lingling？"
+      },
+      {
+        "index": 6,
+        "text": "Lingling",
+        "answer": "Lingling",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "呼语",
+        "zh": "Lingling",
+        "phonetic": "ˈlɪŋlɪŋ",
+        "pos": "PROPN_PERSON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "the date Lingling",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；日期；Lingling"
+      },
+      {
+        "index": 7,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "今天是几号，Lingling？"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "is",
+      "today",
+      "Lingling",
+      "What",
+      "date"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What",
+        "role": "表语",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-3",
+        "text": "the date",
+        "role": "主语",
+        "zh": "定冠词；日期",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-5",
+            "text": "date",
+            "role": "中心词",
+            "zh": "日期"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "today",
+        "role": "时间状语",
+        "zh": "今天"
+      },
+      {
+        "id": "ud-7",
+        "text": "Lingling",
+        "role": "呼语",
+        "zh": "Lingling"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "表语",
+        "componentZh": "什么"
+      },
+      "1": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "2": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the date",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；日期"
+      },
+      "3": {
+        "text": "date",
+        "phonetic": "deɪt",
+        "pos": "NOUN",
+        "zh": "日期",
+        "componentRole": "中心词",
+        "componentZh": "日期",
+        "parentComponentText": "the date",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；日期"
+      },
+      "4": {
+        "text": "today",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN",
+        "zh": "今天",
+        "componentRole": "时间状语",
+        "componentZh": "今天"
+      },
+      "6": {
+        "text": "Lingling",
+        "phonetic": "ˈlɪŋlɪŋ",
+        "pos": "PROPN_PERSON",
+        "zh": "Lingling",
+        "componentRole": "呼语",
+        "componentZh": "Lingling",
+        "parentComponentText": "the date Lingling",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；日期；Lingling"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-igopm4y587ipx6sbth6rdr8o-W-vfdlxef5t7ya8oq3mm6t7brq-1",
+    "contentId": "JLB-igopm4y587ipx6sbth6rdr8o-W-vfdlxef5t7ya8oq3mm6t7brq-1",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "igopm4y587ipx6sbth6rdr8o",
+    "unitTitle": "Unit 2 October 1st Is Our National Day--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么",
+    "audioText": "What",
+    "fullEnglish": "What",
+    "phonetic": "wʌt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "What"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么"
+      }
+    }
+  },
+  {
+    "id": "JLB-igopm4y587ipx6sbth6rdr8o-W-vfdlxef5t7ya8oq3mm6t7brq-2",
+    "contentId": "JLB-igopm4y587ipx6sbth6rdr8o-W-vfdlxef5t7ya8oq3mm6t7brq-2",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "igopm4y587ipx6sbth6rdr8o",
+    "unitTitle": "Unit 2 October 1st Is Our National Day--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "is",
+    "fullEnglish": "is",
+    "phonetic": "ɪz",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "is"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是"
+      }
+    }
+  },
+  {
+    "id": "JLB-igopm4y587ipx6sbth6rdr8o-W-vfdlxef5t7ya8oq3mm6t7brq-3",
+    "contentId": "JLB-igopm4y587ipx6sbth6rdr8o-W-vfdlxef5t7ya8oq3mm6t7brq-3",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "igopm4y587ipx6sbth6rdr8o",
+    "unitTitle": "Unit 2 October 1st Is Our National Day--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "the",
+    "fullEnglish": "the",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "the"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-igopm4y587ipx6sbth6rdr8o-W-vfdlxef5t7ya8oq3mm6t7brq-4",
+    "contentId": "JLB-igopm4y587ipx6sbth6rdr8o-W-vfdlxef5t7ya8oq3mm6t7brq-4",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "igopm4y587ipx6sbth6rdr8o",
+    "unitTitle": "Unit 2 October 1st Is Our National Day--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "日期",
+    "audioText": "date",
+    "fullEnglish": "date",
+    "phonetic": "deɪt",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "date",
+        "answer": "date",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "日期",
+        "phonetic": "deɪt",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "date"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "date",
+        "phonetic": "deɪt",
+        "pos": "NOUN",
+        "zh": "日期",
+        "componentZh": "日期"
+      }
+    }
+  },
+  {
+    "id": "JLB-igopm4y587ipx6sbth6rdr8o-W-vfdlxef5t7ya8oq3mm6t7brq-5",
+    "contentId": "JLB-igopm4y587ipx6sbth6rdr8o-W-vfdlxef5t7ya8oq3mm6t7brq-5",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "igopm4y587ipx6sbth6rdr8o",
+    "unitTitle": "Unit 2 October 1st Is Our National Day--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "今天",
+    "audioText": "today",
+    "fullEnglish": "today",
+    "phonetic": "təˈdeɪ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "today",
+        "answer": "today",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "今天",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "today"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "today",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN",
+        "zh": "今天",
+        "componentZh": "今天"
+      }
+    }
+  },
+  {
+    "id": "JLB-igopm4y587ipx6sbth6rdr8o-W-vfdlxef5t7ya8oq3mm6t7brq-6",
+    "contentId": "JLB-igopm4y587ipx6sbth6rdr8o-W-vfdlxef5t7ya8oq3mm6t7brq-6",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "igopm4y587ipx6sbth6rdr8o",
+    "unitTitle": "Unit 2 October 1st Is Our National Day--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Lingling",
+    "audioText": "Lingling",
+    "fullEnglish": "Lingling",
+    "phonetic": "ˈlɪŋlɪŋ",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Lingling",
+        "answer": "Lingling",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "Lingling",
+        "phonetic": "ˈlɪŋlɪŋ",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Lingling"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Lingling",
+        "phonetic": "ˈlɪŋlɪŋ",
+        "pos": "PROPN_PERSON",
+        "zh": "Lingling",
+        "componentZh": "Lingling"
+      }
+    }
+  },
+  {
+    "id": "JLB-igopm4y587ipx6sbth6rdr8o-S-wla98vzxqweq59zw0ajq0iow",
+    "contentId": "JLB-igopm4y587ipx6sbth6rdr8o-S-wla98vzxqweq59zw0ajq0iow",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "igopm4y587ipx6sbth6rdr8o",
+    "unitTitle": "Unit 2 October 1st Is Our National Day--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "今天是十月十三日。",
+    "audioText": "It's October the thirteenth",
+    "fullEnglish": "It's October the thirteenth",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "October",
+        "answer": "October",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "十月",
+        "phonetic": "ɑːkˈtoʊbər",
+        "pos": "NOUN"
+      },
+      {
+        "index": 2,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "the thirteenth",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "定冠词；第十三"
+      },
+      {
+        "index": 3,
+        "text": "thirteenth",
+        "answer": "thirteenth",
+        "blank": "__________",
+        "letterCount": 10,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "第十三",
+        "phonetic": "ˌθɜːrˈtiːnθ",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "the thirteenth",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "定冠词；第十三"
+      }
+    ],
+    "shuffledBlocks": [
+      "October",
+      "It's",
+      "thirteenth",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "October",
+        "role": "表语",
+        "zh": "十月"
+      },
+      {
+        "id": "ud-3",
+        "text": "the thirteenth",
+        "role": "补充成分",
+        "zh": "定冠词；第十三",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-5",
+            "text": "thirteenth",
+            "role": "中心词",
+            "zh": "第十三"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "October",
+        "phonetic": "ɑːkˈtoʊbər",
+        "pos": "NOUN",
+        "zh": "十月",
+        "componentRole": "表语",
+        "componentZh": "十月"
+      },
+      "2": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the thirteenth",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "定冠词；第十三"
+      },
+      "3": {
+        "text": "thirteenth",
+        "phonetic": "ˌθɜːrˈtiːnθ",
+        "pos": "ADJ",
+        "zh": "第十三",
+        "componentRole": "中心词",
+        "componentZh": "第十三",
+        "parentComponentText": "the thirteenth",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "定冠词；第十三"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-igopm4y587ipx6sbth6rdr8o-W-wla98vzxqweq59zw0ajq0iow-1",
+    "contentId": "JLB-igopm4y587ipx6sbth6rdr8o-W-wla98vzxqweq59zw0ajq0iow-1",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "igopm4y587ipx6sbth6rdr8o",
+    "unitTitle": "Unit 2 October 1st Is Our National Day--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它是",
+    "audioText": "It's",
+    "fullEnglish": "It's",
+    "phonetic": "ɪts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是"
+      }
+    }
+  },
+  {
+    "id": "JLB-igopm4y587ipx6sbth6rdr8o-W-wla98vzxqweq59zw0ajq0iow-2",
+    "contentId": "JLB-igopm4y587ipx6sbth6rdr8o-W-wla98vzxqweq59zw0ajq0iow-2",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "igopm4y587ipx6sbth6rdr8o",
+    "unitTitle": "Unit 2 October 1st Is Our National Day--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "十月",
+    "audioText": "October",
+    "fullEnglish": "October",
+    "phonetic": "ɑːkˈtoʊbər",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "October",
+        "answer": "October",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "十月",
+        "phonetic": "ɑːkˈtoʊbər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "October"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "October",
+        "phonetic": "ɑːkˈtoʊbər",
+        "pos": "NOUN",
+        "zh": "十月",
+        "componentZh": "十月"
+      }
+    }
+  },
+  {
+    "id": "JLB-igopm4y587ipx6sbth6rdr8o-W-wla98vzxqweq59zw0ajq0iow-4",
+    "contentId": "JLB-igopm4y587ipx6sbth6rdr8o-W-wla98vzxqweq59zw0ajq0iow-4",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "igopm4y587ipx6sbth6rdr8o",
+    "unitTitle": "Unit 2 October 1st Is Our National Day--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "第十三",
+    "audioText": "thirteenth",
+    "fullEnglish": "thirteenth",
+    "phonetic": "ˌθɜːrˈtiːnθ",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "thirteenth",
+        "answer": "thirteenth",
+        "blank": "__________",
+        "letterCount": 10,
+        "fillable": true,
+        "type": "word",
+        "zh": "第十三",
+        "phonetic": "ˌθɜːrˈtiːnθ",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "thirteenth"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "thirteenth",
+        "phonetic": "ˌθɜːrˈtiːnθ",
+        "pos": "ADJ",
+        "zh": "第十三",
+        "componentZh": "第十三"
+      }
+    }
+  },
+  {
+    "id": "JLB-igopm4y587ipx6sbth6rdr8o-S-beu4nj1cvq1xxhch9orzkxbc",
+    "contentId": "JLB-igopm4y587ipx6sbth6rdr8o-S-beu4nj1cvq1xxhch9orzkxbc",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "igopm4y587ipx6sbth6rdr8o",
+    "unitTitle": "Unit 2 October 1st Is Our National Day--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "今天是星期几？",
+    "audioText": "What day is today?",
+    "fullEnglish": "What day is today?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "What day",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "什么；节日"
+      },
+      {
+        "index": 1,
+        "text": "day",
+        "answer": "day",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "节日",
+        "phonetic": "deɪ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "What day",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "什么；节日"
+      },
+      {
+        "index": 2,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 3,
+        "text": "today",
+        "answer": "today",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "时间状语",
+        "zh": "今天",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN"
+      },
+      {
+        "index": 4,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "今天是星期几？"
+      }
+    ],
+    "shuffledBlocks": [
+      "day",
+      "is",
+      "today",
+      "What"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What day",
+        "role": "主语",
+        "zh": "什么；节日",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "What",
+            "role": "限定词",
+            "zh": "什么"
+          },
+          {
+            "id": "ud-3",
+            "text": "day",
+            "role": "中心词",
+            "zh": "节日"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "is",
+        "role": "谓语",
+        "zh": "是"
+      },
+      {
+        "id": "ud-5",
+        "text": "today",
+        "role": "时间状语",
+        "zh": "今天"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "限定词",
+        "componentZh": "什么",
+        "parentComponentText": "What day",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "什么；节日"
+      },
+      "1": {
+        "text": "day",
+        "phonetic": "deɪ",
+        "pos": "NOUN",
+        "zh": "节日",
+        "componentRole": "中心词",
+        "componentZh": "节日",
+        "parentComponentText": "What day",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "什么；节日"
+      },
+      "2": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "谓语",
+        "componentZh": "是"
+      },
+      "3": {
+        "text": "today",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN",
+        "zh": "今天",
+        "componentRole": "时间状语",
+        "componentZh": "今天"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-igopm4y587ipx6sbth6rdr8o-W-beu4nj1cvq1xxhch9orzkxbc-2",
+    "contentId": "JLB-igopm4y587ipx6sbth6rdr8o-W-beu4nj1cvq1xxhch9orzkxbc-2",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "igopm4y587ipx6sbth6rdr8o",
+    "unitTitle": "Unit 2 October 1st Is Our National Day--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "日子",
+    "audioText": "day",
+    "fullEnglish": "day",
+    "phonetic": "deɪ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "day",
+        "answer": "day",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "节日",
+        "phonetic": "deɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "day"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "day",
+        "phonetic": "deɪ",
+        "pos": "NOUN",
+        "zh": "节日",
+        "componentZh": "节日"
+      }
+    }
+  },
+  {
+    "id": "JLB-igopm4y587ipx6sbth6rdr8o-S-utv9cocq5v7ei7zt09sq7jfc",
+    "contentId": "JLB-igopm4y587ipx6sbth6rdr8o-S-utv9cocq5v7ei7zt09sq7jfc",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "igopm4y587ipx6sbth6rdr8o",
+    "unitTitle": "Unit 2 October 1st Is Our National Day--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "今天是星期三。",
+    "audioText": "It's Wednesday",
+    "fullEnglish": "It's Wednesday",
+    "sentenceType": "主系表结构（时间表达）",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "Wednesday",
+        "answer": "Wednesday",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语（时间）",
+        "zh": "今天是星期三。"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's",
+      "Wednesday"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "Wednesday",
+        "role": "表语（时间）",
+        "zh": "今天是星期三。"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "Wednesday",
+        "zh": "今天是星期三。",
+        "componentRole": "表语（时间）",
+        "componentZh": "今天是星期三。"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-igopm4y587ipx6sbth6rdr8o-S-damtq6g722fetkgrrqjxa5s5",
+    "contentId": "JLB-igopm4y587ipx6sbth6rdr8o-S-damtq6g722fetkgrrqjxa5s5",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "igopm4y587ipx6sbth6rdr8o",
+    "unitTitle": "Unit 2 October 1st Is Our National Day--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "太棒了！今天是我们的足球日。",
+    "audioText": "Great! It's our football day",
+    "fullEnglish": "Great! It's our football day",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Great",
+        "answer": "Great",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "太棒了",
+        "phonetic": "ɡreɪt",
+        "pos": "ADJ"
+      },
+      {
+        "index": 1,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "太棒了！今天是我们的足球日。"
+      },
+      {
+        "index": 2,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "our",
+        "answer": "our",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "补充成分",
+        "zh": "我们的",
+        "phonetic": "aʊr",
+        "pos": "PRON"
+      },
+      {
+        "index": 4,
+        "text": "football",
+        "answer": "football",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "补充成分",
+        "zh": "足球",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN"
+      },
+      {
+        "index": 5,
+        "text": "day",
+        "answer": "day",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "节日",
+        "phonetic": "deɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Great",
+      "day",
+      "It's",
+      "football",
+      "our"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Great",
+        "role": "中心成分",
+        "zh": "太棒了"
+      },
+      {
+        "id": "ud-2",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-3",
+        "text": "our",
+        "role": "补充成分",
+        "zh": "我们的"
+      },
+      {
+        "id": "ud-4",
+        "text": "football",
+        "role": "补充成分",
+        "zh": "足球"
+      },
+      {
+        "id": "ud-5",
+        "text": "day",
+        "role": "表语",
+        "zh": "节日"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Great",
+        "phonetic": "ɡreɪt",
+        "pos": "ADJ",
+        "zh": "太棒了",
+        "componentRole": "中心成分",
+        "componentZh": "太棒了"
+      },
+      "2": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "3": {
+        "text": "our",
+        "phonetic": "aʊr",
+        "pos": "PRON",
+        "zh": "我们的",
+        "componentRole": "补充成分",
+        "componentZh": "我们的"
+      },
+      "4": {
+        "text": "football",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN",
+        "zh": "足球",
+        "componentRole": "补充成分",
+        "componentZh": "足球"
+      },
+      "5": {
+        "text": "day",
+        "phonetic": "deɪ",
+        "pos": "NOUN",
+        "zh": "节日",
+        "componentRole": "表语",
+        "componentZh": "节日"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-igopm4y587ipx6sbth6rdr8o-W-damtq6g722fetkgrrqjxa5s5-1",
+    "contentId": "JLB-igopm4y587ipx6sbth6rdr8o-W-damtq6g722fetkgrrqjxa5s5-1",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "igopm4y587ipx6sbth6rdr8o",
+    "unitTitle": "Unit 2 October 1st Is Our National Day--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "太棒了",
+    "audioText": "Great",
+    "fullEnglish": "Great",
+    "phonetic": "ɡreɪt",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Great",
+        "answer": "Great",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "太棒了",
+        "phonetic": "ɡreɪt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Great"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Great",
+        "phonetic": "ɡreɪt",
+        "pos": "ADJ",
+        "zh": "太棒了",
+        "componentZh": "太棒了"
+      }
+    }
+  },
+  {
+    "id": "JLB-igopm4y587ipx6sbth6rdr8o-W-damtq6g722fetkgrrqjxa5s5-3",
+    "contentId": "JLB-igopm4y587ipx6sbth6rdr8o-W-damtq6g722fetkgrrqjxa5s5-3",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "igopm4y587ipx6sbth6rdr8o",
+    "unitTitle": "Unit 2 October 1st Is Our National Day--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们的",
+    "audioText": "our",
+    "fullEnglish": "our",
+    "phonetic": "aʊr",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "our",
+        "answer": "our",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "我们的",
+        "phonetic": "aʊr",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "our"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "our",
+        "phonetic": "aʊr",
+        "pos": "PRON",
+        "zh": "我们的",
+        "componentZh": "我们的"
+      }
+    }
+  },
+  {
+    "id": "JLB-igopm4y587ipx6sbth6rdr8o-W-damtq6g722fetkgrrqjxa5s5-4",
+    "contentId": "JLB-igopm4y587ipx6sbth6rdr8o-W-damtq6g722fetkgrrqjxa5s5-4",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "igopm4y587ipx6sbth6rdr8o",
+    "unitTitle": "Unit 2 October 1st Is Our National Day--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "足球",
+    "audioText": "football",
+    "fullEnglish": "football",
+    "phonetic": "ˈfʊtbɔːl",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "football",
+        "answer": "football",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "足球",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "football"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "football",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN",
+        "zh": "足球",
+        "componentZh": "足球"
+      }
+    }
+  }
+]

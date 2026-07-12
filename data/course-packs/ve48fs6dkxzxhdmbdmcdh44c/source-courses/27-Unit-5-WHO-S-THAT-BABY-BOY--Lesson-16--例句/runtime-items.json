@@ -1,0 +1,6003 @@
+[
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-S-rjoq9zpoia5qegihz41n8bvq",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-S-rjoq9zpoia5qegihz41n8bvq",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "看，这里还有一张照片。",
+    "audioText": "Look, here is another photo",
+    "fullEnglish": "Look, here is another photo",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Look",
+        "answer": "Look",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "看",
+        "phonetic": "lʊk",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "看，这里还有一张照片。"
+      },
+      {
+        "index": 2,
+        "text": "here",
+        "answer": "here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV"
+      },
+      {
+        "index": 3,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 4,
+        "text": "another",
+        "answer": "another",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "另一个",
+        "phonetic": "əˈnʌðər",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "another photo",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "另一个；照片"
+      },
+      {
+        "index": 5,
+        "text": "photo",
+        "answer": "photo",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "照片",
+        "phonetic": "ˈfoʊtoʊ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "another photo",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "另一个；照片"
+      }
+    ],
+    "shuffledBlocks": [
+      "here",
+      "another",
+      "is",
+      "Look",
+      "photo"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Look",
+        "role": "语气/引导语",
+        "zh": "看"
+      },
+      {
+        "id": "ud-2",
+        "text": "here",
+        "role": "表语",
+        "zh": "这里"
+      },
+      {
+        "id": "ud-3",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-4",
+        "text": "another photo",
+        "role": "主语",
+        "zh": "另一个；照片",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "another",
+            "role": "限定词",
+            "zh": "另一个"
+          },
+          {
+            "id": "ud-6",
+            "text": "photo",
+            "role": "中心词",
+            "zh": "照片"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Look",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "zh": "看",
+        "componentRole": "语气/引导语",
+        "componentZh": "看"
+      },
+      "2": {
+        "text": "here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentRole": "表语",
+        "componentZh": "这里"
+      },
+      "3": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "4": {
+        "text": "another",
+        "phonetic": "əˈnʌðər",
+        "pos": "DET",
+        "zh": "另一个",
+        "componentRole": "限定词",
+        "componentZh": "另一个",
+        "parentComponentText": "another photo",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "另一个；照片"
+      },
+      "5": {
+        "text": "photo",
+        "phonetic": "ˈfoʊtoʊ",
+        "pos": "NOUN",
+        "zh": "照片",
+        "componentRole": "中心词",
+        "componentZh": "照片",
+        "parentComponentText": "another photo",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "另一个；照片"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-rjoq9zpoia5qegihz41n8bvq-1",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-rjoq9zpoia5qegihz41n8bvq-1",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "看",
+    "audioText": "Look",
+    "fullEnglish": "Look",
+    "phonetic": "lʊk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Look",
+        "answer": "Look",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "看",
+        "phonetic": "lʊk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Look"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Look",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "zh": "看",
+        "componentZh": "看"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-rjoq9zpoia5qegihz41n8bvq-2",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-rjoq9zpoia5qegihz41n8bvq-2",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这里",
+    "audioText": "here",
+    "fullEnglish": "here",
+    "phonetic": "hɪr",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "here",
+        "answer": "here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "here"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentZh": "这里"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-rjoq9zpoia5qegihz41n8bvq-3",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-rjoq9zpoia5qegihz41n8bvq-3",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "is",
+    "fullEnglish": "is",
+    "phonetic": "ɪz",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "is"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-rjoq9zpoia5qegihz41n8bvq-4",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-rjoq9zpoia5qegihz41n8bvq-4",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "另一个",
+    "audioText": "another",
+    "fullEnglish": "another",
+    "phonetic": "əˈnʌðər",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "another",
+        "answer": "another",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "另一个",
+        "phonetic": "əˈnʌðər",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "another"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "another",
+        "phonetic": "əˈnʌðər",
+        "pos": "DET",
+        "zh": "另一个",
+        "componentZh": "另一个"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-rjoq9zpoia5qegihz41n8bvq-5",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-rjoq9zpoia5qegihz41n8bvq-5",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "照片",
+    "audioText": "photo",
+    "fullEnglish": "photo",
+    "phonetic": "ˈfoʊtoʊ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "photo",
+        "answer": "photo",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "照片",
+        "phonetic": "ˈfoʊtoʊ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "photo"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "photo",
+        "phonetic": "ˈfoʊtoʊ",
+        "pos": "NOUN",
+        "zh": "照片",
+        "componentZh": "照片"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-S-mcass7mq8bc5ti7i9lgu4j8j",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-S-mcass7mq8bc5ti7i9lgu4j8j",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这个女孩是Sally，我的侄女。",
+    "audioText": "The girl is Sally, my niece",
+    "fullEnglish": "The girl is Sally, my niece",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "The",
+        "answer": "The",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "The girl",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；女孩"
+      },
+      {
+        "index": 1,
+        "text": "girl",
+        "answer": "girl",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "女孩",
+        "phonetic": "ɡɝːl",
+        "pos": "NOUN",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "The girl",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；女孩"
+      },
+      {
+        "index": 2,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 3,
+        "text": "Sally",
+        "answer": "Sally",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "Sally",
+        "phonetic": "ˈsæli",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 4,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "这个女孩是Sally，我的侄女。"
+      },
+      {
+        "index": 5,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "限定词",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "my niece",
+        "parentComponentRole": "同位语",
+        "parentComponentZh": "我的；侄女"
+      },
+      {
+        "index": 6,
+        "text": "niece",
+        "answer": "niece",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "侄女",
+        "phonetic": "niːs",
+        "pos": "NOUN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "my niece",
+        "parentComponentRole": "同位语",
+        "parentComponentZh": "我的；侄女"
+      }
+    ],
+    "shuffledBlocks": [
+      "girl",
+      "is",
+      "Sally",
+      "my",
+      "niece",
+      "The"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "The girl",
+        "role": "主语",
+        "zh": "定冠词；女孩",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "The",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-3",
+            "text": "girl",
+            "role": "中心词",
+            "zh": "女孩"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-5",
+        "text": "Sally",
+        "role": "表语",
+        "zh": "Sally"
+      },
+      {
+        "id": "ud-6",
+        "text": "my niece",
+        "role": "同位语",
+        "zh": "我的；侄女",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "my",
+            "role": "限定词",
+            "zh": "我的"
+          },
+          {
+            "id": "ud-8",
+            "text": "niece",
+            "role": "中心词",
+            "zh": "侄女"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "The",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "The girl",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；女孩"
+      },
+      "1": {
+        "text": "girl",
+        "phonetic": "ɡɝːl",
+        "pos": "NOUN",
+        "zh": "女孩",
+        "componentRole": "中心词",
+        "componentZh": "女孩",
+        "parentComponentText": "The girl",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；女孩"
+      },
+      "2": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "3": {
+        "text": "Sally",
+        "phonetic": "ˈsæli",
+        "pos": "PROPN_PERSON",
+        "zh": "Sally",
+        "componentRole": "表语",
+        "componentZh": "Sally"
+      },
+      "5": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "限定词",
+        "componentZh": "我的",
+        "parentComponentText": "my niece",
+        "parentComponentRole": "同位语",
+        "parentComponentZh": "我的；侄女"
+      },
+      "6": {
+        "text": "niece",
+        "phonetic": "niːs",
+        "pos": "NOUN",
+        "zh": "侄女",
+        "componentRole": "中心词",
+        "componentZh": "侄女",
+        "parentComponentText": "my niece",
+        "parentComponentRole": "同位语",
+        "parentComponentZh": "我的；侄女"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-mcass7mq8bc5ti7i9lgu4j8j-1",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-mcass7mq8bc5ti7i9lgu4j8j-1",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "The",
+    "fullEnglish": "The",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "The",
+        "answer": "The",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "The"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "The",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-mcass7mq8bc5ti7i9lgu4j8j-2",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-mcass7mq8bc5ti7i9lgu4j8j-2",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "女孩",
+    "audioText": "girl",
+    "fullEnglish": "girl",
+    "phonetic": "ɡɝːl",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "girl",
+        "answer": "girl",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "女孩",
+        "phonetic": "ɡɝːl",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "girl"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "girl",
+        "phonetic": "ɡɝːl",
+        "pos": "NOUN",
+        "zh": "女孩",
+        "componentZh": "女孩"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-mcass7mq8bc5ti7i9lgu4j8j-4",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-mcass7mq8bc5ti7i9lgu4j8j-4",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Sally",
+    "audioText": "Sally",
+    "fullEnglish": "Sally",
+    "phonetic": "ˈsæli",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Sally",
+        "answer": "Sally",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "Sally",
+        "phonetic": "ˈsæli",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Sally"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Sally",
+        "phonetic": "ˈsæli",
+        "pos": "PROPN_PERSON",
+        "zh": "Sally",
+        "componentZh": "Sally"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-mcass7mq8bc5ti7i9lgu4j8j-5",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-mcass7mq8bc5ti7i9lgu4j8j-5",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的",
+    "audioText": "my",
+    "fullEnglish": "my",
+    "phonetic": "maɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "my"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-mcass7mq8bc5ti7i9lgu4j8j-6",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-mcass7mq8bc5ti7i9lgu4j8j-6",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "侄女",
+    "audioText": "niece",
+    "fullEnglish": "niece",
+    "phonetic": "niːs",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "niece",
+        "answer": "niece",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "侄女",
+        "phonetic": "niːs",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "niece"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "niece",
+        "phonetic": "niːs",
+        "pos": "NOUN",
+        "zh": "侄女",
+        "componentZh": "侄女"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-S-c4e90pzghnfn0jsql2i4z29k",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-S-c4e90pzghnfn0jsql2i4z29k",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那个小男孩是谁？",
+    "audioText": "Who's that baby boy?",
+    "fullEnglish": "Who's that baby boy?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Who's",
+        "answer": "Who's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "谁的",
+        "phonetic": "huz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "补充成分",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET"
+      },
+      {
+        "index": 2,
+        "text": "baby",
+        "answer": "baby",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "补充成分",
+        "zh": "婴儿",
+        "phonetic": "ˈbeɪbi",
+        "pos": "NOUN"
+      },
+      {
+        "index": 3,
+        "text": "boy",
+        "answer": "boy",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "表语",
+        "zh": "男孩",
+        "phonetic": "bɔɪ",
+        "pos": "NOUN"
+      },
+      {
+        "index": 4,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "那个小男孩是谁？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Who's",
+      "baby",
+      "that",
+      "boy"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Who's",
+        "role": "主语 + 系动词",
+        "zh": "谁的"
+      },
+      {
+        "id": "ud-2",
+        "text": "that",
+        "role": "补充成分",
+        "zh": "那个"
+      },
+      {
+        "id": "ud-3",
+        "text": "baby",
+        "role": "补充成分",
+        "zh": "婴儿"
+      },
+      {
+        "id": "ud-4",
+        "text": "boy",
+        "role": "表语",
+        "zh": "男孩"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Who's",
+        "phonetic": "huz",
+        "pos": "PRON",
+        "zh": "谁的",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "谁的"
+      },
+      "1": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentRole": "补充成分",
+        "componentZh": "那个"
+      },
+      "2": {
+        "text": "baby",
+        "phonetic": "ˈbeɪbi",
+        "pos": "NOUN",
+        "zh": "婴儿",
+        "componentRole": "补充成分",
+        "componentZh": "婴儿"
+      },
+      "3": {
+        "text": "boy",
+        "phonetic": "bɔɪ",
+        "pos": "NOUN",
+        "zh": "男孩",
+        "componentRole": "表语",
+        "componentZh": "男孩"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-c4e90pzghnfn0jsql2i4z29k-1",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-c4e90pzghnfn0jsql2i4z29k-1",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "谁的（所有格形式）",
+    "audioText": "Who's",
+    "fullEnglish": "Who's",
+    "phonetic": "huz",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Who's",
+        "answer": "Who's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "谁的",
+        "phonetic": "huz",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Who's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Who's",
+        "phonetic": "huz",
+        "pos": "PRON",
+        "zh": "谁的",
+        "componentZh": "谁的"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-c4e90pzghnfn0jsql2i4z29k-2",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-c4e90pzghnfn0jsql2i4z29k-2",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那个",
+    "audioText": "that",
+    "fullEnglish": "that",
+    "phonetic": "ðæt",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "that"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentZh": "那个"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-c4e90pzghnfn0jsql2i4z29k-3",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-c4e90pzghnfn0jsql2i4z29k-3",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "婴儿",
+    "audioText": "baby",
+    "fullEnglish": "baby",
+    "phonetic": "ˈbeɪbi",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "baby",
+        "answer": "baby",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "婴儿",
+        "phonetic": "ˈbeɪbi",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "baby"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "baby",
+        "phonetic": "ˈbeɪbi",
+        "pos": "NOUN",
+        "zh": "婴儿",
+        "componentZh": "婴儿"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-c4e90pzghnfn0jsql2i4z29k-4",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-c4e90pzghnfn0jsql2i4z29k-4",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "男孩",
+    "audioText": "boy",
+    "fullEnglish": "boy",
+    "phonetic": "bɔɪ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "boy",
+        "answer": "boy",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "男孩",
+        "phonetic": "bɔɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "boy"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "boy",
+        "phonetic": "bɔɪ",
+        "pos": "NOUN",
+        "zh": "男孩",
+        "componentZh": "男孩"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-S-o7op3x56gqnpv3b3qbc7vrak",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-S-o7op3x56gqnpv3b3qbc7vrak",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他是Jack，我的侄子。",
+    "audioText": "He's Jack, my nephew",
+    "fullEnglish": "He's Jack, my nephew",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "Jack",
+        "answer": "Jack",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "Jack",
+        "phonetic": "dʒæk",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 2,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "他是Jack，我的侄子。"
+      },
+      {
+        "index": 3,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "my nephew",
+        "parentComponentRole": "同位语",
+        "parentComponentZh": "我的；侄子"
+      },
+      {
+        "index": 4,
+        "text": "nephew",
+        "answer": "nephew",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "侄子",
+        "phonetic": "ˈnefjuː",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "my nephew",
+        "parentComponentRole": "同位语",
+        "parentComponentZh": "我的；侄子"
+      }
+    ],
+    "shuffledBlocks": [
+      "Jack",
+      "nephew",
+      "He's",
+      "my"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-2",
+        "text": "Jack",
+        "role": "表语",
+        "zh": "Jack"
+      },
+      {
+        "id": "ud-3",
+        "text": "my nephew",
+        "role": "同位语",
+        "zh": "我的；侄子",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "my",
+            "role": "限定词",
+            "zh": "我的"
+          },
+          {
+            "id": "ud-5",
+            "text": "nephew",
+            "role": "中心词",
+            "zh": "侄子"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "他是"
+      },
+      "1": {
+        "text": "Jack",
+        "phonetic": "dʒæk",
+        "pos": "PROPN_PERSON",
+        "zh": "Jack",
+        "componentRole": "表语",
+        "componentZh": "Jack"
+      },
+      "3": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "限定词",
+        "componentZh": "我的",
+        "parentComponentText": "my nephew",
+        "parentComponentRole": "同位语",
+        "parentComponentZh": "我的；侄子"
+      },
+      "4": {
+        "text": "nephew",
+        "phonetic": "ˈnefjuː",
+        "pos": "NOUN",
+        "zh": "侄子",
+        "componentRole": "中心词",
+        "componentZh": "侄子",
+        "parentComponentText": "my nephew",
+        "parentComponentRole": "同位语",
+        "parentComponentZh": "我的；侄子"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-o7op3x56gqnpv3b3qbc7vrak-1",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-o7op3x56gqnpv3b3qbc7vrak-1",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他是",
+    "audioText": "He's",
+    "fullEnglish": "He's",
+    "phonetic": "hiːz",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "He's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentZh": "他是"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-o7op3x56gqnpv3b3qbc7vrak-2",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-o7op3x56gqnpv3b3qbc7vrak-2",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Jack",
+    "audioText": "Jack",
+    "fullEnglish": "Jack",
+    "phonetic": "dʒæk",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Jack",
+        "answer": "Jack",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "Jack",
+        "phonetic": "dʒæk",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Jack"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Jack",
+        "phonetic": "dʒæk",
+        "pos": "PROPN_PERSON",
+        "zh": "Jack",
+        "componentZh": "Jack"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-o7op3x56gqnpv3b3qbc7vrak-4",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-o7op3x56gqnpv3b3qbc7vrak-4",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "侄子",
+    "audioText": "nephew",
+    "fullEnglish": "nephew",
+    "phonetic": "ˈnefjuː",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "nephew",
+        "answer": "nephew",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "侄子",
+        "phonetic": "ˈnefjuː",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "nephew"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "nephew",
+        "phonetic": "ˈnefjuː",
+        "pos": "NOUN",
+        "zh": "侄子",
+        "componentZh": "侄子"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-S-myhxfd0w6kiptnn13ak9vw8p",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-S-myhxfd0w6kiptnn13ak9vw8p",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他真可爱！",
+    "audioText": "He's cute!",
+    "fullEnglish": "He's cute!",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "cute",
+        "answer": "cute",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "可爱的",
+        "phonetic": "kjuːt",
+        "pos": "ADJ"
+      },
+      {
+        "index": 2,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "他真可爱！"
+      }
+    ],
+    "shuffledBlocks": [
+      "He's",
+      "cute"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-2",
+        "text": "cute",
+        "role": "表语",
+        "zh": "可爱的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "他是"
+      },
+      "1": {
+        "text": "cute",
+        "phonetic": "kjuːt",
+        "pos": "ADJ",
+        "zh": "可爱的",
+        "componentRole": "表语",
+        "componentZh": "可爱的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-myhxfd0w6kiptnn13ak9vw8p-2",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-myhxfd0w6kiptnn13ak9vw8p-2",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "可爱的",
+    "audioText": "cute",
+    "fullEnglish": "cute",
+    "phonetic": "kjuːt",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "cute",
+        "answer": "cute",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "可爱的",
+        "phonetic": "kjuːt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "cute"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "cute",
+        "phonetic": "kjuːt",
+        "pos": "ADJ",
+        "zh": "可爱的",
+        "componentZh": "可爱的"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-S-vs646f5jcstpax579si8pxsv",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-S-vs646f5jcstpax579si8pxsv",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的。我们同年出生。",
+    "audioText": "Yes. We were born in the same year",
+    "fullEnglish": "Yes. We were born in the same year",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的。我们同年出生。"
+      },
+      {
+        "index": 2,
+        "text": "We",
+        "answer": "We",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语（动作承受者）",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "were",
+        "answer": "were",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "被动语态助动词",
+        "zh": "be（过去式）: 构成过去进行时",
+        "phonetic": "wɜːr; wər",
+        "pos": "AUX"
+      },
+      {
+        "index": 4,
+        "text": "born",
+        "answer": "born",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "bear（过去分词）: 出生",
+        "phonetic": "bɔːrn",
+        "pos": "VERB"
+      },
+      {
+        "index": 5,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "介词",
+        "zh": "在",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "in the same year",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "在；定冠词；相同的；年"
+      },
+      {
+        "index": 6,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "the same year",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；相同的；年"
+      },
+      {
+        "index": 7,
+        "text": "same",
+        "answer": "same",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "定语（形容词）",
+        "zh": "相同的",
+        "phonetic": "seɪm",
+        "pos": "ADJ",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "the same year",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；相同的；年"
+      },
+      {
+        "index": 8,
+        "text": "year",
+        "answer": "year",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "中心词",
+        "zh": "年",
+        "phonetic": "jɪr",
+        "pos": "NOUN",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "the same year",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；相同的；年"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes",
+      "born",
+      "same",
+      "year",
+      "in",
+      "the",
+      "were",
+      "We"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yes",
+        "role": "中心成分",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "We",
+        "role": "主语（动作承受者）",
+        "zh": "我们"
+      },
+      {
+        "id": "ud-3",
+        "text": "were",
+        "role": "被动语态助动词",
+        "zh": "be（过去式）: 构成过去进行时"
+      },
+      {
+        "id": "ud-4",
+        "text": "born",
+        "role": "谓语",
+        "zh": "bear（过去分词）: 出生"
+      },
+      {
+        "id": "ud-5",
+        "text": "in the same year",
+        "role": "时间状语",
+        "zh": "在；定冠词；相同的；年",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "in",
+            "role": "介词",
+            "zh": "在"
+          },
+          {
+            "id": "ud-7",
+            "text": "the same year",
+            "role": "介词宾语",
+            "zh": "定冠词；相同的；年",
+            "children": [
+              {
+                "id": "ud-8",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-9",
+                "text": "same",
+                "role": "定语（形容词）",
+                "zh": "相同的"
+              },
+              {
+                "id": "ud-10",
+                "text": "year",
+                "role": "中心词",
+                "zh": "年"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentRole": "中心成分",
+        "componentZh": "是的"
+      },
+      "2": {
+        "text": "We",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentRole": "主语（动作承受者）",
+        "componentZh": "我们"
+      },
+      "3": {
+        "text": "were",
+        "phonetic": "wɜːr; wər",
+        "pos": "AUX",
+        "zh": "be（过去式）: 构成过去进行时",
+        "componentRole": "被动语态助动词",
+        "componentZh": "be（过去式）: 构成过去进行时"
+      },
+      "4": {
+        "text": "born",
+        "phonetic": "bɔːrn",
+        "pos": "VERB",
+        "zh": "bear（过去分词）: 出生",
+        "componentRole": "谓语",
+        "componentZh": "bear（过去分词）: 出生"
+      },
+      "5": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在",
+        "componentRole": "介词",
+        "componentZh": "在",
+        "parentComponentText": "in the same year",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "在；定冠词；相同的；年"
+      },
+      "6": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the same year",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；相同的；年"
+      },
+      "7": {
+        "text": "same",
+        "phonetic": "seɪm",
+        "pos": "ADJ",
+        "zh": "相同的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "相同的",
+        "parentComponentText": "the same year",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；相同的；年"
+      },
+      "8": {
+        "text": "year",
+        "phonetic": "jɪr",
+        "pos": "NOUN",
+        "zh": "年",
+        "componentRole": "中心词",
+        "componentZh": "年",
+        "parentComponentText": "the same year",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；相同的；年"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-vs646f5jcstpax579si8pxsv-1",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-vs646f5jcstpax579si8pxsv-1",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的",
+    "audioText": "Yes",
+    "fullEnglish": "Yes",
+    "phonetic": "jes",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-vs646f5jcstpax579si8pxsv-2",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-vs646f5jcstpax579si8pxsv-2",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们",
+    "audioText": "We",
+    "fullEnglish": "We",
+    "phonetic": "wiː; wi",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "We",
+        "answer": "We",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "We"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "We",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentZh": "我们"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-vs646f5jcstpax579si8pxsv-3",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-vs646f5jcstpax579si8pxsv-3",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "be（过去式）: 构成过去进行时",
+    "audioText": "were",
+    "fullEnglish": "were",
+    "phonetic": "wɜːr; wər",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "were",
+        "answer": "were",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "be（过去式）: 构成过去进行时",
+        "phonetic": "wɜːr; wər",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "were"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "were",
+        "phonetic": "wɜːr; wər",
+        "pos": "AUX",
+        "zh": "be（过去式）: 构成过去进行时",
+        "componentZh": "be（过去式）: 构成过去进行时"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-vs646f5jcstpax579si8pxsv-4",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-vs646f5jcstpax579si8pxsv-4",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "bear（过去分词）: 出生",
+    "audioText": "born",
+    "fullEnglish": "born",
+    "phonetic": "bɔːrn",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "born",
+        "answer": "born",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "bear（过去分词）: 出生",
+        "phonetic": "bɔːrn",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "born"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "born",
+        "phonetic": "bɔːrn",
+        "pos": "VERB",
+        "zh": "bear（过去分词）: 出生",
+        "componentZh": "bear（过去分词）: 出生"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-vs646f5jcstpax579si8pxsv-5",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-vs646f5jcstpax579si8pxsv-5",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在...里",
+    "audioText": "in",
+    "fullEnglish": "in",
+    "phonetic": "ɪn",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在",
+        "phonetic": "ɪn",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "in"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在",
+        "componentZh": "在"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-vs646f5jcstpax579si8pxsv-7",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-vs646f5jcstpax579si8pxsv-7",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "相同的",
+    "audioText": "same",
+    "fullEnglish": "same",
+    "phonetic": "seɪm",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "same",
+        "answer": "same",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "相同的",
+        "phonetic": "seɪm",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "same"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "same",
+        "phonetic": "seɪm",
+        "pos": "ADJ",
+        "zh": "相同的",
+        "componentZh": "相同的"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-vs646f5jcstpax579si8pxsv-8",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-vs646f5jcstpax579si8pxsv-8",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "年",
+    "audioText": "year",
+    "fullEnglish": "year",
+    "phonetic": "jɪr",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "year",
+        "answer": "year",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "年",
+        "phonetic": "jɪr",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "year"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "year",
+        "phonetic": "jɪr",
+        "pos": "NOUN",
+        "zh": "年",
+        "componentZh": "年"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-S-swc3ax0isoc7mzlrdls1hxk9",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-S-swc3ax0isoc7mzlrdls1hxk9",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Meimei是你的表妹吗？",
+    "audioText": "Is Meimei your cousin?",
+    "fullEnglish": "Is Meimei your cousin?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Is",
+        "answer": "Is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "Meimei",
+        "answer": "Meimei",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "Meimei",
+        "phonetic": "ˈmeɪˌmeɪ",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 2,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "补充成分",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "cousin",
+        "answer": "cousin",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "表语",
+        "zh": "表亲",
+        "phonetic": "ˈkʌz(ə)n",
+        "pos": "NOUN"
+      },
+      {
+        "index": 4,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Meimei是你的表妹吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "your",
+      "cousin",
+      "Is",
+      "Meimei"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-2",
+        "text": "Meimei",
+        "role": "主语",
+        "zh": "Meimei"
+      },
+      {
+        "id": "ud-3",
+        "text": "your",
+        "role": "补充成分",
+        "zh": "你的"
+      },
+      {
+        "id": "ud-4",
+        "text": "cousin",
+        "role": "表语",
+        "zh": "表亲"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "1": {
+        "text": "Meimei",
+        "phonetic": "ˈmeɪˌmeɪ",
+        "pos": "PROPN_PERSON",
+        "zh": "Meimei",
+        "componentRole": "主语",
+        "componentZh": "Meimei"
+      },
+      "2": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentRole": "补充成分",
+        "componentZh": "你的"
+      },
+      "3": {
+        "text": "cousin",
+        "phonetic": "ˈkʌz(ə)n",
+        "pos": "NOUN",
+        "zh": "表亲",
+        "componentRole": "表语",
+        "componentZh": "表亲"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-swc3ax0isoc7mzlrdls1hxk9-2",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-swc3ax0isoc7mzlrdls1hxk9-2",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Meimei",
+    "audioText": "Meimei",
+    "fullEnglish": "Meimei",
+    "phonetic": "ˈmeɪˌmeɪ",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Meimei",
+        "answer": "Meimei",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "Meimei",
+        "phonetic": "ˈmeɪˌmeɪ",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Meimei"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Meimei",
+        "phonetic": "ˈmeɪˌmeɪ",
+        "pos": "PROPN_PERSON",
+        "zh": "Meimei",
+        "componentZh": "Meimei"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-swc3ax0isoc7mzlrdls1hxk9-3",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-swc3ax0isoc7mzlrdls1hxk9-3",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你的",
+    "audioText": "your",
+    "fullEnglish": "your",
+    "phonetic": "jʊr; jər",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "your"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentZh": "你的"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-swc3ax0isoc7mzlrdls1hxk9-4",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-swc3ax0isoc7mzlrdls1hxk9-4",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "表亲",
+    "audioText": "cousin",
+    "fullEnglish": "cousin",
+    "phonetic": "ˈkʌz(ə)n",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "cousin",
+        "answer": "cousin",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "表亲",
+        "phonetic": "ˈkʌz(ə)n",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "cousin"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "cousin",
+        "phonetic": "ˈkʌz(ə)n",
+        "pos": "NOUN",
+        "zh": "表亲",
+        "componentZh": "表亲"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-S-a3q7b2j1hkpm7ivko2k6srvh",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-S-a3q7b2j1hkpm7ivko2k6srvh",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你有大表哥吗？",
+    "audioText": "Do you have big cousins?",
+    "fullEnglish": "Do you have big cousins?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Do",
+        "answer": "Do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "big",
+        "answer": "big",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "定语（形容词）",
+        "zh": "大的",
+        "phonetic": "bɪɡ",
+        "pos": "ADJ",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "big cousins",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "大的；表兄弟姐妹（复数）"
+      },
+      {
+        "index": 4,
+        "text": "cousins",
+        "answer": "cousins",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "表兄弟姐妹（复数）",
+        "phonetic": "ˈkʌznz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "big cousins",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "大的；表兄弟姐妹（复数）"
+      },
+      {
+        "index": 5,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你有大表哥吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "have",
+      "cousins",
+      "you",
+      "Do",
+      "big"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Do",
+        "role": "助动词",
+        "zh": "做"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-4",
+        "text": "big cousins",
+        "role": "宾语",
+        "zh": "大的；表兄弟姐妹（复数）",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "big",
+            "role": "定语（形容词）",
+            "zh": "大的"
+          },
+          {
+            "id": "ud-6",
+            "text": "cousins",
+            "role": "中心词",
+            "zh": "表兄弟姐妹（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentRole": "助动词",
+        "componentZh": "做"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "2": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有"
+      },
+      "3": {
+        "text": "big",
+        "phonetic": "bɪɡ",
+        "pos": "ADJ",
+        "zh": "大的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "大的",
+        "parentComponentText": "big cousins",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "大的；表兄弟姐妹（复数）"
+      },
+      "4": {
+        "text": "cousins",
+        "phonetic": "ˈkʌznz",
+        "pos": "NOUN",
+        "zh": "表兄弟姐妹（复数）",
+        "componentRole": "中心词",
+        "componentZh": "表兄弟姐妹（复数）",
+        "parentComponentText": "big cousins",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "大的；表兄弟姐妹（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-a3q7b2j1hkpm7ivko2k6srvh-1",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-a3q7b2j1hkpm7ivko2k6srvh-1",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "助动词（构成疑问句）",
+    "audioText": "Do",
+    "fullEnglish": "Do",
+    "phonetic": "duː; də",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Do",
+        "answer": "Do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Do"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-a3q7b2j1hkpm7ivko2k6srvh-2",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-a3q7b2j1hkpm7ivko2k6srvh-2",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-a3q7b2j1hkpm7ivko2k6srvh-3",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-a3q7b2j1hkpm7ivko2k6srvh-3",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "有",
+    "audioText": "have",
+    "fullEnglish": "have",
+    "phonetic": "hæv",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "have"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-a3q7b2j1hkpm7ivko2k6srvh-4",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-a3q7b2j1hkpm7ivko2k6srvh-4",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "大的",
+    "audioText": "big",
+    "fullEnglish": "big",
+    "phonetic": "bɪɡ",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "big",
+        "answer": "big",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "大的",
+        "phonetic": "bɪɡ",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "big"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "big",
+        "phonetic": "bɪɡ",
+        "pos": "ADJ",
+        "zh": "大的",
+        "componentZh": "大的"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-a3q7b2j1hkpm7ivko2k6srvh-5",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-a3q7b2j1hkpm7ivko2k6srvh-5",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "表兄弟姐妹（复数）",
+    "audioText": "cousins",
+    "fullEnglish": "cousins",
+    "phonetic": "ˈkʌznz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "cousins",
+        "answer": "cousins",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "表兄弟姐妹（复数）",
+        "phonetic": "ˈkʌznz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "cousins"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "cousins",
+        "phonetic": "ˈkʌznz",
+        "pos": "NOUN",
+        "zh": "表兄弟姐妹（复数）",
+        "componentZh": "表兄弟姐妹（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-S-zqz9ntdnotrqwy8rx9uqjs44",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-S-zqz9ntdnotrqwy8rx9uqjs44",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的，确实。我姑姑的女儿很快就要生孩子了。",
+    "audioText": "Yes, I do. My aunt's daughter will have a baby soon",
+    "fullEnglish": "Yes, I do. My aunt's daughter will have a baby soon",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，确实。我姑姑的女儿很快就要生孩子了。"
+      },
+      {
+        "index": 2,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，确实。我姑姑的女儿很快就要生孩子了。"
+      },
+      {
+        "index": 5,
+        "text": "My",
+        "answer": "My",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "My aunt's daughter",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；阿姨的；女儿"
+      },
+      {
+        "index": 6,
+        "text": "aunt's",
+        "answer": "aunt's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "zh": "阿姨的",
+        "phonetic": "ænts",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "My aunt's daughter",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；阿姨的；女儿"
+      },
+      {
+        "index": 7,
+        "text": "daughter",
+        "answer": "daughter",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "女儿",
+        "phonetic": "ˈdɔːtər",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "My aunt's daughter",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；阿姨的；女儿"
+      },
+      {
+        "index": 8,
+        "text": "will",
+        "answer": "will",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "助动词",
+        "zh": "将",
+        "phonetic": "wɪl",
+        "pos": "AUX"
+      },
+      {
+        "index": 9,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      },
+      {
+        "index": 10,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-10",
+        "parentComponentText": "a baby",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；婴儿"
+      },
+      {
+        "index": 11,
+        "text": "baby",
+        "answer": "baby",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-12",
+        "role": "中心词",
+        "zh": "婴儿",
+        "phonetic": "ˈbeɪbi",
+        "pos": "NOUN",
+        "parentComponentId": "ud-10",
+        "parentComponentText": "a baby",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；婴儿"
+      },
+      {
+        "index": 12,
+        "text": "soon",
+        "answer": "soon",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-13",
+        "role": "方式/程度状语",
+        "zh": "很快",
+        "phonetic": "sun",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "will",
+      "a",
+      "daughter",
+      "My",
+      "do",
+      "soon",
+      "Yes",
+      "baby",
+      "aunt's",
+      "have",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yes",
+        "role": "语气/引导语",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "do",
+        "role": "谓语",
+        "zh": "做"
+      },
+      {
+        "id": "ud-4",
+        "text": "My aunt's daughter",
+        "role": "主语",
+        "zh": "我的；阿姨的；女儿",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "My",
+            "role": "限定词",
+            "zh": "我的"
+          },
+          {
+            "id": "ud-6",
+            "text": "aunt's",
+            "role": "限定词",
+            "zh": "阿姨的"
+          },
+          {
+            "id": "ud-7",
+            "text": "daughter",
+            "role": "中心词",
+            "zh": "女儿"
+          }
+        ]
+      },
+      {
+        "id": "ud-8",
+        "text": "will",
+        "role": "助动词",
+        "zh": "将"
+      },
+      {
+        "id": "ud-9",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-10",
+        "text": "a baby",
+        "role": "宾语",
+        "zh": "一个；婴儿",
+        "children": [
+          {
+            "id": "ud-11",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-12",
+            "text": "baby",
+            "role": "中心词",
+            "zh": "婴儿"
+          }
+        ]
+      },
+      {
+        "id": "ud-13",
+        "text": "soon",
+        "role": "方式/程度状语",
+        "zh": "很快"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentRole": "语气/引导语",
+        "componentZh": "是的"
+      },
+      "2": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "3": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentRole": "谓语",
+        "componentZh": "做"
+      },
+      "5": {
+        "text": "My",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "限定词",
+        "componentZh": "我的",
+        "parentComponentText": "My aunt's daughter",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；阿姨的；女儿"
+      },
+      "6": {
+        "text": "aunt's",
+        "phonetic": "ænts",
+        "pos": "NOUN",
+        "zh": "阿姨的",
+        "componentRole": "限定词",
+        "componentZh": "阿姨的",
+        "parentComponentText": "My aunt's daughter",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；阿姨的；女儿"
+      },
+      "7": {
+        "text": "daughter",
+        "phonetic": "ˈdɔːtər",
+        "pos": "NOUN",
+        "zh": "女儿",
+        "componentRole": "中心词",
+        "componentZh": "女儿",
+        "parentComponentText": "My aunt's daughter",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；阿姨的；女儿"
+      },
+      "8": {
+        "text": "will",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "zh": "将",
+        "componentRole": "助动词",
+        "componentZh": "将"
+      },
+      "9": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有"
+      },
+      "10": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "a baby",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；婴儿"
+      },
+      "11": {
+        "text": "baby",
+        "phonetic": "ˈbeɪbi",
+        "pos": "NOUN",
+        "zh": "婴儿",
+        "componentRole": "中心词",
+        "componentZh": "婴儿",
+        "parentComponentText": "a baby",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；婴儿"
+      },
+      "12": {
+        "text": "soon",
+        "phonetic": "sun",
+        "pos": "ADV",
+        "zh": "很快",
+        "componentRole": "方式/程度状语",
+        "componentZh": "很快"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-zqz9ntdnotrqwy8rx9uqjs44-2",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-zqz9ntdnotrqwy8rx9uqjs44-2",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-zqz9ntdnotrqwy8rx9uqjs44-5",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-zqz9ntdnotrqwy8rx9uqjs44-5",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "阿姨的",
+    "audioText": "aunt's",
+    "fullEnglish": "aunt's",
+    "phonetic": "ænts",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "aunt's",
+        "answer": "aunt's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "阿姨的",
+        "phonetic": "ænts",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "aunt's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "aunt's",
+        "phonetic": "ænts",
+        "pos": "NOUN",
+        "zh": "阿姨的",
+        "componentZh": "阿姨的"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-zqz9ntdnotrqwy8rx9uqjs44-6",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-zqz9ntdnotrqwy8rx9uqjs44-6",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "女儿",
+    "audioText": "daughter",
+    "fullEnglish": "daughter",
+    "phonetic": "ˈdɔːtər",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "daughter",
+        "answer": "daughter",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "女儿",
+        "phonetic": "ˈdɔːtər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "daughter"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "daughter",
+        "phonetic": "ˈdɔːtər",
+        "pos": "NOUN",
+        "zh": "女儿",
+        "componentZh": "女儿"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-zqz9ntdnotrqwy8rx9uqjs44-7",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-zqz9ntdnotrqwy8rx9uqjs44-7",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "将",
+    "audioText": "will",
+    "fullEnglish": "will",
+    "phonetic": "wɪl",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "will",
+        "answer": "will",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "将",
+        "phonetic": "wɪl",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "will"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "will",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "zh": "将",
+        "componentZh": "将"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-zqz9ntdnotrqwy8rx9uqjs44-9",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-zqz9ntdnotrqwy8rx9uqjs44-9",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个",
+    "audioText": "a",
+    "fullEnglish": "a",
+    "phonetic": "ə; eɪ",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "a"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-zqz9ntdnotrqwy8rx9uqjs44-11",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-W-zqz9ntdnotrqwy8rx9uqjs44-11",
+    "type": "word",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "很快",
+    "audioText": "soon",
+    "fullEnglish": "soon",
+    "phonetic": "sun",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "soon",
+        "answer": "soon",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "很快",
+        "phonetic": "sun",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "soon"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "soon",
+        "phonetic": "sun",
+        "pos": "ADV",
+        "zh": "很快",
+        "componentZh": "很快"
+      }
+    }
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-uz26bdkkwdb5c8lsldvk7pwt",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-uz26bdkkwdb5c8lsldvk7pwt",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "另一张照片",
+    "audioText": "another photo",
+    "fullEnglish": "another photo",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "another",
+        "answer": "another",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "另一个",
+        "phonetic": "əˈnʌðər",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "photo",
+        "answer": "photo",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "照片",
+        "phonetic": "ˈfoʊtoʊ",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "photo",
+      "another"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "another",
+        "role": "补充成分",
+        "zh": "另一个"
+      },
+      {
+        "id": "ud-2",
+        "text": "photo",
+        "role": "中心成分",
+        "zh": "照片"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "another",
+        "phonetic": "əˈnʌðər",
+        "pos": "DET",
+        "zh": "另一个",
+        "componentZh": "另一个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "photo",
+        "phonetic": "ˈfoʊtoʊ",
+        "pos": "NOUN",
+        "zh": "照片",
+        "componentZh": "照片",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-zj0w10292lpe7rz1ij7efmmt",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-zj0w10292lpe7rz1ij7efmmt",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这个女孩",
+    "audioText": "The girl",
+    "fullEnglish": "The girl",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "The",
+        "answer": "The",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "girl",
+        "answer": "girl",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "女孩",
+        "phonetic": "ɡɝːl",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "The",
+      "girl"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "The",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "girl",
+        "role": "中心成分",
+        "zh": "女孩"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "The",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "girl",
+        "phonetic": "ɡɝːl",
+        "pos": "NOUN",
+        "zh": "女孩",
+        "componentZh": "女孩",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-vsno7vko9yvs2nhstd65jwcv",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-vsno7vko9yvs2nhstd65jwcv",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这个女孩是Sally,",
+    "audioText": "The girl is Sally",
+    "fullEnglish": "The girl is Sally",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "The",
+        "answer": "The",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "The girl",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；女孩"
+      },
+      {
+        "index": 1,
+        "text": "girl",
+        "answer": "girl",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "女孩",
+        "phonetic": "ɡɝːl",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "The girl",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；女孩"
+      },
+      {
+        "index": 2,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "componentId": "ud-4",
+        "role": "系动词"
+      },
+      {
+        "index": 3,
+        "text": "Sally",
+        "answer": "Sally",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "Sally",
+        "phonetic": "ˈsæli",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-5",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "Sally",
+      "The",
+      "girl",
+      "is"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "The girl",
+        "role": "主语",
+        "zh": "定冠词；女孩",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "The",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-3",
+            "text": "girl",
+            "role": "中心词",
+            "zh": "女孩"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-5",
+        "text": "Sally",
+        "role": "表语",
+        "zh": "Sally"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "The",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "限定词",
+        "parentComponentText": "The girl",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；女孩"
+      },
+      "1": {
+        "text": "girl",
+        "phonetic": "ɡɝːl",
+        "pos": "NOUN",
+        "zh": "女孩",
+        "componentZh": "女孩",
+        "componentRole": "中心词",
+        "parentComponentText": "The girl",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；女孩"
+      },
+      "2": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是",
+        "componentRole": "系动词"
+      },
+      "3": {
+        "text": "Sally",
+        "phonetic": "ˈsæli",
+        "pos": "PROPN_PERSON",
+        "zh": "Sally",
+        "componentZh": "Sally",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "主系表结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-h82xw9mexs4jkxuqpbp95rel",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-h82xw9mexs4jkxuqpbp95rel",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的侄女",
+    "audioText": "my niece",
+    "fullEnglish": "my niece",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "niece",
+        "answer": "niece",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "侄女",
+        "phonetic": "niːs",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "my",
+      "niece"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "my",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-2",
+        "text": "niece",
+        "role": "中心成分",
+        "zh": "侄女"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "niece",
+        "phonetic": "niːs",
+        "pos": "NOUN",
+        "zh": "侄女",
+        "componentZh": "侄女",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-rml1b2fm0e8e36324mamg9wz",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-rml1b2fm0e8e36324mamg9wz",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "谁是",
+    "audioText": "Who's",
+    "fullEnglish": "Who's",
+    "phonetic": "huz",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Who's",
+        "answer": "Who's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "谁的",
+        "phonetic": "huz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "疑问词 + 系动词"
+      }
+    ],
+    "shuffledBlocks": [
+      "Who's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Who's",
+        "role": "疑问词 + 系动词",
+        "zh": "谁的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Who's",
+        "phonetic": "huz",
+        "pos": "PRON",
+        "zh": "谁的",
+        "componentZh": "谁的",
+        "componentRole": "疑问词 + 系动词"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-jgz18jke23o6hfpofzyxmzck",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-jgz18jke23o6hfpofzyxmzck",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那个男婴",
+    "audioText": "that baby boy",
+    "fullEnglish": "that baby boy",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "that",
+        "answer": "that",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "那个",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "baby",
+        "answer": "baby",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "婴儿",
+        "phonetic": "ˈbeɪbi",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "boy",
+        "answer": "boy",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "男孩",
+        "phonetic": "bɔɪ",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "boy",
+      "that",
+      "baby"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "that",
+        "role": "补充成分",
+        "zh": "那个"
+      },
+      {
+        "id": "ud-2",
+        "text": "baby",
+        "role": "补充成分",
+        "zh": "婴儿"
+      },
+      {
+        "id": "ud-3",
+        "text": "boy",
+        "role": "中心成分",
+        "zh": "男孩"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "that",
+        "phonetic": "ðæt",
+        "pos": "DET",
+        "zh": "那个",
+        "componentZh": "那个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "baby",
+        "phonetic": "ˈbeɪbi",
+        "pos": "NOUN",
+        "zh": "婴儿",
+        "componentZh": "婴儿",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "boy",
+        "phonetic": "bɔɪ",
+        "pos": "NOUN",
+        "zh": "男孩",
+        "componentZh": "男孩",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-bkcmo9flgf8x2a0llv8168bx",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-bkcmo9flgf8x2a0llv8168bx",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他是",
+    "audioText": "He's",
+    "fullEnglish": "He's",
+    "phonetic": "hiːz",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "He's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "He's",
+        "role": "主语 + 谓语",
+        "zh": "他是"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentZh": "他是",
+        "componentRole": "主语 + 谓语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-kbr2mwfecd652n0z20xueidt",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-kbr2mwfecd652n0z20xueidt",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的侄子",
+    "audioText": "my nephew",
+    "fullEnglish": "my nephew",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "nephew",
+        "answer": "nephew",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "侄子",
+        "phonetic": "ˈnefjuː",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "my",
+      "nephew"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "my",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-2",
+        "text": "nephew",
+        "role": "中心成分",
+        "zh": "侄子"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "nephew",
+        "phonetic": "ˈnefjuː",
+        "pos": "NOUN",
+        "zh": "侄子",
+        "componentZh": "侄子",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-vzz17vvk4bckxu0wgfxzrcoq",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-vzz17vvk4bckxu0wgfxzrcoq",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的",
+    "audioText": "Yes",
+    "fullEnglish": "Yes",
+    "phonetic": "jes",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yes",
+        "role": "中心成分",
+        "zh": "是的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-sqo5quz5nh3acvx6mk0oo8r2",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-sqo5quz5nh3acvx6mk0oo8r2",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "出生",
+    "audioText": "were born",
+    "fullEnglish": "were born",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "were",
+        "answer": "were",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "be（过去式）: 构成过去进行时",
+        "phonetic": "wɜːr; wər",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "被动语态助动词"
+      },
+      {
+        "index": 1,
+        "text": "born",
+        "answer": "born",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "bear（过去分词）: 出生",
+        "phonetic": "bɔːrn",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "born",
+      "were"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "were",
+        "role": "被动语态助动词",
+        "zh": "be（过去式）: 构成过去进行时"
+      },
+      {
+        "id": "ud-2",
+        "text": "born",
+        "role": "谓语",
+        "zh": "bear（过去分词）: 出生"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "were",
+        "phonetic": "wɜːr; wər",
+        "pos": "AUX",
+        "zh": "be（过去式）: 构成过去进行时",
+        "componentZh": "be（过去式）: 构成过去进行时",
+        "componentRole": "被动语态助动词"
+      },
+      "1": {
+        "text": "born",
+        "phonetic": "bɔːrn",
+        "pos": "VERB",
+        "zh": "bear（过去分词）: 出生",
+        "componentZh": "bear（过去分词）: 出生",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-y1isq4kzkvb55cc5c72y8j64",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-y1isq4kzkvb55cc5c72y8j64",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们出生",
+    "audioText": "We were born",
+    "fullEnglish": "We were born",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "We",
+        "answer": "We",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语（动作承受者）"
+      },
+      {
+        "index": 1,
+        "text": "were",
+        "answer": "were",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "be（过去式）: 构成过去进行时",
+        "phonetic": "wɜːr; wər",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "被动语态助动词"
+      },
+      {
+        "index": 2,
+        "text": "born",
+        "answer": "born",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "bear（过去分词）: 出生",
+        "phonetic": "bɔːrn",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "were",
+      "We",
+      "born"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "We",
+        "role": "主语（动作承受者）",
+        "zh": "我们"
+      },
+      {
+        "id": "ud-2",
+        "text": "were",
+        "role": "被动语态助动词",
+        "zh": "be（过去式）: 构成过去进行时"
+      },
+      {
+        "id": "ud-3",
+        "text": "born",
+        "role": "谓语",
+        "zh": "bear（过去分词）: 出生"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "We",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentZh": "我们",
+        "componentRole": "主语（动作承受者）"
+      },
+      "1": {
+        "text": "were",
+        "phonetic": "wɜːr; wər",
+        "pos": "AUX",
+        "zh": "be（过去式）: 构成过去进行时",
+        "componentZh": "be（过去式）: 构成过去进行时",
+        "componentRole": "被动语态助动词"
+      },
+      "2": {
+        "text": "born",
+        "phonetic": "bɔːrn",
+        "pos": "VERB",
+        "zh": "bear（过去分词）: 出生",
+        "componentZh": "bear（过去分词）: 出生",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-n6j13vw10hh1cptoqi2nhray",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-n6j13vw10hh1cptoqi2nhray",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的我们出生",
+    "audioText": "Yes. We were born",
+    "fullEnglish": "Yes. We were born",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的我们出生"
+      },
+      {
+        "index": 2,
+        "text": "We",
+        "answer": "We",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语（动作承受者）"
+      },
+      {
+        "index": 3,
+        "text": "were",
+        "answer": "were",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "be（过去式）: 构成过去进行时",
+        "phonetic": "wɜːr; wər",
+        "pos": "AUX",
+        "componentId": "ud-3",
+        "role": "被动语态助动词"
+      },
+      {
+        "index": 4,
+        "text": "born",
+        "answer": "born",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "bear（过去分词）: 出生",
+        "phonetic": "bɔːrn",
+        "pos": "VERB",
+        "componentId": "ud-4",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "were",
+      "We",
+      "Yes",
+      "born"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yes",
+        "role": "中心成分",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "We",
+        "role": "主语（动作承受者）",
+        "zh": "我们"
+      },
+      {
+        "id": "ud-3",
+        "text": "were",
+        "role": "被动语态助动词",
+        "zh": "be（过去式）: 构成过去进行时"
+      },
+      {
+        "id": "ud-4",
+        "text": "born",
+        "role": "谓语",
+        "zh": "bear（过去分词）: 出生"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的",
+        "componentRole": "中心成分"
+      },
+      "2": {
+        "text": "We",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentZh": "我们",
+        "componentRole": "主语（动作承受者）"
+      },
+      "3": {
+        "text": "were",
+        "phonetic": "wɜːr; wər",
+        "pos": "AUX",
+        "zh": "be（过去式）: 构成过去进行时",
+        "componentZh": "be（过去式）: 构成过去进行时",
+        "componentRole": "被动语态助动词"
+      },
+      "4": {
+        "text": "born",
+        "phonetic": "bɔːrn",
+        "pos": "VERB",
+        "zh": "bear（过去分词）: 出生",
+        "componentZh": "bear（过去分词）: 出生",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-yjtyxj7hbwk8o4rooxvnvyen",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-yjtyxj7hbwk8o4rooxvnvyen",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在同一年",
+    "audioText": "in the same year",
+    "fullEnglish": "in the same year",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "same",
+        "answer": "same",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "相同的",
+        "phonetic": "seɪm",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "补充成分"
+      },
+      {
+        "index": 3,
+        "text": "year",
+        "answer": "year",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "年",
+        "phonetic": "jɪr",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "same",
+      "year",
+      "the",
+      "in"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "in",
+        "role": "补充成分",
+        "zh": "在"
+      },
+      {
+        "id": "ud-2",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-3",
+        "text": "same",
+        "role": "补充成分",
+        "zh": "相同的"
+      },
+      {
+        "id": "ud-4",
+        "text": "year",
+        "role": "中心成分",
+        "zh": "年"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在",
+        "componentZh": "在",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "same",
+        "phonetic": "seɪm",
+        "pos": "ADJ",
+        "zh": "相同的",
+        "componentZh": "相同的",
+        "componentRole": "补充成分"
+      },
+      "3": {
+        "text": "year",
+        "phonetic": "jɪr",
+        "pos": "NOUN",
+        "zh": "年",
+        "componentZh": "年",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-xrg1j4cercgv0itb8n8qyx79",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-xrg1j4cercgv0itb8n8qyx79",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你的表妹",
+    "audioText": "your cousin",
+    "fullEnglish": "your cousin",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "cousin",
+        "answer": "cousin",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "表亲",
+        "phonetic": "ˈkʌz(ə)n",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "your",
+      "cousin"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "your",
+        "role": "补充成分",
+        "zh": "你的"
+      },
+      {
+        "id": "ud-2",
+        "text": "cousin",
+        "role": "中心成分",
+        "zh": "表亲"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentZh": "你的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "cousin",
+        "phonetic": "ˈkʌz(ə)n",
+        "pos": "NOUN",
+        "zh": "表亲",
+        "componentZh": "表亲",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-atbjihmtrnbm8ahpd82i5cfx",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-atbjihmtrnbm8ahpd82i5cfx",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "大表亲",
+    "audioText": "big cousins",
+    "fullEnglish": "big cousins",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "big",
+        "answer": "big",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "大的",
+        "phonetic": "bɪɡ",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "cousins",
+        "answer": "cousins",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "表兄弟姐妹（复数）",
+        "phonetic": "ˈkʌznz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "cousins",
+      "big"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "big",
+        "role": "补充成分",
+        "zh": "大的"
+      },
+      {
+        "id": "ud-2",
+        "text": "cousins",
+        "role": "中心成分",
+        "zh": "表兄弟姐妹（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "big",
+        "phonetic": "bɪɡ",
+        "pos": "ADJ",
+        "zh": "大的",
+        "componentZh": "大的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "cousins",
+        "phonetic": "ˈkʌznz",
+        "pos": "NOUN",
+        "zh": "表兄弟姐妹（复数）",
+        "componentZh": "表兄弟姐妹（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-wo21z0k852747atuu0y53t1w",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-wo21z0k852747atuu0y53t1w",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我确实",
+    "audioText": "I do",
+    "fullEnglish": "I do",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "do"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "do",
+        "role": "谓语",
+        "zh": "做"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-sjpshna1ijroxeqhgylyb75j",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-sjpshna1ijroxeqhgylyb75j",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的，我是",
+    "audioText": "Yes, I do",
+    "fullEnglish": "Yes, I do",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "componentId": "ud-1",
+        "role": "语气/引导语"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，我是"
+      },
+      {
+        "index": 2,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 3,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "Yes",
+      "do"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yes",
+        "role": "语气/引导语",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "do",
+        "role": "谓语",
+        "zh": "做"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的",
+        "componentRole": "语气/引导语"
+      },
+      "2": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "3": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-xxhbr1vkcbbo6zwvpl53axxn",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-xxhbr1vkcbbo6zwvpl53axxn",
+    "type": "phrase",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我姑姑的女儿",
+    "audioText": "My aunt's daughter",
+    "fullEnglish": "My aunt's daughter",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "My",
+        "answer": "My",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "My aunt's",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我的；阿姨的"
+      },
+      {
+        "index": 1,
+        "text": "aunt's",
+        "answer": "aunt's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "阿姨的",
+        "phonetic": "ænts",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "My aunt's",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我的；阿姨的"
+      },
+      {
+        "index": 2,
+        "text": "daughter",
+        "answer": "daughter",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "女儿",
+        "phonetic": "ˈdɔːtər",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "My",
+      "aunt's",
+      "daughter"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "My aunt's",
+        "role": "补充成分",
+        "zh": "我的；阿姨的",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "My",
+            "role": "限定词",
+            "zh": "我的"
+          },
+          {
+            "id": "ud-3",
+            "text": "aunt's",
+            "role": "中心词",
+            "zh": "阿姨的"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "daughter",
+        "role": "中心成分",
+        "zh": "女儿"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "My",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的",
+        "componentRole": "限定词",
+        "parentComponentText": "My aunt's",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我的；阿姨的"
+      },
+      "1": {
+        "text": "aunt's",
+        "phonetic": "ænts",
+        "pos": "NOUN",
+        "zh": "阿姨的",
+        "componentZh": "阿姨的",
+        "componentRole": "中心词",
+        "parentComponentText": "My aunt's",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我的；阿姨的"
+      },
+      "2": {
+        "text": "daughter",
+        "phonetic": "ˈdɔːtər",
+        "pos": "NOUN",
+        "zh": "女儿",
+        "componentZh": "女儿",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-snw3opc0fgh70i33bjs8qo62",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-snw3opc0fgh70i33bjs8qo62",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的，我确实有我姑姑的女儿",
+    "audioText": "Yes, I do. My aunt's daughter",
+    "fullEnglish": "Yes, I do. My aunt's daughter",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "componentId": "ud-1",
+        "role": "语气/引导语"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，我确实有我姑姑的女儿"
+      },
+      {
+        "index": 2,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 3,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      },
+      {
+        "index": 4,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，我确实有我姑姑的女儿"
+      },
+      {
+        "index": 5,
+        "text": "My",
+        "answer": "My",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "My aunt's",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我的；阿姨的"
+      },
+      {
+        "index": 6,
+        "text": "aunt's",
+        "answer": "aunt's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "阿姨的",
+        "phonetic": "ænts",
+        "pos": "NOUN",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "My aunt's",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我的；阿姨的"
+      },
+      {
+        "index": 7,
+        "text": "daughter",
+        "answer": "daughter",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "女儿",
+        "phonetic": "ˈdɔːtər",
+        "pos": "NOUN",
+        "componentId": "ud-7",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes",
+      "aunt's",
+      "do",
+      "My",
+      "I",
+      "daughter"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yes",
+        "role": "语气/引导语",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "do",
+        "role": "谓语",
+        "zh": "做"
+      },
+      {
+        "id": "ud-4",
+        "text": "My aunt's",
+        "role": "补充成分",
+        "zh": "我的；阿姨的",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "My",
+            "role": "限定词",
+            "zh": "我的"
+          },
+          {
+            "id": "ud-6",
+            "text": "aunt's",
+            "role": "中心词",
+            "zh": "阿姨的"
+          }
+        ]
+      },
+      {
+        "id": "ud-7",
+        "text": "daughter",
+        "role": "中心成分",
+        "zh": "女儿"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的",
+        "componentRole": "语气/引导语"
+      },
+      "2": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "3": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做",
+        "componentRole": "谓语"
+      },
+      "5": {
+        "text": "My",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的",
+        "componentRole": "限定词",
+        "parentComponentText": "My aunt's",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我的；阿姨的"
+      },
+      "6": {
+        "text": "aunt's",
+        "phonetic": "ænts",
+        "pos": "NOUN",
+        "zh": "阿姨的",
+        "componentZh": "阿姨的",
+        "componentRole": "中心词",
+        "parentComponentText": "My aunt's",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "我的；阿姨的"
+      },
+      "7": {
+        "text": "daughter",
+        "phonetic": "ˈdɔːtər",
+        "pos": "NOUN",
+        "zh": "女儿",
+        "componentZh": "女儿",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-xgus5x2v3dlkrwokpy3gf44n",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-xgus5x2v3dlkrwokpy3gf44n",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "生孩子",
+    "audioText": "have a baby",
+    "fullEnglish": "have a baby",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "a baby",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；婴儿"
+      },
+      {
+        "index": 2,
+        "text": "baby",
+        "answer": "baby",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "婴儿",
+        "phonetic": "ˈbeɪbi",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "a baby",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；婴儿"
+      }
+    ],
+    "shuffledBlocks": [
+      "baby",
+      "a",
+      "have"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-2",
+        "text": "a baby",
+        "role": "宾语",
+        "zh": "一个；婴儿",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-4",
+            "text": "baby",
+            "role": "中心词",
+            "zh": "婴儿"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "限定词",
+        "parentComponentText": "a baby",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；婴儿"
+      },
+      "2": {
+        "text": "baby",
+        "phonetic": "ˈbeɪbi",
+        "pos": "NOUN",
+        "zh": "婴儿",
+        "componentZh": "婴儿",
+        "componentRole": "中心词",
+        "parentComponentText": "a baby",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；婴儿"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-r31m9ntgbb0xyp8q77xfu8g2",
+    "contentId": "JLB-xfggvpz5zrpbr220rsxo0pj8-PHRASE-r31m9ntgbb0xyp8q77xfu8g2",
+    "type": "sentence",
+    "coursePackageId": "ve48fs6dkxzxhdmbdmcdh44c",
+    "coursePackageName": "【北京版】五年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "xfggvpz5zrpbr220rsxo0pj8",
+    "unitTitle": "Unit 5 WHO’S THAT BABY BOY?-Lesson 16-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "很快就要生孩子了",
+    "audioText": "will have a baby soon",
+    "fullEnglish": "will have a baby soon",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "will",
+        "answer": "will",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "将",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      },
+      {
+        "index": 2,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "a baby",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；婴儿"
+      },
+      {
+        "index": 3,
+        "text": "baby",
+        "answer": "baby",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "婴儿",
+        "phonetic": "ˈbeɪbi",
+        "pos": "NOUN",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "a baby",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；婴儿"
+      },
+      {
+        "index": 4,
+        "text": "soon",
+        "answer": "soon",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "很快",
+        "phonetic": "sun",
+        "pos": "ADV",
+        "componentId": "ud-6",
+        "role": "方式/程度状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "have",
+      "baby",
+      "a",
+      "soon",
+      "will"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "will",
+        "role": "助动词",
+        "zh": "将"
+      },
+      {
+        "id": "ud-2",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-3",
+        "text": "a baby",
+        "role": "宾语",
+        "zh": "一个；婴儿",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-5",
+            "text": "baby",
+            "role": "中心词",
+            "zh": "婴儿"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "soon",
+        "role": "方式/程度状语",
+        "zh": "很快"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "will",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "zh": "将",
+        "componentZh": "将",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有",
+        "componentRole": "谓语"
+      },
+      "2": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "限定词",
+        "parentComponentText": "a baby",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；婴儿"
+      },
+      "3": {
+        "text": "baby",
+        "phonetic": "ˈbeɪbi",
+        "pos": "NOUN",
+        "zh": "婴儿",
+        "componentZh": "婴儿",
+        "componentRole": "中心词",
+        "parentComponentText": "a baby",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；婴儿"
+      },
+      "4": {
+        "text": "soon",
+        "phonetic": "sun",
+        "pos": "ADV",
+        "zh": "很快",
+        "componentZh": "很快",
+        "componentRole": "方式/程度状语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

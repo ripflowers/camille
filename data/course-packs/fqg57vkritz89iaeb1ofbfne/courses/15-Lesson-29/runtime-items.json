@@ -1,0 +1,5509 @@
+[
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-S-vw50kqsa8hey44mvm4w37fna",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-S-vw50kqsa8hey44mvm4w37fna",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "进来吧，Amy。",
+    "audioText": "Come in, Amy",
+    "fullEnglish": "Come in, Amy",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Come",
+        "answer": "Come",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心词",
+        "zh": "来",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "Come in",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "来；在...里"
+      },
+      {
+        "index": 1,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "定语（名词修饰）",
+        "zh": "在...里",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "Come in",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "来；在...里"
+      },
+      {
+        "index": 2,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "进来吧，Amy。"
+      },
+      {
+        "index": 3,
+        "text": "Amy",
+        "answer": "Amy",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "呼语",
+        "zh": "Amy",
+        "phonetic": "ˈeɪmi",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "in",
+      "Amy",
+      "Come"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Come in",
+        "role": "谓语",
+        "zh": "来；在...里",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "Come",
+            "role": "中心词",
+            "zh": "来"
+          },
+          {
+            "id": "ud-3",
+            "text": "in",
+            "role": "定语（名词修饰）",
+            "zh": "在...里"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "Amy",
+        "role": "呼语",
+        "zh": "Amy"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Come",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "zh": "来",
+        "componentRole": "中心词",
+        "componentZh": "来",
+        "parentComponentText": "Come in",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "来；在...里"
+      },
+      "1": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在...里",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "在...里",
+        "parentComponentText": "Come in",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "来；在...里"
+      },
+      "3": {
+        "text": "Amy",
+        "phonetic": "ˈeɪmi",
+        "pos": "PROPN_PERSON",
+        "zh": "Amy",
+        "componentRole": "呼语",
+        "componentZh": "Amy"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-vw50kqsa8hey44mvm4w37fna-1",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-vw50kqsa8hey44mvm4w37fna-1",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "来",
+    "audioText": "Come",
+    "fullEnglish": "Come",
+    "phonetic": "kʌm",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Come",
+        "answer": "Come",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "来",
+        "phonetic": "kʌm",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Come"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Come",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "zh": "来",
+        "componentZh": "来"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-vw50kqsa8hey44mvm4w37fna-2",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-vw50kqsa8hey44mvm4w37fna-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "进来",
+    "audioText": "in",
+    "fullEnglish": "in",
+    "phonetic": "ɪn",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...里",
+        "phonetic": "ɪn",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "in"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在...里",
+        "componentZh": "在...里"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-vw50kqsa8hey44mvm4w37fna-3",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-vw50kqsa8hey44mvm4w37fna-3",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Amy",
+    "audioText": "Amy",
+    "fullEnglish": "Amy",
+    "phonetic": "ˈeɪmi",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Amy",
+        "answer": "Amy",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "Amy",
+        "phonetic": "ˈeɪmi",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Amy"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Amy",
+        "phonetic": "ˈeɪmi",
+        "pos": "PROPN_PERSON",
+        "zh": "Amy",
+        "componentZh": "Amy"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-S-dctddhqzpurnrt4tircwkmp9",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-S-dctddhqzpurnrt4tircwkmp9",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请关门。",
+    "audioText": "Shut the door, please",
+    "fullEnglish": "Shut the door, please",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Shut",
+        "answer": "Shut",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "关闭",
+        "phonetic": "ʃʌt",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the door",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；门"
+      },
+      {
+        "index": 2,
+        "text": "door",
+        "answer": "door",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "门",
+        "phonetic": "dɔr",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the door",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；门"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "请关门。"
+      },
+      {
+        "index": 4,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "please",
+      "door",
+      "Shut"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Shut",
+        "role": "谓语",
+        "zh": "关闭"
+      },
+      {
+        "id": "ud-2",
+        "text": "the door",
+        "role": "宾语",
+        "zh": "定冠词；门",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-4",
+            "text": "door",
+            "role": "中心词",
+            "zh": "门"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Shut",
+        "phonetic": "ʃʌt",
+        "pos": "VERB",
+        "zh": "关闭",
+        "componentRole": "谓语",
+        "componentZh": "关闭"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the door",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；门"
+      },
+      "2": {
+        "text": "door",
+        "phonetic": "dɔr",
+        "pos": "NOUN",
+        "zh": "门",
+        "componentRole": "中心词",
+        "componentZh": "门",
+        "parentComponentText": "the door",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；门"
+      },
+      "4": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-dctddhqzpurnrt4tircwkmp9-1",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-dctddhqzpurnrt4tircwkmp9-1",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "关闭",
+    "audioText": "Shut",
+    "fullEnglish": "Shut",
+    "phonetic": "ʃʌt",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Shut",
+        "answer": "Shut",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "关闭",
+        "phonetic": "ʃʌt",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Shut"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Shut",
+        "phonetic": "ʃʌt",
+        "pos": "VERB",
+        "zh": "关闭",
+        "componentZh": "关闭"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-dctddhqzpurnrt4tircwkmp9-2",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-dctddhqzpurnrt4tircwkmp9-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "the",
+    "fullEnglish": "the",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "the"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-dctddhqzpurnrt4tircwkmp9-3",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-dctddhqzpurnrt4tircwkmp9-3",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "门",
+    "audioText": "door",
+    "fullEnglish": "door",
+    "phonetic": "dɔr",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "door",
+        "answer": "door",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "门",
+        "phonetic": "dɔr",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "door"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "door",
+        "phonetic": "dɔr",
+        "pos": "NOUN",
+        "zh": "门",
+        "componentZh": "门"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-dctddhqzpurnrt4tircwkmp9-4",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-dctddhqzpurnrt4tircwkmp9-4",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请",
+    "audioText": "please",
+    "fullEnglish": "please",
+    "phonetic": "pliːz",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "please"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentZh": "请"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-S-jyoxlwgo66p38lb6cblf9vtl",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-S-jyoxlwgo66p38lb6cblf9vtl",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这间卧室非常凌乱。",
+    "audioText": "This bedroom is very untidy",
+    "fullEnglish": "This bedroom is very untidy",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "This",
+        "answer": "This",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "This bedroom",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这个；卧室"
+      },
+      {
+        "index": 1,
+        "text": "bedroom",
+        "answer": "bedroom",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "卧室",
+        "phonetic": "ˈbedruːm; ˈbedrʊm",
+        "pos": "NOUN",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "This bedroom",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这个；卧室"
+      },
+      {
+        "index": 2,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 3,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "方式/程度状语",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV"
+      },
+      {
+        "index": 4,
+        "text": "untidy",
+        "answer": "untidy",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "表语",
+        "zh": "不整洁的",
+        "phonetic": "ʌnˈtaɪdi",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "untidy",
+      "This",
+      "very",
+      "is",
+      "bedroom"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "This bedroom",
+        "role": "主语",
+        "zh": "这个；卧室",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "This",
+            "role": "限定词",
+            "zh": "这个"
+          },
+          {
+            "id": "ud-3",
+            "text": "bedroom",
+            "role": "中心词",
+            "zh": "卧室"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-5",
+        "text": "very",
+        "role": "方式/程度状语",
+        "zh": "非常"
+      },
+      {
+        "id": "ud-6",
+        "text": "untidy",
+        "role": "表语",
+        "zh": "不整洁的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "This",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentRole": "限定词",
+        "componentZh": "这个",
+        "parentComponentText": "This bedroom",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这个；卧室"
+      },
+      "1": {
+        "text": "bedroom",
+        "phonetic": "ˈbedruːm; ˈbedrʊm",
+        "pos": "NOUN",
+        "zh": "卧室",
+        "componentRole": "中心词",
+        "componentZh": "卧室",
+        "parentComponentText": "This bedroom",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这个；卧室"
+      },
+      "2": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "3": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentRole": "方式/程度状语",
+        "componentZh": "非常"
+      },
+      "4": {
+        "text": "untidy",
+        "phonetic": "ʌnˈtaɪdi",
+        "pos": "ADJ",
+        "zh": "不整洁的",
+        "componentRole": "表语",
+        "componentZh": "不整洁的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-jyoxlwgo66p38lb6cblf9vtl-1",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-jyoxlwgo66p38lb6cblf9vtl-1",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这个",
+    "audioText": "This",
+    "fullEnglish": "This",
+    "phonetic": "ðɪs",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "This",
+        "answer": "This",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "This"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "This",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentZh": "这个"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-jyoxlwgo66p38lb6cblf9vtl-2",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-jyoxlwgo66p38lb6cblf9vtl-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "卧室",
+    "audioText": "bedroom",
+    "fullEnglish": "bedroom",
+    "phonetic": "ˈbedruːm; ˈbedrʊm",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "bedroom",
+        "answer": "bedroom",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "卧室",
+        "phonetic": "ˈbedruːm; ˈbedrʊm",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "bedroom"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "bedroom",
+        "phonetic": "ˈbedruːm; ˈbedrʊm",
+        "pos": "NOUN",
+        "zh": "卧室",
+        "componentZh": "卧室"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-jyoxlwgo66p38lb6cblf9vtl-3",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-jyoxlwgo66p38lb6cblf9vtl-3",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "is",
+    "fullEnglish": "is",
+    "phonetic": "ɪz",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "is"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-jyoxlwgo66p38lb6cblf9vtl-4",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-jyoxlwgo66p38lb6cblf9vtl-4",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "非常",
+    "audioText": "very",
+    "fullEnglish": "very",
+    "phonetic": "ˈveri",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "very"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentZh": "非常"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-jyoxlwgo66p38lb6cblf9vtl-5",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-jyoxlwgo66p38lb6cblf9vtl-5",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不整洁的",
+    "audioText": "untidy",
+    "fullEnglish": "untidy",
+    "phonetic": "ʌnˈtaɪdi",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "untidy",
+        "answer": "untidy",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "不整洁的",
+        "phonetic": "ʌnˈtaɪdi",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "untidy"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "untidy",
+        "phonetic": "ʌnˈtaɪdi",
+        "pos": "ADJ",
+        "zh": "不整洁的",
+        "componentZh": "不整洁的"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-S-xood9iezvhgss1qkh7mfsgxk",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-S-xood9iezvhgss1qkh7mfsgxk",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我该怎么做，Jones夫人？",
+    "audioText": "What must I do, Mrs. Jones?",
+    "fullEnglish": "What must I do, Mrs. Jones?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "宾语",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "must",
+        "answer": "must",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "必须",
+        "phonetic": "mʌst; məst",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我该怎么做，Jones夫人？"
+      },
+      {
+        "index": 5,
+        "text": "Mrs",
+        "answer": "Mrs",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "夫人",
+        "phonetic": "ˈmɪsɪz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "Mrs Jones",
+        "parentComponentRole": "呼语",
+        "parentComponentZh": "夫人；Jones"
+      },
+      {
+        "index": 6,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我该怎么做，Jones夫人？"
+      },
+      {
+        "index": 7,
+        "text": "Jones",
+        "answer": "Jones",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "修饰语",
+        "zh": "Jones",
+        "phonetic": "dʒoʊnz",
+        "pos": "PROPN_PERSON",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "Mrs Jones",
+        "parentComponentRole": "呼语",
+        "parentComponentZh": "夫人；Jones"
+      },
+      {
+        "index": 8,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我该怎么做，Jones夫人？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Mrs",
+      "Jones",
+      "What",
+      "must",
+      "I",
+      "do"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What",
+        "role": "宾语",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "must",
+        "role": "助动词",
+        "zh": "必须"
+      },
+      {
+        "id": "ud-3",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-4",
+        "text": "do",
+        "role": "谓语",
+        "zh": "做"
+      },
+      {
+        "id": "ud-5",
+        "text": "Mrs Jones",
+        "role": "呼语",
+        "zh": "夫人；Jones",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "Mrs",
+            "role": "中心词",
+            "zh": "夫人"
+          },
+          {
+            "id": "ud-7",
+            "text": "Jones",
+            "role": "修饰语",
+            "zh": "Jones"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "宾语",
+        "componentZh": "什么"
+      },
+      "1": {
+        "text": "must",
+        "phonetic": "mʌst; məst",
+        "pos": "AUX",
+        "zh": "必须",
+        "componentRole": "助动词",
+        "componentZh": "必须"
+      },
+      "2": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "3": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentRole": "谓语",
+        "componentZh": "做"
+      },
+      "5": {
+        "text": "Mrs",
+        "phonetic": "ˈmɪsɪz",
+        "pos": "NOUN",
+        "zh": "夫人",
+        "componentRole": "中心词",
+        "componentZh": "夫人",
+        "parentComponentText": "Mrs Jones",
+        "parentComponentRole": "呼语",
+        "parentComponentZh": "夫人；Jones"
+      },
+      "7": {
+        "text": "Jones",
+        "phonetic": "dʒoʊnz",
+        "pos": "PROPN_PERSON",
+        "zh": "Jones",
+        "componentRole": "修饰语",
+        "componentZh": "Jones",
+        "parentComponentText": "Mrs Jones",
+        "parentComponentRole": "呼语",
+        "parentComponentZh": "夫人；Jones"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-xood9iezvhgss1qkh7mfsgxk-1",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-xood9iezvhgss1qkh7mfsgxk-1",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么",
+    "audioText": "What",
+    "fullEnglish": "What",
+    "phonetic": "wʌt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "What"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-xood9iezvhgss1qkh7mfsgxk-2",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-xood9iezvhgss1qkh7mfsgxk-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "必须",
+    "audioText": "must",
+    "fullEnglish": "must",
+    "phonetic": "mʌst; məst",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "must",
+        "answer": "must",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "必须",
+        "phonetic": "mʌst; məst",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "must"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "must",
+        "phonetic": "mʌst; məst",
+        "pos": "AUX",
+        "zh": "必须",
+        "componentZh": "必须"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-xood9iezvhgss1qkh7mfsgxk-3",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-xood9iezvhgss1qkh7mfsgxk-3",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-xood9iezvhgss1qkh7mfsgxk-4",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-xood9iezvhgss1qkh7mfsgxk-4",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "做",
+    "audioText": "do",
+    "fullEnglish": "do",
+    "phonetic": "duː; də",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "do"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-xood9iezvhgss1qkh7mfsgxk-5",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-xood9iezvhgss1qkh7mfsgxk-5",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "夫人",
+    "audioText": "Mrs.",
+    "fullEnglish": "Mrs.",
+    "phonetic": "ˈmɪsɪz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Mrs.",
+        "answer": "Mrs.",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "夫人",
+        "phonetic": "ˈmɪsɪz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Mrs."
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Mrs.",
+        "phonetic": "ˈmɪsɪz",
+        "pos": "NOUN",
+        "zh": "夫人",
+        "componentZh": "夫人"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-xood9iezvhgss1qkh7mfsgxk-6",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-xood9iezvhgss1qkh7mfsgxk-6",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Jones",
+    "audioText": "Jones",
+    "fullEnglish": "Jones",
+    "phonetic": "dʒoʊnz",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Jones",
+        "answer": "Jones",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "Jones",
+        "phonetic": "dʒoʊnz",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Jones"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Jones",
+        "phonetic": "dʒoʊnz",
+        "pos": "PROPN_PERSON",
+        "zh": "Jones",
+        "componentZh": "Jones"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-S-bhuq4ar6zoix5sgjei2q4fro",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-S-bhuq4ar6zoix5sgjei2q4fro",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "打开窗户，给房间通风。",
+    "audioText": "Open the window and air the room",
+    "fullEnglish": "Open the window and air the room",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Open",
+        "answer": "Open",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "打开",
+        "phonetic": "ˈoʊpən",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the window",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；窗户"
+      },
+      {
+        "index": 2,
+        "text": "window",
+        "answer": "window",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "窗户",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the window",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；窗户"
+      },
+      {
+        "index": 3,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "and air the room",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；空；定冠词；房间"
+      },
+      {
+        "index": 4,
+        "text": "air",
+        "answer": "air",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "谓语",
+        "zh": "空",
+        "phonetic": "ɛr",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "and air the room",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；空；定冠词；房间"
+      },
+      {
+        "index": 5,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "the room",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；房间"
+      },
+      {
+        "index": 6,
+        "text": "room",
+        "answer": "room",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "中心词",
+        "zh": "房间",
+        "phonetic": "ruːm",
+        "pos": "NOUN",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "the room",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；房间"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "and",
+      "the",
+      "air",
+      "Open",
+      "room",
+      "window"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Open",
+        "role": "谓语",
+        "zh": "打开"
+      },
+      {
+        "id": "ud-2",
+        "text": "the window",
+        "role": "宾语",
+        "zh": "定冠词；窗户",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-4",
+            "text": "window",
+            "role": "中心词",
+            "zh": "窗户"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "and air the room",
+        "role": "并列分句",
+        "zh": "和；空；定冠词；房间",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "and",
+            "role": "并列连词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-7",
+            "text": "air",
+            "role": "谓语",
+            "zh": "空"
+          },
+          {
+            "id": "ud-8",
+            "text": "the room",
+            "role": "宾语",
+            "zh": "定冠词；房间",
+            "children": [
+              {
+                "id": "ud-9",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-10",
+                "text": "room",
+                "role": "中心词",
+                "zh": "房间"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Open",
+        "phonetic": "ˈoʊpən",
+        "pos": "VERB",
+        "zh": "打开",
+        "componentRole": "谓语",
+        "componentZh": "打开"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the window",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；窗户"
+      },
+      "2": {
+        "text": "window",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "zh": "窗户",
+        "componentRole": "中心词",
+        "componentZh": "窗户",
+        "parentComponentText": "the window",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；窗户"
+      },
+      "3": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和",
+        "parentComponentText": "and air the room",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；空；定冠词；房间"
+      },
+      "4": {
+        "text": "air",
+        "phonetic": "ɛr",
+        "pos": "NOUN",
+        "zh": "空",
+        "componentRole": "谓语",
+        "componentZh": "空",
+        "parentComponentText": "and air the room",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；空；定冠词；房间"
+      },
+      "5": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the room",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；房间"
+      },
+      "6": {
+        "text": "room",
+        "phonetic": "ruːm",
+        "pos": "NOUN",
+        "zh": "房间",
+        "componentRole": "中心词",
+        "componentZh": "房间",
+        "parentComponentText": "the room",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；房间"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-bhuq4ar6zoix5sgjei2q4fro-1",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-bhuq4ar6zoix5sgjei2q4fro-1",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "打开",
+    "audioText": "Open",
+    "fullEnglish": "Open",
+    "phonetic": "ˈoʊpən",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Open",
+        "answer": "Open",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "打开",
+        "phonetic": "ˈoʊpən",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Open"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Open",
+        "phonetic": "ˈoʊpən",
+        "pos": "VERB",
+        "zh": "打开",
+        "componentZh": "打开"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-bhuq4ar6zoix5sgjei2q4fro-3",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-bhuq4ar6zoix5sgjei2q4fro-3",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "窗户",
+    "audioText": "window",
+    "fullEnglish": "window",
+    "phonetic": "ˈwɪndoʊ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "window",
+        "answer": "window",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "窗户",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "window"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "window",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "zh": "窗户",
+        "componentZh": "窗户"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-bhuq4ar6zoix5sgjei2q4fro-4",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-bhuq4ar6zoix5sgjei2q4fro-4",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "和",
+    "audioText": "and",
+    "fullEnglish": "and",
+    "phonetic": "ænd; ənd",
+    "pos": "CCONJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "and"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-bhuq4ar6zoix5sgjei2q4fro-5",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-bhuq4ar6zoix5sgjei2q4fro-5",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "通风",
+    "audioText": "air",
+    "fullEnglish": "air",
+    "phonetic": "ɛr",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "air",
+        "answer": "air",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "空",
+        "phonetic": "ɛr",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "air"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "air",
+        "phonetic": "ɛr",
+        "pos": "NOUN",
+        "zh": "空",
+        "componentZh": "空"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-bhuq4ar6zoix5sgjei2q4fro-6",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-bhuq4ar6zoix5sgjei2q4fro-6",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "房间",
+    "audioText": "room",
+    "fullEnglish": "room",
+    "phonetic": "ruːm",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "room",
+        "answer": "room",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "房间",
+        "phonetic": "ruːm",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "room"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "room",
+        "phonetic": "ruːm",
+        "pos": "NOUN",
+        "zh": "房间",
+        "componentZh": "房间"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-S-oyxshs6rv7mzjy2pfz8b0apj",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-S-oyxshs6rv7mzjy2pfz8b0apj",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "然后把这些衣服放进衣柜里。",
+    "audioText": "Then put these clothes in the wardrobe",
+    "fullEnglish": "Then put these clothes in the wardrobe",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Then",
+        "answer": "Then",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "方式/程度状语",
+        "zh": "然后",
+        "phonetic": "ðen",
+        "pos": "ADV"
+      },
+      {
+        "index": 1,
+        "text": "put",
+        "answer": "put",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "put（原型）: 放置",
+        "phonetic": "pʊt",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "these",
+        "answer": "these",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "这些",
+        "phonetic": "ðiːz",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "these clothes",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这些；衣服（复数）"
+      },
+      {
+        "index": 3,
+        "text": "clothes",
+        "answer": "clothes",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "衣服（复数）",
+        "phonetic": "kloʊðz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "these clothes",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这些；衣服（复数）"
+      },
+      {
+        "index": 4,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "介词",
+        "zh": "在...里",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "in the wardrobe",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在...里；定冠词；衣柜"
+      },
+      {
+        "index": 5,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "the wardrobe",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；衣柜"
+      },
+      {
+        "index": 6,
+        "text": "wardrobe",
+        "answer": "wardrobe",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "中心词",
+        "zh": "衣柜",
+        "phonetic": "ˈwɔːrdroʊb",
+        "pos": "NOUN",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "the wardrobe",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；衣柜"
+      }
+    ],
+    "shuffledBlocks": [
+      "these",
+      "clothes",
+      "the",
+      "Then",
+      "put",
+      "in",
+      "wardrobe"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Then",
+        "role": "方式/程度状语",
+        "zh": "然后"
+      },
+      {
+        "id": "ud-2",
+        "text": "put",
+        "role": "谓语",
+        "zh": "put（原型）: 放置"
+      },
+      {
+        "id": "ud-3",
+        "text": "these clothes",
+        "role": "宾语",
+        "zh": "这些；衣服（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "these",
+            "role": "限定词",
+            "zh": "这些"
+          },
+          {
+            "id": "ud-5",
+            "text": "clothes",
+            "role": "中心词",
+            "zh": "衣服（复数）"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "in the wardrobe",
+        "role": "地点状语",
+        "zh": "在...里；定冠词；衣柜",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "in",
+            "role": "介词",
+            "zh": "在...里"
+          },
+          {
+            "id": "ud-8",
+            "text": "the wardrobe",
+            "role": "介词宾语",
+            "zh": "定冠词；衣柜",
+            "children": [
+              {
+                "id": "ud-9",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-10",
+                "text": "wardrobe",
+                "role": "中心词",
+                "zh": "衣柜"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Then",
+        "phonetic": "ðen",
+        "pos": "ADV",
+        "zh": "然后",
+        "componentRole": "方式/程度状语",
+        "componentZh": "然后"
+      },
+      "1": {
+        "text": "put",
+        "phonetic": "pʊt",
+        "pos": "VERB",
+        "zh": "put（原型）: 放置",
+        "componentRole": "谓语",
+        "componentZh": "put（原型）: 放置"
+      },
+      "2": {
+        "text": "these",
+        "phonetic": "ðiːz",
+        "pos": "DET",
+        "zh": "这些",
+        "componentRole": "限定词",
+        "componentZh": "这些",
+        "parentComponentText": "these clothes",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这些；衣服（复数）"
+      },
+      "3": {
+        "text": "clothes",
+        "phonetic": "kloʊðz",
+        "pos": "NOUN",
+        "zh": "衣服（复数）",
+        "componentRole": "中心词",
+        "componentZh": "衣服（复数）",
+        "parentComponentText": "these clothes",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这些；衣服（复数）"
+      },
+      "4": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在...里",
+        "componentRole": "介词",
+        "componentZh": "在...里",
+        "parentComponentText": "in the wardrobe",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在...里；定冠词；衣柜"
+      },
+      "5": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the wardrobe",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；衣柜"
+      },
+      "6": {
+        "text": "wardrobe",
+        "phonetic": "ˈwɔːrdroʊb",
+        "pos": "NOUN",
+        "zh": "衣柜",
+        "componentRole": "中心词",
+        "componentZh": "衣柜",
+        "parentComponentText": "the wardrobe",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；衣柜"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-oyxshs6rv7mzjy2pfz8b0apj-1",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-oyxshs6rv7mzjy2pfz8b0apj-1",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "然后",
+    "audioText": "Then",
+    "fullEnglish": "Then",
+    "phonetic": "ðen",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Then",
+        "answer": "Then",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "然后",
+        "phonetic": "ðen",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "Then"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Then",
+        "phonetic": "ðen",
+        "pos": "ADV",
+        "zh": "然后",
+        "componentZh": "然后"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-oyxshs6rv7mzjy2pfz8b0apj-2",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-oyxshs6rv7mzjy2pfz8b0apj-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "放",
+    "audioText": "put",
+    "fullEnglish": "put",
+    "phonetic": "pʊt",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "put",
+        "answer": "put",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "put（原型）: 放置",
+        "phonetic": "pʊt",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "put"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "put",
+        "phonetic": "pʊt",
+        "pos": "VERB",
+        "zh": "put（原型）: 放置",
+        "componentZh": "put（原型）: 放置"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-oyxshs6rv7mzjy2pfz8b0apj-3",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-oyxshs6rv7mzjy2pfz8b0apj-3",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这些",
+    "audioText": "these",
+    "fullEnglish": "these",
+    "phonetic": "ðiːz",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "these",
+        "answer": "these",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "这些",
+        "phonetic": "ðiːz",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "these"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "these",
+        "phonetic": "ðiːz",
+        "pos": "DET",
+        "zh": "这些",
+        "componentZh": "这些"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-oyxshs6rv7mzjy2pfz8b0apj-4",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-oyxshs6rv7mzjy2pfz8b0apj-4",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "衣服（复数）",
+    "audioText": "clothes",
+    "fullEnglish": "clothes",
+    "phonetic": "kloʊðz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "clothes",
+        "answer": "clothes",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "衣服（复数）",
+        "phonetic": "kloʊðz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "clothes"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "clothes",
+        "phonetic": "kloʊðz",
+        "pos": "NOUN",
+        "zh": "衣服（复数）",
+        "componentZh": "衣服（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-oyxshs6rv7mzjy2pfz8b0apj-7",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-oyxshs6rv7mzjy2pfz8b0apj-7",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "衣柜",
+    "audioText": "wardrobe",
+    "fullEnglish": "wardrobe",
+    "phonetic": "ˈwɔːrdroʊb",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "wardrobe",
+        "answer": "wardrobe",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "衣柜",
+        "phonetic": "ˈwɔːrdroʊb",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "wardrobe"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "wardrobe",
+        "phonetic": "ˈwɔːrdroʊb",
+        "pos": "NOUN",
+        "zh": "衣柜",
+        "componentZh": "衣柜"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-S-fhfljatf5y5wxbohzq1seidg",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-S-fhfljatf5y5wxbohzq1seidg",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "然后整理床铺。",
+    "audioText": "Then make the bed",
+    "fullEnglish": "Then make the bed",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Then",
+        "answer": "Then",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "方式/程度状语",
+        "zh": "然后",
+        "phonetic": "ðen",
+        "pos": "ADV"
+      },
+      {
+        "index": 1,
+        "text": "make",
+        "answer": "make",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "做",
+        "phonetic": "meɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "the bed",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；床"
+      },
+      {
+        "index": 3,
+        "text": "bed",
+        "answer": "bed",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "床",
+        "phonetic": "bed",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "the bed",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；床"
+      }
+    ],
+    "shuffledBlocks": [
+      "Then",
+      "the",
+      "bed",
+      "make"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Then",
+        "role": "方式/程度状语",
+        "zh": "然后"
+      },
+      {
+        "id": "ud-2",
+        "text": "make",
+        "role": "谓语",
+        "zh": "做"
+      },
+      {
+        "id": "ud-3",
+        "text": "the bed",
+        "role": "宾语",
+        "zh": "定冠词；床",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-5",
+            "text": "bed",
+            "role": "中心词",
+            "zh": "床"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Then",
+        "phonetic": "ðen",
+        "pos": "ADV",
+        "zh": "然后",
+        "componentRole": "方式/程度状语",
+        "componentZh": "然后"
+      },
+      "1": {
+        "text": "make",
+        "phonetic": "meɪk",
+        "pos": "VERB",
+        "zh": "做",
+        "componentRole": "谓语",
+        "componentZh": "做"
+      },
+      "2": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the bed",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；床"
+      },
+      "3": {
+        "text": "bed",
+        "phonetic": "bed",
+        "pos": "NOUN",
+        "zh": "床",
+        "componentRole": "中心词",
+        "componentZh": "床",
+        "parentComponentText": "the bed",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；床"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-fhfljatf5y5wxbohzq1seidg-2",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-fhfljatf5y5wxbohzq1seidg-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "整理",
+    "audioText": "make",
+    "fullEnglish": "make",
+    "phonetic": "meɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "make",
+        "answer": "make",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "meɪk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "make"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "make",
+        "phonetic": "meɪk",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-fhfljatf5y5wxbohzq1seidg-4",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-fhfljatf5y5wxbohzq1seidg-4",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "床",
+    "audioText": "bed",
+    "fullEnglish": "bed",
+    "phonetic": "bed",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "bed",
+        "answer": "bed",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "床",
+        "phonetic": "bed",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "bed"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "bed",
+        "phonetic": "bed",
+        "pos": "NOUN",
+        "zh": "床",
+        "componentZh": "床"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-S-yqgxg70n987zhfasm50zbytf",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-S-yqgxg70n987zhfasm50zbytf",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "掸去梳妆台上的灰尘。",
+    "audioText": "Dust the dressing table",
+    "fullEnglish": "Dust the dressing table",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Dust",
+        "answer": "Dust",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "除尘",
+        "phonetic": "dʌst",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the dressing table",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；梳妆；桌子"
+      },
+      {
+        "index": 2,
+        "text": "dressing",
+        "answer": "dressing",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "定语（名词修饰）",
+        "zh": "梳妆",
+        "phonetic": "ˈdresɪŋ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the dressing table",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；梳妆；桌子"
+      },
+      {
+        "index": 3,
+        "text": "table",
+        "answer": "table",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "桌子",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the dressing table",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；梳妆；桌子"
+      }
+    ],
+    "shuffledBlocks": [
+      "Dust",
+      "dressing",
+      "the",
+      "table"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Dust",
+        "role": "谓语",
+        "zh": "除尘"
+      },
+      {
+        "id": "ud-2",
+        "text": "the dressing table",
+        "role": "宾语",
+        "zh": "定冠词；梳妆；桌子",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-4",
+            "text": "dressing",
+            "role": "定语（名词修饰）",
+            "zh": "梳妆"
+          },
+          {
+            "id": "ud-5",
+            "text": "table",
+            "role": "中心词",
+            "zh": "桌子"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Dust",
+        "phonetic": "dʌst",
+        "pos": "VERB",
+        "zh": "除尘",
+        "componentRole": "谓语",
+        "componentZh": "除尘"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the dressing table",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；梳妆；桌子"
+      },
+      "2": {
+        "text": "dressing",
+        "phonetic": "ˈdresɪŋ",
+        "pos": "NOUN",
+        "zh": "梳妆",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "梳妆",
+        "parentComponentText": "the dressing table",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；梳妆；桌子"
+      },
+      "3": {
+        "text": "table",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "zh": "桌子",
+        "componentRole": "中心词",
+        "componentZh": "桌子",
+        "parentComponentText": "the dressing table",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；梳妆；桌子"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-yqgxg70n987zhfasm50zbytf-1",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-yqgxg70n987zhfasm50zbytf-1",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "除尘",
+    "audioText": "Dust",
+    "fullEnglish": "Dust",
+    "phonetic": "dʌst",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Dust",
+        "answer": "Dust",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "除尘",
+        "phonetic": "dʌst",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Dust"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Dust",
+        "phonetic": "dʌst",
+        "pos": "VERB",
+        "zh": "除尘",
+        "componentZh": "除尘"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-yqgxg70n987zhfasm50zbytf-3",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-yqgxg70n987zhfasm50zbytf-3",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "梳妆",
+    "audioText": "dressing",
+    "fullEnglish": "dressing",
+    "phonetic": "ˈdresɪŋ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "dressing",
+        "answer": "dressing",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "梳妆",
+        "phonetic": "ˈdresɪŋ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "dressing"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "dressing",
+        "phonetic": "ˈdresɪŋ",
+        "pos": "NOUN",
+        "zh": "梳妆",
+        "componentZh": "梳妆"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-yqgxg70n987zhfasm50zbytf-4",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-yqgxg70n987zhfasm50zbytf-4",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "桌子",
+    "audioText": "table",
+    "fullEnglish": "table",
+    "phonetic": "ˈteɪbl",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "table",
+        "answer": "table",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "桌子",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "table"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "table",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "zh": "桌子",
+        "componentZh": "桌子"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-S-fjdf9j2klq6bnuncl2bze0mf",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-S-fjdf9j2klq6bnuncl2bze0mf",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "然后扫地。",
+    "audioText": "Then sweep the floor",
+    "fullEnglish": "Then sweep the floor",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Then",
+        "answer": "Then",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "方式/程度状语",
+        "zh": "然后",
+        "phonetic": "ðen",
+        "pos": "ADV"
+      },
+      {
+        "index": 1,
+        "text": "sweep",
+        "answer": "sweep",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "打扫",
+        "phonetic": "swiːp",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "the floor",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；地板"
+      },
+      {
+        "index": 3,
+        "text": "floor",
+        "answer": "floor",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "地板",
+        "phonetic": "flɔːr",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "the floor",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；地板"
+      }
+    ],
+    "shuffledBlocks": [
+      "floor",
+      "Then",
+      "sweep",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Then",
+        "role": "方式/程度状语",
+        "zh": "然后"
+      },
+      {
+        "id": "ud-2",
+        "text": "sweep",
+        "role": "谓语",
+        "zh": "打扫"
+      },
+      {
+        "id": "ud-3",
+        "text": "the floor",
+        "role": "宾语",
+        "zh": "定冠词；地板",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-5",
+            "text": "floor",
+            "role": "中心词",
+            "zh": "地板"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Then",
+        "phonetic": "ðen",
+        "pos": "ADV",
+        "zh": "然后",
+        "componentRole": "方式/程度状语",
+        "componentZh": "然后"
+      },
+      "1": {
+        "text": "sweep",
+        "phonetic": "swiːp",
+        "pos": "VERB",
+        "zh": "打扫",
+        "componentRole": "谓语",
+        "componentZh": "打扫"
+      },
+      "2": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the floor",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；地板"
+      },
+      "3": {
+        "text": "floor",
+        "phonetic": "flɔːr",
+        "pos": "NOUN",
+        "zh": "地板",
+        "componentRole": "中心词",
+        "componentZh": "地板",
+        "parentComponentText": "the floor",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；地板"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-fjdf9j2klq6bnuncl2bze0mf-2",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-fjdf9j2klq6bnuncl2bze0mf-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "打扫",
+    "audioText": "sweep",
+    "fullEnglish": "sweep",
+    "phonetic": "swiːp",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "sweep",
+        "answer": "sweep",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "打扫",
+        "phonetic": "swiːp",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "sweep"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "sweep",
+        "phonetic": "swiːp",
+        "pos": "VERB",
+        "zh": "打扫",
+        "componentZh": "打扫"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-W-fjdf9j2klq6bnuncl2bze0mf-4",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-W-fjdf9j2klq6bnuncl2bze0mf-4",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "地板",
+    "audioText": "floor",
+    "fullEnglish": "floor",
+    "phonetic": "flɔːr",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "floor",
+        "answer": "floor",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "地板",
+        "phonetic": "flɔːr",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "floor"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "floor",
+        "phonetic": "flɔːr",
+        "pos": "NOUN",
+        "zh": "地板",
+        "componentZh": "地板"
+      }
+    }
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-dd91wud1vo60bl7yrjvaw73i",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-dd91wud1vo60bl7yrjvaw73i",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "进来",
+    "audioText": "Come in",
+    "fullEnglish": "Come in",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Come",
+        "answer": "Come",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "来",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...里",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "in",
+      "Come"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Come",
+        "role": "谓语",
+        "zh": "来"
+      },
+      {
+        "id": "ud-2",
+        "text": "in",
+        "role": "方式/程度状语",
+        "zh": "在...里"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Come",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "zh": "来",
+        "componentZh": "来",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在...里",
+        "componentZh": "在...里",
+        "componentRole": "方式/程度状语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-g2i47wmhjf2psnbj8su51w6s",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-g2i47wmhjf2psnbj8su51w6s",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "门",
+    "audioText": "the door",
+    "fullEnglish": "the door",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "door",
+        "answer": "door",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "门",
+        "phonetic": "dɔr",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "door"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "door",
+        "role": "中心成分",
+        "zh": "门"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "door",
+        "phonetic": "dɔr",
+        "pos": "NOUN",
+        "zh": "门",
+        "componentZh": "门",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-plnvhnep8ckvlcphjvfp18uk",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-plnvhnep8ckvlcphjvfp18uk",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请关上门,",
+    "audioText": "Shut the door",
+    "fullEnglish": "Shut the door",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Shut",
+        "answer": "Shut",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "关闭",
+        "phonetic": "ʃʌt",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the door",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；门"
+      },
+      {
+        "index": 2,
+        "text": "door",
+        "answer": "door",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "门",
+        "phonetic": "dɔr",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the door",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；门"
+      }
+    ],
+    "shuffledBlocks": [
+      "Shut",
+      "the",
+      "door"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Shut",
+        "role": "谓语",
+        "zh": "关闭"
+      },
+      {
+        "id": "ud-2",
+        "text": "the door",
+        "role": "宾语",
+        "zh": "定冠词；门",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-4",
+            "text": "door",
+            "role": "中心词",
+            "zh": "门"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Shut",
+        "phonetic": "ʃʌt",
+        "pos": "VERB",
+        "zh": "关闭",
+        "componentZh": "关闭",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "限定词",
+        "parentComponentText": "the door",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；门"
+      },
+      "2": {
+        "text": "door",
+        "phonetic": "dɔr",
+        "pos": "NOUN",
+        "zh": "门",
+        "componentZh": "门",
+        "componentRole": "中心词",
+        "parentComponentText": "the door",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；门"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-w6i4zes7f3sboqgegecc73sz",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-w6i4zes7f3sboqgegecc73sz",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请",
+    "audioText": "please",
+    "fullEnglish": "please",
+    "phonetic": "pliːz",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "please"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "please",
+        "role": "中心成分",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentZh": "请",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-wbj8xjgzxo5mxlgh0k98wgjq",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-wbj8xjgzxo5mxlgh0k98wgjq",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这间卧室",
+    "audioText": "This bedroom",
+    "fullEnglish": "This bedroom",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "This",
+        "answer": "This",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "bedroom",
+        "answer": "bedroom",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "卧室",
+        "phonetic": "ˈbedruːm; ˈbedrʊm",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "bedroom",
+      "This"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "This",
+        "role": "补充成分",
+        "zh": "这个"
+      },
+      {
+        "id": "ud-2",
+        "text": "bedroom",
+        "role": "中心成分",
+        "zh": "卧室"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "This",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentZh": "这个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "bedroom",
+        "phonetic": "ˈbedruːm; ˈbedrʊm",
+        "pos": "NOUN",
+        "zh": "卧室",
+        "componentZh": "卧室",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-uttx32154rns1zzo6iwghlir",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-uttx32154rns1zzo6iwghlir",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "非常凌乱",
+    "audioText": "is very untidy",
+    "fullEnglish": "is very untidy",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "系动词"
+      },
+      {
+        "index": 1,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 2,
+        "text": "untidy",
+        "answer": "untidy",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "不整洁的",
+        "phonetic": "ʌnˈtaɪdi",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "is",
+      "untidy",
+      "very"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-2",
+        "text": "very",
+        "role": "方式/程度状语",
+        "zh": "非常"
+      },
+      {
+        "id": "ud-3",
+        "text": "untidy",
+        "role": "表语",
+        "zh": "不整洁的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是",
+        "componentRole": "系动词"
+      },
+      "1": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentZh": "非常",
+        "componentRole": "方式/程度状语"
+      },
+      "2": {
+        "text": "untidy",
+        "phonetic": "ʌnˈtaɪdi",
+        "pos": "ADJ",
+        "zh": "不整洁的",
+        "componentZh": "不整洁的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "主系表结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-jcbsuqfza9hf188g8b5t2et7",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-jcbsuqfza9hf188g8b5t2et7",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我必须做",
+    "audioText": "must I do",
+    "fullEnglish": "must I do",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "must",
+        "answer": "must",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "必须",
+        "phonetic": "mʌst; məst",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "must",
+      "do",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "must",
+        "role": "助动词",
+        "zh": "必须"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "do",
+        "role": "谓语",
+        "zh": "做"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "must",
+        "phonetic": "mʌst; məst",
+        "pos": "AUX",
+        "zh": "必须",
+        "componentZh": "必须",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-rdlce6wdrjelf1g24rrifzxs",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-rdlce6wdrjelf1g24rrifzxs",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我必须做什么",
+    "audioText": "What must I do",
+    "fullEnglish": "What must I do",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "宾语"
+      },
+      {
+        "index": 1,
+        "text": "must",
+        "answer": "must",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "必须",
+        "phonetic": "mʌst; məst",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "助动词"
+      },
+      {
+        "index": 2,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-3",
+        "role": "主语"
+      },
+      {
+        "index": 3,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "componentId": "ud-4",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "What",
+      "do",
+      "I",
+      "must"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What",
+        "role": "宾语",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "must",
+        "role": "助动词",
+        "zh": "必须"
+      },
+      {
+        "id": "ud-3",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-4",
+        "text": "do",
+        "role": "谓语",
+        "zh": "做"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么",
+        "componentRole": "宾语"
+      },
+      "1": {
+        "text": "must",
+        "phonetic": "mʌst; məst",
+        "pos": "AUX",
+        "zh": "必须",
+        "componentZh": "必须",
+        "componentRole": "助动词"
+      },
+      "2": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "3": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓宾结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-a0n5mii0xky9xsbtaqeidkdb",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-a0n5mii0xky9xsbtaqeidkdb",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Jones女士？",
+    "audioText": "Mrs. Jones",
+    "fullEnglish": "Mrs. Jones",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Mrs",
+        "answer": "Mrs",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "夫人",
+        "phonetic": "ˈmɪsɪz",
+        "pos": "NOUN",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Jones女士？"
+      },
+      {
+        "index": 2,
+        "text": "Jones",
+        "answer": "Jones",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "Jones",
+        "phonetic": "dʒoʊnz",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "Mrs",
+      "Jones"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Mrs",
+        "role": "中心成分",
+        "zh": "夫人"
+      },
+      {
+        "id": "ud-2",
+        "text": "Jones",
+        "role": "补充成分",
+        "zh": "Jones"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Mrs",
+        "phonetic": "ˈmɪsɪz",
+        "pos": "NOUN",
+        "zh": "夫人",
+        "componentZh": "夫人",
+        "componentRole": "中心成分"
+      },
+      "2": {
+        "text": "Jones",
+        "phonetic": "dʒoʊnz",
+        "pos": "PROPN_PERSON",
+        "zh": "Jones",
+        "componentZh": "Jones",
+        "componentRole": "补充成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-ashp7muk3eytz9rmsak2iapw",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-ashp7muk3eytz9rmsak2iapw",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "窗户",
+    "audioText": "the window",
+    "fullEnglish": "the window",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "window",
+        "answer": "window",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "窗户",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "window",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "window",
+        "role": "中心成分",
+        "zh": "窗户"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "window",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "zh": "窗户",
+        "componentZh": "窗户",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-oijm73pj9wqbrlm87mwx6jwd",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-oijm73pj9wqbrlm87mwx6jwd",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "打开窗户",
+    "audioText": "Open the window",
+    "fullEnglish": "Open the window",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Open",
+        "answer": "Open",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "打开",
+        "phonetic": "ˈoʊpən",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the window",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；窗户"
+      },
+      {
+        "index": 2,
+        "text": "window",
+        "answer": "window",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "窗户",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the window",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；窗户"
+      }
+    ],
+    "shuffledBlocks": [
+      "window",
+      "the",
+      "Open"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Open",
+        "role": "谓语",
+        "zh": "打开"
+      },
+      {
+        "id": "ud-2",
+        "text": "the window",
+        "role": "宾语",
+        "zh": "定冠词；窗户",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-4",
+            "text": "window",
+            "role": "中心词",
+            "zh": "窗户"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Open",
+        "phonetic": "ˈoʊpən",
+        "pos": "VERB",
+        "zh": "打开",
+        "componentZh": "打开",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "限定词",
+        "parentComponentText": "the window",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；窗户"
+      },
+      "2": {
+        "text": "window",
+        "phonetic": "ˈwɪndoʊ",
+        "pos": "NOUN",
+        "zh": "窗户",
+        "componentZh": "窗户",
+        "componentRole": "中心词",
+        "parentComponentText": "the window",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；窗户"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-ogpduk3d27fkuulx3ux87a0e",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-ogpduk3d27fkuulx3ux87a0e",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "房间",
+    "audioText": "the room",
+    "fullEnglish": "the room",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "room",
+        "answer": "room",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "房间",
+        "phonetic": "ruːm",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "room"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "room",
+        "role": "中心成分",
+        "zh": "房间"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "room",
+        "phonetic": "ruːm",
+        "pos": "NOUN",
+        "zh": "房间",
+        "componentZh": "房间",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-bcwny2e3ffr4i3fy32a6mnm5",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-bcwny2e3ffr4i3fy32a6mnm5",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "并给房间通风",
+    "audioText": "and air the room",
+    "fullEnglish": "and air the room",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "componentId": "ud-1",
+        "role": "并列连词"
+      },
+      {
+        "index": 1,
+        "text": "air",
+        "answer": "air",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "空",
+        "phonetic": "ɛr",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "谓语"
+      },
+      {
+        "index": 2,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "the room",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；房间"
+      },
+      {
+        "index": 3,
+        "text": "room",
+        "answer": "room",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "房间",
+        "phonetic": "ruːm",
+        "pos": "NOUN",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "the room",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；房间"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "room",
+      "air",
+      "and"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "and",
+        "role": "并列连词",
+        "zh": "和"
+      },
+      {
+        "id": "ud-2",
+        "text": "air",
+        "role": "谓语",
+        "zh": "空"
+      },
+      {
+        "id": "ud-3",
+        "text": "the room",
+        "role": "宾语",
+        "zh": "定冠词；房间",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-5",
+            "text": "room",
+            "role": "中心词",
+            "zh": "房间"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和",
+        "componentRole": "并列连词"
+      },
+      "1": {
+        "text": "air",
+        "phonetic": "ɛr",
+        "pos": "NOUN",
+        "zh": "空",
+        "componentZh": "空",
+        "componentRole": "谓语"
+      },
+      "2": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "限定词",
+        "parentComponentText": "the room",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；房间"
+      },
+      "3": {
+        "text": "room",
+        "phonetic": "ruːm",
+        "pos": "NOUN",
+        "zh": "房间",
+        "componentZh": "房间",
+        "componentRole": "中心词",
+        "parentComponentText": "the room",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；房间"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-l7da7i5fpe7m3cm5wk146yr9",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-l7da7i5fpe7m3cm5wk146yr9",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这些衣服",
+    "audioText": "these clothes",
+    "fullEnglish": "these clothes",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "these",
+        "answer": "these",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "这些",
+        "phonetic": "ðiːz",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "clothes",
+        "answer": "clothes",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "衣服（复数）",
+        "phonetic": "kloʊðz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "clothes",
+      "these"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "these",
+        "role": "补充成分",
+        "zh": "这些"
+      },
+      {
+        "id": "ud-2",
+        "text": "clothes",
+        "role": "中心成分",
+        "zh": "衣服（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "these",
+        "phonetic": "ðiːz",
+        "pos": "DET",
+        "zh": "这些",
+        "componentZh": "这些",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "clothes",
+        "phonetic": "kloʊðz",
+        "pos": "NOUN",
+        "zh": "衣服（复数）",
+        "componentZh": "衣服（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-zmw016bdz7flylif4mukgm1i",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-zmw016bdz7flylif4mukgm1i",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "然后把这些衣服",
+    "audioText": "Then put these clothes",
+    "fullEnglish": "Then put these clothes",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Then",
+        "answer": "Then",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "然后",
+        "phonetic": "ðen",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "put",
+        "answer": "put",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "put（原型）: 放置",
+        "phonetic": "pʊt",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      },
+      {
+        "index": 2,
+        "text": "these",
+        "answer": "these",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "这些",
+        "phonetic": "ðiːz",
+        "pos": "DET",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "these clothes",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这些；衣服（复数）"
+      },
+      {
+        "index": 3,
+        "text": "clothes",
+        "answer": "clothes",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "衣服（复数）",
+        "phonetic": "kloʊðz",
+        "pos": "NOUN",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "these clothes",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这些；衣服（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "put",
+      "Then",
+      "clothes",
+      "these"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Then",
+        "role": "方式/程度状语",
+        "zh": "然后"
+      },
+      {
+        "id": "ud-2",
+        "text": "put",
+        "role": "谓语",
+        "zh": "put（原型）: 放置"
+      },
+      {
+        "id": "ud-3",
+        "text": "these clothes",
+        "role": "宾语",
+        "zh": "这些；衣服（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "these",
+            "role": "限定词",
+            "zh": "这些"
+          },
+          {
+            "id": "ud-5",
+            "text": "clothes",
+            "role": "中心词",
+            "zh": "衣服（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Then",
+        "phonetic": "ðen",
+        "pos": "ADV",
+        "zh": "然后",
+        "componentZh": "然后",
+        "componentRole": "方式/程度状语"
+      },
+      "1": {
+        "text": "put",
+        "phonetic": "pʊt",
+        "pos": "VERB",
+        "zh": "put（原型）: 放置",
+        "componentZh": "put（原型）: 放置",
+        "componentRole": "谓语"
+      },
+      "2": {
+        "text": "these",
+        "phonetic": "ðiːz",
+        "pos": "DET",
+        "zh": "这些",
+        "componentZh": "这些",
+        "componentRole": "限定词",
+        "parentComponentText": "these clothes",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这些；衣服（复数）"
+      },
+      "3": {
+        "text": "clothes",
+        "phonetic": "kloʊðz",
+        "pos": "NOUN",
+        "zh": "衣服（复数）",
+        "componentZh": "衣服（复数）",
+        "componentRole": "中心词",
+        "parentComponentText": "these clothes",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这些；衣服（复数）"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-s4flflxtjwkh1p2ru32quqsj",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-s4flflxtjwkh1p2ru32quqsj",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "衣柜里",
+    "audioText": "the wardrobe",
+    "fullEnglish": "the wardrobe",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "wardrobe",
+        "answer": "wardrobe",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "衣柜",
+        "phonetic": "ˈwɔːrdroʊb",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "wardrobe"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "wardrobe",
+        "role": "中心成分",
+        "zh": "衣柜"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "wardrobe",
+        "phonetic": "ˈwɔːrdroʊb",
+        "pos": "NOUN",
+        "zh": "衣柜",
+        "componentZh": "衣柜",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-wow8kqxo7c6vk7dt2lsd1mri",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-wow8kqxo7c6vk7dt2lsd1mri",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "放进衣柜里",
+    "audioText": "in the wardrobe",
+    "fullEnglish": "in the wardrobe",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...里",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "wardrobe",
+        "answer": "wardrobe",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "衣柜",
+        "phonetic": "ˈwɔːrdroʊb",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "in",
+      "wardrobe"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "in",
+        "role": "补充成分",
+        "zh": "在...里"
+      },
+      {
+        "id": "ud-2",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-3",
+        "text": "wardrobe",
+        "role": "中心成分",
+        "zh": "衣柜"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在...里",
+        "componentZh": "在...里",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "wardrobe",
+        "phonetic": "ˈwɔːrdroʊb",
+        "pos": "NOUN",
+        "zh": "衣柜",
+        "componentZh": "衣柜",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-zqt105p02t7aeor0gzjmy5d3",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-zqt105p02t7aeor0gzjmy5d3",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "整理床铺",
+    "audioText": "make the bed",
+    "fullEnglish": "make the bed",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "make",
+        "answer": "make",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "meɪk",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the bed",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；床"
+      },
+      {
+        "index": 2,
+        "text": "bed",
+        "answer": "bed",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "床",
+        "phonetic": "bed",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the bed",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；床"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "make",
+      "bed"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "make",
+        "role": "谓语",
+        "zh": "做"
+      },
+      {
+        "id": "ud-2",
+        "text": "the bed",
+        "role": "宾语",
+        "zh": "定冠词；床",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-4",
+            "text": "bed",
+            "role": "中心词",
+            "zh": "床"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "make",
+        "phonetic": "meɪk",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "限定词",
+        "parentComponentText": "the bed",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；床"
+      },
+      "2": {
+        "text": "bed",
+        "phonetic": "bed",
+        "pos": "NOUN",
+        "zh": "床",
+        "componentZh": "床",
+        "componentRole": "中心词",
+        "parentComponentText": "the bed",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；床"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-ejocloxtaqx2migngg0yx27r",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-ejocloxtaqx2migngg0yx27r",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "梳妆台",
+    "audioText": "the dressing table",
+    "fullEnglish": "the dressing table",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "dressing",
+        "answer": "dressing",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "梳妆",
+        "phonetic": "ˈdresɪŋ",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "table",
+        "answer": "table",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "桌子",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "table",
+      "dressing"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "dressing",
+        "role": "补充成分",
+        "zh": "梳妆"
+      },
+      {
+        "id": "ud-3",
+        "text": "table",
+        "role": "中心成分",
+        "zh": "桌子"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "dressing",
+        "phonetic": "ˈdresɪŋ",
+        "pos": "NOUN",
+        "zh": "梳妆",
+        "componentZh": "梳妆",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "table",
+        "phonetic": "ˈteɪbl",
+        "pos": "NOUN",
+        "zh": "桌子",
+        "componentZh": "桌子",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-y15ej2l1d0mpvlcnzz0olo9m",
+    "contentId": "JLB-fv7ioaoxbultp9ost0s1o63e-PHRASE-y15ej2l1d0mpvlcnzz0olo9m",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "fv7ioaoxbultp9ost0s1o63e",
+    "unitTitle": "Lesson 29",
+    "section": "",
+    "importance": "",
+    "displayChinese": "地板",
+    "audioText": "the floor",
+    "fullEnglish": "the floor",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "floor",
+        "answer": "floor",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "地板",
+        "phonetic": "flɔːr",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "floor",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "floor",
+        "role": "中心成分",
+        "zh": "地板"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "floor",
+        "phonetic": "flɔːr",
+        "pos": "NOUN",
+        "zh": "地板",
+        "componentZh": "地板",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

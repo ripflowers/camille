@@ -1,0 +1,3251 @@
+[
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-S-hdgzcm5jg3ys83gtquss7e3h",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-S-hdgzcm5jg3ys83gtquss7e3h",
+    "type": "sentence",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我想成为一名足球运动员。",
+    "audioText": "I want to be a football player",
+    "fullEnglish": "I want to be a football player",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "want",
+        "answer": "want",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "想要",
+        "phonetic": "wɑːnt",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "修饰语",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to be a football player",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；是；一个；足球；运动员"
+      },
+      {
+        "index": 3,
+        "text": "be",
+        "answer": "be",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "动词",
+        "zh": "是",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to be a football player",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；是；一个；足球；运动员"
+      },
+      {
+        "index": 4,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to be a football player",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；是；一个；足球；运动员"
+      },
+      {
+        "index": 5,
+        "text": "football",
+        "answer": "football",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "定语（名词修饰）",
+        "zh": "足球",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to be a football player",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；是；一个；足球；运动员"
+      },
+      {
+        "index": 6,
+        "text": "player",
+        "answer": "player",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "运动员",
+        "phonetic": "ˈpleɪər",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to be a football player",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；是；一个；足球；运动员"
+      }
+    ],
+    "shuffledBlocks": [
+      "to",
+      "football",
+      "want",
+      "player",
+      "be",
+      "a",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "want",
+        "role": "谓语",
+        "zh": "想要"
+      },
+      {
+        "id": "ud-3",
+        "text": "to be a football player",
+        "role": "不定式短语",
+        "zh": "引导不定式；是；一个；足球；运动员",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "to",
+            "role": "修饰语",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-5",
+            "text": "be",
+            "role": "动词",
+            "zh": "是"
+          },
+          {
+            "id": "ud-6",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-7",
+            "text": "football",
+            "role": "定语（名词修饰）",
+            "zh": "足球"
+          },
+          {
+            "id": "ud-8",
+            "text": "player",
+            "role": "中心词",
+            "zh": "运动员"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "want",
+        "phonetic": "wɑːnt",
+        "pos": "VERB",
+        "zh": "想要",
+        "componentRole": "谓语",
+        "componentZh": "想要"
+      },
+      "2": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentRole": "修饰语",
+        "componentZh": "引导不定式",
+        "parentComponentText": "to be a football player",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；是；一个；足球；运动员"
+      },
+      "3": {
+        "text": "be",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "zh": "是",
+        "componentRole": "动词",
+        "componentZh": "是",
+        "parentComponentText": "to be a football player",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；是；一个；足球；运动员"
+      },
+      "4": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "to be a football player",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；是；一个；足球；运动员"
+      },
+      "5": {
+        "text": "football",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN",
+        "zh": "足球",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "足球",
+        "parentComponentText": "to be a football player",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；是；一个；足球；运动员"
+      },
+      "6": {
+        "text": "player",
+        "phonetic": "ˈpleɪər",
+        "pos": "NOUN",
+        "zh": "运动员",
+        "componentRole": "中心词",
+        "componentZh": "运动员",
+        "parentComponentText": "to be a football player",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；是；一个；足球；运动员"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-hdgzcm5jg3ys83gtquss7e3h-1",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-hdgzcm5jg3ys83gtquss7e3h-1",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-hdgzcm5jg3ys83gtquss7e3h-2",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-hdgzcm5jg3ys83gtquss7e3h-2",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "想要",
+    "audioText": "want",
+    "fullEnglish": "want",
+    "phonetic": "wɑːnt",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "want",
+        "answer": "want",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "想要",
+        "phonetic": "wɑːnt",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "want"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "want",
+        "phonetic": "wɑːnt",
+        "pos": "VERB",
+        "zh": "想要",
+        "componentZh": "想要"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-hdgzcm5jg3ys83gtquss7e3h-3",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-hdgzcm5jg3ys83gtquss7e3h-3",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "引导不定式",
+    "audioText": "to",
+    "fullEnglish": "to",
+    "phonetic": "tuː; tə",
+    "pos": "PART",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART"
+      }
+    ],
+    "shuffledBlocks": [
+      "to"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-hdgzcm5jg3ys83gtquss7e3h-4",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-hdgzcm5jg3ys83gtquss7e3h-4",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "成为",
+    "audioText": "be",
+    "fullEnglish": "be",
+    "phonetic": "biː",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "be",
+        "answer": "be",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "biː",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "be"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "be",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "zh": "是",
+        "componentZh": "是"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-hdgzcm5jg3ys83gtquss7e3h-5",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-hdgzcm5jg3ys83gtquss7e3h-5",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个",
+    "audioText": "a",
+    "fullEnglish": "a",
+    "phonetic": "ə; eɪ",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "a"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-hdgzcm5jg3ys83gtquss7e3h-6",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-hdgzcm5jg3ys83gtquss7e3h-6",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "足球",
+    "audioText": "football",
+    "fullEnglish": "football",
+    "phonetic": "ˈfʊtbɔːl",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "football",
+        "answer": "football",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "足球",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "football"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "football",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN",
+        "zh": "足球",
+        "componentZh": "足球"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-hdgzcm5jg3ys83gtquss7e3h-7",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-hdgzcm5jg3ys83gtquss7e3h-7",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "运动员",
+    "audioText": "player",
+    "fullEnglish": "player",
+    "phonetic": "ˈpleɪər",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "player",
+        "answer": "player",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "运动员",
+        "phonetic": "ˈpleɪər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "player"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "player",
+        "phonetic": "ˈpleɪər",
+        "pos": "NOUN",
+        "zh": "运动员",
+        "componentZh": "运动员"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-S-tgdbgm4o5rq7k48hdj1uqxwe",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-S-tgdbgm4o5rq7k48hdj1uqxwe",
+    "type": "sentence",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我喜欢游泳。我想成为一名游泳运动员。",
+    "audioText": "I like swimming. I want to be a swimmer",
+    "fullEnglish": "I like swimming. I want to be a swimmer",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "swimming",
+        "answer": "swimming",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "宾语",
+        "zh": "swim（现在分词）: 游泳",
+        "phonetic": "ˈswɪmɪŋ",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我喜欢游泳。我想成为一名游泳运动员。"
+      },
+      {
+        "index": 4,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "want",
+        "answer": "want",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "谓语",
+        "zh": "想要",
+        "phonetic": "wɑːnt",
+        "pos": "VERB"
+      },
+      {
+        "index": 6,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "修饰语",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "to be a swimmer",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；是；一个；游泳者"
+      },
+      {
+        "index": 7,
+        "text": "be",
+        "answer": "be",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "动词",
+        "zh": "是",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "to be a swimmer",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；是；一个；游泳者"
+      },
+      {
+        "index": 8,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "to be a swimmer",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；是；一个；游泳者"
+      },
+      {
+        "index": 9,
+        "text": "swimmer",
+        "answer": "swimmer",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "中心词",
+        "zh": "游泳者",
+        "phonetic": "ˈswɪmər",
+        "pos": "NOUN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "to be a swimmer",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；是；一个；游泳者"
+      }
+    ],
+    "shuffledBlocks": [
+      "like",
+      "swimmer",
+      "want",
+      "a",
+      "to",
+      "be",
+      "I",
+      "swimming",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-3",
+        "text": "swimming",
+        "role": "宾语",
+        "zh": "swim（现在分词）: 游泳"
+      },
+      {
+        "id": "ud-4",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-5",
+        "text": "want",
+        "role": "谓语",
+        "zh": "想要"
+      },
+      {
+        "id": "ud-6",
+        "text": "to be a swimmer",
+        "role": "不定式短语",
+        "zh": "引导不定式；是；一个；游泳者",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "to",
+            "role": "修饰语",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-8",
+            "text": "be",
+            "role": "动词",
+            "zh": "是"
+          },
+          {
+            "id": "ud-9",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-10",
+            "text": "swimmer",
+            "role": "中心词",
+            "zh": "游泳者"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "谓语",
+        "componentZh": "喜欢"
+      },
+      "2": {
+        "text": "swimming",
+        "phonetic": "ˈswɪmɪŋ",
+        "pos": "VERB",
+        "zh": "swim（现在分词）: 游泳",
+        "componentRole": "宾语",
+        "componentZh": "swim（现在分词）: 游泳"
+      },
+      "4": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "5": {
+        "text": "want",
+        "phonetic": "wɑːnt",
+        "pos": "VERB",
+        "zh": "想要",
+        "componentRole": "谓语",
+        "componentZh": "想要"
+      },
+      "6": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentRole": "修饰语",
+        "componentZh": "引导不定式",
+        "parentComponentText": "to be a swimmer",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；是；一个；游泳者"
+      },
+      "7": {
+        "text": "be",
+        "phonetic": "biː",
+        "pos": "VERB",
+        "zh": "是",
+        "componentRole": "动词",
+        "componentZh": "是",
+        "parentComponentText": "to be a swimmer",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；是；一个；游泳者"
+      },
+      "8": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "to be a swimmer",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；是；一个；游泳者"
+      },
+      "9": {
+        "text": "swimmer",
+        "phonetic": "ˈswɪmər",
+        "pos": "NOUN",
+        "zh": "游泳者",
+        "componentRole": "中心词",
+        "componentZh": "游泳者",
+        "parentComponentText": "to be a swimmer",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；是；一个；游泳者"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-tgdbgm4o5rq7k48hdj1uqxwe-2",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-tgdbgm4o5rq7k48hdj1uqxwe-2",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "喜欢",
+    "audioText": "like",
+    "fullEnglish": "like",
+    "phonetic": "laɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "like"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentZh": "喜欢"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-tgdbgm4o5rq7k48hdj1uqxwe-3",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-tgdbgm4o5rq7k48hdj1uqxwe-3",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "swim（现在分词）: 游泳",
+    "audioText": "swimming",
+    "fullEnglish": "swimming",
+    "phonetic": "ˈswɪmɪŋ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "swimming",
+        "answer": "swimming",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "swim（现在分词）: 游泳",
+        "phonetic": "ˈswɪmɪŋ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "swimming"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "swimming",
+        "phonetic": "ˈswɪmɪŋ",
+        "pos": "VERB",
+        "zh": "swim（现在分词）: 游泳",
+        "componentZh": "swim（现在分词）: 游泳"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-tgdbgm4o5rq7k48hdj1uqxwe-8",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-tgdbgm4o5rq7k48hdj1uqxwe-8",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "游泳者",
+    "audioText": "swimmer",
+    "fullEnglish": "swimmer",
+    "phonetic": "ˈswɪmər",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "swimmer",
+        "answer": "swimmer",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "游泳者",
+        "phonetic": "ˈswɪmər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "swimmer"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "swimmer",
+        "phonetic": "ˈswɪmər",
+        "pos": "NOUN",
+        "zh": "游泳者",
+        "componentZh": "游泳者"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-S-fjq7fusxgclooypjljdclmdu",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-S-fjq7fusxgclooypjljdclmdu",
+    "type": "sentence",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你要上足球课吗？",
+    "audioText": "Will you take football lessons?",
+    "fullEnglish": "Will you take football lessons?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Will",
+        "answer": "Will",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "将",
+        "phonetic": "wɪl",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "take",
+        "answer": "take",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "take（短语动词原型）: 照顾",
+        "phonetic": "teɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "football",
+        "answer": "football",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "定语（名词修饰）",
+        "zh": "足球",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "football lessons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "足球；课程（复数）"
+      },
+      {
+        "index": 4,
+        "text": "lessons",
+        "answer": "lessons",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "课程（复数）",
+        "phonetic": "ˈlɛsənz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "football lessons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "足球；课程（复数）"
+      },
+      {
+        "index": 5,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你要上足球课吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "take",
+      "you",
+      "Will",
+      "football",
+      "lessons"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Will",
+        "role": "助动词",
+        "zh": "将"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "take",
+        "role": "谓语",
+        "zh": "take（短语动词原型）: 照顾"
+      },
+      {
+        "id": "ud-4",
+        "text": "football lessons",
+        "role": "宾语",
+        "zh": "足球；课程（复数）",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "football",
+            "role": "定语（名词修饰）",
+            "zh": "足球"
+          },
+          {
+            "id": "ud-6",
+            "text": "lessons",
+            "role": "中心词",
+            "zh": "课程（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Will",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "zh": "将",
+        "componentRole": "助动词",
+        "componentZh": "将"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "2": {
+        "text": "take",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "zh": "take（短语动词原型）: 照顾",
+        "componentRole": "谓语",
+        "componentZh": "take（短语动词原型）: 照顾"
+      },
+      "3": {
+        "text": "football",
+        "phonetic": "ˈfʊtbɔːl",
+        "pos": "NOUN",
+        "zh": "足球",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "足球",
+        "parentComponentText": "football lessons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "足球；课程（复数）"
+      },
+      "4": {
+        "text": "lessons",
+        "phonetic": "ˈlɛsənz",
+        "pos": "NOUN",
+        "zh": "课程（复数）",
+        "componentRole": "中心词",
+        "componentZh": "课程（复数）",
+        "parentComponentText": "football lessons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "足球；课程（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-fjq7fusxgclooypjljdclmdu-1",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-fjq7fusxgclooypjljdclmdu-1",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "将",
+    "audioText": "Will",
+    "fullEnglish": "Will",
+    "phonetic": "wɪl",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Will",
+        "answer": "Will",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "将",
+        "phonetic": "wɪl",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "Will"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Will",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "zh": "将",
+        "componentZh": "将"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-fjq7fusxgclooypjljdclmdu-2",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-fjq7fusxgclooypjljdclmdu-2",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-fjq7fusxgclooypjljdclmdu-3",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-fjq7fusxgclooypjljdclmdu-3",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "参加",
+    "audioText": "take",
+    "fullEnglish": "take",
+    "phonetic": "teɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "take",
+        "answer": "take",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "take（短语动词原型）: 照顾",
+        "phonetic": "teɪk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "take"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "take",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "zh": "take（短语动词原型）: 照顾",
+        "componentZh": "take（短语动词原型）: 照顾"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-fjq7fusxgclooypjljdclmdu-5",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-fjq7fusxgclooypjljdclmdu-5",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "课程（复数）",
+    "audioText": "lessons",
+    "fullEnglish": "lessons",
+    "phonetic": "ˈlɛsənz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "lessons",
+        "answer": "lessons",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "课程（复数）",
+        "phonetic": "ˈlɛsənz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "lessons"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "lessons",
+        "phonetic": "ˈlɛsənz",
+        "pos": "NOUN",
+        "zh": "课程（复数）",
+        "componentZh": "课程（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-S-r3izn4k6xwww0lxpzp3l9i8z",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-S-r3izn4k6xwww0lxpzp3l9i8z",
+    "type": "sentence",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我会的。",
+    "audioText": "I will",
+    "fullEnglish": "I will",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "will",
+        "answer": "will",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "将",
+        "phonetic": "wɪl",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "will"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "will",
+        "role": "谓语",
+        "zh": "将"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "will",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "zh": "将",
+        "componentRole": "谓语",
+        "componentZh": "将"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-S-hxwoemq2hfss3bfaywrdpa5u",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-S-hxwoemq2hfss3bfaywrdpa5u",
+    "type": "sentence",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "玲玲这个夏天会上什么课吗？",
+    "audioText": "Will Lingling take any lessons this summer?",
+    "fullEnglish": "Will Lingling take any lessons this summer?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Will",
+        "answer": "Will",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "将",
+        "phonetic": "wɪl",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "Lingling",
+        "answer": "Lingling",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "Lingling",
+        "phonetic": "ˈlɪŋlɪŋ",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 2,
+        "text": "take",
+        "answer": "take",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "take（短语动词原型）: 照顾",
+        "phonetic": "teɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "any",
+        "answer": "any",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "任何",
+        "phonetic": "ˈeni",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "any lessons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；课程（复数）"
+      },
+      {
+        "index": 4,
+        "text": "lessons",
+        "answer": "lessons",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "课程（复数）",
+        "phonetic": "ˈlɛsənz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "any lessons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；课程（复数）"
+      },
+      {
+        "index": 5,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "限定词",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "this summer",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "这个；夏天"
+      },
+      {
+        "index": 6,
+        "text": "summer",
+        "answer": "summer",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "中心词",
+        "zh": "夏天",
+        "phonetic": "ˈsʌmər",
+        "pos": "NOUN",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "this summer",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "这个；夏天"
+      },
+      {
+        "index": 7,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "玲玲这个夏天会上什么课吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "take",
+      "summer",
+      "Will",
+      "Lingling",
+      "lessons",
+      "any",
+      "this"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Will",
+        "role": "助动词",
+        "zh": "将"
+      },
+      {
+        "id": "ud-2",
+        "text": "Lingling",
+        "role": "主语",
+        "zh": "Lingling"
+      },
+      {
+        "id": "ud-3",
+        "text": "take",
+        "role": "谓语",
+        "zh": "take（短语动词原型）: 照顾"
+      },
+      {
+        "id": "ud-4",
+        "text": "any lessons",
+        "role": "宾语",
+        "zh": "任何；课程（复数）",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "any",
+            "role": "限定词",
+            "zh": "任何"
+          },
+          {
+            "id": "ud-6",
+            "text": "lessons",
+            "role": "中心词",
+            "zh": "课程（复数）"
+          }
+        ]
+      },
+      {
+        "id": "ud-7",
+        "text": "this summer",
+        "role": "时间状语",
+        "zh": "这个；夏天",
+        "children": [
+          {
+            "id": "ud-8",
+            "text": "this",
+            "role": "限定词",
+            "zh": "这个"
+          },
+          {
+            "id": "ud-9",
+            "text": "summer",
+            "role": "中心词",
+            "zh": "夏天"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Will",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "zh": "将",
+        "componentRole": "助动词",
+        "componentZh": "将"
+      },
+      "1": {
+        "text": "Lingling",
+        "phonetic": "ˈlɪŋlɪŋ",
+        "pos": "PROPN_PERSON",
+        "zh": "Lingling",
+        "componentRole": "主语",
+        "componentZh": "Lingling"
+      },
+      "2": {
+        "text": "take",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "zh": "take（短语动词原型）: 照顾",
+        "componentRole": "谓语",
+        "componentZh": "take（短语动词原型）: 照顾"
+      },
+      "3": {
+        "text": "any",
+        "phonetic": "ˈeni",
+        "pos": "DET",
+        "zh": "任何",
+        "componentRole": "限定词",
+        "componentZh": "任何",
+        "parentComponentText": "any lessons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；课程（复数）"
+      },
+      "4": {
+        "text": "lessons",
+        "phonetic": "ˈlɛsənz",
+        "pos": "NOUN",
+        "zh": "课程（复数）",
+        "componentRole": "中心词",
+        "componentZh": "课程（复数）",
+        "parentComponentText": "any lessons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "任何；课程（复数）"
+      },
+      "5": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentRole": "限定词",
+        "componentZh": "这个",
+        "parentComponentText": "this summer",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "这个；夏天"
+      },
+      "6": {
+        "text": "summer",
+        "phonetic": "ˈsʌmər",
+        "pos": "NOUN",
+        "zh": "夏天",
+        "componentRole": "中心词",
+        "componentZh": "夏天",
+        "parentComponentText": "this summer",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "这个；夏天"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-hxwoemq2hfss3bfaywrdpa5u-2",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-hxwoemq2hfss3bfaywrdpa5u-2",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Lingling",
+    "audioText": "Lingling",
+    "fullEnglish": "Lingling",
+    "phonetic": "ˈlɪŋlɪŋ",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Lingling",
+        "answer": "Lingling",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "Lingling",
+        "phonetic": "ˈlɪŋlɪŋ",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Lingling"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Lingling",
+        "phonetic": "ˈlɪŋlɪŋ",
+        "pos": "PROPN_PERSON",
+        "zh": "Lingling",
+        "componentZh": "Lingling"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-hxwoemq2hfss3bfaywrdpa5u-4",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-hxwoemq2hfss3bfaywrdpa5u-4",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "任何",
+    "audioText": "any",
+    "fullEnglish": "any",
+    "phonetic": "ˈeni",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "any",
+        "answer": "any",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "任何",
+        "phonetic": "ˈeni",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "any"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "any",
+        "phonetic": "ˈeni",
+        "pos": "DET",
+        "zh": "任何",
+        "componentZh": "任何"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-hxwoemq2hfss3bfaywrdpa5u-6",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-hxwoemq2hfss3bfaywrdpa5u-6",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这个",
+    "audioText": "this",
+    "fullEnglish": "this",
+    "phonetic": "ðɪs",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "this"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentZh": "这个"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-hxwoemq2hfss3bfaywrdpa5u-7",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-hxwoemq2hfss3bfaywrdpa5u-7",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "夏天",
+    "audioText": "summer",
+    "fullEnglish": "summer",
+    "phonetic": "ˈsʌmər",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "summer",
+        "answer": "summer",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "夏天",
+        "phonetic": "ˈsʌmər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "summer"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "summer",
+        "phonetic": "ˈsʌmər",
+        "pos": "NOUN",
+        "zh": "夏天",
+        "componentZh": "夏天"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-S-swftgpufezxj8bntunmbovp5",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-S-swftgpufezxj8bntunmbovp5",
+    "type": "sentence",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不，她不会的。她会待在家里写故事。",
+    "audioText": "No, she won't. She will stay at home and write stories",
+    "fullEnglish": "No, she won't. She will stay at home and write stories",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "No",
+        "answer": "No",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "没有",
+        "phonetic": "noʊ",
+        "pos": "DET"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "不，她不会的。她会待在家里写故事。"
+      },
+      {
+        "index": 2,
+        "text": "she",
+        "answer": "she",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "她",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "won't",
+        "answer": "won't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "方式/程度状语 + 谓语",
+        "zh": "不会",
+        "phonetic": "woʊnt",
+        "pos": "AUX"
+      },
+      {
+        "index": 4,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "不，她不会的。她会待在家里写故事。"
+      },
+      {
+        "index": 5,
+        "text": "She",
+        "answer": "She",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语",
+        "zh": "她",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON"
+      },
+      {
+        "index": 6,
+        "text": "will",
+        "answer": "will",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "助动词",
+        "zh": "将",
+        "phonetic": "wɪl",
+        "pos": "AUX"
+      },
+      {
+        "index": 7,
+        "text": "stay",
+        "answer": "stay",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "谓语",
+        "zh": "停留",
+        "phonetic": "steɪ",
+        "pos": "VERB"
+      },
+      {
+        "index": 8,
+        "text": "at",
+        "answer": "at",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "介词",
+        "zh": "在",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "at home",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；家"
+      },
+      {
+        "index": 9,
+        "text": "home",
+        "answer": "home",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "中心词",
+        "zh": "家",
+        "phonetic": "hoʊm",
+        "pos": "NOUN",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "home",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "家"
+      },
+      {
+        "index": 10,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-12",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-11",
+        "parentComponentText": "and write stories",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；写；故事（复数）"
+      },
+      {
+        "index": 11,
+        "text": "write",
+        "answer": "write",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-13",
+        "role": "谓语",
+        "zh": "写",
+        "phonetic": "raɪt",
+        "pos": "VERB",
+        "parentComponentId": "ud-11",
+        "parentComponentText": "and write stories",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；写；故事（复数）"
+      },
+      {
+        "index": 12,
+        "text": "stories",
+        "answer": "stories",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-14",
+        "role": "宾语",
+        "zh": "故事（复数）",
+        "phonetic": "ˈstɔːriz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-11",
+        "parentComponentText": "and write stories",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；写；故事（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "won't",
+      "She",
+      "stay",
+      "and",
+      "write",
+      "will",
+      "stories",
+      "No",
+      "home",
+      "at",
+      "she"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "No",
+        "role": "语气/引导语",
+        "zh": "没有"
+      },
+      {
+        "id": "ud-2",
+        "text": "she",
+        "role": "主语",
+        "zh": "她"
+      },
+      {
+        "id": "ud-3",
+        "text": "won't",
+        "role": "方式/程度状语 + 谓语",
+        "zh": "不会"
+      },
+      {
+        "id": "ud-4",
+        "text": "She",
+        "role": "主语",
+        "zh": "她"
+      },
+      {
+        "id": "ud-5",
+        "text": "will",
+        "role": "助动词",
+        "zh": "将"
+      },
+      {
+        "id": "ud-6",
+        "text": "stay",
+        "role": "谓语",
+        "zh": "停留"
+      },
+      {
+        "id": "ud-7",
+        "text": "at home",
+        "role": "地点状语",
+        "zh": "在；家",
+        "children": [
+          {
+            "id": "ud-8",
+            "text": "at",
+            "role": "介词",
+            "zh": "在"
+          },
+          {
+            "id": "ud-9",
+            "text": "home",
+            "role": "介词宾语",
+            "zh": "家",
+            "children": [
+              {
+                "id": "ud-10",
+                "text": "home",
+                "role": "中心词",
+                "zh": "家"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ud-11",
+        "text": "and write stories",
+        "role": "并列分句",
+        "zh": "和；写；故事（复数）",
+        "children": [
+          {
+            "id": "ud-12",
+            "text": "and",
+            "role": "并列连词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-13",
+            "text": "write",
+            "role": "谓语",
+            "zh": "写"
+          },
+          {
+            "id": "ud-14",
+            "text": "stories",
+            "role": "宾语",
+            "zh": "故事（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "No",
+        "phonetic": "noʊ",
+        "pos": "DET",
+        "zh": "没有",
+        "componentRole": "语气/引导语",
+        "componentZh": "没有"
+      },
+      "2": {
+        "text": "she",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON",
+        "zh": "她",
+        "componentRole": "主语",
+        "componentZh": "她"
+      },
+      "3": {
+        "text": "won't",
+        "phonetic": "woʊnt",
+        "pos": "AUX",
+        "zh": "不会",
+        "componentRole": "方式/程度状语 + 谓语",
+        "componentZh": "不会"
+      },
+      "5": {
+        "text": "She",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON",
+        "zh": "她",
+        "componentRole": "主语",
+        "componentZh": "她"
+      },
+      "6": {
+        "text": "will",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "zh": "将",
+        "componentRole": "助动词",
+        "componentZh": "将"
+      },
+      "7": {
+        "text": "stay",
+        "phonetic": "steɪ",
+        "pos": "VERB",
+        "zh": "停留",
+        "componentRole": "谓语",
+        "componentZh": "停留"
+      },
+      "8": {
+        "text": "at",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "zh": "在",
+        "componentRole": "介词",
+        "componentZh": "在",
+        "parentComponentText": "at home",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；家"
+      },
+      "9": {
+        "text": "home",
+        "phonetic": "hoʊm",
+        "pos": "NOUN",
+        "zh": "家",
+        "componentRole": "中心词",
+        "componentZh": "家",
+        "parentComponentText": "home",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "家"
+      },
+      "10": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和",
+        "parentComponentText": "and write stories",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；写；故事（复数）"
+      },
+      "11": {
+        "text": "write",
+        "phonetic": "raɪt",
+        "pos": "VERB",
+        "zh": "写",
+        "componentRole": "谓语",
+        "componentZh": "写",
+        "parentComponentText": "and write stories",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；写；故事（复数）"
+      },
+      "12": {
+        "text": "stories",
+        "phonetic": "ˈstɔːriz",
+        "pos": "NOUN",
+        "zh": "故事（复数）",
+        "componentRole": "宾语",
+        "componentZh": "故事（复数）",
+        "parentComponentText": "and write stories",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；写；故事（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-swftgpufezxj8bntunmbovp5-1",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-swftgpufezxj8bntunmbovp5-1",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不",
+    "audioText": "No",
+    "fullEnglish": "No",
+    "phonetic": "noʊ",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "No",
+        "answer": "No",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "没有",
+        "phonetic": "noʊ",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "No"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "No",
+        "phonetic": "noʊ",
+        "pos": "DET",
+        "zh": "没有",
+        "componentZh": "没有"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-swftgpufezxj8bntunmbovp5-2",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-swftgpufezxj8bntunmbovp5-2",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她",
+    "audioText": "she",
+    "fullEnglish": "she",
+    "phonetic": "ʃiː; ʃi",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "she",
+        "answer": "she",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "她",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "she"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "she",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON",
+        "zh": "她",
+        "componentZh": "她"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-swftgpufezxj8bntunmbovp5-3",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-swftgpufezxj8bntunmbovp5-3",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不会",
+    "audioText": "won't",
+    "fullEnglish": "won't",
+    "phonetic": "woʊnt",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "won't",
+        "answer": "won't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "不会",
+        "phonetic": "woʊnt",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "won't"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "won't",
+        "phonetic": "woʊnt",
+        "pos": "AUX",
+        "zh": "不会",
+        "componentZh": "不会"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-swftgpufezxj8bntunmbovp5-6",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-swftgpufezxj8bntunmbovp5-6",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "停留",
+    "audioText": "stay",
+    "fullEnglish": "stay",
+    "phonetic": "steɪ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "stay",
+        "answer": "stay",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "停留",
+        "phonetic": "steɪ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "stay"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "stay",
+        "phonetic": "steɪ",
+        "pos": "VERB",
+        "zh": "停留",
+        "componentZh": "停留"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-swftgpufezxj8bntunmbovp5-7",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-swftgpufezxj8bntunmbovp5-7",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在",
+    "audioText": "at",
+    "fullEnglish": "at",
+    "phonetic": "æt; ət",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "at",
+        "answer": "at",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在",
+        "phonetic": "æt; ət",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "at"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "at",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "zh": "在",
+        "componentZh": "在"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-swftgpufezxj8bntunmbovp5-8",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-swftgpufezxj8bntunmbovp5-8",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "家",
+    "audioText": "home",
+    "fullEnglish": "home",
+    "phonetic": "hoʊm",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "home",
+        "answer": "home",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "家",
+        "phonetic": "hoʊm",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "home"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "home",
+        "phonetic": "hoʊm",
+        "pos": "NOUN",
+        "zh": "家",
+        "componentZh": "家"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-swftgpufezxj8bntunmbovp5-9",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-swftgpufezxj8bntunmbovp5-9",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "和",
+    "audioText": "and",
+    "fullEnglish": "and",
+    "phonetic": "ænd; ənd",
+    "pos": "CCONJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "and"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-swftgpufezxj8bntunmbovp5-10",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-swftgpufezxj8bntunmbovp5-10",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "写",
+    "audioText": "write",
+    "fullEnglish": "write",
+    "phonetic": "raɪt",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "write",
+        "answer": "write",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "写",
+        "phonetic": "raɪt",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "write"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "write",
+        "phonetic": "raɪt",
+        "pos": "VERB",
+        "zh": "写",
+        "componentZh": "写"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-swftgpufezxj8bntunmbovp5-11",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-swftgpufezxj8bntunmbovp5-11",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "故事（复数）",
+    "audioText": "stories",
+    "fullEnglish": "stories",
+    "phonetic": "ˈstɔːriz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "stories",
+        "answer": "stories",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "故事（复数）",
+        "phonetic": "ˈstɔːriz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "stories"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "stories",
+        "phonetic": "ˈstɔːriz",
+        "pos": "NOUN",
+        "zh": "故事（复数）",
+        "componentZh": "故事（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-S-zl4bl3w1go05vgvdlkbrshot",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-S-zl4bl3w1go05vgvdlkbrshot",
+    "type": "sentence",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哇！她已经是个作家了。",
+    "audioText": "Wow! She is already a writer",
+    "fullEnglish": "Wow! She is already a writer",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Wow",
+        "answer": "Wow",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "哇",
+        "phonetic": "waʊ",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哇！她已经是个作家了。"
+      },
+      {
+        "index": 2,
+        "text": "She",
+        "answer": "She",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "她",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "系动词",
+        "zh": "be（现在时第三人称单数）: 是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 4,
+        "text": "already",
+        "answer": "already",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "方式/程度状语",
+        "zh": "已经",
+        "phonetic": "ɔːlˈredi",
+        "pos": "ADV"
+      },
+      {
+        "index": 5,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "补充成分",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      },
+      {
+        "index": 6,
+        "text": "writer",
+        "answer": "writer",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "表语",
+        "zh": "作家",
+        "phonetic": "ˈraɪtər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "She",
+      "already",
+      "writer",
+      "a",
+      "is",
+      "Wow"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Wow",
+        "role": "中心成分",
+        "zh": "哇"
+      },
+      {
+        "id": "ud-2",
+        "text": "She",
+        "role": "主语",
+        "zh": "她"
+      },
+      {
+        "id": "ud-3",
+        "text": "is",
+        "role": "系动词",
+        "zh": "be（现在时第三人称单数）: 是"
+      },
+      {
+        "id": "ud-4",
+        "text": "already",
+        "role": "方式/程度状语",
+        "zh": "已经"
+      },
+      {
+        "id": "ud-5",
+        "text": "a",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-6",
+        "text": "writer",
+        "role": "表语",
+        "zh": "作家"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Wow",
+        "phonetic": "waʊ",
+        "pos": "INTJ",
+        "zh": "哇",
+        "componentRole": "中心成分",
+        "componentZh": "哇"
+      },
+      "2": {
+        "text": "She",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON",
+        "zh": "她",
+        "componentRole": "主语",
+        "componentZh": "她"
+      },
+      "3": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "be（现在时第三人称单数）: 是",
+        "componentRole": "系动词",
+        "componentZh": "be（现在时第三人称单数）: 是"
+      },
+      "4": {
+        "text": "already",
+        "phonetic": "ɔːlˈredi",
+        "pos": "ADV",
+        "zh": "已经",
+        "componentRole": "方式/程度状语",
+        "componentZh": "已经"
+      },
+      "5": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "补充成分",
+        "componentZh": "一个"
+      },
+      "6": {
+        "text": "writer",
+        "phonetic": "ˈraɪtər",
+        "pos": "NOUN",
+        "zh": "作家",
+        "componentRole": "表语",
+        "componentZh": "作家"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-zl4bl3w1go05vgvdlkbrshot-1",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-zl4bl3w1go05vgvdlkbrshot-1",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哇",
+    "audioText": "Wow",
+    "fullEnglish": "Wow",
+    "phonetic": "waʊ",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Wow",
+        "answer": "Wow",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "哇",
+        "phonetic": "waʊ",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Wow"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Wow",
+        "phonetic": "waʊ",
+        "pos": "INTJ",
+        "zh": "哇",
+        "componentZh": "哇"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-zl4bl3w1go05vgvdlkbrshot-3",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-zl4bl3w1go05vgvdlkbrshot-3",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "is",
+    "fullEnglish": "is",
+    "phonetic": "ɪz",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "be（现在时第三人称单数）: 是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "is"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "be（现在时第三人称单数）: 是",
+        "componentZh": "be（现在时第三人称单数）: 是"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-zl4bl3w1go05vgvdlkbrshot-4",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-zl4bl3w1go05vgvdlkbrshot-4",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "已经",
+    "audioText": "already",
+    "fullEnglish": "already",
+    "phonetic": "ɔːlˈredi",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "already",
+        "answer": "already",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "已经",
+        "phonetic": "ɔːlˈredi",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "already"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "already",
+        "phonetic": "ɔːlˈredi",
+        "pos": "ADV",
+        "zh": "已经",
+        "componentZh": "已经"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-W-zl4bl3w1go05vgvdlkbrshot-6",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-W-zl4bl3w1go05vgvdlkbrshot-6",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "作家",
+    "audioText": "writer",
+    "fullEnglish": "writer",
+    "phonetic": "ˈraɪtər",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "writer",
+        "answer": "writer",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "作家",
+        "phonetic": "ˈraɪtər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "writer"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "writer",
+        "phonetic": "ˈraɪtər",
+        "pos": "NOUN",
+        "zh": "作家",
+        "componentZh": "作家"
+      }
+    }
+  },
+  {
+    "id": "JLB-bi8libeqxrlm56oawlchmkj5-PHRASE-nt5z7ppyyf40zt249fu8qgck",
+    "contentId": "JLB-bi8libeqxrlm56oawlchmkj5-PHRASE-nt5z7ppyyf40zt249fu8qgck",
+    "type": "phrase",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "bi8libeqxrlm56oawlchmkj5",
+    "unitTitle": "Unit 7 I Want to Be a Teacher--Lesson 25【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我会的。",
+    "audioText": "I will",
+    "fullEnglish": "I will",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "will",
+        "answer": "will",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "将",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "will",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "will",
+        "role": "谓语",
+        "zh": "将"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "will",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "zh": "将",
+        "componentZh": "将",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

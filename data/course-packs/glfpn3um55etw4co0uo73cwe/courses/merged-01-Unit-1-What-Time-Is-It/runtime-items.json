@@ -1,0 +1,7291 @@
+[
+  {
+    "id": "JLB-bvzl29a2c3hwta90tg7qlvus-W-rxwtv28et146t8eyyhqk17z7-5",
+    "contentId": "JLB-bvzl29a2c3hwta90tg7qlvus-W-rxwtv28et146t8eyyhqk17z7-5",
+    "type": "abbreviation",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "电视",
+    "audioText": "TV",
+    "fullEnglish": "TV",
+    "phonetic": "ˌtiː ˈviː",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "TV",
+        "answer": "TV",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "abbreviation",
+        "zh": "电视",
+        "phonetic": "ˌtiː ˈviː",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "TV"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "TV",
+        "phonetic": "ˌtiː ˈviː",
+        "pos": "NOUN",
+        "zh": "电视",
+        "componentZh": "电视"
+      }
+    }
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-PHRASE-yh1rq0xlp2firi6pfdei2yra",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-PHRASE-yh1rq0xlp2firi6pfdei2yra",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "五点半",
+    "audioText": "five thirty",
+    "fullEnglish": "five thirty",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "five",
+        "answer": "five",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "五",
+        "phonetic": "faɪv",
+        "pos": "NUM",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "thirty",
+        "answer": "thirty",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "三十",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "thirty",
+      "five"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "five",
+        "role": "补充成分",
+        "zh": "五"
+      },
+      {
+        "id": "ud-2",
+        "text": "thirty",
+        "role": "中心成分",
+        "zh": "三十"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "five",
+        "phonetic": "faɪv",
+        "pos": "NUM",
+        "zh": "五",
+        "componentZh": "五",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "thirty",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM",
+        "zh": "三十",
+        "componentZh": "三十",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-PHRASE-n1nlum1s3h88shdax8nmev86",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-PHRASE-n1nlum1s3h88shdax8nmev86",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "起来",
+    "audioText": "Get up",
+    "fullEnglish": "Get up",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Get",
+        "answer": "Get",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "短语动词原型: 起床",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "中心词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "Get up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "短语动词原型: 起床；（与 Get 搭配）"
+      },
+      {
+        "index": 1,
+        "text": "up",
+        "answer": "up",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 Get 搭配）",
+        "phonetic": "ʌp",
+        "pos": "ADP",
+        "componentId": "ud-3",
+        "role": "定语（名词修饰）",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "Get up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "短语动词原型: 起床；（与 Get 搭配）"
+      }
+    ],
+    "shuffledBlocks": [
+      "up",
+      "Get"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Get up",
+        "role": "谓语",
+        "zh": "短语动词原型: 起床；（与 Get 搭配）",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "Get",
+            "role": "中心词",
+            "zh": "短语动词原型: 起床"
+          },
+          {
+            "id": "ud-3",
+            "text": "up",
+            "role": "定语（名词修饰）",
+            "zh": "（与 Get 搭配）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Get",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "zh": "短语动词原型: 起床",
+        "componentZh": "短语动词原型: 起床",
+        "componentRole": "中心词",
+        "parentComponentText": "Get up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "短语动词原型: 起床；（与 Get 搭配）"
+      },
+      "1": {
+        "text": "up",
+        "phonetic": "ʌp",
+        "pos": "ADP",
+        "zh": "（与 Get 搭配）",
+        "componentZh": "（与 Get 搭配）",
+        "componentRole": "定语（名词修饰）",
+        "parentComponentText": "Get up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "短语动词原型: 起床；（与 Get 搭配）"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-PHRASE-wrwjksf8y2dev6w3bt4houv2",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-PHRASE-wrwjksf8y2dev6w3bt4houv2",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "回家",
+    "audioText": "go home",
+    "fullEnglish": "go home",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "home",
+        "answer": "home",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "家",
+        "phonetic": "hoʊm",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "地点状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "go",
+      "home"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "go",
+        "role": "谓语",
+        "zh": "去"
+      },
+      {
+        "id": "ud-2",
+        "text": "home",
+        "role": "地点状语",
+        "zh": "家"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "home",
+        "phonetic": "hoʊm",
+        "pos": "NOUN",
+        "zh": "家",
+        "componentZh": "家",
+        "componentRole": "地点状语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-PHRASE-jykxfi1ef3x5v1vq9wpssybz",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-PHRASE-jykxfi1ef3x5v1vq9wpssybz",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "现在是五点半",
+    "audioText": "It's five thirty now",
+    "fullEnglish": "It's five thirty now",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "It's five thirty",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "它是；五；三十"
+      },
+      {
+        "index": 1,
+        "text": "five",
+        "answer": "five",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "五",
+        "phonetic": "faɪv",
+        "pos": "NUM",
+        "componentId": "ud-2",
+        "role": "表语（时间）",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "It's five thirty",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "它是；五；三十"
+      },
+      {
+        "index": 2,
+        "text": "thirty",
+        "answer": "thirty",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "三十",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM",
+        "componentId": "ud-2",
+        "role": "表语（时间）",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "It's five thirty",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "它是；五；三十"
+      },
+      {
+        "index": 3,
+        "text": "now",
+        "answer": "now",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "现在",
+        "phonetic": "naʊ",
+        "pos": "ADV",
+        "componentId": "ud-3",
+        "role": "时间状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's",
+      "now",
+      "thirty",
+      "five"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "five thirty",
+        "role": "表语（时间）",
+        "zh": "五；三十"
+      },
+      {
+        "id": "ud-3",
+        "text": "now",
+        "role": "时间状语",
+        "zh": "现在"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是",
+        "componentRole": "主语 + 系动词",
+        "parentComponentText": "It's five thirty",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "它是；五；三十"
+      },
+      "1": {
+        "text": "five",
+        "phonetic": "faɪv",
+        "pos": "NUM",
+        "zh": "五",
+        "componentZh": "五；三十",
+        "componentRole": "表语（时间）",
+        "parentComponentText": "It's five thirty",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "它是；五；三十"
+      },
+      "2": {
+        "text": "thirty",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM",
+        "zh": "三十",
+        "componentZh": "五；三十",
+        "componentRole": "表语（时间）",
+        "parentComponentText": "It's five thirty",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "它是；五；三十"
+      },
+      "3": {
+        "text": "now",
+        "phonetic": "naʊ",
+        "pos": "ADV",
+        "zh": "现在",
+        "componentZh": "现在",
+        "componentRole": "时间状语"
+      }
+    },
+    "sentenceType": "主系表结构（时间表达）",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-PHRASE-etfeysqv2pe6muxo95h6ypze",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-PHRASE-etfeysqv2pe6muxo95h6ypze",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "现在是七点半",
+    "audioText": "It's seven thirty",
+    "fullEnglish": "It's seven thirty",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "seven",
+        "answer": "seven",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "七",
+        "phonetic": "ˈsev(ə)n",
+        "pos": "NUM",
+        "componentId": "ud-2",
+        "role": "表语（时间）"
+      },
+      {
+        "index": 2,
+        "text": "thirty",
+        "answer": "thirty",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "三十",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM",
+        "componentId": "ud-2",
+        "role": "表语（时间）"
+      }
+    ],
+    "shuffledBlocks": [
+      "thirty",
+      "It's",
+      "seven"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "seven thirty",
+        "role": "表语（时间）",
+        "zh": "七；三十"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "seven",
+        "phonetic": "ˈsev(ə)n",
+        "pos": "NUM",
+        "zh": "七",
+        "componentZh": "七；三十",
+        "componentRole": "表语（时间）"
+      },
+      "2": {
+        "text": "thirty",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM",
+        "zh": "三十",
+        "componentZh": "七；三十",
+        "componentRole": "表语（时间）"
+      }
+    },
+    "sentenceType": "主系表结构（时间表达）",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-bvzl29a2c3hwta90tg7qlvus-PHRASE-ng86jtx2wshzmq5alpbb1lmj",
+    "contentId": "JLB-bvzl29a2c3hwta90tg7qlvus-PHRASE-ng86jtx2wshzmq5alpbb1lmj",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是时候",
+    "audioText": "It's time",
+    "fullEnglish": "It's time",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "time",
+        "answer": "time",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "时间",
+        "phonetic": "taɪm",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "time",
+      "It's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "time",
+        "role": "表语",
+        "zh": "时间"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "time",
+        "phonetic": "taɪm",
+        "pos": "NOUN",
+        "zh": "时间",
+        "componentZh": "时间",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-PHRASE-elqwpe75jd4pxcl9cpawyaz6",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-PHRASE-elqwpe75jd4pxcl9cpawyaz6",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "该去上学了",
+    "audioText": "It's time to go to school",
+    "fullEnglish": "It's time to go to school",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "time",
+        "answer": "time",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "时间",
+        "phonetic": "taɪm",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "表语"
+      },
+      {
+        "index": 2,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "componentId": "ud-4",
+        "role": "修饰语",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to go to school",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；学校"
+      },
+      {
+        "index": 3,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to go to school",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；学校"
+      },
+      {
+        "index": 4,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "componentId": "ud-6",
+        "role": "介词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to go to school",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；学校"
+      },
+      {
+        "index": 5,
+        "text": "school",
+        "answer": "school",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "学校",
+        "phonetic": "skuːl",
+        "pos": "NOUN",
+        "componentId": "ud-7",
+        "role": "修饰语",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to go to school",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；学校"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's",
+      "to",
+      "to",
+      "go",
+      "school",
+      "time"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "time",
+        "role": "表语",
+        "zh": "时间"
+      },
+      {
+        "id": "ud-3",
+        "text": "to go to school",
+        "role": "补充成分",
+        "zh": "到；去；学校",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "to",
+            "role": "修饰语",
+            "zh": "到"
+          },
+          {
+            "id": "ud-5",
+            "text": "go",
+            "role": "中心词",
+            "zh": "去"
+          },
+          {
+            "id": "ud-6",
+            "text": "to",
+            "role": "介词",
+            "zh": "到"
+          },
+          {
+            "id": "ud-7",
+            "text": "school",
+            "role": "修饰语",
+            "zh": "学校"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "time",
+        "phonetic": "taɪm",
+        "pos": "NOUN",
+        "zh": "时间",
+        "componentZh": "时间",
+        "componentRole": "表语"
+      },
+      "2": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentZh": "到",
+        "componentRole": "修饰语",
+        "parentComponentText": "to go to school",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；学校"
+      },
+      "3": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去",
+        "componentRole": "中心词",
+        "parentComponentText": "to go to school",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；学校"
+      },
+      "4": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentZh": "到",
+        "componentRole": "介词",
+        "parentComponentText": "to go to school",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；学校"
+      },
+      "5": {
+        "text": "school",
+        "phonetic": "skuːl",
+        "pos": "NOUN",
+        "zh": "学校",
+        "componentZh": "学校",
+        "componentRole": "修饰语",
+        "parentComponentText": "to go to school",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；学校"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-PHRASE-l6c3fxbc5bxeqqr8yucyv01y",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-PHRASE-l6c3fxbc5bxeqqr8yucyv01y",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让我们",
+    "audioText": "Let's",
+    "fullEnglish": "Let's",
+    "phonetic": "lets",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "宾语 + 谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let's",
+        "role": "宾语 + 谓语",
+        "zh": "让我们"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentZh": "让我们",
+        "componentRole": "宾语 + 谓语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-PHRASE-guo03zpbc8tr2dt9v5ylysfu",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-PHRASE-guo03zpbc8tr2dt9v5ylysfu",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们回家吧",
+    "audioText": "Let's go home",
+    "fullEnglish": "Let's go home",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "宾语 + 谓语"
+      },
+      {
+        "index": 1,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "go home",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "去；家"
+      },
+      {
+        "index": 2,
+        "text": "home",
+        "answer": "home",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "家",
+        "phonetic": "hoʊm",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "地点状语",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "go home",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "去；家"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let's",
+      "home",
+      "go"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let's",
+        "role": "宾语 + 谓语",
+        "zh": "让我们"
+      },
+      {
+        "id": "ud-2",
+        "text": "go home",
+        "role": "宾语补足语",
+        "zh": "去；家",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "go",
+            "role": "谓语",
+            "zh": "去"
+          },
+          {
+            "id": "ud-4",
+            "text": "home",
+            "role": "地点状语",
+            "zh": "家"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentZh": "让我们",
+        "componentRole": "宾语 + 谓语"
+      },
+      "1": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去",
+        "componentRole": "谓语",
+        "parentComponentText": "go home",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "去；家"
+      },
+      "2": {
+        "text": "home",
+        "phonetic": "hoʊm",
+        "pos": "NOUN",
+        "zh": "家",
+        "componentZh": "家",
+        "componentRole": "地点状语",
+        "parentComponentText": "go home",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "去；家"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-bvzl29a2c3hwta90tg7qlvus-PHRASE-yg6t1qsatp2tdz2fi42lynzh",
+    "contentId": "JLB-bvzl29a2c3hwta90tg7qlvus-PHRASE-yg6t1qsatp2tdz2fi42lynzh",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "九点二十",
+    "audioText": "nine twenty",
+    "fullEnglish": "nine twenty",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "nine",
+        "answer": "nine",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "九",
+        "phonetic": "naɪn",
+        "pos": "NUM",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "twenty",
+        "answer": "twenty",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "二十",
+        "phonetic": "ˈtwenti",
+        "pos": "NUM",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "nine",
+      "twenty"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "nine",
+        "role": "补充成分",
+        "zh": "九"
+      },
+      {
+        "id": "ud-2",
+        "text": "twenty",
+        "role": "中心成分",
+        "zh": "二十"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "nine",
+        "phonetic": "naɪn",
+        "pos": "NUM",
+        "zh": "九",
+        "componentZh": "九",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "twenty",
+        "phonetic": "ˈtwenti",
+        "pos": "NUM",
+        "zh": "二十",
+        "componentZh": "二十",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-PHRASE-wxfx0jku47d0h2r8lvd0opui",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-PHRASE-wxfx0jku47d0h2r8lvd0opui",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "七点半",
+    "audioText": "seven thirty",
+    "fullEnglish": "seven thirty",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "seven",
+        "answer": "seven",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "七",
+        "phonetic": "ˈsev(ə)n",
+        "pos": "NUM",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "thirty",
+        "answer": "thirty",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "三十",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "seven",
+      "thirty"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "seven",
+        "role": "补充成分",
+        "zh": "七"
+      },
+      {
+        "id": "ud-2",
+        "text": "thirty",
+        "role": "中心成分",
+        "zh": "三十"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "seven",
+        "phonetic": "ˈsev(ə)n",
+        "pos": "NUM",
+        "zh": "七",
+        "componentZh": "七",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "thirty",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM",
+        "zh": "三十",
+        "componentZh": "三十",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-bvzl29a2c3hwta90tg7qlvus-PHRASE-v19mqw493ys7m6c0lomhiyqz",
+    "contentId": "JLB-bvzl29a2c3hwta90tg7qlvus-PHRASE-v19mqw493ys7m6c0lomhiyqz",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "卡通片",
+    "audioText": "the cartoons",
+    "fullEnglish": "the cartoons",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "cartoons",
+        "answer": "cartoons",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "卡通（复数）",
+        "phonetic": "kɑːrˈtuːnz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "cartoons",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "cartoons",
+        "role": "中心成分",
+        "zh": "卡通（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "cartoons",
+        "phonetic": "kɑːrˈtuːnz",
+        "pos": "NOUN",
+        "zh": "卡通（复数）",
+        "componentZh": "卡通（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-bvzl29a2c3hwta90tg7qlvus-PHRASE-l8vynk2dbd4i9okp04g3p8i3",
+    "contentId": "JLB-bvzl29a2c3hwta90tg7qlvus-PHRASE-l8vynk2dbd4i9okp04g3p8i3",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "电视",
+    "audioText": "the TV",
+    "fullEnglish": "the TV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "TV",
+        "answer": "TV",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "abbreviation",
+        "zh": "电视",
+        "phonetic": "ˌtiː ˈviː",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "TV"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "TV",
+        "role": "中心成分",
+        "zh": "电视"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "TV",
+        "phonetic": "ˌtiː ˈviː",
+        "pos": "NOUN",
+        "zh": "电视",
+        "componentZh": "电视",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-bvzl29a2c3hwta90tg7qlvus-PHRASE-reigq79cb4vdk5iuhx10yjcz",
+    "contentId": "JLB-bvzl29a2c3hwta90tg7qlvus-PHRASE-reigq79cb4vdk5iuhx10yjcz",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "睡觉",
+    "audioText": "to bed",
+    "fullEnglish": "to bed",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "连接词"
+      },
+      {
+        "index": 1,
+        "text": "bed",
+        "answer": "bed",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "床",
+        "phonetic": "bed",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "to",
+      "bed"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "to",
+        "role": "连接词",
+        "zh": "到"
+      },
+      {
+        "id": "ud-2",
+        "text": "bed",
+        "role": "谓语",
+        "zh": "床"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentZh": "到",
+        "componentRole": "连接词"
+      },
+      "1": {
+        "text": "bed",
+        "phonetic": "bed",
+        "pos": "NOUN",
+        "zh": "床",
+        "componentZh": "床",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-PHRASE-nd6ufhmr8uvgvifzu7j74mau",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-PHRASE-nd6ufhmr8uvgvifzu7j74mau",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "去",
+    "audioText": "to go",
+    "fullEnglish": "to go",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "连接词"
+      },
+      {
+        "index": 1,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "to",
+      "go"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "to",
+        "role": "连接词",
+        "zh": "到"
+      },
+      {
+        "id": "ud-2",
+        "text": "go",
+        "role": "谓语",
+        "zh": "去"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentZh": "到",
+        "componentRole": "连接词"
+      },
+      "1": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-PHRASE-bp819trt3rmlymsd6i0v3ajn",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-PHRASE-bp819trt3rmlymsd6i0v3ajn",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "上学",
+    "audioText": "to school",
+    "fullEnglish": "to school",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "school",
+        "answer": "school",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "学校",
+        "phonetic": "skuːl",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "school",
+      "to"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "to",
+        "role": "补充成分",
+        "zh": "到"
+      },
+      {
+        "id": "ud-2",
+        "text": "school",
+        "role": "中心成分",
+        "zh": "学校"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentZh": "到",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "school",
+        "phonetic": "skuːl",
+        "pos": "NOUN",
+        "zh": "学校",
+        "componentZh": "学校",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-bvzl29a2c3hwta90tg7qlvus-PHRASE-mz5zk03uu5a2mheacbu68anh",
+    "contentId": "JLB-bvzl29a2c3hwta90tg7qlvus-PHRASE-mz5zk03uu5a2mheacbu68anh",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "打开",
+    "audioText": "turn on",
+    "fullEnglish": "turn on",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "turn",
+        "answer": "turn",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "turn on（短语动词）: 打开",
+        "phonetic": "tɜːrn",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "中心词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "turn on",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "turn on（短语动词）: 打开；在...上"
+      },
+      {
+        "index": 1,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "componentId": "ud-3",
+        "role": "定语（名词修饰）",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "turn on",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "turn on（短语动词）: 打开；在...上"
+      }
+    ],
+    "shuffledBlocks": [
+      "turn",
+      "on"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "turn on",
+        "role": "谓语",
+        "zh": "turn on（短语动词）: 打开；在...上",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "turn",
+            "role": "中心词",
+            "zh": "turn on（短语动词）: 打开"
+          },
+          {
+            "id": "ud-3",
+            "text": "on",
+            "role": "定语（名词修饰）",
+            "zh": "在...上"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "turn",
+        "phonetic": "tɜːrn",
+        "pos": "VERB",
+        "zh": "turn on（短语动词）: 打开",
+        "componentZh": "turn on（短语动词）: 打开",
+        "componentRole": "中心词",
+        "parentComponentText": "turn on",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "turn on（短语动词）: 打开；在...上"
+      },
+      "1": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentZh": "在...上",
+        "componentRole": "定语（名词修饰）",
+        "parentComponentText": "turn on",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "turn on（短语动词）: 打开；在...上"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-PHRASE-y7hgijqxr5sypeep6ci0c9c4",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-PHRASE-y7hgijqxr5sypeep6ci0c9c4",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么时间",
+    "audioText": "What time",
+    "fullEnglish": "What time",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "time",
+        "answer": "time",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "时间",
+        "phonetic": "taɪm",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "What",
+      "time"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What",
+        "role": "补充成分",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "time",
+        "role": "中心成分",
+        "zh": "时间"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "time",
+        "phonetic": "taɪm",
+        "pos": "NOUN",
+        "zh": "时间",
+        "componentZh": "时间",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-m22bvjzav8hcjpb6vwa310eg-PHRASE-dc4il7auzfl9bqzwtgw8q2wy",
+    "contentId": "JLB-m22bvjzav8hcjpb6vwa310eg-PHRASE-dc4il7auzfl9bqzwtgw8q2wy",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么时候",
+    "audioText": "When do",
+    "fullEnglish": "When do",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "When",
+        "answer": "When",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "何时",
+        "phonetic": "wen",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "When",
+      "do"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "When",
+        "role": "方式/程度状语",
+        "zh": "何时"
+      },
+      {
+        "id": "ud-2",
+        "text": "do",
+        "role": "谓语",
+        "zh": "构成疑问句"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "When",
+        "phonetic": "wen",
+        "pos": "ADV",
+        "zh": "何时",
+        "componentZh": "何时",
+        "componentRole": "方式/程度状语"
+      },
+      "1": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentZh": "构成疑问句",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-PHRASE-zged5agu68hgzeypon1s5pjs",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-PHRASE-zged5agu68hgzeypon1s5pjs",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你的舞蹈课",
+    "audioText": "your dancing lessons",
+    "fullEnglish": "your dancing lessons",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "dancing",
+        "answer": "dancing",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "dance（现在分词）: 跳舞",
+        "phonetic": "ˈdænsɪŋ",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "lessons",
+        "answer": "lessons",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "课程（复数）",
+        "phonetic": "ˈlɛsənz",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "lessons",
+      "your",
+      "dancing"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "your",
+        "role": "补充成分",
+        "zh": "你的"
+      },
+      {
+        "id": "ud-2",
+        "text": "dancing",
+        "role": "补充成分",
+        "zh": "dance（现在分词）: 跳舞"
+      },
+      {
+        "id": "ud-3",
+        "text": "lessons",
+        "role": "中心成分",
+        "zh": "课程（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentZh": "你的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "dancing",
+        "phonetic": "ˈdænsɪŋ",
+        "pos": "VERB",
+        "zh": "dance（现在分词）: 跳舞",
+        "componentZh": "dance（现在分词）: 跳舞",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "lessons",
+        "phonetic": "ˈlɛsənz",
+        "pos": "NOUN",
+        "zh": "课程（复数）",
+        "componentZh": "课程（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-bvzl29a2c3hwta90tg7qlvus-S-fh17m1scnd4190m16fohb9t5",
+    "contentId": "JLB-bvzl29a2c3hwta90tg7qlvus-S-fh17m1scnd4190m16fohb9t5",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "五点五十。",
+    "audioText": "At five fifty",
+    "fullEnglish": "At five fifty",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "At",
+        "answer": "At",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "在",
+        "phonetic": "æt; ət",
+        "pos": "ADP"
+      },
+      {
+        "index": 1,
+        "text": "five",
+        "answer": "five",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "补充成分",
+        "zh": "五",
+        "phonetic": "faɪv",
+        "pos": "NUM"
+      },
+      {
+        "index": 2,
+        "text": "fifty",
+        "answer": "fifty",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心成分",
+        "zh": "五十",
+        "phonetic": "ˈfɪfti",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "At",
+      "five",
+      "fifty"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "At",
+        "role": "补充成分",
+        "zh": "在"
+      },
+      {
+        "id": "ud-2",
+        "text": "five",
+        "role": "补充成分",
+        "zh": "五"
+      },
+      {
+        "id": "ud-3",
+        "text": "fifty",
+        "role": "中心成分",
+        "zh": "五十"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "At",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "zh": "在",
+        "componentRole": "补充成分",
+        "componentZh": "在"
+      },
+      "1": {
+        "text": "five",
+        "phonetic": "faɪv",
+        "pos": "NUM",
+        "zh": "五",
+        "componentRole": "补充成分",
+        "componentZh": "五"
+      },
+      "2": {
+        "text": "fifty",
+        "phonetic": "ˈfɪfti",
+        "pos": "NUM",
+        "zh": "五十",
+        "componentRole": "中心成分",
+        "componentZh": "五十"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-S-auxt3oftt3wwnk8z1xqipljd",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-S-auxt3oftt3wwnk8z1xqipljd",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "五点半。",
+    "audioText": "At five thirty",
+    "fullEnglish": "At five thirty",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "At",
+        "answer": "At",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "在",
+        "phonetic": "æt; ət",
+        "pos": "ADP"
+      },
+      {
+        "index": 1,
+        "text": "five",
+        "answer": "five",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "补充成分",
+        "zh": "五",
+        "phonetic": "faɪv",
+        "pos": "NUM"
+      },
+      {
+        "index": 2,
+        "text": "thirty",
+        "answer": "thirty",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心成分",
+        "zh": "三十",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "thirty",
+      "five",
+      "At"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "At",
+        "role": "补充成分",
+        "zh": "在"
+      },
+      {
+        "id": "ud-2",
+        "text": "five",
+        "role": "补充成分",
+        "zh": "五"
+      },
+      {
+        "id": "ud-3",
+        "text": "thirty",
+        "role": "中心成分",
+        "zh": "三十"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "At",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "zh": "在",
+        "componentRole": "补充成分",
+        "componentZh": "在"
+      },
+      "1": {
+        "text": "five",
+        "phonetic": "faɪv",
+        "pos": "NUM",
+        "zh": "五",
+        "componentRole": "补充成分",
+        "componentZh": "五"
+      },
+      "2": {
+        "text": "thirty",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM",
+        "zh": "三十",
+        "componentRole": "中心成分",
+        "componentZh": "三十"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-S-xreld7x0o0xl8394jnqhm6ss",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-S-xreld7x0o0xl8394jnqhm6ss",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "四点三十分。",
+    "audioText": "At four thirty",
+    "fullEnglish": "At four thirty",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "At",
+        "answer": "At",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "在",
+        "phonetic": "æt; ət",
+        "pos": "ADP"
+      },
+      {
+        "index": 1,
+        "text": "four",
+        "answer": "four",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "补充成分",
+        "zh": "四",
+        "phonetic": "fɔr",
+        "pos": "NUM"
+      },
+      {
+        "index": 2,
+        "text": "thirty",
+        "answer": "thirty",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心成分",
+        "zh": "三十",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "At",
+      "thirty",
+      "four"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "At",
+        "role": "补充成分",
+        "zh": "在"
+      },
+      {
+        "id": "ud-2",
+        "text": "four",
+        "role": "补充成分",
+        "zh": "四"
+      },
+      {
+        "id": "ud-3",
+        "text": "thirty",
+        "role": "中心成分",
+        "zh": "三十"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "At",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "zh": "在",
+        "componentRole": "补充成分",
+        "componentZh": "在"
+      },
+      "1": {
+        "text": "four",
+        "phonetic": "fɔr",
+        "pos": "NUM",
+        "zh": "四",
+        "componentRole": "补充成分",
+        "componentZh": "四"
+      },
+      "2": {
+        "text": "thirty",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM",
+        "zh": "三十",
+        "componentRole": "中心成分",
+        "componentZh": "三十"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-S-dxk5bemlgxxsrpuriu04d25l",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-S-dxk5bemlgxxsrpuriu04d25l",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "起来。起来！",
+    "audioText": "Get up. Get up!",
+    "fullEnglish": "Get up. Get up!",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Get",
+        "answer": "Get",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心词",
+        "zh": "短语动词原型: 起床",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "Get up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "短语动词原型: 起床；（与 Get 搭配）"
+      },
+      {
+        "index": 1,
+        "text": "up",
+        "answer": "up",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "定语（名词修饰）",
+        "zh": "（与 Get 搭配）",
+        "phonetic": "ʌp",
+        "pos": "ADP",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "Get up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "短语动词原型: 起床；（与 Get 搭配）"
+      },
+      {
+        "index": 2,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "起来。起来！"
+      },
+      {
+        "index": 3,
+        "text": "Get",
+        "answer": "Get",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "短语动词原型: 起床",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "Get up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "短语动词原型: 起床；（与 Get 搭配）"
+      },
+      {
+        "index": 4,
+        "text": "up",
+        "answer": "up",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "定语（名词修饰）",
+        "zh": "（与 Get 搭配）",
+        "phonetic": "ʌp",
+        "pos": "ADP",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "Get up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "短语动词原型: 起床；（与 Get 搭配）"
+      },
+      {
+        "index": 5,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "起来。起来！"
+      }
+    ],
+    "shuffledBlocks": [
+      "Get",
+      "up",
+      "up",
+      "Get"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Get up",
+        "role": "谓语",
+        "zh": "短语动词原型: 起床；（与 Get 搭配）",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "Get",
+            "role": "中心词",
+            "zh": "短语动词原型: 起床"
+          },
+          {
+            "id": "ud-3",
+            "text": "up",
+            "role": "定语（名词修饰）",
+            "zh": "（与 Get 搭配）"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "Get up",
+        "role": "谓语",
+        "zh": "短语动词原型: 起床；（与 Get 搭配）",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "Get",
+            "role": "中心词",
+            "zh": "短语动词原型: 起床"
+          },
+          {
+            "id": "ud-6",
+            "text": "up",
+            "role": "定语（名词修饰）",
+            "zh": "（与 Get 搭配）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Get",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "zh": "短语动词原型: 起床",
+        "componentRole": "中心词",
+        "componentZh": "短语动词原型: 起床",
+        "parentComponentText": "Get up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "短语动词原型: 起床；（与 Get 搭配）"
+      },
+      "1": {
+        "text": "up",
+        "phonetic": "ʌp",
+        "pos": "ADP",
+        "zh": "（与 Get 搭配）",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "（与 Get 搭配）",
+        "parentComponentText": "Get up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "短语动词原型: 起床；（与 Get 搭配）"
+      },
+      "3": {
+        "text": "Get",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "zh": "短语动词原型: 起床",
+        "componentRole": "中心词",
+        "componentZh": "短语动词原型: 起床",
+        "parentComponentText": "Get up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "短语动词原型: 起床；（与 Get 搭配）"
+      },
+      "4": {
+        "text": "up",
+        "phonetic": "ʌp",
+        "pos": "ADP",
+        "zh": "（与 Get 搭配）",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "（与 Get 搭配）",
+        "parentComponentText": "Get up",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "短语动词原型: 起床；（与 Get 搭配）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-bvzl29a2c3hwta90tg7qlvus-S-c3tbenalo0d4v65u6h0r6egi",
+    "contentId": "JLB-bvzl29a2c3hwta90tg7qlvus-S-c3tbenalo0d4v65u6h0r6egi",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "晚安！",
+    "audioText": "Good night!",
+    "fullEnglish": "Good night!",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Good",
+        "answer": "Good",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "好的",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ"
+      },
+      {
+        "index": 1,
+        "text": "night",
+        "answer": "night",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "晚安！"
+      },
+      {
+        "index": 2,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "晚安！"
+      }
+    ],
+    "shuffledBlocks": [
+      "Good",
+      "night"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Good",
+        "role": "补充成分",
+        "zh": "好的"
+      },
+      {
+        "id": "ud-2",
+        "text": "night",
+        "role": "中心成分",
+        "zh": "晚安！"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Good",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentRole": "补充成分",
+        "componentZh": "好的"
+      },
+      "1": {
+        "text": "night",
+        "zh": "晚安！",
+        "componentRole": "中心成分",
+        "componentZh": "晚安！"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-S-x4j1wph3e1bbaqih1bqh85yc",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-S-x4j1wph3e1bbaqih1bqh85yc",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "祝您有美好的一天！",
+    "audioText": "Have a nice day!",
+    "fullEnglish": "Have a nice day!",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Have",
+        "answer": "Have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "a nice day",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；好的；天"
+      },
+      {
+        "index": 2,
+        "text": "nice",
+        "answer": "nice",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "定语（形容词）",
+        "zh": "好的",
+        "phonetic": "naɪs",
+        "pos": "ADJ",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "a nice day",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；好的；天"
+      },
+      {
+        "index": 3,
+        "text": "day",
+        "answer": "day",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "天",
+        "phonetic": "deɪ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "a nice day",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；好的；天"
+      },
+      {
+        "index": 4,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "祝您有美好的一天！"
+      }
+    ],
+    "shuffledBlocks": [
+      "Have",
+      "a",
+      "nice",
+      "day"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-2",
+        "text": "a nice day",
+        "role": "宾语",
+        "zh": "一个；好的；天",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-4",
+            "text": "nice",
+            "role": "定语（形容词）",
+            "zh": "好的"
+          },
+          {
+            "id": "ud-5",
+            "text": "day",
+            "role": "中心词",
+            "zh": "天"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有"
+      },
+      "1": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "a nice day",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；好的；天"
+      },
+      "2": {
+        "text": "nice",
+        "phonetic": "naɪs",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "好的",
+        "parentComponentText": "a nice day",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；好的；天"
+      },
+      "3": {
+        "text": "day",
+        "phonetic": "deɪ",
+        "pos": "NOUN",
+        "zh": "天",
+        "componentRole": "中心词",
+        "componentZh": "天",
+        "parentComponentText": "a nice day",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；好的；天"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-S-busdw9wy1ofsxh3y69wtnrzi",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-S-busdw9wy1ofsxh3y69wtnrzi",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "现在是五点半。我们回家吧。",
+    "audioText": "It's five thirty now. Let's go home",
+    "fullEnglish": "It's five thirty now. Let's go home",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "five",
+        "answer": "five",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "补充成分",
+        "zh": "五",
+        "phonetic": "faɪv",
+        "pos": "NUM"
+      },
+      {
+        "index": 2,
+        "text": "thirty",
+        "answer": "thirty",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "三十",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM"
+      },
+      {
+        "index": 3,
+        "text": "now",
+        "answer": "now",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "时间状语",
+        "zh": "现在",
+        "phonetic": "naʊ",
+        "pos": "ADV"
+      },
+      {
+        "index": 4,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "现在是五点半。我们回家吧。"
+      },
+      {
+        "index": 5,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "宾语 + 谓语",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      },
+      {
+        "index": 6,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "谓语",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "go home",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "去；家"
+      },
+      {
+        "index": 7,
+        "text": "home",
+        "answer": "home",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "地点状语",
+        "zh": "家",
+        "phonetic": "hoʊm",
+        "pos": "NOUN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "go home",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "去；家"
+      }
+    ],
+    "shuffledBlocks": [
+      "now",
+      "go",
+      "five",
+      "home",
+      "It's",
+      "Let's",
+      "thirty"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "five",
+        "role": "补充成分",
+        "zh": "五"
+      },
+      {
+        "id": "ud-3",
+        "text": "thirty",
+        "role": "表语",
+        "zh": "三十"
+      },
+      {
+        "id": "ud-4",
+        "text": "now",
+        "role": "时间状语",
+        "zh": "现在"
+      },
+      {
+        "id": "ud-5",
+        "text": "Let's",
+        "role": "宾语 + 谓语",
+        "zh": "让我们"
+      },
+      {
+        "id": "ud-6",
+        "text": "go home",
+        "role": "宾语补足语",
+        "zh": "去；家",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "go",
+            "role": "谓语",
+            "zh": "去"
+          },
+          {
+            "id": "ud-8",
+            "text": "home",
+            "role": "地点状语",
+            "zh": "家"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "five",
+        "phonetic": "faɪv",
+        "pos": "NUM",
+        "zh": "五",
+        "componentRole": "补充成分",
+        "componentZh": "五"
+      },
+      "2": {
+        "text": "thirty",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM",
+        "zh": "三十",
+        "componentRole": "表语",
+        "componentZh": "三十"
+      },
+      "3": {
+        "text": "now",
+        "phonetic": "naʊ",
+        "pos": "ADV",
+        "zh": "现在",
+        "componentRole": "时间状语",
+        "componentZh": "现在"
+      },
+      "5": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentRole": "宾语 + 谓语",
+        "componentZh": "让我们"
+      },
+      "6": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentRole": "谓语",
+        "componentZh": "去",
+        "parentComponentText": "go home",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "去；家"
+      },
+      "7": {
+        "text": "home",
+        "phonetic": "hoʊm",
+        "pos": "NOUN",
+        "zh": "家",
+        "componentRole": "地点状语",
+        "componentZh": "家",
+        "parentComponentText": "go home",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "去；家"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-bvzl29a2c3hwta90tg7qlvus-S-wgs3x4k076vqi93zlvxh6u04",
+    "contentId": "JLB-bvzl29a2c3hwta90tg7qlvus-S-wgs3x4k076vqi93zlvxh6u04",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "现在是九点二十。",
+    "audioText": "It's nine twenty",
+    "fullEnglish": "It's nine twenty",
+    "sentenceType": "主系表结构（时间表达）",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "nine",
+        "answer": "nine",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语（时间）",
+        "zh": "九",
+        "phonetic": "naɪn",
+        "pos": "NUM"
+      },
+      {
+        "index": 2,
+        "text": "twenty",
+        "answer": "twenty",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语（时间）",
+        "zh": "二十",
+        "phonetic": "ˈtwenti",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "twenty",
+      "nine",
+      "It's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "nine twenty",
+        "role": "表语（时间）",
+        "zh": "九；二十"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "nine",
+        "phonetic": "naɪn",
+        "pos": "NUM",
+        "zh": "九",
+        "componentRole": "表语（时间）",
+        "componentZh": "九；二十"
+      },
+      "2": {
+        "text": "twenty",
+        "phonetic": "ˈtwenti",
+        "pos": "NUM",
+        "zh": "二十",
+        "componentRole": "表语（时间）",
+        "componentZh": "九；二十"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-S-gho0kd679s4mx63mcbgoufdu",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-S-gho0kd679s4mx63mcbgoufdu",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "现在是七点钟。",
+    "audioText": "It's seven o'clock",
+    "fullEnglish": "It's seven o'clock",
+    "sentenceType": "主系表结构（时间表达）",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "seven",
+        "answer": "seven",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语（时间）",
+        "zh": "七",
+        "phonetic": "ˈsev(ə)n",
+        "pos": "NUM"
+      },
+      {
+        "index": 2,
+        "text": "o'clock",
+        "answer": "o'clock",
+        "blank": "_’_____",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语（时间）",
+        "zh": "…点钟",
+        "phonetic": "əˈklɑːk",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's",
+      "seven",
+      "o'clock"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "seven o'clock",
+        "role": "表语（时间）",
+        "zh": "七；…点钟"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "seven",
+        "phonetic": "ˈsev(ə)n",
+        "pos": "NUM",
+        "zh": "七",
+        "componentRole": "表语（时间）",
+        "componentZh": "七；…点钟"
+      },
+      "2": {
+        "text": "o'clock",
+        "phonetic": "əˈklɑːk",
+        "pos": "ADV",
+        "zh": "…点钟",
+        "componentRole": "表语（时间）",
+        "componentZh": "七；…点钟"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-S-l5sw6izpyfvyoviixsrix08w",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-S-l5sw6izpyfvyoviixsrix08w",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "现在是七点三十分。该去上学了。",
+    "audioText": "It's seven thirty. It's time to go to school",
+    "fullEnglish": "It's seven thirty. It's time to go to school",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "seven",
+        "answer": "seven",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "补充成分",
+        "zh": "七",
+        "phonetic": "ˈsev(ə)n",
+        "pos": "NUM"
+      },
+      {
+        "index": 2,
+        "text": "thirty",
+        "answer": "thirty",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "三十",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM"
+      },
+      {
+        "index": 3,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "现在是七点三十分。该去上学了。"
+      },
+      {
+        "index": 4,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "time",
+        "answer": "time",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "时间",
+        "phonetic": "taɪm",
+        "pos": "NOUN"
+      },
+      {
+        "index": 6,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "修饰语",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "to go to school",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；学校"
+      },
+      {
+        "index": 7,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "to go to school",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；学校"
+      },
+      {
+        "index": 8,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "介词",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "to go to school",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；学校"
+      },
+      {
+        "index": 9,
+        "text": "school",
+        "answer": "school",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "修饰语",
+        "zh": "学校",
+        "phonetic": "skuːl",
+        "pos": "NOUN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "to go to school",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；学校"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's",
+      "thirty",
+      "to",
+      "go",
+      "It's",
+      "school",
+      "time",
+      "to",
+      "seven"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "seven",
+        "role": "补充成分",
+        "zh": "七"
+      },
+      {
+        "id": "ud-3",
+        "text": "thirty",
+        "role": "表语",
+        "zh": "三十"
+      },
+      {
+        "id": "ud-4",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-5",
+        "text": "time",
+        "role": "表语",
+        "zh": "时间"
+      },
+      {
+        "id": "ud-6",
+        "text": "to go to school",
+        "role": "补充成分",
+        "zh": "到；去；学校",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "to",
+            "role": "修饰语",
+            "zh": "到"
+          },
+          {
+            "id": "ud-8",
+            "text": "go",
+            "role": "中心词",
+            "zh": "去"
+          },
+          {
+            "id": "ud-9",
+            "text": "to",
+            "role": "介词",
+            "zh": "到"
+          },
+          {
+            "id": "ud-10",
+            "text": "school",
+            "role": "修饰语",
+            "zh": "学校"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "seven",
+        "phonetic": "ˈsev(ə)n",
+        "pos": "NUM",
+        "zh": "七",
+        "componentRole": "补充成分",
+        "componentZh": "七"
+      },
+      "2": {
+        "text": "thirty",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM",
+        "zh": "三十",
+        "componentRole": "表语",
+        "componentZh": "三十"
+      },
+      "4": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "5": {
+        "text": "time",
+        "phonetic": "taɪm",
+        "pos": "NOUN",
+        "zh": "时间",
+        "componentRole": "表语",
+        "componentZh": "时间"
+      },
+      "6": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentRole": "修饰语",
+        "componentZh": "到",
+        "parentComponentText": "to go to school",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；学校"
+      },
+      "7": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentRole": "中心词",
+        "componentZh": "去",
+        "parentComponentText": "to go to school",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；学校"
+      },
+      "8": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentRole": "介词",
+        "componentZh": "到",
+        "parentComponentText": "to go to school",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；学校"
+      },
+      "9": {
+        "text": "school",
+        "phonetic": "skuːl",
+        "pos": "NOUN",
+        "zh": "学校",
+        "componentRole": "修饰语",
+        "componentZh": "学校",
+        "parentComponentText": "to go to school",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；学校"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-bvzl29a2c3hwta90tg7qlvus-S-s7yc5kkisc6e7ocgrobj3ccu",
+    "contentId": "JLB-bvzl29a2c3hwta90tg7qlvus-S-s7yc5kkisc6e7ocgrobj3ccu",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "该睡觉了。",
+    "audioText": "It's time to go to bed",
+    "fullEnglish": "It's time to go to bed",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "time",
+        "answer": "time",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "时间",
+        "phonetic": "taɪm",
+        "pos": "NOUN"
+      },
+      {
+        "index": 2,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "修饰语",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to go to bed",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；床"
+      },
+      {
+        "index": 3,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to go to bed",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；床"
+      },
+      {
+        "index": 4,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "介词",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to go to bed",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；床"
+      },
+      {
+        "index": 5,
+        "text": "bed",
+        "answer": "bed",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "修饰语",
+        "zh": "床",
+        "phonetic": "bed",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to go to bed",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；床"
+      }
+    ],
+    "shuffledBlocks": [
+      "to",
+      "time",
+      "It's",
+      "to",
+      "bed",
+      "go"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "time",
+        "role": "表语",
+        "zh": "时间"
+      },
+      {
+        "id": "ud-3",
+        "text": "to go to bed",
+        "role": "补充成分",
+        "zh": "到；去；床",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "to",
+            "role": "修饰语",
+            "zh": "到"
+          },
+          {
+            "id": "ud-5",
+            "text": "go",
+            "role": "中心词",
+            "zh": "去"
+          },
+          {
+            "id": "ud-6",
+            "text": "to",
+            "role": "介词",
+            "zh": "到"
+          },
+          {
+            "id": "ud-7",
+            "text": "bed",
+            "role": "修饰语",
+            "zh": "床"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "time",
+        "phonetic": "taɪm",
+        "pos": "NOUN",
+        "zh": "时间",
+        "componentRole": "表语",
+        "componentZh": "时间"
+      },
+      "2": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentRole": "修饰语",
+        "componentZh": "到",
+        "parentComponentText": "to go to bed",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；床"
+      },
+      "3": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentRole": "中心词",
+        "componentZh": "去",
+        "parentComponentText": "to go to bed",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；床"
+      },
+      "4": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentRole": "介词",
+        "componentZh": "到",
+        "parentComponentText": "to go to bed",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；床"
+      },
+      "5": {
+        "text": "bed",
+        "phonetic": "bed",
+        "pos": "NOUN",
+        "zh": "床",
+        "componentRole": "修饰语",
+        "componentZh": "床",
+        "parentComponentText": "to go to bed",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "到；去；床"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-S-racc1df5zkdvkpjgw2aswg8m",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-S-racc1df5zkdvkpjgw2aswg8m",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们先玩吧。",
+    "audioText": "Let's play first",
+    "fullEnglish": "Let's play first",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "宾语 + 谓语",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "玩",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "play first",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "玩；首先"
+      },
+      {
+        "index": 2,
+        "text": "first",
+        "answer": "first",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "方式/程度状语",
+        "zh": "首先",
+        "phonetic": "fɜːrst",
+        "pos": "ADV",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "play first",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "玩；首先"
+      }
+    ],
+    "shuffledBlocks": [
+      "play",
+      "first",
+      "Let's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let's",
+        "role": "宾语 + 谓语",
+        "zh": "让我们"
+      },
+      {
+        "id": "ud-2",
+        "text": "play first",
+        "role": "宾语补足语",
+        "zh": "玩；首先",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "play",
+            "role": "谓语",
+            "zh": "玩"
+          },
+          {
+            "id": "ud-4",
+            "text": "first",
+            "role": "方式/程度状语",
+            "zh": "首先"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentRole": "宾语 + 谓语",
+        "componentZh": "让我们"
+      },
+      "1": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "玩",
+        "componentRole": "谓语",
+        "componentZh": "玩",
+        "parentComponentText": "play first",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "玩；首先"
+      },
+      "2": {
+        "text": "first",
+        "phonetic": "fɜːrst",
+        "pos": "ADV",
+        "zh": "首先",
+        "componentRole": "方式/程度状语",
+        "componentZh": "首先",
+        "parentComponentText": "play first",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "玩；首先"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-bvzl29a2c3hwta90tg7qlvus-S-rxwtv28et146t8eyyhqk17z7",
+    "contentId": "JLB-bvzl29a2c3hwta90tg7qlvus-S-rxwtv28et146t8eyyhqk17z7",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们打开电视吧。",
+    "audioText": "Let's turn on the TV",
+    "fullEnglish": "Let's turn on the TV",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "宾语 + 谓语",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "turn",
+        "answer": "turn",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "turn on（短语动词）: 打开",
+        "phonetic": "tɜːrn",
+        "pos": "VERB",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "turn on the TV",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "turn on（短语动词）: 打开；在...上；定冠词；电视"
+      },
+      {
+        "index": 2,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "介词",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "on the TV",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在...上；定冠词；电视"
+      },
+      {
+        "index": 3,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "the TV",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；电视"
+      },
+      {
+        "index": 4,
+        "text": "TV",
+        "answer": "TV",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "abbreviation",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "电视",
+        "phonetic": "ˌtiː ˈviː",
+        "pos": "NOUN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "the TV",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；电视"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let's",
+      "TV",
+      "the",
+      "turn",
+      "on"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let's",
+        "role": "宾语 + 谓语",
+        "zh": "让我们"
+      },
+      {
+        "id": "ud-2",
+        "text": "turn on the TV",
+        "role": "宾语补足语",
+        "zh": "turn on（短语动词）: 打开；在...上；定冠词；电视",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "turn",
+            "role": "谓语",
+            "zh": "turn on（短语动词）: 打开"
+          },
+          {
+            "id": "ud-4",
+            "text": "on the TV",
+            "role": "地点状语",
+            "zh": "在...上；定冠词；电视",
+            "children": [
+              {
+                "id": "ud-5",
+                "text": "on",
+                "role": "介词",
+                "zh": "在...上"
+              },
+              {
+                "id": "ud-6",
+                "text": "the TV",
+                "role": "介词宾语",
+                "zh": "定冠词；电视",
+                "children": [
+                  {
+                    "id": "ud-7",
+                    "text": "the",
+                    "role": "限定词",
+                    "zh": "定冠词"
+                  },
+                  {
+                    "id": "ud-8",
+                    "text": "TV",
+                    "role": "中心词",
+                    "zh": "电视"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentRole": "宾语 + 谓语",
+        "componentZh": "让我们"
+      },
+      "1": {
+        "text": "turn",
+        "phonetic": "tɜːrn",
+        "pos": "VERB",
+        "zh": "turn on（短语动词）: 打开",
+        "componentRole": "谓语",
+        "componentZh": "turn on（短语动词）: 打开",
+        "parentComponentText": "turn on the TV",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "turn on（短语动词）: 打开；在...上；定冠词；电视"
+      },
+      "2": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentRole": "介词",
+        "componentZh": "在...上",
+        "parentComponentText": "on the TV",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在...上；定冠词；电视"
+      },
+      "3": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the TV",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；电视"
+      },
+      "4": {
+        "text": "TV",
+        "phonetic": "ˌtiː ˈviː",
+        "pos": "NOUN",
+        "zh": "电视",
+        "componentRole": "中心词",
+        "componentZh": "电视",
+        "parentComponentText": "the TV",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；电视"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-bvzl29a2c3hwta90tg7qlvus-S-iey9rp89jeeu2eu0xbisa25i",
+    "contentId": "JLB-bvzl29a2c3hwta90tg7qlvus-S-iey9rp89jeeu2eu0xbisa25i",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "睡个好觉！",
+    "audioText": "Sleep tight!",
+    "fullEnglish": "Sleep tight!",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Sleep",
+        "answer": "Sleep",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "睡眠"
+      },
+      {
+        "index": 1,
+        "text": "tight",
+        "answer": "tight",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心成分",
+        "zh": "睡个好觉！",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "tight",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "睡个好觉！"
+      },
+      {
+        "index": 2,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "睡个好觉！"
+      }
+    ],
+    "shuffledBlocks": [
+      "tight",
+      "Sleep"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Sleep",
+        "role": "谓语",
+        "zh": "睡眠"
+      },
+      {
+        "id": "ud-2",
+        "text": "tight",
+        "role": "宾语补足语",
+        "zh": "睡个好觉！",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "tight",
+            "role": "中心成分",
+            "zh": "睡个好觉！"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Sleep",
+        "zh": "睡眠",
+        "componentRole": "谓语",
+        "componentZh": "睡眠"
+      },
+      "1": {
+        "text": "tight",
+        "zh": "睡个好觉！",
+        "componentRole": "中心成分",
+        "componentZh": "睡个好觉！",
+        "parentComponentText": "tight",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "睡个好觉！"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-S-dvp4xd3o9p5bqv70ub5w46sj",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-S-dvp4xd3o9p5bqv70ub5w46sj",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "现在几点了？",
+    "audioText": "What time is it?",
+    "fullEnglish": "What time is it?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "补充成分",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "time",
+        "answer": "time",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "时间",
+        "phonetic": "taɪm",
+        "pos": "NOUN"
+      },
+      {
+        "index": 2,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 3,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      },
+      {
+        "index": 4,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "现在几点了？"
+      }
+    ],
+    "shuffledBlocks": [
+      "time",
+      "it",
+      "is",
+      "What"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What",
+        "role": "补充成分",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "time",
+        "role": "表语",
+        "zh": "时间"
+      },
+      {
+        "id": "ud-3",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-4",
+        "text": "it",
+        "role": "主语",
+        "zh": "它"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "补充成分",
+        "componentZh": "什么"
+      },
+      "1": {
+        "text": "time",
+        "phonetic": "taɪm",
+        "pos": "NOUN",
+        "zh": "时间",
+        "componentRole": "表语",
+        "componentZh": "时间"
+      },
+      "2": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "3": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentRole": "主语",
+        "componentZh": "它"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-S-a2jhqbwt77cd4p0ezhd8dfn0",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-S-a2jhqbwt77cd4p0ezhd8dfn0",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你什么时候回家，Yangyang？",
+    "audioText": "When do you go home, Yangyang?",
+    "fullEnglish": "When do you go home, Yangyang?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "When",
+        "answer": "When",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "方式/程度状语",
+        "zh": "何时",
+        "phonetic": "wen",
+        "pos": "ADV"
+      },
+      {
+        "index": 1,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "home",
+        "answer": "home",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "地点状语",
+        "zh": "家",
+        "phonetic": "hoʊm",
+        "pos": "NOUN"
+      },
+      {
+        "index": 5,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你什么时候回家，Yangyang？"
+      },
+      {
+        "index": 6,
+        "text": "Yangyang",
+        "answer": "Yangyang",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "呼语",
+        "zh": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 7,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你什么时候回家，Yangyang？"
+      }
+    ],
+    "shuffledBlocks": [
+      "do",
+      "you",
+      "go",
+      "Yangyang",
+      "home",
+      "When"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "When",
+        "role": "方式/程度状语",
+        "zh": "何时"
+      },
+      {
+        "id": "ud-2",
+        "text": "do",
+        "role": "助动词",
+        "zh": "构成疑问句"
+      },
+      {
+        "id": "ud-3",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-4",
+        "text": "go",
+        "role": "谓语",
+        "zh": "去"
+      },
+      {
+        "id": "ud-5",
+        "text": "home",
+        "role": "地点状语",
+        "zh": "家"
+      },
+      {
+        "id": "ud-6",
+        "text": "Yangyang",
+        "role": "呼语",
+        "zh": "Yangyang"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "When",
+        "phonetic": "wen",
+        "pos": "ADV",
+        "zh": "何时",
+        "componentRole": "方式/程度状语",
+        "componentZh": "何时"
+      },
+      "1": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentRole": "助动词",
+        "componentZh": "构成疑问句"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "3": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentRole": "谓语",
+        "componentZh": "去"
+      },
+      "4": {
+        "text": "home",
+        "phonetic": "hoʊm",
+        "pos": "NOUN",
+        "zh": "家",
+        "componentRole": "地点状语",
+        "componentZh": "家"
+      },
+      "6": {
+        "text": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON",
+        "zh": "Yangyang",
+        "componentRole": "呼语",
+        "componentZh": "Yangyang"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-S-y4xf0cdlunugx0qcr0zadorv",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-S-y4xf0cdlunugx0qcr0zadorv",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你什么时候上舞蹈课？",
+    "audioText": "When do you have your dancing lessons?",
+    "fullEnglish": "When do you have your dancing lessons?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "When",
+        "answer": "When",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "方式/程度状语",
+        "zh": "何时",
+        "phonetic": "wen",
+        "pos": "ADV"
+      },
+      {
+        "index": 1,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "your dancing lessons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你的；dance（现在分词）: 跳舞；课程（复数）"
+      },
+      {
+        "index": 5,
+        "text": "dancing",
+        "answer": "dancing",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "定语（名词修饰）",
+        "zh": "dance（现在分词）: 跳舞",
+        "phonetic": "ˈdænsɪŋ",
+        "pos": "VERB",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "your dancing lessons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你的；dance（现在分词）: 跳舞；课程（复数）"
+      },
+      {
+        "index": 6,
+        "text": "lessons",
+        "answer": "lessons",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "课程（复数）",
+        "phonetic": "ˈlɛsənz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "your dancing lessons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你的；dance（现在分词）: 跳舞；课程（复数）"
+      },
+      {
+        "index": 7,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你什么时候上舞蹈课？"
+      }
+    ],
+    "shuffledBlocks": [
+      "your",
+      "lessons",
+      "dancing",
+      "have",
+      "When",
+      "do",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "When",
+        "role": "方式/程度状语",
+        "zh": "何时"
+      },
+      {
+        "id": "ud-2",
+        "text": "do",
+        "role": "助动词",
+        "zh": "构成疑问句"
+      },
+      {
+        "id": "ud-3",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-4",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-5",
+        "text": "your dancing lessons",
+        "role": "宾语",
+        "zh": "你的；dance（现在分词）: 跳舞；课程（复数）",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "your",
+            "role": "限定词",
+            "zh": "你的"
+          },
+          {
+            "id": "ud-7",
+            "text": "dancing",
+            "role": "定语（名词修饰）",
+            "zh": "dance（现在分词）: 跳舞"
+          },
+          {
+            "id": "ud-8",
+            "text": "lessons",
+            "role": "中心词",
+            "zh": "课程（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "When",
+        "phonetic": "wen",
+        "pos": "ADV",
+        "zh": "何时",
+        "componentRole": "方式/程度状语",
+        "componentZh": "何时"
+      },
+      "1": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentRole": "助动词",
+        "componentZh": "构成疑问句"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "3": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有"
+      },
+      "4": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentRole": "限定词",
+        "componentZh": "你的",
+        "parentComponentText": "your dancing lessons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你的；dance（现在分词）: 跳舞；课程（复数）"
+      },
+      "5": {
+        "text": "dancing",
+        "phonetic": "ˈdænsɪŋ",
+        "pos": "VERB",
+        "zh": "dance（现在分词）: 跳舞",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "dance（现在分词）: 跳舞",
+        "parentComponentText": "your dancing lessons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你的；dance（现在分词）: 跳舞；课程（复数）"
+      },
+      "6": {
+        "text": "lessons",
+        "phonetic": "ˈlɛsənz",
+        "pos": "NOUN",
+        "zh": "课程（复数）",
+        "componentRole": "中心词",
+        "componentZh": "课程（复数）",
+        "parentComponentText": "your dancing lessons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你的；dance（现在分词）: 跳舞；课程（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-bvzl29a2c3hwta90tg7qlvus-S-qwr5v9ujcahmsj9q3cq610dd",
+    "contentId": "JLB-bvzl29a2c3hwta90tg7qlvus-S-qwr5v9ujcahmsj9q3cq610dd",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你什么时候看动画片？",
+    "audioText": "When do you watch the cartoons?",
+    "fullEnglish": "When do you watch the cartoons?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "When",
+        "answer": "When",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "方式/程度状语",
+        "zh": "何时",
+        "phonetic": "wen",
+        "pos": "ADV"
+      },
+      {
+        "index": 1,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "watch",
+        "answer": "watch",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "观看",
+        "phonetic": "wɑːtʃ",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "the cartoons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；卡通（复数）"
+      },
+      {
+        "index": 5,
+        "text": "cartoons",
+        "answer": "cartoons",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "卡通（复数）",
+        "phonetic": "kɑːrˈtuːnz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "the cartoons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；卡通（复数）"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你什么时候看动画片？"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "watch",
+      "do",
+      "cartoons",
+      "When",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "When",
+        "role": "方式/程度状语",
+        "zh": "何时"
+      },
+      {
+        "id": "ud-2",
+        "text": "do",
+        "role": "助动词",
+        "zh": "构成疑问句"
+      },
+      {
+        "id": "ud-3",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-4",
+        "text": "watch",
+        "role": "谓语",
+        "zh": "观看"
+      },
+      {
+        "id": "ud-5",
+        "text": "the cartoons",
+        "role": "宾语",
+        "zh": "定冠词；卡通（复数）",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-7",
+            "text": "cartoons",
+            "role": "中心词",
+            "zh": "卡通（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "When",
+        "phonetic": "wen",
+        "pos": "ADV",
+        "zh": "何时",
+        "componentRole": "方式/程度状语",
+        "componentZh": "何时"
+      },
+      "1": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentRole": "助动词",
+        "componentZh": "构成疑问句"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "3": {
+        "text": "watch",
+        "phonetic": "wɑːtʃ",
+        "pos": "VERB",
+        "zh": "观看",
+        "componentRole": "谓语",
+        "componentZh": "观看"
+      },
+      "4": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the cartoons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；卡通（复数）"
+      },
+      "5": {
+        "text": "cartoons",
+        "phonetic": "kɑːrˈtuːnz",
+        "pos": "NOUN",
+        "zh": "卡通（复数）",
+        "componentRole": "中心词",
+        "componentZh": "卡通（复数）",
+        "parentComponentText": "the cartoons",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；卡通（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-W-x4j1wph3e1bbaqih1bqh85yc-2",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-W-x4j1wph3e1bbaqih1bqh85yc-2",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个",
+    "audioText": "a",
+    "fullEnglish": "a",
+    "phonetic": "ə; eɪ",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "a"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个"
+      }
+    }
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-W-xreld7x0o0xl8394jnqhm6ss-1",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-W-xreld7x0o0xl8394jnqhm6ss-1",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在",
+    "audioText": "At",
+    "fullEnglish": "At",
+    "phonetic": "æt; ət",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "At",
+        "answer": "At",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在",
+        "phonetic": "æt; ət",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "At"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "At",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "zh": "在",
+        "componentZh": "在"
+      }
+    }
+  },
+  {
+    "id": "JLB-bvzl29a2c3hwta90tg7qlvus-W-s7yc5kkisc6e7ocgrobj3ccu-6",
+    "contentId": "JLB-bvzl29a2c3hwta90tg7qlvus-W-s7yc5kkisc6e7ocgrobj3ccu-6",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "床",
+    "audioText": "bed",
+    "fullEnglish": "bed",
+    "phonetic": "bed",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "bed",
+        "answer": "bed",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "床",
+        "phonetic": "bed",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "bed"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "bed",
+        "phonetic": "bed",
+        "pos": "NOUN",
+        "zh": "床",
+        "componentZh": "床"
+      }
+    }
+  },
+  {
+    "id": "JLB-bvzl29a2c3hwta90tg7qlvus-W-qwr5v9ujcahmsj9q3cq610dd-6",
+    "contentId": "JLB-bvzl29a2c3hwta90tg7qlvus-W-qwr5v9ujcahmsj9q3cq610dd-6",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "卡通（复数）",
+    "audioText": "cartoons",
+    "fullEnglish": "cartoons",
+    "phonetic": "kɑːrˈtuːnz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "cartoons",
+        "answer": "cartoons",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "卡通（复数）",
+        "phonetic": "kɑːrˈtuːnz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "cartoons"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "cartoons",
+        "phonetic": "kɑːrˈtuːnz",
+        "pos": "NOUN",
+        "zh": "卡通（复数）",
+        "componentZh": "卡通（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-W-y4xf0cdlunugx0qcr0zadorv-6",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-W-y4xf0cdlunugx0qcr0zadorv-6",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "dance（现在分词）: 跳舞",
+    "audioText": "dancing",
+    "fullEnglish": "dancing",
+    "phonetic": "ˈdænsɪŋ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "dancing",
+        "answer": "dancing",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "dance（现在分词）: 跳舞",
+        "phonetic": "ˈdænsɪŋ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "dancing"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "dancing",
+        "phonetic": "ˈdænsɪŋ",
+        "pos": "VERB",
+        "zh": "dance（现在分词）: 跳舞",
+        "componentZh": "dance（现在分词）: 跳舞"
+      }
+    }
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-W-x4j1wph3e1bbaqih1bqh85yc-4",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-W-x4j1wph3e1bbaqih1bqh85yc-4",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "日子",
+    "audioText": "day",
+    "fullEnglish": "day",
+    "phonetic": "deɪ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "day",
+        "answer": "day",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "天",
+        "phonetic": "deɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "day"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "day",
+        "phonetic": "deɪ",
+        "pos": "NOUN",
+        "zh": "天",
+        "componentZh": "天"
+      }
+    }
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-W-y4xf0cdlunugx0qcr0zadorv-2",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-W-y4xf0cdlunugx0qcr0zadorv-2",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "助动词（构成疑问句）",
+    "audioText": "do",
+    "fullEnglish": "do",
+    "phonetic": "duː; də",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "do"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentZh": "构成疑问句"
+      }
+    }
+  },
+  {
+    "id": "JLB-m0dk1ct2k0qgeqxuhwydxyce-S-ke7ldmf6q108mg3u88rn04oj",
+    "contentId": "JLB-m0dk1ct2k0qgeqxuhwydxyce-S-ke7ldmf6q108mg3u88rn04oj",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "五十",
+    "audioText": "Fifty",
+    "fullEnglish": "Fifty",
+    "phonetic": "ˈfɪfti",
+    "pos": "NUM",
+    "sentenceType": "",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Fifty",
+        "answer": "Fifty",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "w1",
+        "role": "",
+        "zh": "五十",
+        "phonetic": "ˈfɪfti",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "Fifty"
+    ],
+    "componentTree": [
+      {
+        "id": "w1",
+        "text": "Fifty",
+        "role": "",
+        "zh": ""
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Fifty",
+        "phonetic": "ˈfɪfti",
+        "pos": "NUM",
+        "zh": "五十",
+        "componentRole": "",
+        "componentZh": "五十"
+      }
+    }
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-W-racc1df5zkdvkpjgw2aswg8m-3",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-W-racc1df5zkdvkpjgw2aswg8m-3",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "首先",
+    "audioText": "first",
+    "fullEnglish": "first",
+    "phonetic": "fɜːrst",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "first",
+        "answer": "first",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "首先",
+        "phonetic": "fɜːrst",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "first"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "first",
+        "phonetic": "fɜːrst",
+        "pos": "ADV",
+        "zh": "首先",
+        "componentZh": "首先"
+      }
+    }
+  },
+  {
+    "id": "JLB-i90h20ffafcyy2pthd3m871p-S-vl016grgabzahet0fq6c0hzk",
+    "contentId": "JLB-i90h20ffafcyy2pthd3m871p-S-vl016grgabzahet0fq6c0hzk",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "五",
+    "audioText": "Five",
+    "fullEnglish": "Five",
+    "phonetic": "faɪv",
+    "pos": "NUM",
+    "sentenceType": "",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Five",
+        "answer": "Five",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "w1",
+        "role": "",
+        "zh": "五",
+        "phonetic": "faɪv",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "Five"
+    ],
+    "componentTree": [
+      {
+        "id": "w1",
+        "text": "Five",
+        "role": "",
+        "zh": ""
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Five",
+        "phonetic": "faɪv",
+        "pos": "NUM",
+        "zh": "五",
+        "componentRole": "",
+        "componentZh": "五"
+      }
+    }
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-W-xreld7x0o0xl8394jnqhm6ss-2",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-W-xreld7x0o0xl8394jnqhm6ss-2",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "四",
+    "audioText": "four",
+    "fullEnglish": "four",
+    "phonetic": "fɔr",
+    "pos": "NUM",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "four",
+        "answer": "four",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "四",
+        "phonetic": "fɔr",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "four"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "four",
+        "phonetic": "fɔr",
+        "pos": "NUM",
+        "zh": "四",
+        "componentZh": "四"
+      }
+    }
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-W-dxk5bemlgxxsrpuriu04d25l-1",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-W-dxk5bemlgxxsrpuriu04d25l-1",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "短语动词原型: 起床",
+    "audioText": "Get",
+    "fullEnglish": "Get",
+    "phonetic": "ɡet",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Get",
+        "answer": "Get",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "短语动词原型: 起床",
+        "phonetic": "ɡet",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Get"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Get",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "zh": "短语动词原型: 起床",
+        "componentZh": "短语动词原型: 起床"
+      }
+    }
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-W-l5sw6izpyfvyoviixsrix08w-6",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-W-l5sw6izpyfvyoviixsrix08w-6",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "去",
+    "audioText": "go",
+    "fullEnglish": "go",
+    "phonetic": "ɡoʊ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "go"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去"
+      }
+    }
+  },
+  {
+    "id": "JLB-m0dk1ct2k0qgeqxuhwydxyce-S-lcpq4pgqygyuokrr0xzr7y8e",
+    "contentId": "JLB-m0dk1ct2k0qgeqxuhwydxyce-S-lcpq4pgqygyuokrr0xzr7y8e",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好",
+    "audioText": "Good",
+    "fullEnglish": "Good",
+    "phonetic": "ɡʊd",
+    "pos": "ADJ",
+    "sentenceType": "",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Good",
+        "answer": "Good",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "w1",
+        "role": "",
+        "zh": "好的",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Good"
+    ],
+    "componentTree": [
+      {
+        "id": "w1",
+        "text": "Good",
+        "role": "",
+        "zh": ""
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Good",
+        "phonetic": "ɡʊd",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentRole": "",
+        "componentZh": "好的"
+      }
+    }
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-W-x4j1wph3e1bbaqih1bqh85yc-1",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-W-x4j1wph3e1bbaqih1bqh85yc-1",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "有",
+    "audioText": "Have",
+    "fullEnglish": "Have",
+    "phonetic": "hæv",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Have",
+        "answer": "Have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Have"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有"
+      }
+    }
+  },
+  {
+    "id": "JLB-i90h20ffafcyy2pthd3m871p-S-k0kyx5ni01mm4fpf0s1l49g6",
+    "contentId": "JLB-i90h20ffafcyy2pthd3m871p-S-k0kyx5ni01mm4fpf0s1l49g6",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "家",
+    "audioText": "Home",
+    "fullEnglish": "Home",
+    "phonetic": "hoʊm",
+    "pos": "NOUN",
+    "sentenceType": "",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Home",
+        "answer": "Home",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "w1",
+        "role": "",
+        "zh": "家",
+        "phonetic": "hoʊm",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Home"
+    ],
+    "componentTree": [
+      {
+        "id": "w1",
+        "text": "Home",
+        "role": "",
+        "zh": ""
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Home",
+        "phonetic": "hoʊm",
+        "pos": "NOUN",
+        "zh": "家",
+        "componentRole": "",
+        "componentZh": "家"
+      }
+    }
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-W-dvp4xd3o9p5bqv70ub5w46sj-3",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-W-dvp4xd3o9p5bqv70ub5w46sj-3",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "is",
+    "fullEnglish": "is",
+    "phonetic": "ɪz",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "is"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是"
+      }
+    }
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-W-dvp4xd3o9p5bqv70ub5w46sj-4",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-W-dvp4xd3o9p5bqv70ub5w46sj-4",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它",
+    "audioText": "it",
+    "fullEnglish": "it",
+    "phonetic": "ɪt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "it"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它"
+      }
+    }
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-W-l5sw6izpyfvyoviixsrix08w-1",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-W-l5sw6izpyfvyoviixsrix08w-1",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它是",
+    "audioText": "It's",
+    "fullEnglish": "It's",
+    "phonetic": "ɪts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是"
+      }
+    }
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-W-y4xf0cdlunugx0qcr0zadorv-7",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-W-y4xf0cdlunugx0qcr0zadorv-7",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "课程（复数）",
+    "audioText": "lessons",
+    "fullEnglish": "lessons",
+    "phonetic": "ˈlɛsənz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "lessons",
+        "answer": "lessons",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "课程（复数）",
+        "phonetic": "ˈlɛsənz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "lessons"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "lessons",
+        "phonetic": "ˈlɛsənz",
+        "pos": "NOUN",
+        "zh": "课程（复数）",
+        "componentZh": "课程（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-W-racc1df5zkdvkpjgw2aswg8m-1",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-W-racc1df5zkdvkpjgw2aswg8m-1",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让我们",
+    "audioText": "Let's",
+    "fullEnglish": "Let's",
+    "phonetic": "lets",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentZh": "让我们"
+      }
+    }
+  },
+  {
+    "id": "JLB-zv3wa23w09zqyz9jd1e358l1-S-y31ydjsa9lynrucs5t6r5a1f",
+    "contentId": "JLB-zv3wa23w09zqyz9jd1e358l1-S-y31ydjsa9lynrucs5t6r5a1f",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好",
+    "audioText": "Nice",
+    "fullEnglish": "Nice",
+    "phonetic": "naɪs",
+    "pos": "ADJ",
+    "sentenceType": "",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Nice",
+        "answer": "Nice",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "w1",
+        "role": "",
+        "zh": "好的",
+        "phonetic": "naɪs",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Nice"
+    ],
+    "componentTree": [
+      {
+        "id": "w1",
+        "text": "Nice",
+        "role": "",
+        "zh": ""
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Nice",
+        "phonetic": "naɪs",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentRole": "",
+        "componentZh": "好的"
+      }
+    }
+  },
+  {
+    "id": "JLB-m0dk1ct2k0qgeqxuhwydxyce-S-v4eldn1hoel5tqg2d62kwmi2",
+    "contentId": "JLB-m0dk1ct2k0qgeqxuhwydxyce-S-v4eldn1hoel5tqg2d62kwmi2",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "九",
+    "audioText": "Nine",
+    "fullEnglish": "Nine",
+    "phonetic": "naɪn",
+    "pos": "NUM",
+    "sentenceType": "",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Nine",
+        "answer": "Nine",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "w1",
+        "role": "",
+        "zh": "九",
+        "phonetic": "naɪn",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "Nine"
+    ],
+    "componentTree": [
+      {
+        "id": "w1",
+        "text": "Nine",
+        "role": "",
+        "zh": ""
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Nine",
+        "phonetic": "naɪn",
+        "pos": "NUM",
+        "zh": "九",
+        "componentRole": "",
+        "componentZh": "九"
+      }
+    }
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-W-busdw9wy1ofsxh3y69wtnrzi-4",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-W-busdw9wy1ofsxh3y69wtnrzi-4",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "现在",
+    "audioText": "now",
+    "fullEnglish": "now",
+    "phonetic": "naʊ",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "now",
+        "answer": "now",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "现在",
+        "phonetic": "naʊ",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "now"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "now",
+        "phonetic": "naʊ",
+        "pos": "ADV",
+        "zh": "现在",
+        "componentZh": "现在"
+      }
+    }
+  },
+  {
+    "id": "JLB-zv3wa23w09zqyz9jd1e358l1-S-wulbfd8zmudz4116b4yix9xe",
+    "contentId": "JLB-zv3wa23w09zqyz9jd1e358l1-S-wulbfd8zmudz4116b4yix9xe",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "点钟",
+    "audioText": "o'clock",
+    "fullEnglish": "o'clock",
+    "phonetic": "əˈklɑːk",
+    "pos": "ADV",
+    "sentenceType": "",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "o'clock",
+        "answer": "o'clock",
+        "blank": "_’_____",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "w1",
+        "role": "ADV",
+        "zh": "…点钟",
+        "phonetic": "əˈklɑːk",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "o'clock"
+    ],
+    "componentTree": [
+      {
+        "id": "w1",
+        "text": "o'clock",
+        "role": "ADV",
+        "zh": "…点钟"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "o'clock",
+        "phonetic": "əˈklɑːk",
+        "pos": "ADV",
+        "zh": "…点钟",
+        "componentRole": "ADV",
+        "componentZh": "…点钟"
+      }
+    }
+  },
+  {
+    "id": "JLB-bvzl29a2c3hwta90tg7qlvus-W-rxwtv28et146t8eyyhqk17z7-3",
+    "contentId": "JLB-bvzl29a2c3hwta90tg7qlvus-W-rxwtv28et146t8eyyhqk17z7-3",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "（与 turn 搭配）",
+    "audioText": "on",
+    "fullEnglish": "on",
+    "phonetic": "ɑːn",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "on"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentZh": "在...上"
+      }
+    }
+  },
+  {
+    "id": "JLB-m0dk1ct2k0qgeqxuhwydxyce-S-dbiuoh0qhcw15nzeeyav49pw",
+    "contentId": "JLB-m0dk1ct2k0qgeqxuhwydxyce-S-dbiuoh0qhcw15nzeeyav49pw",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一",
+    "audioText": "One",
+    "fullEnglish": "One",
+    "sentenceType": "",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "One",
+        "answer": "One",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "w1",
+        "role": "",
+        "zh": "一"
+      }
+    ],
+    "shuffledBlocks": [
+      "One"
+    ],
+    "componentTree": [
+      {
+        "id": "w1",
+        "text": "One",
+        "role": "",
+        "zh": ""
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "One",
+        "zh": "一",
+        "componentRole": "",
+        "componentZh": "一"
+      }
+    }
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-W-racc1df5zkdvkpjgw2aswg8m-2",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-W-racc1df5zkdvkpjgw2aswg8m-2",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "玩",
+    "audioText": "play",
+    "fullEnglish": "play",
+    "phonetic": "pleɪ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "玩",
+        "phonetic": "pleɪ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "play"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "玩",
+        "componentZh": "玩"
+      }
+    }
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-W-l5sw6izpyfvyoviixsrix08w-8",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-W-l5sw6izpyfvyoviixsrix08w-8",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "学校",
+    "audioText": "school",
+    "fullEnglish": "school",
+    "phonetic": "skuːl",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "school",
+        "answer": "school",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "学校",
+        "phonetic": "skuːl",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "school"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "school",
+        "phonetic": "skuːl",
+        "pos": "NOUN",
+        "zh": "学校",
+        "componentZh": "学校"
+      }
+    }
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-W-l5sw6izpyfvyoviixsrix08w-2",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-W-l5sw6izpyfvyoviixsrix08w-2",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "七",
+    "audioText": "seven",
+    "fullEnglish": "seven",
+    "phonetic": "ˈsev(ə)n",
+    "pos": "NUM",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "seven",
+        "answer": "seven",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "七",
+        "phonetic": "ˈsev(ə)n",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "seven"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "seven",
+        "phonetic": "ˈsev(ə)n",
+        "pos": "NUM",
+        "zh": "七",
+        "componentZh": "七"
+      }
+    }
+  },
+  {
+    "id": "JLB-m0dk1ct2k0qgeqxuhwydxyce-S-hp3jvesmj9l0u8mvzffj240n",
+    "contentId": "JLB-m0dk1ct2k0qgeqxuhwydxyce-S-hp3jvesmj9l0u8mvzffj240n",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "睡眠",
+    "audioText": "Sleep",
+    "fullEnglish": "Sleep",
+    "sentenceType": "",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Sleep",
+        "answer": "Sleep",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "w1",
+        "role": "",
+        "zh": "睡眠"
+      }
+    ],
+    "shuffledBlocks": [
+      "Sleep"
+    ],
+    "componentTree": [
+      {
+        "id": "w1",
+        "text": "Sleep",
+        "role": "",
+        "zh": ""
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Sleep",
+        "zh": "睡眠",
+        "componentRole": "",
+        "componentZh": "睡眠"
+      }
+    }
+  },
+  {
+    "id": "JLB-bvzl29a2c3hwta90tg7qlvus-W-qwr5v9ujcahmsj9q3cq610dd-5",
+    "contentId": "JLB-bvzl29a2c3hwta90tg7qlvus-W-qwr5v9ujcahmsj9q3cq610dd-5",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "the",
+    "fullEnglish": "the",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "the"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-i90h20ffafcyy2pthd3m871p-S-itkx75106mtrajppz8s45zbu",
+    "contentId": "JLB-i90h20ffafcyy2pthd3m871p-S-itkx75106mtrajppz8s45zbu",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "三十",
+    "audioText": "Thirty",
+    "fullEnglish": "Thirty",
+    "phonetic": "ˈθɜrti",
+    "pos": "NUM",
+    "sentenceType": "",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Thirty",
+        "answer": "Thirty",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "w1",
+        "role": "",
+        "zh": "三十",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "Thirty"
+    ],
+    "componentTree": [
+      {
+        "id": "w1",
+        "text": "Thirty",
+        "role": "",
+        "zh": ""
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Thirty",
+        "phonetic": "ˈθɜrti",
+        "pos": "NUM",
+        "zh": "三十",
+        "componentRole": "",
+        "componentZh": "三十"
+      }
+    }
+  },
+  {
+    "id": "JLB-zv3wa23w09zqyz9jd1e358l1-S-y2qvwn4dpw4vlzbh46rm5mkz",
+    "contentId": "JLB-zv3wa23w09zqyz9jd1e358l1-S-y2qvwn4dpw4vlzbh46rm5mkz",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "时间",
+    "audioText": "Time",
+    "fullEnglish": "Time",
+    "phonetic": "taɪm",
+    "pos": "NOUN",
+    "sentenceType": "",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Time",
+        "answer": "Time",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "w1",
+        "role": "",
+        "zh": "时间",
+        "phonetic": "taɪm",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Time"
+    ],
+    "componentTree": [
+      {
+        "id": "w1",
+        "text": "Time",
+        "role": "",
+        "zh": ""
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Time",
+        "phonetic": "taɪm",
+        "pos": "NOUN",
+        "zh": "时间",
+        "componentRole": "",
+        "componentZh": "时间"
+      }
+    }
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-W-l5sw6izpyfvyoviixsrix08w-5",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-W-l5sw6izpyfvyoviixsrix08w-5",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "引导不定式",
+    "audioText": "to",
+    "fullEnglish": "to",
+    "phonetic": "tuː; tə",
+    "pos": "PART",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "to"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentZh": "到"
+      }
+    }
+  },
+  {
+    "id": "JLB-bvzl29a2c3hwta90tg7qlvus-W-rxwtv28et146t8eyyhqk17z7-2",
+    "contentId": "JLB-bvzl29a2c3hwta90tg7qlvus-W-rxwtv28et146t8eyyhqk17z7-2",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "turn on（短语动词）: 打开",
+    "audioText": "turn",
+    "fullEnglish": "turn",
+    "phonetic": "tɜːrn",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "turn",
+        "answer": "turn",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "turn on（短语动词）: 打开",
+        "phonetic": "tɜːrn",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "turn"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "turn",
+        "phonetic": "tɜːrn",
+        "pos": "VERB",
+        "zh": "turn on（短语动词）: 打开",
+        "componentZh": "turn on（短语动词）: 打开"
+      }
+    }
+  },
+  {
+    "id": "JLB-m0dk1ct2k0qgeqxuhwydxyce-S-licz9jquu8l3wogdpk6yjoja",
+    "contentId": "JLB-m0dk1ct2k0qgeqxuhwydxyce-S-licz9jquu8l3wogdpk6yjoja",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "二十",
+    "audioText": "Twenty",
+    "fullEnglish": "Twenty",
+    "phonetic": "ˈtwenti",
+    "pos": "NUM",
+    "sentenceType": "",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Twenty",
+        "answer": "Twenty",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "w1",
+        "role": "",
+        "zh": "二十",
+        "phonetic": "ˈtwenti",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "Twenty"
+    ],
+    "componentTree": [
+      {
+        "id": "w1",
+        "text": "Twenty",
+        "role": "",
+        "zh": ""
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Twenty",
+        "phonetic": "ˈtwenti",
+        "pos": "NUM",
+        "zh": "二十",
+        "componentRole": "",
+        "componentZh": "二十"
+      }
+    }
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-W-dxk5bemlgxxsrpuriu04d25l-2",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-W-dxk5bemlgxxsrpuriu04d25l-2",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "（与 Get 搭配）",
+    "audioText": "up",
+    "fullEnglish": "up",
+    "phonetic": "ʌp",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "up",
+        "answer": "up",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 Get 搭配）",
+        "phonetic": "ʌp",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "up"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "up",
+        "phonetic": "ʌp",
+        "pos": "ADP",
+        "zh": "（与 Get 搭配）",
+        "componentZh": "（与 Get 搭配）"
+      }
+    }
+  },
+  {
+    "id": "JLB-bvzl29a2c3hwta90tg7qlvus-W-qwr5v9ujcahmsj9q3cq610dd-4",
+    "contentId": "JLB-bvzl29a2c3hwta90tg7qlvus-W-qwr5v9ujcahmsj9q3cq610dd-4",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "观看",
+    "audioText": "watch",
+    "fullEnglish": "watch",
+    "phonetic": "wɑːtʃ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "watch",
+        "answer": "watch",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "观看",
+        "phonetic": "wɑːtʃ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "watch"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "watch",
+        "phonetic": "wɑːtʃ",
+        "pos": "VERB",
+        "zh": "观看",
+        "componentZh": "观看"
+      }
+    }
+  },
+  {
+    "id": "JLB-k34cn6uykat41tb4bhqy3lj6-W-dvp4xd3o9p5bqv70ub5w46sj-1",
+    "contentId": "JLB-k34cn6uykat41tb4bhqy3lj6-W-dvp4xd3o9p5bqv70ub5w46sj-1",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么",
+    "audioText": "What",
+    "fullEnglish": "What",
+    "phonetic": "wʌt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "What"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么"
+      }
+    }
+  },
+  {
+    "id": "JLB-i90h20ffafcyy2pthd3m871p-S-mxip9a775cgg4brprvnmm6tq",
+    "contentId": "JLB-i90h20ffafcyy2pthd3m871p-S-mxip9a775cgg4brprvnmm6tq",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "当",
+    "audioText": "When",
+    "fullEnglish": "When",
+    "phonetic": "wen",
+    "pos": "ADV",
+    "sentenceType": "",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "When",
+        "answer": "When",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "w1",
+        "role": "",
+        "zh": "何时",
+        "phonetic": "wen",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "When"
+    ],
+    "componentTree": [
+      {
+        "id": "w1",
+        "text": "When",
+        "role": "",
+        "zh": ""
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "When",
+        "phonetic": "wen",
+        "pos": "ADV",
+        "zh": "何时",
+        "componentRole": "",
+        "componentZh": "何时"
+      }
+    }
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-W-a2jhqbwt77cd4p0ezhd8dfn0-6",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-W-a2jhqbwt77cd4p0ezhd8dfn0-6",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Yangyang",
+    "audioText": "Yangyang",
+    "fullEnglish": "Yangyang",
+    "phonetic": "yangyang",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yangyang",
+        "answer": "Yangyang",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yangyang"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON",
+        "zh": "Yangyang",
+        "componentZh": "Yangyang"
+      }
+    }
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-W-y4xf0cdlunugx0qcr0zadorv-3",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-W-y4xf0cdlunugx0qcr0zadorv-3",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-i4tlb50631jaju52ya62evsi-W-y4xf0cdlunugx0qcr0zadorv-5",
+    "contentId": "JLB-i4tlb50631jaju52ya62evsi-W-y4xf0cdlunugx0qcr0zadorv-5",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "unit-01",
+    "unitTitle": "Unit 1 What Time Is It?",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你的",
+    "audioText": "your",
+    "fullEnglish": "your",
+    "phonetic": "jʊr; jər",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "your"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentZh": "你的"
+      }
+    }
+  }
+]

@@ -1,0 +1,6230 @@
+[
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-S-66920ce369a8024cb5285f20",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-S-66920ce369a8024cb5285f20",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这辆公交车去市中心吗？",
+    "audioText": "does this bus go to downtown",
+    "fullEnglish": "does this bus go to downtown",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "does",
+        "answer": "does",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "构成疑问句",
+        "phonetic": "dʌz",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "this bus",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这个；公交车"
+      },
+      {
+        "index": 2,
+        "text": "bus",
+        "answer": "bus",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "公交车",
+        "phonetic": "bʌs",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "this bus",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这个；公交车"
+      },
+      {
+        "index": 3,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "谓语",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "介词",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "to downtown",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "到；市中心"
+      },
+      {
+        "index": 5,
+        "text": "downtown",
+        "answer": "downtown",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "中心词",
+        "zh": "市中心",
+        "phonetic": "ˌdaʊnˈtaʊn",
+        "pos": "NOUN",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "downtown",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "市中心"
+      }
+    ],
+    "shuffledBlocks": [
+      "this",
+      "to",
+      "downtown",
+      "bus",
+      "go",
+      "does"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "does",
+        "role": "助动词",
+        "zh": "构成疑问句"
+      },
+      {
+        "id": "ud-2",
+        "text": "this bus",
+        "role": "主语",
+        "zh": "这个；公交车",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "this",
+            "role": "限定词",
+            "zh": "这个"
+          },
+          {
+            "id": "ud-4",
+            "text": "bus",
+            "role": "中心词",
+            "zh": "公交车"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "go",
+        "role": "谓语",
+        "zh": "去"
+      },
+      {
+        "id": "ud-6",
+        "text": "to downtown",
+        "role": "介词短语/状语",
+        "zh": "到；市中心",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "to",
+            "role": "介词",
+            "zh": "到"
+          },
+          {
+            "id": "ud-8",
+            "text": "downtown",
+            "role": "介词宾语",
+            "zh": "市中心",
+            "children": [
+              {
+                "id": "ud-9",
+                "text": "downtown",
+                "role": "中心词",
+                "zh": "市中心"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "does",
+        "phonetic": "dʌz",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentRole": "助动词",
+        "componentZh": "构成疑问句"
+      },
+      "1": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentRole": "限定词",
+        "componentZh": "这个",
+        "parentComponentText": "this bus",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这个；公交车"
+      },
+      "2": {
+        "text": "bus",
+        "phonetic": "bʌs",
+        "pos": "NOUN",
+        "zh": "公交车",
+        "componentRole": "中心词",
+        "componentZh": "公交车",
+        "parentComponentText": "this bus",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这个；公交车"
+      },
+      "3": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentRole": "谓语",
+        "componentZh": "去"
+      },
+      "4": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentRole": "介词",
+        "componentZh": "到",
+        "parentComponentText": "to downtown",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "到；市中心"
+      },
+      "5": {
+        "text": "downtown",
+        "phonetic": "ˌdaʊnˈtaʊn",
+        "pos": "NOUN",
+        "zh": "市中心",
+        "componentRole": "中心词",
+        "componentZh": "市中心",
+        "parentComponentText": "downtown",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "市中心"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f20-1",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f20-1",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "构成疑问句",
+    "audioText": "does",
+    "fullEnglish": "does",
+    "phonetic": "dʌz",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "does",
+        "answer": "does",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "构成疑问句",
+        "phonetic": "dʌz",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "does"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "does",
+        "phonetic": "dʌz",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentZh": "构成疑问句"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f20-2",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f20-2",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这个",
+    "audioText": "this",
+    "fullEnglish": "this",
+    "phonetic": "ðɪs",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "this"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentZh": "这个"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f20-3",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f20-3",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "公交车",
+    "audioText": "bus",
+    "fullEnglish": "bus",
+    "phonetic": "bʌs",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "bus",
+        "answer": "bus",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "公交车",
+        "phonetic": "bʌs",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "bus"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "bus",
+        "phonetic": "bʌs",
+        "pos": "NOUN",
+        "zh": "公交车",
+        "componentZh": "公交车"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f20-4",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f20-4",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "去",
+    "audioText": "go",
+    "fullEnglish": "go",
+    "phonetic": "ɡoʊ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "go"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f20-5",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f20-5",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "到",
+    "audioText": "to",
+    "fullEnglish": "to",
+    "phonetic": "tuː; tə",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "to"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentZh": "到"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f20-6",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f20-6",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "市中心",
+    "audioText": "downtown",
+    "fullEnglish": "downtown",
+    "phonetic": "ˌdaʊnˈtaʊn",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "downtown",
+        "answer": "downtown",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "市中心",
+        "phonetic": "ˌdaʊnˈtaʊn",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "downtown"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "downtown",
+        "phonetic": "ˌdaʊnˈtaʊn",
+        "pos": "NOUN",
+        "zh": "市中心",
+        "componentZh": "市中心"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-S-66920ce369a8024cb5285f21",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-S-66920ce369a8024cb5285f21",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的，你需要在第五站下车",
+    "audioText": "yes it does, you need to get off at the fifth stop",
+    "fullEnglish": "yes it does, you need to get off at the fifth stop",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "yes",
+        "answer": "yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "修饰语",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "it does",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "它；构成疑问句"
+      },
+      {
+        "index": 2,
+        "text": "does",
+        "answer": "does",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "构成疑问句",
+        "phonetic": "dʌz",
+        "pos": "AUX",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "it does",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "它；构成疑问句"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，你需要在第五站下车"
+      },
+      {
+        "index": 4,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "need",
+        "answer": "need",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "谓语",
+        "zh": "需要",
+        "phonetic": "niːd",
+        "pos": "VERB"
+      },
+      {
+        "index": 6,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "连接词",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "to get off at the fifth stop",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；get off（短语动词）: 下车；（与 get 搭配）；在；定冠词；第五；站"
+      },
+      {
+        "index": 7,
+        "text": "get",
+        "answer": "get",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "中心词",
+        "zh": "get off（短语动词）: 下车",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "get off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "get off（短语动词）: 下车；（与 get 搭配）"
+      },
+      {
+        "index": 8,
+        "text": "off",
+        "answer": "off",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "定语（名词修饰）",
+        "zh": "（与 get 搭配）",
+        "phonetic": "ɔːf",
+        "pos": "ADP",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "get off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "get off（短语动词）: 下车；（与 get 搭配）"
+      },
+      {
+        "index": 9,
+        "text": "at",
+        "answer": "at",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-13",
+        "role": "介词",
+        "zh": "在",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "parentComponentId": "ud-12",
+        "parentComponentText": "at the fifth stop",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；定冠词；第五；站"
+      },
+      {
+        "index": 10,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-15",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-14",
+        "parentComponentText": "the fifth stop",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；第五；站"
+      },
+      {
+        "index": 11,
+        "text": "fifth",
+        "answer": "fifth",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-16",
+        "role": "定语（形容词）",
+        "zh": "第五",
+        "phonetic": "fɪfθ",
+        "pos": "ADJ",
+        "parentComponentId": "ud-14",
+        "parentComponentText": "the fifth stop",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；第五；站"
+      },
+      {
+        "index": 12,
+        "text": "stop",
+        "answer": "stop",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-17",
+        "role": "中心词",
+        "zh": "站",
+        "phonetic": "stɑːp",
+        "pos": "NOUN",
+        "parentComponentId": "ud-14",
+        "parentComponentText": "the fifth stop",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；第五；站"
+      }
+    ],
+    "shuffledBlocks": [
+      "yes",
+      "does",
+      "fifth",
+      "get",
+      "off",
+      "at",
+      "need",
+      "to",
+      "the",
+      "stop",
+      "you",
+      "it"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "yes",
+        "role": "语气/引导语",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "it does",
+        "role": "补充成分",
+        "zh": "它；构成疑问句",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "it",
+            "role": "修饰语",
+            "zh": "它"
+          },
+          {
+            "id": "ud-4",
+            "text": "does",
+            "role": "中心词",
+            "zh": "构成疑问句"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-6",
+        "text": "need",
+        "role": "谓语",
+        "zh": "需要"
+      },
+      {
+        "id": "ud-7",
+        "text": "to get off at the fifth stop",
+        "role": "不定式短语",
+        "zh": "到；get off（短语动词）: 下车；（与 get 搭配）；在；定冠词；第五；站",
+        "children": [
+          {
+            "id": "ud-8",
+            "text": "to",
+            "role": "连接词",
+            "zh": "到"
+          },
+          {
+            "id": "ud-9",
+            "text": "get off",
+            "role": "谓语",
+            "zh": "get off（短语动词）: 下车；（与 get 搭配）",
+            "children": [
+              {
+                "id": "ud-10",
+                "text": "get",
+                "role": "中心词",
+                "zh": "get off（短语动词）: 下车"
+              },
+              {
+                "id": "ud-11",
+                "text": "off",
+                "role": "定语（名词修饰）",
+                "zh": "（与 get 搭配）"
+              }
+            ]
+          },
+          {
+            "id": "ud-12",
+            "text": "at the fifth stop",
+            "role": "地点状语",
+            "zh": "在；定冠词；第五；站",
+            "children": [
+              {
+                "id": "ud-13",
+                "text": "at",
+                "role": "介词",
+                "zh": "在"
+              },
+              {
+                "id": "ud-14",
+                "text": "the fifth stop",
+                "role": "介词宾语",
+                "zh": "定冠词；第五；站",
+                "children": [
+                  {
+                    "id": "ud-15",
+                    "text": "the",
+                    "role": "限定词",
+                    "zh": "定冠词"
+                  },
+                  {
+                    "id": "ud-16",
+                    "text": "fifth",
+                    "role": "定语（形容词）",
+                    "zh": "第五"
+                  },
+                  {
+                    "id": "ud-17",
+                    "text": "stop",
+                    "role": "中心词",
+                    "zh": "站"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentRole": "语气/引导语",
+        "componentZh": "是的"
+      },
+      "1": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentRole": "修饰语",
+        "componentZh": "它",
+        "parentComponentText": "it does",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "它；构成疑问句"
+      },
+      "2": {
+        "text": "does",
+        "phonetic": "dʌz",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentRole": "中心词",
+        "componentZh": "构成疑问句",
+        "parentComponentText": "it does",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "它；构成疑问句"
+      },
+      "4": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "5": {
+        "text": "need",
+        "phonetic": "niːd",
+        "pos": "VERB",
+        "zh": "需要",
+        "componentRole": "谓语",
+        "componentZh": "需要"
+      },
+      "6": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentRole": "连接词",
+        "componentZh": "到",
+        "parentComponentText": "to get off at the fifth stop",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；get off（短语动词）: 下车；（与 get 搭配）；在；定冠词；第五；站"
+      },
+      "7": {
+        "text": "get",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "zh": "get off（短语动词）: 下车",
+        "componentRole": "中心词",
+        "componentZh": "get off（短语动词）: 下车",
+        "parentComponentText": "get off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "get off（短语动词）: 下车；（与 get 搭配）"
+      },
+      "8": {
+        "text": "off",
+        "phonetic": "ɔːf",
+        "pos": "ADP",
+        "zh": "（与 get 搭配）",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "（与 get 搭配）",
+        "parentComponentText": "get off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "get off（短语动词）: 下车；（与 get 搭配）"
+      },
+      "9": {
+        "text": "at",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "zh": "在",
+        "componentRole": "介词",
+        "componentZh": "在",
+        "parentComponentText": "at the fifth stop",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；定冠词；第五；站"
+      },
+      "10": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the fifth stop",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；第五；站"
+      },
+      "11": {
+        "text": "fifth",
+        "phonetic": "fɪfθ",
+        "pos": "ADJ",
+        "zh": "第五",
+        "componentRole": "定语（形容词）",
+        "componentZh": "第五",
+        "parentComponentText": "the fifth stop",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；第五；站"
+      },
+      "12": {
+        "text": "stop",
+        "phonetic": "stɑːp",
+        "pos": "NOUN",
+        "zh": "站",
+        "componentRole": "中心词",
+        "componentZh": "站",
+        "parentComponentText": "the fifth stop",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；第五；站"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f21-1",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f21-1",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的",
+    "audioText": "yes",
+    "fullEnglish": "yes",
+    "phonetic": "jes",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "yes",
+        "answer": "yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "yes"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f21-2",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f21-2",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它",
+    "audioText": "it",
+    "fullEnglish": "it",
+    "phonetic": "ɪt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "it"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f21-4",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f21-4",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f21-5",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f21-5",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "需要",
+    "audioText": "need",
+    "fullEnglish": "need",
+    "phonetic": "niːd",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "need",
+        "answer": "need",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "需要",
+        "phonetic": "niːd",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "need"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "need",
+        "phonetic": "niːd",
+        "pos": "VERB",
+        "zh": "需要",
+        "componentZh": "需要"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f21-7",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f21-7",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "get off（短语动词）: 下车",
+    "audioText": "get",
+    "fullEnglish": "get",
+    "phonetic": "ɡet",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "get",
+        "answer": "get",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "get off（短语动词）: 下车",
+        "phonetic": "ɡet",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "get"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "get",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "zh": "get off（短语动词）: 下车",
+        "componentZh": "get off（短语动词）: 下车"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f21-8",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f21-8",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "（与 get 搭配）",
+    "audioText": "off",
+    "fullEnglish": "off",
+    "phonetic": "ɔːf",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "off",
+        "answer": "off",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 get 搭配）",
+        "phonetic": "ɔːf",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "off"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "off",
+        "phonetic": "ɔːf",
+        "pos": "ADP",
+        "zh": "（与 get 搭配）",
+        "componentZh": "（与 get 搭配）"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f21-9",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f21-9",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在",
+    "audioText": "at",
+    "fullEnglish": "at",
+    "phonetic": "æt; ət",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "at",
+        "answer": "at",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在",
+        "phonetic": "æt; ət",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "at"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "at",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "zh": "在",
+        "componentZh": "在"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f21-10",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f21-10",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "the",
+    "fullEnglish": "the",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "the"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f21-11",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f21-11",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "第五",
+    "audioText": "fifth",
+    "fullEnglish": "fifth",
+    "phonetic": "fɪfθ",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "fifth",
+        "answer": "fifth",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "第五",
+        "phonetic": "fɪfθ",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "fifth"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "fifth",
+        "phonetic": "fɪfθ",
+        "pos": "ADJ",
+        "zh": "第五",
+        "componentZh": "第五"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f21-12",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f21-12",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "站",
+    "audioText": "stop",
+    "fullEnglish": "stop",
+    "phonetic": "stɑːp",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "stop",
+        "answer": "stop",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "站",
+        "phonetic": "stɑːp",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "stop"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "stop",
+        "phonetic": "stɑːp",
+        "pos": "NOUN",
+        "zh": "站",
+        "componentZh": "站"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-S-66920ce369a8024cb5285f22",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-S-66920ce369a8024cb5285f22",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "到那里需要多长时间",
+    "audioText": "how long will it take to get there",
+    "fullEnglish": "how long will it take to get there",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "how",
+        "answer": "how",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "副词",
+        "zh": "如何",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "how long",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "如何；长"
+      },
+      {
+        "index": 1,
+        "text": "long",
+        "answer": "long",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "长",
+        "phonetic": "lɔːŋ",
+        "pos": "ADJ",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "how long",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "如何；长"
+      },
+      {
+        "index": 2,
+        "text": "will",
+        "answer": "will",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "助动词",
+        "zh": "将",
+        "phonetic": "wɪl",
+        "pos": "AUX"
+      },
+      {
+        "index": 3,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "引导词/形式主语",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      },
+      {
+        "index": 4,
+        "text": "take",
+        "answer": "take",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "谓语",
+        "zh": "花费",
+        "phonetic": "teɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 5,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "连接词",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "to get there",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；get off（短语动词）: 下车；那里"
+      },
+      {
+        "index": 6,
+        "text": "get",
+        "answer": "get",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "谓语",
+        "zh": "get off（短语动词）: 下车",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "to get there",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；get off（短语动词）: 下车；那里"
+      },
+      {
+        "index": 7,
+        "text": "there",
+        "answer": "there",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "地点状语",
+        "zh": "那里",
+        "phonetic": "ðer; ðər",
+        "pos": "ADV",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "to get there",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；get off（短语动词）: 下车；那里"
+      }
+    ],
+    "shuffledBlocks": [
+      "it",
+      "how",
+      "long",
+      "will",
+      "to",
+      "take",
+      "there",
+      "get"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "how long",
+        "role": "方式/程度状语",
+        "zh": "如何；长",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "how",
+            "role": "副词",
+            "zh": "如何"
+          },
+          {
+            "id": "ud-3",
+            "text": "long",
+            "role": "中心词",
+            "zh": "长"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "will",
+        "role": "助动词",
+        "zh": "将"
+      },
+      {
+        "id": "ud-5",
+        "text": "it",
+        "role": "引导词/形式主语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-6",
+        "text": "take",
+        "role": "谓语",
+        "zh": "花费"
+      },
+      {
+        "id": "ud-7",
+        "text": "to get there",
+        "role": "不定式短语",
+        "zh": "到；get off（短语动词）: 下车；那里",
+        "children": [
+          {
+            "id": "ud-8",
+            "text": "to",
+            "role": "连接词",
+            "zh": "到"
+          },
+          {
+            "id": "ud-9",
+            "text": "get",
+            "role": "谓语",
+            "zh": "get off（短语动词）: 下车"
+          },
+          {
+            "id": "ud-10",
+            "text": "there",
+            "role": "地点状语",
+            "zh": "那里"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "how",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "zh": "如何",
+        "componentRole": "副词",
+        "componentZh": "如何",
+        "parentComponentText": "how long",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "如何；长"
+      },
+      "1": {
+        "text": "long",
+        "phonetic": "lɔːŋ",
+        "pos": "ADJ",
+        "zh": "长",
+        "componentRole": "中心词",
+        "componentZh": "长",
+        "parentComponentText": "how long",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "如何；长"
+      },
+      "2": {
+        "text": "will",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "zh": "将",
+        "componentRole": "助动词",
+        "componentZh": "将"
+      },
+      "3": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentRole": "引导词/形式主语",
+        "componentZh": "它"
+      },
+      "4": {
+        "text": "take",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "zh": "花费",
+        "componentRole": "谓语",
+        "componentZh": "花费"
+      },
+      "5": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentRole": "连接词",
+        "componentZh": "到",
+        "parentComponentText": "to get there",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；get off（短语动词）: 下车；那里"
+      },
+      "6": {
+        "text": "get",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "zh": "get off（短语动词）: 下车",
+        "componentRole": "谓语",
+        "componentZh": "get off（短语动词）: 下车",
+        "parentComponentText": "to get there",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；get off（短语动词）: 下车；那里"
+      },
+      "7": {
+        "text": "there",
+        "phonetic": "ðer; ðər",
+        "pos": "ADV",
+        "zh": "那里",
+        "componentRole": "地点状语",
+        "componentZh": "那里",
+        "parentComponentText": "to get there",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；get off（短语动词）: 下车；那里"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f22-1",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f22-1",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "如何",
+    "audioText": "how",
+    "fullEnglish": "how",
+    "phonetic": "haʊ",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "how",
+        "answer": "how",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "如何",
+        "phonetic": "haʊ",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "how"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "how",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "zh": "如何",
+        "componentZh": "如何"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f22-2",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f22-2",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "长的",
+    "audioText": "long",
+    "fullEnglish": "long",
+    "phonetic": "lɔːŋ",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "long",
+        "answer": "long",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "长",
+        "phonetic": "lɔːŋ",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "long"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "long",
+        "phonetic": "lɔːŋ",
+        "pos": "ADJ",
+        "zh": "长",
+        "componentZh": "长"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f22-3",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f22-3",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "将",
+    "audioText": "will",
+    "fullEnglish": "will",
+    "phonetic": "wɪl",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "will",
+        "answer": "will",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "将",
+        "phonetic": "wɪl",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "will"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "will",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "zh": "将",
+        "componentZh": "将"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f22-5",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f22-5",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "花费",
+    "audioText": "take",
+    "fullEnglish": "take",
+    "phonetic": "teɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "take",
+        "answer": "take",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "花费",
+        "phonetic": "teɪk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "take"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "take",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "zh": "花费",
+        "componentZh": "花费"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f22-8",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f22-8",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "那里",
+    "audioText": "there",
+    "fullEnglish": "there",
+    "phonetic": "ðer; ðər",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "there",
+        "answer": "there",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "那里",
+        "phonetic": "ðer; ðər",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "there"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "there",
+        "phonetic": "ðer; ðər",
+        "pos": "ADV",
+        "zh": "那里",
+        "componentZh": "那里"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-S-66920ce369a8024cb5285f23",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-S-66920ce369a8024cb5285f23",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "大约20分钟，视交通情况而定",
+    "audioText": "around 20 minutes depending on traffic",
+    "fullEnglish": "around 20 minutes depending on traffic",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "around",
+        "answer": "around",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "副词",
+        "zh": "大约",
+        "phonetic": "əˈraʊnd",
+        "pos": "ADP",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "around 20",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "大约；大约20分钟，视交通情况而定"
+      },
+      {
+        "index": 1,
+        "text": "20",
+        "answer": "20",
+        "blank": "20",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "number",
+        "zh": "大约20分钟，视交通情况而定"
+      },
+      {
+        "index": 2,
+        "text": "minutes",
+        "answer": "minutes",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心成分",
+        "zh": "分钟（复数）",
+        "phonetic": "ˈmɪnɪts",
+        "pos": "NOUN"
+      },
+      {
+        "index": 3,
+        "text": "depending",
+        "answer": "depending",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "介词",
+        "zh": "depend（现在分词）: 取决于",
+        "phonetic": "dɪˈpendɪŋ",
+        "pos": "VERB",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "depending on traffic",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "depend（现在分词）: 取决于；在...上；交通"
+      },
+      {
+        "index": 4,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "修饰语",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "depending on traffic",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "depend（现在分词）: 取决于；在...上；交通"
+      },
+      {
+        "index": 5,
+        "text": "traffic",
+        "answer": "traffic",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "交通",
+        "phonetic": "ˈtræfɪk",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "depending on traffic",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "depend（现在分词）: 取决于；在...上；交通"
+      }
+    ],
+    "shuffledBlocks": [
+      "minutes",
+      "on",
+      "depending",
+      "around",
+      "traffic"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "around 20",
+        "role": "补充成分",
+        "zh": "大约；大约20分钟，视交通情况而定",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "around",
+            "role": "副词",
+            "zh": "大约"
+          },
+          {
+            "id": "ud-3",
+            "text": "20",
+            "role": "中心词",
+            "zh": "大约20分钟，视交通情况而定"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "minutes",
+        "role": "中心成分",
+        "zh": "分钟（复数）"
+      },
+      {
+        "id": "ud-5",
+        "text": "depending on traffic",
+        "role": "补充成分",
+        "zh": "depend（现在分词）: 取决于；在...上；交通",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "depending",
+            "role": "介词",
+            "zh": "depend（现在分词）: 取决于"
+          },
+          {
+            "id": "ud-7",
+            "text": "on",
+            "role": "修饰语",
+            "zh": "在...上"
+          },
+          {
+            "id": "ud-8",
+            "text": "traffic",
+            "role": "中心词",
+            "zh": "交通"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "around",
+        "phonetic": "əˈraʊnd",
+        "pos": "ADP",
+        "zh": "大约",
+        "componentRole": "副词",
+        "componentZh": "大约",
+        "parentComponentText": "around 20",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "大约；大约20分钟，视交通情况而定"
+      },
+      "2": {
+        "text": "minutes",
+        "phonetic": "ˈmɪnɪts",
+        "pos": "NOUN",
+        "zh": "分钟（复数）",
+        "componentRole": "中心成分",
+        "componentZh": "分钟（复数）"
+      },
+      "3": {
+        "text": "depending",
+        "phonetic": "dɪˈpendɪŋ",
+        "pos": "VERB",
+        "zh": "depend（现在分词）: 取决于",
+        "componentRole": "介词",
+        "componentZh": "depend（现在分词）: 取决于",
+        "parentComponentText": "depending on traffic",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "depend（现在分词）: 取决于；在...上；交通"
+      },
+      "4": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentRole": "修饰语",
+        "componentZh": "在...上",
+        "parentComponentText": "depending on traffic",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "depend（现在分词）: 取决于；在...上；交通"
+      },
+      "5": {
+        "text": "traffic",
+        "phonetic": "ˈtræfɪk",
+        "pos": "NOUN",
+        "zh": "交通",
+        "componentRole": "中心词",
+        "componentZh": "交通",
+        "parentComponentText": "depending on traffic",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "depend（现在分词）: 取决于；在...上；交通"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f23-1",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f23-1",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "大约",
+    "audioText": "around",
+    "fullEnglish": "around",
+    "phonetic": "əˈraʊnd",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "around",
+        "answer": "around",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "大约",
+        "phonetic": "əˈraʊnd",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "around"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "around",
+        "phonetic": "əˈraʊnd",
+        "pos": "ADP",
+        "zh": "大约",
+        "componentZh": "大约"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f23-3",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f23-3",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "分钟（复数）",
+    "audioText": "minutes",
+    "fullEnglish": "minutes",
+    "phonetic": "ˈmɪnɪts",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "minutes",
+        "answer": "minutes",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "分钟（复数）",
+        "phonetic": "ˈmɪnɪts",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "minutes"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "minutes",
+        "phonetic": "ˈmɪnɪts",
+        "pos": "NOUN",
+        "zh": "分钟（复数）",
+        "componentZh": "分钟（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f23-4",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f23-4",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "depend（现在分词）: 取决于",
+    "audioText": "depending",
+    "fullEnglish": "depending",
+    "phonetic": "dɪˈpendɪŋ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "depending",
+        "answer": "depending",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "depend（现在分词）: 取决于",
+        "phonetic": "dɪˈpendɪŋ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "depending"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "depending",
+        "phonetic": "dɪˈpendɪŋ",
+        "pos": "VERB",
+        "zh": "depend（现在分词）: 取决于",
+        "componentZh": "depend（现在分词）: 取决于"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f23-5",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f23-5",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在...上",
+    "audioText": "on",
+    "fullEnglish": "on",
+    "phonetic": "ɑːn",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "on"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentZh": "在...上"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f23-6",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f23-6",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "交通",
+    "audioText": "traffic",
+    "fullEnglish": "traffic",
+    "phonetic": "ˈtræfɪk",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "traffic",
+        "answer": "traffic",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "交通",
+        "phonetic": "ˈtræfɪk",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "traffic"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "traffic",
+        "phonetic": "ˈtræfɪk",
+        "pos": "NOUN",
+        "zh": "交通",
+        "componentZh": "交通"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-S-66920ce369a8024cb5285f24",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-S-66920ce369a8024cb5285f24",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我需要准备正好的零钱付车费吗",
+    "audioText": "Do I need exact change for the fare?",
+    "fullEnglish": "Do I need exact change for the fare?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Do",
+        "answer": "Do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "need",
+        "answer": "need",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "需要",
+        "phonetic": "niːd",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "exact",
+        "answer": "exact",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "定语（形容词）",
+        "zh": "精确的",
+        "phonetic": "ɪɡˈzækt",
+        "pos": "ADJ",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "exact change",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "精确的；零钱"
+      },
+      {
+        "index": 4,
+        "text": "change",
+        "answer": "change",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "零钱",
+        "phonetic": "tʃeɪndʒ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "exact change",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "精确的；零钱"
+      },
+      {
+        "index": 5,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "介词",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "for the fare",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "为了；定冠词；车费"
+      },
+      {
+        "index": 6,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "the fare",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；车费"
+      },
+      {
+        "index": 7,
+        "text": "fare",
+        "answer": "fare",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "中心词",
+        "zh": "车费",
+        "phonetic": "fer",
+        "pos": "NOUN",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "the fare",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；车费"
+      },
+      {
+        "index": 8,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我需要准备正好的零钱付车费吗"
+      }
+    ],
+    "shuffledBlocks": [
+      "change",
+      "need",
+      "exact",
+      "the",
+      "I",
+      "fare",
+      "for",
+      "Do"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Do",
+        "role": "助动词",
+        "zh": "构成疑问句"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "need",
+        "role": "谓语",
+        "zh": "需要"
+      },
+      {
+        "id": "ud-4",
+        "text": "exact change",
+        "role": "宾语",
+        "zh": "精确的；零钱",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "exact",
+            "role": "定语（形容词）",
+            "zh": "精确的"
+          },
+          {
+            "id": "ud-6",
+            "text": "change",
+            "role": "中心词",
+            "zh": "零钱"
+          }
+        ]
+      },
+      {
+        "id": "ud-7",
+        "text": "for the fare",
+        "role": "介词短语/状语",
+        "zh": "为了；定冠词；车费",
+        "children": [
+          {
+            "id": "ud-8",
+            "text": "for",
+            "role": "介词",
+            "zh": "为了"
+          },
+          {
+            "id": "ud-9",
+            "text": "the fare",
+            "role": "介词宾语",
+            "zh": "定冠词；车费",
+            "children": [
+              {
+                "id": "ud-10",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-11",
+                "text": "fare",
+                "role": "中心词",
+                "zh": "车费"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentRole": "助动词",
+        "componentZh": "构成疑问句"
+      },
+      "1": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "2": {
+        "text": "need",
+        "phonetic": "niːd",
+        "pos": "VERB",
+        "zh": "需要",
+        "componentRole": "谓语",
+        "componentZh": "需要"
+      },
+      "3": {
+        "text": "exact",
+        "phonetic": "ɪɡˈzækt",
+        "pos": "ADJ",
+        "zh": "精确的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "精确的",
+        "parentComponentText": "exact change",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "精确的；零钱"
+      },
+      "4": {
+        "text": "change",
+        "phonetic": "tʃeɪndʒ",
+        "pos": "NOUN",
+        "zh": "零钱",
+        "componentRole": "中心词",
+        "componentZh": "零钱",
+        "parentComponentText": "exact change",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "精确的；零钱"
+      },
+      "5": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentRole": "介词",
+        "componentZh": "为了",
+        "parentComponentText": "for the fare",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "为了；定冠词；车费"
+      },
+      "6": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the fare",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；车费"
+      },
+      "7": {
+        "text": "fare",
+        "phonetic": "fer",
+        "pos": "NOUN",
+        "zh": "车费",
+        "componentRole": "中心词",
+        "componentZh": "车费",
+        "parentComponentText": "the fare",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；车费"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f24-1",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f24-1",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "助动词，构成疑问句",
+    "audioText": "Do",
+    "fullEnglish": "Do",
+    "phonetic": "duː; də",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Do",
+        "answer": "Do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "Do"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentZh": "构成疑问句"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f24-2",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f24-2",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f24-4",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f24-4",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "精确的",
+    "audioText": "exact",
+    "fullEnglish": "exact",
+    "phonetic": "ɪɡˈzækt",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "exact",
+        "answer": "exact",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "精确的",
+        "phonetic": "ɪɡˈzækt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "exact"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "exact",
+        "phonetic": "ɪɡˈzækt",
+        "pos": "ADJ",
+        "zh": "精确的",
+        "componentZh": "精确的"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f24-5",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f24-5",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "零钱",
+    "audioText": "change",
+    "fullEnglish": "change",
+    "phonetic": "tʃeɪndʒ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "change",
+        "answer": "change",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "零钱",
+        "phonetic": "tʃeɪndʒ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "change"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "change",
+        "phonetic": "tʃeɪndʒ",
+        "pos": "NOUN",
+        "zh": "零钱",
+        "componentZh": "零钱"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f24-6",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f24-6",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "为了",
+    "audioText": "for",
+    "fullEnglish": "for",
+    "phonetic": "fɔːr; fər",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "for"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentZh": "为了"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f24-8",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f24-8",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "车费",
+    "audioText": "fare",
+    "fullEnglish": "fare",
+    "phonetic": "fer",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "fare",
+        "answer": "fare",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "车费",
+        "phonetic": "fer",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "fare"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "fare",
+        "phonetic": "fer",
+        "pos": "NOUN",
+        "zh": "车费",
+        "componentZh": "车费"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-S-66920ce369a8024cb5285f25",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-S-66920ce369a8024cb5285f25",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的，司机不找零",
+    "audioText": "yes the driver doesn't give change",
+    "fullEnglish": "yes the driver doesn't give change",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "yes",
+        "answer": "yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the driver",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；司机"
+      },
+      {
+        "index": 2,
+        "text": "driver",
+        "answer": "driver",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "司机",
+        "phonetic": "ˈdraɪvər",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the driver",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；司机"
+      },
+      {
+        "index": 3,
+        "text": "doesn't",
+        "answer": "doesn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不",
+        "phonetic": "ˈdʌznt",
+        "pos": "AUX"
+      },
+      {
+        "index": 4,
+        "text": "give",
+        "answer": "give",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "谓语",
+        "zh": "给",
+        "phonetic": "ɡɪv",
+        "pos": "VERB"
+      },
+      {
+        "index": 5,
+        "text": "change",
+        "answer": "change",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "宾语",
+        "zh": "零钱",
+        "phonetic": "tʃeɪndʒ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "yes",
+      "the",
+      "driver",
+      "give",
+      "doesn't",
+      "change"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "yes",
+        "role": "语气/引导语",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "the driver",
+        "role": "主语",
+        "zh": "定冠词；司机",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-4",
+            "text": "driver",
+            "role": "中心词",
+            "zh": "司机"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "doesn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-6",
+        "text": "give",
+        "role": "谓语",
+        "zh": "给"
+      },
+      {
+        "id": "ud-7",
+        "text": "change",
+        "role": "宾语",
+        "zh": "零钱"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentRole": "语气/引导语",
+        "componentZh": "是的"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the driver",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；司机"
+      },
+      "2": {
+        "text": "driver",
+        "phonetic": "ˈdraɪvər",
+        "pos": "NOUN",
+        "zh": "司机",
+        "componentRole": "中心词",
+        "componentZh": "司机",
+        "parentComponentText": "the driver",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；司机"
+      },
+      "3": {
+        "text": "doesn't",
+        "phonetic": "ˈdʌznt",
+        "pos": "AUX",
+        "zh": "不",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "不"
+      },
+      "4": {
+        "text": "give",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "zh": "给",
+        "componentRole": "谓语",
+        "componentZh": "给"
+      },
+      "5": {
+        "text": "change",
+        "phonetic": "tʃeɪndʒ",
+        "pos": "NOUN",
+        "zh": "零钱",
+        "componentRole": "宾语",
+        "componentZh": "零钱"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f25-3",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f25-3",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "司机",
+    "audioText": "driver",
+    "fullEnglish": "driver",
+    "phonetic": "ˈdraɪvər",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "driver",
+        "answer": "driver",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "司机",
+        "phonetic": "ˈdraɪvər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "driver"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "driver",
+        "phonetic": "ˈdraɪvər",
+        "pos": "NOUN",
+        "zh": "司机",
+        "componentZh": "司机"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f25-4",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f25-4",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不",
+    "audioText": "doesn't",
+    "fullEnglish": "doesn't",
+    "phonetic": "ˈdʌznt",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "doesn't",
+        "answer": "doesn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "ˈdʌznt",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "doesn't"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "doesn't",
+        "phonetic": "ˈdʌznt",
+        "pos": "AUX",
+        "zh": "不",
+        "componentZh": "不"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f25-5",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-W-66920ce369a8024cb5285f25-5",
+    "type": "word",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "给",
+    "audioText": "give",
+    "fullEnglish": "give",
+    "phonetic": "ɡɪv",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "give",
+        "answer": "give",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "给",
+        "phonetic": "ɡɪv",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "give"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "give",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "zh": "给",
+        "componentZh": "给"
+      }
+    }
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-fh2m1ksa9tlcxcy7dfuu24pl",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-fh2m1ksa9tlcxcy7dfuu24pl",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这辆公交车",
+    "audioText": "this bus",
+    "fullEnglish": "this bus",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "bus",
+        "answer": "bus",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "公交车",
+        "phonetic": "bʌs",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "this",
+      "bus"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "this",
+        "role": "补充成分",
+        "zh": "这个"
+      },
+      {
+        "id": "ud-2",
+        "text": "bus",
+        "role": "中心成分",
+        "zh": "公交车"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentZh": "这个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "bus",
+        "phonetic": "bʌs",
+        "pos": "NOUN",
+        "zh": "公交车",
+        "componentZh": "公交车",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-ecsnnknyw04r40xb5gi3r0mo",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-ecsnnknyw04r40xb5gi3r0mo",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "去",
+    "audioText": "go to",
+    "fullEnglish": "go to",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "go",
+      "to"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "go",
+        "role": "谓语",
+        "zh": "去"
+      },
+      {
+        "id": "ud-2",
+        "text": "to",
+        "role": "方式/程度状语",
+        "zh": "到"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentZh": "到",
+        "componentRole": "方式/程度状语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-xkx6j3pupmtepl6zo0jmqjcr",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-xkx6j3pupmtepl6zo0jmqjcr",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它确实",
+    "audioText": "it does",
+    "fullEnglish": "it does",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "does",
+        "answer": "does",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "构成疑问句",
+        "phonetic": "dʌz",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "does",
+      "it"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "it",
+        "role": "主语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-2",
+        "text": "does",
+        "role": "谓语",
+        "zh": "构成疑问句"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "does",
+        "phonetic": "dʌz",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentZh": "构成疑问句",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-thb5h4g1av0ddyse4iw2rd4k",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-thb5h4g1av0ddyse4iw2rd4k",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的，确实如此",
+    "audioText": "yes it does",
+    "fullEnglish": "yes it does",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "yes",
+        "answer": "yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "componentId": "ud-1",
+        "role": "语气/引导语"
+      },
+      {
+        "index": 1,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "does",
+        "answer": "does",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "构成疑问句",
+        "phonetic": "dʌz",
+        "pos": "AUX",
+        "componentId": "ud-3",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "does",
+      "yes",
+      "it"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "yes",
+        "role": "语气/引导语",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "it",
+        "role": "主语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-3",
+        "text": "does",
+        "role": "谓语",
+        "zh": "构成疑问句"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的",
+        "componentRole": "语气/引导语"
+      },
+      "1": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "does",
+        "phonetic": "dʌz",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentZh": "构成疑问句",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-espm59vs4yc1x6efhwdsmio4",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-espm59vs4yc1x6efhwdsmio4",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "需要",
+    "audioText": "need to",
+    "fullEnglish": "need to",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "need",
+        "answer": "need",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "需要",
+        "phonetic": "niːd",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "componentId": "ud-2",
+        "role": "不定式短语"
+      }
+    ],
+    "shuffledBlocks": [
+      "to",
+      "need"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "need",
+        "role": "谓语",
+        "zh": "需要"
+      },
+      {
+        "id": "ud-2",
+        "text": "to",
+        "role": "不定式短语",
+        "zh": "到"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "need",
+        "phonetic": "niːd",
+        "pos": "VERB",
+        "zh": "需要",
+        "componentZh": "需要",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentZh": "到",
+        "componentRole": "不定式短语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-tu2be0h043cgf3ga1tvgga54",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-tu2be0h043cgf3ga1tvgga54",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "下车/离开",
+    "audioText": "get off",
+    "fullEnglish": "get off",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "get",
+        "answer": "get",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "get off（短语动词）: 下车",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "中心词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "get off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "get off（短语动词）: 下车；（与 get 搭配）"
+      },
+      {
+        "index": 1,
+        "text": "off",
+        "answer": "off",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 get 搭配）",
+        "phonetic": "ɔːf",
+        "pos": "ADP",
+        "componentId": "ud-3",
+        "role": "定语（名词修饰）",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "get off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "get off（短语动词）: 下车；（与 get 搭配）"
+      }
+    ],
+    "shuffledBlocks": [
+      "off",
+      "get"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "get off",
+        "role": "谓语",
+        "zh": "get off（短语动词）: 下车；（与 get 搭配）",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "get",
+            "role": "中心词",
+            "zh": "get off（短语动词）: 下车"
+          },
+          {
+            "id": "ud-3",
+            "text": "off",
+            "role": "定语（名词修饰）",
+            "zh": "（与 get 搭配）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "get",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "zh": "get off（短语动词）: 下车",
+        "componentZh": "get off（短语动词）: 下车",
+        "componentRole": "中心词",
+        "parentComponentText": "get off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "get off（短语动词）: 下车；（与 get 搭配）"
+      },
+      "1": {
+        "text": "off",
+        "phonetic": "ɔːf",
+        "pos": "ADP",
+        "zh": "（与 get 搭配）",
+        "componentZh": "（与 get 搭配）",
+        "componentRole": "定语（名词修饰）",
+        "parentComponentText": "get off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "get off（短语动词）: 下车；（与 get 搭配）"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-qcy9f0382gdkid0m6tvecsg8",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-qcy9f0382gdkid0m6tvecsg8",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你需要下车",
+    "audioText": "you need to get off",
+    "fullEnglish": "you need to get off",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "need",
+        "answer": "need",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "需要",
+        "phonetic": "niːd",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      },
+      {
+        "index": 2,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "componentId": "ud-4",
+        "role": "连接词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to get off",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；get off（短语动词）: 下车；（与 get 搭配）"
+      },
+      {
+        "index": 3,
+        "text": "get",
+        "answer": "get",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "get off（短语动词）: 下车",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "get off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "get off（短语动词）: 下车；（与 get 搭配）"
+      },
+      {
+        "index": 4,
+        "text": "off",
+        "answer": "off",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 get 搭配）",
+        "phonetic": "ɔːf",
+        "pos": "ADP",
+        "componentId": "ud-7",
+        "role": "定语（名词修饰）",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "get off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "get off（短语动词）: 下车；（与 get 搭配）"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "to",
+      "need",
+      "off",
+      "get"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-2",
+        "text": "need",
+        "role": "谓语",
+        "zh": "需要"
+      },
+      {
+        "id": "ud-3",
+        "text": "to get off",
+        "role": "不定式短语",
+        "zh": "到；get off（短语动词）: 下车；（与 get 搭配）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "to",
+            "role": "连接词",
+            "zh": "到"
+          },
+          {
+            "id": "ud-5",
+            "text": "get off",
+            "role": "谓语",
+            "zh": "get off（短语动词）: 下车；（与 get 搭配）",
+            "children": [
+              {
+                "id": "ud-6",
+                "text": "get",
+                "role": "中心词",
+                "zh": "get off（短语动词）: 下车"
+              },
+              {
+                "id": "ud-7",
+                "text": "off",
+                "role": "定语（名词修饰）",
+                "zh": "（与 get 搭配）"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "need",
+        "phonetic": "niːd",
+        "pos": "VERB",
+        "zh": "需要",
+        "componentZh": "需要",
+        "componentRole": "谓语"
+      },
+      "2": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentZh": "到",
+        "componentRole": "连接词",
+        "parentComponentText": "to get off",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；get off（短语动词）: 下车；（与 get 搭配）"
+      },
+      "3": {
+        "text": "get",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "zh": "get off（短语动词）: 下车",
+        "componentZh": "get off（短语动词）: 下车",
+        "componentRole": "中心词",
+        "parentComponentText": "get off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "get off（短语动词）: 下车；（与 get 搭配）"
+      },
+      "4": {
+        "text": "off",
+        "phonetic": "ɔːf",
+        "pos": "ADP",
+        "zh": "（与 get 搭配）",
+        "componentZh": "（与 get 搭配）",
+        "componentRole": "定语（名词修饰）",
+        "parentComponentText": "get off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "get off（短语动词）: 下车；（与 get 搭配）"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-huqs2wlh1q16udimxqtqyd1u",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-huqs2wlh1q16udimxqtqyd1u",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的，你需要下车",
+    "audioText": "yes it does, you need to get off",
+    "fullEnglish": "yes it does, you need to get off",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "yes",
+        "answer": "yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "componentId": "ud-1",
+        "role": "语气/引导语"
+      },
+      {
+        "index": 1,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "componentId": "ud-3",
+        "role": "修饰语",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "it does",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "它；构成疑问句"
+      },
+      {
+        "index": 2,
+        "text": "does",
+        "answer": "does",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "构成疑问句",
+        "phonetic": "dʌz",
+        "pos": "AUX",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "it does",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "它；构成疑问句"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，你需要下车"
+      },
+      {
+        "index": 4,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-5",
+        "role": "主语"
+      },
+      {
+        "index": 5,
+        "text": "need",
+        "answer": "need",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "需要",
+        "phonetic": "niːd",
+        "pos": "VERB",
+        "componentId": "ud-6",
+        "role": "谓语"
+      },
+      {
+        "index": 6,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "componentId": "ud-8",
+        "role": "连接词",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "to get off",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；get off（短语动词）: 下车；（与 get 搭配）"
+      },
+      {
+        "index": 7,
+        "text": "get",
+        "answer": "get",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "get off（短语动词）: 下车",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "componentId": "ud-10",
+        "role": "中心词",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "get off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "get off（短语动词）: 下车；（与 get 搭配）"
+      },
+      {
+        "index": 8,
+        "text": "off",
+        "answer": "off",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 get 搭配）",
+        "phonetic": "ɔːf",
+        "pos": "ADP",
+        "componentId": "ud-11",
+        "role": "定语（名词修饰）",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "get off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "get off（短语动词）: 下车；（与 get 搭配）"
+      }
+    ],
+    "shuffledBlocks": [
+      "it",
+      "yes",
+      "need",
+      "to",
+      "you",
+      "get",
+      "off",
+      "does"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "yes",
+        "role": "语气/引导语",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "it does",
+        "role": "补充成分",
+        "zh": "它；构成疑问句",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "it",
+            "role": "修饰语",
+            "zh": "它"
+          },
+          {
+            "id": "ud-4",
+            "text": "does",
+            "role": "中心词",
+            "zh": "构成疑问句"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-6",
+        "text": "need",
+        "role": "谓语",
+        "zh": "需要"
+      },
+      {
+        "id": "ud-7",
+        "text": "to get off",
+        "role": "不定式短语",
+        "zh": "到；get off（短语动词）: 下车；（与 get 搭配）",
+        "children": [
+          {
+            "id": "ud-8",
+            "text": "to",
+            "role": "连接词",
+            "zh": "到"
+          },
+          {
+            "id": "ud-9",
+            "text": "get off",
+            "role": "谓语",
+            "zh": "get off（短语动词）: 下车；（与 get 搭配）",
+            "children": [
+              {
+                "id": "ud-10",
+                "text": "get",
+                "role": "中心词",
+                "zh": "get off（短语动词）: 下车"
+              },
+              {
+                "id": "ud-11",
+                "text": "off",
+                "role": "定语（名词修饰）",
+                "zh": "（与 get 搭配）"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的",
+        "componentRole": "语气/引导语"
+      },
+      "1": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它",
+        "componentRole": "修饰语",
+        "parentComponentText": "it does",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "它；构成疑问句"
+      },
+      "2": {
+        "text": "does",
+        "phonetic": "dʌz",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentZh": "构成疑问句",
+        "componentRole": "中心词",
+        "parentComponentText": "it does",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "它；构成疑问句"
+      },
+      "4": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "5": {
+        "text": "need",
+        "phonetic": "niːd",
+        "pos": "VERB",
+        "zh": "需要",
+        "componentZh": "需要",
+        "componentRole": "谓语"
+      },
+      "6": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentZh": "到",
+        "componentRole": "连接词",
+        "parentComponentText": "to get off",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "到；get off（短语动词）: 下车；（与 get 搭配）"
+      },
+      "7": {
+        "text": "get",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "zh": "get off（短语动词）: 下车",
+        "componentZh": "get off（短语动词）: 下车",
+        "componentRole": "中心词",
+        "parentComponentText": "get off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "get off（短语动词）: 下车；（与 get 搭配）"
+      },
+      "8": {
+        "text": "off",
+        "phonetic": "ɔːf",
+        "pos": "ADP",
+        "zh": "（与 get 搭配）",
+        "componentZh": "（与 get 搭配）",
+        "componentRole": "定语（名词修饰）",
+        "parentComponentText": "get off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "get off（短语动词）: 下车；（与 get 搭配）"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-gy65f35l4zfmaobd1az9qr01",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-gy65f35l4zfmaobd1az9qr01",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "第五站",
+    "audioText": "the fifth stop",
+    "fullEnglish": "the fifth stop",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "fifth",
+        "answer": "fifth",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "第五",
+        "phonetic": "fɪfθ",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "stop",
+        "answer": "stop",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "站",
+        "phonetic": "stɑːp",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "stop",
+      "fifth"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "fifth",
+        "role": "补充成分",
+        "zh": "第五"
+      },
+      {
+        "id": "ud-3",
+        "text": "stop",
+        "role": "中心成分",
+        "zh": "站"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "fifth",
+        "phonetic": "fɪfθ",
+        "pos": "ADJ",
+        "zh": "第五",
+        "componentZh": "第五",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "stop",
+        "phonetic": "stɑːp",
+        "pos": "NOUN",
+        "zh": "站",
+        "componentZh": "站",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-cae2smo1u5defrnye7t2fqkv",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-cae2smo1u5defrnye7t2fqkv",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在第五站",
+    "audioText": "at the fifth stop",
+    "fullEnglish": "at the fifth stop",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "at",
+        "answer": "at",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "fifth",
+        "answer": "fifth",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "第五",
+        "phonetic": "fɪfθ",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "补充成分"
+      },
+      {
+        "index": 3,
+        "text": "stop",
+        "answer": "stop",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "站",
+        "phonetic": "stɑːp",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "stop",
+      "at",
+      "fifth"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "at",
+        "role": "补充成分",
+        "zh": "在"
+      },
+      {
+        "id": "ud-2",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-3",
+        "text": "fifth",
+        "role": "补充成分",
+        "zh": "第五"
+      },
+      {
+        "id": "ud-4",
+        "text": "stop",
+        "role": "中心成分",
+        "zh": "站"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "at",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "zh": "在",
+        "componentZh": "在",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "fifth",
+        "phonetic": "fɪfθ",
+        "pos": "ADJ",
+        "zh": "第五",
+        "componentZh": "第五",
+        "componentRole": "补充成分"
+      },
+      "3": {
+        "text": "stop",
+        "phonetic": "stɑːp",
+        "pos": "NOUN",
+        "zh": "站",
+        "componentZh": "站",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-nvmkzivnj2tebtkkpnvt7v96",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-nvmkzivnj2tebtkkpnvt7v96",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "多久",
+    "audioText": "how long",
+    "fullEnglish": "how long",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "how",
+        "answer": "how",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "如何",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "long",
+        "answer": "long",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "长",
+        "phonetic": "lɔːŋ",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "how",
+      "long"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "how",
+        "role": "方式/程度状语",
+        "zh": "如何"
+      },
+      {
+        "id": "ud-2",
+        "text": "long",
+        "role": "中心成分",
+        "zh": "长"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "how",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "zh": "如何",
+        "componentZh": "如何",
+        "componentRole": "方式/程度状语"
+      },
+      "1": {
+        "text": "long",
+        "phonetic": "lɔːŋ",
+        "pos": "ADJ",
+        "zh": "长",
+        "componentZh": "长",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-yb5oub3ao3gdmbo5p9tsypch",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-yb5oub3ao3gdmbo5p9tsypch",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "会花费",
+    "audioText": "will it take",
+    "fullEnglish": "will it take",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "will",
+        "answer": "will",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "将",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "take",
+        "answer": "take",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "花费",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "it",
+      "take",
+      "will"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "will",
+        "role": "助动词",
+        "zh": "将"
+      },
+      {
+        "id": "ud-2",
+        "text": "it",
+        "role": "主语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-3",
+        "text": "take",
+        "role": "谓语",
+        "zh": "花费"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "will",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "zh": "将",
+        "componentZh": "将",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "take",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "zh": "花费",
+        "componentZh": "花费",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-c5y5u6dtip21okn5nakx2apw",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-c5y5u6dtip21okn5nakx2apw",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "需要多长时间",
+    "audioText": "how long will it take",
+    "fullEnglish": "how long will it take",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "how",
+        "answer": "how",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "如何",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "componentId": "ud-2",
+        "role": "副词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "how long",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "如何；长"
+      },
+      {
+        "index": 1,
+        "text": "long",
+        "answer": "long",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "长",
+        "phonetic": "lɔːŋ",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "how long",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "如何；长"
+      },
+      {
+        "index": 2,
+        "text": "will",
+        "answer": "will",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "将",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "componentId": "ud-4",
+        "role": "助动词"
+      },
+      {
+        "index": 3,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "componentId": "ud-5",
+        "role": "主语"
+      },
+      {
+        "index": 4,
+        "text": "take",
+        "answer": "take",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "花费",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "componentId": "ud-6",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "long",
+      "how",
+      "it",
+      "will",
+      "take"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "how long",
+        "role": "方式/程度状语",
+        "zh": "如何；长",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "how",
+            "role": "副词",
+            "zh": "如何"
+          },
+          {
+            "id": "ud-3",
+            "text": "long",
+            "role": "中心词",
+            "zh": "长"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "will",
+        "role": "助动词",
+        "zh": "将"
+      },
+      {
+        "id": "ud-5",
+        "text": "it",
+        "role": "主语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-6",
+        "text": "take",
+        "role": "谓语",
+        "zh": "花费"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "how",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "zh": "如何",
+        "componentZh": "如何",
+        "componentRole": "副词",
+        "parentComponentText": "how long",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "如何；长"
+      },
+      "1": {
+        "text": "long",
+        "phonetic": "lɔːŋ",
+        "pos": "ADJ",
+        "zh": "长",
+        "componentZh": "长",
+        "componentRole": "中心词",
+        "parentComponentText": "how long",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "如何；长"
+      },
+      "2": {
+        "text": "will",
+        "phonetic": "wɪl",
+        "pos": "AUX",
+        "zh": "将",
+        "componentZh": "将",
+        "componentRole": "助动词"
+      },
+      "3": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它",
+        "componentRole": "主语"
+      },
+      "4": {
+        "text": "take",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "zh": "花费",
+        "componentZh": "花费",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-rjb6ougarna282zvplae9ivx",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-rjb6ougarna282zvplae9ivx",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "到达那里",
+    "audioText": "to get there",
+    "fullEnglish": "to get there",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "连接词"
+      },
+      {
+        "index": 1,
+        "text": "get",
+        "answer": "get",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "get off（短语动词）: 下车",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      },
+      {
+        "index": 2,
+        "text": "there",
+        "answer": "there",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "那里",
+        "phonetic": "ðer; ðər",
+        "pos": "ADV",
+        "componentId": "ud-3",
+        "role": "地点状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "to",
+      "get",
+      "there"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "to",
+        "role": "连接词",
+        "zh": "到"
+      },
+      {
+        "id": "ud-2",
+        "text": "get",
+        "role": "谓语",
+        "zh": "get off（短语动词）: 下车"
+      },
+      {
+        "id": "ud-3",
+        "text": "there",
+        "role": "地点状语",
+        "zh": "那里"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentZh": "到",
+        "componentRole": "连接词"
+      },
+      "1": {
+        "text": "get",
+        "phonetic": "ɡet",
+        "pos": "VERB",
+        "zh": "get off（短语动词）: 下车",
+        "componentZh": "get off（短语动词）: 下车",
+        "componentRole": "谓语"
+      },
+      "2": {
+        "text": "there",
+        "phonetic": "ðer; ðər",
+        "pos": "ADV",
+        "zh": "那里",
+        "componentZh": "那里",
+        "componentRole": "地点状语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-ubq4wuxyqi7juvvshubtet9p",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-ubq4wuxyqi7juvvshubtet9p",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "20分钟",
+    "audioText": "20 minutes",
+    "fullEnglish": "20 minutes",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "20",
+        "answer": "20",
+        "blank": "20",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "number",
+        "zh": "20分钟"
+      },
+      {
+        "index": 1,
+        "text": "minutes",
+        "answer": "minutes",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "分钟（复数）",
+        "phonetic": "ˈmɪnɪts",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "minutes"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "20",
+        "role": "补充成分",
+        "zh": "20分钟"
+      },
+      {
+        "id": "ud-2",
+        "text": "minutes",
+        "role": "中心成分",
+        "zh": "分钟（复数）"
+      }
+    ],
+    "wordHints": {
+      "1": {
+        "text": "minutes",
+        "phonetic": "ˈmɪnɪts",
+        "pos": "NOUN",
+        "zh": "分钟（复数）",
+        "componentZh": "分钟（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-xfl5ih2vdpfiveglbtb50nmr",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-xfl5ih2vdpfiveglbtb50nmr",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "大约20分钟",
+    "audioText": "around 20 minutes",
+    "fullEnglish": "around 20 minutes",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "around",
+        "answer": "around",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "大约",
+        "phonetic": "əˈraʊnd",
+        "pos": "ADP",
+        "componentId": "ud-2",
+        "role": "副词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "around 20",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "大约；大约20分钟"
+      },
+      {
+        "index": 1,
+        "text": "20",
+        "answer": "20",
+        "blank": "20",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "number",
+        "zh": "大约20分钟"
+      },
+      {
+        "index": 2,
+        "text": "minutes",
+        "answer": "minutes",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "分钟（复数）",
+        "phonetic": "ˈmɪnɪts",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "minutes",
+      "around"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "around 20",
+        "role": "补充成分",
+        "zh": "大约；大约20分钟",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "around",
+            "role": "副词",
+            "zh": "大约"
+          },
+          {
+            "id": "ud-3",
+            "text": "20",
+            "role": "中心词",
+            "zh": "大约20分钟"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "minutes",
+        "role": "中心成分",
+        "zh": "分钟（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "around",
+        "phonetic": "əˈraʊnd",
+        "pos": "ADP",
+        "zh": "大约",
+        "componentZh": "大约",
+        "componentRole": "副词",
+        "parentComponentText": "around 20",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "大约；大约20分钟"
+      },
+      "2": {
+        "text": "minutes",
+        "phonetic": "ˈmɪnɪts",
+        "pos": "NOUN",
+        "zh": "分钟（复数）",
+        "componentZh": "分钟（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-kqnyq8xujxkegotppkfjech0",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-kqnyq8xujxkegotppkfjech0",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "取决于",
+    "audioText": "depending on",
+    "fullEnglish": "depending on",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "depending",
+        "answer": "depending",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "depend（现在分词）: 取决于",
+        "phonetic": "dɪˈpendɪŋ",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "中心词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "depending on",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "depend（现在分词）: 取决于；在...上"
+      },
+      {
+        "index": 1,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "componentId": "ud-3",
+        "role": "修饰语",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "depending on",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "depend（现在分词）: 取决于；在...上"
+      }
+    ],
+    "shuffledBlocks": [
+      "depending",
+      "on"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "depending on",
+        "role": "谓语",
+        "zh": "depend（现在分词）: 取决于；在...上",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "depending",
+            "role": "中心词",
+            "zh": "depend（现在分词）: 取决于"
+          },
+          {
+            "id": "ud-3",
+            "text": "on",
+            "role": "修饰语",
+            "zh": "在...上"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "depending",
+        "phonetic": "dɪˈpendɪŋ",
+        "pos": "VERB",
+        "zh": "depend（现在分词）: 取决于",
+        "componentZh": "depend（现在分词）: 取决于",
+        "componentRole": "中心词",
+        "parentComponentText": "depending on",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "depend（现在分词）: 取决于；在...上"
+      },
+      "1": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentZh": "在...上",
+        "componentRole": "修饰语",
+        "parentComponentText": "depending on",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "depend（现在分词）: 取决于；在...上"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-ifg9tegqaq637ee6d5dcelnr",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-ifg9tegqaq637ee6d5dcelnr",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "取决于交通状况",
+    "audioText": "depending on traffic",
+    "fullEnglish": "depending on traffic",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "depending",
+        "answer": "depending",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "depend（现在分词）: 取决于",
+        "phonetic": "dɪˈpendɪŋ",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "中心词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "depending on",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "depend（现在分词）: 取决于；在...上"
+      },
+      {
+        "index": 1,
+        "text": "on",
+        "answer": "on",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...上",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "componentId": "ud-3",
+        "role": "修饰语",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "depending on",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "depend（现在分词）: 取决于；在...上"
+      },
+      {
+        "index": 2,
+        "text": "traffic",
+        "answer": "traffic",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "交通",
+        "phonetic": "ˈtræfɪk",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "depending",
+      "traffic",
+      "on"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "depending on",
+        "role": "补充成分",
+        "zh": "depend（现在分词）: 取决于；在...上",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "depending",
+            "role": "中心词",
+            "zh": "depend（现在分词）: 取决于"
+          },
+          {
+            "id": "ud-3",
+            "text": "on",
+            "role": "修饰语",
+            "zh": "在...上"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "traffic",
+        "role": "中心成分",
+        "zh": "交通"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "depending",
+        "phonetic": "dɪˈpendɪŋ",
+        "pos": "VERB",
+        "zh": "depend（现在分词）: 取决于",
+        "componentZh": "depend（现在分词）: 取决于",
+        "componentRole": "中心词",
+        "parentComponentText": "depending on",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "depend（现在分词）: 取决于；在...上"
+      },
+      "1": {
+        "text": "on",
+        "phonetic": "ɑːn",
+        "pos": "ADP",
+        "zh": "在...上",
+        "componentZh": "在...上",
+        "componentRole": "修饰语",
+        "parentComponentText": "depending on",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "depend（现在分词）: 取决于；在...上"
+      },
+      "2": {
+        "text": "traffic",
+        "phonetic": "ˈtræfɪk",
+        "pos": "NOUN",
+        "zh": "交通",
+        "componentZh": "交通",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-mppu1k3z1qq3rk9y3fpqosii",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-mppu1k3z1qq3rk9y3fpqosii",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "零钱",
+    "audioText": "exact change",
+    "fullEnglish": "exact change",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "exact",
+        "answer": "exact",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "精确的",
+        "phonetic": "ɪɡˈzækt",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "change",
+        "answer": "change",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "零钱",
+        "phonetic": "tʃeɪndʒ",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "exact",
+      "change"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "exact",
+        "role": "补充成分",
+        "zh": "精确的"
+      },
+      {
+        "id": "ud-2",
+        "text": "change",
+        "role": "中心成分",
+        "zh": "零钱"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "exact",
+        "phonetic": "ɪɡˈzækt",
+        "pos": "ADJ",
+        "zh": "精确的",
+        "componentZh": "精确的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "change",
+        "phonetic": "tʃeɪndʒ",
+        "pos": "NOUN",
+        "zh": "零钱",
+        "componentZh": "零钱",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-efi1kq1eei4fcz7vq3l4stty",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-efi1kq1eei4fcz7vq3l4stty",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "付车费",
+    "audioText": "for the fare",
+    "fullEnglish": "for the fare",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "fare",
+        "answer": "fare",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "车费",
+        "phonetic": "fer",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "fare",
+      "the",
+      "for"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "for",
+        "role": "补充成分",
+        "zh": "为了"
+      },
+      {
+        "id": "ud-2",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-3",
+        "text": "fare",
+        "role": "中心成分",
+        "zh": "车费"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentZh": "为了",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "fare",
+        "phonetic": "fer",
+        "pos": "NOUN",
+        "zh": "车费",
+        "componentZh": "车费",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-vn4qhutd7ancp4rt2fs3kjx4",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-vn4qhutd7ancp4rt2fs3kjx4",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的",
+    "audioText": "yes",
+    "fullEnglish": "yes",
+    "phonetic": "jes",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "yes",
+        "answer": "yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "yes"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "yes",
+        "role": "中心成分",
+        "zh": "是的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-wxf3eqj4vcnvtjx6yl1d4j5b",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-wxf3eqj4vcnvtjx6yl1d4j5b",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "司机",
+    "audioText": "the driver",
+    "fullEnglish": "the driver",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "driver",
+        "answer": "driver",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "司机",
+        "phonetic": "ˈdraɪvər",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "driver"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "driver",
+        "role": "中心成分",
+        "zh": "司机"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "driver",
+        "phonetic": "ˈdraɪvər",
+        "pos": "NOUN",
+        "zh": "司机",
+        "componentZh": "司机",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-tvihtixy5mnj0qbio4hfk9zh",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-tvihtixy5mnj0qbio4hfk9zh",
+    "type": "phrase",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不给",
+    "audioText": "doesn't give",
+    "fullEnglish": "doesn't give",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "doesn't",
+        "answer": "doesn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "ˈdʌznt",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "give",
+        "answer": "give",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "给",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "doesn't",
+      "give"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "doesn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-2",
+        "text": "give",
+        "role": "谓语",
+        "zh": "给"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "doesn't",
+        "phonetic": "ˈdʌznt",
+        "pos": "AUX",
+        "zh": "不",
+        "componentZh": "不",
+        "componentRole": "助动词 + 方式/程度状语"
+      },
+      "1": {
+        "text": "give",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "zh": "给",
+        "componentZh": "给",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-wjyih4xe4l3znnrlotz4wu01",
+    "contentId": "JLB-unvx8nq3j9853782ldct6wrw-PHRASE-wjyih4xe4l3znnrlotz4wu01",
+    "type": "sentence",
+    "coursePackageId": "z627gosu18ct79hr98a4qhyn",
+    "coursePackageName": "日常英语对话100句",
+    "grade": "在线课程",
+    "unitId": "unvx8nq3j9853782ldct6wrw",
+    "unitTitle": "旅行与交通(1)",
+    "section": "",
+    "importance": "",
+    "displayChinese": "司机不找零",
+    "audioText": "the driver doesn't give change",
+    "fullEnglish": "the driver doesn't give change",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "the driver",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；司机"
+      },
+      {
+        "index": 1,
+        "text": "driver",
+        "answer": "driver",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "司机",
+        "phonetic": "ˈdraɪvər",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "the driver",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；司机"
+      },
+      {
+        "index": 2,
+        "text": "doesn't",
+        "answer": "doesn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "ˈdʌznt",
+        "pos": "AUX",
+        "componentId": "ud-4",
+        "role": "助动词 + 方式/程度状语"
+      },
+      {
+        "index": 3,
+        "text": "give",
+        "answer": "give",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "给",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "componentId": "ud-5",
+        "role": "谓语"
+      },
+      {
+        "index": 4,
+        "text": "change",
+        "answer": "change",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "零钱",
+        "phonetic": "tʃeɪndʒ",
+        "pos": "NOUN",
+        "componentId": "ud-6",
+        "role": "宾语"
+      }
+    ],
+    "shuffledBlocks": [
+      "doesn't",
+      "give",
+      "the",
+      "driver",
+      "change"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the driver",
+        "role": "主语",
+        "zh": "定冠词；司机",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-3",
+            "text": "driver",
+            "role": "中心词",
+            "zh": "司机"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "doesn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-5",
+        "text": "give",
+        "role": "谓语",
+        "zh": "给"
+      },
+      {
+        "id": "ud-6",
+        "text": "change",
+        "role": "宾语",
+        "zh": "零钱"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "限定词",
+        "parentComponentText": "the driver",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；司机"
+      },
+      "1": {
+        "text": "driver",
+        "phonetic": "ˈdraɪvər",
+        "pos": "NOUN",
+        "zh": "司机",
+        "componentZh": "司机",
+        "componentRole": "中心词",
+        "parentComponentText": "the driver",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；司机"
+      },
+      "2": {
+        "text": "doesn't",
+        "phonetic": "ˈdʌznt",
+        "pos": "AUX",
+        "zh": "不",
+        "componentZh": "不",
+        "componentRole": "助动词 + 方式/程度状语"
+      },
+      "3": {
+        "text": "give",
+        "phonetic": "ɡɪv",
+        "pos": "VERB",
+        "zh": "给",
+        "componentZh": "给",
+        "componentRole": "谓语"
+      },
+      "4": {
+        "text": "change",
+        "phonetic": "tʃeɪndʒ",
+        "pos": "NOUN",
+        "zh": "零钱",
+        "componentZh": "零钱",
+        "componentRole": "宾语"
+      }
+    },
+    "sentenceType": "主谓宾结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

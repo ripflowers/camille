@@ -1,0 +1,4811 @@
+[
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-S-tmfqcgxqicfksxbu9cbpftwm",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-S-tmfqcgxqicfksxbu9cbpftwm",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你喜欢音乐吗，Yangyang？",
+    "audioText": "Do you like music, Yangyang?",
+    "fullEnglish": "Do you like music, Yangyang?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Do",
+        "answer": "Do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP"
+      },
+      {
+        "index": 3,
+        "text": "music",
+        "answer": "music",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "音乐",
+        "phonetic": "ˈmjuːzɪk",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "music Yangyang",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "音乐；Yangyang"
+      },
+      {
+        "index": 4,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你喜欢音乐吗，Yangyang？"
+      },
+      {
+        "index": 5,
+        "text": "Yangyang",
+        "answer": "Yangyang",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "修饰语",
+        "zh": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "music Yangyang",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "音乐；Yangyang"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你喜欢音乐吗，Yangyang？"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "like",
+      "Yangyang",
+      "Do",
+      "music"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Do",
+        "role": "助动词",
+        "zh": "构成疑问句"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "like",
+        "role": "谓语",
+        "zh": "像"
+      },
+      {
+        "id": "ud-4",
+        "text": "music Yangyang",
+        "role": "宾语",
+        "zh": "音乐；Yangyang",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "music",
+            "role": "中心词",
+            "zh": "音乐"
+          },
+          {
+            "id": "ud-6",
+            "text": "Yangyang",
+            "role": "修饰语",
+            "zh": "Yangyang"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentRole": "助动词",
+        "componentZh": "构成疑问句"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "2": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentRole": "谓语",
+        "componentZh": "像"
+      },
+      "3": {
+        "text": "music",
+        "phonetic": "ˈmjuːzɪk",
+        "pos": "NOUN",
+        "zh": "音乐",
+        "componentRole": "中心词",
+        "componentZh": "音乐",
+        "parentComponentText": "music Yangyang",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "音乐；Yangyang"
+      },
+      "5": {
+        "text": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON",
+        "zh": "Yangyang",
+        "componentRole": "修饰语",
+        "componentZh": "Yangyang",
+        "parentComponentText": "music Yangyang",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "音乐；Yangyang"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-tmfqcgxqicfksxbu9cbpftwm-1",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-tmfqcgxqicfksxbu9cbpftwm-1",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "构成疑问句",
+    "audioText": "Do",
+    "fullEnglish": "Do",
+    "phonetic": "duː; də",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Do",
+        "answer": "Do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "Do"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentZh": "构成疑问句"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-tmfqcgxqicfksxbu9cbpftwm-2",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-tmfqcgxqicfksxbu9cbpftwm-2",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-tmfqcgxqicfksxbu9cbpftwm-3",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-tmfqcgxqicfksxbu9cbpftwm-3",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "喜欢",
+    "audioText": "like",
+    "fullEnglish": "like",
+    "phonetic": "laɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "like"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentZh": "像"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-tmfqcgxqicfksxbu9cbpftwm-4",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-tmfqcgxqicfksxbu9cbpftwm-4",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "音乐",
+    "audioText": "music",
+    "fullEnglish": "music",
+    "phonetic": "ˈmjuːzɪk",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "music",
+        "answer": "music",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "音乐",
+        "phonetic": "ˈmjuːzɪk",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "music"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "music",
+        "phonetic": "ˈmjuːzɪk",
+        "pos": "NOUN",
+        "zh": "音乐",
+        "componentZh": "音乐"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-tmfqcgxqicfksxbu9cbpftwm-5",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-tmfqcgxqicfksxbu9cbpftwm-5",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Yangyang",
+    "audioText": "Yangyang",
+    "fullEnglish": "Yangyang",
+    "phonetic": "yangyang",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yangyang",
+        "answer": "Yangyang",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yangyang"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON",
+        "zh": "Yangyang",
+        "componentZh": "Yangyang"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-S-ulsb80lxbzfrlhbfgzkl647h",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-S-ulsb80lxbzfrlhbfgzkl647h",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的，非常喜欢。我听各种类型的音乐。",
+    "audioText": "Yes, very much. I listen to all kinds of music",
+    "fullEnglish": "Yes, very much. I listen to all kinds of music",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，非常喜欢。我听各种类型的音乐。"
+      },
+      {
+        "index": 2,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "方式/程度状语",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV"
+      },
+      {
+        "index": 3,
+        "text": "much",
+        "answer": "much",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心成分",
+        "zh": "很",
+        "phonetic": "mʌtʃ",
+        "pos": "ADV"
+      },
+      {
+        "index": 4,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，非常喜欢。我听各种类型的音乐。"
+      },
+      {
+        "index": 5,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 6,
+        "text": "listen",
+        "answer": "listen",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "谓语",
+        "zh": "听",
+        "phonetic": "ˈlɪs(ə)n",
+        "pos": "VERB"
+      },
+      {
+        "index": 7,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "介词",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "to all kinds of music",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "引导不定式；所有；种类（复数）；的；音乐"
+      },
+      {
+        "index": 8,
+        "text": "all",
+        "answer": "all",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "限定词",
+        "zh": "所有",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "all kinds of music",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "所有；种类（复数）；的；音乐"
+      },
+      {
+        "index": 9,
+        "text": "kinds",
+        "answer": "kinds",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "中心词",
+        "zh": "种类（复数）",
+        "phonetic": "kaɪndz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "all kinds of music",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "所有；种类（复数）；的；音乐"
+      },
+      {
+        "index": 10,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "介词",
+        "zh": "的",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "all kinds of music",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "所有；种类（复数）；的；音乐"
+      },
+      {
+        "index": 11,
+        "text": "music",
+        "answer": "music",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-12",
+        "role": "修饰语",
+        "zh": "音乐",
+        "phonetic": "ˈmjuːzɪk",
+        "pos": "NOUN",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "all kinds of music",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "所有；种类（复数）；的；音乐"
+      }
+    ],
+    "shuffledBlocks": [
+      "listen",
+      "I",
+      "to",
+      "much",
+      "very",
+      "kinds",
+      "Yes",
+      "of",
+      "music",
+      "all"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yes",
+        "role": "语气/引导语",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "very",
+        "role": "方式/程度状语",
+        "zh": "非常"
+      },
+      {
+        "id": "ud-3",
+        "text": "much",
+        "role": "中心成分",
+        "zh": "很"
+      },
+      {
+        "id": "ud-4",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-5",
+        "text": "listen",
+        "role": "谓语",
+        "zh": "听"
+      },
+      {
+        "id": "ud-6",
+        "text": "to all kinds of music",
+        "role": "介词短语/状语",
+        "zh": "引导不定式；所有；种类（复数）；的；音乐",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "to",
+            "role": "介词",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-8",
+            "text": "all kinds of music",
+            "role": "介词宾语",
+            "zh": "所有；种类（复数）；的；音乐",
+            "children": [
+              {
+                "id": "ud-9",
+                "text": "all",
+                "role": "限定词",
+                "zh": "所有"
+              },
+              {
+                "id": "ud-10",
+                "text": "kinds",
+                "role": "中心词",
+                "zh": "种类（复数）"
+              },
+              {
+                "id": "ud-11",
+                "text": "of",
+                "role": "介词",
+                "zh": "的"
+              },
+              {
+                "id": "ud-12",
+                "text": "music",
+                "role": "修饰语",
+                "zh": "音乐"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentRole": "语气/引导语",
+        "componentZh": "是的"
+      },
+      "2": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentRole": "方式/程度状语",
+        "componentZh": "非常"
+      },
+      "3": {
+        "text": "much",
+        "phonetic": "mʌtʃ",
+        "pos": "ADV",
+        "zh": "很",
+        "componentRole": "中心成分",
+        "componentZh": "很"
+      },
+      "5": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "6": {
+        "text": "listen",
+        "phonetic": "ˈlɪs(ə)n",
+        "pos": "VERB",
+        "zh": "听",
+        "componentRole": "谓语",
+        "componentZh": "听"
+      },
+      "7": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentRole": "介词",
+        "componentZh": "引导不定式",
+        "parentComponentText": "to all kinds of music",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "引导不定式；所有；种类（复数）；的；音乐"
+      },
+      "8": {
+        "text": "all",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "zh": "所有",
+        "componentRole": "限定词",
+        "componentZh": "所有",
+        "parentComponentText": "all kinds of music",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "所有；种类（复数）；的；音乐"
+      },
+      "9": {
+        "text": "kinds",
+        "phonetic": "kaɪndz",
+        "pos": "NOUN",
+        "zh": "种类（复数）",
+        "componentRole": "中心词",
+        "componentZh": "种类（复数）",
+        "parentComponentText": "all kinds of music",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "所有；种类（复数）；的；音乐"
+      },
+      "10": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "的",
+        "componentRole": "介词",
+        "componentZh": "的",
+        "parentComponentText": "all kinds of music",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "所有；种类（复数）；的；音乐"
+      },
+      "11": {
+        "text": "music",
+        "phonetic": "ˈmjuːzɪk",
+        "pos": "NOUN",
+        "zh": "音乐",
+        "componentRole": "修饰语",
+        "componentZh": "音乐",
+        "parentComponentText": "all kinds of music",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "所有；种类（复数）；的；音乐"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-ulsb80lxbzfrlhbfgzkl647h-1",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-ulsb80lxbzfrlhbfgzkl647h-1",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的",
+    "audioText": "Yes",
+    "fullEnglish": "Yes",
+    "phonetic": "jes",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-ulsb80lxbzfrlhbfgzkl647h-2",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-ulsb80lxbzfrlhbfgzkl647h-2",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "非常",
+    "audioText": "very",
+    "fullEnglish": "very",
+    "phonetic": "ˈveri",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "very"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentZh": "非常"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-ulsb80lxbzfrlhbfgzkl647h-3",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-ulsb80lxbzfrlhbfgzkl647h-3",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "很多",
+    "audioText": "much",
+    "fullEnglish": "much",
+    "phonetic": "mʌtʃ",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "much",
+        "answer": "much",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "很",
+        "phonetic": "mʌtʃ",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "much"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "much",
+        "phonetic": "mʌtʃ",
+        "pos": "ADV",
+        "zh": "很",
+        "componentZh": "很"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-ulsb80lxbzfrlhbfgzkl647h-4",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-ulsb80lxbzfrlhbfgzkl647h-4",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-ulsb80lxbzfrlhbfgzkl647h-5",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-ulsb80lxbzfrlhbfgzkl647h-5",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "听",
+    "audioText": "listen",
+    "fullEnglish": "listen",
+    "phonetic": "ˈlɪs(ə)n",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "listen",
+        "answer": "listen",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "听",
+        "phonetic": "ˈlɪs(ə)n",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "listen"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "listen",
+        "phonetic": "ˈlɪs(ə)n",
+        "pos": "VERB",
+        "zh": "听",
+        "componentZh": "听"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-ulsb80lxbzfrlhbfgzkl647h-6",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-ulsb80lxbzfrlhbfgzkl647h-6",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "到",
+    "audioText": "to",
+    "fullEnglish": "to",
+    "phonetic": "tuː; tə",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART"
+      }
+    ],
+    "shuffledBlocks": [
+      "to"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-ulsb80lxbzfrlhbfgzkl647h-7",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-ulsb80lxbzfrlhbfgzkl647h-7",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "所有",
+    "audioText": "all",
+    "fullEnglish": "all",
+    "phonetic": "ɔːl",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "all",
+        "answer": "all",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "所有",
+        "phonetic": "ɔːl",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "all"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "all",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "zh": "所有",
+        "componentZh": "所有"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-ulsb80lxbzfrlhbfgzkl647h-8",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-ulsb80lxbzfrlhbfgzkl647h-8",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "种类（复数）",
+    "audioText": "kinds",
+    "fullEnglish": "kinds",
+    "phonetic": "kaɪndz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "kinds",
+        "answer": "kinds",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "种类（复数）",
+        "phonetic": "kaɪndz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "kinds"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "kinds",
+        "phonetic": "kaɪndz",
+        "pos": "NOUN",
+        "zh": "种类（复数）",
+        "componentZh": "种类（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-ulsb80lxbzfrlhbfgzkl647h-9",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-ulsb80lxbzfrlhbfgzkl647h-9",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "的",
+    "audioText": "of",
+    "fullEnglish": "of",
+    "phonetic": "ʌv",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "的",
+        "phonetic": "ʌv",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "of"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "的",
+        "componentZh": "的"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-S-yjl7e0gpp5vhfo71ovi1jruz",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-S-yjl7e0gpp5vhfo71ovi1jruz",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "但我最喜欢流行歌曲。",
+    "audioText": "But I like pop songs best",
+    "fullEnglish": "But I like pop songs best",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "But",
+        "answer": "But",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "并列连词",
+        "zh": "但是",
+        "phonetic": "bʌt",
+        "pos": "CCONJ"
+      },
+      {
+        "index": 1,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP"
+      },
+      {
+        "index": 3,
+        "text": "pop",
+        "answer": "pop",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "定语（名词修饰）",
+        "zh": "流行的",
+        "phonetic": "pɑːp",
+        "pos": "ADJ",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "pop songs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "流行的；歌曲（复数）"
+      },
+      {
+        "index": 4,
+        "text": "songs",
+        "answer": "songs",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "歌曲（复数）",
+        "phonetic": "sɔːŋz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "pop songs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "流行的；歌曲（复数）"
+      },
+      {
+        "index": 5,
+        "text": "best",
+        "answer": "best",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心成分",
+        "zh": "最",
+        "phonetic": "best",
+        "pos": "ADV",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "最"
+      }
+    ],
+    "shuffledBlocks": [
+      "like",
+      "I",
+      "songs",
+      "best",
+      "But",
+      "pop"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "But",
+        "role": "并列连词",
+        "zh": "但是"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "like",
+        "role": "谓语",
+        "zh": "像"
+      },
+      {
+        "id": "ud-4",
+        "text": "pop songs",
+        "role": "宾语",
+        "zh": "流行的；歌曲（复数）",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "pop",
+            "role": "定语（名词修饰）",
+            "zh": "流行的"
+          },
+          {
+            "id": "ud-6",
+            "text": "songs",
+            "role": "中心词",
+            "zh": "歌曲（复数）"
+          }
+        ]
+      },
+      {
+        "id": "ud-7",
+        "text": "best",
+        "role": "宾语补足语",
+        "zh": "最",
+        "children": [
+          {
+            "id": "ud-8",
+            "text": "best",
+            "role": "中心成分",
+            "zh": "最"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "But",
+        "phonetic": "bʌt",
+        "pos": "CCONJ",
+        "zh": "但是",
+        "componentRole": "并列连词",
+        "componentZh": "但是"
+      },
+      "1": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "2": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentRole": "谓语",
+        "componentZh": "像"
+      },
+      "3": {
+        "text": "pop",
+        "phonetic": "pɑːp",
+        "pos": "ADJ",
+        "zh": "流行的",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "流行的",
+        "parentComponentText": "pop songs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "流行的；歌曲（复数）"
+      },
+      "4": {
+        "text": "songs",
+        "phonetic": "sɔːŋz",
+        "pos": "NOUN",
+        "zh": "歌曲（复数）",
+        "componentRole": "中心词",
+        "componentZh": "歌曲（复数）",
+        "parentComponentText": "pop songs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "流行的；歌曲（复数）"
+      },
+      "5": {
+        "text": "best",
+        "phonetic": "best",
+        "pos": "ADV",
+        "zh": "最",
+        "componentRole": "中心成分",
+        "componentZh": "最",
+        "parentComponentText": "best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "最"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-yjl7e0gpp5vhfo71ovi1jruz-1",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-yjl7e0gpp5vhfo71ovi1jruz-1",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "但是",
+    "audioText": "But",
+    "fullEnglish": "But",
+    "phonetic": "bʌt",
+    "pos": "CCONJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "But",
+        "answer": "But",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "但是",
+        "phonetic": "bʌt",
+        "pos": "CCONJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "But"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "But",
+        "phonetic": "bʌt",
+        "pos": "CCONJ",
+        "zh": "但是",
+        "componentZh": "但是"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-yjl7e0gpp5vhfo71ovi1jruz-4",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-yjl7e0gpp5vhfo71ovi1jruz-4",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "流行的",
+    "audioText": "pop",
+    "fullEnglish": "pop",
+    "phonetic": "pɑːp",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "pop",
+        "answer": "pop",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "流行的",
+        "phonetic": "pɑːp",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "pop"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "pop",
+        "phonetic": "pɑːp",
+        "pos": "ADJ",
+        "zh": "流行的",
+        "componentZh": "流行的"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-yjl7e0gpp5vhfo71ovi1jruz-5",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-yjl7e0gpp5vhfo71ovi1jruz-5",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "歌曲（复数）",
+    "audioText": "songs",
+    "fullEnglish": "songs",
+    "phonetic": "sɔːŋz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "songs",
+        "answer": "songs",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "歌曲（复数）",
+        "phonetic": "sɔːŋz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "songs"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "songs",
+        "phonetic": "sɔːŋz",
+        "pos": "NOUN",
+        "zh": "歌曲（复数）",
+        "componentZh": "歌曲（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-yjl7e0gpp5vhfo71ovi1jruz-6",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-yjl7e0gpp5vhfo71ovi1jruz-6",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "最",
+    "audioText": "best",
+    "fullEnglish": "best",
+    "phonetic": "best",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "best",
+        "answer": "best",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "最",
+        "phonetic": "best",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "best"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "best",
+        "phonetic": "best",
+        "pos": "ADV",
+        "zh": "最",
+        "componentZh": "最"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-S-y0d65dphf0unuoxn5md3zzfe",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-S-y0d65dphf0unuoxn5md3zzfe",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我也喜欢流行歌曲，但我最喜欢爵士乐。",
+    "audioText": "I also like pop songs. But I like jazz best",
+    "fullEnglish": "I also like pop songs. But I like jazz best",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "also",
+        "answer": "also",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "方式/程度状语",
+        "zh": "也",
+        "phonetic": "ˈɔːlsoʊ",
+        "pos": "ADV"
+      },
+      {
+        "index": 2,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP"
+      },
+      {
+        "index": 3,
+        "text": "pop",
+        "answer": "pop",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "定语（名词修饰）",
+        "zh": "流行的",
+        "phonetic": "pɑːp",
+        "pos": "ADJ",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "pop songs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "流行的；歌曲（复数）"
+      },
+      {
+        "index": 4,
+        "text": "songs",
+        "answer": "songs",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "歌曲（复数）",
+        "phonetic": "sɔːŋz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "pop songs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "流行的；歌曲（复数）"
+      },
+      {
+        "index": 5,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我也喜欢流行歌曲，但我最喜欢爵士乐。"
+      },
+      {
+        "index": 6,
+        "text": "But",
+        "answer": "But",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "并列连词",
+        "zh": "但是",
+        "phonetic": "bʌt",
+        "pos": "CCONJ"
+      },
+      {
+        "index": 7,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 8,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "谓语",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP"
+      },
+      {
+        "index": 9,
+        "text": "jazz",
+        "answer": "jazz",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "补充成分",
+        "zh": "爵士乐",
+        "phonetic": "dʒæz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-10",
+        "parentComponentText": "jazz best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "爵士乐；最"
+      },
+      {
+        "index": 10,
+        "text": "best",
+        "answer": "best",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-12",
+        "role": "中心成分",
+        "zh": "最",
+        "phonetic": "best",
+        "pos": "ADV",
+        "parentComponentId": "ud-10",
+        "parentComponentText": "jazz best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "爵士乐；最"
+      }
+    ],
+    "shuffledBlocks": [
+      "jazz",
+      "pop",
+      "songs",
+      "like",
+      "But",
+      "best",
+      "also",
+      "like",
+      "I",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "also",
+        "role": "方式/程度状语",
+        "zh": "也"
+      },
+      {
+        "id": "ud-3",
+        "text": "like",
+        "role": "谓语",
+        "zh": "像"
+      },
+      {
+        "id": "ud-4",
+        "text": "pop songs",
+        "role": "宾语",
+        "zh": "流行的；歌曲（复数）",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "pop",
+            "role": "定语（名词修饰）",
+            "zh": "流行的"
+          },
+          {
+            "id": "ud-6",
+            "text": "songs",
+            "role": "中心词",
+            "zh": "歌曲（复数）"
+          }
+        ]
+      },
+      {
+        "id": "ud-7",
+        "text": "But",
+        "role": "并列连词",
+        "zh": "但是"
+      },
+      {
+        "id": "ud-8",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-9",
+        "text": "like",
+        "role": "谓语",
+        "zh": "像"
+      },
+      {
+        "id": "ud-10",
+        "text": "jazz best",
+        "role": "宾语补足语",
+        "zh": "爵士乐；最",
+        "children": [
+          {
+            "id": "ud-11",
+            "text": "jazz",
+            "role": "补充成分",
+            "zh": "爵士乐"
+          },
+          {
+            "id": "ud-12",
+            "text": "best",
+            "role": "中心成分",
+            "zh": "最"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "also",
+        "phonetic": "ˈɔːlsoʊ",
+        "pos": "ADV",
+        "zh": "也",
+        "componentRole": "方式/程度状语",
+        "componentZh": "也"
+      },
+      "2": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentRole": "谓语",
+        "componentZh": "像"
+      },
+      "3": {
+        "text": "pop",
+        "phonetic": "pɑːp",
+        "pos": "ADJ",
+        "zh": "流行的",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "流行的",
+        "parentComponentText": "pop songs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "流行的；歌曲（复数）"
+      },
+      "4": {
+        "text": "songs",
+        "phonetic": "sɔːŋz",
+        "pos": "NOUN",
+        "zh": "歌曲（复数）",
+        "componentRole": "中心词",
+        "componentZh": "歌曲（复数）",
+        "parentComponentText": "pop songs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "流行的；歌曲（复数）"
+      },
+      "6": {
+        "text": "But",
+        "phonetic": "bʌt",
+        "pos": "CCONJ",
+        "zh": "但是",
+        "componentRole": "并列连词",
+        "componentZh": "但是"
+      },
+      "7": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "8": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentRole": "谓语",
+        "componentZh": "像"
+      },
+      "9": {
+        "text": "jazz",
+        "phonetic": "dʒæz",
+        "pos": "NOUN",
+        "zh": "爵士乐",
+        "componentRole": "补充成分",
+        "componentZh": "爵士乐",
+        "parentComponentText": "jazz best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "爵士乐；最"
+      },
+      "10": {
+        "text": "best",
+        "phonetic": "best",
+        "pos": "ADV",
+        "zh": "最",
+        "componentRole": "中心成分",
+        "componentZh": "最",
+        "parentComponentText": "jazz best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "爵士乐；最"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-y0d65dphf0unuoxn5md3zzfe-2",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-y0d65dphf0unuoxn5md3zzfe-2",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "也",
+    "audioText": "also",
+    "fullEnglish": "also",
+    "phonetic": "ˈɔːlsoʊ",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "also",
+        "answer": "also",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "也",
+        "phonetic": "ˈɔːlsoʊ",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "also"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "also",
+        "phonetic": "ˈɔːlsoʊ",
+        "pos": "ADV",
+        "zh": "也",
+        "componentZh": "也"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-y0d65dphf0unuoxn5md3zzfe-7",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-y0d65dphf0unuoxn5md3zzfe-7",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "爵士乐",
+    "audioText": "jazz",
+    "fullEnglish": "jazz",
+    "phonetic": "dʒæz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "jazz",
+        "answer": "jazz",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "爵士乐",
+        "phonetic": "dʒæz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "jazz"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "jazz",
+        "phonetic": "dʒæz",
+        "pos": "NOUN",
+        "zh": "爵士乐",
+        "componentZh": "爵士乐"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-S-pnh3fdx927mjfnca0mhbixct",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-S-pnh3fdx927mjfnca0mhbixct",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不，我不。",
+    "audioText": "No, I don't",
+    "fullEnglish": "No, I don't",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "No",
+        "answer": "No",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "不",
+        "phonetic": "noʊ",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "不，我不。"
+      },
+      {
+        "index": 2,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "don't",
+        "answer": "don't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "方式/程度状语 + 谓语",
+        "zh": "do（否定缩写）: 做",
+        "phonetic": "doʊnt",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "No",
+      "don't",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "No",
+        "role": "语气/引导语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "don't",
+        "role": "方式/程度状语 + 谓语",
+        "zh": "do（否定缩写）: 做"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "No",
+        "phonetic": "noʊ",
+        "pos": "INTJ",
+        "zh": "不",
+        "componentRole": "语气/引导语",
+        "componentZh": "不"
+      },
+      "2": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "3": {
+        "text": "don't",
+        "phonetic": "doʊnt",
+        "pos": "VERB",
+        "zh": "do（否定缩写）: 做",
+        "componentRole": "方式/程度状语 + 谓语",
+        "componentZh": "do（否定缩写）: 做"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-pnh3fdx927mjfnca0mhbixct-1",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-pnh3fdx927mjfnca0mhbixct-1",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不",
+    "audioText": "No",
+    "fullEnglish": "No",
+    "phonetic": "noʊ",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "No",
+        "answer": "No",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "noʊ",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "No"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "No",
+        "phonetic": "noʊ",
+        "pos": "INTJ",
+        "zh": "不",
+        "componentZh": "不"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-pnh3fdx927mjfnca0mhbixct-3",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-pnh3fdx927mjfnca0mhbixct-3",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不",
+    "audioText": "don't",
+    "fullEnglish": "don't",
+    "phonetic": "doʊnt",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "don't",
+        "answer": "don't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "do（否定缩写）: 做",
+        "phonetic": "doʊnt",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "don't"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "don't",
+        "phonetic": "doʊnt",
+        "pos": "VERB",
+        "zh": "do（否定缩写）: 做",
+        "componentZh": "do（否定缩写）: 做"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-S-gddzkqywllnhv4esgx0590sy",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-S-gddzkqywllnhv4esgx0590sy",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你喜欢爵士乐吗，叔叔？",
+    "audioText": "Do you like jazz, Uncle?",
+    "fullEnglish": "Do you like jazz, Uncle?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Do",
+        "answer": "Do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP"
+      },
+      {
+        "index": 3,
+        "text": "jazz",
+        "answer": "jazz",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "爵士乐",
+        "phonetic": "dʒæz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "jazz Uncle",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "爵士乐；Uncle"
+      },
+      {
+        "index": 4,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你喜欢爵士乐吗，叔叔？"
+      },
+      {
+        "index": 5,
+        "text": "Uncle",
+        "answer": "Uncle",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "修饰语",
+        "zh": "Uncle",
+        "phonetic": "ˈʌŋk(ə)l",
+        "pos": "PROPN_PERSON",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "jazz Uncle",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "爵士乐；Uncle"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你喜欢爵士乐吗，叔叔？"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "jazz",
+      "like",
+      "Do",
+      "Uncle"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Do",
+        "role": "助动词",
+        "zh": "构成疑问句"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "like",
+        "role": "谓语",
+        "zh": "像"
+      },
+      {
+        "id": "ud-4",
+        "text": "jazz Uncle",
+        "role": "宾语",
+        "zh": "爵士乐；Uncle",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "jazz",
+            "role": "中心词",
+            "zh": "爵士乐"
+          },
+          {
+            "id": "ud-6",
+            "text": "Uncle",
+            "role": "修饰语",
+            "zh": "Uncle"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentRole": "助动词",
+        "componentZh": "构成疑问句"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "2": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentRole": "谓语",
+        "componentZh": "像"
+      },
+      "3": {
+        "text": "jazz",
+        "phonetic": "dʒæz",
+        "pos": "NOUN",
+        "zh": "爵士乐",
+        "componentRole": "中心词",
+        "componentZh": "爵士乐",
+        "parentComponentText": "jazz Uncle",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "爵士乐；Uncle"
+      },
+      "5": {
+        "text": "Uncle",
+        "phonetic": "ˈʌŋk(ə)l",
+        "pos": "PROPN_PERSON",
+        "zh": "Uncle",
+        "componentRole": "修饰语",
+        "componentZh": "Uncle",
+        "parentComponentText": "jazz Uncle",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "爵士乐；Uncle"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-gddzkqywllnhv4esgx0590sy-5",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-gddzkqywllnhv4esgx0590sy-5",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Uncle",
+    "audioText": "Uncle",
+    "fullEnglish": "Uncle",
+    "phonetic": "ˈʌŋk(ə)l",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Uncle",
+        "answer": "Uncle",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "Uncle",
+        "phonetic": "ˈʌŋk(ə)l",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Uncle"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Uncle",
+        "phonetic": "ˈʌŋk(ə)l",
+        "pos": "PROPN_PERSON",
+        "zh": "Uncle",
+        "componentZh": "Uncle"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-S-t4otwmwrc8k2utfkhqvcdx5a",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-S-t4otwmwrc8k2utfkhqvcdx5a",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的。我最喜欢乡村音乐。",
+    "audioText": "Yes. I like country music best",
+    "fullEnglish": "Yes. I like country music best",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的。我最喜欢乡村音乐。"
+      },
+      {
+        "index": 2,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP"
+      },
+      {
+        "index": 4,
+        "text": "country",
+        "answer": "country",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "定语（名词修饰）",
+        "zh": "国家",
+        "phonetic": "ˈkʌntri",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "country music",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "国家；音乐"
+      },
+      {
+        "index": 5,
+        "text": "music",
+        "answer": "music",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "音乐",
+        "phonetic": "ˈmjuːzɪk",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "country music",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "国家；音乐"
+      },
+      {
+        "index": 6,
+        "text": "best",
+        "answer": "best",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心成分",
+        "zh": "最",
+        "phonetic": "best",
+        "pos": "ADV",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "country music best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "国家；音乐；最"
+      }
+    ],
+    "shuffledBlocks": [
+      "like",
+      "best",
+      "Yes",
+      "I",
+      "music",
+      "country"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yes",
+        "role": "中心成分",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "like",
+        "role": "谓语",
+        "zh": "像"
+      },
+      {
+        "id": "ud-4",
+        "text": "country music best",
+        "role": "宾语补足语",
+        "zh": "国家；音乐；最",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "country music",
+            "role": "补充成分",
+            "zh": "国家；音乐",
+            "children": [
+              {
+                "id": "ud-6",
+                "text": "country",
+                "role": "定语（名词修饰）",
+                "zh": "国家"
+              },
+              {
+                "id": "ud-7",
+                "text": "music",
+                "role": "中心词",
+                "zh": "音乐"
+              }
+            ]
+          },
+          {
+            "id": "ud-8",
+            "text": "best",
+            "role": "中心成分",
+            "zh": "最"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentRole": "中心成分",
+        "componentZh": "是的"
+      },
+      "2": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "3": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentRole": "谓语",
+        "componentZh": "像"
+      },
+      "4": {
+        "text": "country",
+        "phonetic": "ˈkʌntri",
+        "pos": "NOUN",
+        "zh": "国家",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "国家",
+        "parentComponentText": "country music",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "国家；音乐"
+      },
+      "5": {
+        "text": "music",
+        "phonetic": "ˈmjuːzɪk",
+        "pos": "NOUN",
+        "zh": "音乐",
+        "componentRole": "中心词",
+        "componentZh": "音乐",
+        "parentComponentText": "country music",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "国家；音乐"
+      },
+      "6": {
+        "text": "best",
+        "phonetic": "best",
+        "pos": "ADV",
+        "zh": "最",
+        "componentRole": "中心成分",
+        "componentZh": "最",
+        "parentComponentText": "country music best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "国家；音乐；最"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-t4otwmwrc8k2utfkhqvcdx5a-4",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-W-t4otwmwrc8k2utfkhqvcdx5a-4",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "乡村",
+    "audioText": "country",
+    "fullEnglish": "country",
+    "phonetic": "ˈkʌntri",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "country",
+        "answer": "country",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "国家",
+        "phonetic": "ˈkʌntri",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "country"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "country",
+        "phonetic": "ˈkʌntri",
+        "pos": "NOUN",
+        "zh": "国家",
+        "componentZh": "国家"
+      }
+    }
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-S-in6nepgit73ybj74q6gu1akk",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-S-in6nepgit73ybj74q6gu1akk",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你喜欢乡村音乐吗？",
+    "audioText": "Do you like country music?",
+    "fullEnglish": "Do you like country music?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Do",
+        "answer": "Do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP"
+      },
+      {
+        "index": 3,
+        "text": "country",
+        "answer": "country",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "定语（名词修饰）",
+        "zh": "国家",
+        "phonetic": "ˈkʌntri",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "country music",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "国家；音乐"
+      },
+      {
+        "index": 4,
+        "text": "music",
+        "answer": "music",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "音乐",
+        "phonetic": "ˈmjuːzɪk",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "country music",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "国家；音乐"
+      },
+      {
+        "index": 5,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你喜欢乡村音乐吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Do",
+      "you",
+      "like",
+      "country",
+      "music"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Do",
+        "role": "助动词",
+        "zh": "构成疑问句"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "like",
+        "role": "谓语",
+        "zh": "像"
+      },
+      {
+        "id": "ud-4",
+        "text": "country music",
+        "role": "宾语",
+        "zh": "国家；音乐",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "country",
+            "role": "定语（名词修饰）",
+            "zh": "国家"
+          },
+          {
+            "id": "ud-6",
+            "text": "music",
+            "role": "中心词",
+            "zh": "音乐"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentRole": "助动词",
+        "componentZh": "构成疑问句"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "2": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentRole": "谓语",
+        "componentZh": "像"
+      },
+      "3": {
+        "text": "country",
+        "phonetic": "ˈkʌntri",
+        "pos": "NOUN",
+        "zh": "国家",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "国家",
+        "parentComponentText": "country music",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "国家；音乐"
+      },
+      "4": {
+        "text": "music",
+        "phonetic": "ˈmjuːzɪk",
+        "pos": "NOUN",
+        "zh": "音乐",
+        "componentRole": "中心词",
+        "componentZh": "音乐",
+        "parentComponentText": "country music",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "国家；音乐"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-km6rdwt025d03ir9xweigfov",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-km6rdwt025d03ir9xweigfov",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "喜欢音乐",
+    "audioText": "like music",
+    "fullEnglish": "like music",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "music",
+        "answer": "music",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "音乐",
+        "phonetic": "ˈmjuːzɪk",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "like",
+      "music"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "like",
+        "role": "补充成分",
+        "zh": "像"
+      },
+      {
+        "id": "ud-2",
+        "text": "music",
+        "role": "中心成分",
+        "zh": "音乐"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentZh": "像",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "music",
+        "phonetic": "ˈmjuːzɪk",
+        "pos": "NOUN",
+        "zh": "音乐",
+        "componentZh": "音乐",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-fnfdn4rszc9410rfw1j4b9dn",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-fnfdn4rszc9410rfw1j4b9dn",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "非常",
+    "audioText": "very much",
+    "fullEnglish": "very much",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "much",
+        "answer": "much",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "很",
+        "phonetic": "mʌtʃ",
+        "pos": "ADV",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "much",
+      "very"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "very",
+        "role": "方式/程度状语",
+        "zh": "非常"
+      },
+      {
+        "id": "ud-2",
+        "text": "much",
+        "role": "中心成分",
+        "zh": "很"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentZh": "非常",
+        "componentRole": "方式/程度状语"
+      },
+      "1": {
+        "text": "much",
+        "phonetic": "mʌtʃ",
+        "pos": "ADV",
+        "zh": "很",
+        "componentZh": "很",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-mf7zyejwb4fcppwniiacllwn",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-mf7zyejwb4fcppwniiacllwn",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的，非常喜欢",
+    "audioText": "Yes, very much",
+    "fullEnglish": "Yes, very much",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "componentId": "ud-1",
+        "role": "语气/引导语"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，非常喜欢"
+      },
+      {
+        "index": 2,
+        "text": "very",
+        "answer": "very",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "非常",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 3,
+        "text": "much",
+        "answer": "much",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "很",
+        "phonetic": "mʌtʃ",
+        "pos": "ADV",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "very",
+      "much",
+      "Yes"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yes",
+        "role": "语气/引导语",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "very",
+        "role": "方式/程度状语",
+        "zh": "非常"
+      },
+      {
+        "id": "ud-3",
+        "text": "much",
+        "role": "中心成分",
+        "zh": "很"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的",
+        "componentRole": "语气/引导语"
+      },
+      "2": {
+        "text": "very",
+        "phonetic": "ˈveri",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentZh": "非常",
+        "componentRole": "方式/程度状语"
+      },
+      "3": {
+        "text": "much",
+        "phonetic": "mʌtʃ",
+        "pos": "ADV",
+        "zh": "很",
+        "componentZh": "很",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-mzkvmlh2nr892wgt3y9lyc91",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-mzkvmlh2nr892wgt3y9lyc91",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "听",
+    "audioText": "listen to",
+    "fullEnglish": "listen to",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "listen",
+        "answer": "listen",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "听",
+        "phonetic": "ˈlɪs(ə)n",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "role": "介词"
+      }
+    ],
+    "shuffledBlocks": [
+      "to",
+      "listen"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "listen",
+        "role": "谓语",
+        "zh": "听"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "listen",
+        "phonetic": "ˈlɪs(ə)n",
+        "pos": "VERB",
+        "zh": "听",
+        "componentZh": "听",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式",
+        "componentRole": "介词"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-amn9jv976d8pqk4997dwu5sh",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-amn9jv976d8pqk4997dwu5sh",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "各种音乐",
+    "audioText": "all kinds of music",
+    "fullEnglish": "all kinds of music",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "all",
+        "answer": "all",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "所有",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "kinds",
+        "answer": "kinds",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "种类（复数）",
+        "phonetic": "kaɪndz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      },
+      {
+        "index": 2,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "的",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "componentId": "ud-4",
+        "role": "介词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "of music",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "的；音乐"
+      },
+      {
+        "index": 3,
+        "text": "music",
+        "answer": "music",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "音乐",
+        "phonetic": "ˈmjuːzɪk",
+        "pos": "NOUN",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "of music",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "的；音乐"
+      }
+    ],
+    "shuffledBlocks": [
+      "all",
+      "music",
+      "of",
+      "kinds"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "all",
+        "role": "补充成分",
+        "zh": "所有"
+      },
+      {
+        "id": "ud-2",
+        "text": "kinds",
+        "role": "中心成分",
+        "zh": "种类（复数）"
+      },
+      {
+        "id": "ud-3",
+        "text": "of music",
+        "role": "补充成分",
+        "zh": "的；音乐",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "of",
+            "role": "介词",
+            "zh": "的"
+          },
+          {
+            "id": "ud-5",
+            "text": "music",
+            "role": "中心词",
+            "zh": "音乐"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "all",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "zh": "所有",
+        "componentZh": "所有",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "kinds",
+        "phonetic": "kaɪndz",
+        "pos": "NOUN",
+        "zh": "种类（复数）",
+        "componentZh": "种类（复数）",
+        "componentRole": "中心成分"
+      },
+      "2": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "的",
+        "componentZh": "的",
+        "componentRole": "介词",
+        "parentComponentText": "of music",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "的；音乐"
+      },
+      "3": {
+        "text": "music",
+        "phonetic": "ˈmjuːzɪk",
+        "pos": "NOUN",
+        "zh": "音乐",
+        "componentZh": "音乐",
+        "componentRole": "中心词",
+        "parentComponentText": "of music",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "的；音乐"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-s80gkxaqim6l6pe53tqy82it",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-s80gkxaqim6l6pe53tqy82it",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我听各种类型的音乐",
+    "audioText": "I listen to all kinds of music",
+    "fullEnglish": "I listen to all kinds of music",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "listen",
+        "answer": "listen",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "听",
+        "phonetic": "ˈlɪs(ə)n",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      },
+      {
+        "index": 2,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "componentId": "ud-4",
+        "role": "介词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to all kinds of music",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "引导不定式；所有；种类（复数）；的；音乐"
+      },
+      {
+        "index": 3,
+        "text": "all",
+        "answer": "all",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "所有",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "all kinds of music",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "所有；种类（复数）；的；音乐"
+      },
+      {
+        "index": 4,
+        "text": "kinds",
+        "answer": "kinds",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "种类（复数）",
+        "phonetic": "kaɪndz",
+        "pos": "NOUN",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "all kinds of music",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "所有；种类（复数）；的；音乐"
+      },
+      {
+        "index": 5,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "的",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "componentId": "ud-8",
+        "role": "介词",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "all kinds of music",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "所有；种类（复数）；的；音乐"
+      },
+      {
+        "index": 6,
+        "text": "music",
+        "answer": "music",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "音乐",
+        "phonetic": "ˈmjuːzɪk",
+        "pos": "NOUN",
+        "componentId": "ud-9",
+        "role": "修饰语",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "all kinds of music",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "所有；种类（复数）；的；音乐"
+      }
+    ],
+    "shuffledBlocks": [
+      "to",
+      "listen",
+      "music",
+      "kinds",
+      "of",
+      "all",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "listen",
+        "role": "谓语",
+        "zh": "听"
+      },
+      {
+        "id": "ud-3",
+        "text": "to all kinds of music",
+        "role": "介词短语/状语",
+        "zh": "引导不定式；所有；种类（复数）；的；音乐",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "to",
+            "role": "介词",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-5",
+            "text": "all kinds of music",
+            "role": "介词宾语",
+            "zh": "所有；种类（复数）；的；音乐",
+            "children": [
+              {
+                "id": "ud-6",
+                "text": "all",
+                "role": "限定词",
+                "zh": "所有"
+              },
+              {
+                "id": "ud-7",
+                "text": "kinds",
+                "role": "中心词",
+                "zh": "种类（复数）"
+              },
+              {
+                "id": "ud-8",
+                "text": "of",
+                "role": "介词",
+                "zh": "的"
+              },
+              {
+                "id": "ud-9",
+                "text": "music",
+                "role": "修饰语",
+                "zh": "音乐"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "listen",
+        "phonetic": "ˈlɪs(ə)n",
+        "pos": "VERB",
+        "zh": "听",
+        "componentZh": "听",
+        "componentRole": "谓语"
+      },
+      "2": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式",
+        "componentRole": "介词",
+        "parentComponentText": "to all kinds of music",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "引导不定式；所有；种类（复数）；的；音乐"
+      },
+      "3": {
+        "text": "all",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "zh": "所有",
+        "componentZh": "所有",
+        "componentRole": "限定词",
+        "parentComponentText": "all kinds of music",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "所有；种类（复数）；的；音乐"
+      },
+      "4": {
+        "text": "kinds",
+        "phonetic": "kaɪndz",
+        "pos": "NOUN",
+        "zh": "种类（复数）",
+        "componentZh": "种类（复数）",
+        "componentRole": "中心词",
+        "parentComponentText": "all kinds of music",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "所有；种类（复数）；的；音乐"
+      },
+      "5": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "的",
+        "componentZh": "的",
+        "componentRole": "介词",
+        "parentComponentText": "all kinds of music",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "所有；种类（复数）；的；音乐"
+      },
+      "6": {
+        "text": "music",
+        "phonetic": "ˈmjuːzɪk",
+        "pos": "NOUN",
+        "zh": "音乐",
+        "componentZh": "音乐",
+        "componentRole": "修饰语",
+        "parentComponentText": "all kinds of music",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "所有；种类（复数）；的；音乐"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-u8zz7b86th9dfw5mst9v81l0",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-u8zz7b86th9dfw5mst9v81l0",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "流行歌曲",
+    "audioText": "pop songs",
+    "fullEnglish": "pop songs",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "pop",
+        "answer": "pop",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "流行的",
+        "phonetic": "pɑːp",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "songs",
+        "answer": "songs",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "歌曲（复数）",
+        "phonetic": "sɔːŋz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "songs",
+      "pop"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "pop",
+        "role": "补充成分",
+        "zh": "流行的"
+      },
+      {
+        "id": "ud-2",
+        "text": "songs",
+        "role": "中心成分",
+        "zh": "歌曲（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "pop",
+        "phonetic": "pɑːp",
+        "pos": "ADJ",
+        "zh": "流行的",
+        "componentZh": "流行的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "songs",
+        "phonetic": "sɔːŋz",
+        "pos": "NOUN",
+        "zh": "歌曲（复数）",
+        "componentZh": "歌曲（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-qkdv9i9eofphr0uf94gyn4ws",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-qkdv9i9eofphr0uf94gyn4ws",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我也喜欢流行歌曲",
+    "audioText": "I also like pop songs",
+    "fullEnglish": "I also like pop songs",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "also",
+        "answer": "also",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "也",
+        "phonetic": "ˈɔːlsoʊ",
+        "pos": "ADV",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 2,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "componentId": "ud-3",
+        "role": "谓语"
+      },
+      {
+        "index": 3,
+        "text": "pop",
+        "answer": "pop",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "流行的",
+        "phonetic": "pɑːp",
+        "pos": "ADJ",
+        "componentId": "ud-5",
+        "role": "定语（名词修饰）",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "pop songs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "流行的；歌曲（复数）"
+      },
+      {
+        "index": 4,
+        "text": "songs",
+        "answer": "songs",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "歌曲（复数）",
+        "phonetic": "sɔːŋz",
+        "pos": "NOUN",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "pop songs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "流行的；歌曲（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "like",
+      "also",
+      "songs",
+      "pop"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "also",
+        "role": "方式/程度状语",
+        "zh": "也"
+      },
+      {
+        "id": "ud-3",
+        "text": "like",
+        "role": "谓语",
+        "zh": "像"
+      },
+      {
+        "id": "ud-4",
+        "text": "pop songs",
+        "role": "宾语",
+        "zh": "流行的；歌曲（复数）",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "pop",
+            "role": "定语（名词修饰）",
+            "zh": "流行的"
+          },
+          {
+            "id": "ud-6",
+            "text": "songs",
+            "role": "中心词",
+            "zh": "歌曲（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "also",
+        "phonetic": "ˈɔːlsoʊ",
+        "pos": "ADV",
+        "zh": "也",
+        "componentZh": "也",
+        "componentRole": "方式/程度状语"
+      },
+      "2": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentZh": "像",
+        "componentRole": "谓语"
+      },
+      "3": {
+        "text": "pop",
+        "phonetic": "pɑːp",
+        "pos": "ADJ",
+        "zh": "流行的",
+        "componentZh": "流行的",
+        "componentRole": "定语（名词修饰）",
+        "parentComponentText": "pop songs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "流行的；歌曲（复数）"
+      },
+      "4": {
+        "text": "songs",
+        "phonetic": "sɔːŋz",
+        "pos": "NOUN",
+        "zh": "歌曲（复数）",
+        "componentZh": "歌曲（复数）",
+        "componentRole": "中心词",
+        "parentComponentText": "pop songs",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "流行的；歌曲（复数）"
+      }
+    },
+    "sentenceType": "主谓宾结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-ozxyq5zorlnxhh0wjhwj3ocw",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-ozxyq5zorlnxhh0wjhwj3ocw",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "最喜欢爵士乐",
+    "audioText": "like jazz best",
+    "fullEnglish": "like jazz best",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "语气/引导语"
+      },
+      {
+        "index": 1,
+        "text": "jazz",
+        "answer": "jazz",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "爵士乐",
+        "phonetic": "dʒæz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "best",
+        "answer": "best",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "最",
+        "phonetic": "best",
+        "pos": "ADV",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "like",
+      "best",
+      "jazz"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "like",
+        "role": "语气/引导语",
+        "zh": "像"
+      },
+      {
+        "id": "ud-2",
+        "text": "jazz",
+        "role": "补充成分",
+        "zh": "爵士乐"
+      },
+      {
+        "id": "ud-3",
+        "text": "best",
+        "role": "中心成分",
+        "zh": "最"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentZh": "像",
+        "componentRole": "语气/引导语"
+      },
+      "1": {
+        "text": "jazz",
+        "phonetic": "dʒæz",
+        "pos": "NOUN",
+        "zh": "爵士乐",
+        "componentZh": "爵士乐",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "best",
+        "phonetic": "best",
+        "pos": "ADV",
+        "zh": "最",
+        "componentZh": "最",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-aukms5xizm8zgn0f4bjb6tsv",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-aukms5xizm8zgn0f4bjb6tsv",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "但我最喜欢爵士乐",
+    "audioText": "But I like jazz best",
+    "fullEnglish": "But I like jazz best",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "But",
+        "answer": "But",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "但是",
+        "phonetic": "bʌt",
+        "pos": "CCONJ",
+        "componentId": "ud-1",
+        "role": "并列连词"
+      },
+      {
+        "index": 1,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "componentId": "ud-3",
+        "role": "谓语"
+      },
+      {
+        "index": 3,
+        "text": "jazz",
+        "answer": "jazz",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "爵士乐",
+        "phonetic": "dʒæz",
+        "pos": "NOUN",
+        "componentId": "ud-5",
+        "role": "补充成分",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "jazz best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "爵士乐；最"
+      },
+      {
+        "index": 4,
+        "text": "best",
+        "answer": "best",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "最",
+        "phonetic": "best",
+        "pos": "ADV",
+        "componentId": "ud-6",
+        "role": "中心成分",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "jazz best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "爵士乐；最"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "But",
+      "best",
+      "like",
+      "jazz"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "But",
+        "role": "并列连词",
+        "zh": "但是"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "like",
+        "role": "谓语",
+        "zh": "像"
+      },
+      {
+        "id": "ud-4",
+        "text": "jazz best",
+        "role": "宾语补足语",
+        "zh": "爵士乐；最",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "jazz",
+            "role": "补充成分",
+            "zh": "爵士乐"
+          },
+          {
+            "id": "ud-6",
+            "text": "best",
+            "role": "中心成分",
+            "zh": "最"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "But",
+        "phonetic": "bʌt",
+        "pos": "CCONJ",
+        "zh": "但是",
+        "componentZh": "但是",
+        "componentRole": "并列连词"
+      },
+      "1": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentZh": "像",
+        "componentRole": "谓语"
+      },
+      "3": {
+        "text": "jazz",
+        "phonetic": "dʒæz",
+        "pos": "NOUN",
+        "zh": "爵士乐",
+        "componentZh": "爵士乐",
+        "componentRole": "补充成分",
+        "parentComponentText": "jazz best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "爵士乐；最"
+      },
+      "4": {
+        "text": "best",
+        "phonetic": "best",
+        "pos": "ADV",
+        "zh": "最",
+        "componentZh": "最",
+        "componentRole": "中心成分",
+        "parentComponentText": "jazz best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "爵士乐；最"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-l8k39bialbyuph1dr9lzkej8",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-l8k39bialbyuph1dr9lzkej8",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我不",
+    "audioText": "I don't",
+    "fullEnglish": "I don't",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "don't",
+        "answer": "don't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "do（否定缩写）: 做",
+        "phonetic": "doʊnt",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "方式/程度状语 + 谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "don't",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "don't",
+        "role": "方式/程度状语 + 谓语",
+        "zh": "do（否定缩写）: 做"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "don't",
+        "phonetic": "doʊnt",
+        "pos": "VERB",
+        "zh": "do（否定缩写）: 做",
+        "componentZh": "do（否定缩写）: 做",
+        "componentRole": "方式/程度状语 + 谓语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-yf3c9rs3km00lmpp1fpqcuzg",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-yf3c9rs3km00lmpp1fpqcuzg",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "喜欢爵士乐",
+    "audioText": "like jazz",
+    "fullEnglish": "like jazz",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "jazz",
+        "answer": "jazz",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "爵士乐",
+        "phonetic": "dʒæz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "like",
+      "jazz"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "like",
+        "role": "补充成分",
+        "zh": "像"
+      },
+      {
+        "id": "ud-2",
+        "text": "jazz",
+        "role": "中心成分",
+        "zh": "爵士乐"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentZh": "像",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "jazz",
+        "phonetic": "dʒæz",
+        "pos": "NOUN",
+        "zh": "爵士乐",
+        "componentZh": "爵士乐",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-hsthacyin72xqas52oso7bgb",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-hsthacyin72xqas52oso7bgb",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "乡村音乐最",
+    "audioText": "country music best",
+    "fullEnglish": "country music best",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "country",
+        "answer": "country",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "国家",
+        "phonetic": "ˈkʌntri",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "定语（名词修饰）",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "country music",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "国家；音乐"
+      },
+      {
+        "index": 1,
+        "text": "music",
+        "answer": "music",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "音乐",
+        "phonetic": "ˈmjuːzɪk",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "country music",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "国家；音乐"
+      },
+      {
+        "index": 2,
+        "text": "best",
+        "answer": "best",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "最",
+        "phonetic": "best",
+        "pos": "ADV",
+        "componentId": "ud-4",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "country",
+      "music",
+      "best"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "country music",
+        "role": "补充成分",
+        "zh": "国家；音乐",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "country",
+            "role": "定语（名词修饰）",
+            "zh": "国家"
+          },
+          {
+            "id": "ud-3",
+            "text": "music",
+            "role": "中心词",
+            "zh": "音乐"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "best",
+        "role": "中心成分",
+        "zh": "最"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "country",
+        "phonetic": "ˈkʌntri",
+        "pos": "NOUN",
+        "zh": "国家",
+        "componentZh": "国家",
+        "componentRole": "定语（名词修饰）",
+        "parentComponentText": "country music",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "国家；音乐"
+      },
+      "1": {
+        "text": "music",
+        "phonetic": "ˈmjuːzɪk",
+        "pos": "NOUN",
+        "zh": "音乐",
+        "componentZh": "音乐",
+        "componentRole": "中心词",
+        "parentComponentText": "country music",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "国家；音乐"
+      },
+      "2": {
+        "text": "best",
+        "phonetic": "best",
+        "pos": "ADV",
+        "zh": "最",
+        "componentZh": "最",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-pe3y8iwhekkzmfnna5o3udd5",
+    "contentId": "JLB-hrl3e3tjjorlag4b3s1vf8e2-PHRASE-pe3y8iwhekkzmfnna5o3udd5",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "hrl3e3tjjorlag4b3s1vf8e2",
+    "unitTitle": "Unit 1  DO YOU LIKE MUSIC?-Lesson 1-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "乡村音乐",
+    "audioText": "country music",
+    "fullEnglish": "country music",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "country",
+        "answer": "country",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "国家",
+        "phonetic": "ˈkʌntri",
+        "pos": "NOUN",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "music",
+        "answer": "music",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "音乐",
+        "phonetic": "ˈmjuːzɪk",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "music",
+      "country"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "country",
+        "role": "补充成分",
+        "zh": "国家"
+      },
+      {
+        "id": "ud-2",
+        "text": "music",
+        "role": "中心成分",
+        "zh": "音乐"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "country",
+        "phonetic": "ˈkʌntri",
+        "pos": "NOUN",
+        "zh": "国家",
+        "componentZh": "国家",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "music",
+        "phonetic": "ˈmjuːzɪk",
+        "pos": "NOUN",
+        "zh": "音乐",
+        "componentZh": "音乐",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

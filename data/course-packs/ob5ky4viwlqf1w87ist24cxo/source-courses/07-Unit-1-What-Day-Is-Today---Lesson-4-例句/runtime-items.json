@@ -1,0 +1,1773 @@
+[
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-S-cjw5u1omtf8akj508db1wvc7",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-S-cjw5u1omtf8akj508db1wvc7",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "嗨！我们来玩吧",
+    "audioText": "Hi! Let's play.",
+    "fullEnglish": "Hi! Let's play.",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Hi",
+        "answer": "Hi",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "嗨",
+        "phonetic": "haɪ",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation"
+      },
+      {
+        "index": 2,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "宾语 + 谓语",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "玩",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "play",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "玩"
+      },
+      {
+        "index": 4,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation"
+      }
+    ],
+    "shuffledBlocks": [
+      "Hi",
+      "Let's",
+      "play"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Hi",
+        "role": "中心成分",
+        "zh": "嗨"
+      },
+      {
+        "id": "ud-2",
+        "text": "Let's",
+        "role": "宾语 + 谓语",
+        "zh": "让我们"
+      },
+      {
+        "id": "ud-3",
+        "text": "play",
+        "role": "宾语补足语",
+        "zh": "玩",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "play",
+            "role": "谓语",
+            "zh": "玩"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Hi",
+        "phonetic": "haɪ",
+        "pos": "INTJ",
+        "zh": "嗨",
+        "componentRole": "中心成分",
+        "componentZh": "嗨"
+      },
+      "2": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentRole": "宾语 + 谓语",
+        "componentZh": "让我们"
+      },
+      "3": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "玩",
+        "componentRole": "谓语",
+        "componentZh": "玩",
+        "parentComponentText": "play",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "玩"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-S-uypfh4rhwhtcewq49zgh5rtq",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-S-uypfh4rhwhtcewq49zgh5rtq",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你好！我们来玩",
+    "audioText": "Hello! Let's play.",
+    "fullEnglish": "Hello! Let's play.",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Hello",
+        "answer": "Hello",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "你好！我们来玩……"
+      },
+      {
+        "index": 1,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation"
+      },
+      {
+        "index": 2,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "宾语 + 谓语",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "玩",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "play",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "玩"
+      },
+      {
+        "index": 4,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation"
+      }
+    ],
+    "shuffledBlocks": [
+      "Hello",
+      "Let's",
+      "play"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Hello",
+        "role": "中心成分",
+        "zh": "你好！我们来玩……"
+      },
+      {
+        "id": "ud-2",
+        "text": "Let's",
+        "role": "宾语 + 谓语",
+        "zh": "让我们"
+      },
+      {
+        "id": "ud-3",
+        "text": "play",
+        "role": "宾语补足语",
+        "zh": "玩",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "play",
+            "role": "谓语",
+            "zh": "玩"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Hello",
+        "zh": "你好！我们来玩……",
+        "componentRole": "中心成分",
+        "componentZh": "你好！我们来玩……"
+      },
+      "2": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentRole": "宾语 + 谓语",
+        "componentZh": "让我们"
+      },
+      "3": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "玩",
+        "componentRole": "谓语",
+        "componentZh": "玩",
+        "parentComponentText": "play",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "玩"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-k5tlcmflp6ks9tn6s6mqi677-1",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-k5tlcmflp6ks9tn6s6mqi677-1",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "抱歉的",
+    "audioText": "Sorry",
+    "fullEnglish": "Sorry",
+    "phonetic": "ˈsɑːri",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Sorry",
+        "answer": "Sorry",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "对不起",
+        "phonetic": "ˈsɑːri",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Sorry"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Sorry",
+        "phonetic": "ˈsɑːri",
+        "pos": "ADJ",
+        "zh": "对不起",
+        "componentZh": "对不起"
+      }
+    }
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-k5tlcmflp6ks9tn6s6mqi677-2",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-k5tlcmflp6ks9tn6s6mqi677-2",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它是",
+    "audioText": "It's",
+    "fullEnglish": "It's",
+    "phonetic": "ɪts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是"
+      }
+    }
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-k5tlcmflp6ks9tn6s6mqi677-3",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-k5tlcmflp6ks9tn6s6mqi677-3",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-k5tlcmflp6ks9tn6s6mqi677-4",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-k5tlcmflp6ks9tn6s6mqi677-4",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "去",
+    "audioText": "go",
+    "fullEnglish": "go",
+    "phonetic": "ɡoʊ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "go"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去"
+      }
+    }
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-k5tlcmflp6ks9tn6s6mqi677-5",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-k5tlcmflp6ks9tn6s6mqi677-5",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "引导不定式",
+    "audioText": "to",
+    "fullEnglish": "to",
+    "phonetic": "tuː; tə",
+    "pos": "PART",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "对",
+        "phonetic": "tuː; tə",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "to"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "对",
+        "componentZh": "对"
+      }
+    }
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-k5tlcmflp6ks9tn6s6mqi677-6",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-k5tlcmflp6ks9tn6s6mqi677-6",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "学校",
+    "audioText": "school",
+    "fullEnglish": "school",
+    "phonetic": "skuːl",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "school",
+        "answer": "school",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "学校",
+        "phonetic": "skuːl",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "school"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "school",
+        "phonetic": "skuːl",
+        "pos": "NOUN",
+        "zh": "学校",
+        "componentZh": "学校"
+      }
+    }
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-k5tlcmflp6ks9tn6s6mqi677-7",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-k5tlcmflp6ks9tn6s6mqi677-7",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "今天",
+    "audioText": "today",
+    "fullEnglish": "today",
+    "phonetic": "təˈdeɪ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "today",
+        "answer": "today",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "今天",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "today"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "today",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN",
+        "zh": "今天",
+        "componentZh": "今天"
+      }
+    }
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-lenqzp66kcry1478we6v1obx-1",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-lenqzp66kcry1478we6v1obx-1",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不",
+    "audioText": "No",
+    "fullEnglish": "No",
+    "phonetic": "noʊ",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "No",
+        "answer": "No",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "noʊ",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "No"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "No",
+        "phonetic": "noʊ",
+        "pos": "INTJ",
+        "zh": "不",
+        "componentZh": "不"
+      }
+    }
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-lenqzp66kcry1478we6v1obx-2",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-lenqzp66kcry1478we6v1obx-2",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Lala",
+    "audioText": "Lala",
+    "fullEnglish": "Lala",
+    "phonetic": "lala",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Lala",
+        "answer": "Lala",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "Lala",
+        "phonetic": "lala",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Lala"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Lala",
+        "phonetic": "lala",
+        "pos": "PROPN_PERSON",
+        "zh": "Lala",
+        "componentZh": "Lala"
+      }
+    }
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-S-vdhyrcc19yfujkk619j822fb",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-S-vdhyrcc19yfujkk619j822fb",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "今天是/明天是星期几？",
+    "audioText": "What day is today / tomorrow?",
+    "fullEnglish": "What day is today / tomorrow?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "What day",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "什么；日子"
+      },
+      {
+        "index": 1,
+        "text": "day",
+        "answer": "day",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "日子",
+        "phonetic": "deɪ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "What day",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "什么；日子"
+      },
+      {
+        "index": 2,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 3,
+        "text": "today",
+        "answer": "today",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "今天",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN"
+      },
+      {
+        "index": 4,
+        "text": "/",
+        "answer": "/",
+        "blank": "/",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "symbol",
+        "zh": "今天是/明天是星期几？"
+      },
+      {
+        "index": 5,
+        "text": "tomorrow",
+        "answer": "tomorrow",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "并列成分",
+        "zh": "明天",
+        "phonetic": "təˈmɑːroʊ",
+        "pos": "NOUN"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "今天是/明天是星期几？"
+      }
+    ],
+    "shuffledBlocks": [
+      "is",
+      "today",
+      "day",
+      "What",
+      "tomorrow"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What day",
+        "role": "主语",
+        "zh": "什么；日子",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "What",
+            "role": "限定词",
+            "zh": "什么"
+          },
+          {
+            "id": "ud-3",
+            "text": "day",
+            "role": "中心词",
+            "zh": "日子"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-5",
+        "text": "today",
+        "role": "表语",
+        "zh": "今天"
+      },
+      {
+        "id": "ud-6",
+        "text": "tomorrow",
+        "role": "并列成分",
+        "zh": "明天"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "限定词",
+        "componentZh": "什么",
+        "parentComponentText": "What day",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "什么；日子"
+      },
+      "1": {
+        "text": "day",
+        "phonetic": "deɪ",
+        "pos": "NOUN",
+        "zh": "日子",
+        "componentRole": "中心词",
+        "componentZh": "日子",
+        "parentComponentText": "What day",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "什么；日子"
+      },
+      "2": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "3": {
+        "text": "today",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN",
+        "zh": "今天",
+        "componentRole": "表语",
+        "componentZh": "今天"
+      },
+      "5": {
+        "text": "tomorrow",
+        "phonetic": "təˈmɑːroʊ",
+        "pos": "NOUN",
+        "zh": "明天",
+        "componentRole": "并列成分",
+        "componentZh": "明天"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-vdhyrcc19yfujkk619j822fb-1",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-vdhyrcc19yfujkk619j822fb-1",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么",
+    "audioText": "What",
+    "fullEnglish": "What",
+    "phonetic": "wʌt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "What"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么"
+      }
+    }
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-vdhyrcc19yfujkk619j822fb-2",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-vdhyrcc19yfujkk619j822fb-2",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "日子",
+    "audioText": "day",
+    "fullEnglish": "day",
+    "phonetic": "deɪ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "day",
+        "answer": "day",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "日子",
+        "phonetic": "deɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "day"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "day",
+        "phonetic": "deɪ",
+        "pos": "NOUN",
+        "zh": "日子",
+        "componentZh": "日子"
+      }
+    }
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-vdhyrcc19yfujkk619j822fb-3",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-vdhyrcc19yfujkk619j822fb-3",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "is",
+    "fullEnglish": "is",
+    "phonetic": "ɪz",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "is"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是"
+      }
+    }
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-vdhyrcc19yfujkk619j822fb-5",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-vdhyrcc19yfujkk619j822fb-5",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "明天",
+    "audioText": "tomorrow",
+    "fullEnglish": "tomorrow",
+    "phonetic": "təˈmɑːroʊ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "tomorrow",
+        "answer": "tomorrow",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "明天",
+        "phonetic": "təˈmɑːroʊ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "tomorrow"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "tomorrow",
+        "phonetic": "təˈmɑːroʊ",
+        "pos": "NOUN",
+        "zh": "明天",
+        "componentZh": "明天"
+      }
+    }
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-v58newuxrq7ghhkxb7m2ko9n-3",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-W-v58newuxrq7ghhkxb7m2ko9n-3",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "玩",
+    "audioText": "play",
+    "fullEnglish": "play",
+    "phonetic": "pleɪ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "玩",
+        "phonetic": "pleɪ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "play"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "玩",
+        "componentZh": "玩"
+      }
+    }
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-PHRASE-j0s63ktw1vjk4ttbn7xrfvba",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-PHRASE-j0s63ktw1vjk4ttbn7xrfvba",
+    "type": "phrase",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "对不起",
+    "audioText": "Sorry",
+    "fullEnglish": "Sorry",
+    "phonetic": "ˈsɑːri",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Sorry",
+        "answer": "Sorry",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "对不起",
+        "phonetic": "ˈsɑːri",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "Sorry"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Sorry",
+        "role": "中心成分",
+        "zh": "对不起"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Sorry",
+        "phonetic": "ˈsɑːri",
+        "pos": "ADJ",
+        "zh": "对不起",
+        "componentZh": "对不起",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-PHRASE-o1jap952qgrgnflztrhjrn3b",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-PHRASE-o1jap952qgrgnflztrhjrn3b",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "去上学",
+    "audioText": "go to school",
+    "fullEnglish": "go to school",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "对",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "componentId": "ud-3",
+        "role": "介词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "to school",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "对；学校"
+      },
+      {
+        "index": 2,
+        "text": "school",
+        "answer": "school",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "学校",
+        "phonetic": "skuːl",
+        "pos": "NOUN",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "school",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "学校"
+      }
+    ],
+    "shuffledBlocks": [
+      "school",
+      "go",
+      "to"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "go",
+        "role": "谓语",
+        "zh": "去"
+      },
+      {
+        "id": "ud-2",
+        "text": "to school",
+        "role": "地点状语",
+        "zh": "对；学校",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "to",
+            "role": "介词",
+            "zh": "对"
+          },
+          {
+            "id": "ud-4",
+            "text": "school",
+            "role": "介词宾语",
+            "zh": "学校",
+            "children": [
+              {
+                "id": "ud-5",
+                "text": "school",
+                "role": "中心词",
+                "zh": "学校"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "对",
+        "componentZh": "对",
+        "componentRole": "介词",
+        "parentComponentText": "to school",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "对；学校"
+      },
+      "2": {
+        "text": "school",
+        "phonetic": "skuːl",
+        "pos": "NOUN",
+        "zh": "学校",
+        "componentZh": "学校",
+        "componentRole": "中心词",
+        "parentComponentText": "school",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "学校"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-PHRASE-yczf4q0h4hejhk58iahs0q7b",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-PHRASE-yczf4q0h4hejhk58iahs0q7b",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我今天去上学",
+    "audioText": "I go to school today",
+    "fullEnglish": "I go to school today",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      },
+      {
+        "index": 2,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "对",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "componentId": "ud-4",
+        "role": "介词",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to school",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "对；学校"
+      },
+      {
+        "index": 3,
+        "text": "school",
+        "answer": "school",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "学校",
+        "phonetic": "skuːl",
+        "pos": "NOUN",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "school",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "学校"
+      },
+      {
+        "index": 4,
+        "text": "today",
+        "answer": "today",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "今天",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN",
+        "componentId": "ud-7",
+        "role": "时间状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "go",
+      "to",
+      "today",
+      "I",
+      "school"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "go",
+        "role": "谓语",
+        "zh": "去"
+      },
+      {
+        "id": "ud-3",
+        "text": "to school",
+        "role": "地点状语",
+        "zh": "对；学校",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "to",
+            "role": "介词",
+            "zh": "对"
+          },
+          {
+            "id": "ud-5",
+            "text": "school",
+            "role": "介词宾语",
+            "zh": "学校",
+            "children": [
+              {
+                "id": "ud-6",
+                "text": "school",
+                "role": "中心词",
+                "zh": "学校"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ud-7",
+        "text": "today",
+        "role": "时间状语",
+        "zh": "今天"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去",
+        "componentRole": "谓语"
+      },
+      "2": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "对",
+        "componentZh": "对",
+        "componentRole": "介词",
+        "parentComponentText": "to school",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "对；学校"
+      },
+      "3": {
+        "text": "school",
+        "phonetic": "skuːl",
+        "pos": "NOUN",
+        "zh": "学校",
+        "componentZh": "学校",
+        "componentRole": "中心词",
+        "parentComponentText": "school",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "学校"
+      },
+      "4": {
+        "text": "today",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN",
+        "zh": "今天",
+        "componentZh": "今天",
+        "componentRole": "时间状语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-PHRASE-dm0vktvb2qygqilchkk2uwg4",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-PHRASE-dm0vktvb2qygqilchkk2uwg4",
+    "type": "phrase",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不，Lala",
+    "audioText": "No, Lala",
+    "fullEnglish": "No, Lala",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "No",
+        "answer": "No",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "noʊ",
+        "pos": "INTJ",
+        "componentId": "ud-1",
+        "role": "语气/引导语"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "不，Lala"
+      },
+      {
+        "index": 2,
+        "text": "Lala",
+        "answer": "Lala",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "Lala",
+        "phonetic": "lala",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "No",
+      "Lala"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "No",
+        "role": "语气/引导语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-2",
+        "text": "Lala",
+        "role": "中心成分",
+        "zh": "Lala"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "No",
+        "phonetic": "noʊ",
+        "pos": "INTJ",
+        "zh": "不",
+        "componentZh": "不",
+        "componentRole": "语气/引导语"
+      },
+      "2": {
+        "text": "Lala",
+        "phonetic": "lala",
+        "pos": "PROPN_PERSON",
+        "zh": "Lala",
+        "componentZh": "Lala",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-PHRASE-na96ipunh7a9to4oxykn5afj",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-PHRASE-na96ipunh7a9to4oxykn5afj",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "去",
+    "audioText": "go to",
+    "fullEnglish": "go to",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "对",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "go",
+      "to"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "go",
+        "role": "谓语",
+        "zh": "去"
+      },
+      {
+        "id": "ud-2",
+        "text": "to",
+        "role": "方式/程度状语",
+        "zh": "对"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "对",
+        "componentZh": "对",
+        "componentRole": "方式/程度状语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-l8mmxzaq9cl1mth93r6rtmfp-PHRASE-mnpvrcoo1f19y54ww1a9adfq",
+    "contentId": "JLB-l8mmxzaq9cl1mth93r6rtmfp-PHRASE-mnpvrcoo1f19y54ww1a9adfq",
+    "type": "phrase",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "l8mmxzaq9cl1mth93r6rtmfp",
+    "unitTitle": "Unit 1 What Day Is Today?--Lesson 4【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么日子",
+    "audioText": "What day",
+    "fullEnglish": "What day",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "day",
+        "answer": "day",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "日子",
+        "phonetic": "deɪ",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "day",
+      "What"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What",
+        "role": "补充成分",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "day",
+        "role": "中心成分",
+        "zh": "日子"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "day",
+        "phonetic": "deɪ",
+        "pos": "NOUN",
+        "zh": "日子",
+        "componentZh": "日子",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

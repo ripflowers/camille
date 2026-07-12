@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="EnStudy">
+  <defs>
+    <linearGradient id="bg" x1="72" y1="48" x2="448" y2="464" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="0.56" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#fb923c"/>
+    </linearGradient>
+    <linearGradient id="card" x1="116" y1="118" x2="396" y2="394" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eff6ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <circle cx="394" cy="122" r="34" fill="#facc15"/>
+  <circle cx="106" cy="394" r="20" fill="#fef3c7" opacity=".92"/>
+  <path d="M128 142c0-23 19-42 42-42h172c23 0 42 19 42 42v228c0 23-19 42-42 42H170c-23 0-42-19-42-42V142Z" fill="url(#card)" stroke="#dbeafe" stroke-width="8"/>
+  <path d="M176 178h160M176 224h160M176 330h112" stroke="#93c5fd" stroke-width="18" stroke-linecap="round"/>
+  <path d="M180 304l48-112h26l48 112h-28l-9-24h-49l-9 24h-27Zm44-46h33l-16-43-17 43Z" fill="#1d4ed8"/>
+  <path d="M318 306c-23 0-38-15-38-38s16-39 40-39c10 0 20 3 27 10v-8h23v73h-23v-8c-8 7-18 10-29 10Zm7-21c13 0 23-8 23-18s-10-18-23-18c-12 0-21 8-21 19 0 10 9 17 21 17Z" fill="#7c3aed"/>
+  <path d="M354 330l20 40 44 6-32 31 8 44-40-21-39 21 7-44-32-31 44-6 20-40Z" fill="#fb923c" stroke="#fff7ed" stroke-width="8" stroke-linejoin="round"/>
+</svg>

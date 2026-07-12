@@ -1,0 +1,7662 @@
+[
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-S-ywz8wxiutr3gc85dagmnlnsx",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-S-ywz8wxiutr3gc85dagmnlnsx",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Bob，你能过来一下吗？",
+    "audioText": "Can you come here a minute please, Bob?",
+    "fullEnglish": "Can you come here a minute please, Bob?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Can",
+        "answer": "Can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "come",
+        "answer": "come",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "来",
+        "phonetic": "kʌm",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "here",
+        "answer": "here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "地点状语",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV"
+      },
+      {
+        "index": 4,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "a minute",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "一个；分钟"
+      },
+      {
+        "index": 5,
+        "text": "minute",
+        "answer": "minute",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "分钟",
+        "phonetic": "ˈmɪnɪt",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "a minute",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "一个；分钟"
+      },
+      {
+        "index": 6,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      },
+      {
+        "index": 7,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Bob，你能过来一下吗？"
+      },
+      {
+        "index": 8,
+        "text": "Bob",
+        "answer": "Bob",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "呼语",
+        "zh": "Bob",
+        "phonetic": "bɑːb",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 9,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Bob，你能过来一下吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "come",
+      "you",
+      "please",
+      "minute",
+      "a",
+      "here",
+      "Can",
+      "Bob"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "come",
+        "role": "谓语",
+        "zh": "来"
+      },
+      {
+        "id": "ud-4",
+        "text": "here",
+        "role": "地点状语",
+        "zh": "这里"
+      },
+      {
+        "id": "ud-5",
+        "text": "a minute",
+        "role": "时间状语",
+        "zh": "一个；分钟",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-7",
+            "text": "minute",
+            "role": "中心词",
+            "zh": "分钟"
+          }
+        ]
+      },
+      {
+        "id": "ud-8",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      },
+      {
+        "id": "ud-9",
+        "text": "Bob",
+        "role": "呼语",
+        "zh": "Bob"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentRole": "助动词",
+        "componentZh": "能"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "2": {
+        "text": "come",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "zh": "来",
+        "componentRole": "谓语",
+        "componentZh": "来"
+      },
+      "3": {
+        "text": "here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentRole": "地点状语",
+        "componentZh": "这里"
+      },
+      "4": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "a minute",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "一个；分钟"
+      },
+      "5": {
+        "text": "minute",
+        "phonetic": "ˈmɪnɪt",
+        "pos": "NOUN",
+        "zh": "分钟",
+        "componentRole": "中心词",
+        "componentZh": "分钟",
+        "parentComponentText": "a minute",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "一个；分钟"
+      },
+      "6": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      },
+      "8": {
+        "text": "Bob",
+        "phonetic": "bɑːb",
+        "pos": "PROPN_PERSON",
+        "zh": "Bob",
+        "componentRole": "呼语",
+        "componentZh": "Bob"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ywz8wxiutr3gc85dagmnlnsx-1",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ywz8wxiutr3gc85dagmnlnsx-1",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "能",
+    "audioText": "Can",
+    "fullEnglish": "Can",
+    "phonetic": "kæn",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Can",
+        "answer": "Can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "Can"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ywz8wxiutr3gc85dagmnlnsx-2",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ywz8wxiutr3gc85dagmnlnsx-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ywz8wxiutr3gc85dagmnlnsx-3",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ywz8wxiutr3gc85dagmnlnsx-3",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "来",
+    "audioText": "come",
+    "fullEnglish": "come",
+    "phonetic": "kʌm",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "come",
+        "answer": "come",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "来",
+        "phonetic": "kʌm",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "come"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "come",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "zh": "来",
+        "componentZh": "来"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ywz8wxiutr3gc85dagmnlnsx-4",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ywz8wxiutr3gc85dagmnlnsx-4",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这里",
+    "audioText": "here",
+    "fullEnglish": "here",
+    "phonetic": "hɪr",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "here",
+        "answer": "here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "here"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentZh": "这里"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ywz8wxiutr3gc85dagmnlnsx-5",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ywz8wxiutr3gc85dagmnlnsx-5",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个",
+    "audioText": "a",
+    "fullEnglish": "a",
+    "phonetic": "ə; eɪ",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "a"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ywz8wxiutr3gc85dagmnlnsx-6",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ywz8wxiutr3gc85dagmnlnsx-6",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "分钟",
+    "audioText": "minute",
+    "fullEnglish": "minute",
+    "phonetic": "ˈmɪnɪt",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "minute",
+        "answer": "minute",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "分钟",
+        "phonetic": "ˈmɪnɪt",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "minute"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "minute",
+        "phonetic": "ˈmɪnɪt",
+        "pos": "NOUN",
+        "zh": "分钟",
+        "componentZh": "分钟"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ywz8wxiutr3gc85dagmnlnsx-7",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ywz8wxiutr3gc85dagmnlnsx-7",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请",
+    "audioText": "please",
+    "fullEnglish": "please",
+    "phonetic": "pliːz",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "please"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentZh": "请"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-SENTENCE-xyeozfja8ikunvh5wltmf8yo",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-SENTENCE-xyeozfja8ikunvh5wltmf8yo",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Bob!",
+    "audioText": "Bob",
+    "fullEnglish": "Bob",
+    "phonetic": "bɑːb",
+    "pos": "PROPN_PERSON",
+    "sentenceType": "",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Bob",
+        "answer": "Bob",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "w1",
+        "role": "",
+        "zh": "Bob",
+        "phonetic": "bɑːb",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Bob"
+    ],
+    "componentTree": [
+      {
+        "id": "w1",
+        "text": "Bob",
+        "role": "",
+        "zh": ""
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Bob",
+        "phonetic": "bɑːb",
+        "pos": "PROPN_PERSON",
+        "zh": "Bob",
+        "componentRole": "",
+        "componentZh": "Bob"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-S-gxj3jz06dzffd6iibvp2drq0",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-S-gxj3jz06dzffd6iibvp2drq0",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的，先生？",
+    "audioText": "Yes, sir?",
+    "fullEnglish": "Yes, sir?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，先生？"
+      },
+      {
+        "index": 2,
+        "text": "sir",
+        "answer": "sir",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "先生",
+        "phonetic": "sɜːr",
+        "pos": "NOUN"
+      },
+      {
+        "index": 3,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，先生？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes",
+      "sir"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yes",
+        "role": "语气/引导语",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "sir",
+        "role": "中心成分",
+        "zh": "先生"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentRole": "语气/引导语",
+        "componentZh": "是的"
+      },
+      "2": {
+        "text": "sir",
+        "phonetic": "sɜːr",
+        "pos": "NOUN",
+        "zh": "先生",
+        "componentRole": "中心成分",
+        "componentZh": "先生"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-gxj3jz06dzffd6iibvp2drq0-1",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-gxj3jz06dzffd6iibvp2drq0-1",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的",
+    "audioText": "Yes",
+    "fullEnglish": "Yes",
+    "phonetic": "jes",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-gxj3jz06dzffd6iibvp2drq0-2",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-gxj3jz06dzffd6iibvp2drq0-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "先生",
+    "audioText": "sir",
+    "fullEnglish": "sir",
+    "phonetic": "sɜːr",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "sir",
+        "answer": "sir",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "先生",
+        "phonetic": "sɜːr",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "sir"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "sir",
+        "phonetic": "sɜːr",
+        "pos": "NOUN",
+        "zh": "先生",
+        "componentZh": "先生"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-S-gjr9dkw9edanfrfj872tq77r",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-S-gjr9dkw9edanfrfj872tq77r",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Pamela在哪里？",
+    "audioText": "Where's Pamela?",
+    "fullEnglish": "Where's Pamela?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Where's",
+        "answer": "Where's",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "系动词 + 表语",
+        "zh": "在哪里",
+        "phonetic": "wɛrz",
+        "pos": "ADV"
+      },
+      {
+        "index": 1,
+        "text": "Pamela",
+        "answer": "Pamela",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "Pamela？",
+        "phonetic": "ˈpæmələ",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 2,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Pamela在哪里？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Where's",
+      "Pamela"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Where's",
+        "role": "系动词 + 表语",
+        "zh": "在哪里"
+      },
+      {
+        "id": "ud-2",
+        "text": "Pamela",
+        "role": "主语",
+        "zh": "Pamela？"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Where's",
+        "phonetic": "wɛrz",
+        "pos": "ADV",
+        "zh": "在哪里",
+        "componentRole": "系动词 + 表语",
+        "componentZh": "在哪里"
+      },
+      "1": {
+        "text": "Pamela",
+        "phonetic": "ˈpæmələ",
+        "pos": "PROPN_PERSON",
+        "zh": "Pamela？",
+        "componentRole": "主语",
+        "componentZh": "Pamela？"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-gjr9dkw9edanfrfj872tq77r-1",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-gjr9dkw9edanfrfj872tq77r-1",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在哪里",
+    "audioText": "Where's",
+    "fullEnglish": "Where's",
+    "phonetic": "wɛrz",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Where's",
+        "answer": "Where's",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "在哪里",
+        "phonetic": "wɛrz",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "Where's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Where's",
+        "phonetic": "wɛrz",
+        "pos": "ADV",
+        "zh": "在哪里",
+        "componentZh": "在哪里"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-gjr9dkw9edanfrfj872tq77r-2",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-gjr9dkw9edanfrfj872tq77r-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Pamela",
+    "audioText": "Pamela",
+    "fullEnglish": "Pamela",
+    "phonetic": "ˈpæmələ",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Pamela",
+        "answer": "Pamela",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "Pamela？",
+        "phonetic": "ˈpæmələ",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Pamela"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Pamela",
+        "phonetic": "ˈpæmələ",
+        "pos": "PROPN_PERSON",
+        "zh": "Pamela？",
+        "componentZh": "Pamela？"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-S-kqdu1gcyrbpgmgbujn50n00o",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-S-kqdu1gcyrbpgmgbujn50n00o",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她在隔壁。",
+    "audioText": "She's next door",
+    "fullEnglish": "She's next door",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "next",
+        "answer": "next",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "补充成分",
+        "zh": "下一个",
+        "phonetic": "nekst",
+        "pos": "ADJ"
+      },
+      {
+        "index": 2,
+        "text": "door",
+        "answer": "door",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "门",
+        "phonetic": "dɔr",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "next",
+      "She's",
+      "door"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-2",
+        "text": "next",
+        "role": "补充成分",
+        "zh": "下一个"
+      },
+      {
+        "id": "ud-3",
+        "text": "door",
+        "role": "表语",
+        "zh": "门"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "她是"
+      },
+      "1": {
+        "text": "next",
+        "phonetic": "nekst",
+        "pos": "ADJ",
+        "zh": "下一个",
+        "componentRole": "补充成分",
+        "componentZh": "下一个"
+      },
+      "2": {
+        "text": "door",
+        "phonetic": "dɔr",
+        "pos": "NOUN",
+        "zh": "门",
+        "componentRole": "表语",
+        "componentZh": "门"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-kqdu1gcyrbpgmgbujn50n00o-1",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-kqdu1gcyrbpgmgbujn50n00o-1",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她是",
+    "audioText": "She's",
+    "fullEnglish": "She's",
+    "phonetic": "ʃiːz",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "She's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentZh": "她是"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-kqdu1gcyrbpgmgbujn50n00o-2",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-kqdu1gcyrbpgmgbujn50n00o-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "下一个的",
+    "audioText": "next",
+    "fullEnglish": "next",
+    "phonetic": "nekst",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "next",
+        "answer": "next",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "下一个",
+        "phonetic": "nekst",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "next"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "next",
+        "phonetic": "nekst",
+        "pos": "ADJ",
+        "zh": "下一个",
+        "componentZh": "下一个"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-kqdu1gcyrbpgmgbujn50n00o-3",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-kqdu1gcyrbpgmgbujn50n00o-3",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "门",
+    "audioText": "door",
+    "fullEnglish": "door",
+    "phonetic": "dɔr",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "door",
+        "answer": "door",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "门",
+        "phonetic": "dɔr",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "door"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "door",
+        "phonetic": "dɔr",
+        "pos": "NOUN",
+        "zh": "门",
+        "componentZh": "门"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-S-q2b89vj70qmpuqxghvu6bc11",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-S-q2b89vj70qmpuqxghvu6bc11",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她在她的办公室，先生。",
+    "audioText": "She's in her office, sir",
+    "fullEnglish": "She's in her office, sir",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "补充成分",
+        "zh": "在...里",
+        "phonetic": "ɪn",
+        "pos": "ADP"
+      },
+      {
+        "index": 2,
+        "text": "her",
+        "answer": "her",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "补充成分",
+        "zh": "她",
+        "phonetic": "hɚ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "office",
+        "answer": "office",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "表语",
+        "zh": "办公室",
+        "phonetic": "ˈɑːfɪs",
+        "pos": "NOUN"
+      },
+      {
+        "index": 4,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "她在她的办公室，先生。"
+      },
+      {
+        "index": 5,
+        "text": "sir",
+        "answer": "sir",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "时间状语",
+        "zh": "先生",
+        "phonetic": "sɜːr",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "her",
+      "office",
+      "She's",
+      "sir",
+      "in"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-2",
+        "text": "in",
+        "role": "补充成分",
+        "zh": "在...里"
+      },
+      {
+        "id": "ud-3",
+        "text": "her",
+        "role": "补充成分",
+        "zh": "她"
+      },
+      {
+        "id": "ud-4",
+        "text": "office",
+        "role": "表语",
+        "zh": "办公室"
+      },
+      {
+        "id": "ud-5",
+        "text": "sir",
+        "role": "时间状语",
+        "zh": "先生"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "她是"
+      },
+      "1": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在...里",
+        "componentRole": "补充成分",
+        "componentZh": "在...里"
+      },
+      "2": {
+        "text": "her",
+        "phonetic": "hɚ",
+        "pos": "PRON",
+        "zh": "她",
+        "componentRole": "补充成分",
+        "componentZh": "她"
+      },
+      "3": {
+        "text": "office",
+        "phonetic": "ˈɑːfɪs",
+        "pos": "NOUN",
+        "zh": "办公室",
+        "componentRole": "表语",
+        "componentZh": "办公室"
+      },
+      "5": {
+        "text": "sir",
+        "phonetic": "sɜːr",
+        "pos": "NOUN",
+        "zh": "先生",
+        "componentRole": "时间状语",
+        "componentZh": "先生"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-q2b89vj70qmpuqxghvu6bc11-2",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-q2b89vj70qmpuqxghvu6bc11-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在",
+    "audioText": "in",
+    "fullEnglish": "in",
+    "phonetic": "ɪn",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...里",
+        "phonetic": "ɪn",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "in"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在...里",
+        "componentZh": "在...里"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-q2b89vj70qmpuqxghvu6bc11-3",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-q2b89vj70qmpuqxghvu6bc11-3",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她的",
+    "audioText": "her",
+    "fullEnglish": "her",
+    "phonetic": "hɚ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "her",
+        "answer": "her",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "她",
+        "phonetic": "hɚ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "her"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "her",
+        "phonetic": "hɚ",
+        "pos": "PRON",
+        "zh": "她",
+        "componentZh": "她"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-q2b89vj70qmpuqxghvu6bc11-4",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-q2b89vj70qmpuqxghvu6bc11-4",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "办公室",
+    "audioText": "office",
+    "fullEnglish": "office",
+    "phonetic": "ˈɑːfɪs",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "office",
+        "answer": "office",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "办公室",
+        "phonetic": "ˈɑːfɪs",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "office"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "office",
+        "phonetic": "ˈɑːfɪs",
+        "pos": "NOUN",
+        "zh": "办公室",
+        "componentZh": "办公室"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-S-g2j21wsjiarkrf493qu5qbel",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-S-g2j21wsjiarkrf493qu5qbel",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她能帮我打这封信吗？请问她一下。",
+    "audioText": "Can she type this letter for me? Ask her please",
+    "fullEnglish": "Can she type this letter for me? Ask her please",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Can",
+        "answer": "Can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "she",
+        "answer": "she",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "她",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "type",
+        "answer": "type",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "打字",
+        "phonetic": "taɪp",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      },
+      {
+        "index": 4,
+        "text": "letter",
+        "answer": "letter",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "信",
+        "phonetic": "ˈletər",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      },
+      {
+        "index": 5,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "介词",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "for me",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "为了；我"
+      },
+      {
+        "index": 6,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "中心词",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "me",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "我"
+      },
+      {
+        "index": 7,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "她能帮我打这封信吗？请问她一下。"
+      },
+      {
+        "index": 8,
+        "text": "Ask",
+        "answer": "Ask",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "谓语",
+        "zh": "问",
+        "phonetic": "æsk",
+        "pos": "VERB"
+      },
+      {
+        "index": 9,
+        "text": "her",
+        "answer": "her",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-12",
+        "role": "间接宾语",
+        "zh": "她",
+        "phonetic": "hɚ",
+        "pos": "PRON"
+      },
+      {
+        "index": 10,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-13",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "she",
+      "letter",
+      "Ask",
+      "for",
+      "please",
+      "her",
+      "this",
+      "me",
+      "type",
+      "Can"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-2",
+        "text": "she",
+        "role": "主语",
+        "zh": "她"
+      },
+      {
+        "id": "ud-3",
+        "text": "type",
+        "role": "谓语",
+        "zh": "打字"
+      },
+      {
+        "id": "ud-4",
+        "text": "this letter",
+        "role": "宾语",
+        "zh": "这个；信",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "this",
+            "role": "限定词",
+            "zh": "这个"
+          },
+          {
+            "id": "ud-6",
+            "text": "letter",
+            "role": "中心词",
+            "zh": "信"
+          }
+        ]
+      },
+      {
+        "id": "ud-7",
+        "text": "for me",
+        "role": "介词短语/状语",
+        "zh": "为了；我",
+        "children": [
+          {
+            "id": "ud-8",
+            "text": "for",
+            "role": "介词",
+            "zh": "为了"
+          },
+          {
+            "id": "ud-9",
+            "text": "me",
+            "role": "介词宾语",
+            "zh": "我",
+            "children": [
+              {
+                "id": "ud-10",
+                "text": "me",
+                "role": "中心词",
+                "zh": "我"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ud-11",
+        "text": "Ask",
+        "role": "谓语",
+        "zh": "问"
+      },
+      {
+        "id": "ud-12",
+        "text": "her",
+        "role": "间接宾语",
+        "zh": "她"
+      },
+      {
+        "id": "ud-13",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentRole": "助动词",
+        "componentZh": "能"
+      },
+      "1": {
+        "text": "she",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON",
+        "zh": "她",
+        "componentRole": "主语",
+        "componentZh": "她"
+      },
+      "2": {
+        "text": "type",
+        "phonetic": "taɪp",
+        "pos": "VERB",
+        "zh": "打字",
+        "componentRole": "谓语",
+        "componentZh": "打字"
+      },
+      "3": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentRole": "限定词",
+        "componentZh": "这个",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      },
+      "4": {
+        "text": "letter",
+        "phonetic": "ˈletər",
+        "pos": "NOUN",
+        "zh": "信",
+        "componentRole": "中心词",
+        "componentZh": "信",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      },
+      "5": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentRole": "介词",
+        "componentZh": "为了",
+        "parentComponentText": "for me",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "为了；我"
+      },
+      "6": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "中心词",
+        "componentZh": "我",
+        "parentComponentText": "me",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "我"
+      },
+      "8": {
+        "text": "Ask",
+        "phonetic": "æsk",
+        "pos": "VERB",
+        "zh": "问",
+        "componentRole": "谓语",
+        "componentZh": "问"
+      },
+      "9": {
+        "text": "her",
+        "phonetic": "hɚ",
+        "pos": "PRON",
+        "zh": "她",
+        "componentRole": "间接宾语",
+        "componentZh": "她"
+      },
+      "10": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-g2j21wsjiarkrf493qu5qbel-2",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-g2j21wsjiarkrf493qu5qbel-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她",
+    "audioText": "she",
+    "fullEnglish": "she",
+    "phonetic": "ʃiː; ʃi",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "she",
+        "answer": "she",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "她",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "she"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "she",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON",
+        "zh": "她",
+        "componentZh": "她"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-g2j21wsjiarkrf493qu5qbel-3",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-g2j21wsjiarkrf493qu5qbel-3",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "打字",
+    "audioText": "type",
+    "fullEnglish": "type",
+    "phonetic": "taɪp",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "type",
+        "answer": "type",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "打字",
+        "phonetic": "taɪp",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "type"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "type",
+        "phonetic": "taɪp",
+        "pos": "VERB",
+        "zh": "打字",
+        "componentZh": "打字"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-g2j21wsjiarkrf493qu5qbel-4",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-g2j21wsjiarkrf493qu5qbel-4",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这个",
+    "audioText": "this",
+    "fullEnglish": "this",
+    "phonetic": "ðɪs",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "this"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentZh": "这个"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-g2j21wsjiarkrf493qu5qbel-5",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-g2j21wsjiarkrf493qu5qbel-5",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "信",
+    "audioText": "letter",
+    "fullEnglish": "letter",
+    "phonetic": "ˈletər",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "letter",
+        "answer": "letter",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "信",
+        "phonetic": "ˈletər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "letter"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "letter",
+        "phonetic": "ˈletər",
+        "pos": "NOUN",
+        "zh": "信",
+        "componentZh": "信"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-g2j21wsjiarkrf493qu5qbel-6",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-g2j21wsjiarkrf493qu5qbel-6",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "为",
+    "audioText": "for",
+    "fullEnglish": "for",
+    "phonetic": "fɔːr; fər",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "for"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentZh": "为了"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-g2j21wsjiarkrf493qu5qbel-7",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-g2j21wsjiarkrf493qu5qbel-7",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "me",
+    "fullEnglish": "me",
+    "phonetic": "miː",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "me"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-g2j21wsjiarkrf493qu5qbel-8",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-g2j21wsjiarkrf493qu5qbel-8",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "问",
+    "audioText": "Ask",
+    "fullEnglish": "Ask",
+    "phonetic": "æsk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Ask",
+        "answer": "Ask",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "问",
+        "phonetic": "æsk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Ask"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Ask",
+        "phonetic": "æsk",
+        "pos": "VERB",
+        "zh": "问",
+        "componentZh": "问"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-S-ex1gejoc8tmnehczmjh9wd5p",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-S-ex1gejoc8tmnehczmjh9wd5p",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Pamela，你能帮老板打这封信吗？",
+    "audioText": "Can you type this letter for the boss please, Pamela?",
+    "fullEnglish": "Can you type this letter for the boss please, Pamela?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Can",
+        "answer": "Can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "type",
+        "answer": "type",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "打字",
+        "phonetic": "taɪp",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      },
+      {
+        "index": 4,
+        "text": "letter",
+        "answer": "letter",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "信",
+        "phonetic": "ˈletər",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      },
+      {
+        "index": 5,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "介词",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "for the boss",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "为了；定冠词；老板"
+      },
+      {
+        "index": 6,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "the boss",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；老板"
+      },
+      {
+        "index": 7,
+        "text": "boss",
+        "answer": "boss",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "中心词",
+        "zh": "老板",
+        "phonetic": "bɔːs",
+        "pos": "NOUN",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "the boss",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；老板"
+      },
+      {
+        "index": 8,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-12",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      },
+      {
+        "index": 9,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Pamela，你能帮老板打这封信吗？"
+      },
+      {
+        "index": 10,
+        "text": "Pamela",
+        "answer": "Pamela",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-13",
+        "role": "呼语",
+        "zh": "Pamela？",
+        "phonetic": "ˈpæmələ",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 11,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Pamela，你能帮老板打这封信吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Can",
+      "letter",
+      "this",
+      "for",
+      "type",
+      "Pamela",
+      "the",
+      "please",
+      "you",
+      "boss"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "type",
+        "role": "谓语",
+        "zh": "打字"
+      },
+      {
+        "id": "ud-4",
+        "text": "this letter",
+        "role": "宾语",
+        "zh": "这个；信",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "this",
+            "role": "限定词",
+            "zh": "这个"
+          },
+          {
+            "id": "ud-6",
+            "text": "letter",
+            "role": "中心词",
+            "zh": "信"
+          }
+        ]
+      },
+      {
+        "id": "ud-7",
+        "text": "for the boss",
+        "role": "介词短语/状语",
+        "zh": "为了；定冠词；老板",
+        "children": [
+          {
+            "id": "ud-8",
+            "text": "for",
+            "role": "介词",
+            "zh": "为了"
+          },
+          {
+            "id": "ud-9",
+            "text": "the boss",
+            "role": "介词宾语",
+            "zh": "定冠词；老板",
+            "children": [
+              {
+                "id": "ud-10",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-11",
+                "text": "boss",
+                "role": "中心词",
+                "zh": "老板"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ud-12",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      },
+      {
+        "id": "ud-13",
+        "text": "Pamela",
+        "role": "呼语",
+        "zh": "Pamela？"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentRole": "助动词",
+        "componentZh": "能"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "2": {
+        "text": "type",
+        "phonetic": "taɪp",
+        "pos": "VERB",
+        "zh": "打字",
+        "componentRole": "谓语",
+        "componentZh": "打字"
+      },
+      "3": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentRole": "限定词",
+        "componentZh": "这个",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      },
+      "4": {
+        "text": "letter",
+        "phonetic": "ˈletər",
+        "pos": "NOUN",
+        "zh": "信",
+        "componentRole": "中心词",
+        "componentZh": "信",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      },
+      "5": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentRole": "介词",
+        "componentZh": "为了",
+        "parentComponentText": "for the boss",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "为了；定冠词；老板"
+      },
+      "6": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the boss",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；老板"
+      },
+      "7": {
+        "text": "boss",
+        "phonetic": "bɔːs",
+        "pos": "NOUN",
+        "zh": "老板",
+        "componentRole": "中心词",
+        "componentZh": "老板",
+        "parentComponentText": "the boss",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；老板"
+      },
+      "8": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      },
+      "10": {
+        "text": "Pamela",
+        "phonetic": "ˈpæmələ",
+        "pos": "PROPN_PERSON",
+        "zh": "Pamela？",
+        "componentRole": "呼语",
+        "componentZh": "Pamela？"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ex1gejoc8tmnehczmjh9wd5p-7",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ex1gejoc8tmnehczmjh9wd5p-7",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "the",
+    "fullEnglish": "the",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "the"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ex1gejoc8tmnehczmjh9wd5p-8",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ex1gejoc8tmnehczmjh9wd5p-8",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "老板",
+    "audioText": "boss",
+    "fullEnglish": "boss",
+    "phonetic": "bɔːs",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "boss",
+        "answer": "boss",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "老板",
+        "phonetic": "bɔːs",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "boss"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "boss",
+        "phonetic": "bɔːs",
+        "pos": "NOUN",
+        "zh": "老板",
+        "componentZh": "老板"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-S-ckcymqhxslnn7vx30zm0972h",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-S-ckcymqhxslnn7vx30zm0972h",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的，我当然可以。",
+    "audioText": "Yes, of course I can",
+    "fullEnglish": "Yes, of course I can",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，我当然可以。"
+      },
+      {
+        "index": 2,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "的",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "of course",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "的；当然"
+      },
+      {
+        "index": 3,
+        "text": "course",
+        "answer": "course",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "修饰语",
+        "zh": "当然",
+        "phonetic": "kɔːrs",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "of course",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "的；当然"
+      },
+      {
+        "index": 4,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "谓语",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes",
+      "can",
+      "I",
+      "of",
+      "course"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yes",
+        "role": "语气/引导语",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "of course",
+        "role": "方式/程度状语",
+        "zh": "的；当然",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "of",
+            "role": "中心词",
+            "zh": "的"
+          },
+          {
+            "id": "ud-4",
+            "text": "course",
+            "role": "修饰语",
+            "zh": "当然"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-6",
+        "text": "can",
+        "role": "谓语",
+        "zh": "能"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentRole": "语气/引导语",
+        "componentZh": "是的"
+      },
+      "2": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "的",
+        "componentRole": "中心词",
+        "componentZh": "的",
+        "parentComponentText": "of course",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "的；当然"
+      },
+      "3": {
+        "text": "course",
+        "phonetic": "kɔːrs",
+        "pos": "NOUN",
+        "zh": "当然",
+        "componentRole": "修饰语",
+        "componentZh": "当然",
+        "parentComponentText": "of course",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "的；当然"
+      },
+      "4": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "5": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentRole": "谓语",
+        "componentZh": "能"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ckcymqhxslnn7vx30zm0972h-2",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ckcymqhxslnn7vx30zm0972h-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "的",
+    "audioText": "of",
+    "fullEnglish": "of",
+    "phonetic": "ʌv",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "的",
+        "phonetic": "ʌv",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "of"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "的",
+        "componentZh": "的"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ckcymqhxslnn7vx30zm0972h-3",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ckcymqhxslnn7vx30zm0972h-3",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "当然",
+    "audioText": "course",
+    "fullEnglish": "course",
+    "phonetic": "kɔːrs",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "course",
+        "answer": "course",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "当然",
+        "phonetic": "kɔːrs",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "course"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "course",
+        "phonetic": "kɔːrs",
+        "pos": "NOUN",
+        "zh": "当然",
+        "componentZh": "当然"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ckcymqhxslnn7vx30zm0972h-4",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ckcymqhxslnn7vx30zm0972h-4",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-S-iurmwvs43lk541mnet8o0zsf",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-S-iurmwvs43lk541mnet8o0zsf",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "给你。",
+    "audioText": "Here you are",
+    "fullEnglish": "Here you are",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Here",
+        "answer": "Here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "表语",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "修饰语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "you are",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "你；是"
+      },
+      {
+        "index": 2,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "是",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "you are",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "你；是"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "are",
+      "Here"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Here",
+        "role": "表语",
+        "zh": "这里"
+      },
+      {
+        "id": "ud-2",
+        "text": "you are",
+        "role": "系动词",
+        "zh": "你；是",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "you",
+            "role": "修饰语",
+            "zh": "你"
+          },
+          {
+            "id": "ud-4",
+            "text": "are",
+            "role": "中心词",
+            "zh": "是"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentRole": "表语",
+        "componentZh": "这里"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "修饰语",
+        "componentZh": "你",
+        "parentComponentText": "you are",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "你；是"
+      },
+      "2": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "中心词",
+        "componentZh": "是",
+        "parentComponentText": "you are",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "你；是"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-iurmwvs43lk541mnet8o0zsf-3",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-iurmwvs43lk541mnet8o0zsf-3",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "are",
+    "fullEnglish": "are",
+    "phonetic": "ɑr",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɑr",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "are"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-S-ywf15crnkdyshd3jr19qm0rg",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-S-ywf15crnkdyshd3jr19qm0rg",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "谢谢你，Bob。",
+    "audioText": "Thank you, Bob",
+    "fullEnglish": "Thank you, Bob",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Thank",
+        "answer": "Thank",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "感谢",
+        "phonetic": "θæŋk",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "宾语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "谢谢你，Bob。"
+      },
+      {
+        "index": 3,
+        "text": "Bob",
+        "answer": "Bob",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "呼语",
+        "zh": "Bob",
+        "phonetic": "bɑːb",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Thank",
+      "Bob",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Thank",
+        "role": "谓语",
+        "zh": "感谢"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "宾语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "Bob",
+        "role": "呼语",
+        "zh": "Bob"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Thank",
+        "phonetic": "θæŋk",
+        "pos": "VERB",
+        "zh": "感谢",
+        "componentRole": "谓语",
+        "componentZh": "感谢"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "宾语",
+        "componentZh": "你"
+      },
+      "3": {
+        "text": "Bob",
+        "phonetic": "bɑːb",
+        "pos": "PROPN_PERSON",
+        "zh": "Bob",
+        "componentRole": "呼语",
+        "componentZh": "Bob"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ywf15crnkdyshd3jr19qm0rg-1",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-ywf15crnkdyshd3jr19qm0rg-1",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "感谢",
+    "audioText": "Thank",
+    "fullEnglish": "Thank",
+    "phonetic": "θæŋk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Thank",
+        "answer": "Thank",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "感谢",
+        "phonetic": "θæŋk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Thank"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Thank",
+        "phonetic": "θæŋk",
+        "pos": "VERB",
+        "zh": "感谢",
+        "componentZh": "感谢"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-S-xutpaozxa45x6iw9vsfz9xph",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-S-xutpaozxa45x6iw9vsfz9xph",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Bob!",
+    "audioText": "Bob!",
+    "fullEnglish": "Bob!",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Bob",
+        "answer": "Bob",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "Bob",
+        "phonetic": "bɑːb",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 1,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Bob!"
+      }
+    ],
+    "shuffledBlocks": [
+      "Bob"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Bob",
+        "role": "中心成分",
+        "zh": "Bob"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Bob",
+        "phonetic": "bɑːb",
+        "pos": "PROPN_PERSON",
+        "zh": "Bob",
+        "componentRole": "中心成分",
+        "componentZh": "Bob"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-S-djaiir699od9ajwvmltqt60s",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-S-djaiir699od9ajwvmltqt60s",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么事？",
+    "audioText": "Yes?",
+    "fullEnglish": "Yes?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "什么事？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yes",
+        "role": "中心成分",
+        "zh": "是的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentRole": "中心成分",
+        "componentZh": "是的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-S-wla16mju3iu2cqthjgole58c",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-S-wla16mju3iu2cqthjgole58c",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "怎么了。",
+    "audioText": "What's the matter",
+    "fullEnglish": "What's the matter",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What's",
+        "answer": "What's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "动词",
+        "zh": "什么",
+        "phonetic": "wʌts",
+        "pos": "PRON",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "What's the matter",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "什么；定冠词；重要"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "What's the matter",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "什么；定冠词；重要"
+      },
+      {
+        "index": 2,
+        "text": "matter",
+        "answer": "matter",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "重要",
+        "phonetic": "ˈmætər",
+        "pos": "VERB",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "What's the matter",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "什么；定冠词；重要"
+      }
+    ],
+    "shuffledBlocks": [
+      "matter",
+      "What's",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What's",
+        "role": "中心成分",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "What's the matter",
+        "role": "主语",
+        "zh": "什么；定冠词；重要",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "What's",
+            "role": "动词",
+            "zh": "什么"
+          },
+          {
+            "id": "ud-4",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-5",
+            "text": "matter",
+            "role": "中心词",
+            "zh": "重要"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What's",
+        "phonetic": "wʌts",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "动词",
+        "componentZh": "什么",
+        "parentComponentText": "What's the matter",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "什么；定冠词；重要"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "What's the matter",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "什么；定冠词；重要"
+      },
+      "2": {
+        "text": "matter",
+        "phonetic": "ˈmætər",
+        "pos": "VERB",
+        "zh": "重要",
+        "componentRole": "中心词",
+        "componentZh": "重要",
+        "parentComponentText": "What's the matter",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "什么；定冠词；重要"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-wla16mju3iu2cqthjgole58c-1",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-wla16mju3iu2cqthjgole58c-1",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么",
+    "audioText": "What's",
+    "fullEnglish": "What's",
+    "phonetic": "wʌts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What's",
+        "answer": "What's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "What's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "What's",
+        "phonetic": "wʌts",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-wla16mju3iu2cqthjgole58c-3",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-wla16mju3iu2cqthjgole58c-3",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "问题",
+    "audioText": "matter",
+    "fullEnglish": "matter",
+    "phonetic": "ˈmætər",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "matter",
+        "answer": "matter",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "重要",
+        "phonetic": "ˈmætər",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "matter"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "matter",
+        "phonetic": "ˈmætər",
+        "pos": "VERB",
+        "zh": "重要",
+        "componentZh": "重要"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-S-b1ubs62na7u8z24kgc75pstk",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-S-b1ubs62na7u8z24kgc75pstk",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我无法输入这封信。",
+    "audioText": "I can't type this letter",
+    "fullEnglish": "I can't type this letter",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "can't",
+        "answer": "can't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不能",
+        "phonetic": "kænt",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "type",
+        "answer": "type",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "打字",
+        "phonetic": "taɪp",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      },
+      {
+        "index": 4,
+        "text": "letter",
+        "answer": "letter",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "信",
+        "phonetic": "ˈletər",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      }
+    ],
+    "shuffledBlocks": [
+      "can't",
+      "letter",
+      "this",
+      "I",
+      "type"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "can't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不能"
+      },
+      {
+        "id": "ud-3",
+        "text": "type",
+        "role": "谓语",
+        "zh": "打字"
+      },
+      {
+        "id": "ud-4",
+        "text": "this letter",
+        "role": "宾语",
+        "zh": "这个；信",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "this",
+            "role": "限定词",
+            "zh": "这个"
+          },
+          {
+            "id": "ud-6",
+            "text": "letter",
+            "role": "中心词",
+            "zh": "信"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "can't",
+        "phonetic": "kænt",
+        "pos": "AUX",
+        "zh": "不能",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "不能"
+      },
+      "2": {
+        "text": "type",
+        "phonetic": "taɪp",
+        "pos": "VERB",
+        "zh": "打字",
+        "componentRole": "谓语",
+        "componentZh": "打字"
+      },
+      "3": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentRole": "限定词",
+        "componentZh": "这个",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      },
+      "4": {
+        "text": "letter",
+        "phonetic": "ˈletər",
+        "pos": "NOUN",
+        "zh": "信",
+        "componentRole": "中心词",
+        "componentZh": "信",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-b1ubs62na7u8z24kgc75pstk-2",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-b1ubs62na7u8z24kgc75pstk-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不能",
+    "audioText": "can't",
+    "fullEnglish": "can't",
+    "phonetic": "kænt",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "can't",
+        "answer": "can't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "不能",
+        "phonetic": "kænt",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "can't"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "can't",
+        "phonetic": "kænt",
+        "pos": "AUX",
+        "zh": "不能",
+        "componentZh": "不能"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-S-kqbck8f4iwunk2zn6tr3dnb4",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-S-kqbck8f4iwunk2zn6tr3dnb4",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我读不懂它！",
+    "audioText": "I can't read it!",
+    "fullEnglish": "I can't read it!",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "can't",
+        "answer": "can't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不能",
+        "phonetic": "kænt",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "read",
+        "answer": "read",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "读",
+        "phonetic": "riːd",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "宾语",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      },
+      {
+        "index": 4,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我读不懂它！"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "it",
+      "read",
+      "can't"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "can't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不能"
+      },
+      {
+        "id": "ud-3",
+        "text": "read",
+        "role": "谓语",
+        "zh": "读"
+      },
+      {
+        "id": "ud-4",
+        "text": "it",
+        "role": "宾语",
+        "zh": "它"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "can't",
+        "phonetic": "kænt",
+        "pos": "AUX",
+        "zh": "不能",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "不能"
+      },
+      "2": {
+        "text": "read",
+        "phonetic": "riːd",
+        "pos": "VERB",
+        "zh": "读",
+        "componentRole": "谓语",
+        "componentZh": "读"
+      },
+      "3": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentRole": "宾语",
+        "componentZh": "它"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-kqbck8f4iwunk2zn6tr3dnb4-3",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-kqbck8f4iwunk2zn6tr3dnb4-3",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "阅读",
+    "audioText": "read",
+    "fullEnglish": "read",
+    "phonetic": "riːd",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "read",
+        "answer": "read",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "读",
+        "phonetic": "riːd",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "read"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "read",
+        "phonetic": "riːd",
+        "pos": "VERB",
+        "zh": "读",
+        "componentZh": "读"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-kqbck8f4iwunk2zn6tr3dnb4-4",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-kqbck8f4iwunk2zn6tr3dnb4-4",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它",
+    "audioText": "it",
+    "fullEnglish": "it",
+    "phonetic": "ɪt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "it"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-S-du754zz5kd3926f0edpnsw6m",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-S-du754zz5kd3926f0edpnsw6m",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "老板的字迹太糟糕了！",
+    "audioText": "The boss's handwriting is terrible!",
+    "fullEnglish": "The boss's handwriting is terrible!",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "The",
+        "answer": "The",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "The boss's handwriting",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；老板的；笔迹"
+      },
+      {
+        "index": 1,
+        "text": "boss's",
+        "answer": "boss's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "老板的",
+        "phonetic": "bɑːsɪz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "The boss's handwriting",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；老板的；笔迹"
+      },
+      {
+        "index": 2,
+        "text": "handwriting",
+        "answer": "handwriting",
+        "blank": "___________",
+        "letterCount": 11,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "笔迹",
+        "phonetic": "ˈhændraɪtɪŋ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "The boss's handwriting",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；老板的；笔迹"
+      },
+      {
+        "index": 3,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 4,
+        "text": "terrible",
+        "answer": "terrible",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "表语",
+        "zh": "严重的",
+        "phonetic": "ˈterəb(ə)l",
+        "pos": "ADJ"
+      },
+      {
+        "index": 5,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "老板的字迹太糟糕了！"
+      }
+    ],
+    "shuffledBlocks": [
+      "handwriting",
+      "terrible",
+      "boss's",
+      "The",
+      "is"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "The boss's handwriting",
+        "role": "主语",
+        "zh": "定冠词；老板的；笔迹",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "The",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-3",
+            "text": "boss's",
+            "role": "限定词",
+            "zh": "老板的"
+          },
+          {
+            "id": "ud-4",
+            "text": "handwriting",
+            "role": "中心词",
+            "zh": "笔迹"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-6",
+        "text": "terrible",
+        "role": "表语",
+        "zh": "严重的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "The",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "The boss's handwriting",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；老板的；笔迹"
+      },
+      "1": {
+        "text": "boss's",
+        "phonetic": "bɑːsɪz",
+        "pos": "NOUN",
+        "zh": "老板的",
+        "componentRole": "限定词",
+        "componentZh": "老板的",
+        "parentComponentText": "The boss's handwriting",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；老板的；笔迹"
+      },
+      "2": {
+        "text": "handwriting",
+        "phonetic": "ˈhændraɪtɪŋ",
+        "pos": "NOUN",
+        "zh": "笔迹",
+        "componentRole": "中心词",
+        "componentZh": "笔迹",
+        "parentComponentText": "The boss's handwriting",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；老板的；笔迹"
+      },
+      "3": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "4": {
+        "text": "terrible",
+        "phonetic": "ˈterəb(ə)l",
+        "pos": "ADJ",
+        "zh": "严重的",
+        "componentRole": "表语",
+        "componentZh": "严重的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-du754zz5kd3926f0edpnsw6m-2",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-du754zz5kd3926f0edpnsw6m-2",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "老板的",
+    "audioText": "boss's",
+    "fullEnglish": "boss's",
+    "phonetic": "bɑːsɪz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "boss's",
+        "answer": "boss's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "老板的",
+        "phonetic": "bɑːsɪz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "boss's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "boss's",
+        "phonetic": "bɑːsɪz",
+        "pos": "NOUN",
+        "zh": "老板的",
+        "componentZh": "老板的"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-du754zz5kd3926f0edpnsw6m-3",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-du754zz5kd3926f0edpnsw6m-3",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "笔迹",
+    "audioText": "handwriting",
+    "fullEnglish": "handwriting",
+    "phonetic": "ˈhændraɪtɪŋ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "handwriting",
+        "answer": "handwriting",
+        "blank": "___________",
+        "letterCount": 11,
+        "fillable": true,
+        "type": "word",
+        "zh": "笔迹",
+        "phonetic": "ˈhændraɪtɪŋ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "handwriting"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "handwriting",
+        "phonetic": "ˈhændraɪtɪŋ",
+        "pos": "NOUN",
+        "zh": "笔迹",
+        "componentZh": "笔迹"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-du754zz5kd3926f0edpnsw6m-4",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-du754zz5kd3926f0edpnsw6m-4",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "is",
+    "fullEnglish": "is",
+    "phonetic": "ɪz",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "is"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-W-du754zz5kd3926f0edpnsw6m-5",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-W-du754zz5kd3926f0edpnsw6m-5",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "糟糕的",
+    "audioText": "terrible",
+    "fullEnglish": "terrible",
+    "phonetic": "ˈterəb(ə)l",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "terrible",
+        "answer": "terrible",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "严重的",
+        "phonetic": "ˈterəb(ə)l",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "terrible"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "terrible",
+        "phonetic": "ˈterəb(ə)l",
+        "pos": "ADJ",
+        "zh": "严重的",
+        "componentZh": "严重的"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-ais241ntf61e3tkk3dms1195",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-ais241ntf61e3tkk3dms1195",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "过来",
+    "audioText": "come here",
+    "fullEnglish": "come here",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "come",
+        "answer": "come",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "来",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "here",
+        "answer": "here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "componentId": "ud-2",
+        "role": "地点状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "here",
+      "come"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "come",
+        "role": "谓语",
+        "zh": "来"
+      },
+      {
+        "id": "ud-2",
+        "text": "here",
+        "role": "地点状语",
+        "zh": "这里"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "come",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "zh": "来",
+        "componentZh": "来",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentZh": "这里",
+        "componentRole": "地点状语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-obs0fq365x75ez41jmb33x31",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-obs0fq365x75ez41jmb33x31",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一会儿",
+    "audioText": "a minute",
+    "fullEnglish": "a minute",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "minute",
+        "answer": "minute",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "分钟",
+        "phonetic": "ˈmɪnɪt",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "minute",
+      "a"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "a",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-2",
+        "text": "minute",
+        "role": "中心成分",
+        "zh": "分钟"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "minute",
+        "phonetic": "ˈmɪnɪt",
+        "pos": "NOUN",
+        "zh": "分钟",
+        "componentZh": "分钟",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-bysnn45hv5bb9pvbuum6yhe0",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-bysnn45hv5bb9pvbuum6yhe0",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你能过来一下吗",
+    "audioText": "Can you come here a minute please",
+    "fullEnglish": "Can you come here a minute please",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Can",
+        "answer": "Can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "come",
+        "answer": "come",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "来",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      },
+      {
+        "index": 3,
+        "text": "here",
+        "answer": "here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "componentId": "ud-4",
+        "role": "地点状语"
+      },
+      {
+        "index": 4,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "a minute",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "一个；分钟"
+      },
+      {
+        "index": 5,
+        "text": "minute",
+        "answer": "minute",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "分钟",
+        "phonetic": "ˈmɪnɪt",
+        "pos": "NOUN",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "a minute",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "一个；分钟"
+      },
+      {
+        "index": 6,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "componentId": "ud-8",
+        "role": "语气/引导语"
+      }
+    ],
+    "shuffledBlocks": [
+      "please",
+      "a",
+      "Can",
+      "you",
+      "minute",
+      "here",
+      "come"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "come",
+        "role": "谓语",
+        "zh": "来"
+      },
+      {
+        "id": "ud-4",
+        "text": "here",
+        "role": "地点状语",
+        "zh": "这里"
+      },
+      {
+        "id": "ud-5",
+        "text": "a minute",
+        "role": "时间状语",
+        "zh": "一个；分钟",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-7",
+            "text": "minute",
+            "role": "中心词",
+            "zh": "分钟"
+          }
+        ]
+      },
+      {
+        "id": "ud-8",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "come",
+        "phonetic": "kʌm",
+        "pos": "VERB",
+        "zh": "来",
+        "componentZh": "来",
+        "componentRole": "谓语"
+      },
+      "3": {
+        "text": "here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentZh": "这里",
+        "componentRole": "地点状语"
+      },
+      "4": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "限定词",
+        "parentComponentText": "a minute",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "一个；分钟"
+      },
+      "5": {
+        "text": "minute",
+        "phonetic": "ˈmɪnɪt",
+        "pos": "NOUN",
+        "zh": "分钟",
+        "componentZh": "分钟",
+        "componentRole": "中心词",
+        "parentComponentText": "a minute",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "一个；分钟"
+      },
+      "6": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentZh": "请",
+        "componentRole": "语气/引导语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-txakirben7pjc6g8y58w3xfm",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-txakirben7pjc6g8y58w3xfm",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Bob？",
+    "audioText": "Bob",
+    "fullEnglish": "Bob",
+    "phonetic": "bɑːb",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Bob",
+        "answer": "Bob",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "Bob",
+        "phonetic": "bɑːb",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "Bob"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Bob",
+        "role": "中心成分",
+        "zh": "Bob"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Bob",
+        "phonetic": "bɑːb",
+        "pos": "PROPN_PERSON",
+        "zh": "Bob",
+        "componentZh": "Bob",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-z93fi4w43goluk5vhdi1xh1o",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-z93fi4w43goluk5vhdi1xh1o",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "隔壁",
+    "audioText": "next door",
+    "fullEnglish": "next door",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "next",
+        "answer": "next",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "下一个",
+        "phonetic": "nekst",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "door",
+        "answer": "door",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "门",
+        "phonetic": "dɔr",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "door",
+      "next"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "next",
+        "role": "补充成分",
+        "zh": "下一个"
+      },
+      {
+        "id": "ud-2",
+        "text": "door",
+        "role": "中心成分",
+        "zh": "门"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "next",
+        "phonetic": "nekst",
+        "pos": "ADJ",
+        "zh": "下一个",
+        "componentZh": "下一个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "door",
+        "phonetic": "dɔr",
+        "pos": "NOUN",
+        "zh": "门",
+        "componentZh": "门",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-f8czto8iip008me4zwm2z9hs",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-f8czto8iip008me4zwm2z9hs",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她的办公室",
+    "audioText": "her office",
+    "fullEnglish": "her office",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "her",
+        "answer": "her",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "她",
+        "phonetic": "hɚ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "office",
+        "answer": "office",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "办公室",
+        "phonetic": "ˈɑːfɪs",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "office",
+      "her"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "her",
+        "role": "补充成分",
+        "zh": "她"
+      },
+      {
+        "id": "ud-2",
+        "text": "office",
+        "role": "中心成分",
+        "zh": "办公室"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "her",
+        "phonetic": "hɚ",
+        "pos": "PRON",
+        "zh": "她",
+        "componentZh": "她",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "office",
+        "phonetic": "ˈɑːfɪs",
+        "pos": "NOUN",
+        "zh": "办公室",
+        "componentZh": "办公室",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-ou5i3vkwlvnaf2zzwcknngpb",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-ou5i3vkwlvnaf2zzwcknngpb",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她在她的办公室",
+    "audioText": "She's in her office",
+    "fullEnglish": "She's in her office",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词"
+      },
+      {
+        "index": 1,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...里",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "her",
+        "answer": "her",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "她",
+        "phonetic": "hɚ",
+        "pos": "PRON",
+        "componentId": "ud-3",
+        "role": "补充成分"
+      },
+      {
+        "index": 3,
+        "text": "office",
+        "answer": "office",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "办公室",
+        "phonetic": "ˈɑːfɪs",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "in",
+      "office",
+      "her",
+      "She's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-2",
+        "text": "in",
+        "role": "补充成分",
+        "zh": "在...里"
+      },
+      {
+        "id": "ud-3",
+        "text": "her",
+        "role": "补充成分",
+        "zh": "她"
+      },
+      {
+        "id": "ud-4",
+        "text": "office",
+        "role": "表语",
+        "zh": "办公室"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentZh": "她是",
+        "componentRole": "主语 + 系动词"
+      },
+      "1": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在...里",
+        "componentZh": "在...里",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "her",
+        "phonetic": "hɚ",
+        "pos": "PRON",
+        "zh": "她",
+        "componentZh": "她",
+        "componentRole": "补充成分"
+      },
+      "3": {
+        "text": "office",
+        "phonetic": "ˈɑːfɪs",
+        "pos": "NOUN",
+        "zh": "办公室",
+        "componentZh": "办公室",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-xbjdrch0ipvslrjgch37na3p",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-xbjdrch0ipvslrjgch37na3p",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "先生",
+    "audioText": "sir",
+    "fullEnglish": "sir",
+    "phonetic": "sɜːr",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "sir",
+        "answer": "sir",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "先生",
+        "phonetic": "sɜːr",
+        "pos": "NOUN",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "sir"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "sir",
+        "role": "中心成分",
+        "zh": "先生"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "sir",
+        "phonetic": "sɜːr",
+        "pos": "NOUN",
+        "zh": "先生",
+        "componentZh": "先生",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-dk22ebevtxq2m881sdds5vso",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-dk22ebevtxq2m881sdds5vso",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这封信",
+    "audioText": "this letter",
+    "fullEnglish": "this letter",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "letter",
+        "answer": "letter",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "信",
+        "phonetic": "ˈletər",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "this",
+      "letter"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "this",
+        "role": "补充成分",
+        "zh": "这个"
+      },
+      {
+        "id": "ud-2",
+        "text": "letter",
+        "role": "中心成分",
+        "zh": "信"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentZh": "这个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "letter",
+        "phonetic": "ˈletər",
+        "pos": "NOUN",
+        "zh": "信",
+        "componentZh": "信",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-ybr0xaq2mhdwi4rmeabsjx5s",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-ybr0xaq2mhdwi4rmeabsjx5s",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "为我",
+    "audioText": "for me",
+    "fullEnglish": "for me",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "me",
+      "for"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "for",
+        "role": "补充成分",
+        "zh": "为了"
+      },
+      {
+        "id": "ud-2",
+        "text": "me",
+        "role": "中心成分",
+        "zh": "我"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentZh": "为了",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-miumedfz3f1kwb0uxt5sak8f",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-miumedfz3f1kwb0uxt5sak8f",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她能帮我打这封信吗？",
+    "audioText": "Can she type this letter for me",
+    "fullEnglish": "Can she type this letter for me",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Can",
+        "answer": "Can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "she",
+        "answer": "she",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "她",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "type",
+        "answer": "type",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "打字",
+        "phonetic": "taɪp",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      },
+      {
+        "index": 3,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      },
+      {
+        "index": 4,
+        "text": "letter",
+        "answer": "letter",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "信",
+        "phonetic": "ˈletər",
+        "pos": "NOUN",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      },
+      {
+        "index": 5,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "componentId": "ud-8",
+        "role": "介词",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "for me",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "为了；我"
+      },
+      {
+        "index": 6,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "componentId": "ud-10",
+        "role": "中心词",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "me",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "我"
+      }
+    ],
+    "shuffledBlocks": [
+      "type",
+      "for",
+      "Can",
+      "she",
+      "me",
+      "this",
+      "letter"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-2",
+        "text": "she",
+        "role": "主语",
+        "zh": "她"
+      },
+      {
+        "id": "ud-3",
+        "text": "type",
+        "role": "谓语",
+        "zh": "打字"
+      },
+      {
+        "id": "ud-4",
+        "text": "this letter",
+        "role": "宾语",
+        "zh": "这个；信",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "this",
+            "role": "限定词",
+            "zh": "这个"
+          },
+          {
+            "id": "ud-6",
+            "text": "letter",
+            "role": "中心词",
+            "zh": "信"
+          }
+        ]
+      },
+      {
+        "id": "ud-7",
+        "text": "for me",
+        "role": "介词短语/状语",
+        "zh": "为了；我",
+        "children": [
+          {
+            "id": "ud-8",
+            "text": "for",
+            "role": "介词",
+            "zh": "为了"
+          },
+          {
+            "id": "ud-9",
+            "text": "me",
+            "role": "介词宾语",
+            "zh": "我",
+            "children": [
+              {
+                "id": "ud-10",
+                "text": "me",
+                "role": "中心词",
+                "zh": "我"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "she",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON",
+        "zh": "她",
+        "componentZh": "她",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "type",
+        "phonetic": "taɪp",
+        "pos": "VERB",
+        "zh": "打字",
+        "componentZh": "打字",
+        "componentRole": "谓语"
+      },
+      "3": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentZh": "这个",
+        "componentRole": "限定词",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      },
+      "4": {
+        "text": "letter",
+        "phonetic": "ˈletər",
+        "pos": "NOUN",
+        "zh": "信",
+        "componentZh": "信",
+        "componentRole": "中心词",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      },
+      "5": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentZh": "为了",
+        "componentRole": "介词",
+        "parentComponentText": "for me",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "为了；我"
+      },
+      "6": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "中心词",
+        "parentComponentText": "me",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "我"
+      }
+    },
+    "sentenceType": "主谓宾结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-o7wtd48gh6d2rlopjkqedmdn",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-o7wtd48gh6d2rlopjkqedmdn",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请问她",
+    "audioText": "Ask her please",
+    "fullEnglish": "Ask her please",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Ask",
+        "answer": "Ask",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "问",
+        "phonetic": "æsk",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "her",
+        "answer": "her",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "她",
+        "phonetic": "hɚ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "间接宾语"
+      },
+      {
+        "index": 2,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "componentId": "ud-3",
+        "role": "语气/引导语"
+      }
+    ],
+    "shuffledBlocks": [
+      "her",
+      "please",
+      "Ask"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Ask",
+        "role": "谓语",
+        "zh": "问"
+      },
+      {
+        "id": "ud-2",
+        "text": "her",
+        "role": "间接宾语",
+        "zh": "她"
+      },
+      {
+        "id": "ud-3",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Ask",
+        "phonetic": "æsk",
+        "pos": "VERB",
+        "zh": "问",
+        "componentZh": "问",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "her",
+        "phonetic": "hɚ",
+        "pos": "PRON",
+        "zh": "她",
+        "componentZh": "她",
+        "componentRole": "间接宾语"
+      },
+      "2": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentZh": "请",
+        "componentRole": "语气/引导语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-r4obrfkm87swpd6vaud7apid",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-r4obrfkm87swpd6vaud7apid",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你能打这封信吗",
+    "audioText": "Can you type this letter",
+    "fullEnglish": "Can you type this letter",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Can",
+        "answer": "Can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "type",
+        "answer": "type",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "打字",
+        "phonetic": "taɪp",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      },
+      {
+        "index": 3,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      },
+      {
+        "index": 4,
+        "text": "letter",
+        "answer": "letter",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "信",
+        "phonetic": "ˈletər",
+        "pos": "NOUN",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      }
+    ],
+    "shuffledBlocks": [
+      "letter",
+      "this",
+      "you",
+      "Can",
+      "type"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "type",
+        "role": "谓语",
+        "zh": "打字"
+      },
+      {
+        "id": "ud-4",
+        "text": "this letter",
+        "role": "宾语",
+        "zh": "这个；信",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "this",
+            "role": "限定词",
+            "zh": "这个"
+          },
+          {
+            "id": "ud-6",
+            "text": "letter",
+            "role": "中心词",
+            "zh": "信"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "type",
+        "phonetic": "taɪp",
+        "pos": "VERB",
+        "zh": "打字",
+        "componentZh": "打字",
+        "componentRole": "谓语"
+      },
+      "3": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentZh": "这个",
+        "componentRole": "限定词",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      },
+      "4": {
+        "text": "letter",
+        "phonetic": "ˈletər",
+        "pos": "NOUN",
+        "zh": "信",
+        "componentZh": "信",
+        "componentRole": "中心词",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      }
+    },
+    "sentenceType": "主谓宾结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-o2phb81df1nto80xg4r8uxyu",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-o2phb81df1nto80xg4r8uxyu",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "老板",
+    "audioText": "the boss",
+    "fullEnglish": "the boss",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "boss",
+        "answer": "boss",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "老板",
+        "phonetic": "bɔːs",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "boss",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "boss",
+        "role": "中心成分",
+        "zh": "老板"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "boss",
+        "phonetic": "bɔːs",
+        "pos": "NOUN",
+        "zh": "老板",
+        "componentZh": "老板",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-ycdt7id3fz28j9qeha72rrf6",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-ycdt7id3fz28j9qeha72rrf6",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请为老板",
+    "audioText": "for the boss please",
+    "fullEnglish": "for the boss please",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "boss",
+        "answer": "boss",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "老板",
+        "phonetic": "bɔːs",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      },
+      {
+        "index": 3,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "componentId": "ud-4",
+        "role": "语气/引导语"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "please",
+      "boss",
+      "for"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "for",
+        "role": "补充成分",
+        "zh": "为了"
+      },
+      {
+        "id": "ud-2",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-3",
+        "text": "boss",
+        "role": "中心成分",
+        "zh": "老板"
+      },
+      {
+        "id": "ud-4",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentZh": "为了",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "boss",
+        "phonetic": "bɔːs",
+        "pos": "NOUN",
+        "zh": "老板",
+        "componentZh": "老板",
+        "componentRole": "中心成分"
+      },
+      "3": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentZh": "请",
+        "componentRole": "语气/引导语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-fs78z3o2wuuk1jgfdl8z66o0",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-fs78z3o2wuuk1jgfdl8z66o0",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你能帮老板打这封信吗？",
+    "audioText": "Can you type this letter for the boss please",
+    "fullEnglish": "Can you type this letter for the boss please",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Can",
+        "answer": "Can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "type",
+        "answer": "type",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "打字",
+        "phonetic": "taɪp",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      },
+      {
+        "index": 3,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      },
+      {
+        "index": 4,
+        "text": "letter",
+        "answer": "letter",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "信",
+        "phonetic": "ˈletər",
+        "pos": "NOUN",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      },
+      {
+        "index": 5,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "componentId": "ud-8",
+        "role": "介词",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "for the boss",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "为了；定冠词；老板"
+      },
+      {
+        "index": 6,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-10",
+        "role": "限定词",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "the boss",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；老板"
+      },
+      {
+        "index": 7,
+        "text": "boss",
+        "answer": "boss",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "老板",
+        "phonetic": "bɔːs",
+        "pos": "NOUN",
+        "componentId": "ud-11",
+        "role": "中心词",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "the boss",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；老板"
+      },
+      {
+        "index": 8,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "componentId": "ud-12",
+        "role": "语气/引导语"
+      }
+    ],
+    "shuffledBlocks": [
+      "type",
+      "this",
+      "for",
+      "boss",
+      "please",
+      "the",
+      "letter",
+      "Can",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "type",
+        "role": "谓语",
+        "zh": "打字"
+      },
+      {
+        "id": "ud-4",
+        "text": "this letter",
+        "role": "宾语",
+        "zh": "这个；信",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "this",
+            "role": "限定词",
+            "zh": "这个"
+          },
+          {
+            "id": "ud-6",
+            "text": "letter",
+            "role": "中心词",
+            "zh": "信"
+          }
+        ]
+      },
+      {
+        "id": "ud-7",
+        "text": "for the boss",
+        "role": "介词短语/状语",
+        "zh": "为了；定冠词；老板",
+        "children": [
+          {
+            "id": "ud-8",
+            "text": "for",
+            "role": "介词",
+            "zh": "为了"
+          },
+          {
+            "id": "ud-9",
+            "text": "the boss",
+            "role": "介词宾语",
+            "zh": "定冠词；老板",
+            "children": [
+              {
+                "id": "ud-10",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-11",
+                "text": "boss",
+                "role": "中心词",
+                "zh": "老板"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ud-12",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "type",
+        "phonetic": "taɪp",
+        "pos": "VERB",
+        "zh": "打字",
+        "componentZh": "打字",
+        "componentRole": "谓语"
+      },
+      "3": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentZh": "这个",
+        "componentRole": "限定词",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      },
+      "4": {
+        "text": "letter",
+        "phonetic": "ˈletər",
+        "pos": "NOUN",
+        "zh": "信",
+        "componentZh": "信",
+        "componentRole": "中心词",
+        "parentComponentText": "this letter",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；信"
+      },
+      "5": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentZh": "为了",
+        "componentRole": "介词",
+        "parentComponentText": "for the boss",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "为了；定冠词；老板"
+      },
+      "6": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "限定词",
+        "parentComponentText": "the boss",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；老板"
+      },
+      "7": {
+        "text": "boss",
+        "phonetic": "bɔːs",
+        "pos": "NOUN",
+        "zh": "老板",
+        "componentZh": "老板",
+        "componentRole": "中心词",
+        "parentComponentText": "the boss",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；老板"
+      },
+      "8": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentZh": "请",
+        "componentRole": "语气/引导语"
+      }
+    },
+    "sentenceType": "主谓宾结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-mys20f9if4jmvnu41eysv95t",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-mys20f9if4jmvnu41eysv95t",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Pamela？",
+    "audioText": "Pamela",
+    "fullEnglish": "Pamela",
+    "phonetic": "ˈpæmələ",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Pamela",
+        "answer": "Pamela",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "Pamela？",
+        "phonetic": "ˈpæmələ",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "Pamela"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Pamela",
+        "role": "中心成分",
+        "zh": "Pamela？"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Pamela",
+        "phonetic": "ˈpæmələ",
+        "pos": "PROPN_PERSON",
+        "zh": "Pamela？",
+        "componentZh": "Pamela？",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-rpbb30bi6gbkdn733c7pw322",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-rpbb30bi6gbkdn733c7pw322",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "当然",
+    "audioText": "of course",
+    "fullEnglish": "of course",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "的",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "componentId": "ud-2",
+        "role": "中心词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "of course",
+        "parentComponentRole": "中心成分",
+        "parentComponentZh": "的；当然"
+      },
+      {
+        "index": 1,
+        "text": "course",
+        "answer": "course",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "当然",
+        "phonetic": "kɔːrs",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "修饰语",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "of course",
+        "parentComponentRole": "中心成分",
+        "parentComponentZh": "的；当然"
+      }
+    ],
+    "shuffledBlocks": [
+      "of",
+      "course"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "of course",
+        "role": "中心成分",
+        "zh": "的；当然",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "of",
+            "role": "中心词",
+            "zh": "的"
+          },
+          {
+            "id": "ud-3",
+            "text": "course",
+            "role": "修饰语",
+            "zh": "当然"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "的",
+        "componentZh": "的",
+        "componentRole": "中心词",
+        "parentComponentText": "of course",
+        "parentComponentRole": "中心成分",
+        "parentComponentZh": "的；当然"
+      },
+      "1": {
+        "text": "course",
+        "phonetic": "kɔːrs",
+        "pos": "NOUN",
+        "zh": "当然",
+        "componentZh": "当然",
+        "componentRole": "修饰语",
+        "parentComponentText": "of course",
+        "parentComponentRole": "中心成分",
+        "parentComponentZh": "的；当然"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-vhlt9m82sdezs3eqpzhmev5k",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-vhlt9m82sdezs3eqpzhmev5k",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我可以",
+    "audioText": "I can",
+    "fullEnglish": "I can",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "can",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "can",
+        "role": "谓语",
+        "zh": "能"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-ij81yupa0az6kribuwwhr10c",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-ij81yupa0az6kribuwwhr10c",
+    "type": "sentence",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "给你",
+    "audioText": "you are",
+    "fullEnglish": "you are",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "are"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-2",
+        "text": "are",
+        "role": "谓语",
+        "zh": "是"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-mfmm539uqdf2j9fqhbklyit5",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-mfmm539uqdf2j9fqhbklyit5",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "谢谢",
+    "audioText": "Thank you",
+    "fullEnglish": "Thank you",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Thank",
+        "answer": "Thank",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "感谢",
+        "phonetic": "θæŋk",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "宾语"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "Thank"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Thank",
+        "role": "谓语",
+        "zh": "感谢"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "宾语",
+        "zh": "你"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Thank",
+        "phonetic": "θæŋk",
+        "pos": "VERB",
+        "zh": "感谢",
+        "componentZh": "感谢",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "宾语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-SENTENCE-wghek0loqiv9y1qvasqw04tb",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-SENTENCE-wghek0loqiv9y1qvasqw04tb",
+    "type": "word",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么事？",
+    "audioText": "Yes",
+    "fullEnglish": "Yes",
+    "phonetic": "jes",
+    "pos": "INTJ",
+    "sentenceType": "",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "w1",
+        "role": "",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes"
+    ],
+    "componentTree": [
+      {
+        "id": "w1",
+        "text": "Yes",
+        "role": "",
+        "zh": ""
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentRole": "",
+        "componentZh": "是的"
+      }
+    }
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-h88k9h3nw18k4vqzzo6ems7i",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-h88k9h3nw18k4vqzzo6ems7i",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "问题",
+    "audioText": "the matter",
+    "fullEnglish": "the matter",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "matter",
+        "answer": "matter",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "重要",
+        "phonetic": "ˈmætər",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "matter"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "matter",
+        "role": "中心成分",
+        "zh": "重要"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "matter",
+        "phonetic": "ˈmætər",
+        "pos": "VERB",
+        "zh": "重要",
+        "componentZh": "重要",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-hj04ybnl6h2zsu2jdyck3obo",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-hj04ybnl6h2zsu2jdyck3obo",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "老板的",
+    "audioText": "The boss's",
+    "fullEnglish": "The boss's",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "The",
+        "answer": "The",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "boss's",
+        "answer": "boss's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "老板的",
+        "phonetic": "bɑːsɪz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分 + 补充成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "The",
+      "boss's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "The",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "boss's",
+        "role": "中心成分 + 补充成分",
+        "zh": "老板的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "The",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "boss's",
+        "phonetic": "bɑːsɪz",
+        "pos": "NOUN",
+        "zh": "老板的",
+        "componentZh": "老板的",
+        "componentRole": "中心成分 + 补充成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-vioe4ulhxibrumixae0dai7n",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-vioe4ulhxibrumixae0dai7n",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "老板的笔迹",
+    "audioText": "The boss's handwriting",
+    "fullEnglish": "The boss's handwriting",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "The",
+        "answer": "The",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "The boss's",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "定冠词；老板的"
+      },
+      {
+        "index": 1,
+        "text": "boss's",
+        "answer": "boss's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "老板的",
+        "phonetic": "bɑːsɪz",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "The boss's",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "定冠词；老板的"
+      },
+      {
+        "index": 2,
+        "text": "handwriting",
+        "answer": "handwriting",
+        "blank": "___________",
+        "letterCount": 11,
+        "fillable": true,
+        "type": "word",
+        "zh": "笔迹",
+        "phonetic": "ˈhændraɪtɪŋ",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "handwriting",
+      "The",
+      "boss's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "The boss's",
+        "role": "补充成分",
+        "zh": "定冠词；老板的",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "The",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-3",
+            "text": "boss's",
+            "role": "中心词",
+            "zh": "老板的"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "handwriting",
+        "role": "中心成分",
+        "zh": "笔迹"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "The",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "限定词",
+        "parentComponentText": "The boss's",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "定冠词；老板的"
+      },
+      "1": {
+        "text": "boss's",
+        "phonetic": "bɑːsɪz",
+        "pos": "NOUN",
+        "zh": "老板的",
+        "componentZh": "老板的",
+        "componentRole": "中心词",
+        "parentComponentText": "The boss's",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "定冠词；老板的"
+      },
+      "2": {
+        "text": "handwriting",
+        "phonetic": "ˈhændraɪtɪŋ",
+        "pos": "NOUN",
+        "zh": "笔迹",
+        "componentZh": "笔迹",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-lovks7q2fkuzqkqxyptxblh7",
+    "contentId": "JLB-i5bpoavhivpyu1m13nqzq51d-PHRASE-lovks7q2fkuzqkqxyptxblh7",
+    "type": "phrase",
+    "coursePackageId": "fqg57vkritz89iaeb1ofbfne",
+    "coursePackageName": "新概念英语第一册（单数课）",
+    "grade": "在线课程",
+    "unitId": "i5bpoavhivpyu1m13nqzq51d",
+    "unitTitle": "Lesson 45",
+    "section": "",
+    "importance": "",
+    "displayChinese": "非常糟糕！",
+    "audioText": "is terrible",
+    "fullEnglish": "is terrible",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "系动词"
+      },
+      {
+        "index": 1,
+        "text": "terrible",
+        "answer": "terrible",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "严重的",
+        "phonetic": "ˈterəb(ə)l",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "表语"
+      }
+    ],
+    "shuffledBlocks": [
+      "terrible",
+      "is"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-2",
+        "text": "terrible",
+        "role": "表语",
+        "zh": "严重的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是",
+        "componentRole": "系动词"
+      },
+      "1": {
+        "text": "terrible",
+        "phonetic": "ˈterəb(ə)l",
+        "pos": "ADJ",
+        "zh": "严重的",
+        "componentZh": "严重的",
+        "componentRole": "表语"
+      }
+    },
+    "sentenceType": "主系表结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

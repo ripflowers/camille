@@ -1,0 +1,5411 @@
+[
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-S-alp0x5nsbz27802v950bym8d",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-S-alp0x5nsbz27802v950bym8d",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你怎么了，年轻人？",
+    "audioText": "What's the matter with you, young man?",
+    "fullEnglish": "What's the matter with you, young man?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What's",
+        "answer": "What's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "疑问词 + 系动词",
+        "zh": "什么是",
+        "phonetic": "wʌts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the matter with you",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；事情；用；你"
+      },
+      {
+        "index": 2,
+        "text": "matter",
+        "answer": "matter",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "事情",
+        "phonetic": "ˈmætər",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the matter with you",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；事情；用；你"
+      },
+      {
+        "index": 3,
+        "text": "with",
+        "answer": "with",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "介词",
+        "zh": "用",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the matter with you",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；事情；用；你"
+      },
+      {
+        "index": 4,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "修饰语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the matter with you",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；事情；用；你"
+      },
+      {
+        "index": 5,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你怎么了，年轻人？"
+      },
+      {
+        "index": 6,
+        "text": "young",
+        "answer": "young",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "呼语",
+        "zh": "年轻的",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the matter with you young man",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；事情；用；你；年轻的；人"
+      },
+      {
+        "index": 7,
+        "text": "man",
+        "answer": "man",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "呼语",
+        "zh": "人",
+        "phonetic": "mæn",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the matter with you young man",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；事情；用；你；年轻的；人"
+      },
+      {
+        "index": 8,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你怎么了，年轻人？"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "What's",
+      "man",
+      "young",
+      "the",
+      "matter",
+      "with"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What's",
+        "role": "疑问词 + 系动词",
+        "zh": "什么是"
+      },
+      {
+        "id": "ud-2",
+        "text": "the matter with you",
+        "role": "主语",
+        "zh": "定冠词；事情；用；你",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-4",
+            "text": "matter",
+            "role": "中心词",
+            "zh": "事情"
+          },
+          {
+            "id": "ud-5",
+            "text": "with",
+            "role": "介词",
+            "zh": "用"
+          },
+          {
+            "id": "ud-6",
+            "text": "you",
+            "role": "修饰语",
+            "zh": "你"
+          }
+        ]
+      },
+      {
+        "id": "ud-7",
+        "text": "young man",
+        "role": "呼语",
+        "zh": "年轻的；人"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What's",
+        "phonetic": "wʌts",
+        "pos": "PRON",
+        "zh": "什么是",
+        "componentRole": "疑问词 + 系动词",
+        "componentZh": "什么是"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the matter with you",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；事情；用；你"
+      },
+      "2": {
+        "text": "matter",
+        "phonetic": "ˈmætər",
+        "pos": "NOUN",
+        "zh": "事情",
+        "componentRole": "中心词",
+        "componentZh": "事情",
+        "parentComponentText": "the matter with you",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；事情；用；你"
+      },
+      "3": {
+        "text": "with",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "zh": "用",
+        "componentRole": "介词",
+        "componentZh": "用",
+        "parentComponentText": "the matter with you",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；事情；用；你"
+      },
+      "4": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "修饰语",
+        "componentZh": "你",
+        "parentComponentText": "the matter with you",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；事情；用；你"
+      },
+      "6": {
+        "text": "young",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ",
+        "zh": "年轻的",
+        "componentRole": "呼语",
+        "componentZh": "年轻的；人",
+        "parentComponentText": "the matter with you young man",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；事情；用；你；年轻的；人"
+      },
+      "7": {
+        "text": "man",
+        "phonetic": "mæn",
+        "pos": "NOUN",
+        "zh": "人",
+        "componentRole": "呼语",
+        "componentZh": "年轻的；人",
+        "parentComponentText": "the matter with you young man",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；事情；用；你；年轻的；人"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-alp0x5nsbz27802v950bym8d-1",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-alp0x5nsbz27802v950bym8d-1",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么",
+    "audioText": "What's",
+    "fullEnglish": "What's",
+    "phonetic": "wʌts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What's",
+        "answer": "What's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么是",
+        "phonetic": "wʌts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "What's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "What's",
+        "phonetic": "wʌts",
+        "pos": "PRON",
+        "zh": "什么是",
+        "componentZh": "什么是"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-alp0x5nsbz27802v950bym8d-2",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-alp0x5nsbz27802v950bym8d-2",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "the",
+    "fullEnglish": "the",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "the"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-alp0x5nsbz27802v950bym8d-3",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-alp0x5nsbz27802v950bym8d-3",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "问题",
+    "audioText": "matter",
+    "fullEnglish": "matter",
+    "phonetic": "ˈmætər",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "matter",
+        "answer": "matter",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "事情",
+        "phonetic": "ˈmætər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "matter"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "matter",
+        "phonetic": "ˈmætər",
+        "pos": "NOUN",
+        "zh": "事情",
+        "componentZh": "事情"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-alp0x5nsbz27802v950bym8d-4",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-alp0x5nsbz27802v950bym8d-4",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "和",
+    "audioText": "with",
+    "fullEnglish": "with",
+    "phonetic": "wɪð; wɪθ",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "with",
+        "answer": "with",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "用",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "with"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "with",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "zh": "用",
+        "componentZh": "用"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-alp0x5nsbz27802v950bym8d-5",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-alp0x5nsbz27802v950bym8d-5",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-alp0x5nsbz27802v950bym8d-6",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-alp0x5nsbz27802v950bym8d-6",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "年轻的",
+    "audioText": "young",
+    "fullEnglish": "young",
+    "phonetic": "jʌŋ",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "young",
+        "answer": "young",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "年轻的",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "young"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "young",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ",
+        "zh": "年轻的",
+        "componentZh": "年轻的"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-alp0x5nsbz27802v950bym8d-7",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-alp0x5nsbz27802v950bym8d-7",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "男人",
+    "audioText": "man",
+    "fullEnglish": "man",
+    "phonetic": "mæn",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "man",
+        "answer": "man",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "人",
+        "phonetic": "mæn",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "man"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "man",
+        "phonetic": "mæn",
+        "pos": "NOUN",
+        "zh": "人",
+        "componentZh": "人"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-S-p1xu1jfn225avrcyzhhmpaai",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-S-p1xu1jfn225avrcyzhhmpaai",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "医生，我的右腿疼。",
+    "audioText": "My right leg hurts, Doctor",
+    "fullEnglish": "My right leg hurts, Doctor",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "My",
+        "answer": "My",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "My right leg",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；正确的；腿"
+      },
+      {
+        "index": 1,
+        "text": "right",
+        "answer": "right",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "定语（形容词）",
+        "zh": "正确的",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "My right leg",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；正确的；腿"
+      },
+      {
+        "index": 2,
+        "text": "leg",
+        "answer": "leg",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "腿",
+        "phonetic": "leɡ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "My right leg",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；正确的；腿"
+      },
+      {
+        "index": 3,
+        "text": "hurts",
+        "answer": "hurts",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "谓语",
+        "zh": "hurt（第三人称单数）: 疼痛",
+        "phonetic": "hɜːrts",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "医生，我的右腿疼。"
+      },
+      {
+        "index": 5,
+        "text": "Doctor",
+        "answer": "Doctor",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "补充成分",
+        "zh": "医生",
+        "phonetic": "ˈdɑːktər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Doctor",
+      "right",
+      "My",
+      "hurts",
+      "leg"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "My right leg",
+        "role": "主语",
+        "zh": "我的；正确的；腿",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "My",
+            "role": "限定词",
+            "zh": "我的"
+          },
+          {
+            "id": "ud-3",
+            "text": "right",
+            "role": "定语（形容词）",
+            "zh": "正确的"
+          },
+          {
+            "id": "ud-4",
+            "text": "leg",
+            "role": "中心词",
+            "zh": "腿"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "hurts",
+        "role": "谓语",
+        "zh": "hurt（第三人称单数）: 疼痛"
+      },
+      {
+        "id": "ud-6",
+        "text": "Doctor",
+        "role": "补充成分",
+        "zh": "医生"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "My",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "限定词",
+        "componentZh": "我的",
+        "parentComponentText": "My right leg",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；正确的；腿"
+      },
+      "1": {
+        "text": "right",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "zh": "正确的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "正确的",
+        "parentComponentText": "My right leg",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；正确的；腿"
+      },
+      "2": {
+        "text": "leg",
+        "phonetic": "leɡ",
+        "pos": "NOUN",
+        "zh": "腿",
+        "componentRole": "中心词",
+        "componentZh": "腿",
+        "parentComponentText": "My right leg",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；正确的；腿"
+      },
+      "3": {
+        "text": "hurts",
+        "phonetic": "hɜːrts",
+        "pos": "VERB",
+        "zh": "hurt（第三人称单数）: 疼痛",
+        "componentRole": "谓语",
+        "componentZh": "hurt（第三人称单数）: 疼痛"
+      },
+      "5": {
+        "text": "Doctor",
+        "phonetic": "ˈdɑːktər",
+        "pos": "NOUN",
+        "zh": "医生",
+        "componentRole": "补充成分",
+        "componentZh": "医生"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-p1xu1jfn225avrcyzhhmpaai-1",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-p1xu1jfn225avrcyzhhmpaai-1",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的",
+    "audioText": "My",
+    "fullEnglish": "My",
+    "phonetic": "maɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "My",
+        "answer": "My",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "My"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "My",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-p1xu1jfn225avrcyzhhmpaai-2",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-p1xu1jfn225avrcyzhhmpaai-2",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "右边的",
+    "audioText": "right",
+    "fullEnglish": "right",
+    "phonetic": "raɪt",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "right",
+        "answer": "right",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "正确的",
+        "phonetic": "raɪt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "right"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "right",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "zh": "正确的",
+        "componentZh": "正确的"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-p1xu1jfn225avrcyzhhmpaai-3",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-p1xu1jfn225avrcyzhhmpaai-3",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "腿",
+    "audioText": "leg",
+    "fullEnglish": "leg",
+    "phonetic": "leɡ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "leg",
+        "answer": "leg",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "腿",
+        "phonetic": "leɡ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "leg"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "leg",
+        "phonetic": "leɡ",
+        "pos": "NOUN",
+        "zh": "腿",
+        "componentZh": "腿"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-p1xu1jfn225avrcyzhhmpaai-4",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-p1xu1jfn225avrcyzhhmpaai-4",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "hurt（第三人称单数）: 疼痛",
+    "audioText": "hurts",
+    "fullEnglish": "hurts",
+    "phonetic": "hɜːrts",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "hurts",
+        "answer": "hurts",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "hurt（第三人称单数）: 疼痛",
+        "phonetic": "hɜːrts",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "hurts"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "hurts",
+        "phonetic": "hɜːrts",
+        "pos": "VERB",
+        "zh": "hurt（第三人称单数）: 疼痛",
+        "componentZh": "hurt（第三人称单数）: 疼痛"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-p1xu1jfn225avrcyzhhmpaai-5",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-p1xu1jfn225avrcyzhhmpaai-5",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Doctor",
+    "audioText": "Doctor",
+    "fullEnglish": "Doctor",
+    "phonetic": "ˈdɑːktər",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Doctor",
+        "answer": "Doctor",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "医生",
+        "phonetic": "ˈdɑːktər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Doctor"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Doctor",
+        "phonetic": "ˈdɑːktər",
+        "pos": "NOUN",
+        "zh": "医生",
+        "componentZh": "医生"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-S-j2nmzrq45ifetx2dfhqfa1xk",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-S-j2nmzrq45ifetx2dfhqfa1xk",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好的，让我看看。",
+    "audioText": "All right, let me see",
+    "fullEnglish": "All right, let me see",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "All",
+        "answer": "All",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "zh": "所有",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "All right",
+        "parentComponentRole": "语气/引导语",
+        "parentComponentZh": "所有；正确的"
+      },
+      {
+        "index": 1,
+        "text": "right",
+        "answer": "right",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "正确的",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "All right",
+        "parentComponentRole": "语气/引导语",
+        "parentComponentZh": "所有；正确的"
+      },
+      {
+        "index": 2,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "好的，让我看看。"
+      },
+      {
+        "index": 3,
+        "text": "let",
+        "answer": "let",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "让",
+        "phonetic": "let",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "宾语",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "see",
+        "answer": "see",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "谓语",
+        "zh": "看见",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "see",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "看见"
+      }
+    ],
+    "shuffledBlocks": [
+      "see",
+      "right",
+      "All",
+      "me",
+      "let"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "All right",
+        "role": "语气/引导语",
+        "zh": "所有；正确的",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "All",
+            "role": "限定词",
+            "zh": "所有"
+          },
+          {
+            "id": "ud-3",
+            "text": "right",
+            "role": "中心词",
+            "zh": "正确的"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "let",
+        "role": "谓语",
+        "zh": "让"
+      },
+      {
+        "id": "ud-5",
+        "text": "me",
+        "role": "宾语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-6",
+        "text": "see",
+        "role": "宾语补足语",
+        "zh": "看见",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "see",
+            "role": "谓语",
+            "zh": "看见"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "All",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "zh": "所有",
+        "componentRole": "限定词",
+        "componentZh": "所有",
+        "parentComponentText": "All right",
+        "parentComponentRole": "语气/引导语",
+        "parentComponentZh": "所有；正确的"
+      },
+      "1": {
+        "text": "right",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "zh": "正确的",
+        "componentRole": "中心词",
+        "componentZh": "正确的",
+        "parentComponentText": "All right",
+        "parentComponentRole": "语气/引导语",
+        "parentComponentZh": "所有；正确的"
+      },
+      "3": {
+        "text": "let",
+        "phonetic": "let",
+        "pos": "VERB",
+        "zh": "让",
+        "componentRole": "谓语",
+        "componentZh": "让"
+      },
+      "4": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "宾语",
+        "componentZh": "我"
+      },
+      "5": {
+        "text": "see",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "zh": "看见",
+        "componentRole": "谓语",
+        "componentZh": "看见",
+        "parentComponentText": "see",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "看见"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-j2nmzrq45ifetx2dfhqfa1xk-1",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-j2nmzrq45ifetx2dfhqfa1xk-1",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "所有",
+    "audioText": "All",
+    "fullEnglish": "All",
+    "phonetic": "ɔːl",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "All",
+        "answer": "All",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "所有",
+        "phonetic": "ɔːl",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "All"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "All",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "zh": "所有",
+        "componentZh": "所有"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-j2nmzrq45ifetx2dfhqfa1xk-3",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-j2nmzrq45ifetx2dfhqfa1xk-3",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让",
+    "audioText": "let",
+    "fullEnglish": "let",
+    "phonetic": "let",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "let",
+        "answer": "let",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "让",
+        "phonetic": "let",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "let"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "let",
+        "phonetic": "let",
+        "pos": "VERB",
+        "zh": "让",
+        "componentZh": "让"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-j2nmzrq45ifetx2dfhqfa1xk-4",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-j2nmzrq45ifetx2dfhqfa1xk-4",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "me",
+    "fullEnglish": "me",
+    "phonetic": "miː",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "me"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-j2nmzrq45ifetx2dfhqfa1xk-5",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-j2nmzrq45ifetx2dfhqfa1xk-5",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "看",
+    "audioText": "see",
+    "fullEnglish": "see",
+    "phonetic": "siː",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "see",
+        "answer": "see",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "看见",
+        "phonetic": "siː",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "see"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "see",
+        "phonetic": "siː",
+        "pos": "VERB",
+        "zh": "看见",
+        "componentZh": "看见"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-S-t5cmc5134ttxyc0nefn5n7c3",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-S-t5cmc5134ttxyc0nefn5n7c3",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "疼得厉害，我走不了路。",
+    "audioText": "It hurts badly. I can't walk",
+    "fullEnglish": "It hurts badly. I can't walk",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It",
+        "answer": "It",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "hurts",
+        "answer": "hurts",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "hurt（第三人称单数）: 疼痛",
+        "phonetic": "hɜːrts",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "badly",
+        "answer": "badly",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "方式/程度状语",
+        "zh": "严重地",
+        "phonetic": "ˈbædli",
+        "pos": "ADV"
+      },
+      {
+        "index": 3,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "疼得厉害，我走不了路。"
+      },
+      {
+        "index": 4,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "can't",
+        "answer": "can't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不能",
+        "phonetic": "kænt",
+        "pos": "AUX"
+      },
+      {
+        "index": 6,
+        "text": "walk",
+        "answer": "walk",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "谓语",
+        "zh": "遛",
+        "phonetic": "wɔːk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "It",
+      "badly",
+      "walk",
+      "I",
+      "can't",
+      "hurts"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It",
+        "role": "主语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-2",
+        "text": "hurts",
+        "role": "谓语",
+        "zh": "hurt（第三人称单数）: 疼痛"
+      },
+      {
+        "id": "ud-3",
+        "text": "badly",
+        "role": "方式/程度状语",
+        "zh": "严重地"
+      },
+      {
+        "id": "ud-4",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-5",
+        "text": "can't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不能"
+      },
+      {
+        "id": "ud-6",
+        "text": "walk",
+        "role": "谓语",
+        "zh": "遛"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentRole": "主语",
+        "componentZh": "它"
+      },
+      "1": {
+        "text": "hurts",
+        "phonetic": "hɜːrts",
+        "pos": "VERB",
+        "zh": "hurt（第三人称单数）: 疼痛",
+        "componentRole": "谓语",
+        "componentZh": "hurt（第三人称单数）: 疼痛"
+      },
+      "2": {
+        "text": "badly",
+        "phonetic": "ˈbædli",
+        "pos": "ADV",
+        "zh": "严重地",
+        "componentRole": "方式/程度状语",
+        "componentZh": "严重地"
+      },
+      "4": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "5": {
+        "text": "can't",
+        "phonetic": "kænt",
+        "pos": "AUX",
+        "zh": "不能",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "不能"
+      },
+      "6": {
+        "text": "walk",
+        "phonetic": "wɔːk",
+        "pos": "VERB",
+        "zh": "遛",
+        "componentRole": "谓语",
+        "componentZh": "遛"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-t5cmc5134ttxyc0nefn5n7c3-1",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-t5cmc5134ttxyc0nefn5n7c3-1",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它",
+    "audioText": "It",
+    "fullEnglish": "It",
+    "phonetic": "ɪt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It",
+        "answer": "It",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "It"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "It",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-t5cmc5134ttxyc0nefn5n7c3-3",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-t5cmc5134ttxyc0nefn5n7c3-3",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "严重地",
+    "audioText": "badly",
+    "fullEnglish": "badly",
+    "phonetic": "ˈbædli",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "badly",
+        "answer": "badly",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "严重地",
+        "phonetic": "ˈbædli",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "badly"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "badly",
+        "phonetic": "ˈbædli",
+        "pos": "ADV",
+        "zh": "严重地",
+        "componentZh": "严重地"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-t5cmc5134ttxyc0nefn5n7c3-4",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-t5cmc5134ttxyc0nefn5n7c3-4",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-t5cmc5134ttxyc0nefn5n7c3-5",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-t5cmc5134ttxyc0nefn5n7c3-5",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不能",
+    "audioText": "can't",
+    "fullEnglish": "can't",
+    "phonetic": "kænt",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "can't",
+        "answer": "can't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "不能",
+        "phonetic": "kænt",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "can't"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "can't",
+        "phonetic": "kænt",
+        "pos": "AUX",
+        "zh": "不能",
+        "componentZh": "不能"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-t5cmc5134ttxyc0nefn5n7c3-6",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-t5cmc5134ttxyc0nefn5n7c3-6",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "走",
+    "audioText": "walk",
+    "fullEnglish": "walk",
+    "phonetic": "wɔːk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "walk",
+        "answer": "walk",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "遛",
+        "phonetic": "wɔːk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "walk"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "walk",
+        "phonetic": "wɔːk",
+        "pos": "VERB",
+        "zh": "遛",
+        "componentZh": "遛"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-S-h9kqnp4656fj6lze1av1v0rs",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-S-h9kqnp4656fj6lze1av1v0rs",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这里疼吗？",
+    "audioText": "Does it hurt here?",
+    "fullEnglish": "Does it hurt here?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Does",
+        "answer": "Does",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "do（第三人称单数现在时）: 构成疑问句",
+        "phonetic": "dʌz",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "hurt",
+        "answer": "hurt",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "hurt（原型）: 使疼痛",
+        "phonetic": "hɜːrt",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "here",
+        "answer": "here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "地点状语",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV"
+      },
+      {
+        "index": 4,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "这里疼吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "it",
+      "here",
+      "Does",
+      "hurt"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Does",
+        "role": "助动词",
+        "zh": "do（第三人称单数现在时）: 构成疑问句"
+      },
+      {
+        "id": "ud-2",
+        "text": "it",
+        "role": "主语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-3",
+        "text": "hurt",
+        "role": "谓语",
+        "zh": "hurt（原型）: 使疼痛"
+      },
+      {
+        "id": "ud-4",
+        "text": "here",
+        "role": "地点状语",
+        "zh": "这里"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Does",
+        "phonetic": "dʌz",
+        "pos": "AUX",
+        "zh": "do（第三人称单数现在时）: 构成疑问句",
+        "componentRole": "助动词",
+        "componentZh": "do（第三人称单数现在时）: 构成疑问句"
+      },
+      "1": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentRole": "主语",
+        "componentZh": "它"
+      },
+      "2": {
+        "text": "hurt",
+        "phonetic": "hɜːrt",
+        "pos": "VERB",
+        "zh": "hurt（原型）: 使疼痛",
+        "componentRole": "谓语",
+        "componentZh": "hurt（原型）: 使疼痛"
+      },
+      "3": {
+        "text": "here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentRole": "地点状语",
+        "componentZh": "这里"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-h9kqnp4656fj6lze1av1v0rs-1",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-h9kqnp4656fj6lze1av1v0rs-1",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "do（第三人称单数现在时）: 构成疑问句",
+    "audioText": "Does",
+    "fullEnglish": "Does",
+    "phonetic": "dʌz",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Does",
+        "answer": "Does",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "do（第三人称单数现在时）: 构成疑问句",
+        "phonetic": "dʌz",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "Does"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Does",
+        "phonetic": "dʌz",
+        "pos": "AUX",
+        "zh": "do（第三人称单数现在时）: 构成疑问句",
+        "componentZh": "do（第三人称单数现在时）: 构成疑问句"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-h9kqnp4656fj6lze1av1v0rs-3",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-h9kqnp4656fj6lze1av1v0rs-3",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "hurt（原型）: 使疼痛",
+    "audioText": "hurt",
+    "fullEnglish": "hurt",
+    "phonetic": "hɜːrt",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "hurt",
+        "answer": "hurt",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "hurt（原型）: 使疼痛",
+        "phonetic": "hɜːrt",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "hurt"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "hurt",
+        "phonetic": "hɜːrt",
+        "pos": "VERB",
+        "zh": "hurt（原型）: 使疼痛",
+        "componentZh": "hurt（原型）: 使疼痛"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-h9kqnp4656fj6lze1av1v0rs-4",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-h9kqnp4656fj6lze1av1v0rs-4",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这里",
+    "audioText": "here",
+    "fullEnglish": "here",
+    "phonetic": "hɪr",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "here",
+        "answer": "here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "here"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentZh": "这里"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-S-e6gvsmbhcgfz6jdm7o7s63g5",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-S-e6gvsmbhcgfz6jdm7o7s63g5",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "恐怕我们需要拍个X光片。",
+    "audioText": "I'm afraid we need to take an X-ray",
+    "fullEnglish": "I'm afraid we need to take an X-ray",
+    "sentenceType": "主谓宾结构（含宾语从句）",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "我",
+        "phonetic": "aɪm",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "afraid",
+        "answer": "afraid",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "害怕的",
+        "phonetic": "əˈfreɪd",
+        "pos": "ADJ"
+      },
+      {
+        "index": 2,
+        "text": "we",
+        "answer": "we",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "we need to take an X ray",
+        "parentComponentRole": "宾语从句",
+        "parentComponentZh": "我们；需要；引导不定式；take off（短语动词）: 脱下；不定冠词；恐怕我们需要拍个X光片。"
+      },
+      {
+        "index": 3,
+        "text": "need",
+        "answer": "need",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "谓语",
+        "zh": "需要",
+        "phonetic": "niːd",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "we need to take an X ray",
+        "parentComponentRole": "宾语从句",
+        "parentComponentZh": "我们；需要；引导不定式；take off（短语动词）: 脱下；不定冠词；恐怕我们需要拍个X光片。"
+      },
+      {
+        "index": 4,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "连接词",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "to take an X ray",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；take off（短语动词）: 脱下；不定冠词；恐怕我们需要拍个X光片。"
+      },
+      {
+        "index": 5,
+        "text": "take",
+        "answer": "take",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "谓语",
+        "zh": "take off（短语动词）: 脱下",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "to take an X ray",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；take off（短语动词）: 脱下；不定冠词；恐怕我们需要拍个X光片。"
+      },
+      {
+        "index": 6,
+        "text": "an",
+        "answer": "an",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "限定词",
+        "zh": "不定冠词",
+        "phonetic": "æn; ən",
+        "pos": "DET",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "an X ray",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "不定冠词；恐怕我们需要拍个X光片。"
+      },
+      {
+        "index": 7,
+        "text": "X",
+        "answer": "X",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "中心词",
+        "zh": "恐怕我们需要拍个X光片。",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "an X ray",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "不定冠词；恐怕我们需要拍个X光片。"
+      },
+      {
+        "index": 8,
+        "text": "-",
+        "answer": "-",
+        "blank": "-",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "symbol",
+        "zh": "恐怕我们需要拍个X光片。"
+      },
+      {
+        "index": 9,
+        "text": "ray",
+        "answer": "ray",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-12",
+        "role": "中心词",
+        "zh": "恐怕我们需要拍个X光片。",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "an X ray",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "不定冠词；恐怕我们需要拍个X光片。"
+      }
+    ],
+    "shuffledBlocks": [
+      "take",
+      "need",
+      "ray",
+      "an",
+      "we",
+      "X",
+      "I'm",
+      "to",
+      "afraid"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I'm",
+        "role": "主语 + 系动词",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "afraid",
+        "role": "表语",
+        "zh": "害怕的"
+      },
+      {
+        "id": "ud-3",
+        "text": "we need to take an X ray",
+        "role": "宾语从句",
+        "zh": "我们；需要；引导不定式；take off（短语动词）: 脱下；不定冠词；恐怕我们需要拍个X光片。",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "we",
+            "role": "主语",
+            "zh": "我们"
+          },
+          {
+            "id": "ud-5",
+            "text": "need",
+            "role": "谓语",
+            "zh": "需要"
+          },
+          {
+            "id": "ud-6",
+            "text": "to take an X ray",
+            "role": "不定式短语",
+            "zh": "引导不定式；take off（短语动词）: 脱下；不定冠词；恐怕我们需要拍个X光片。",
+            "children": [
+              {
+                "id": "ud-7",
+                "text": "to",
+                "role": "连接词",
+                "zh": "引导不定式"
+              },
+              {
+                "id": "ud-8",
+                "text": "take",
+                "role": "谓语",
+                "zh": "take off（短语动词）: 脱下"
+              },
+              {
+                "id": "ud-9",
+                "text": "an X ray",
+                "role": "宾语",
+                "zh": "不定冠词；恐怕我们需要拍个X光片。",
+                "children": [
+                  {
+                    "id": "ud-10",
+                    "text": "an",
+                    "role": "限定词",
+                    "zh": "不定冠词"
+                  },
+                  {
+                    "id": "ud-11",
+                    "text": "X",
+                    "role": "中心词",
+                    "zh": "恐怕我们需要拍个X光片。"
+                  },
+                  {
+                    "id": "ud-12",
+                    "text": "ray",
+                    "role": "中心词",
+                    "zh": "恐怕我们需要拍个X光片。"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "afraid",
+        "phonetic": "əˈfreɪd",
+        "pos": "ADJ",
+        "zh": "害怕的",
+        "componentRole": "表语",
+        "componentZh": "害怕的"
+      },
+      "2": {
+        "text": "we",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentRole": "主语",
+        "componentZh": "我们",
+        "parentComponentText": "we need to take an X ray",
+        "parentComponentRole": "宾语从句",
+        "parentComponentZh": "我们；需要；引导不定式；take off（短语动词）: 脱下；不定冠词；恐怕我们需要拍个X光片。"
+      },
+      "3": {
+        "text": "need",
+        "phonetic": "niːd",
+        "pos": "VERB",
+        "zh": "需要",
+        "componentRole": "谓语",
+        "componentZh": "需要",
+        "parentComponentText": "we need to take an X ray",
+        "parentComponentRole": "宾语从句",
+        "parentComponentZh": "我们；需要；引导不定式；take off（短语动词）: 脱下；不定冠词；恐怕我们需要拍个X光片。"
+      },
+      "4": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentRole": "连接词",
+        "componentZh": "引导不定式",
+        "parentComponentText": "to take an X ray",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；take off（短语动词）: 脱下；不定冠词；恐怕我们需要拍个X光片。"
+      },
+      "5": {
+        "text": "take",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "zh": "take off（短语动词）: 脱下",
+        "componentRole": "谓语",
+        "componentZh": "take off（短语动词）: 脱下",
+        "parentComponentText": "to take an X ray",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；take off（短语动词）: 脱下；不定冠词；恐怕我们需要拍个X光片。"
+      },
+      "6": {
+        "text": "an",
+        "phonetic": "æn; ən",
+        "pos": "DET",
+        "zh": "不定冠词",
+        "componentRole": "限定词",
+        "componentZh": "不定冠词",
+        "parentComponentText": "an X ray",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "不定冠词；恐怕我们需要拍个X光片。"
+      },
+      "7": {
+        "text": "X",
+        "zh": "恐怕我们需要拍个X光片。",
+        "componentRole": "中心词",
+        "componentZh": "恐怕我们需要拍个X光片。",
+        "parentComponentText": "an X ray",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "不定冠词；恐怕我们需要拍个X光片。"
+      },
+      "9": {
+        "text": "ray",
+        "zh": "恐怕我们需要拍个X光片。",
+        "componentRole": "中心词",
+        "componentZh": "恐怕我们需要拍个X光片。",
+        "parentComponentText": "an X ray",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "不定冠词；恐怕我们需要拍个X光片。"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-e6gvsmbhcgfz6jdm7o7s63g5-1",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-e6gvsmbhcgfz6jdm7o7s63g5-1",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我是",
+    "audioText": "I'm",
+    "fullEnglish": "I'm",
+    "phonetic": "aɪm",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'm",
+        "answer": "I'm",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪm",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I'm"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I'm",
+        "phonetic": "aɪm",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-e6gvsmbhcgfz6jdm7o7s63g5-2",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-e6gvsmbhcgfz6jdm7o7s63g5-2",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "害怕",
+    "audioText": "afraid",
+    "fullEnglish": "afraid",
+    "phonetic": "əˈfreɪd",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "afraid",
+        "answer": "afraid",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "害怕的",
+        "phonetic": "əˈfreɪd",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "afraid"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "afraid",
+        "phonetic": "əˈfreɪd",
+        "pos": "ADJ",
+        "zh": "害怕的",
+        "componentZh": "害怕的"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-e6gvsmbhcgfz6jdm7o7s63g5-3",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-e6gvsmbhcgfz6jdm7o7s63g5-3",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们",
+    "audioText": "we",
+    "fullEnglish": "we",
+    "phonetic": "wiː; wi",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "we",
+        "answer": "we",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "we"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "we",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentZh": "我们"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-e6gvsmbhcgfz6jdm7o7s63g5-4",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-e6gvsmbhcgfz6jdm7o7s63g5-4",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "需要",
+    "audioText": "need",
+    "fullEnglish": "need",
+    "phonetic": "niːd",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "need",
+        "answer": "need",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "需要",
+        "phonetic": "niːd",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "need"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "need",
+        "phonetic": "niːd",
+        "pos": "VERB",
+        "zh": "需要",
+        "componentZh": "需要"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-e6gvsmbhcgfz6jdm7o7s63g5-5",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-e6gvsmbhcgfz6jdm7o7s63g5-5",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "引导不定式",
+    "audioText": "to",
+    "fullEnglish": "to",
+    "phonetic": "tuː; tə",
+    "pos": "PART",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART"
+      }
+    ],
+    "shuffledBlocks": [
+      "to"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-e6gvsmbhcgfz6jdm7o7s63g5-6",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-e6gvsmbhcgfz6jdm7o7s63g5-6",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "拍摄",
+    "audioText": "take",
+    "fullEnglish": "take",
+    "phonetic": "teɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "take",
+        "answer": "take",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "take off（短语动词）: 脱下",
+        "phonetic": "teɪk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "take"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "take",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "zh": "take off（短语动词）: 脱下",
+        "componentZh": "take off（短语动词）: 脱下"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-e6gvsmbhcgfz6jdm7o7s63g5-7",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-e6gvsmbhcgfz6jdm7o7s63g5-7",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个",
+    "audioText": "an",
+    "fullEnglish": "an",
+    "phonetic": "æn; ən",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "an",
+        "answer": "an",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "不定冠词",
+        "phonetic": "æn; ən",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "an"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "an",
+        "phonetic": "æn; ən",
+        "pos": "DET",
+        "zh": "不定冠词",
+        "componentZh": "不定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-e6gvsmbhcgfz6jdm7o7s63g5-8",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-e6gvsmbhcgfz6jdm7o7s63g5-8",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "X光片",
+    "audioText": "X-ray",
+    "fullEnglish": "X-ray",
+    "phonetic": "ˈeks reɪ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "X-ray",
+        "answer": "X-ray",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "X光",
+        "phonetic": "ˈeks reɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "X-ray"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "X-ray",
+        "phonetic": "ˈeks reɪ",
+        "pos": "NOUN",
+        "zh": "X光",
+        "componentZh": "X光"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-S-mwwqmxe81abr1d4oh3vzqt42",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-S-mwwqmxe81abr1d4oh3vzqt42",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的，膝盖附近很疼。",
+    "audioText": "Yes, it hurts near the knee",
+    "fullEnglish": "Yes, it hurts near the knee",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "是的，膝盖附近很疼。"
+      },
+      {
+        "index": 2,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "hurts",
+        "answer": "hurts",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "hurt（第三人称单数）: 疼痛",
+        "phonetic": "hɜːrts",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "near",
+        "answer": "near",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "介词",
+        "zh": "在...附近",
+        "phonetic": "nɪr",
+        "pos": "ADP",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "near the knee",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在...附近；定冠词；膝盖"
+      },
+      {
+        "index": 5,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "the knee",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；膝盖"
+      },
+      {
+        "index": 6,
+        "text": "knee",
+        "answer": "knee",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "膝盖",
+        "phonetic": "niː",
+        "pos": "NOUN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "the knee",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；膝盖"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes",
+      "hurts",
+      "near",
+      "knee",
+      "the",
+      "it"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yes",
+        "role": "语气/引导语",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "it",
+        "role": "主语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-3",
+        "text": "hurts",
+        "role": "谓语",
+        "zh": "hurt（第三人称单数）: 疼痛"
+      },
+      {
+        "id": "ud-4",
+        "text": "near the knee",
+        "role": "地点状语",
+        "zh": "在...附近；定冠词；膝盖",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "near",
+            "role": "介词",
+            "zh": "在...附近"
+          },
+          {
+            "id": "ud-6",
+            "text": "the knee",
+            "role": "介词宾语",
+            "zh": "定冠词；膝盖",
+            "children": [
+              {
+                "id": "ud-7",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-8",
+                "text": "knee",
+                "role": "中心词",
+                "zh": "膝盖"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentRole": "语气/引导语",
+        "componentZh": "是的"
+      },
+      "2": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentRole": "主语",
+        "componentZh": "它"
+      },
+      "3": {
+        "text": "hurts",
+        "phonetic": "hɜːrts",
+        "pos": "VERB",
+        "zh": "hurt（第三人称单数）: 疼痛",
+        "componentRole": "谓语",
+        "componentZh": "hurt（第三人称单数）: 疼痛"
+      },
+      "4": {
+        "text": "near",
+        "phonetic": "nɪr",
+        "pos": "ADP",
+        "zh": "在...附近",
+        "componentRole": "介词",
+        "componentZh": "在...附近",
+        "parentComponentText": "near the knee",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在...附近；定冠词；膝盖"
+      },
+      "5": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the knee",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；膝盖"
+      },
+      "6": {
+        "text": "knee",
+        "phonetic": "niː",
+        "pos": "NOUN",
+        "zh": "膝盖",
+        "componentRole": "中心词",
+        "componentZh": "膝盖",
+        "parentComponentText": "the knee",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；膝盖"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-mwwqmxe81abr1d4oh3vzqt42-1",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-mwwqmxe81abr1d4oh3vzqt42-1",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的",
+    "audioText": "Yes",
+    "fullEnglish": "Yes",
+    "phonetic": "jes",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-mwwqmxe81abr1d4oh3vzqt42-4",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-mwwqmxe81abr1d4oh3vzqt42-4",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在...附近",
+    "audioText": "near",
+    "fullEnglish": "near",
+    "phonetic": "nɪr",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "near",
+        "answer": "near",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...附近",
+        "phonetic": "nɪr",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "near"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "near",
+        "phonetic": "nɪr",
+        "pos": "ADP",
+        "zh": "在...附近",
+        "componentZh": "在...附近"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-mwwqmxe81abr1d4oh3vzqt42-6",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-mwwqmxe81abr1d4oh3vzqt42-6",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "膝盖",
+    "audioText": "knee",
+    "fullEnglish": "knee",
+    "phonetic": "niː",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "knee",
+        "answer": "knee",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "膝盖",
+        "phonetic": "niː",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "knee"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "knee",
+        "phonetic": "niː",
+        "pos": "NOUN",
+        "zh": "膝盖",
+        "componentZh": "膝盖"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-S-u1zl9ancf7elqivg05qfdyma",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-S-u1zl9ancf7elqivg05qfdyma",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哦！真的吗？",
+    "audioText": "Oh! Really?",
+    "fullEnglish": "Oh! Really?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Oh",
+        "answer": "Oh",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "哦",
+        "phonetic": "oʊ",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哦！真的吗？"
+      },
+      {
+        "index": 2,
+        "text": "Really",
+        "answer": "Really",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心成分",
+        "zh": "真的",
+        "phonetic": "ˈriːəli",
+        "pos": "ADV"
+      },
+      {
+        "index": 3,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "哦！真的吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Really",
+      "Oh"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Oh",
+        "role": "中心成分",
+        "zh": "哦"
+      },
+      {
+        "id": "ud-2",
+        "text": "Really",
+        "role": "中心成分",
+        "zh": "真的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Oh",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "zh": "哦",
+        "componentRole": "中心成分",
+        "componentZh": "哦"
+      },
+      "2": {
+        "text": "Really",
+        "phonetic": "ˈriːəli",
+        "pos": "ADV",
+        "zh": "真的",
+        "componentRole": "中心成分",
+        "componentZh": "真的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-u1zl9ancf7elqivg05qfdyma-1",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-u1zl9ancf7elqivg05qfdyma-1",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "哦",
+    "audioText": "Oh",
+    "fullEnglish": "Oh",
+    "phonetic": "oʊ",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Oh",
+        "answer": "Oh",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "哦",
+        "phonetic": "oʊ",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Oh"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Oh",
+        "phonetic": "oʊ",
+        "pos": "INTJ",
+        "zh": "哦",
+        "componentZh": "哦"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-u1zl9ancf7elqivg05qfdyma-2",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-u1zl9ancf7elqivg05qfdyma-2",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "真的",
+    "audioText": "Really",
+    "fullEnglish": "Really",
+    "phonetic": "ˈriːəli",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Really",
+        "answer": "Really",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "真的",
+        "phonetic": "ˈriːəli",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "Really"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Really",
+        "phonetic": "ˈriːəli",
+        "pos": "ADV",
+        "zh": "真的",
+        "componentZh": "真的"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-S-bmzig1wa2s7fk8d9v0r016z2",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-S-bmzig1wa2s7fk8d9v0r016z2",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "放轻松，不会疼的。",
+    "audioText": "Take it easy. It doesn't hurt",
+    "fullEnglish": "Take it easy. It doesn't hurt",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Take",
+        "answer": "Take",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "take off（短语动词）: 脱下",
+        "phonetic": "teɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "宾语",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "easy",
+        "answer": "easy",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心成分",
+        "zh": "容易的",
+        "phonetic": "ˈiːzi",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "easy",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "容易的"
+      },
+      {
+        "index": 3,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "放轻松，不会疼的。"
+      },
+      {
+        "index": 4,
+        "text": "It",
+        "answer": "It",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "主语",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "doesn't",
+        "answer": "doesn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不",
+        "phonetic": "ˈdʌznt",
+        "pos": "AUX"
+      },
+      {
+        "index": 6,
+        "text": "hurt",
+        "answer": "hurt",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "谓语",
+        "zh": "hurt（原型）: 使疼痛",
+        "phonetic": "hɜːrt",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "It",
+      "Take",
+      "it",
+      "easy",
+      "hurt",
+      "doesn't"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Take",
+        "role": "谓语",
+        "zh": "take off（短语动词）: 脱下"
+      },
+      {
+        "id": "ud-2",
+        "text": "it",
+        "role": "宾语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-3",
+        "text": "easy",
+        "role": "宾语补足语",
+        "zh": "容易的",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "easy",
+            "role": "中心成分",
+            "zh": "容易的"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "It",
+        "role": "主语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-6",
+        "text": "doesn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-7",
+        "text": "hurt",
+        "role": "谓语",
+        "zh": "hurt（原型）: 使疼痛"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Take",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "zh": "take off（短语动词）: 脱下",
+        "componentRole": "谓语",
+        "componentZh": "take off（短语动词）: 脱下"
+      },
+      "1": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentRole": "宾语",
+        "componentZh": "它"
+      },
+      "2": {
+        "text": "easy",
+        "phonetic": "ˈiːzi",
+        "pos": "ADJ",
+        "zh": "容易的",
+        "componentRole": "中心成分",
+        "componentZh": "容易的",
+        "parentComponentText": "easy",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "容易的"
+      },
+      "4": {
+        "text": "It",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentRole": "主语",
+        "componentZh": "它"
+      },
+      "5": {
+        "text": "doesn't",
+        "phonetic": "ˈdʌznt",
+        "pos": "AUX",
+        "zh": "不",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "不"
+      },
+      "6": {
+        "text": "hurt",
+        "phonetic": "hɜːrt",
+        "pos": "VERB",
+        "zh": "hurt（原型）: 使疼痛",
+        "componentRole": "谓语",
+        "componentZh": "hurt（原型）: 使疼痛"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-bmzig1wa2s7fk8d9v0r016z2-3",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-bmzig1wa2s7fk8d9v0r016z2-3",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "容易的",
+    "audioText": "easy",
+    "fullEnglish": "easy",
+    "phonetic": "ˈiːzi",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "easy",
+        "answer": "easy",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "容易的",
+        "phonetic": "ˈiːzi",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "easy"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "easy",
+        "phonetic": "ˈiːzi",
+        "pos": "ADJ",
+        "zh": "容易的",
+        "componentZh": "容易的"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-W-bmzig1wa2s7fk8d9v0r016z2-5",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-W-bmzig1wa2s7fk8d9v0r016z2-5",
+    "type": "word",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不",
+    "audioText": "doesn't",
+    "fullEnglish": "doesn't",
+    "phonetic": "ˈdʌznt",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "doesn't",
+        "answer": "doesn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "ˈdʌznt",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "doesn't"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "doesn't",
+        "phonetic": "ˈdʌznt",
+        "pos": "AUX",
+        "zh": "不",
+        "componentZh": "不"
+      }
+    }
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-pj4tfz39i4ishr57brudv64a",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-pj4tfz39i4ishr57brudv64a",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "问题",
+    "audioText": "the matter",
+    "fullEnglish": "the matter",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "matter",
+        "answer": "matter",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "事情",
+        "phonetic": "ˈmætər",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "matter",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "matter",
+        "role": "中心成分",
+        "zh": "事情"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "matter",
+        "phonetic": "ˈmætər",
+        "pos": "NOUN",
+        "zh": "事情",
+        "componentZh": "事情",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-uqg4f6ook56znlp3nj3q9d2n",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-uqg4f6ook56znlp3nj3q9d2n",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "和你",
+    "audioText": "with you",
+    "fullEnglish": "with you",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "with",
+        "answer": "with",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "用",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "with"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "with",
+        "role": "补充成分",
+        "zh": "用"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "中心成分",
+        "zh": "你"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "with",
+        "phonetic": "wɪð; wɪθ",
+        "pos": "ADP",
+        "zh": "用",
+        "componentZh": "用",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-ip73ixn84zvfml41rzepduej",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-ip73ixn84zvfml41rzepduej",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "年轻人",
+    "audioText": "young man",
+    "fullEnglish": "young man",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "young",
+        "answer": "young",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "年轻的",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "man",
+        "answer": "man",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "人",
+        "phonetic": "mæn",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "man",
+      "young"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "young",
+        "role": "补充成分",
+        "zh": "年轻的"
+      },
+      {
+        "id": "ud-2",
+        "text": "man",
+        "role": "中心成分",
+        "zh": "人"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "young",
+        "phonetic": "jʌŋ",
+        "pos": "ADJ",
+        "zh": "年轻的",
+        "componentZh": "年轻的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "man",
+        "phonetic": "mæn",
+        "pos": "NOUN",
+        "zh": "人",
+        "componentZh": "人",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-efbhfoyeiuwc7oobahq5316p",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-efbhfoyeiuwc7oobahq5316p",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的右腿",
+    "audioText": "My right leg",
+    "fullEnglish": "My right leg",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "My",
+        "answer": "My",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "right",
+        "answer": "right",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "正确的",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "leg",
+        "answer": "leg",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "腿",
+        "phonetic": "leɡ",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "leg",
+      "My",
+      "right"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "My",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-2",
+        "text": "right",
+        "role": "补充成分",
+        "zh": "正确的"
+      },
+      {
+        "id": "ud-3",
+        "text": "leg",
+        "role": "中心成分",
+        "zh": "腿"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "My",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "right",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "zh": "正确的",
+        "componentZh": "正确的",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "leg",
+        "phonetic": "leɡ",
+        "pos": "NOUN",
+        "zh": "腿",
+        "componentZh": "腿",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-r96i6oktt2tvr9n58ov5t67z",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-r96i6oktt2tvr9n58ov5t67z",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的右腿疼",
+    "audioText": "My right leg hurts",
+    "fullEnglish": "My right leg hurts",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "My",
+        "answer": "My",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "My right leg",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；正确的；腿"
+      },
+      {
+        "index": 1,
+        "text": "right",
+        "answer": "right",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "正确的",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "componentId": "ud-3",
+        "role": "定语（形容词）",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "My right leg",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；正确的；腿"
+      },
+      {
+        "index": 2,
+        "text": "leg",
+        "answer": "leg",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "腿",
+        "phonetic": "leɡ",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "My right leg",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；正确的；腿"
+      },
+      {
+        "index": 3,
+        "text": "hurts",
+        "answer": "hurts",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "hurt（第三人称单数）: 疼痛",
+        "phonetic": "hɜːrts",
+        "pos": "VERB",
+        "componentId": "ud-5",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "hurts",
+      "My",
+      "right",
+      "leg"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "My right leg",
+        "role": "主语",
+        "zh": "我的；正确的；腿",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "My",
+            "role": "限定词",
+            "zh": "我的"
+          },
+          {
+            "id": "ud-3",
+            "text": "right",
+            "role": "定语（形容词）",
+            "zh": "正确的"
+          },
+          {
+            "id": "ud-4",
+            "text": "leg",
+            "role": "中心词",
+            "zh": "腿"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "hurts",
+        "role": "谓语",
+        "zh": "hurt（第三人称单数）: 疼痛"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "My",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的",
+        "componentRole": "限定词",
+        "parentComponentText": "My right leg",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；正确的；腿"
+      },
+      "1": {
+        "text": "right",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "zh": "正确的",
+        "componentZh": "正确的",
+        "componentRole": "定语（形容词）",
+        "parentComponentText": "My right leg",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；正确的；腿"
+      },
+      "2": {
+        "text": "leg",
+        "phonetic": "leɡ",
+        "pos": "NOUN",
+        "zh": "腿",
+        "componentZh": "腿",
+        "componentRole": "中心词",
+        "parentComponentText": "My right leg",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；正确的；腿"
+      },
+      "3": {
+        "text": "hurts",
+        "phonetic": "hɜːrts",
+        "pos": "VERB",
+        "zh": "hurt（第三人称单数）: 疼痛",
+        "componentZh": "hurt（第三人称单数）: 疼痛",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-dckqqxrviq9l7roeairzn9xn",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-dckqqxrviq9l7roeairzn9xn",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "医生",
+    "audioText": "Doctor",
+    "fullEnglish": "Doctor",
+    "phonetic": "ˈdɑːktər",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Doctor",
+        "answer": "Doctor",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "医生",
+        "phonetic": "ˈdɑːktər",
+        "pos": "NOUN",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "Doctor"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Doctor",
+        "role": "中心成分",
+        "zh": "医生"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Doctor",
+        "phonetic": "ˈdɑːktər",
+        "pos": "NOUN",
+        "zh": "医生",
+        "componentZh": "医生",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-tjk8lb20hhkyxxco5rxkce00",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-tjk8lb20hhkyxxco5rxkce00",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好的",
+    "audioText": "All right",
+    "fullEnglish": "All right",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "All",
+        "answer": "All",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "所有",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "right",
+        "answer": "right",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "正确的",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "right",
+      "All"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "All",
+        "role": "补充成分",
+        "zh": "所有"
+      },
+      {
+        "id": "ud-2",
+        "text": "right",
+        "role": "中心成分",
+        "zh": "正确的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "All",
+        "phonetic": "ɔːl",
+        "pos": "DET",
+        "zh": "所有",
+        "componentZh": "所有",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "right",
+        "phonetic": "raɪt",
+        "pos": "ADJ",
+        "zh": "正确的",
+        "componentZh": "正确的",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-c5vatymeoxfkyglrwitv34no",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-c5vatymeoxfkyglrwitv34no",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "疼得厉害",
+    "audioText": "hurts badly",
+    "fullEnglish": "hurts badly",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "hurts",
+        "answer": "hurts",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "hurt（第三人称单数）: 疼痛",
+        "phonetic": "hɜːrts",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "badly",
+        "answer": "badly",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "严重地",
+        "phonetic": "ˈbædli",
+        "pos": "ADV",
+        "componentId": "ud-2",
+        "role": "方式/程度状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "hurts",
+      "badly"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "hurts",
+        "role": "谓语",
+        "zh": "hurt（第三人称单数）: 疼痛"
+      },
+      {
+        "id": "ud-2",
+        "text": "badly",
+        "role": "方式/程度状语",
+        "zh": "严重地"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "hurts",
+        "phonetic": "hɜːrts",
+        "pos": "VERB",
+        "zh": "hurt（第三人称单数）: 疼痛",
+        "componentZh": "hurt（第三人称单数）: 疼痛",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "badly",
+        "phonetic": "ˈbædli",
+        "pos": "ADV",
+        "zh": "严重地",
+        "componentZh": "严重地",
+        "componentRole": "方式/程度状语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-qc93qgzyemm7lx6ezm1y4f3f",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-qc93qgzyemm7lx6ezm1y4f3f",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "疼得很厉害",
+    "audioText": "It hurts badly",
+    "fullEnglish": "It hurts badly",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It",
+        "answer": "It",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "hurts",
+        "answer": "hurts",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "hurt（第三人称单数）: 疼痛",
+        "phonetic": "hɜːrts",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      },
+      {
+        "index": 2,
+        "text": "badly",
+        "answer": "badly",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "严重地",
+        "phonetic": "ˈbædli",
+        "pos": "ADV",
+        "componentId": "ud-3",
+        "role": "方式/程度状语"
+      }
+    ],
+    "shuffledBlocks": [
+      "hurts",
+      "It",
+      "badly"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It",
+        "role": "主语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-2",
+        "text": "hurts",
+        "role": "谓语",
+        "zh": "hurt（第三人称单数）: 疼痛"
+      },
+      {
+        "id": "ud-3",
+        "text": "badly",
+        "role": "方式/程度状语",
+        "zh": "严重地"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "hurts",
+        "phonetic": "hɜːrts",
+        "pos": "VERB",
+        "zh": "hurt（第三人称单数）: 疼痛",
+        "componentZh": "hurt（第三人称单数）: 疼痛",
+        "componentRole": "谓语"
+      },
+      "2": {
+        "text": "badly",
+        "phonetic": "ˈbædli",
+        "pos": "ADV",
+        "zh": "严重地",
+        "componentZh": "严重地",
+        "componentRole": "方式/程度状语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-h50ajwzzg9utrvvlctdl78gh",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-h50ajwzzg9utrvvlctdl78gh",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我走不了路",
+    "audioText": "I can't walk",
+    "fullEnglish": "I can't walk",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "can't",
+        "answer": "can't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "不能",
+        "phonetic": "kænt",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "助动词 + 方式/程度状语"
+      },
+      {
+        "index": 2,
+        "text": "walk",
+        "answer": "walk",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "遛",
+        "phonetic": "wɔːk",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "walk",
+      "can't"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "can't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不能"
+      },
+      {
+        "id": "ud-3",
+        "text": "walk",
+        "role": "谓语",
+        "zh": "遛"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "can't",
+        "phonetic": "kænt",
+        "pos": "AUX",
+        "zh": "不能",
+        "componentZh": "不能",
+        "componentRole": "助动词 + 方式/程度状语"
+      },
+      "2": {
+        "text": "walk",
+        "phonetic": "wɔːk",
+        "pos": "VERB",
+        "zh": "遛",
+        "componentZh": "遛",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-ykwl1t98cwfafi4vzl88m665",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-ykwl1t98cwfafi4vzl88m665",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "需要拍",
+    "audioText": "need to take",
+    "fullEnglish": "need to take",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "need",
+        "answer": "need",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "需要",
+        "phonetic": "niːd",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "componentId": "ud-3",
+        "role": "连接词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "to take",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；take off（短语动词）: 脱下"
+      },
+      {
+        "index": 2,
+        "text": "take",
+        "answer": "take",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "take off（短语动词）: 脱下",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "to take",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；take off（短语动词）: 脱下"
+      }
+    ],
+    "shuffledBlocks": [
+      "need",
+      "to",
+      "take"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "need",
+        "role": "谓语",
+        "zh": "需要"
+      },
+      {
+        "id": "ud-2",
+        "text": "to take",
+        "role": "不定式短语",
+        "zh": "引导不定式；take off（短语动词）: 脱下",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "to",
+            "role": "连接词",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-4",
+            "text": "take",
+            "role": "谓语",
+            "zh": "take off（短语动词）: 脱下"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "need",
+        "phonetic": "niːd",
+        "pos": "VERB",
+        "zh": "需要",
+        "componentZh": "需要",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式",
+        "componentRole": "连接词",
+        "parentComponentText": "to take",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；take off（短语动词）: 脱下"
+      },
+      "2": {
+        "text": "take",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "zh": "take off（短语动词）: 脱下",
+        "componentZh": "take off（短语动词）: 脱下",
+        "componentRole": "谓语",
+        "parentComponentText": "to take",
+        "parentComponentRole": "不定式短语",
+        "parentComponentZh": "引导不定式；take off（短语动词）: 脱下"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-jdrfke008ykzkcd8fbw945jz",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-jdrfke008ykzkcd8fbw945jz",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一张X光片",
+    "audioText": "an X-ray",
+    "fullEnglish": "an X-ray",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "an",
+        "answer": "an",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "不定冠词",
+        "phonetic": "æn; ən",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "X",
+        "answer": "X",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一张X光片",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "X ray",
+        "parentComponentRole": "中心成分",
+        "parentComponentZh": "一张X光片"
+      },
+      {
+        "index": 2,
+        "text": "-",
+        "answer": "-",
+        "blank": "-",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "symbol",
+        "zh": "一张X光片"
+      },
+      {
+        "index": 3,
+        "text": "ray",
+        "answer": "ray",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "一张X光片",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "X ray",
+        "parentComponentRole": "中心成分",
+        "parentComponentZh": "一张X光片"
+      }
+    ],
+    "shuffledBlocks": [
+      "ray",
+      "X",
+      "an"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "an",
+        "role": "补充成分",
+        "zh": "不定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "X ray",
+        "role": "中心成分",
+        "zh": "一张X光片",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "X",
+            "role": "中心词",
+            "zh": "一张X光片"
+          },
+          {
+            "id": "ud-4",
+            "text": "ray",
+            "role": "中心词",
+            "zh": "一张X光片"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "an",
+        "phonetic": "æn; ən",
+        "pos": "DET",
+        "zh": "不定冠词",
+        "componentZh": "不定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "X",
+        "zh": "一张X光片",
+        "componentZh": "一张X光片",
+        "componentRole": "中心词",
+        "parentComponentText": "X ray",
+        "parentComponentRole": "中心成分",
+        "parentComponentZh": "一张X光片"
+      },
+      "3": {
+        "text": "ray",
+        "zh": "一张X光片",
+        "componentZh": "一张X光片",
+        "componentRole": "中心词",
+        "parentComponentText": "X ray",
+        "parentComponentRole": "中心成分",
+        "parentComponentZh": "一张X光片"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-ep61u2eiuzarmbu3fbc0eq70",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-ep61u2eiuzarmbu3fbc0eq70",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在膝盖附近",
+    "audioText": "near the knee",
+    "fullEnglish": "near the knee",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "near",
+        "answer": "near",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...附近",
+        "phonetic": "nɪr",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "knee",
+        "answer": "knee",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "膝盖",
+        "phonetic": "niː",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "near",
+      "knee"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "near",
+        "role": "补充成分",
+        "zh": "在...附近"
+      },
+      {
+        "id": "ud-2",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-3",
+        "text": "knee",
+        "role": "中心成分",
+        "zh": "膝盖"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "near",
+        "phonetic": "nɪr",
+        "pos": "ADP",
+        "zh": "在...附近",
+        "componentZh": "在...附近",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "knee",
+        "phonetic": "niː",
+        "pos": "NOUN",
+        "zh": "膝盖",
+        "componentZh": "膝盖",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-tnlpvvc8aycckam4t64vh88z",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-tnlpvvc8aycckam4t64vh88z",
+    "type": "sentence",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "放轻松",
+    "audioText": "Take it easy",
+    "fullEnglish": "Take it easy",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Take",
+        "answer": "Take",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "take off（短语动词）: 脱下",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "宾语"
+      },
+      {
+        "index": 2,
+        "text": "easy",
+        "answer": "easy",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "容易的",
+        "phonetic": "ˈiːzi",
+        "pos": "ADJ",
+        "componentId": "ud-4",
+        "role": "中心成分",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "easy",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "容易的"
+      }
+    ],
+    "shuffledBlocks": [
+      "it",
+      "easy",
+      "Take"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Take",
+        "role": "谓语",
+        "zh": "take off（短语动词）: 脱下"
+      },
+      {
+        "id": "ud-2",
+        "text": "it",
+        "role": "宾语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-3",
+        "text": "easy",
+        "role": "宾语补足语",
+        "zh": "容易的",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "easy",
+            "role": "中心成分",
+            "zh": "容易的"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Take",
+        "phonetic": "teɪk",
+        "pos": "VERB",
+        "zh": "take off（短语动词）: 脱下",
+        "componentZh": "take off（短语动词）: 脱下",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它",
+        "componentRole": "宾语"
+      },
+      "2": {
+        "text": "easy",
+        "phonetic": "ˈiːzi",
+        "pos": "ADJ",
+        "zh": "容易的",
+        "componentZh": "容易的",
+        "componentRole": "中心成分",
+        "parentComponentText": "easy",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "容易的"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-mbvirtqm86akingpmc5voe82",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-mbvirtqm86akingpmc5voe82",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不疼",
+    "audioText": "doesn't hurt",
+    "fullEnglish": "doesn't hurt",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "doesn't",
+        "answer": "doesn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "ˈdʌznt",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "hurt",
+        "answer": "hurt",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "hurt（原型）: 使疼痛",
+        "phonetic": "hɜːrt",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "hurt",
+      "doesn't"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "doesn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-2",
+        "text": "hurt",
+        "role": "谓语",
+        "zh": "hurt（原型）: 使疼痛"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "doesn't",
+        "phonetic": "ˈdʌznt",
+        "pos": "AUX",
+        "zh": "不",
+        "componentZh": "不",
+        "componentRole": "助动词 + 方式/程度状语"
+      },
+      "1": {
+        "text": "hurt",
+        "phonetic": "hɜːrt",
+        "pos": "VERB",
+        "zh": "hurt（原型）: 使疼痛",
+        "componentZh": "hurt（原型）: 使疼痛",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-rmhya9huameenml8ea62gp6h",
+    "contentId": "JLB-tpb7gmgeiuicabx90arbs67b-PHRASE-rmhya9huameenml8ea62gp6h",
+    "type": "phrase",
+    "coursePackageId": "rjhmo7amaj5w5lu9fhduhwe9",
+    "coursePackageName": "【北京版】四年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "tpb7gmgeiuicabx90arbs67b",
+    "unitTitle": "Unit 2  WHAT'S WRONG WITH YOU?-Lesson 7-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这不会造成伤害",
+    "audioText": "It doesn't hurt",
+    "fullEnglish": "It doesn't hurt",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It",
+        "answer": "It",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "doesn't",
+        "answer": "doesn't",
+        "blank": "_____’_",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "不",
+        "phonetic": "ˈdʌznt",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "助动词 + 方式/程度状语"
+      },
+      {
+        "index": 2,
+        "text": "hurt",
+        "answer": "hurt",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "hurt（原型）: 使疼痛",
+        "phonetic": "hɜːrt",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "It",
+      "doesn't",
+      "hurt"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It",
+        "role": "主语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-2",
+        "text": "doesn't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不"
+      },
+      {
+        "id": "ud-3",
+        "text": "hurt",
+        "role": "谓语",
+        "zh": "hurt（原型）: 使疼痛"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "doesn't",
+        "phonetic": "ˈdʌznt",
+        "pos": "AUX",
+        "zh": "不",
+        "componentZh": "不",
+        "componentRole": "助动词 + 方式/程度状语"
+      },
+      "2": {
+        "text": "hurt",
+        "phonetic": "hɜːrt",
+        "pos": "VERB",
+        "zh": "hurt（原型）: 使疼痛",
+        "componentZh": "hurt（原型）: 使疼痛",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

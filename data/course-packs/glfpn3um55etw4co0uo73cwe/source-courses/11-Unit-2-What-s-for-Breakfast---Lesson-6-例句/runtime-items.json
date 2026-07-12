@@ -1,0 +1,3547 @@
+[
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-S-csq5kcsauepujlr561nwgj1g",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-S-csq5kcsauepujlr561nwgj1g",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请给我来份鱼和米饭好吗？",
+    "audioText": "Can I have fish and rice, please?",
+    "fullEnglish": "Can I have fish and rice, please?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Can",
+        "answer": "Can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "可以",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "fish",
+        "answer": "fish",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "鱼",
+        "phonetic": "fɪʃ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "fish and rice",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "鱼；和；米饭"
+      },
+      {
+        "index": 4,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "fish and rice",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "鱼；和；米饭"
+      },
+      {
+        "index": 5,
+        "text": "rice",
+        "answer": "rice",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "修饰语",
+        "zh": "米饭",
+        "phonetic": "raɪs",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "fish and rice",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "鱼；和；米饭"
+      },
+      {
+        "index": 6,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "请给我来份鱼和米饭好吗？"
+      },
+      {
+        "index": 7,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "ADV"
+      },
+      {
+        "index": 8,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "请给我来份鱼和米饭好吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Can",
+      "I",
+      "have",
+      "and",
+      "fish",
+      "please",
+      "rice"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Can",
+        "role": "助动词",
+        "zh": "可以"
+      },
+      {
+        "id": "ud-2",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-4",
+        "text": "fish and rice",
+        "role": "宾语",
+        "zh": "鱼；和；米饭",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "fish",
+            "role": "中心词",
+            "zh": "鱼"
+          },
+          {
+            "id": "ud-6",
+            "text": "and",
+            "role": "并列连词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-7",
+            "text": "rice",
+            "role": "修饰语",
+            "zh": "米饭"
+          }
+        ]
+      },
+      {
+        "id": "ud-8",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "可以",
+        "componentRole": "助动词",
+        "componentZh": "可以"
+      },
+      "1": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "2": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有"
+      },
+      "3": {
+        "text": "fish",
+        "phonetic": "fɪʃ",
+        "pos": "NOUN",
+        "zh": "鱼",
+        "componentRole": "中心词",
+        "componentZh": "鱼",
+        "parentComponentText": "fish and rice",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "鱼；和；米饭"
+      },
+      "4": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和",
+        "parentComponentText": "fish and rice",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "鱼；和；米饭"
+      },
+      "5": {
+        "text": "rice",
+        "phonetic": "raɪs",
+        "pos": "NOUN",
+        "zh": "米饭",
+        "componentRole": "修饰语",
+        "componentZh": "米饭",
+        "parentComponentText": "fish and rice",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "鱼；和；米饭"
+      },
+      "7": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "ADV",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-csq5kcsauepujlr561nwgj1g-1",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-csq5kcsauepujlr561nwgj1g-1",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "能",
+    "audioText": "Can",
+    "fullEnglish": "Can",
+    "phonetic": "kæn",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Can",
+        "answer": "Can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "可以",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "Can"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "可以",
+        "componentZh": "可以"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-csq5kcsauepujlr561nwgj1g-2",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-csq5kcsauepujlr561nwgj1g-2",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-csq5kcsauepujlr561nwgj1g-3",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-csq5kcsauepujlr561nwgj1g-3",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "吃",
+    "audioText": "have",
+    "fullEnglish": "have",
+    "phonetic": "hæv",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "have"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-csq5kcsauepujlr561nwgj1g-4",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-csq5kcsauepujlr561nwgj1g-4",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "鱼",
+    "audioText": "fish",
+    "fullEnglish": "fish",
+    "phonetic": "fɪʃ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "fish",
+        "answer": "fish",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "鱼",
+        "phonetic": "fɪʃ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "fish"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "fish",
+        "phonetic": "fɪʃ",
+        "pos": "NOUN",
+        "zh": "鱼",
+        "componentZh": "鱼"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-csq5kcsauepujlr561nwgj1g-5",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-csq5kcsauepujlr561nwgj1g-5",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "和",
+    "audioText": "and",
+    "fullEnglish": "and",
+    "phonetic": "ænd; ənd",
+    "pos": "CCONJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "and"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-csq5kcsauepujlr561nwgj1g-6",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-csq5kcsauepujlr561nwgj1g-6",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "米饭",
+    "audioText": "rice",
+    "fullEnglish": "rice",
+    "phonetic": "raɪs",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "rice",
+        "answer": "rice",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "米饭",
+        "phonetic": "raɪs",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "rice"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "rice",
+        "phonetic": "raɪs",
+        "pos": "NOUN",
+        "zh": "米饭",
+        "componentZh": "米饭"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-csq5kcsauepujlr561nwgj1g-7",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-csq5kcsauepujlr561nwgj1g-7",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请",
+    "audioText": "please",
+    "fullEnglish": "please",
+    "phonetic": "pliːz",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "please"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "ADV",
+        "zh": "请",
+        "componentZh": "请"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-S-wtbm21gv83t8iw0wkuhgrjg0",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-S-wtbm21gv83t8iw0wkuhgrjg0",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好的。给您。",
+    "audioText": "Yes. Here you are",
+    "fullEnglish": "Yes. Here you are",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "PART"
+      },
+      {
+        "index": 1,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "好的。给您。"
+      },
+      {
+        "index": 2,
+        "text": "Here",
+        "answer": "Here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV"
+      },
+      {
+        "index": 3,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "修饰语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "you are",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "你；是（现在时复数）"
+      },
+      {
+        "index": 4,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "是（现在时复数）",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "you are",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "你；是（现在时复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes",
+      "you",
+      "Here",
+      "are"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yes",
+        "role": "中心成分",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-2",
+        "text": "Here",
+        "role": "表语",
+        "zh": "这里"
+      },
+      {
+        "id": "ud-3",
+        "text": "you are",
+        "role": "系动词",
+        "zh": "你；是（现在时复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "you",
+            "role": "修饰语",
+            "zh": "你"
+          },
+          {
+            "id": "ud-5",
+            "text": "are",
+            "role": "中心词",
+            "zh": "是（现在时复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "PART",
+        "zh": "是的",
+        "componentRole": "中心成分",
+        "componentZh": "是的"
+      },
+      "2": {
+        "text": "Here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentRole": "表语",
+        "componentZh": "这里"
+      },
+      "3": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "修饰语",
+        "componentZh": "你",
+        "parentComponentText": "you are",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "你；是（现在时复数）"
+      },
+      "4": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "是（现在时复数）",
+        "componentRole": "中心词",
+        "componentZh": "是（现在时复数）",
+        "parentComponentText": "you are",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "你；是（现在时复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-wtbm21gv83t8iw0wkuhgrjg0-1",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-wtbm21gv83t8iw0wkuhgrjg0-1",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的",
+    "audioText": "Yes",
+    "fullEnglish": "Yes",
+    "phonetic": "jes",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "PART"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "PART",
+        "zh": "是的",
+        "componentZh": "是的"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-wtbm21gv83t8iw0wkuhgrjg0-2",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-wtbm21gv83t8iw0wkuhgrjg0-2",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这里",
+    "audioText": "Here",
+    "fullEnglish": "Here",
+    "phonetic": "hɪr",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Here",
+        "answer": "Here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "Here"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentZh": "这里"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-wtbm21gv83t8iw0wkuhgrjg0-3",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-wtbm21gv83t8iw0wkuhgrjg0-3",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-wtbm21gv83t8iw0wkuhgrjg0-4",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-wtbm21gv83t8iw0wkuhgrjg0-4",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "are",
+    "fullEnglish": "are",
+    "phonetic": "ɑr",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是（现在时复数）",
+        "phonetic": "ɑr",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "are"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "是（现在时复数）",
+        "componentZh": "是（现在时复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-S-ie8sfo6a8niz7786l1d0vm35",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-S-ie8sfo6a8niz7786l1d0vm35",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请给我来份肉和面条。",
+    "audioText": "Meat and noodles for me, please",
+    "fullEnglish": "Meat and noodles for me, please",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Meat",
+        "answer": "Meat",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "肉",
+        "phonetic": "miːt",
+        "pos": "NOUN"
+      },
+      {
+        "index": 1,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "and noodles",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；面条（复数）"
+      },
+      {
+        "index": 2,
+        "text": "noodles",
+        "answer": "noodles",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "面条（复数）",
+        "phonetic": "ˈnuːd(ə)lz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "and noodles",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；面条（复数）"
+      },
+      {
+        "index": 3,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "介词",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "for me",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "为了；我"
+      },
+      {
+        "index": 4,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "for me",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "为了；我"
+      },
+      {
+        "index": 5,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "请给我来份肉和面条。"
+      },
+      {
+        "index": 6,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "Meat",
+      "for",
+      "me",
+      "and",
+      "noodles",
+      "please"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Meat",
+        "role": "中心成分",
+        "zh": "肉"
+      },
+      {
+        "id": "ud-2",
+        "text": "and noodles",
+        "role": "并列成分",
+        "zh": "和；面条（复数）",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "and",
+            "role": "并列连词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-4",
+            "text": "noodles",
+            "role": "中心词",
+            "zh": "面条（复数）"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "for me",
+        "role": "补充成分",
+        "zh": "为了；我",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "for",
+            "role": "介词",
+            "zh": "为了"
+          },
+          {
+            "id": "ud-7",
+            "text": "me",
+            "role": "中心词",
+            "zh": "我"
+          }
+        ]
+      },
+      {
+        "id": "ud-8",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Meat",
+        "phonetic": "miːt",
+        "pos": "NOUN",
+        "zh": "肉",
+        "componentRole": "中心成分",
+        "componentZh": "肉"
+      },
+      "1": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和",
+        "parentComponentText": "and noodles",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；面条（复数）"
+      },
+      "2": {
+        "text": "noodles",
+        "phonetic": "ˈnuːd(ə)lz",
+        "pos": "NOUN",
+        "zh": "面条（复数）",
+        "componentRole": "中心词",
+        "componentZh": "面条（复数）",
+        "parentComponentText": "and noodles",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；面条（复数）"
+      },
+      "3": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentRole": "介词",
+        "componentZh": "为了",
+        "parentComponentText": "for me",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "为了；我"
+      },
+      "4": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "中心词",
+        "componentZh": "我",
+        "parentComponentText": "for me",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "为了；我"
+      },
+      "6": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "ADV",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-ie8sfo6a8niz7786l1d0vm35-1",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-ie8sfo6a8niz7786l1d0vm35-1",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "肉",
+    "audioText": "Meat",
+    "fullEnglish": "Meat",
+    "phonetic": "miːt",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Meat",
+        "answer": "Meat",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "肉",
+        "phonetic": "miːt",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Meat"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Meat",
+        "phonetic": "miːt",
+        "pos": "NOUN",
+        "zh": "肉",
+        "componentZh": "肉"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-ie8sfo6a8niz7786l1d0vm35-3",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-ie8sfo6a8niz7786l1d0vm35-3",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "面条（复数）",
+    "audioText": "noodles",
+    "fullEnglish": "noodles",
+    "phonetic": "ˈnuːd(ə)lz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "noodles",
+        "answer": "noodles",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "面条（复数）",
+        "phonetic": "ˈnuːd(ə)lz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "noodles"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "noodles",
+        "phonetic": "ˈnuːd(ə)lz",
+        "pos": "NOUN",
+        "zh": "面条（复数）",
+        "componentZh": "面条（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-ie8sfo6a8niz7786l1d0vm35-4",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-ie8sfo6a8niz7786l1d0vm35-4",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "为",
+    "audioText": "for",
+    "fullEnglish": "for",
+    "phonetic": "fɔːr; fər",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "for"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentZh": "为了"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-ie8sfo6a8niz7786l1d0vm35-5",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-ie8sfo6a8niz7786l1d0vm35-5",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "me",
+    "fullEnglish": "me",
+    "phonetic": "miː",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "me"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-S-dau3wygd4nu3ilys8m0dmf03",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-S-dau3wygd4nu3ilys8m0dmf03",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Yangyang，你午餐吃什么？",
+    "audioText": "Yangyang, what do you have for lunch?",
+    "fullEnglish": "Yangyang, what do you have for lunch?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yangyang",
+        "answer": "Yangyang",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "呼语",
+        "zh": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Yangyang，你午餐吃什么？"
+      },
+      {
+        "index": 2,
+        "text": "what",
+        "answer": "what",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "宾语",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "助动词",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      },
+      {
+        "index": 4,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      },
+      {
+        "index": 6,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "介词",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "for lunch",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "为了；午餐"
+      },
+      {
+        "index": 7,
+        "text": "lunch",
+        "answer": "lunch",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "中心词",
+        "zh": "午餐",
+        "phonetic": "lʌnʧ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-8",
+        "parentComponentText": "lunch",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "午餐"
+      },
+      {
+        "index": 8,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Yangyang，你午餐吃什么？"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "Yangyang",
+      "what",
+      "do",
+      "lunch",
+      "have",
+      "for"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Yangyang",
+        "role": "呼语",
+        "zh": "Yangyang"
+      },
+      {
+        "id": "ud-2",
+        "text": "what",
+        "role": "宾语",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-3",
+        "text": "do",
+        "role": "助动词",
+        "zh": "构成疑问句"
+      },
+      {
+        "id": "ud-4",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-5",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-6",
+        "text": "for lunch",
+        "role": "介词短语/状语",
+        "zh": "为了；午餐",
+        "children": [
+          {
+            "id": "ud-7",
+            "text": "for",
+            "role": "介词",
+            "zh": "为了"
+          },
+          {
+            "id": "ud-8",
+            "text": "lunch",
+            "role": "介词宾语",
+            "zh": "午餐",
+            "children": [
+              {
+                "id": "ud-9",
+                "text": "lunch",
+                "role": "中心词",
+                "zh": "午餐"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON",
+        "zh": "Yangyang",
+        "componentRole": "呼语",
+        "componentZh": "Yangyang"
+      },
+      "2": {
+        "text": "what",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "宾语",
+        "componentZh": "什么"
+      },
+      "3": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentRole": "助动词",
+        "componentZh": "构成疑问句"
+      },
+      "4": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "5": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有"
+      },
+      "6": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentRole": "介词",
+        "componentZh": "为了",
+        "parentComponentText": "for lunch",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "为了；午餐"
+      },
+      "7": {
+        "text": "lunch",
+        "phonetic": "lʌnʧ",
+        "pos": "NOUN",
+        "zh": "午餐",
+        "componentRole": "中心词",
+        "componentZh": "午餐",
+        "parentComponentText": "lunch",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "午餐"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-dau3wygd4nu3ilys8m0dmf03-1",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-dau3wygd4nu3ilys8m0dmf03-1",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Yangyang",
+    "audioText": "Yangyang",
+    "fullEnglish": "Yangyang",
+    "phonetic": "yangyang",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yangyang",
+        "answer": "Yangyang",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yangyang"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Yangyang",
+        "phonetic": "yangyang",
+        "pos": "PROPN_PERSON",
+        "zh": "Yangyang",
+        "componentZh": "Yangyang"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-dau3wygd4nu3ilys8m0dmf03-2",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-dau3wygd4nu3ilys8m0dmf03-2",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么",
+    "audioText": "what",
+    "fullEnglish": "what",
+    "phonetic": "wʌt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "what",
+        "answer": "what",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "what"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "what",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-dau3wygd4nu3ilys8m0dmf03-3",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-dau3wygd4nu3ilys8m0dmf03-3",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "构成疑问句",
+    "audioText": "do",
+    "fullEnglish": "do",
+    "phonetic": "duː; də",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "do"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentZh": "构成疑问句"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-dau3wygd4nu3ilys8m0dmf03-7",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-dau3wygd4nu3ilys8m0dmf03-7",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "午餐",
+    "audioText": "lunch",
+    "fullEnglish": "lunch",
+    "phonetic": "lʌnʧ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "lunch",
+        "answer": "lunch",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "午餐",
+        "phonetic": "lʌnʧ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "lunch"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "lunch",
+        "phonetic": "lʌnʧ",
+        "pos": "NOUN",
+        "zh": "午餐",
+        "componentZh": "午餐"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-S-eja57h3j80bdj70f3ntqi9hp",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-S-eja57h3j80bdj70f3ntqi9hp",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们坐下吧。",
+    "audioText": "Let's sit down",
+    "fullEnglish": "Let's sit down",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "宾语 + 谓语",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "sit",
+        "answer": "sit",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "坐",
+        "phonetic": "sɪt",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "sit down",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "坐；（与 sit 搭配）"
+      },
+      {
+        "index": 2,
+        "text": "down",
+        "answer": "down",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "定语（名词修饰）",
+        "zh": "（与 sit 搭配）",
+        "phonetic": "daʊn",
+        "pos": "ADP",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "sit down",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "坐；（与 sit 搭配）"
+      }
+    ],
+    "shuffledBlocks": [
+      "sit",
+      "down",
+      "Let's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let's",
+        "role": "宾语 + 谓语",
+        "zh": "让我们"
+      },
+      {
+        "id": "ud-2",
+        "text": "sit down",
+        "role": "宾语补足语",
+        "zh": "坐；（与 sit 搭配）",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "sit down",
+            "role": "谓语",
+            "zh": "坐；（与 sit 搭配）",
+            "children": [
+              {
+                "id": "ud-4",
+                "text": "sit",
+                "role": "中心词",
+                "zh": "坐"
+              },
+              {
+                "id": "ud-5",
+                "text": "down",
+                "role": "定语（名词修饰）",
+                "zh": "（与 sit 搭配）"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentRole": "宾语 + 谓语",
+        "componentZh": "让我们"
+      },
+      "1": {
+        "text": "sit",
+        "phonetic": "sɪt",
+        "pos": "VERB",
+        "zh": "坐",
+        "componentRole": "中心词",
+        "componentZh": "坐",
+        "parentComponentText": "sit down",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "坐；（与 sit 搭配）"
+      },
+      "2": {
+        "text": "down",
+        "phonetic": "daʊn",
+        "pos": "ADP",
+        "zh": "（与 sit 搭配）",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "（与 sit 搭配）",
+        "parentComponentText": "sit down",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "坐；（与 sit 搭配）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-eja57h3j80bdj70f3ntqi9hp-1",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-eja57h3j80bdj70f3ntqi9hp-1",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让我们（缩写形式）",
+    "audioText": "Let's",
+    "fullEnglish": "Let's",
+    "phonetic": "lets",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentZh": "让我们"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-eja57h3j80bdj70f3ntqi9hp-2",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-eja57h3j80bdj70f3ntqi9hp-2",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "坐",
+    "audioText": "sit",
+    "fullEnglish": "sit",
+    "phonetic": "sɪt",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "sit",
+        "answer": "sit",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "坐",
+        "phonetic": "sɪt",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "sit"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "sit",
+        "phonetic": "sɪt",
+        "pos": "VERB",
+        "zh": "坐",
+        "componentZh": "坐"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-eja57h3j80bdj70f3ntqi9hp-3",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-eja57h3j80bdj70f3ntqi9hp-3",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "（与 sit 搭配）",
+    "audioText": "down",
+    "fullEnglish": "down",
+    "phonetic": "daʊn",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "down",
+        "answer": "down",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 sit 搭配）",
+        "phonetic": "daʊn",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "down"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "down",
+        "phonetic": "daʊn",
+        "pos": "ADP",
+        "zh": "（与 sit 搭配）",
+        "componentZh": "（与 sit 搭配）"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-S-iopf75hq9vybk50ywjlcpa79",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-S-iopf75hq9vybk50ywjlcpa79",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我有一个汉堡和一份冰淇淋。",
+    "audioText": "I have a hamburger and ice cream",
+    "fullEnglish": "I have a hamburger and ice cream",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "a hamburger and ice cream",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；汉堡包；和；冰；奶油"
+      },
+      {
+        "index": 3,
+        "text": "hamburger",
+        "answer": "hamburger",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "汉堡包",
+        "phonetic": "ˈhæmbɜːrɡər",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "a hamburger and ice cream",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；汉堡包；和；冰；奶油"
+      },
+      {
+        "index": 4,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "a hamburger and ice cream",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；汉堡包；和；冰；奶油"
+      },
+      {
+        "index": 5,
+        "text": "ice",
+        "answer": "ice",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "定语（名词修饰）",
+        "zh": "冰",
+        "phonetic": "aɪs",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "a hamburger and ice cream",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；汉堡包；和；冰；奶油"
+      },
+      {
+        "index": 6,
+        "text": "cream",
+        "answer": "cream",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "修饰语",
+        "zh": "奶油",
+        "phonetic": "krim",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "a hamburger and ice cream",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；汉堡包；和；冰；奶油"
+      }
+    ],
+    "shuffledBlocks": [
+      "and",
+      "a",
+      "ice",
+      "hamburger",
+      "cream",
+      "have",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      },
+      {
+        "id": "ud-3",
+        "text": "a hamburger and ice cream",
+        "role": "宾语",
+        "zh": "一个；汉堡包；和；冰；奶油",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-5",
+            "text": "hamburger",
+            "role": "中心词",
+            "zh": "汉堡包"
+          },
+          {
+            "id": "ud-6",
+            "text": "and",
+            "role": "并列连词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-7",
+            "text": "ice",
+            "role": "定语（名词修饰）",
+            "zh": "冰"
+          },
+          {
+            "id": "ud-8",
+            "text": "cream",
+            "role": "修饰语",
+            "zh": "奶油"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有"
+      },
+      "2": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "a hamburger and ice cream",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；汉堡包；和；冰；奶油"
+      },
+      "3": {
+        "text": "hamburger",
+        "phonetic": "ˈhæmbɜːrɡər",
+        "pos": "NOUN",
+        "zh": "汉堡包",
+        "componentRole": "中心词",
+        "componentZh": "汉堡包",
+        "parentComponentText": "a hamburger and ice cream",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；汉堡包；和；冰；奶油"
+      },
+      "4": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和",
+        "parentComponentText": "a hamburger and ice cream",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；汉堡包；和；冰；奶油"
+      },
+      "5": {
+        "text": "ice",
+        "phonetic": "aɪs",
+        "pos": "NOUN",
+        "zh": "冰",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "冰",
+        "parentComponentText": "a hamburger and ice cream",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；汉堡包；和；冰；奶油"
+      },
+      "6": {
+        "text": "cream",
+        "phonetic": "krim",
+        "pos": "NOUN",
+        "zh": "奶油",
+        "componentRole": "修饰语",
+        "componentZh": "奶油",
+        "parentComponentText": "a hamburger and ice cream",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；汉堡包；和；冰；奶油"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-iopf75hq9vybk50ywjlcpa79-3",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-iopf75hq9vybk50ywjlcpa79-3",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个",
+    "audioText": "a",
+    "fullEnglish": "a",
+    "phonetic": "ə; eɪ",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "a"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-iopf75hq9vybk50ywjlcpa79-4",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-iopf75hq9vybk50ywjlcpa79-4",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "汉堡包",
+    "audioText": "hamburger",
+    "fullEnglish": "hamburger",
+    "phonetic": "ˈhæmbɜːrɡər",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "hamburger",
+        "answer": "hamburger",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "汉堡包",
+        "phonetic": "ˈhæmbɜːrɡər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "hamburger"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "hamburger",
+        "phonetic": "ˈhæmbɜːrɡər",
+        "pos": "NOUN",
+        "zh": "汉堡包",
+        "componentZh": "汉堡包"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-iopf75hq9vybk50ywjlcpa79-6",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-iopf75hq9vybk50ywjlcpa79-6",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "冰",
+    "audioText": "ice",
+    "fullEnglish": "ice",
+    "phonetic": "aɪs",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "ice",
+        "answer": "ice",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "冰",
+        "phonetic": "aɪs",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "ice"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "ice",
+        "phonetic": "aɪs",
+        "pos": "NOUN",
+        "zh": "冰",
+        "componentZh": "冰"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-W-iopf75hq9vybk50ywjlcpa79-7",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-W-iopf75hq9vybk50ywjlcpa79-7",
+    "type": "word",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "奶油",
+    "audioText": "cream",
+    "fullEnglish": "cream",
+    "phonetic": "krim",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "cream",
+        "answer": "cream",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "奶油",
+        "phonetic": "krim",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "cream"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "cream",
+        "phonetic": "krim",
+        "pos": "NOUN",
+        "zh": "奶油",
+        "componentZh": "奶油"
+      }
+    }
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-PHRASE-ualo2m7s4ymcd7ex316mvou7",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-PHRASE-ualo2m7s4ymcd7ex316mvou7",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "鱼和米饭",
+    "audioText": "fish and rice",
+    "fullEnglish": "fish and rice",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "fish",
+        "answer": "fish",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "鱼",
+        "phonetic": "fɪʃ",
+        "pos": "NOUN",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "componentId": "ud-3",
+        "role": "并列连词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "and rice",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；米饭"
+      },
+      {
+        "index": 2,
+        "text": "rice",
+        "answer": "rice",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "米饭",
+        "phonetic": "raɪs",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "and rice",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；米饭"
+      }
+    ],
+    "shuffledBlocks": [
+      "fish",
+      "and",
+      "rice"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "fish",
+        "role": "中心成分",
+        "zh": "鱼"
+      },
+      {
+        "id": "ud-2",
+        "text": "and rice",
+        "role": "并列成分",
+        "zh": "和；米饭",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "and",
+            "role": "并列连词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-4",
+            "text": "rice",
+            "role": "中心词",
+            "zh": "米饭"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "fish",
+        "phonetic": "fɪʃ",
+        "pos": "NOUN",
+        "zh": "鱼",
+        "componentZh": "鱼",
+        "componentRole": "中心成分"
+      },
+      "1": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和",
+        "componentRole": "并列连词",
+        "parentComponentText": "and rice",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；米饭"
+      },
+      "2": {
+        "text": "rice",
+        "phonetic": "raɪs",
+        "pos": "NOUN",
+        "zh": "米饭",
+        "componentZh": "米饭",
+        "componentRole": "中心词",
+        "parentComponentText": "and rice",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；米饭"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-PHRASE-ntwxqexrwirnzvz50mgzqysw",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-PHRASE-ntwxqexrwirnzvz50mgzqysw",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "给你",
+    "audioText": "Here you are",
+    "fullEnglish": "Here you are",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Here",
+        "answer": "Here",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这里",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "表语"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-3",
+        "role": "修饰语",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "you are",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "你；是（现在时复数）"
+      },
+      {
+        "index": 2,
+        "text": "are",
+        "answer": "are",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是（现在时复数）",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "you are",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "你；是（现在时复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "are",
+      "Here",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Here",
+        "role": "表语",
+        "zh": "这里"
+      },
+      {
+        "id": "ud-2",
+        "text": "you are",
+        "role": "系动词",
+        "zh": "你；是（现在时复数）",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "you",
+            "role": "修饰语",
+            "zh": "你"
+          },
+          {
+            "id": "ud-4",
+            "text": "are",
+            "role": "中心词",
+            "zh": "是（现在时复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Here",
+        "phonetic": "hɪr",
+        "pos": "ADV",
+        "zh": "这里",
+        "componentZh": "这里",
+        "componentRole": "表语"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "修饰语",
+        "parentComponentText": "you are",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "你；是（现在时复数）"
+      },
+      "2": {
+        "text": "are",
+        "phonetic": "ɑr",
+        "pos": "AUX",
+        "zh": "是（现在时复数）",
+        "componentZh": "是（现在时复数）",
+        "componentRole": "中心词",
+        "parentComponentText": "you are",
+        "parentComponentRole": "系动词",
+        "parentComponentZh": "你；是（现在时复数）"
+      }
+    },
+    "sentenceType": "主系表结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-PHRASE-xf1lz3rovdls3zicfim1n9fl",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-PHRASE-xf1lz3rovdls3zicfim1n9fl",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "肉和面条",
+    "audioText": "Meat and noodles",
+    "fullEnglish": "Meat and noodles",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Meat",
+        "answer": "Meat",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "肉",
+        "phonetic": "miːt",
+        "pos": "NOUN",
+        "componentId": "ud-1",
+        "role": "中心成分"
+      },
+      {
+        "index": 1,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "componentId": "ud-3",
+        "role": "并列连词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "and noodles",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；面条（复数）"
+      },
+      {
+        "index": 2,
+        "text": "noodles",
+        "answer": "noodles",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "面条（复数）",
+        "phonetic": "ˈnuːd(ə)lz",
+        "pos": "NOUN",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "and noodles",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；面条（复数）"
+      }
+    ],
+    "shuffledBlocks": [
+      "noodles",
+      "and",
+      "Meat"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Meat",
+        "role": "中心成分",
+        "zh": "肉"
+      },
+      {
+        "id": "ud-2",
+        "text": "and noodles",
+        "role": "并列成分",
+        "zh": "和；面条（复数）",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "and",
+            "role": "并列连词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-4",
+            "text": "noodles",
+            "role": "中心词",
+            "zh": "面条（复数）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Meat",
+        "phonetic": "miːt",
+        "pos": "NOUN",
+        "zh": "肉",
+        "componentZh": "肉",
+        "componentRole": "中心成分"
+      },
+      "1": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和",
+        "componentRole": "并列连词",
+        "parentComponentText": "and noodles",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；面条（复数）"
+      },
+      "2": {
+        "text": "noodles",
+        "phonetic": "ˈnuːd(ə)lz",
+        "pos": "NOUN",
+        "zh": "面条（复数）",
+        "componentZh": "面条（复数）",
+        "componentRole": "中心词",
+        "parentComponentText": "and noodles",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；面条（复数）"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-PHRASE-qqetbuybdawdoev1lnfalsgy",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-PHRASE-qqetbuybdawdoev1lnfalsgy",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "给我",
+    "audioText": "for me",
+    "fullEnglish": "for me",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "for",
+      "me"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "for",
+        "role": "补充成分",
+        "zh": "为了"
+      },
+      {
+        "id": "ud-2",
+        "text": "me",
+        "role": "中心成分",
+        "zh": "我"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentZh": "为了",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-PHRASE-mqmvvnslsr7oo7l962os7u5l",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-PHRASE-mqmvvnslsr7oo7l962os7u5l",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你有",
+    "audioText": "do you have",
+    "fullEnglish": "do you have",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "构成疑问句",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "have",
+      "you",
+      "do"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "do",
+        "role": "助动词",
+        "zh": "构成疑问句"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "have",
+        "role": "谓语",
+        "zh": "有"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "AUX",
+        "zh": "构成疑问句",
+        "componentZh": "构成疑问句",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-PHRASE-mkncx5iydupyfnm4ipzcsxlw",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-PHRASE-mkncx5iydupyfnm4ipzcsxlw",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "午餐",
+    "audioText": "for lunch",
+    "fullEnglish": "for lunch",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "lunch",
+        "answer": "lunch",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "午餐",
+        "phonetic": "lʌnʧ",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "lunch",
+      "for"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "for",
+        "role": "补充成分",
+        "zh": "为了"
+      },
+      {
+        "id": "ud-2",
+        "text": "lunch",
+        "role": "中心成分",
+        "zh": "午餐"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentZh": "为了",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "lunch",
+        "phonetic": "lʌnʧ",
+        "pos": "NOUN",
+        "zh": "午餐",
+        "componentZh": "午餐",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-PHRASE-z7c6epqntg12pg3s5gkj5jir",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-PHRASE-z7c6epqntg12pg3s5gkj5jir",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让我们",
+    "audioText": "Let's",
+    "fullEnglish": "Let's",
+    "phonetic": "lets",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "宾语 + 谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let's",
+        "role": "宾语 + 谓语",
+        "zh": "让我们"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentZh": "让我们",
+        "componentRole": "宾语 + 谓语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-PHRASE-h4qkibaat6cdg49hmcigvbsd",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-PHRASE-h4qkibaat6cdg49hmcigvbsd",
+    "type": "sentence",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "坐下",
+    "audioText": "sit down",
+    "fullEnglish": "sit down",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "sit",
+        "answer": "sit",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "坐",
+        "phonetic": "sɪt",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "中心词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "sit down",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "坐；（与 sit 搭配）"
+      },
+      {
+        "index": 1,
+        "text": "down",
+        "answer": "down",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 sit 搭配）",
+        "phonetic": "daʊn",
+        "pos": "ADP",
+        "componentId": "ud-3",
+        "role": "定语（名词修饰）",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "sit down",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "坐；（与 sit 搭配）"
+      }
+    ],
+    "shuffledBlocks": [
+      "down",
+      "sit"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "sit down",
+        "role": "谓语",
+        "zh": "坐；（与 sit 搭配）",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "sit",
+            "role": "中心词",
+            "zh": "坐"
+          },
+          {
+            "id": "ud-3",
+            "text": "down",
+            "role": "定语（名词修饰）",
+            "zh": "（与 sit 搭配）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "sit",
+        "phonetic": "sɪt",
+        "pos": "VERB",
+        "zh": "坐",
+        "componentZh": "坐",
+        "componentRole": "中心词",
+        "parentComponentText": "sit down",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "坐；（与 sit 搭配）"
+      },
+      "1": {
+        "text": "down",
+        "phonetic": "daʊn",
+        "pos": "ADP",
+        "zh": "（与 sit 搭配）",
+        "componentZh": "（与 sit 搭配）",
+        "componentRole": "定语（名词修饰）",
+        "parentComponentText": "sit down",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "坐；（与 sit 搭配）"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-PHRASE-o73o5d77c9glju28ydmqedna",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-PHRASE-o73o5d77c9glju28ydmqedna",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个汉堡",
+    "audioText": "a hamburger",
+    "fullEnglish": "a hamburger",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "hamburger",
+        "answer": "hamburger",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "汉堡包",
+        "phonetic": "ˈhæmbɜːrɡər",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "a",
+      "hamburger"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "a",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-2",
+        "text": "hamburger",
+        "role": "中心成分",
+        "zh": "汉堡包"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "hamburger",
+        "phonetic": "ˈhæmbɜːrɡər",
+        "pos": "NOUN",
+        "zh": "汉堡包",
+        "componentZh": "汉堡包",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-fgzv56w0rnpi6czkovkta577-PHRASE-zefmm6zpiw7gnnx216yj3xrw",
+    "contentId": "JLB-fgzv56w0rnpi6czkovkta577-PHRASE-zefmm6zpiw7gnnx216yj3xrw",
+    "type": "phrase",
+    "coursePackageId": "glfpn3um55etw4co0uo73cwe",
+    "coursePackageName": "【北京版】二年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "fgzv56w0rnpi6czkovkta577",
+    "unitTitle": "Unit 2 What’s for Breakfast?--Lesson 6【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "冰淇淋",
+    "audioText": "ice cream",
+    "fullEnglish": "ice cream",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "ice",
+        "answer": "ice",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "冰",
+        "phonetic": "aɪs",
+        "pos": "NOUN",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "cream",
+        "answer": "cream",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "奶油",
+        "phonetic": "krim",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "cream",
+      "ice"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "ice",
+        "role": "补充成分",
+        "zh": "冰"
+      },
+      {
+        "id": "ud-2",
+        "text": "cream",
+        "role": "中心成分",
+        "zh": "奶油"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "ice",
+        "phonetic": "aɪs",
+        "pos": "NOUN",
+        "zh": "冰",
+        "componentZh": "冰",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "cream",
+        "phonetic": "krim",
+        "pos": "NOUN",
+        "zh": "奶油",
+        "componentZh": "奶油",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

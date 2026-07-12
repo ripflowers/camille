@@ -1,0 +1,2084 @@
+[
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-S-g9ry89us49s5on5djiutl2fr",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-S-g9ry89us49s5on5djiutl2fr",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "妈妈，今天天气怎么样？",
+    "audioText": "What's the weather like today, Mum?",
+    "fullEnglish": "What's the weather like today, Mum?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What's",
+        "answer": "What's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "疑问词 + 系动词",
+        "zh": "什么",
+        "phonetic": "wʌts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the weather like today",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；天气；像；今天"
+      },
+      {
+        "index": 2,
+        "text": "weather",
+        "answer": "weather",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "天气",
+        "phonetic": "ˈweðər",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the weather like today",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；天气；像；今天"
+      },
+      {
+        "index": 3,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "介词",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the weather like today",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；天气；像；今天"
+      },
+      {
+        "index": 4,
+        "text": "today",
+        "answer": "today",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "修饰语",
+        "zh": "今天",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the weather like today",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；天气；像；今天"
+      },
+      {
+        "index": 5,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "妈妈，今天天气怎么样？"
+      },
+      {
+        "index": 6,
+        "text": "Mum",
+        "answer": "Mum",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "呼语",
+        "zh": "妈妈",
+        "phonetic": "mʌm",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the weather like today Mum",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；天气；像；今天；妈妈"
+      },
+      {
+        "index": 7,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "妈妈，今天天气怎么样？"
+      }
+    ],
+    "shuffledBlocks": [
+      "weather",
+      "like",
+      "the",
+      "What's",
+      "Mum",
+      "today"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What's",
+        "role": "疑问词 + 系动词",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "the weather like today",
+        "role": "主语",
+        "zh": "定冠词；天气；像；今天",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-4",
+            "text": "weather",
+            "role": "中心词",
+            "zh": "天气"
+          },
+          {
+            "id": "ud-5",
+            "text": "like",
+            "role": "介词",
+            "zh": "像"
+          },
+          {
+            "id": "ud-6",
+            "text": "today",
+            "role": "修饰语",
+            "zh": "今天"
+          }
+        ]
+      },
+      {
+        "id": "ud-7",
+        "text": "Mum",
+        "role": "呼语",
+        "zh": "妈妈"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What's",
+        "phonetic": "wʌts",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "疑问词 + 系动词",
+        "componentZh": "什么"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the weather like today",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；天气；像；今天"
+      },
+      "2": {
+        "text": "weather",
+        "phonetic": "ˈweðər",
+        "pos": "NOUN",
+        "zh": "天气",
+        "componentRole": "中心词",
+        "componentZh": "天气",
+        "parentComponentText": "the weather like today",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；天气；像；今天"
+      },
+      "3": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentRole": "介词",
+        "componentZh": "像",
+        "parentComponentText": "the weather like today",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；天气；像；今天"
+      },
+      "4": {
+        "text": "today",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN",
+        "zh": "今天",
+        "componentRole": "修饰语",
+        "componentZh": "今天",
+        "parentComponentText": "the weather like today",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；天气；像；今天"
+      },
+      "6": {
+        "text": "Mum",
+        "phonetic": "mʌm",
+        "pos": "NOUN",
+        "zh": "妈妈",
+        "componentRole": "呼语",
+        "componentZh": "妈妈",
+        "parentComponentText": "the weather like today Mum",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；天气；像；今天；妈妈"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-g9ry89us49s5on5djiutl2fr-1",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-g9ry89us49s5on5djiutl2fr-1",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么",
+    "audioText": "What's",
+    "fullEnglish": "What's",
+    "phonetic": "wʌts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What's",
+        "answer": "What's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "What's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "What's",
+        "phonetic": "wʌts",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么"
+      }
+    }
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-g9ry89us49s5on5djiutl2fr-2",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-g9ry89us49s5on5djiutl2fr-2",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "the",
+    "fullEnglish": "the",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "the"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-g9ry89us49s5on5djiutl2fr-3",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-g9ry89us49s5on5djiutl2fr-3",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "天气",
+    "audioText": "weather",
+    "fullEnglish": "weather",
+    "phonetic": "ˈweðər",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "weather",
+        "answer": "weather",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "天气",
+        "phonetic": "ˈweðər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "weather"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "weather",
+        "phonetic": "ˈweðər",
+        "pos": "NOUN",
+        "zh": "天气",
+        "componentZh": "天气"
+      }
+    }
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-g9ry89us49s5on5djiutl2fr-4",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-g9ry89us49s5on5djiutl2fr-4",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "像",
+    "audioText": "like",
+    "fullEnglish": "like",
+    "phonetic": "laɪk",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "like"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentZh": "像"
+      }
+    }
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-g9ry89us49s5on5djiutl2fr-5",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-g9ry89us49s5on5djiutl2fr-5",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "今天",
+    "audioText": "today",
+    "fullEnglish": "today",
+    "phonetic": "təˈdeɪ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "today",
+        "answer": "today",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "今天",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "today"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "today",
+        "phonetic": "təˈdeɪ",
+        "pos": "NOUN",
+        "zh": "今天",
+        "componentZh": "今天"
+      }
+    }
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-g9ry89us49s5on5djiutl2fr-6",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-g9ry89us49s5on5djiutl2fr-6",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Mum",
+    "audioText": "Mum",
+    "fullEnglish": "Mum",
+    "phonetic": "mʌm",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Mum",
+        "answer": "Mum",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "妈妈",
+        "phonetic": "mʌm",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "Mum"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Mum",
+        "phonetic": "mʌm",
+        "pos": "NOUN",
+        "zh": "妈妈",
+        "componentZh": "妈妈"
+      }
+    }
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-S-kdqbfuplyljzadi4i4j0s3jn",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-S-kdqbfuplyljzadi4i4j0s3jn",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "天气晴朗。",
+    "audioText": "It's sunny",
+    "fullEnglish": "It's sunny",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "sunny",
+        "answer": "sunny",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "晴朗的",
+        "phonetic": "ˈsʌni",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "sunny",
+      "It's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "sunny",
+        "role": "表语",
+        "zh": "晴朗的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "sunny",
+        "phonetic": "ˈsʌni",
+        "pos": "ADJ",
+        "zh": "晴朗的",
+        "componentRole": "表语",
+        "componentZh": "晴朗的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-S-tbmydt58hzjguqh8hnhwm5yv",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-S-tbmydt58hzjguqh8hnhwm5yv",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们可以去公园吗？",
+    "audioText": "Can we go to the park?",
+    "fullEnglish": "Can we go to the park?",
+    "sentenceType": "一般疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Can",
+        "answer": "Can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "助动词",
+        "zh": "可以",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      },
+      {
+        "index": 1,
+        "text": "we",
+        "answer": "we",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "介词",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "to the park",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "到；定冠词；公园"
+      },
+      {
+        "index": 4,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "the park",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；公园"
+      },
+      {
+        "index": 5,
+        "text": "park",
+        "answer": "park",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "中心词",
+        "zh": "公园",
+        "phonetic": "pɑːrk",
+        "pos": "NOUN",
+        "parentComponentId": "ud-6",
+        "parentComponentText": "the park",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；公园"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "我们可以去公园吗？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Can",
+      "we",
+      "the",
+      "to",
+      "go",
+      "park"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Can",
+        "role": "助动词",
+        "zh": "可以"
+      },
+      {
+        "id": "ud-2",
+        "text": "we",
+        "role": "主语",
+        "zh": "我们"
+      },
+      {
+        "id": "ud-3",
+        "text": "go",
+        "role": "谓语",
+        "zh": "去"
+      },
+      {
+        "id": "ud-4",
+        "text": "to the park",
+        "role": "地点状语",
+        "zh": "到；定冠词；公园",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "to",
+            "role": "介词",
+            "zh": "到"
+          },
+          {
+            "id": "ud-6",
+            "text": "the park",
+            "role": "介词宾语",
+            "zh": "定冠词；公园",
+            "children": [
+              {
+                "id": "ud-7",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-8",
+                "text": "park",
+                "role": "中心词",
+                "zh": "公园"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "可以",
+        "componentRole": "助动词",
+        "componentZh": "可以"
+      },
+      "1": {
+        "text": "we",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentRole": "主语",
+        "componentZh": "我们"
+      },
+      "2": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentRole": "谓语",
+        "componentZh": "去"
+      },
+      "3": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentRole": "介词",
+        "componentZh": "到",
+        "parentComponentText": "to the park",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "到；定冠词；公园"
+      },
+      "4": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the park",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；公园"
+      },
+      "5": {
+        "text": "park",
+        "phonetic": "pɑːrk",
+        "pos": "NOUN",
+        "zh": "公园",
+        "componentRole": "中心词",
+        "componentZh": "公园",
+        "parentComponentText": "the park",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；公园"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-tbmydt58hzjguqh8hnhwm5yv-1",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-tbmydt58hzjguqh8hnhwm5yv-1",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "能",
+    "audioText": "Can",
+    "fullEnglish": "Can",
+    "phonetic": "kæn",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Can",
+        "answer": "Can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "可以",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "Can"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "可以",
+        "componentZh": "可以"
+      }
+    }
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-tbmydt58hzjguqh8hnhwm5yv-2",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-tbmydt58hzjguqh8hnhwm5yv-2",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们",
+    "audioText": "we",
+    "fullEnglish": "we",
+    "phonetic": "wiː; wi",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "we",
+        "answer": "we",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我们",
+        "phonetic": "wiː; wi",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "we"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "we",
+        "phonetic": "wiː; wi",
+        "pos": "PRON",
+        "zh": "我们",
+        "componentZh": "我们"
+      }
+    }
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-tbmydt58hzjguqh8hnhwm5yv-3",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-tbmydt58hzjguqh8hnhwm5yv-3",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "去",
+    "audioText": "go",
+    "fullEnglish": "go",
+    "phonetic": "ɡoʊ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "go"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去"
+      }
+    }
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-tbmydt58hzjguqh8hnhwm5yv-4",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-tbmydt58hzjguqh8hnhwm5yv-4",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "引导不定式",
+    "audioText": "to",
+    "fullEnglish": "to",
+    "phonetic": "tuː; tə",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "到",
+        "phonetic": "tuː; tə",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "to"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "ADP",
+        "zh": "到",
+        "componentZh": "到"
+      }
+    }
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-tbmydt58hzjguqh8hnhwm5yv-6",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-tbmydt58hzjguqh8hnhwm5yv-6",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "公园",
+    "audioText": "park",
+    "fullEnglish": "park",
+    "phonetic": "pɑːrk",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "park",
+        "answer": "park",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "公园",
+        "phonetic": "pɑːrk",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "park"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "park",
+        "phonetic": "pɑːrk",
+        "pos": "NOUN",
+        "zh": "公园",
+        "componentZh": "公园"
+      }
+    }
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-S-jiw4pgyl9ocek36r4k4zmg78",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-S-jiw4pgyl9ocek36r4k4zmg78",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好的。是的，天气晴朗又凉爽。",
+    "audioText": "OK. Yes, it's sunny and cool",
+    "fullEnglish": "OK. Yes, it's sunny and cool",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "OK",
+        "answer": "OK",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "abbreviation",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "好的",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": ".",
+        "answer": ".",
+        "blank": ".",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "好的。是的，天气晴朗又凉爽。"
+      },
+      {
+        "index": 2,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "语气/引导语",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "好的。是的，天气晴朗又凉爽。"
+      },
+      {
+        "index": 4,
+        "text": "it's",
+        "answer": "it's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 5,
+        "text": "sunny",
+        "answer": "sunny",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "表语",
+        "zh": "晴朗的",
+        "phonetic": "ˈsʌni",
+        "pos": "ADJ"
+      },
+      {
+        "index": 6,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "and cool",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；凉爽的"
+      },
+      {
+        "index": 7,
+        "text": "cool",
+        "answer": "cool",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心成分",
+        "zh": "凉爽的",
+        "phonetic": "kuːl",
+        "pos": "ADJ",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "and cool",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；凉爽的"
+      }
+    ],
+    "shuffledBlocks": [
+      "OK",
+      "it's",
+      "and",
+      "sunny",
+      "cool",
+      "Yes"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "OK",
+        "role": "中心成分",
+        "zh": "好的"
+      },
+      {
+        "id": "ud-2",
+        "text": "Yes",
+        "role": "语气/引导语",
+        "zh": "是的"
+      },
+      {
+        "id": "ud-3",
+        "text": "it's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-4",
+        "text": "sunny",
+        "role": "表语",
+        "zh": "晴朗的"
+      },
+      {
+        "id": "ud-5",
+        "text": "and cool",
+        "role": "并列成分",
+        "zh": "和；凉爽的",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "and",
+            "role": "并列连词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-7",
+            "text": "cool",
+            "role": "中心成分",
+            "zh": "凉爽的"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "OK",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "INTJ",
+        "zh": "好的",
+        "componentRole": "中心成分",
+        "componentZh": "好的"
+      },
+      "2": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentRole": "语气/引导语",
+        "componentZh": "是的"
+      },
+      "4": {
+        "text": "it's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "5": {
+        "text": "sunny",
+        "phonetic": "ˈsʌni",
+        "pos": "ADJ",
+        "zh": "晴朗的",
+        "componentRole": "表语",
+        "componentZh": "晴朗的"
+      },
+      "6": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和",
+        "parentComponentText": "and cool",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；凉爽的"
+      },
+      "7": {
+        "text": "cool",
+        "phonetic": "kuːl",
+        "pos": "ADJ",
+        "zh": "凉爽的",
+        "componentRole": "中心成分",
+        "componentZh": "凉爽的",
+        "parentComponentText": "and cool",
+        "parentComponentRole": "并列成分",
+        "parentComponentZh": "和；凉爽的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-jiw4pgyl9ocek36r4k4zmg78-1",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-jiw4pgyl9ocek36r4k4zmg78-1",
+    "type": "abbreviation",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好的",
+    "audioText": "OK",
+    "fullEnglish": "OK",
+    "phonetic": "oʊˈkeɪ",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "OK",
+        "answer": "OK",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "abbreviation",
+        "zh": "好的",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "OK"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "OK",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "INTJ",
+        "zh": "好的",
+        "componentZh": "好的"
+      }
+    }
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-jiw4pgyl9ocek36r4k4zmg78-2",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-jiw4pgyl9ocek36r4k4zmg78-2",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是的",
+    "audioText": "Yes",
+    "fullEnglish": "Yes",
+    "phonetic": "jes",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Yes",
+        "answer": "Yes",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "是的",
+        "phonetic": "jes",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Yes"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Yes",
+        "phonetic": "jes",
+        "pos": "INTJ",
+        "zh": "是的",
+        "componentZh": "是的"
+      }
+    }
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-jiw4pgyl9ocek36r4k4zmg78-3",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-jiw4pgyl9ocek36r4k4zmg78-3",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它是",
+    "audioText": "it's",
+    "fullEnglish": "it's",
+    "phonetic": "ɪts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "it's",
+        "answer": "it's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "it's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "it's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是"
+      }
+    }
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-jiw4pgyl9ocek36r4k4zmg78-4",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-jiw4pgyl9ocek36r4k4zmg78-4",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "晴朗的",
+    "audioText": "sunny",
+    "fullEnglish": "sunny",
+    "phonetic": "ˈsʌni",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "sunny",
+        "answer": "sunny",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "晴朗的",
+        "phonetic": "ˈsʌni",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "sunny"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "sunny",
+        "phonetic": "ˈsʌni",
+        "pos": "ADJ",
+        "zh": "晴朗的",
+        "componentZh": "晴朗的"
+      }
+    }
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-jiw4pgyl9ocek36r4k4zmg78-5",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-jiw4pgyl9ocek36r4k4zmg78-5",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "和",
+    "audioText": "and",
+    "fullEnglish": "and",
+    "phonetic": "ænd; ənd",
+    "pos": "CCONJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "and"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和"
+      }
+    }
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-jiw4pgyl9ocek36r4k4zmg78-6",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-jiw4pgyl9ocek36r4k4zmg78-6",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "凉爽的",
+    "audioText": "cool",
+    "fullEnglish": "cool",
+    "phonetic": "kuːl",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "cool",
+        "answer": "cool",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "凉爽的",
+        "phonetic": "kuːl",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "cool"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "cool",
+        "phonetic": "kuːl",
+        "pos": "ADJ",
+        "zh": "凉爽的",
+        "componentZh": "凉爽的"
+      }
+    }
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-S-dj88dxzn30ngqrszhnso9t4w",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-S-dj88dxzn30ngqrszhnso9t4w",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这是个美好的秋日。",
+    "audioText": "It's a nice autumn day",
+    "fullEnglish": "It's a nice autumn day",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "补充成分",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      },
+      {
+        "index": 2,
+        "text": "nice",
+        "answer": "nice",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "补充成分",
+        "zh": "美好的",
+        "phonetic": "naɪs",
+        "pos": "ADJ"
+      },
+      {
+        "index": 3,
+        "text": "autumn",
+        "answer": "autumn",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "补充成分",
+        "zh": "秋天",
+        "phonetic": "ˈɔːtəm",
+        "pos": "NOUN"
+      },
+      {
+        "index": 4,
+        "text": "day",
+        "answer": "day",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "节日",
+        "phonetic": "deɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "nice",
+      "day",
+      "a",
+      "It's",
+      "autumn"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "a",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-3",
+        "text": "nice",
+        "role": "补充成分",
+        "zh": "美好的"
+      },
+      {
+        "id": "ud-4",
+        "text": "autumn",
+        "role": "补充成分",
+        "zh": "秋天"
+      },
+      {
+        "id": "ud-5",
+        "text": "day",
+        "role": "表语",
+        "zh": "节日"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "补充成分",
+        "componentZh": "一个"
+      },
+      "2": {
+        "text": "nice",
+        "phonetic": "naɪs",
+        "pos": "ADJ",
+        "zh": "美好的",
+        "componentRole": "补充成分",
+        "componentZh": "美好的"
+      },
+      "3": {
+        "text": "autumn",
+        "phonetic": "ˈɔːtəm",
+        "pos": "NOUN",
+        "zh": "秋天",
+        "componentRole": "补充成分",
+        "componentZh": "秋天"
+      },
+      "4": {
+        "text": "day",
+        "phonetic": "deɪ",
+        "pos": "NOUN",
+        "zh": "节日",
+        "componentRole": "表语",
+        "componentZh": "节日"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-dj88dxzn30ngqrszhnso9t4w-2",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-dj88dxzn30ngqrszhnso9t4w-2",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个",
+    "audioText": "a",
+    "fullEnglish": "a",
+    "phonetic": "ə; eɪ",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "a"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个"
+      }
+    }
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-dj88dxzn30ngqrszhnso9t4w-3",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-dj88dxzn30ngqrszhnso9t4w-3",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "美好的",
+    "audioText": "nice",
+    "fullEnglish": "nice",
+    "phonetic": "naɪs",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "nice",
+        "answer": "nice",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "美好的",
+        "phonetic": "naɪs",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "nice"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "nice",
+        "phonetic": "naɪs",
+        "pos": "ADJ",
+        "zh": "美好的",
+        "componentZh": "美好的"
+      }
+    }
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-dj88dxzn30ngqrszhnso9t4w-4",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-dj88dxzn30ngqrszhnso9t4w-4",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "秋天",
+    "audioText": "autumn",
+    "fullEnglish": "autumn",
+    "phonetic": "ˈɔːtəm",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "autumn",
+        "answer": "autumn",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "秋天",
+        "phonetic": "ˈɔːtəm",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "autumn"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "autumn",
+        "phonetic": "ˈɔːtəm",
+        "pos": "NOUN",
+        "zh": "秋天",
+        "componentZh": "秋天"
+      }
+    }
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-dj88dxzn30ngqrszhnso9t4w-5",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-dj88dxzn30ngqrszhnso9t4w-5",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "日子",
+    "audioText": "day",
+    "fullEnglish": "day",
+    "phonetic": "deɪ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "day",
+        "answer": "day",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "节日",
+        "phonetic": "deɪ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "day"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "day",
+        "phonetic": "deɪ",
+        "pos": "NOUN",
+        "zh": "节日",
+        "componentZh": "节日"
+      }
+    }
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-S-o6dn567l8wn8w0ihurt0uonp",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-S-o6dn567l8wn8w0ihurt0uonp",
+    "type": "sentence",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我喜欢秋天。",
+    "audioText": "I like autumn",
+    "fullEnglish": "I like autumn",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "像",
+        "phonetic": "laɪk",
+        "pos": "ADP"
+      },
+      {
+        "index": 2,
+        "text": "autumn",
+        "answer": "autumn",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "宾语",
+        "zh": "秋天",
+        "phonetic": "ˈɔːtəm",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "like",
+      "autumn"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "like",
+        "role": "谓语",
+        "zh": "像"
+      },
+      {
+        "id": "ud-3",
+        "text": "autumn",
+        "role": "宾语",
+        "zh": "秋天"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "ADP",
+        "zh": "像",
+        "componentRole": "谓语",
+        "componentZh": "像"
+      },
+      "2": {
+        "text": "autumn",
+        "phonetic": "ˈɔːtəm",
+        "pos": "NOUN",
+        "zh": "秋天",
+        "componentRole": "宾语",
+        "componentZh": "秋天"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-zxqedza3vy6aazweryk5ez49-W-o6dn567l8wn8w0ihurt0uonp-1",
+    "contentId": "JLB-zxqedza3vy6aazweryk5ez49-W-o6dn567l8wn8w0ihurt0uonp-1",
+    "type": "word",
+    "coursePackageId": "mdgmdbjuvwgh85vdzc5g3n9t",
+    "coursePackageName": "【北京版】三年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "zxqedza3vy6aazweryk5ez49",
+    "unitTitle": "Unit 5  It’s a Nice Autumn Day-Lesson 15-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  }
+]

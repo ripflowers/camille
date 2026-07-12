@@ -1,0 +1,214 @@
+{
+  "id": "zpxejwtkg6ntnzzmmh1rrtsl",
+  "title": "Unit 3 ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤Be a Nice Person-Lesson 9-【单词】",
+  "description": "Lesson ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤9: Can You Help Me, Please?",
+  "video": "",
+  "order": 17,
+  "coursePackId": "zxs5fobt8ju2xurza7drvs2h",
+  "type": "normal",
+  "mediaUrl": null,
+  "mediaAssetId": null,
+  "image": null,
+  "statements": [
+    {
+      "id": "b2yhrbfr6eztsz3mp8amvkaz",
+      "order": 1,
+      "chinese": "打扰一下",
+      "english": "Excuse me",
+      "soundmark": "/ɪkˈskjuːs/ ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤/miː/ ",
+      "type": "sentence",
+      "sentenceId": "yhmy498opb1nxay3zwg5sed0",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "w7pglgx87x051x19nxt25hrz",
+      "order": 2,
+      "chinese": "请",
+      "english": "Please",
+      "soundmark": "/pliːz/ ",
+      "type": "",
+      "sentenceId": "jf16kpavg3t6149njypn3vlb",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "q70lewed2g3lp7amnuttjegi",
+      "order": 3,
+      "chinese": "蝙蝠",
+      "english": "Bat",
+      "soundmark": "/bæt/ ",
+      "type": "",
+      "sentenceId": "dq8ru2aluvt0qmytgi3overw",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "er9gfuv5bp4niyyv1i4yje3d",
+      "order": 4,
+      "chinese": "使用",
+      "english": "Use",
+      "soundmark": "/juːz/ ",
+      "type": "",
+      "sentenceId": "wy7b4duqno82b5lzvgej7l1l",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "l2qs0vcn1g5mguf3xi9ne58f",
+      "order": 5,
+      "chinese": "抱歉",
+      "english": "Sorry",
+      "soundmark": "/ˈsɑːri/ ",
+      "type": "",
+      "sentenceId": "actdxrkkx2x73bs7w05uvv7c",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    }
+  ],
+  "sentences": [
+    {
+      "id": "yhmy498opb1nxay3zwg5sed0",
+      "content": "Excuse me",
+      "english": "Excuse me",
+      "chinese": "打扰一下",
+      "sortOrder": 1,
+      "wordDetails": [
+        {
+          "pos": "VERB",
+          "word": "Excuse",
+          "phonetic": {
+            "uk": "ɪkˈskjuːs",
+            "us": "ɪkˈskjuːs"
+          },
+          "definition": "原谅"
+        },
+        {
+          "pos": "PRON",
+          "word": "me",
+          "phonetic": {
+            "uk": "miː",
+            "us": "miː"
+          },
+          "definition": "我"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "root": 0,
+        "edges": [
+          {
+            "label": "dobj",
+            "source": 0,
+            "target": 1
+          }
+        ],
+        "nodes": [
+          {
+            "id": 0,
+            "dep": "ROOT",
+            "pos": "VERB",
+            "tag": "VB",
+            "head": "Excuse",
+            "word": "Excuse",
+            "lemma": "excuse",
+            "phrase": "Excuse me",
+            "end_idx": 1,
+            "head_id": 0,
+            "children": [
+              1
+            ],
+            "left_edge": 0,
+            "start_idx": 0,
+            "right_edge": 1
+          },
+          {
+            "id": 1,
+            "dep": "dobj",
+            "pos": "PRON",
+            "tag": "PRP",
+            "head": "Excuse",
+            "word": "me",
+            "lemma": "I",
+            "phrase": "me",
+            "end_idx": 1,
+            "head_id": 0,
+            "children": [],
+            "left_edge": 1,
+            "start_idx": 1,
+            "right_edge": 1
+          }
+        ],
+        "sentence": "Excuse me"
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "jf16kpavg3t6149njypn3vlb",
+      "content": "Please",
+      "english": "Please",
+      "chinese": "请",
+      "sortOrder": 2,
+      "wordDetails": [],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "dq8ru2aluvt0qmytgi3overw",
+      "content": "Bat",
+      "english": "Bat",
+      "chinese": "蝙蝠",
+      "sortOrder": 3,
+      "wordDetails": [],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "wy7b4duqno82b5lzvgej7l1l",
+      "content": "Use",
+      "english": "Use",
+      "chinese": "使用",
+      "sortOrder": 4,
+      "wordDetails": [],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "actdxrkkx2x73bs7w05uvv7c",
+      "content": "Sorry",
+      "english": "Sorry",
+      "chinese": "抱歉",
+      "sortOrder": 5,
+      "wordDetails": [],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    }
+  ],
+  "statementId": ""
+}

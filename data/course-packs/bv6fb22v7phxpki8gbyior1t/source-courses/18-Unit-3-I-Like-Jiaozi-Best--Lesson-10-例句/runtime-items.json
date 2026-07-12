@@ -1,0 +1,3161 @@
+[
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-S-wgpma66nqwcz3djucdgzfxbw",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-S-wgpma66nqwcz3djucdgzfxbw",
+    "type": "sentence",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你最喜欢的食物是什么，Lingling？",
+    "audioText": "What's your favourite food, Lingling?",
+    "fullEnglish": "What's your favourite food, Lingling?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What's",
+        "answer": "What's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "疑问词 + 系动词",
+        "zh": "什么",
+        "phonetic": "wʌts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "your favourite food",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "你的；最喜欢的；食物"
+      },
+      {
+        "index": 2,
+        "text": "favourite",
+        "answer": "favourite",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "定语（形容词）",
+        "zh": "最喜欢的",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "ADJ",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "your favourite food",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "你的；最喜欢的；食物"
+      },
+      {
+        "index": 3,
+        "text": "food",
+        "answer": "food",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "食物",
+        "phonetic": "fuːd",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "your favourite food",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "你的；最喜欢的；食物"
+      },
+      {
+        "index": 4,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你最喜欢的食物是什么，Lingling？"
+      },
+      {
+        "index": 5,
+        "text": "Lingling",
+        "answer": "Lingling",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "呼语",
+        "zh": "Lingling",
+        "phonetic": "ˈlɪŋlɪŋ",
+        "pos": "PROPN_PERSON",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "your favourite food Lingling",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "你的；最喜欢的；食物；Lingling"
+      },
+      {
+        "index": 6,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你最喜欢的食物是什么，Lingling？"
+      }
+    ],
+    "shuffledBlocks": [
+      "favourite",
+      "food",
+      "What's",
+      "your",
+      "Lingling"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What's",
+        "role": "疑问词 + 系动词",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "your favourite food",
+        "role": "主语",
+        "zh": "你的；最喜欢的；食物",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "your",
+            "role": "限定词",
+            "zh": "你的"
+          },
+          {
+            "id": "ud-4",
+            "text": "favourite",
+            "role": "定语（形容词）",
+            "zh": "最喜欢的"
+          },
+          {
+            "id": "ud-5",
+            "text": "food",
+            "role": "中心词",
+            "zh": "食物"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "Lingling",
+        "role": "呼语",
+        "zh": "Lingling"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What's",
+        "phonetic": "wʌts",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "疑问词 + 系动词",
+        "componentZh": "什么"
+      },
+      "1": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentRole": "限定词",
+        "componentZh": "你的",
+        "parentComponentText": "your favourite food",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "你的；最喜欢的；食物"
+      },
+      "2": {
+        "text": "favourite",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "ADJ",
+        "zh": "最喜欢的",
+        "componentRole": "定语（形容词）",
+        "componentZh": "最喜欢的",
+        "parentComponentText": "your favourite food",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "你的；最喜欢的；食物"
+      },
+      "3": {
+        "text": "food",
+        "phonetic": "fuːd",
+        "pos": "NOUN",
+        "zh": "食物",
+        "componentRole": "中心词",
+        "componentZh": "食物",
+        "parentComponentText": "your favourite food",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "你的；最喜欢的；食物"
+      },
+      "5": {
+        "text": "Lingling",
+        "phonetic": "ˈlɪŋlɪŋ",
+        "pos": "PROPN_PERSON",
+        "zh": "Lingling",
+        "componentRole": "呼语",
+        "componentZh": "Lingling",
+        "parentComponentText": "your favourite food Lingling",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "你的；最喜欢的；食物；Lingling"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-wgpma66nqwcz3djucdgzfxbw-1",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-wgpma66nqwcz3djucdgzfxbw-1",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么",
+    "audioText": "What's",
+    "fullEnglish": "What's",
+    "phonetic": "wʌts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What's",
+        "answer": "What's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "What's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "What's",
+        "phonetic": "wʌts",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-wgpma66nqwcz3djucdgzfxbw-2",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-wgpma66nqwcz3djucdgzfxbw-2",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你的",
+    "audioText": "your",
+    "fullEnglish": "your",
+    "phonetic": "jʊr; jər",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "your"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentZh": "你的"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-wgpma66nqwcz3djucdgzfxbw-3",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-wgpma66nqwcz3djucdgzfxbw-3",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "最喜欢的",
+    "audioText": "favourite",
+    "fullEnglish": "favourite",
+    "phonetic": "ˈfeɪvərɪt",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "favourite",
+        "answer": "favourite",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "最喜欢的",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "favourite"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "favourite",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "ADJ",
+        "zh": "最喜欢的",
+        "componentZh": "最喜欢的"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-wgpma66nqwcz3djucdgzfxbw-4",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-wgpma66nqwcz3djucdgzfxbw-4",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "食物",
+    "audioText": "food",
+    "fullEnglish": "food",
+    "phonetic": "fuːd",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "food",
+        "answer": "food",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "食物",
+        "phonetic": "fuːd",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "food"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "food",
+        "phonetic": "fuːd",
+        "pos": "NOUN",
+        "zh": "食物",
+        "componentZh": "食物"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-wgpma66nqwcz3djucdgzfxbw-5",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-wgpma66nqwcz3djucdgzfxbw-5",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Lingling",
+    "audioText": "Lingling",
+    "fullEnglish": "Lingling",
+    "phonetic": "ˈlɪŋlɪŋ",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Lingling",
+        "answer": "Lingling",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "Lingling",
+        "phonetic": "ˈlɪŋlɪŋ",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Lingling"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Lingling",
+        "phonetic": "ˈlɪŋlɪŋ",
+        "pos": "PROPN_PERSON",
+        "zh": "Lingling",
+        "componentZh": "Lingling"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-S-mh2rwjs54kre5e9lhi0k080f",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-S-mh2rwjs54kre5e9lhi0k080f",
+    "type": "sentence",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这是饺子。",
+    "audioText": "It's jiaozi",
+    "fullEnglish": "It's jiaozi",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "jiaozi",
+        "answer": "jiaozi",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "饺子",
+        "phonetic": "dʒaʊˈdʒiː",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's",
+      "jiaozi"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "jiaozi",
+        "role": "表语",
+        "zh": "饺子"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "jiaozi",
+        "phonetic": "dʒaʊˈdʒiː",
+        "pos": "NOUN",
+        "zh": "饺子",
+        "componentRole": "表语",
+        "componentZh": "饺子"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-S-tacioi3ot77ge8bc4u8fu0fv",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-S-tacioi3ot77ge8bc4u8fu0fv",
+    "type": "sentence",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我最喜欢饺子。",
+    "audioText": "I like jiaozi best",
+    "fullEnglish": "I like jiaozi best",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "jiaozi",
+        "answer": "jiaozi",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "补充成分",
+        "zh": "饺子",
+        "phonetic": "dʒaʊˈdʒiː",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "jiaozi best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "饺子；最好的"
+      },
+      {
+        "index": 3,
+        "text": "best",
+        "answer": "best",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心成分",
+        "zh": "最好的",
+        "phonetic": "best",
+        "pos": "ADJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "jiaozi best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "饺子；最好的"
+      }
+    ],
+    "shuffledBlocks": [
+      "like",
+      "I",
+      "best",
+      "jiaozi"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "like",
+        "role": "谓语",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-3",
+        "text": "jiaozi best",
+        "role": "宾语补足语",
+        "zh": "饺子；最好的",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "jiaozi",
+            "role": "补充成分",
+            "zh": "饺子"
+          },
+          {
+            "id": "ud-5",
+            "text": "best",
+            "role": "中心成分",
+            "zh": "最好的"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "谓语",
+        "componentZh": "喜欢"
+      },
+      "2": {
+        "text": "jiaozi",
+        "phonetic": "dʒaʊˈdʒiː",
+        "pos": "NOUN",
+        "zh": "饺子",
+        "componentRole": "补充成分",
+        "componentZh": "饺子",
+        "parentComponentText": "jiaozi best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "饺子；最好的"
+      },
+      "3": {
+        "text": "best",
+        "phonetic": "best",
+        "pos": "ADJ",
+        "zh": "最好的",
+        "componentRole": "中心成分",
+        "componentZh": "最好的",
+        "parentComponentText": "jiaozi best",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "饺子；最好的"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-tacioi3ot77ge8bc4u8fu0fv-1",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-tacioi3ot77ge8bc4u8fu0fv-1",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-tacioi3ot77ge8bc4u8fu0fv-2",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-tacioi3ot77ge8bc4u8fu0fv-2",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "喜欢",
+    "audioText": "like",
+    "fullEnglish": "like",
+    "phonetic": "laɪk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "like"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentZh": "喜欢"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-tacioi3ot77ge8bc4u8fu0fv-3",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-tacioi3ot77ge8bc4u8fu0fv-3",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "饺子",
+    "audioText": "jiaozi",
+    "fullEnglish": "jiaozi",
+    "phonetic": "dʒaʊˈdʒiː",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "jiaozi",
+        "answer": "jiaozi",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "饺子",
+        "phonetic": "dʒaʊˈdʒiː",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "jiaozi"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "jiaozi",
+        "phonetic": "dʒaʊˈdʒiː",
+        "pos": "NOUN",
+        "zh": "饺子",
+        "componentZh": "饺子"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-tacioi3ot77ge8bc4u8fu0fv-4",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-tacioi3ot77ge8bc4u8fu0fv-4",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "最",
+    "audioText": "best",
+    "fullEnglish": "best",
+    "phonetic": "best",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "best",
+        "answer": "best",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "最好的",
+        "phonetic": "best",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "best"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "best",
+        "phonetic": "best",
+        "pos": "ADJ",
+        "zh": "最好的",
+        "componentZh": "最好的"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-S-t6je6qdqk859xkflt5ps6bcw",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-S-t6je6qdqk859xkflt5ps6bcw",
+    "type": "sentence",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你呢？",
+    "audioText": "How about you?",
+    "fullEnglish": "How about you?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "How",
+        "answer": "How",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "如何",
+        "phonetic": "haʊ",
+        "pos": "ADV"
+      },
+      {
+        "index": 1,
+        "text": "about",
+        "answer": "about",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "介词",
+        "zh": "关于",
+        "phonetic": "əˈbaʊt",
+        "pos": "ADP",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "about you",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "关于；你"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "you",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你"
+      },
+      {
+        "index": 3,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你呢？"
+      }
+    ],
+    "shuffledBlocks": [
+      "about",
+      "How",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "How",
+        "role": "中心成分",
+        "zh": "如何"
+      },
+      {
+        "id": "ud-2",
+        "text": "about you",
+        "role": "介词短语/状语",
+        "zh": "关于；你",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "about",
+            "role": "介词",
+            "zh": "关于"
+          },
+          {
+            "id": "ud-4",
+            "text": "you",
+            "role": "介词宾语",
+            "zh": "你",
+            "children": [
+              {
+                "id": "ud-5",
+                "text": "you",
+                "role": "中心词",
+                "zh": "你"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "How",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "zh": "如何",
+        "componentRole": "中心成分",
+        "componentZh": "如何"
+      },
+      "1": {
+        "text": "about",
+        "phonetic": "əˈbaʊt",
+        "pos": "ADP",
+        "zh": "关于",
+        "componentRole": "介词",
+        "componentZh": "关于",
+        "parentComponentText": "about you",
+        "parentComponentRole": "介词短语/状语",
+        "parentComponentZh": "关于；你"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "中心词",
+        "componentZh": "你",
+        "parentComponentText": "you",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-t6je6qdqk859xkflt5ps6bcw-1",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-t6je6qdqk859xkflt5ps6bcw-1",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "如何",
+    "audioText": "How",
+    "fullEnglish": "How",
+    "phonetic": "haʊ",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "How",
+        "answer": "How",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "如何",
+        "phonetic": "haʊ",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "How"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "How",
+        "phonetic": "haʊ",
+        "pos": "ADV",
+        "zh": "如何",
+        "componentZh": "如何"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-t6je6qdqk859xkflt5ps6bcw-2",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-t6je6qdqk859xkflt5ps6bcw-2",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "关于",
+    "audioText": "about",
+    "fullEnglish": "about",
+    "phonetic": "əˈbaʊt",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "about",
+        "answer": "about",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "关于",
+        "phonetic": "əˈbaʊt",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "about"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "about",
+        "phonetic": "əˈbaʊt",
+        "pos": "ADP",
+        "zh": "关于",
+        "componentZh": "关于"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-t6je6qdqk859xkflt5ps6bcw-3",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-t6je6qdqk859xkflt5ps6bcw-3",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-S-hrn4eem6qo5z7we5b3j08ac9",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-S-hrn4eem6qo5z7we5b3j08ac9",
+    "type": "sentence",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这也是我的最爱！",
+    "audioText": "It's my favourite, too!",
+    "fullEnglish": "It's my favourite, too!",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "补充成分",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "favourite",
+        "answer": "favourite",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "最喜欢的",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "ADJ"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "这也是我的最爱！"
+      },
+      {
+        "index": 4,
+        "text": "too",
+        "answer": "too",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "方式/程度状语",
+        "zh": "也",
+        "phonetic": "tuː",
+        "pos": "ADV"
+      },
+      {
+        "index": 5,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "这也是我的最爱！"
+      }
+    ],
+    "shuffledBlocks": [
+      "favourite",
+      "too",
+      "my",
+      "It's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "my",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-3",
+        "text": "favourite",
+        "role": "表语",
+        "zh": "最喜欢的"
+      },
+      {
+        "id": "ud-4",
+        "text": "too",
+        "role": "方式/程度状语",
+        "zh": "也"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "补充成分",
+        "componentZh": "我的"
+      },
+      "2": {
+        "text": "favourite",
+        "phonetic": "ˈfeɪvərɪt",
+        "pos": "ADJ",
+        "zh": "最喜欢的",
+        "componentRole": "表语",
+        "componentZh": "最喜欢的"
+      },
+      "4": {
+        "text": "too",
+        "phonetic": "tuː",
+        "pos": "ADV",
+        "zh": "也",
+        "componentRole": "方式/程度状语",
+        "componentZh": "也"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-S-ychzz6smk5ujap7m95n0n4ne",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-S-ychzz6smk5ujap7m95n0n4ne",
+    "type": "sentence",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请留下来，我们一起吃饺子吧。",
+    "audioText": "Please stay and let's have jiaozi together",
+    "fullEnglish": "Please stay and let's have jiaozi together",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Please",
+        "answer": "Please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": "stay",
+        "answer": "stay",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "停留",
+        "phonetic": "steɪ",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "and let's have jiaozi together",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；让我们；有；饺子；一起"
+      },
+      {
+        "index": 3,
+        "text": "let's",
+        "answer": "let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "宾语",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "and let's have jiaozi together",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；让我们；有；饺子；一起"
+      },
+      {
+        "index": 4,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "谓语",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "have jiaozi together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "有；饺子；一起"
+      },
+      {
+        "index": 5,
+        "text": "jiaozi",
+        "answer": "jiaozi",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "宾语",
+        "zh": "饺子",
+        "phonetic": "dʒaʊˈdʒiː",
+        "pos": "NOUN",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "have jiaozi together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "有；饺子；一起"
+      },
+      {
+        "index": 6,
+        "text": "together",
+        "answer": "together",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "方式/程度状语",
+        "zh": "一起",
+        "phonetic": "təˈɡeðər",
+        "pos": "ADV",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "have jiaozi together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "有；饺子；一起"
+      }
+    ],
+    "shuffledBlocks": [
+      "together",
+      "Please",
+      "stay",
+      "and",
+      "let's",
+      "have",
+      "jiaozi"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Please",
+        "role": "语气/引导语",
+        "zh": "请"
+      },
+      {
+        "id": "ud-2",
+        "text": "stay",
+        "role": "谓语",
+        "zh": "停留"
+      },
+      {
+        "id": "ud-3",
+        "text": "and let's have jiaozi together",
+        "role": "并列分句",
+        "zh": "和；让我们；有；饺子；一起",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "and",
+            "role": "并列连词",
+            "zh": "和"
+          },
+          {
+            "id": "ud-5",
+            "text": "let's",
+            "role": "宾语",
+            "zh": "让我们"
+          },
+          {
+            "id": "ud-6",
+            "text": "let's",
+            "role": "谓语",
+            "zh": "让我们"
+          },
+          {
+            "id": "ud-7",
+            "text": "have jiaozi together",
+            "role": "宾语补足语",
+            "zh": "有；饺子；一起",
+            "children": [
+              {
+                "id": "ud-8",
+                "text": "have",
+                "role": "谓语",
+                "zh": "有"
+              },
+              {
+                "id": "ud-9",
+                "text": "jiaozi",
+                "role": "宾语",
+                "zh": "饺子"
+              },
+              {
+                "id": "ud-10",
+                "text": "together",
+                "role": "方式/程度状语",
+                "zh": "一起"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      },
+      "1": {
+        "text": "stay",
+        "phonetic": "steɪ",
+        "pos": "VERB",
+        "zh": "停留",
+        "componentRole": "谓语",
+        "componentZh": "停留"
+      },
+      "2": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和",
+        "parentComponentText": "and let's have jiaozi together",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；让我们；有；饺子；一起"
+      },
+      "3": {
+        "text": "let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentRole": "宾语",
+        "componentZh": "让我们",
+        "parentComponentText": "and let's have jiaozi together",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；让我们；有；饺子；一起"
+      },
+      "4": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentRole": "谓语",
+        "componentZh": "有",
+        "parentComponentText": "have jiaozi together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "有；饺子；一起"
+      },
+      "5": {
+        "text": "jiaozi",
+        "phonetic": "dʒaʊˈdʒiː",
+        "pos": "NOUN",
+        "zh": "饺子",
+        "componentRole": "宾语",
+        "componentZh": "饺子",
+        "parentComponentText": "have jiaozi together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "有；饺子；一起"
+      },
+      "6": {
+        "text": "together",
+        "phonetic": "təˈɡeðər",
+        "pos": "ADV",
+        "zh": "一起",
+        "componentRole": "方式/程度状语",
+        "componentZh": "一起",
+        "parentComponentText": "have jiaozi together",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "有；饺子；一起"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-ychzz6smk5ujap7m95n0n4ne-1",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-ychzz6smk5ujap7m95n0n4ne-1",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请",
+    "audioText": "Please",
+    "fullEnglish": "Please",
+    "phonetic": "pliːz",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Please",
+        "answer": "Please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Please"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentZh": "请"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-ychzz6smk5ujap7m95n0n4ne-2",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-ychzz6smk5ujap7m95n0n4ne-2",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "留下",
+    "audioText": "stay",
+    "fullEnglish": "stay",
+    "phonetic": "steɪ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "stay",
+        "answer": "stay",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "停留",
+        "phonetic": "steɪ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "stay"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "stay",
+        "phonetic": "steɪ",
+        "pos": "VERB",
+        "zh": "停留",
+        "componentZh": "停留"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-ychzz6smk5ujap7m95n0n4ne-3",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-ychzz6smk5ujap7m95n0n4ne-3",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "和",
+    "audioText": "and",
+    "fullEnglish": "and",
+    "phonetic": "ænd; ənd",
+    "pos": "CCONJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "and"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentZh": "和"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-ychzz6smk5ujap7m95n0n4ne-4",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-ychzz6smk5ujap7m95n0n4ne-4",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让我们",
+    "audioText": "let's",
+    "fullEnglish": "let's",
+    "phonetic": "lets",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "let's",
+        "answer": "let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "let's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentZh": "让我们"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-ychzz6smk5ujap7m95n0n4ne-5",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-ychzz6smk5ujap7m95n0n4ne-5",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "吃",
+    "audioText": "have",
+    "fullEnglish": "have",
+    "phonetic": "hæv",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "有",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "have"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "有",
+        "componentZh": "有"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-ychzz6smk5ujap7m95n0n4ne-7",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-ychzz6smk5ujap7m95n0n4ne-7",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一起",
+    "audioText": "together",
+    "fullEnglish": "together",
+    "phonetic": "təˈɡeðər",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "together",
+        "answer": "together",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "一起",
+        "phonetic": "təˈɡeðər",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "together"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "together",
+        "phonetic": "təˈɡeðər",
+        "pos": "ADV",
+        "zh": "一起",
+        "componentZh": "一起"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-S-c66cmtbxwxln2o0d6c1unmb3",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-S-c66cmtbxwxln2o0d6c1unmb3",
+    "type": "sentence",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "太好了！我非常乐意。",
+    "audioText": "Great! I'd love to",
+    "fullEnglish": "Great! I'd love to",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Great",
+        "answer": "Great",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "伟大的",
+        "phonetic": "ɡreɪt",
+        "pos": "ADJ"
+      },
+      {
+        "index": 1,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "太好了！我非常乐意。"
+      },
+      {
+        "index": 2,
+        "text": "I'd",
+        "answer": "I'd",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语 + 助动词",
+        "zh": "I would（缩写）: 我会",
+        "phonetic": "aɪd",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "love",
+        "answer": "love",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "爱",
+        "phonetic": "lʌv",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "不定式短语",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART"
+      }
+    ],
+    "shuffledBlocks": [
+      "I'd",
+      "Great",
+      "to",
+      "love"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Great",
+        "role": "中心成分",
+        "zh": "伟大的"
+      },
+      {
+        "id": "ud-2",
+        "text": "I'd",
+        "role": "主语 + 助动词",
+        "zh": "I would（缩写）: 我会"
+      },
+      {
+        "id": "ud-3",
+        "text": "love",
+        "role": "谓语",
+        "zh": "爱"
+      },
+      {
+        "id": "ud-4",
+        "text": "to",
+        "role": "不定式短语",
+        "zh": "引导不定式"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Great",
+        "phonetic": "ɡreɪt",
+        "pos": "ADJ",
+        "zh": "伟大的",
+        "componentRole": "中心成分",
+        "componentZh": "伟大的"
+      },
+      "2": {
+        "text": "I'd",
+        "phonetic": "aɪd",
+        "pos": "PRON",
+        "zh": "I would（缩写）: 我会",
+        "componentRole": "主语 + 助动词",
+        "componentZh": "I would（缩写）: 我会"
+      },
+      "3": {
+        "text": "love",
+        "phonetic": "lʌv",
+        "pos": "VERB",
+        "zh": "爱",
+        "componentRole": "谓语",
+        "componentZh": "爱"
+      },
+      "4": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentRole": "不定式短语",
+        "componentZh": "引导不定式"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-c66cmtbxwxln2o0d6c1unmb3-1",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-c66cmtbxwxln2o0d6c1unmb3-1",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "太棒了",
+    "audioText": "Great",
+    "fullEnglish": "Great",
+    "phonetic": "ɡreɪt",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Great",
+        "answer": "Great",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "伟大的",
+        "phonetic": "ɡreɪt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Great"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Great",
+        "phonetic": "ɡreɪt",
+        "pos": "ADJ",
+        "zh": "伟大的",
+        "componentZh": "伟大的"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-c66cmtbxwxln2o0d6c1unmb3-2",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-c66cmtbxwxln2o0d6c1unmb3-2",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "I would（缩写）: 我会",
+    "audioText": "I'd",
+    "fullEnglish": "I'd",
+    "phonetic": "aɪd",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I'd",
+        "answer": "I'd",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "I would（缩写）: 我会",
+        "phonetic": "aɪd",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I'd"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I'd",
+        "phonetic": "aɪd",
+        "pos": "PRON",
+        "zh": "I would（缩写）: 我会",
+        "componentZh": "I would（缩写）: 我会"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-c66cmtbxwxln2o0d6c1unmb3-3",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-c66cmtbxwxln2o0d6c1unmb3-3",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "爱",
+    "audioText": "love",
+    "fullEnglish": "love",
+    "phonetic": "lʌv",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "love",
+        "answer": "love",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "爱",
+        "phonetic": "lʌv",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "love"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "love",
+        "phonetic": "lʌv",
+        "pos": "VERB",
+        "zh": "爱",
+        "componentZh": "爱"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-c66cmtbxwxln2o0d6c1unmb3-4",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-c66cmtbxwxln2o0d6c1unmb3-4",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "引导不定式",
+    "audioText": "to",
+    "fullEnglish": "to",
+    "phonetic": "tuː; tə",
+    "pos": "PART",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART"
+      }
+    ],
+    "shuffledBlocks": [
+      "to"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-S-n9g9524sf9bludza97zor22t",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-S-n9g9524sf9bludza97zor22t",
+    "type": "sentence",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我爸爸正在厨房里包饺子。",
+    "audioText": "My dad is making jiaozi in the kitchen",
+    "fullEnglish": "My dad is making jiaozi in the kitchen",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "My",
+        "answer": "My",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "My dad",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；Dad"
+      },
+      {
+        "index": 1,
+        "text": "dad",
+        "answer": "dad",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "Dad",
+        "phonetic": "dæd",
+        "pos": "PROPN_PERSON",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "My dad",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；Dad"
+      },
+      {
+        "index": 2,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "助动词",
+        "zh": "be（现在时第三人称单数）: 是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 3,
+        "text": "making",
+        "answer": "making",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "谓语",
+        "zh": "make（现在分词）: 制作",
+        "phonetic": "ˈmeɪkɪŋ",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "jiaozi",
+        "answer": "jiaozi",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "宾语",
+        "zh": "饺子",
+        "phonetic": "dʒaʊˈdʒiː",
+        "pos": "NOUN"
+      },
+      {
+        "index": 5,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "介词",
+        "zh": "在...里",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "in the kitchen",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在...里；定冠词；厨房"
+      },
+      {
+        "index": 6,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "the kitchen",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；厨房"
+      },
+      {
+        "index": 7,
+        "text": "kitchen",
+        "answer": "kitchen",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-11",
+        "role": "中心词",
+        "zh": "厨房",
+        "phonetic": "ˈkɪtʃɪn",
+        "pos": "NOUN",
+        "parentComponentId": "ud-9",
+        "parentComponentText": "the kitchen",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；厨房"
+      }
+    ],
+    "shuffledBlocks": [
+      "is",
+      "kitchen",
+      "jiaozi",
+      "the",
+      "My",
+      "making",
+      "dad",
+      "in"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "My dad",
+        "role": "主语",
+        "zh": "我的；Dad",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "My",
+            "role": "限定词",
+            "zh": "我的"
+          },
+          {
+            "id": "ud-3",
+            "text": "dad",
+            "role": "中心词",
+            "zh": "Dad"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "is",
+        "role": "助动词",
+        "zh": "be（现在时第三人称单数）: 是"
+      },
+      {
+        "id": "ud-5",
+        "text": "making",
+        "role": "谓语",
+        "zh": "make（现在分词）: 制作"
+      },
+      {
+        "id": "ud-6",
+        "text": "jiaozi",
+        "role": "宾语",
+        "zh": "饺子"
+      },
+      {
+        "id": "ud-7",
+        "text": "in the kitchen",
+        "role": "地点状语",
+        "zh": "在...里；定冠词；厨房",
+        "children": [
+          {
+            "id": "ud-8",
+            "text": "in",
+            "role": "介词",
+            "zh": "在...里"
+          },
+          {
+            "id": "ud-9",
+            "text": "the kitchen",
+            "role": "介词宾语",
+            "zh": "定冠词；厨房",
+            "children": [
+              {
+                "id": "ud-10",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-11",
+                "text": "kitchen",
+                "role": "中心词",
+                "zh": "厨房"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "My",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "限定词",
+        "componentZh": "我的",
+        "parentComponentText": "My dad",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；Dad"
+      },
+      "1": {
+        "text": "dad",
+        "phonetic": "dæd",
+        "pos": "PROPN_PERSON",
+        "zh": "Dad",
+        "componentRole": "中心词",
+        "componentZh": "Dad",
+        "parentComponentText": "My dad",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；Dad"
+      },
+      "2": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "be（现在时第三人称单数）: 是",
+        "componentRole": "助动词",
+        "componentZh": "be（现在时第三人称单数）: 是"
+      },
+      "3": {
+        "text": "making",
+        "phonetic": "ˈmeɪkɪŋ",
+        "pos": "VERB",
+        "zh": "make（现在分词）: 制作",
+        "componentRole": "谓语",
+        "componentZh": "make（现在分词）: 制作"
+      },
+      "4": {
+        "text": "jiaozi",
+        "phonetic": "dʒaʊˈdʒiː",
+        "pos": "NOUN",
+        "zh": "饺子",
+        "componentRole": "宾语",
+        "componentZh": "饺子"
+      },
+      "5": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在...里",
+        "componentRole": "介词",
+        "componentZh": "在...里",
+        "parentComponentText": "in the kitchen",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在...里；定冠词；厨房"
+      },
+      "6": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the kitchen",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；厨房"
+      },
+      "7": {
+        "text": "kitchen",
+        "phonetic": "ˈkɪtʃɪn",
+        "pos": "NOUN",
+        "zh": "厨房",
+        "componentRole": "中心词",
+        "componentZh": "厨房",
+        "parentComponentText": "the kitchen",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；厨房"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-n9g9524sf9bludza97zor22t-1",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-n9g9524sf9bludza97zor22t-1",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的",
+    "audioText": "My",
+    "fullEnglish": "My",
+    "phonetic": "maɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "My",
+        "answer": "My",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "My"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "My",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-n9g9524sf9bludza97zor22t-2",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-n9g9524sf9bludza97zor22t-2",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "爸爸",
+    "audioText": "dad",
+    "fullEnglish": "dad",
+    "phonetic": "dæd",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "dad",
+        "answer": "dad",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "Dad",
+        "phonetic": "dæd",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "dad"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "dad",
+        "phonetic": "dæd",
+        "pos": "PROPN_PERSON",
+        "zh": "Dad",
+        "componentZh": "Dad"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-n9g9524sf9bludza97zor22t-3",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-n9g9524sf9bludza97zor22t-3",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "is",
+    "fullEnglish": "is",
+    "phonetic": "ɪz",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "be（现在时第三人称单数）: 是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "is"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "be（现在时第三人称单数）: 是",
+        "componentZh": "be（现在时第三人称单数）: 是"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-n9g9524sf9bludza97zor22t-4",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-n9g9524sf9bludza97zor22t-4",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "make（现在分词）: 制作",
+    "audioText": "making",
+    "fullEnglish": "making",
+    "phonetic": "ˈmeɪkɪŋ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "making",
+        "answer": "making",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "make（现在分词）: 制作",
+        "phonetic": "ˈmeɪkɪŋ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "making"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "making",
+        "phonetic": "ˈmeɪkɪŋ",
+        "pos": "VERB",
+        "zh": "make（现在分词）: 制作",
+        "componentZh": "make（现在分词）: 制作"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-n9g9524sf9bludza97zor22t-6",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-n9g9524sf9bludza97zor22t-6",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在...里",
+    "audioText": "in",
+    "fullEnglish": "in",
+    "phonetic": "ɪn",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...里",
+        "phonetic": "ɪn",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "in"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在...里",
+        "componentZh": "在...里"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-n9g9524sf9bludza97zor22t-7",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-n9g9524sf9bludza97zor22t-7",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "the",
+    "fullEnglish": "the",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "the"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-n9g9524sf9bludza97zor22t-8",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-n9g9524sf9bludza97zor22t-8",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "厨房",
+    "audioText": "kitchen",
+    "fullEnglish": "kitchen",
+    "phonetic": "ˈkɪtʃɪn",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "kitchen",
+        "answer": "kitchen",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "厨房",
+        "phonetic": "ˈkɪtʃɪn",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "kitchen"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "kitchen",
+        "phonetic": "ˈkɪtʃɪn",
+        "pos": "NOUN",
+        "zh": "厨房",
+        "componentZh": "厨房"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-S-zyuv0l2x59nsiwclvq9ficop",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-S-zyuv0l2x59nsiwclvq9ficop",
+    "type": "sentence",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我们去帮帮他吧。",
+    "audioText": "Let's go and help him",
+    "fullEnglish": "Let's go and help him",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let's",
+        "answer": "Let's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "宾语 + 谓语",
+        "zh": "让我们",
+        "phonetic": "lets",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "go and help him",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "去；和；帮助；他"
+      },
+      {
+        "index": 2,
+        "text": "and",
+        "answer": "and",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "并列连词",
+        "zh": "和",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "and help him",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；帮助；他"
+      },
+      {
+        "index": 3,
+        "text": "help",
+        "answer": "help",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "谓语",
+        "zh": "帮助",
+        "phonetic": "help",
+        "pos": "VERB",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "and help him",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；帮助；他"
+      },
+      {
+        "index": 4,
+        "text": "him",
+        "answer": "him",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "宾语",
+        "zh": "他",
+        "phonetic": "hɪm",
+        "pos": "PRON",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "and help him",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；帮助；他"
+      }
+    ],
+    "shuffledBlocks": [
+      "go",
+      "him",
+      "and",
+      "Let's",
+      "help"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let's",
+        "role": "宾语 + 谓语",
+        "zh": "让我们"
+      },
+      {
+        "id": "ud-2",
+        "text": "go and help him",
+        "role": "宾语补足语",
+        "zh": "去；和；帮助；他",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "go",
+            "role": "谓语",
+            "zh": "去"
+          },
+          {
+            "id": "ud-4",
+            "text": "and help him",
+            "role": "并列分句",
+            "zh": "和；帮助；他",
+            "children": [
+              {
+                "id": "ud-5",
+                "text": "and",
+                "role": "并列连词",
+                "zh": "和"
+              },
+              {
+                "id": "ud-6",
+                "text": "help",
+                "role": "谓语",
+                "zh": "帮助"
+              },
+              {
+                "id": "ud-7",
+                "text": "him",
+                "role": "宾语",
+                "zh": "他"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let's",
+        "phonetic": "lets",
+        "pos": "VERB",
+        "zh": "让我们",
+        "componentRole": "宾语 + 谓语",
+        "componentZh": "让我们"
+      },
+      "1": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentRole": "谓语",
+        "componentZh": "去",
+        "parentComponentText": "go and help him",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "去；和；帮助；他"
+      },
+      "2": {
+        "text": "and",
+        "phonetic": "ænd; ənd",
+        "pos": "CCONJ",
+        "zh": "和",
+        "componentRole": "并列连词",
+        "componentZh": "和",
+        "parentComponentText": "and help him",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；帮助；他"
+      },
+      "3": {
+        "text": "help",
+        "phonetic": "help",
+        "pos": "VERB",
+        "zh": "帮助",
+        "componentRole": "谓语",
+        "componentZh": "帮助",
+        "parentComponentText": "and help him",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；帮助；他"
+      },
+      "4": {
+        "text": "him",
+        "phonetic": "hɪm",
+        "pos": "PRON",
+        "zh": "他",
+        "componentRole": "宾语",
+        "componentZh": "他",
+        "parentComponentText": "and help him",
+        "parentComponentRole": "并列分句",
+        "parentComponentZh": "和；帮助；他"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-zyuv0l2x59nsiwclvq9ficop-2",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-zyuv0l2x59nsiwclvq9ficop-2",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "去",
+    "audioText": "go",
+    "fullEnglish": "go",
+    "phonetic": "ɡoʊ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "go"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-zyuv0l2x59nsiwclvq9ficop-4",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-zyuv0l2x59nsiwclvq9ficop-4",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "帮助",
+    "audioText": "help",
+    "fullEnglish": "help",
+    "phonetic": "help",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "help",
+        "answer": "help",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "帮助",
+        "phonetic": "help",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "help"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "help",
+        "phonetic": "help",
+        "pos": "VERB",
+        "zh": "帮助",
+        "componentZh": "帮助"
+      }
+    }
+  },
+  {
+    "id": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-zyuv0l2x59nsiwclvq9ficop-5",
+    "contentId": "JLB-jwfxo7dq7tcm9xqobt1qjtzc-W-zyuv0l2x59nsiwclvq9ficop-5",
+    "type": "word",
+    "coursePackageId": "bv6fb22v7phxpki8gbyior1t",
+    "coursePackageName": "【北京版】三年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "jwfxo7dq7tcm9xqobt1qjtzc",
+    "unitTitle": "Unit 3 I Like Jiaozi Best--Lesson 10【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他",
+    "audioText": "him",
+    "fullEnglish": "him",
+    "phonetic": "hɪm",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "him",
+        "answer": "him",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "他",
+        "phonetic": "hɪm",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "him"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "him",
+        "phonetic": "hɪm",
+        "pos": "PRON",
+        "zh": "他",
+        "componentZh": "他"
+      }
+    }
+  }
+]

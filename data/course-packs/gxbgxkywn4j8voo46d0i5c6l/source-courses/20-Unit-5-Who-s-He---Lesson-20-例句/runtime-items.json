@@ -1,0 +1,2559 @@
+[
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-S-d97or2qrnm3tex5tj2d49vf0",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-S-d97or2qrnm3tex5tj2d49vf0",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这位女士是谁？",
+    "audioText": "Who's this woman?",
+    "fullEnglish": "Who's this woman?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Who's",
+        "answer": "Who's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "疑问词 + 系动词",
+        "zh": "谁的",
+        "phonetic": "huz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "this woman",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这个；这位女士是谁？"
+      },
+      {
+        "index": 2,
+        "text": "woman",
+        "answer": "woman",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "这位女士是谁？",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "this woman",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这个；这位女士是谁？"
+      },
+      {
+        "index": 3,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "这位女士是谁？"
+      }
+    ],
+    "shuffledBlocks": [
+      "woman",
+      "Who's",
+      "this"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Who's",
+        "role": "疑问词 + 系动词",
+        "zh": "谁的"
+      },
+      {
+        "id": "ud-2",
+        "text": "this woman",
+        "role": "主语",
+        "zh": "这个；这位女士是谁？",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "this",
+            "role": "限定词",
+            "zh": "这个"
+          },
+          {
+            "id": "ud-4",
+            "text": "woman",
+            "role": "中心词",
+            "zh": "这位女士是谁？"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Who's",
+        "phonetic": "huz",
+        "pos": "PRON",
+        "zh": "谁的",
+        "componentRole": "疑问词 + 系动词",
+        "componentZh": "谁的"
+      },
+      "1": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentRole": "限定词",
+        "componentZh": "这个",
+        "parentComponentText": "this woman",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这个；这位女士是谁？"
+      },
+      "2": {
+        "text": "woman",
+        "zh": "这位女士是谁？",
+        "componentRole": "中心词",
+        "componentZh": "这位女士是谁？",
+        "parentComponentText": "this woman",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这个；这位女士是谁？"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-S-uungnv548l7glp8n7f3og15v",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-S-uungnv548l7glp8n7f3og15v",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她是我的阿姨。",
+    "audioText": "She's my aunt",
+    "fullEnglish": "She's my aunt",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "补充成分",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "aunt",
+        "answer": "aunt",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "姑姑",
+        "phonetic": "ænt",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "She's",
+      "my",
+      "aunt"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-2",
+        "text": "my",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-3",
+        "text": "aunt",
+        "role": "表语",
+        "zh": "姑姑"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "她是"
+      },
+      "1": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "补充成分",
+        "componentZh": "我的"
+      },
+      "2": {
+        "text": "aunt",
+        "phonetic": "ænt",
+        "pos": "NOUN",
+        "zh": "姑姑",
+        "componentRole": "表语",
+        "componentZh": "姑姑"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-uungnv548l7glp8n7f3og15v-1",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-uungnv548l7glp8n7f3og15v-1",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她是",
+    "audioText": "She's",
+    "fullEnglish": "She's",
+    "phonetic": "ʃiːz",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "She's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentZh": "她是"
+      }
+    }
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-uungnv548l7glp8n7f3og15v-2",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-uungnv548l7glp8n7f3og15v-2",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的",
+    "audioText": "my",
+    "fullEnglish": "my",
+    "phonetic": "maɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "my"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的"
+      }
+    }
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-uungnv548l7glp8n7f3og15v-3",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-uungnv548l7glp8n7f3og15v-3",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "姑姑",
+    "audioText": "aunt",
+    "fullEnglish": "aunt",
+    "phonetic": "ænt",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "aunt",
+        "answer": "aunt",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "姑姑",
+        "phonetic": "ænt",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "aunt"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "aunt",
+        "phonetic": "ænt",
+        "pos": "NOUN",
+        "zh": "姑姑",
+        "componentZh": "姑姑"
+      }
+    }
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-S-l6sv7zbiy61fxrz9bk6yyxa9",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-S-l6sv7zbiy61fxrz9bk6yyxa9",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他是谁？",
+    "audioText": "Who's he?",
+    "fullEnglish": "Who's he?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Who's",
+        "answer": "Who's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "疑问词 + 系动词",
+        "zh": "谁的",
+        "phonetic": "huz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "he",
+        "answer": "he",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "他",
+        "phonetic": "hiː",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "他是谁？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Who's",
+      "he"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Who's",
+        "role": "疑问词 + 系动词",
+        "zh": "谁的"
+      },
+      {
+        "id": "ud-2",
+        "text": "he",
+        "role": "主语",
+        "zh": "他"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Who's",
+        "phonetic": "huz",
+        "pos": "PRON",
+        "zh": "谁的",
+        "componentRole": "疑问词 + 系动词",
+        "componentZh": "谁的"
+      },
+      "1": {
+        "text": "he",
+        "phonetic": "hiː",
+        "pos": "PRON",
+        "zh": "他",
+        "componentRole": "主语",
+        "componentZh": "他"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-l6sv7zbiy61fxrz9bk6yyxa9-1",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-l6sv7zbiy61fxrz9bk6yyxa9-1",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "谁是",
+    "audioText": "Who's",
+    "fullEnglish": "Who's",
+    "phonetic": "huz",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Who's",
+        "answer": "Who's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "谁的",
+        "phonetic": "huz",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Who's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Who's",
+        "phonetic": "huz",
+        "pos": "PRON",
+        "zh": "谁的",
+        "componentZh": "谁的"
+      }
+    }
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-l6sv7zbiy61fxrz9bk6yyxa9-2",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-l6sv7zbiy61fxrz9bk6yyxa9-2",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他",
+    "audioText": "he",
+    "fullEnglish": "he",
+    "phonetic": "hiː",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "he",
+        "answer": "he",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "他",
+        "phonetic": "hiː",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "he"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "he",
+        "phonetic": "hiː",
+        "pos": "PRON",
+        "zh": "他",
+        "componentZh": "他"
+      }
+    }
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-S-z7uxuumjovagxc42jh0qq9zm",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-S-z7uxuumjovagxc42jh0qq9zm",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他是我叔叔。",
+    "audioText": "He's my uncle",
+    "fullEnglish": "He's my uncle",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "补充成分",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "uncle",
+        "answer": "uncle",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "叔叔",
+        "phonetic": "ˈʌŋk(ə)l",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "my",
+      "He's",
+      "uncle"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "He's",
+        "role": "主语 + 系动词",
+        "zh": "他是"
+      },
+      {
+        "id": "ud-2",
+        "text": "my",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-3",
+        "text": "uncle",
+        "role": "表语",
+        "zh": "叔叔"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "他是"
+      },
+      "1": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "补充成分",
+        "componentZh": "我的"
+      },
+      "2": {
+        "text": "uncle",
+        "phonetic": "ˈʌŋk(ə)l",
+        "pos": "NOUN",
+        "zh": "叔叔",
+        "componentRole": "表语",
+        "componentZh": "叔叔"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-z7uxuumjovagxc42jh0qq9zm-1",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-z7uxuumjovagxc42jh0qq9zm-1",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他是",
+    "audioText": "He's",
+    "fullEnglish": "He's",
+    "phonetic": "hiːz",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "He's",
+        "answer": "He's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "他是",
+        "phonetic": "hiːz",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "He's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "He's",
+        "phonetic": "hiːz",
+        "pos": "PRON",
+        "zh": "他是",
+        "componentZh": "他是"
+      }
+    }
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-z7uxuumjovagxc42jh0qq9zm-3",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-z7uxuumjovagxc42jh0qq9zm-3",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "叔叔",
+    "audioText": "uncle",
+    "fullEnglish": "uncle",
+    "phonetic": "ˈʌŋk(ə)l",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "uncle",
+        "answer": "uncle",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "叔叔",
+        "phonetic": "ˈʌŋk(ə)l",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "uncle"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "uncle",
+        "phonetic": "ˈʌŋk(ə)l",
+        "pos": "NOUN",
+        "zh": "叔叔",
+        "componentZh": "叔叔"
+      }
+    }
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-S-d34dd9v0ozlryyh2i6rl42u7",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-S-d34dd9v0ozlryyh2i6rl42u7",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她是谁？",
+    "audioText": "Who's she?",
+    "fullEnglish": "Who's she?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Who's",
+        "answer": "Who's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "疑问词 + 系动词",
+        "zh": "谁的",
+        "phonetic": "huz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "she",
+        "answer": "she",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "主语",
+        "zh": "她",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "她是谁？"
+      }
+    ],
+    "shuffledBlocks": [
+      "she",
+      "Who's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Who's",
+        "role": "疑问词 + 系动词",
+        "zh": "谁的"
+      },
+      {
+        "id": "ud-2",
+        "text": "she",
+        "role": "主语",
+        "zh": "她"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Who's",
+        "phonetic": "huz",
+        "pos": "PRON",
+        "zh": "谁的",
+        "componentRole": "疑问词 + 系动词",
+        "componentZh": "谁的"
+      },
+      "1": {
+        "text": "she",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON",
+        "zh": "她",
+        "componentRole": "主语",
+        "componentZh": "她"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-d34dd9v0ozlryyh2i6rl42u7-2",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-d34dd9v0ozlryyh2i6rl42u7-2",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她",
+    "audioText": "she",
+    "fullEnglish": "she",
+    "phonetic": "ʃiː; ʃi",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "she",
+        "answer": "she",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "她",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "she"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "she",
+        "phonetic": "ʃiː; ʃi",
+        "pos": "PRON",
+        "zh": "她",
+        "componentZh": "她"
+      }
+    }
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-S-jcct132vw1l4zbbbnwuy3cry",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-S-jcct132vw1l4zbbbnwuy3cry",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她是我的奶奶。",
+    "audioText": "She's my grandma",
+    "fullEnglish": "She's my grandma",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "补充成分",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "grandma",
+        "answer": "grandma",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "奶奶",
+        "phonetic": "ˈɡrænmɑː",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "grandma",
+      "my",
+      "She's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She's",
+        "role": "主语 + 系动词",
+        "zh": "她是"
+      },
+      {
+        "id": "ud-2",
+        "text": "my",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-3",
+        "text": "grandma",
+        "role": "表语",
+        "zh": "奶奶"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "她是"
+      },
+      "1": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "补充成分",
+        "componentZh": "我的"
+      },
+      "2": {
+        "text": "grandma",
+        "phonetic": "ˈɡrænmɑː",
+        "pos": "NOUN",
+        "zh": "奶奶",
+        "componentRole": "表语",
+        "componentZh": "奶奶"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-jcct132vw1l4zbbbnwuy3cry-3",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-jcct132vw1l4zbbbnwuy3cry-3",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "奶奶",
+    "audioText": "grandma",
+    "fullEnglish": "grandma",
+    "phonetic": "ˈɡrænmɑː",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "grandma",
+        "answer": "grandma",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "奶奶",
+        "phonetic": "ˈɡrænmɑː",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "grandma"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "grandma",
+        "phonetic": "ˈɡrænmɑː",
+        "pos": "NOUN",
+        "zh": "奶奶",
+        "componentZh": "奶奶"
+      }
+    }
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-S-v59ggycdon8pvlp9ah49bv4g",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-S-v59ggycdon8pvlp9ah49bv4g",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请关灯。",
+    "audioText": "Turn off the lights, please",
+    "fullEnglish": "Turn off the lights, please",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Turn",
+        "answer": "Turn",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "中心词",
+        "zh": "turn off（短语动词）: 关闭",
+        "phonetic": "tɜːrn",
+        "pos": "VERB",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "Turn off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "turn off（短语动词）: 关闭；（与 turn 搭配）"
+      },
+      {
+        "index": 1,
+        "text": "off",
+        "answer": "off",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "定语（名词修饰）",
+        "zh": "（与 turn 搭配）",
+        "phonetic": "ɔːf",
+        "pos": "ADP",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "Turn off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "turn off（短语动词）: 关闭；（与 turn 搭配）"
+      },
+      {
+        "index": 2,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "the lights",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；灯（复数）"
+      },
+      {
+        "index": 3,
+        "text": "lights",
+        "answer": "lights",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "灯（复数）",
+        "phonetic": "laɪts",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "the lights",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；灯（复数）"
+      },
+      {
+        "index": 4,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "请关灯。"
+      },
+      {
+        "index": 5,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "off",
+      "lights",
+      "Turn",
+      "please",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Turn off",
+        "role": "谓语",
+        "zh": "turn off（短语动词）: 关闭；（与 turn 搭配）",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "Turn",
+            "role": "中心词",
+            "zh": "turn off（短语动词）: 关闭"
+          },
+          {
+            "id": "ud-3",
+            "text": "off",
+            "role": "定语（名词修饰）",
+            "zh": "（与 turn 搭配）"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "the lights",
+        "role": "宾语",
+        "zh": "定冠词；灯（复数）",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-6",
+            "text": "lights",
+            "role": "中心词",
+            "zh": "灯（复数）"
+          }
+        ]
+      },
+      {
+        "id": "ud-7",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Turn",
+        "phonetic": "tɜːrn",
+        "pos": "VERB",
+        "zh": "turn off（短语动词）: 关闭",
+        "componentRole": "中心词",
+        "componentZh": "turn off（短语动词）: 关闭",
+        "parentComponentText": "Turn off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "turn off（短语动词）: 关闭；（与 turn 搭配）"
+      },
+      "1": {
+        "text": "off",
+        "phonetic": "ɔːf",
+        "pos": "ADP",
+        "zh": "（与 turn 搭配）",
+        "componentRole": "定语（名词修饰）",
+        "componentZh": "（与 turn 搭配）",
+        "parentComponentText": "Turn off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "turn off（短语动词）: 关闭；（与 turn 搭配）"
+      },
+      "2": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the lights",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；灯（复数）"
+      },
+      "3": {
+        "text": "lights",
+        "phonetic": "laɪts",
+        "pos": "NOUN",
+        "zh": "灯（复数）",
+        "componentRole": "中心词",
+        "componentZh": "灯（复数）",
+        "parentComponentText": "the lights",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；灯（复数）"
+      },
+      "5": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-v59ggycdon8pvlp9ah49bv4g-1",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-v59ggycdon8pvlp9ah49bv4g-1",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "turn off（短语动词）: 关闭",
+    "audioText": "Turn",
+    "fullEnglish": "Turn",
+    "phonetic": "tɜːrn",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Turn",
+        "answer": "Turn",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "turn off（短语动词）: 关闭",
+        "phonetic": "tɜːrn",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Turn"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Turn",
+        "phonetic": "tɜːrn",
+        "pos": "VERB",
+        "zh": "turn off（短语动词）: 关闭",
+        "componentZh": "turn off（短语动词）: 关闭"
+      }
+    }
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-v59ggycdon8pvlp9ah49bv4g-2",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-v59ggycdon8pvlp9ah49bv4g-2",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "（与 turn 搭配）",
+    "audioText": "off",
+    "fullEnglish": "off",
+    "phonetic": "ɔːf",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "off",
+        "answer": "off",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 turn 搭配）",
+        "phonetic": "ɔːf",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "off"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "off",
+        "phonetic": "ɔːf",
+        "pos": "ADP",
+        "zh": "（与 turn 搭配）",
+        "componentZh": "（与 turn 搭配）"
+      }
+    }
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-v59ggycdon8pvlp9ah49bv4g-3",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-v59ggycdon8pvlp9ah49bv4g-3",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "the",
+    "fullEnglish": "the",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "the"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-v59ggycdon8pvlp9ah49bv4g-4",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-v59ggycdon8pvlp9ah49bv4g-4",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "灯（复数）",
+    "audioText": "lights",
+    "fullEnglish": "lights",
+    "phonetic": "laɪts",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "lights",
+        "answer": "lights",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "灯（复数）",
+        "phonetic": "laɪts",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "lights"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "lights",
+        "phonetic": "laɪts",
+        "pos": "NOUN",
+        "zh": "灯（复数）",
+        "componentZh": "灯（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-v59ggycdon8pvlp9ah49bv4g-5",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-v59ggycdon8pvlp9ah49bv4g-5",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请",
+    "audioText": "please",
+    "fullEnglish": "please",
+    "phonetic": "pliːz",
+    "pos": "INTJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "please"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentZh": "请"
+      }
+    }
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-S-bqn175modqdos8qflszb8j2b",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-S-bqn175modqdos8qflszb8j2b",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请明天带上你的马克笔。",
+    "audioText": "Please bring your markers tomorrow",
+    "fullEnglish": "Please bring your markers tomorrow",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Please",
+        "answer": "Please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      },
+      {
+        "index": 1,
+        "text": "bring",
+        "answer": "bring",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "带来",
+        "phonetic": "brɪŋ",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "限定词",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "your markers",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你的；马克笔（复数）"
+      },
+      {
+        "index": 3,
+        "text": "markers",
+        "answer": "markers",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "马克笔（复数）",
+        "phonetic": "ˈmɑrkərz",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "your markers",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你的；马克笔（复数）"
+      },
+      {
+        "index": 4,
+        "text": "tomorrow",
+        "answer": "tomorrow",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "时间状语",
+        "zh": "明天",
+        "phonetic": "təˈmɑːroʊ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "bring",
+      "your",
+      "markers",
+      "Please",
+      "tomorrow"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Please",
+        "role": "语气/引导语",
+        "zh": "请"
+      },
+      {
+        "id": "ud-2",
+        "text": "bring",
+        "role": "谓语",
+        "zh": "带来"
+      },
+      {
+        "id": "ud-3",
+        "text": "your markers",
+        "role": "宾语",
+        "zh": "你的；马克笔（复数）",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "your",
+            "role": "限定词",
+            "zh": "你的"
+          },
+          {
+            "id": "ud-5",
+            "text": "markers",
+            "role": "中心词",
+            "zh": "马克笔（复数）"
+          }
+        ]
+      },
+      {
+        "id": "ud-6",
+        "text": "tomorrow",
+        "role": "时间状语",
+        "zh": "明天"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      },
+      "1": {
+        "text": "bring",
+        "phonetic": "brɪŋ",
+        "pos": "VERB",
+        "zh": "带来",
+        "componentRole": "谓语",
+        "componentZh": "带来"
+      },
+      "2": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentRole": "限定词",
+        "componentZh": "你的",
+        "parentComponentText": "your markers",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你的；马克笔（复数）"
+      },
+      "3": {
+        "text": "markers",
+        "phonetic": "ˈmɑrkərz",
+        "pos": "NOUN",
+        "zh": "马克笔（复数）",
+        "componentRole": "中心词",
+        "componentZh": "马克笔（复数）",
+        "parentComponentText": "your markers",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "你的；马克笔（复数）"
+      },
+      "4": {
+        "text": "tomorrow",
+        "phonetic": "təˈmɑːroʊ",
+        "pos": "NOUN",
+        "zh": "明天",
+        "componentRole": "时间状语",
+        "componentZh": "明天"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-bqn175modqdos8qflszb8j2b-2",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-bqn175modqdos8qflszb8j2b-2",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "带来",
+    "audioText": "bring",
+    "fullEnglish": "bring",
+    "phonetic": "brɪŋ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "bring",
+        "answer": "bring",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "带来",
+        "phonetic": "brɪŋ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "bring"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "bring",
+        "phonetic": "brɪŋ",
+        "pos": "VERB",
+        "zh": "带来",
+        "componentZh": "带来"
+      }
+    }
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-bqn175modqdos8qflszb8j2b-3",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-bqn175modqdos8qflszb8j2b-3",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你的",
+    "audioText": "your",
+    "fullEnglish": "your",
+    "phonetic": "jʊr; jər",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "your"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentZh": "你的"
+      }
+    }
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-bqn175modqdos8qflszb8j2b-4",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-bqn175modqdos8qflszb8j2b-4",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "马克笔（复数）",
+    "audioText": "markers",
+    "fullEnglish": "markers",
+    "phonetic": "ˈmɑrkərz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "markers",
+        "answer": "markers",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "马克笔（复数）",
+        "phonetic": "ˈmɑrkərz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "markers"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "markers",
+        "phonetic": "ˈmɑrkərz",
+        "pos": "NOUN",
+        "zh": "马克笔（复数）",
+        "componentZh": "马克笔（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-bqn175modqdos8qflszb8j2b-5",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-W-bqn175modqdos8qflszb8j2b-5",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "明天",
+    "audioText": "tomorrow",
+    "fullEnglish": "tomorrow",
+    "phonetic": "təˈmɑːroʊ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "tomorrow",
+        "answer": "tomorrow",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "明天",
+        "phonetic": "təˈmɑːroʊ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "tomorrow"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "tomorrow",
+        "phonetic": "təˈmɑːroʊ",
+        "pos": "NOUN",
+        "zh": "明天",
+        "componentZh": "明天"
+      }
+    }
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-S-kgyewi7cqa9elly3ltf3ubhv",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-S-kgyewi7cqa9elly3ltf3ubhv",
+    "type": "abbreviation",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好的。",
+    "audioText": "OK",
+    "fullEnglish": "OK",
+    "phonetic": "oʊˈkeɪ",
+    "pos": "ADJ",
+    "sentenceType": "",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "OK",
+        "answer": "OK",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "abbreviation",
+        "componentId": "w1",
+        "role": "",
+        "zh": "好的",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "OK"
+    ],
+    "componentTree": [
+      {
+        "id": "w1",
+        "text": "OK",
+        "role": "",
+        "zh": ""
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "OK",
+        "phonetic": "oʊˈkeɪ",
+        "pos": "ADJ",
+        "zh": "好的",
+        "componentRole": "",
+        "componentZh": "好的"
+      }
+    }
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-PHRASE-onzvts8ojrmuuw37c8bgh6lt",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-PHRASE-onzvts8ojrmuuw37c8bgh6lt",
+    "type": "phrase",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她是",
+    "audioText": "She's",
+    "fullEnglish": "She's",
+    "phonetic": "ʃiːz",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "She's",
+        "answer": "She's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "她是",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语 + 谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "She's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "She's",
+        "role": "主语 + 谓语",
+        "zh": "她是"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "She's",
+        "phonetic": "ʃiːz",
+        "pos": "PRON",
+        "zh": "她是",
+        "componentZh": "她是",
+        "componentRole": "主语 + 谓语"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-PHRASE-hmf93b4nsvqe9nzuwtj5tg2q",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-PHRASE-hmf93b4nsvqe9nzuwtj5tg2q",
+    "type": "phrase",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的阿姨",
+    "audioText": "my aunt",
+    "fullEnglish": "my aunt",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "aunt",
+        "answer": "aunt",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "姑姑",
+        "phonetic": "ænt",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "aunt",
+      "my"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "my",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-2",
+        "text": "aunt",
+        "role": "中心成分",
+        "zh": "姑姑"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "aunt",
+        "phonetic": "ænt",
+        "pos": "NOUN",
+        "zh": "姑姑",
+        "componentZh": "姑姑",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-PHRASE-u6c6pr6mgm9h9rbkdblbd7mc",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-PHRASE-u6c6pr6mgm9h9rbkdblbd7mc",
+    "type": "phrase",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "谁是",
+    "audioText": "Who's",
+    "fullEnglish": "Who's",
+    "phonetic": "huz",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Who's",
+        "answer": "Who's",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "谁的",
+        "phonetic": "huz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "疑问词 + 系动词"
+      }
+    ],
+    "shuffledBlocks": [
+      "Who's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Who's",
+        "role": "疑问词 + 系动词",
+        "zh": "谁的"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Who's",
+        "phonetic": "huz",
+        "pos": "PRON",
+        "zh": "谁的",
+        "componentZh": "谁的",
+        "componentRole": "疑问词 + 系动词"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-PHRASE-h5mrx7ylbdme8smkrwjrbj60",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-PHRASE-h5mrx7ylbdme8smkrwjrbj60",
+    "type": "phrase",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的叔叔",
+    "audioText": "my uncle",
+    "fullEnglish": "my uncle",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "uncle",
+        "answer": "uncle",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "叔叔",
+        "phonetic": "ˈʌŋk(ə)l",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "uncle",
+      "my"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "my",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-2",
+        "text": "uncle",
+        "role": "中心成分",
+        "zh": "叔叔"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "uncle",
+        "phonetic": "ˈʌŋk(ə)l",
+        "pos": "NOUN",
+        "zh": "叔叔",
+        "componentZh": "叔叔",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-PHRASE-vrprf4f1l4x20skl3vsaoz1p",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-PHRASE-vrprf4f1l4x20skl3vsaoz1p",
+    "type": "phrase",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的祖母",
+    "audioText": "my grandma",
+    "fullEnglish": "my grandma",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "my",
+        "answer": "my",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "grandma",
+        "answer": "grandma",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "奶奶",
+        "phonetic": "ˈɡrænmɑː",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "grandma",
+      "my"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "my",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-2",
+        "text": "grandma",
+        "role": "中心成分",
+        "zh": "奶奶"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "my",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "grandma",
+        "phonetic": "ˈɡrænmɑː",
+        "pos": "NOUN",
+        "zh": "奶奶",
+        "componentZh": "奶奶",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-PHRASE-wr7256vcxm2294raid46yifl",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-PHRASE-wr7256vcxm2294raid46yifl",
+    "type": "phrase",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "关掉",
+    "audioText": "Turn off",
+    "fullEnglish": "Turn off",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Turn",
+        "answer": "Turn",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "turn off（短语动词）: 关闭",
+        "phonetic": "tɜːrn",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "中心词",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "Turn off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "turn off（短语动词）: 关闭；（与 turn 搭配）"
+      },
+      {
+        "index": 1,
+        "text": "off",
+        "answer": "off",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "（与 turn 搭配）",
+        "phonetic": "ɔːf",
+        "pos": "ADP",
+        "componentId": "ud-3",
+        "role": "定语（名词修饰）",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "Turn off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "turn off（短语动词）: 关闭；（与 turn 搭配）"
+      }
+    ],
+    "shuffledBlocks": [
+      "off",
+      "Turn"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Turn off",
+        "role": "谓语",
+        "zh": "turn off（短语动词）: 关闭；（与 turn 搭配）",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "Turn",
+            "role": "中心词",
+            "zh": "turn off（短语动词）: 关闭"
+          },
+          {
+            "id": "ud-3",
+            "text": "off",
+            "role": "定语（名词修饰）",
+            "zh": "（与 turn 搭配）"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Turn",
+        "phonetic": "tɜːrn",
+        "pos": "VERB",
+        "zh": "turn off（短语动词）: 关闭",
+        "componentZh": "turn off（短语动词）: 关闭",
+        "componentRole": "中心词",
+        "parentComponentText": "Turn off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "turn off（短语动词）: 关闭；（与 turn 搭配）"
+      },
+      "1": {
+        "text": "off",
+        "phonetic": "ɔːf",
+        "pos": "ADP",
+        "zh": "（与 turn 搭配）",
+        "componentZh": "（与 turn 搭配）",
+        "componentRole": "定语（名词修饰）",
+        "parentComponentText": "Turn off",
+        "parentComponentRole": "谓语",
+        "parentComponentZh": "turn off（短语动词）: 关闭；（与 turn 搭配）"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-PHRASE-fukxnzsivnagskeab4iil8mk",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-PHRASE-fukxnzsivnagskeab4iil8mk",
+    "type": "phrase",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "灯",
+    "audioText": "the lights",
+    "fullEnglish": "the lights",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "lights",
+        "answer": "lights",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "灯（复数）",
+        "phonetic": "laɪts",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "lights",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "lights",
+        "role": "中心成分",
+        "zh": "灯（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "lights",
+        "phonetic": "laɪts",
+        "pos": "NOUN",
+        "zh": "灯（复数）",
+        "componentZh": "灯（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-gk3ejgmb9i0xkb03nujj1cdl-PHRASE-ojjiyonuq3he4logc2s7c4o2",
+    "contentId": "JLB-gk3ejgmb9i0xkb03nujj1cdl-PHRASE-ojjiyonuq3he4logc2s7c4o2",
+    "type": "phrase",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "gk3ejgmb9i0xkb03nujj1cdl",
+    "unitTitle": "Unit 5 Who’s He?--Lesson 20【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你的马克笔",
+    "audioText": "your markers",
+    "fullEnglish": "your markers",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "markers",
+        "answer": "markers",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "马克笔（复数）",
+        "phonetic": "ˈmɑrkərz",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "your",
+      "markers"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "your",
+        "role": "补充成分",
+        "zh": "你的"
+      },
+      {
+        "id": "ud-2",
+        "text": "markers",
+        "role": "中心成分",
+        "zh": "马克笔（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentZh": "你的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "markers",
+        "phonetic": "ˈmɑrkərz",
+        "pos": "NOUN",
+        "zh": "马克笔（复数）",
+        "componentZh": "马克笔（复数）",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

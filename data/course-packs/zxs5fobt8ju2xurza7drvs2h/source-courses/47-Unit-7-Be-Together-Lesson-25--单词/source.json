@@ -1,0 +1,187 @@
+{
+  "id": "b1lph72tjfelfik1x65k1gv5",
+  "title": "Unit 7 ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤Be Together-Lesson 25-【单词】",
+  "description": "Lesson ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤25: Happy Lantern Festival!",
+  "video": "",
+  "order": 47,
+  "coursePackId": "zxs5fobt8ju2xurza7drvs2h",
+  "type": "normal",
+  "mediaUrl": null,
+  "mediaAssetId": null,
+  "image": null,
+  "statements": [
+    {
+      "id": "u9vplbc2iyw4apkfky521psv",
+      "order": 1,
+      "chinese": "元宵节",
+      "english": "Lantern Festival",
+      "soundmark": "/ˈlæntərn/ ⁢⁤⁣‍⁡‌⁤⁡‍‌⁢⁡‍⁤⁡‍⁢‍⁡‌⁤⁢‌⁣⁢‌‍⁢⁢‌⁡‍⁡‌⁣⁡‍⁢⁡⁢‌⁢‌⁡‍‌‌⁡‌⁢⁢⁢‌⁢⁢⁡‌⁢‍⁢‌⁡‌⁡⁣‌⁡‌⁤/ˈfestɪvl; ˈfestəvəl/ ",
+      "type": "sentence",
+      "sentenceId": "cxk3240zgx7hjc9cn9efi6i2",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "iourgkqcidmsfjiomkk6syli",
+      "order": 2,
+      "chinese": "二月",
+      "english": "February",
+      "soundmark": "/fɛbrʊɛri/ ",
+      "type": "",
+      "sentenceId": "jzkb1qtbkgs431glhp0v3xfl",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "rw3ijw477l23jm6rgcvfp8ig",
+      "order": 3,
+      "chinese": "谜语",
+      "english": "riddle",
+      "soundmark": "/ˈrɪd(ə)l/ ",
+      "type": "",
+      "sentenceId": "e4zezhyw5drve1qmtlc6yp33",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "id": "fshk0mbnla8qugt2bomyzp5t",
+      "order": 4,
+      "chinese": "猜",
+      "english": "guess",
+      "soundmark": "/ɡes/ ",
+      "type": "",
+      "sentenceId": "wfywifft8b3cwsle6ywt6mvd",
+      "image": null,
+      "startTime": null,
+      "endTime": null
+    }
+  ],
+  "sentences": [
+    {
+      "id": "cxk3240zgx7hjc9cn9efi6i2",
+      "content": "Lantern Festival",
+      "english": "Lantern Festival",
+      "chinese": "元宵节",
+      "sortOrder": 1,
+      "wordDetails": [
+        {
+          "pos": "NOUN",
+          "word": "Lantern",
+          "phonetic": {
+            "uk": "ˈlæntən",
+            "us": "ˈlæntərn"
+          },
+          "definition": "灯笼"
+        },
+        {
+          "pos": "NOUN",
+          "word": "Festival",
+          "phonetic": {
+            "uk": "ˈfestɪvl; ˈfestəvəl",
+            "us": "ˈfestɪvl; ˈfestəvəl"
+          },
+          "definition": "节日"
+        }
+      ],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "root": 1,
+        "edges": [
+          {
+            "label": "compound",
+            "source": 1,
+            "target": 0
+          }
+        ],
+        "nodes": [
+          {
+            "id": 0,
+            "dep": "compound",
+            "pos": "PROPN",
+            "tag": "NNP",
+            "head": "Festival",
+            "word": "Lantern",
+            "lemma": "Lantern",
+            "phrase": "Lantern",
+            "end_idx": 0,
+            "head_id": 1,
+            "children": [],
+            "left_edge": 0,
+            "start_idx": 0,
+            "right_edge": 0
+          },
+          {
+            "id": 1,
+            "dep": "ROOT",
+            "pos": "PROPN",
+            "tag": "NNP",
+            "head": "Festival",
+            "word": "Festival",
+            "lemma": "Festival",
+            "phrase": "Lantern Festival",
+            "end_idx": 1,
+            "head_id": 1,
+            "children": [
+              0
+            ],
+            "left_edge": 0,
+            "start_idx": 0,
+            "right_edge": 1
+          }
+        ],
+        "sentence": "Lantern Festival"
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "jzkb1qtbkgs431glhp0v3xfl",
+      "content": "February",
+      "english": "February",
+      "chinese": "二月",
+      "sortOrder": 2,
+      "wordDetails": [],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "e4zezhyw5drve1qmtlc6yp33",
+      "content": "riddle",
+      "english": "riddle",
+      "chinese": "谜语",
+      "sortOrder": 3,
+      "wordDetails": [],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    },
+    {
+      "id": "wfywifft8b3cwsle6ywt6mvd",
+      "content": "guess",
+      "english": "guess",
+      "chinese": "猜",
+      "sortOrder": 4,
+      "wordDetails": [],
+      "wordGroups": null,
+      "dependencyAnalysis": {
+        "edges": [],
+        "nodes": []
+      },
+      "sentenceStructure": null,
+      "region": null
+    }
+  ],
+  "statementId": ""
+}

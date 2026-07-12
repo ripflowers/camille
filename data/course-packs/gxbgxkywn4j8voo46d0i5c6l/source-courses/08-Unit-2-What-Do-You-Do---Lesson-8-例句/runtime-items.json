@@ -1,0 +1,3911 @@
+[
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-S-savkbmkzzkevriylf0esfqt0",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-S-savkbmkzzkevriylf0esfqt0",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你早上通常做什么，？",
+    "audioText": "What do you do in the morning,?",
+    "fullEnglish": "What do you do in the morning,?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "宾语",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "介词",
+        "zh": "在...里",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "in the morning",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "在...里；定冠词；早晨"
+      },
+      {
+        "index": 5,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "the morning",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；早晨"
+      },
+      {
+        "index": 6,
+        "text": "morning",
+        "answer": "morning",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "中心词",
+        "zh": "早晨",
+        "phonetic": "ˈmɔːrnɪŋ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "the morning",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；早晨"
+      },
+      {
+        "index": 7,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation"
+      },
+      {
+        "index": 8,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation"
+      }
+    ],
+    "shuffledBlocks": [
+      "What",
+      "do",
+      "you",
+      "do",
+      "in",
+      "the",
+      "morning"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What",
+        "role": "宾语",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "do",
+        "role": "助动词",
+        "zh": "做"
+      },
+      {
+        "id": "ud-3",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-4",
+        "text": "do",
+        "role": "谓语",
+        "zh": "做"
+      },
+      {
+        "id": "ud-5",
+        "text": "in the morning",
+        "role": "时间状语",
+        "zh": "在...里；定冠词；早晨",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "in",
+            "role": "介词",
+            "zh": "在...里"
+          },
+          {
+            "id": "ud-7",
+            "text": "the morning",
+            "role": "介词宾语",
+            "zh": "定冠词；早晨",
+            "children": [
+              {
+                "id": "ud-8",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-9",
+                "text": "morning",
+                "role": "中心词",
+                "zh": "早晨"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "宾语",
+        "componentZh": "什么"
+      },
+      "1": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentRole": "助动词",
+        "componentZh": "做"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "3": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentRole": "谓语",
+        "componentZh": "做"
+      },
+      "4": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在...里",
+        "componentRole": "介词",
+        "componentZh": "在...里",
+        "parentComponentText": "in the morning",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "在...里；定冠词；早晨"
+      },
+      "5": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the morning",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；早晨"
+      },
+      "6": {
+        "text": "morning",
+        "phonetic": "ˈmɔːrnɪŋ",
+        "pos": "NOUN",
+        "zh": "早晨",
+        "componentRole": "中心词",
+        "componentZh": "早晨",
+        "parentComponentText": "the morning",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；早晨"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-savkbmkzzkevriylf0esfqt0-1",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-savkbmkzzkevriylf0esfqt0-1",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么",
+    "audioText": "What",
+    "fullEnglish": "What",
+    "phonetic": "wʌt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "What"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-savkbmkzzkevriylf0esfqt0-2",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-savkbmkzzkevriylf0esfqt0-2",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "做",
+    "audioText": "do",
+    "fullEnglish": "do",
+    "phonetic": "duː; də",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "do"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-savkbmkzzkevriylf0esfqt0-3",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-savkbmkzzkevriylf0esfqt0-3",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-savkbmkzzkevriylf0esfqt0-4",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-savkbmkzzkevriylf0esfqt0-4",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在...里",
+    "audioText": "in",
+    "fullEnglish": "in",
+    "phonetic": "ɪn",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...里",
+        "phonetic": "ɪn",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "in"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在...里",
+        "componentZh": "在...里"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-savkbmkzzkevriylf0esfqt0-5",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-savkbmkzzkevriylf0esfqt0-5",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "the",
+    "fullEnglish": "the",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "the"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-savkbmkzzkevriylf0esfqt0-6",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-savkbmkzzkevriylf0esfqt0-6",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "早晨",
+    "audioText": "morning",
+    "fullEnglish": "morning",
+    "phonetic": "ˈmɔːrnɪŋ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "morning",
+        "answer": "morning",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "早晨",
+        "phonetic": "ˈmɔːrnɪŋ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "morning"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "morning",
+        "phonetic": "ˈmɔːrnɪŋ",
+        "pos": "NOUN",
+        "zh": "早晨",
+        "componentZh": "早晨"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-S-c96gkxg8rdx1w2glkmfeocj4",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-S-c96gkxg8rdx1w2glkmfeocj4",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我去上学。",
+    "audioText": "I go to school",
+    "fullEnglish": "I go to school",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "介词",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to school",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "引导不定式；学校"
+      },
+      {
+        "index": 3,
+        "text": "school",
+        "answer": "school",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "学校",
+        "phonetic": "skuːl",
+        "pos": "NOUN",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "school",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "学校"
+      }
+    ],
+    "shuffledBlocks": [
+      "to",
+      "school",
+      "I",
+      "go"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "go",
+        "role": "谓语",
+        "zh": "去"
+      },
+      {
+        "id": "ud-3",
+        "text": "to school",
+        "role": "地点状语",
+        "zh": "引导不定式；学校",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "to",
+            "role": "介词",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-5",
+            "text": "school",
+            "role": "介词宾语",
+            "zh": "学校",
+            "children": [
+              {
+                "id": "ud-6",
+                "text": "school",
+                "role": "中心词",
+                "zh": "学校"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentRole": "谓语",
+        "componentZh": "去"
+      },
+      "2": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentRole": "介词",
+        "componentZh": "引导不定式",
+        "parentComponentText": "to school",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "引导不定式；学校"
+      },
+      "3": {
+        "text": "school",
+        "phonetic": "skuːl",
+        "pos": "NOUN",
+        "zh": "学校",
+        "componentRole": "中心词",
+        "componentZh": "学校",
+        "parentComponentText": "school",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "学校"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-c96gkxg8rdx1w2glkmfeocj4-1",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-c96gkxg8rdx1w2glkmfeocj4-1",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-c96gkxg8rdx1w2glkmfeocj4-2",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-c96gkxg8rdx1w2glkmfeocj4-2",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "去",
+    "audioText": "go",
+    "fullEnglish": "go",
+    "phonetic": "ɡoʊ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "go"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-c96gkxg8rdx1w2glkmfeocj4-3",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-c96gkxg8rdx1w2glkmfeocj4-3",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "引导不定式",
+    "audioText": "to",
+    "fullEnglish": "to",
+    "phonetic": "tuː; tə",
+    "pos": "PART",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART"
+      }
+    ],
+    "shuffledBlocks": [
+      "to"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-c96gkxg8rdx1w2glkmfeocj4-4",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-c96gkxg8rdx1w2glkmfeocj4-4",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "学校",
+    "audioText": "school",
+    "fullEnglish": "school",
+    "phonetic": "skuːl",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "school",
+        "answer": "school",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "学校",
+        "phonetic": "skuːl",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "school"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "school",
+        "phonetic": "skuːl",
+        "pos": "NOUN",
+        "zh": "学校",
+        "componentZh": "学校"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-S-e46by7j3jwyuw0bmtoox7dh4",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-S-e46by7j3jwyuw0bmtoox7dh4",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你下午做什么，？",
+    "audioText": "What do you do in the afternoon,?",
+    "fullEnglish": "What do you do in the afternoon,?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "宾语",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "介词",
+        "zh": "在...里",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "in the afternoon",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "在...里；定冠词；下午"
+      },
+      {
+        "index": 5,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "the afternoon",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；下午"
+      },
+      {
+        "index": 6,
+        "text": "afternoon",
+        "answer": "afternoon",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "中心词",
+        "zh": "下午",
+        "phonetic": "ˌæftərˈnuːn",
+        "pos": "NOUN",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "the afternoon",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；下午"
+      },
+      {
+        "index": 7,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation"
+      },
+      {
+        "index": 8,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation"
+      }
+    ],
+    "shuffledBlocks": [
+      "What",
+      "do",
+      "you",
+      "do",
+      "in",
+      "the",
+      "afternoon"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What",
+        "role": "宾语",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "do",
+        "role": "助动词",
+        "zh": "做"
+      },
+      {
+        "id": "ud-3",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-4",
+        "text": "do",
+        "role": "谓语",
+        "zh": "做"
+      },
+      {
+        "id": "ud-5",
+        "text": "in the afternoon",
+        "role": "时间状语",
+        "zh": "在...里；定冠词；下午",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "in",
+            "role": "介词",
+            "zh": "在...里"
+          },
+          {
+            "id": "ud-7",
+            "text": "the afternoon",
+            "role": "介词宾语",
+            "zh": "定冠词；下午",
+            "children": [
+              {
+                "id": "ud-8",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-9",
+                "text": "afternoon",
+                "role": "中心词",
+                "zh": "下午"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "宾语",
+        "componentZh": "什么"
+      },
+      "1": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentRole": "助动词",
+        "componentZh": "做"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "3": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentRole": "谓语",
+        "componentZh": "做"
+      },
+      "4": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在...里",
+        "componentRole": "介词",
+        "componentZh": "在...里",
+        "parentComponentText": "in the afternoon",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "在...里；定冠词；下午"
+      },
+      "5": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the afternoon",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；下午"
+      },
+      "6": {
+        "text": "afternoon",
+        "phonetic": "ˌæftərˈnuːn",
+        "pos": "NOUN",
+        "zh": "下午",
+        "componentRole": "中心词",
+        "componentZh": "下午",
+        "parentComponentText": "the afternoon",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；下午"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-e46by7j3jwyuw0bmtoox7dh4-6",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-e46by7j3jwyuw0bmtoox7dh4-6",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "下午",
+    "audioText": "afternoon",
+    "fullEnglish": "afternoon",
+    "phonetic": "ˌæftərˈnuːn",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "afternoon",
+        "answer": "afternoon",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "下午",
+        "phonetic": "ˌæftərˈnuːn",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "afternoon"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "afternoon",
+        "phonetic": "ˌæftərˈnuːn",
+        "pos": "NOUN",
+        "zh": "下午",
+        "componentZh": "下午"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-S-d4hzl33m3zhyodv4l3nc2xx8",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-S-d4hzl33m3zhyodv4l3nc2xx8",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我去钓鱼。",
+    "audioText": "I go fishing",
+    "fullEnglish": "I go fishing",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "fishing",
+        "answer": "fishing",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "宾语",
+        "zh": "fishing（现在分词）: 钓鱼",
+        "phonetic": "ˈfɪʃɪŋ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "fishing",
+      "go",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "go",
+        "role": "谓语",
+        "zh": "去"
+      },
+      {
+        "id": "ud-3",
+        "text": "fishing",
+        "role": "宾语",
+        "zh": "fishing（现在分词）: 钓鱼"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentRole": "谓语",
+        "componentZh": "去"
+      },
+      "2": {
+        "text": "fishing",
+        "phonetic": "ˈfɪʃɪŋ",
+        "pos": "VERB",
+        "zh": "fishing（现在分词）: 钓鱼",
+        "componentRole": "宾语",
+        "componentZh": "fishing（现在分词）: 钓鱼"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-d4hzl33m3zhyodv4l3nc2xx8-3",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-d4hzl33m3zhyodv4l3nc2xx8-3",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "fishing（现在分词）: 钓鱼",
+    "audioText": "fishing",
+    "fullEnglish": "fishing",
+    "phonetic": "ˈfɪʃɪŋ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "fishing",
+        "answer": "fishing",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "fishing（现在分词）: 钓鱼",
+        "phonetic": "ˈfɪʃɪŋ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "fishing"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "fishing",
+        "phonetic": "ˈfɪʃɪŋ",
+        "pos": "VERB",
+        "zh": "fishing（现在分词）: 钓鱼",
+        "componentZh": "fishing（现在分词）: 钓鱼"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-S-p9ddczsqqb33uznwmood3y7j",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-S-p9ddczsqqb33uznwmood3y7j",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你晚上一般做什么，？",
+    "audioText": "What do you do in the evening,?",
+    "fullEnglish": "What do you do in the evening,?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "宾语",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 3,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "介词",
+        "zh": "在...里",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "parentComponentId": "ud-5",
+        "parentComponentText": "in the evening",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "在...里；定冠词；晚上"
+      },
+      {
+        "index": 5,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "the evening",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；晚上"
+      },
+      {
+        "index": 6,
+        "text": "evening",
+        "answer": "evening",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "中心词",
+        "zh": "晚上",
+        "phonetic": "ˈivənɪŋ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-7",
+        "parentComponentText": "the evening",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；晚上"
+      },
+      {
+        "index": 7,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation"
+      },
+      {
+        "index": 8,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation"
+      }
+    ],
+    "shuffledBlocks": [
+      "What",
+      "do",
+      "you",
+      "do",
+      "in",
+      "the",
+      "evening"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What",
+        "role": "宾语",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "do",
+        "role": "助动词",
+        "zh": "做"
+      },
+      {
+        "id": "ud-3",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-4",
+        "text": "do",
+        "role": "谓语",
+        "zh": "做"
+      },
+      {
+        "id": "ud-5",
+        "text": "in the evening",
+        "role": "时间状语",
+        "zh": "在...里；定冠词；晚上",
+        "children": [
+          {
+            "id": "ud-6",
+            "text": "in",
+            "role": "介词",
+            "zh": "在...里"
+          },
+          {
+            "id": "ud-7",
+            "text": "the evening",
+            "role": "介词宾语",
+            "zh": "定冠词；晚上",
+            "children": [
+              {
+                "id": "ud-8",
+                "text": "the",
+                "role": "限定词",
+                "zh": "定冠词"
+              },
+              {
+                "id": "ud-9",
+                "text": "evening",
+                "role": "中心词",
+                "zh": "晚上"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "宾语",
+        "componentZh": "什么"
+      },
+      "1": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentRole": "助动词",
+        "componentZh": "做"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "3": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentRole": "谓语",
+        "componentZh": "做"
+      },
+      "4": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在...里",
+        "componentRole": "介词",
+        "componentZh": "在...里",
+        "parentComponentText": "in the evening",
+        "parentComponentRole": "时间状语",
+        "parentComponentZh": "在...里；定冠词；晚上"
+      },
+      "5": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the evening",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；晚上"
+      },
+      "6": {
+        "text": "evening",
+        "phonetic": "ˈivənɪŋ",
+        "pos": "NOUN",
+        "zh": "晚上",
+        "componentRole": "中心词",
+        "componentZh": "晚上",
+        "parentComponentText": "the evening",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "定冠词；晚上"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-p9ddczsqqb33uznwmood3y7j-7",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-p9ddczsqqb33uznwmood3y7j-7",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "晚上",
+    "audioText": "evening",
+    "fullEnglish": "evening",
+    "phonetic": "ˈivənɪŋ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "evening",
+        "answer": "evening",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "晚上",
+        "phonetic": "ˈivənɪŋ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "evening"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "evening",
+        "phonetic": "ˈivənɪŋ",
+        "pos": "NOUN",
+        "zh": "晚上",
+        "componentZh": "晚上"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-S-becbxea6td8p7dnuv786zaqs",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-S-becbxea6td8p7dnuv786zaqs",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我玩游戏。",
+    "audioText": "I play games",
+    "fullEnglish": "I play games",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "玩",
+        "phonetic": "pleɪ",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": "games",
+        "answer": "games",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "宾语",
+        "zh": "游戏（复数）",
+        "phonetic": "ɡeɪmz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "I",
+      "play",
+      "games"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "play",
+        "role": "谓语",
+        "zh": "玩"
+      },
+      {
+        "id": "ud-3",
+        "text": "games",
+        "role": "宾语",
+        "zh": "游戏（复数）"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "玩",
+        "componentRole": "谓语",
+        "componentZh": "玩"
+      },
+      "2": {
+        "text": "games",
+        "phonetic": "ɡeɪmz",
+        "pos": "NOUN",
+        "zh": "游戏（复数）",
+        "componentRole": "宾语",
+        "componentZh": "游戏（复数）"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-becbxea6td8p7dnuv786zaqs-2",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-becbxea6td8p7dnuv786zaqs-2",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "玩",
+    "audioText": "play",
+    "fullEnglish": "play",
+    "phonetic": "pleɪ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "play",
+        "answer": "play",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "玩",
+        "phonetic": "pleɪ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "play"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "play",
+        "phonetic": "pleɪ",
+        "pos": "VERB",
+        "zh": "玩",
+        "componentZh": "玩"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-becbxea6td8p7dnuv786zaqs-3",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-becbxea6td8p7dnuv786zaqs-3",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "游戏（复数）",
+    "audioText": "games",
+    "fullEnglish": "games",
+    "phonetic": "ɡeɪmz",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "games",
+        "answer": "games",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "游戏（复数）",
+        "phonetic": "ɡeɪmz",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "games"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "games",
+        "phonetic": "ɡeɪmz",
+        "pos": "NOUN",
+        "zh": "游戏（复数）",
+        "componentZh": "游戏（复数）"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-S-lh8jvegbelvfbpn8uc6gng6g",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-S-lh8jvegbelvfbpn8uc6gng6g",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "谁能回答这个问题？",
+    "audioText": "Who can answer this question?",
+    "fullEnglish": "Who can answer this question?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Who",
+        "answer": "Who",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "谁",
+        "phonetic": "huː",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "answer",
+        "answer": "answer",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "答案",
+        "phonetic": "ˈænsər",
+        "pos": "NOUN"
+      },
+      {
+        "index": 3,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "this question",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；问题"
+      },
+      {
+        "index": 4,
+        "text": "question",
+        "answer": "question",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "问题",
+        "phonetic": "ˈkwestʃən",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "this question",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；问题"
+      },
+      {
+        "index": 5,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "谁能回答这个问题？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Who",
+      "question",
+      "can",
+      "this",
+      "answer"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Who",
+        "role": "主语",
+        "zh": "谁"
+      },
+      {
+        "id": "ud-2",
+        "text": "can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-3",
+        "text": "answer",
+        "role": "谓语",
+        "zh": "答案"
+      },
+      {
+        "id": "ud-4",
+        "text": "this question",
+        "role": "宾语",
+        "zh": "这个；问题",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "this",
+            "role": "限定词",
+            "zh": "这个"
+          },
+          {
+            "id": "ud-6",
+            "text": "question",
+            "role": "中心词",
+            "zh": "问题"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Who",
+        "phonetic": "huː",
+        "pos": "PRON",
+        "zh": "谁",
+        "componentRole": "主语",
+        "componentZh": "谁"
+      },
+      "1": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentRole": "助动词",
+        "componentZh": "能"
+      },
+      "2": {
+        "text": "answer",
+        "phonetic": "ˈænsər",
+        "pos": "NOUN",
+        "zh": "答案",
+        "componentRole": "谓语",
+        "componentZh": "答案"
+      },
+      "3": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentRole": "限定词",
+        "componentZh": "这个",
+        "parentComponentText": "this question",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；问题"
+      },
+      "4": {
+        "text": "question",
+        "phonetic": "ˈkwestʃən",
+        "pos": "NOUN",
+        "zh": "问题",
+        "componentRole": "中心词",
+        "componentZh": "问题",
+        "parentComponentText": "this question",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "这个；问题"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-lh8jvegbelvfbpn8uc6gng6g-1",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-lh8jvegbelvfbpn8uc6gng6g-1",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "谁",
+    "audioText": "Who",
+    "fullEnglish": "Who",
+    "phonetic": "huː",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Who",
+        "answer": "Who",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "谁",
+        "phonetic": "huː",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Who"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Who",
+        "phonetic": "huː",
+        "pos": "PRON",
+        "zh": "谁",
+        "componentZh": "谁"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-lh8jvegbelvfbpn8uc6gng6g-2",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-lh8jvegbelvfbpn8uc6gng6g-2",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "能",
+    "audioText": "can",
+    "fullEnglish": "can",
+    "phonetic": "kæn",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "can"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-lh8jvegbelvfbpn8uc6gng6g-3",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-lh8jvegbelvfbpn8uc6gng6g-3",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "回答",
+    "audioText": "answer",
+    "fullEnglish": "answer",
+    "phonetic": "ˈænsər",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "answer",
+        "answer": "answer",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "答案",
+        "phonetic": "ˈænsər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "answer"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "answer",
+        "phonetic": "ˈænsər",
+        "pos": "NOUN",
+        "zh": "答案",
+        "componentZh": "答案"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-lh8jvegbelvfbpn8uc6gng6g-4",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-lh8jvegbelvfbpn8uc6gng6g-4",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这个",
+    "audioText": "this",
+    "fullEnglish": "this",
+    "phonetic": "ðɪs",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "this"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentZh": "这个"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-lh8jvegbelvfbpn8uc6gng6g-5",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-lh8jvegbelvfbpn8uc6gng6g-5",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "问题",
+    "audioText": "question",
+    "fullEnglish": "question",
+    "phonetic": "ˈkwestʃən",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "question",
+        "answer": "question",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "问题",
+        "phonetic": "ˈkwestʃən",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "question"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "question",
+        "phonetic": "ˈkwestʃən",
+        "pos": "NOUN",
+        "zh": "问题",
+        "componentZh": "问题"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-S-g9i5x89enquhoxu80gh91tr4",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-S-g9i5x89enquhoxu80gh91tr4",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让我试试。",
+    "audioText": "Let me try",
+    "fullEnglish": "Let me try",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let",
+        "answer": "Let",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "让",
+        "phonetic": "let",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "宾语",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "try",
+        "answer": "try",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "尝试",
+        "phonetic": "traɪ",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "try",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "尝试"
+      }
+    ],
+    "shuffledBlocks": [
+      "try",
+      "Let",
+      "me"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let",
+        "role": "谓语",
+        "zh": "让"
+      },
+      {
+        "id": "ud-2",
+        "text": "me",
+        "role": "宾语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "try",
+        "role": "宾语补足语",
+        "zh": "尝试",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "try",
+            "role": "谓语",
+            "zh": "尝试"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let",
+        "phonetic": "let",
+        "pos": "VERB",
+        "zh": "让",
+        "componentRole": "谓语",
+        "componentZh": "让"
+      },
+      "1": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "宾语",
+        "componentZh": "我"
+      },
+      "2": {
+        "text": "try",
+        "phonetic": "traɪ",
+        "pos": "VERB",
+        "zh": "尝试",
+        "componentRole": "谓语",
+        "componentZh": "尝试",
+        "parentComponentText": "try",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "尝试"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-g9i5x89enquhoxu80gh91tr4-1",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-g9i5x89enquhoxu80gh91tr4-1",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让",
+    "audioText": "Let",
+    "fullEnglish": "Let",
+    "phonetic": "let",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let",
+        "answer": "Let",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "让",
+        "phonetic": "let",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Let",
+        "phonetic": "let",
+        "pos": "VERB",
+        "zh": "让",
+        "componentZh": "让"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-g9i5x89enquhoxu80gh91tr4-2",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-g9i5x89enquhoxu80gh91tr4-2",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "me",
+    "fullEnglish": "me",
+    "phonetic": "miː",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "me"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-g9i5x89enquhoxu80gh91tr4-3",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-g9i5x89enquhoxu80gh91tr4-3",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "尝试",
+    "audioText": "try",
+    "fullEnglish": "try",
+    "phonetic": "traɪ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "try",
+        "answer": "try",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "尝试",
+        "phonetic": "traɪ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "try"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "try",
+        "phonetic": "traɪ",
+        "pos": "VERB",
+        "zh": "尝试",
+        "componentZh": "尝试"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-S-ehobbh5bko7sc61wvbdzir0t",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-S-ehobbh5bko7sc61wvbdzir0t",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这是什么？",
+    "audioText": "What's this?",
+    "fullEnglish": "What's this?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What's",
+        "answer": "What's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "动词",
+        "zh": "这是什么？",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "What's this",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这是什么？；这个"
+      },
+      {
+        "index": 1,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "What's this",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这是什么？；这个"
+      },
+      {
+        "index": 2,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "这是什么？"
+      }
+    ],
+    "shuffledBlocks": [
+      "What's",
+      "this"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What's",
+        "role": "中心成分",
+        "zh": "这是什么？"
+      },
+      {
+        "id": "ud-2",
+        "text": "What's this",
+        "role": "主语",
+        "zh": "这是什么？；这个",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "What's",
+            "role": "动词",
+            "zh": "这是什么？"
+          },
+          {
+            "id": "ud-4",
+            "text": "this",
+            "role": "中心词",
+            "zh": "这个"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What's",
+        "zh": "这是什么？",
+        "componentRole": "动词",
+        "componentZh": "这是什么？",
+        "parentComponentText": "What's this",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这是什么？；这个"
+      },
+      "1": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentRole": "中心词",
+        "componentZh": "这个",
+        "parentComponentText": "What's this",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "这是什么？；这个"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-S-tuwipoxdigwqy83owsa4bw7j",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-S-tuwipoxdigwqy83owsa4bw7j",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请大声一点！",
+    "audioText": "Louder, please!",
+    "fullEnglish": "Louder, please!",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Louder",
+        "answer": "Louder",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "中心成分",
+        "zh": "更大声的",
+        "phonetic": "ˈlaʊdər",
+        "pos": "ADJ"
+      },
+      {
+        "index": 1,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "请大声一点！"
+      },
+      {
+        "index": 2,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "语气/引导语",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      },
+      {
+        "index": 3,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "请大声一点！"
+      }
+    ],
+    "shuffledBlocks": [
+      "please",
+      "Louder"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Louder",
+        "role": "中心成分",
+        "zh": "更大声的"
+      },
+      {
+        "id": "ud-2",
+        "text": "please",
+        "role": "语气/引导语",
+        "zh": "请"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Louder",
+        "phonetic": "ˈlaʊdər",
+        "pos": "ADJ",
+        "zh": "更大声的",
+        "componentRole": "中心成分",
+        "componentZh": "更大声的"
+      },
+      "2": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentRole": "语气/引导语",
+        "componentZh": "请"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-tuwipoxdigwqy83owsa4bw7j-1",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-tuwipoxdigwqy83owsa4bw7j-1",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "更大声的",
+    "audioText": "Louder",
+    "fullEnglish": "Louder",
+    "phonetic": "ˈlaʊdər",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Louder",
+        "answer": "Louder",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "更大声的",
+        "phonetic": "ˈlaʊdər",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "Louder"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Louder",
+        "phonetic": "ˈlaʊdər",
+        "pos": "ADJ",
+        "zh": "更大声的",
+        "componentZh": "更大声的"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-W-tuwipoxdigwqy83owsa4bw7j-2",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-W-tuwipoxdigwqy83owsa4bw7j-2",
+    "type": "word",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "请",
+    "audioText": "please",
+    "fullEnglish": "please",
+    "phonetic": "pliːz",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "please",
+        "answer": "please",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "请",
+        "phonetic": "pliːz",
+        "pos": "INTJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "please"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "pos": "INTJ",
+        "zh": "请",
+        "componentZh": "请"
+      }
+    }
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-PHRASE-j2hr896u9jbbgyepjal0qx7h",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-PHRASE-j2hr896u9jbbgyepjal0qx7h",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你做",
+    "audioText": "do you do",
+    "fullEnglish": "do you do",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "主语"
+      },
+      {
+        "index": 2,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "do",
+      "do"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "do",
+        "role": "助动词",
+        "zh": "做"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "do",
+        "role": "谓语",
+        "zh": "做"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "2": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-PHRASE-wjggxjcexpnmltaq0do9i2gw",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-PHRASE-wjggxjcexpnmltaq0do9i2gw",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你做什么",
+    "audioText": "What do you do",
+    "fullEnglish": "What do you do",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What",
+        "answer": "What",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "宾语"
+      },
+      {
+        "index": 1,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "助动词"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-3",
+        "role": "主语"
+      },
+      {
+        "index": 3,
+        "text": "do",
+        "answer": "do",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "做",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "componentId": "ud-4",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "What",
+      "do",
+      "you",
+      "do"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What",
+        "role": "宾语",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "do",
+        "role": "助动词",
+        "zh": "做"
+      },
+      {
+        "id": "ud-3",
+        "text": "you",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-4",
+        "text": "do",
+        "role": "谓语",
+        "zh": "做"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What",
+        "phonetic": "wʌt",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么",
+        "componentRole": "宾语"
+      },
+      "1": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做",
+        "componentRole": "助动词"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "3": {
+        "text": "do",
+        "phonetic": "duː; də",
+        "pos": "VERB",
+        "zh": "做",
+        "componentZh": "做",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓宾结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-PHRASE-xd0f15lppzo1pmkhruewxh5k",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-PHRASE-xd0f15lppzo1pmkhruewxh5k",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在早上， ？",
+    "audioText": "in the morning,?",
+    "fullEnglish": "in the morning,?",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...里",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "morning",
+        "answer": "morning",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "早晨",
+        "phonetic": "ˈmɔːrnɪŋ",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation"
+      },
+      {
+        "index": 4,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation"
+      }
+    ],
+    "shuffledBlocks": [
+      "in",
+      "the",
+      "morning"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "in",
+        "role": "补充成分",
+        "zh": "在...里"
+      },
+      {
+        "id": "ud-2",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-3",
+        "text": "morning",
+        "role": "中心成分",
+        "zh": "早晨"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在...里",
+        "componentZh": "在...里",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "morning",
+        "phonetic": "ˈmɔːrnɪŋ",
+        "pos": "NOUN",
+        "zh": "早晨",
+        "componentZh": "早晨",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "一般疑问句",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-PHRASE-jq4x9hsqtzq8a2hm234yavmo",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-PHRASE-jq4x9hsqtzq8a2hm234yavmo",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "去上学",
+    "audioText": "go to school",
+    "fullEnglish": "go to school",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "componentId": "ud-3",
+        "role": "介词",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "to school",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "引导不定式；学校"
+      },
+      {
+        "index": 2,
+        "text": "school",
+        "answer": "school",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "学校",
+        "phonetic": "skuːl",
+        "pos": "NOUN",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "school",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "学校"
+      }
+    ],
+    "shuffledBlocks": [
+      "go",
+      "to",
+      "school"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "go",
+        "role": "谓语",
+        "zh": "去"
+      },
+      {
+        "id": "ud-2",
+        "text": "to school",
+        "role": "地点状语",
+        "zh": "引导不定式；学校",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "to",
+            "role": "介词",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-4",
+            "text": "school",
+            "role": "介词宾语",
+            "zh": "学校",
+            "children": [
+              {
+                "id": "ud-5",
+                "text": "school",
+                "role": "中心词",
+                "zh": "学校"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式",
+        "componentRole": "介词",
+        "parentComponentText": "to school",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "引导不定式；学校"
+      },
+      "2": {
+        "text": "school",
+        "phonetic": "skuːl",
+        "pos": "NOUN",
+        "zh": "学校",
+        "componentZh": "学校",
+        "componentRole": "中心词",
+        "parentComponentText": "school",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "学校"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-PHRASE-c5svpmjwbs850ysmt2f9153f",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-PHRASE-c5svpmjwbs850ysmt2f9153f",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在下午， ？",
+    "audioText": "in the afternoon,?",
+    "fullEnglish": "in the afternoon,?",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...里",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "afternoon",
+        "answer": "afternoon",
+        "blank": "_________",
+        "letterCount": 9,
+        "fillable": true,
+        "type": "word",
+        "zh": "下午",
+        "phonetic": "ˌæftərˈnuːn",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation"
+      },
+      {
+        "index": 4,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation"
+      }
+    ],
+    "shuffledBlocks": [
+      "in",
+      "the",
+      "afternoon"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "in",
+        "role": "补充成分",
+        "zh": "在...里"
+      },
+      {
+        "id": "ud-2",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-3",
+        "text": "afternoon",
+        "role": "中心成分",
+        "zh": "下午"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在...里",
+        "componentZh": "在...里",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "afternoon",
+        "phonetic": "ˌæftərˈnuːn",
+        "pos": "NOUN",
+        "zh": "下午",
+        "componentZh": "下午",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "一般疑问句",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-PHRASE-pky5oeqi0i17u2e5vdz38g3s",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-PHRASE-pky5oeqi0i17u2e5vdz38g3s",
+    "type": "sentence",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "去钓鱼",
+    "audioText": "go fishing",
+    "fullEnglish": "go fishing",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "go",
+        "answer": "go",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "去",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "fishing",
+        "answer": "fishing",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "fishing（现在分词）: 钓鱼",
+        "phonetic": "ˈfɪʃɪŋ",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "宾语"
+      }
+    ],
+    "shuffledBlocks": [
+      "go",
+      "fishing"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "go",
+        "role": "谓语",
+        "zh": "去"
+      },
+      {
+        "id": "ud-2",
+        "text": "fishing",
+        "role": "宾语",
+        "zh": "fishing（现在分词）: 钓鱼"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "go",
+        "phonetic": "ɡoʊ",
+        "pos": "VERB",
+        "zh": "去",
+        "componentZh": "去",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "fishing",
+        "phonetic": "ˈfɪʃɪŋ",
+        "pos": "VERB",
+        "zh": "fishing（现在分词）: 钓鱼",
+        "componentZh": "fishing（现在分词）: 钓鱼",
+        "componentRole": "宾语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-PHRASE-scmtfars8mpmcepfc8beelt3",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-PHRASE-scmtfars8mpmcepfc8beelt3",
+    "type": "phrase",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在晚上",
+    "audioText": "in the evening",
+    "fullEnglish": "in the evening",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "in",
+        "answer": "in",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在...里",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "evening",
+        "answer": "evening",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "晚上",
+        "phonetic": "ˈivənɪŋ",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "in",
+      "evening"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "in",
+        "role": "补充成分",
+        "zh": "在...里"
+      },
+      {
+        "id": "ud-2",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-3",
+        "text": "evening",
+        "role": "中心成分",
+        "zh": "晚上"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "in",
+        "phonetic": "ɪn",
+        "pos": "ADP",
+        "zh": "在...里",
+        "componentZh": "在...里",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "evening",
+        "phonetic": "ˈivənɪŋ",
+        "pos": "NOUN",
+        "zh": "晚上",
+        "componentZh": "晚上",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-PHRASE-ved6vzj7rday0ljiwdevnb0b",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-PHRASE-ved6vzj7rday0ljiwdevnb0b",
+    "type": "phrase",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "能回答",
+    "audioText": "can answer",
+    "fullEnglish": "can answer",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "answer",
+        "answer": "answer",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "答案",
+        "phonetic": "ˈænsər",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "can",
+      "answer"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-2",
+        "text": "answer",
+        "role": "谓语",
+        "zh": "答案"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "answer",
+        "phonetic": "ˈænsər",
+        "pos": "NOUN",
+        "zh": "答案",
+        "componentZh": "答案",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-mism0z8eyqsrbrev2019guma-PHRASE-j0tfe0ldj3okdxvuqups4nz3",
+    "contentId": "JLB-mism0z8eyqsrbrev2019guma-PHRASE-j0tfe0ldj3okdxvuqups4nz3",
+    "type": "phrase",
+    "coursePackageId": "gxbgxkywn4j8voo46d0i5c6l",
+    "coursePackageName": "【北京版】一年级下册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "mism0z8eyqsrbrev2019guma",
+    "unitTitle": "Unit 2 What Do You Do?--Lesson 8【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这个问题",
+    "audioText": "this question",
+    "fullEnglish": "this question",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "this",
+        "answer": "this",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "这个",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "question",
+        "answer": "question",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "问题",
+        "phonetic": "ˈkwestʃən",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "this",
+      "question"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "this",
+        "role": "补充成分",
+        "zh": "这个"
+      },
+      {
+        "id": "ud-2",
+        "text": "question",
+        "role": "中心成分",
+        "zh": "问题"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "this",
+        "phonetic": "ðɪs",
+        "pos": "DET",
+        "zh": "这个",
+        "componentZh": "这个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "question",
+        "phonetic": "ˈkwestʃən",
+        "pos": "NOUN",
+        "zh": "问题",
+        "componentZh": "问题",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

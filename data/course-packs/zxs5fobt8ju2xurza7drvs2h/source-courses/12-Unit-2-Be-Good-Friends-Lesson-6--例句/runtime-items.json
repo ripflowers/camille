@@ -1,0 +1,7044 @@
+[
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-S-gm5mbilzgsly32rxen42rcab",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-S-gm5mbilzgsly32rxen42rcab",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "怎么了，Guoguo？",
+    "audioText": "What's the matter, Guoguo?",
+    "fullEnglish": "What's the matter, Guoguo?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What's",
+        "answer": "What's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "疑问词 + 系动词",
+        "zh": "什么",
+        "phonetic": "wʌts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the matter",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；物质"
+      },
+      {
+        "index": 2,
+        "text": "matter",
+        "answer": "matter",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "物质",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the matter",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；物质"
+      },
+      {
+        "index": 3,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "怎么了，Guoguo？"
+      },
+      {
+        "index": 4,
+        "text": "Guoguo",
+        "answer": "Guoguo",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "呼语",
+        "zh": "Guoguo",
+        "phonetic": "guoguo",
+        "pos": "PROPN_PERSON",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "the matter Guoguo",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；物质；Guoguo"
+      },
+      {
+        "index": 5,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "怎么了，Guoguo？"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "What's",
+      "Guoguo",
+      "matter"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What's",
+        "role": "疑问词 + 系动词",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "the matter",
+        "role": "主语",
+        "zh": "定冠词；物质",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-4",
+            "text": "matter",
+            "role": "中心词",
+            "zh": "物质"
+          }
+        ]
+      },
+      {
+        "id": "ud-5",
+        "text": "Guoguo",
+        "role": "呼语",
+        "zh": "Guoguo"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What's",
+        "phonetic": "wʌts",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "疑问词 + 系动词",
+        "componentZh": "什么"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the matter",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；物质"
+      },
+      "2": {
+        "text": "matter",
+        "zh": "物质",
+        "componentRole": "中心词",
+        "componentZh": "物质",
+        "parentComponentText": "the matter",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；物质"
+      },
+      "4": {
+        "text": "Guoguo",
+        "phonetic": "guoguo",
+        "pos": "PROPN_PERSON",
+        "zh": "Guoguo",
+        "componentRole": "呼语",
+        "componentZh": "Guoguo",
+        "parentComponentText": "the matter Guoguo",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "定冠词；物质；Guoguo"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-S-u47huz46i2r0fg0r3ttdx0wx",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-S-u47huz46i2r0fg0r3ttdx0wx",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我不记得那首诗了。",
+    "audioText": "I can't remember the poem",
+    "fullEnglish": "I can't remember the poem",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "can't",
+        "answer": "can't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不能",
+        "phonetic": "kænt",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "remember",
+        "answer": "remember",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "记住",
+        "phonetic": "rɪˈmembər",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "the poem",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；诗"
+      },
+      {
+        "index": 4,
+        "text": "poem",
+        "answer": "poem",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "诗",
+        "phonetic": "ˈpoʊəm",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "the poem",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；诗"
+      }
+    ],
+    "shuffledBlocks": [
+      "can't",
+      "the",
+      "remember",
+      "poem",
+      "I"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "can't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不能"
+      },
+      {
+        "id": "ud-3",
+        "text": "remember",
+        "role": "谓语",
+        "zh": "记住"
+      },
+      {
+        "id": "ud-4",
+        "text": "the poem",
+        "role": "宾语",
+        "zh": "定冠词；诗",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-6",
+            "text": "poem",
+            "role": "中心词",
+            "zh": "诗"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "can't",
+        "phonetic": "kænt",
+        "pos": "AUX",
+        "zh": "不能",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "不能"
+      },
+      "2": {
+        "text": "remember",
+        "phonetic": "rɪˈmembər",
+        "pos": "VERB",
+        "zh": "记住",
+        "componentRole": "谓语",
+        "componentZh": "记住"
+      },
+      "3": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the poem",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；诗"
+      },
+      "4": {
+        "text": "poem",
+        "phonetic": "ˈpoʊəm",
+        "pos": "NOUN",
+        "zh": "诗",
+        "componentRole": "中心词",
+        "componentZh": "诗",
+        "parentComponentText": "the poem",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；诗"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-u47huz46i2r0fg0r3ttdx0wx-1",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-u47huz46i2r0fg0r3ttdx0wx-1",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "I",
+    "fullEnglish": "I",
+    "phonetic": "aɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "I"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-u47huz46i2r0fg0r3ttdx0wx-2",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-u47huz46i2r0fg0r3ttdx0wx-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "不能",
+    "audioText": "can't",
+    "fullEnglish": "can't",
+    "phonetic": "kænt",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "can't",
+        "answer": "can't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "不能",
+        "phonetic": "kænt",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "can't"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "can't",
+        "phonetic": "kænt",
+        "pos": "AUX",
+        "zh": "不能",
+        "componentZh": "不能"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-u47huz46i2r0fg0r3ttdx0wx-3",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-u47huz46i2r0fg0r3ttdx0wx-3",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "记住",
+    "audioText": "remember",
+    "fullEnglish": "remember",
+    "phonetic": "rɪˈmembər",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "remember",
+        "answer": "remember",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "记住",
+        "phonetic": "rɪˈmembər",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "remember"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "remember",
+        "phonetic": "rɪˈmembər",
+        "pos": "VERB",
+        "zh": "记住",
+        "componentZh": "记住"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-u47huz46i2r0fg0r3ttdx0wx-4",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-u47huz46i2r0fg0r3ttdx0wx-4",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "定冠词",
+    "audioText": "the",
+    "fullEnglish": "the",
+    "phonetic": "ðə",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "the"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-u47huz46i2r0fg0r3ttdx0wx-5",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-u47huz46i2r0fg0r3ttdx0wx-5",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "诗",
+    "audioText": "poem",
+    "fullEnglish": "poem",
+    "phonetic": "ˈpoʊəm",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "poem",
+        "answer": "poem",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "诗",
+        "phonetic": "ˈpoʊəm",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "poem"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "poem",
+        "phonetic": "ˈpoʊəm",
+        "pos": "NOUN",
+        "zh": "诗",
+        "componentZh": "诗"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-S-oi7vom25ek203q4ymrda7nr4",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-S-oi7vom25ek203q4ymrda7nr4",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这太难了。",
+    "audioText": "It's so hard",
+    "fullEnglish": "It's so hard",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "这是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "so",
+        "answer": "so",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "方式/程度状语",
+        "zh": "如此",
+        "phonetic": "soʊ",
+        "pos": "ADV"
+      },
+      {
+        "index": 2,
+        "text": "hard",
+        "answer": "hard",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "表语",
+        "zh": "困难",
+        "phonetic": "hɑːrd",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's",
+      "hard",
+      "so"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "主语 + 系动词",
+        "zh": "这是"
+      },
+      {
+        "id": "ud-2",
+        "text": "so",
+        "role": "方式/程度状语",
+        "zh": "如此"
+      },
+      {
+        "id": "ud-3",
+        "text": "hard",
+        "role": "表语",
+        "zh": "困难"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "这是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "这是"
+      },
+      "1": {
+        "text": "so",
+        "phonetic": "soʊ",
+        "pos": "ADV",
+        "zh": "如此",
+        "componentRole": "方式/程度状语",
+        "componentZh": "如此"
+      },
+      "2": {
+        "text": "hard",
+        "phonetic": "hɑːrd",
+        "pos": "ADJ",
+        "zh": "困难",
+        "componentRole": "表语",
+        "componentZh": "困难"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-oi7vom25ek203q4ymrda7nr4-1",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-oi7vom25ek203q4ymrda7nr4-1",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它是",
+    "audioText": "It's",
+    "fullEnglish": "It's",
+    "phonetic": "ɪts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "这是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "It's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "这是",
+        "componentZh": "这是"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-oi7vom25ek203q4ymrda7nr4-2",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-oi7vom25ek203q4ymrda7nr4-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "如此",
+    "audioText": "so",
+    "fullEnglish": "so",
+    "phonetic": "soʊ",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "so",
+        "answer": "so",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "如此",
+        "phonetic": "soʊ",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "so"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "so",
+        "phonetic": "soʊ",
+        "pos": "ADV",
+        "zh": "如此",
+        "componentZh": "如此"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-oi7vom25ek203q4ymrda7nr4-3",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-oi7vom25ek203q4ymrda7nr4-3",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "困难",
+    "audioText": "hard",
+    "fullEnglish": "hard",
+    "phonetic": "hɑːrd",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "hard",
+        "answer": "hard",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "困难",
+        "phonetic": "hɑːrd",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "hard"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "hard",
+        "phonetic": "hɑːrd",
+        "pos": "ADJ",
+        "zh": "困难",
+        "componentZh": "困难"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-S-o4judpqxapmgudohmj1amm7n",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-S-o4judpqxapmgudohmj1amm7n",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让我来帮你。",
+    "audioText": "Let me help you",
+    "fullEnglish": "Let me help you",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let",
+        "answer": "Let",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "让",
+        "phonetic": "let",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "宾语",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "help",
+        "answer": "help",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "帮助",
+        "phonetic": "help",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "help you",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "帮助；你"
+      },
+      {
+        "index": 3,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "宾语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "help you",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "帮助；你"
+      }
+    ],
+    "shuffledBlocks": [
+      "me",
+      "help",
+      "you",
+      "Let"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let",
+        "role": "谓语",
+        "zh": "让"
+      },
+      {
+        "id": "ud-2",
+        "text": "me",
+        "role": "宾语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "help you",
+        "role": "宾语补足语",
+        "zh": "帮助；你",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "help",
+            "role": "谓语",
+            "zh": "帮助"
+          },
+          {
+            "id": "ud-5",
+            "text": "you",
+            "role": "宾语",
+            "zh": "你"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let",
+        "phonetic": "let",
+        "pos": "VERB",
+        "zh": "让",
+        "componentRole": "谓语",
+        "componentZh": "让"
+      },
+      "1": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "宾语",
+        "componentZh": "我"
+      },
+      "2": {
+        "text": "help",
+        "phonetic": "help",
+        "pos": "VERB",
+        "zh": "帮助",
+        "componentRole": "谓语",
+        "componentZh": "帮助",
+        "parentComponentText": "help you",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "帮助；你"
+      },
+      "3": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "宾语",
+        "componentZh": "你",
+        "parentComponentText": "help you",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "帮助；你"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-o4judpqxapmgudohmj1amm7n-1",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-o4judpqxapmgudohmj1amm7n-1",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让",
+    "audioText": "Let",
+    "fullEnglish": "Let",
+    "phonetic": "let",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let",
+        "answer": "Let",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "让",
+        "phonetic": "let",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Let",
+        "phonetic": "let",
+        "pos": "VERB",
+        "zh": "让",
+        "componentZh": "让"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-o4judpqxapmgudohmj1amm7n-2",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-o4judpqxapmgudohmj1amm7n-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我",
+    "audioText": "me",
+    "fullEnglish": "me",
+    "phonetic": "miː",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "me"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-o4judpqxapmgudohmj1amm7n-3",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-o4judpqxapmgudohmj1amm7n-3",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "帮助",
+    "audioText": "help",
+    "fullEnglish": "help",
+    "phonetic": "help",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "help",
+        "answer": "help",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "帮助",
+        "phonetic": "help",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "help"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "help",
+        "phonetic": "help",
+        "pos": "VERB",
+        "zh": "帮助",
+        "componentZh": "帮助"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-o4judpqxapmgudohmj1amm7n-4",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-o4judpqxapmgudohmj1amm7n-4",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "you",
+    "fullEnglish": "you",
+    "phonetic": "juː; jʊ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "you"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-S-dsm9lnh53ib6oggurwwupcgb",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-S-dsm9lnh53ib6oggurwwupcgb",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你可以记住每一行的第一个词。",
+    "audioText": "You can remember the first word of every line",
+    "fullEnglish": "You can remember the first word of every line",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "You",
+        "answer": "You",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "remember",
+        "answer": "remember",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "记住",
+        "phonetic": "rɪˈmembər",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "the first word of every line",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；第一次；单词；关于；每个；线"
+      },
+      {
+        "index": 4,
+        "text": "first",
+        "answer": "first",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "定语（形容词）",
+        "zh": "第一次",
+        "phonetic": "fɜːrst",
+        "pos": "ADJ",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "the first word of every line",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；第一次；单词；关于；每个；线"
+      },
+      {
+        "index": 5,
+        "text": "word",
+        "answer": "word",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "zh": "单词",
+        "phonetic": "wɜrd",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "the first word of every line",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；第一次；单词；关于；每个；线"
+      },
+      {
+        "index": 6,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "介词",
+        "zh": "关于",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "the first word of every line",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；第一次；单词；关于；每个；线"
+      },
+      {
+        "index": 7,
+        "text": "every",
+        "answer": "every",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "限定词",
+        "zh": "每个",
+        "phonetic": "ˈevri",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "the first word of every line",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；第一次；单词；关于；每个；线"
+      },
+      {
+        "index": 8,
+        "text": "line",
+        "answer": "line",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-10",
+        "role": "修饰语",
+        "zh": "线",
+        "phonetic": "laɪn",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "the first word of every line",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；第一次；单词；关于；每个；线"
+      }
+    ],
+    "shuffledBlocks": [
+      "of",
+      "the",
+      "line",
+      "word",
+      "every",
+      "first",
+      "remember",
+      "You",
+      "can"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "You",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-2",
+        "text": "can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-3",
+        "text": "remember",
+        "role": "谓语",
+        "zh": "记住"
+      },
+      {
+        "id": "ud-4",
+        "text": "the first word of every line",
+        "role": "宾语",
+        "zh": "定冠词；第一次；单词；关于；每个；线",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-6",
+            "text": "first",
+            "role": "定语（形容词）",
+            "zh": "第一次"
+          },
+          {
+            "id": "ud-7",
+            "text": "word",
+            "role": "中心词",
+            "zh": "单词"
+          },
+          {
+            "id": "ud-8",
+            "text": "of",
+            "role": "介词",
+            "zh": "关于"
+          },
+          {
+            "id": "ud-9",
+            "text": "every",
+            "role": "限定词",
+            "zh": "每个"
+          },
+          {
+            "id": "ud-10",
+            "text": "line",
+            "role": "修饰语",
+            "zh": "线"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "You",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "1": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentRole": "助动词",
+        "componentZh": "能"
+      },
+      "2": {
+        "text": "remember",
+        "phonetic": "rɪˈmembər",
+        "pos": "VERB",
+        "zh": "记住",
+        "componentRole": "谓语",
+        "componentZh": "记住"
+      },
+      "3": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "the first word of every line",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；第一次；单词；关于；每个；线"
+      },
+      "4": {
+        "text": "first",
+        "phonetic": "fɜːrst",
+        "pos": "ADJ",
+        "zh": "第一次",
+        "componentRole": "定语（形容词）",
+        "componentZh": "第一次",
+        "parentComponentText": "the first word of every line",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；第一次；单词；关于；每个；线"
+      },
+      "5": {
+        "text": "word",
+        "phonetic": "wɜrd",
+        "pos": "NOUN",
+        "zh": "单词",
+        "componentRole": "中心词",
+        "componentZh": "单词",
+        "parentComponentText": "the first word of every line",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；第一次；单词；关于；每个；线"
+      },
+      "6": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "关于",
+        "componentRole": "介词",
+        "componentZh": "关于",
+        "parentComponentText": "the first word of every line",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；第一次；单词；关于；每个；线"
+      },
+      "7": {
+        "text": "every",
+        "phonetic": "ˈevri",
+        "pos": "DET",
+        "zh": "每个",
+        "componentRole": "限定词",
+        "componentZh": "每个",
+        "parentComponentText": "the first word of every line",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；第一次；单词；关于；每个；线"
+      },
+      "8": {
+        "text": "line",
+        "phonetic": "laɪn",
+        "pos": "NOUN",
+        "zh": "线",
+        "componentRole": "修饰语",
+        "componentZh": "线",
+        "parentComponentText": "the first word of every line",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "定冠词；第一次；单词；关于；每个；线"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-dsm9lnh53ib6oggurwwupcgb-2",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-dsm9lnh53ib6oggurwwupcgb-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "可以",
+    "audioText": "can",
+    "fullEnglish": "can",
+    "phonetic": "kæn",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "can"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-dsm9lnh53ib6oggurwwupcgb-5",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-dsm9lnh53ib6oggurwwupcgb-5",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "第一个",
+    "audioText": "first",
+    "fullEnglish": "first",
+    "phonetic": "fɜːrst",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "first",
+        "answer": "first",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "第一次",
+        "phonetic": "fɜːrst",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "first"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "first",
+        "phonetic": "fɜːrst",
+        "pos": "ADJ",
+        "zh": "第一次",
+        "componentZh": "第一次"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-dsm9lnh53ib6oggurwwupcgb-6",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-dsm9lnh53ib6oggurwwupcgb-6",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "单词",
+    "audioText": "word",
+    "fullEnglish": "word",
+    "phonetic": "wɜrd",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "word",
+        "answer": "word",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "单词",
+        "phonetic": "wɜrd",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "word"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "word",
+        "phonetic": "wɜrd",
+        "pos": "NOUN",
+        "zh": "单词",
+        "componentZh": "单词"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-dsm9lnh53ib6oggurwwupcgb-7",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-dsm9lnh53ib6oggurwwupcgb-7",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "的",
+    "audioText": "of",
+    "fullEnglish": "of",
+    "phonetic": "ʌv",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "关于",
+        "phonetic": "ʌv",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "of"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "关于",
+        "componentZh": "关于"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-dsm9lnh53ib6oggurwwupcgb-8",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-dsm9lnh53ib6oggurwwupcgb-8",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "每一个",
+    "audioText": "every",
+    "fullEnglish": "every",
+    "phonetic": "ˈevri",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "every",
+        "answer": "every",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "每个",
+        "phonetic": "ˈevri",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "every"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "every",
+        "phonetic": "ˈevri",
+        "pos": "DET",
+        "zh": "每个",
+        "componentZh": "每个"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-dsm9lnh53ib6oggurwwupcgb-9",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-dsm9lnh53ib6oggurwwupcgb-9",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "行",
+    "audioText": "line",
+    "fullEnglish": "line",
+    "phonetic": "laɪn",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "line",
+        "answer": "line",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "线",
+        "phonetic": "laɪn",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "line"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "line",
+        "phonetic": "laɪn",
+        "pos": "NOUN",
+        "zh": "线",
+        "componentZh": "线"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-S-qil47j73o5k2l8zaz6i6syxi",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-S-qil47j73o5k2l8zaz6i6syxi",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我还是想不起来。",
+    "audioText": "I still can't remember it",
+    "fullEnglish": "I still can't remember it",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "still",
+        "answer": "still",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "方式/程度状语",
+        "zh": "仍然",
+        "phonetic": "stɪl",
+        "pos": "ADV"
+      },
+      {
+        "index": 2,
+        "text": "can't",
+        "answer": "can't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不能",
+        "phonetic": "kænt",
+        "pos": "AUX"
+      },
+      {
+        "index": 3,
+        "text": "remember",
+        "answer": "remember",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "记住",
+        "phonetic": "rɪˈmembər",
+        "pos": "VERB"
+      },
+      {
+        "index": 4,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "宾语",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "still",
+      "it",
+      "I",
+      "can't",
+      "remember"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "still",
+        "role": "方式/程度状语",
+        "zh": "仍然"
+      },
+      {
+        "id": "ud-3",
+        "text": "can't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不能"
+      },
+      {
+        "id": "ud-4",
+        "text": "remember",
+        "role": "谓语",
+        "zh": "记住"
+      },
+      {
+        "id": "ud-5",
+        "text": "it",
+        "role": "宾语",
+        "zh": "它"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "still",
+        "phonetic": "stɪl",
+        "pos": "ADV",
+        "zh": "仍然",
+        "componentRole": "方式/程度状语",
+        "componentZh": "仍然"
+      },
+      "2": {
+        "text": "can't",
+        "phonetic": "kænt",
+        "pos": "AUX",
+        "zh": "不能",
+        "componentRole": "助动词 + 方式/程度状语",
+        "componentZh": "不能"
+      },
+      "3": {
+        "text": "remember",
+        "phonetic": "rɪˈmembər",
+        "pos": "VERB",
+        "zh": "记住",
+        "componentRole": "谓语",
+        "componentZh": "记住"
+      },
+      "4": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentRole": "宾语",
+        "componentZh": "它"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-qil47j73o5k2l8zaz6i6syxi-2",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-qil47j73o5k2l8zaz6i6syxi-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "仍然",
+    "audioText": "still",
+    "fullEnglish": "still",
+    "phonetic": "stɪl",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "still",
+        "answer": "still",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "仍然",
+        "phonetic": "stɪl",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "still"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "still",
+        "phonetic": "stɪl",
+        "pos": "ADV",
+        "zh": "仍然",
+        "componentZh": "仍然"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-qil47j73o5k2l8zaz6i6syxi-5",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-qil47j73o5k2l8zaz6i6syxi-5",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它",
+    "audioText": "it",
+    "fullEnglish": "it",
+    "phonetic": "ɪt",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "it"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-S-xf0xo2gdwtfbtnpuymppg25a",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-S-xf0xo2gdwtfbtnpuymppg25a",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你可以为这首诗画一幅画。",
+    "audioText": "You can draw a picture for the poem",
+    "fullEnglish": "You can draw a picture for the poem",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "You",
+        "answer": "You",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "draw",
+        "answer": "draw",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "画",
+        "phonetic": "drɔː",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "a picture for the poem",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；画；为了；定冠词；诗"
+      },
+      {
+        "index": 4,
+        "text": "picture",
+        "answer": "picture",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "zh": "画",
+        "phonetic": "ˈpɪktʃər",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "a picture for the poem",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；画；为了；定冠词；诗"
+      },
+      {
+        "index": 5,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "介词",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "a picture for the poem",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；画；为了；定冠词；诗"
+      },
+      {
+        "index": 6,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "限定词",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "a picture for the poem",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；画；为了；定冠词；诗"
+      },
+      {
+        "index": 7,
+        "text": "poem",
+        "answer": "poem",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "修饰语",
+        "zh": "诗",
+        "phonetic": "ˈpoʊəm",
+        "pos": "NOUN",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "a picture for the poem",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；画；为了；定冠词；诗"
+      }
+    ],
+    "shuffledBlocks": [
+      "picture",
+      "draw",
+      "a",
+      "the",
+      "You",
+      "poem",
+      "for",
+      "can"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "You",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-2",
+        "text": "can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-3",
+        "text": "draw",
+        "role": "谓语",
+        "zh": "画"
+      },
+      {
+        "id": "ud-4",
+        "text": "a picture for the poem",
+        "role": "宾语",
+        "zh": "一个；画；为了；定冠词；诗",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-6",
+            "text": "picture",
+            "role": "中心词",
+            "zh": "画"
+          },
+          {
+            "id": "ud-7",
+            "text": "for",
+            "role": "介词",
+            "zh": "为了"
+          },
+          {
+            "id": "ud-8",
+            "text": "the",
+            "role": "限定词",
+            "zh": "定冠词"
+          },
+          {
+            "id": "ud-9",
+            "text": "poem",
+            "role": "修饰语",
+            "zh": "诗"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "You",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "主语",
+        "componentZh": "你"
+      },
+      "1": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentRole": "助动词",
+        "componentZh": "能"
+      },
+      "2": {
+        "text": "draw",
+        "phonetic": "drɔː",
+        "pos": "VERB",
+        "zh": "画",
+        "componentRole": "谓语",
+        "componentZh": "画"
+      },
+      "3": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "a picture for the poem",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；画；为了；定冠词；诗"
+      },
+      "4": {
+        "text": "picture",
+        "phonetic": "ˈpɪktʃər",
+        "pos": "NOUN",
+        "zh": "画",
+        "componentRole": "中心词",
+        "componentZh": "画",
+        "parentComponentText": "a picture for the poem",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；画；为了；定冠词；诗"
+      },
+      "5": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentRole": "介词",
+        "componentZh": "为了",
+        "parentComponentText": "a picture for the poem",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；画；为了；定冠词；诗"
+      },
+      "6": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentRole": "限定词",
+        "componentZh": "定冠词",
+        "parentComponentText": "a picture for the poem",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；画；为了；定冠词；诗"
+      },
+      "7": {
+        "text": "poem",
+        "phonetic": "ˈpoʊəm",
+        "pos": "NOUN",
+        "zh": "诗",
+        "componentRole": "修饰语",
+        "componentZh": "诗",
+        "parentComponentText": "a picture for the poem",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；画；为了；定冠词；诗"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-xf0xo2gdwtfbtnpuymppg25a-3",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-xf0xo2gdwtfbtnpuymppg25a-3",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "画",
+    "audioText": "draw",
+    "fullEnglish": "draw",
+    "phonetic": "drɔː",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "draw",
+        "answer": "draw",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "画",
+        "phonetic": "drɔː",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "draw"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "draw",
+        "phonetic": "drɔː",
+        "pos": "VERB",
+        "zh": "画",
+        "componentZh": "画"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-xf0xo2gdwtfbtnpuymppg25a-4",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-xf0xo2gdwtfbtnpuymppg25a-4",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个",
+    "audioText": "a",
+    "fullEnglish": "a",
+    "phonetic": "ə; eɪ",
+    "pos": "DET",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET"
+      }
+    ],
+    "shuffledBlocks": [
+      "a"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-xf0xo2gdwtfbtnpuymppg25a-5",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-xf0xo2gdwtfbtnpuymppg25a-5",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "画",
+    "audioText": "picture",
+    "fullEnglish": "picture",
+    "phonetic": "ˈpɪktʃər",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "picture",
+        "answer": "picture",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "画",
+        "phonetic": "ˈpɪktʃər",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "picture"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "picture",
+        "phonetic": "ˈpɪktʃər",
+        "pos": "NOUN",
+        "zh": "画",
+        "componentZh": "画"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-xf0xo2gdwtfbtnpuymppg25a-6",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-xf0xo2gdwtfbtnpuymppg25a-6",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "为",
+    "audioText": "for",
+    "fullEnglish": "for",
+    "phonetic": "fɔːr; fər",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "for"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentZh": "为了"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-S-xgche45gwnzrahzdyuxlf0ze",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-S-xgche45gwnzrahzdyuxlf0ze",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这或许有用。",
+    "audioText": "It may help",
+    "fullEnglish": "It may help",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It",
+        "answer": "It",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "may",
+        "answer": "may",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "五月",
+        "phonetic": "meɪ",
+        "pos": "PROPN"
+      },
+      {
+        "index": 2,
+        "text": "help",
+        "answer": "help",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "帮助",
+        "phonetic": "help",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "help",
+      "may",
+      "It"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It",
+        "role": "主语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-2",
+        "text": "may",
+        "role": "助动词",
+        "zh": "五月"
+      },
+      {
+        "id": "ud-3",
+        "text": "help",
+        "role": "谓语",
+        "zh": "帮助"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentRole": "主语",
+        "componentZh": "它"
+      },
+      "1": {
+        "text": "may",
+        "phonetic": "meɪ",
+        "pos": "PROPN",
+        "zh": "五月",
+        "componentRole": "助动词",
+        "componentZh": "五月"
+      },
+      "2": {
+        "text": "help",
+        "phonetic": "help",
+        "pos": "VERB",
+        "zh": "帮助",
+        "componentRole": "谓语",
+        "componentZh": "帮助"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-xgche45gwnzrahzdyuxlf0ze-2",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-xgche45gwnzrahzdyuxlf0ze-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "可能",
+    "audioText": "may",
+    "fullEnglish": "may",
+    "phonetic": "meɪ",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "may",
+        "answer": "may",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "五月",
+        "phonetic": "meɪ",
+        "pos": "PROPN"
+      }
+    ],
+    "shuffledBlocks": [
+      "may"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "may",
+        "phonetic": "meɪ",
+        "pos": "PROPN",
+        "zh": "五月",
+        "componentZh": "五月"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-S-if6dod2njre2yngmf7yhewhg",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-S-if6dod2njre2yngmf7yhewhg",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "成功了，Lingling！真的成功了！",
+    "audioText": "It works, Lingling! It works!",
+    "fullEnglish": "It works, Lingling! It works!",
+    "sentenceType": "主谓结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It",
+        "answer": "It",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "works",
+        "answer": "works",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "谓语",
+        "zh": "work（第三人称单数）: 工作",
+        "phonetic": "wɜːrks",
+        "pos": "VERB"
+      },
+      {
+        "index": 2,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "成功了，Lingling！真的成功了！"
+      },
+      {
+        "index": 3,
+        "text": "Lingling",
+        "answer": "Lingling",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "呼语",
+        "zh": "Lingling",
+        "phonetic": "ˈlɪŋlɪŋ",
+        "pos": "PROPN_PERSON"
+      },
+      {
+        "index": 4,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "成功了，Lingling！真的成功了！"
+      },
+      {
+        "index": 5,
+        "text": "It",
+        "answer": "It",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "主语",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      },
+      {
+        "index": 6,
+        "text": "works",
+        "answer": "works",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "谓语",
+        "zh": "work（第三人称单数）: 工作",
+        "phonetic": "wɜːrks",
+        "pos": "VERB"
+      },
+      {
+        "index": 7,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "成功了，Lingling！真的成功了！"
+      }
+    ],
+    "shuffledBlocks": [
+      "works",
+      "Lingling",
+      "works",
+      "It",
+      "It"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It",
+        "role": "主语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-2",
+        "text": "works",
+        "role": "谓语",
+        "zh": "work（第三人称单数）: 工作"
+      },
+      {
+        "id": "ud-3",
+        "text": "Lingling",
+        "role": "呼语",
+        "zh": "Lingling"
+      },
+      {
+        "id": "ud-4",
+        "text": "It",
+        "role": "主语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-5",
+        "text": "works",
+        "role": "谓语",
+        "zh": "work（第三人称单数）: 工作"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentRole": "主语",
+        "componentZh": "它"
+      },
+      "1": {
+        "text": "works",
+        "phonetic": "wɜːrks",
+        "pos": "VERB",
+        "zh": "work（第三人称单数）: 工作",
+        "componentRole": "谓语",
+        "componentZh": "work（第三人称单数）: 工作"
+      },
+      "3": {
+        "text": "Lingling",
+        "phonetic": "ˈlɪŋlɪŋ",
+        "pos": "PROPN_PERSON",
+        "zh": "Lingling",
+        "componentRole": "呼语",
+        "componentZh": "Lingling"
+      },
+      "5": {
+        "text": "It",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentRole": "主语",
+        "componentZh": "它"
+      },
+      "6": {
+        "text": "works",
+        "phonetic": "wɜːrks",
+        "pos": "VERB",
+        "zh": "work（第三人称单数）: 工作",
+        "componentRole": "谓语",
+        "componentZh": "work（第三人称单数）: 工作"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-if6dod2njre2yngmf7yhewhg-2",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-if6dod2njre2yngmf7yhewhg-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "work（第三人称单数）: 工作",
+    "audioText": "works",
+    "fullEnglish": "works",
+    "phonetic": "wɜːrks",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "works",
+        "answer": "works",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "work（第三人称单数）: 工作",
+        "phonetic": "wɜːrks",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "works"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "works",
+        "phonetic": "wɜːrks",
+        "pos": "VERB",
+        "zh": "work（第三人称单数）: 工作",
+        "componentZh": "work（第三人称单数）: 工作"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-if6dod2njre2yngmf7yhewhg-3",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-if6dod2njre2yngmf7yhewhg-3",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Lingling",
+    "audioText": "Lingling",
+    "fullEnglish": "Lingling",
+    "phonetic": "ˈlɪŋlɪŋ",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Lingling",
+        "answer": "Lingling",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "Lingling",
+        "phonetic": "ˈlɪŋlɪŋ",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Lingling"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Lingling",
+        "phonetic": "ˈlɪŋlɪŋ",
+        "pos": "PROPN_PERSON",
+        "zh": "Lingling",
+        "componentZh": "Lingling"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-S-krg84jxbhmus5y8nbtjzwxs3",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-S-krg84jxbhmus5y8nbtjzwxs3",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我现在还记得。",
+    "audioText": "I can remember it now",
+    "fullEnglish": "I can remember it now",
+    "sentenceType": "主谓宾结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "I",
+        "answer": "I",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语",
+        "zh": "我",
+        "phonetic": "aɪ",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "助动词",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX"
+      },
+      {
+        "index": 2,
+        "text": "remember",
+        "answer": "remember",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "谓语",
+        "zh": "记住",
+        "phonetic": "rɪˈmembər",
+        "pos": "VERB"
+      },
+      {
+        "index": 3,
+        "text": "it",
+        "answer": "it",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "宾语",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON"
+      },
+      {
+        "index": 4,
+        "text": "now",
+        "answer": "now",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "时间状语",
+        "zh": "现在",
+        "phonetic": "naʊ",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "remember",
+      "it",
+      "I",
+      "now",
+      "can"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "I",
+        "role": "主语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-2",
+        "text": "can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-3",
+        "text": "remember",
+        "role": "谓语",
+        "zh": "记住"
+      },
+      {
+        "id": "ud-4",
+        "text": "it",
+        "role": "宾语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-5",
+        "text": "now",
+        "role": "时间状语",
+        "zh": "现在"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "I",
+        "phonetic": "aɪ",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "主语",
+        "componentZh": "我"
+      },
+      "1": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentRole": "助动词",
+        "componentZh": "能"
+      },
+      "2": {
+        "text": "remember",
+        "phonetic": "rɪˈmembər",
+        "pos": "VERB",
+        "zh": "记住",
+        "componentRole": "谓语",
+        "componentZh": "记住"
+      },
+      "3": {
+        "text": "it",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentRole": "宾语",
+        "componentZh": "它"
+      },
+      "4": {
+        "text": "now",
+        "phonetic": "naʊ",
+        "pos": "ADV",
+        "zh": "现在",
+        "componentRole": "时间状语",
+        "componentZh": "现在"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-krg84jxbhmus5y8nbtjzwxs3-5",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-krg84jxbhmus5y8nbtjzwxs3-5",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "现在",
+    "audioText": "now",
+    "fullEnglish": "now",
+    "phonetic": "naʊ",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "now",
+        "answer": "now",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "现在",
+        "phonetic": "naʊ",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "now"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "now",
+        "phonetic": "naʊ",
+        "pos": "ADV",
+        "zh": "现在",
+        "componentZh": "现在"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-S-xx1akff2nh9fci4a948ylhbv",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-S-xx1akff2nh9fci4a948ylhbv",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "看看你！",
+    "audioText": "Look at you!",
+    "fullEnglish": "Look at you!",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Look",
+        "answer": "Look",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "看",
+        "phonetic": "lʊk",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "at",
+        "answer": "at",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "介词",
+        "zh": "在",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "at you",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；你"
+      },
+      {
+        "index": 2,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "you",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你"
+      },
+      {
+        "index": 3,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "看看你！"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "Look",
+      "at"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Look",
+        "role": "谓语",
+        "zh": "看"
+      },
+      {
+        "id": "ud-2",
+        "text": "at you",
+        "role": "地点状语",
+        "zh": "在；你",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "at",
+            "role": "介词",
+            "zh": "在"
+          },
+          {
+            "id": "ud-4",
+            "text": "you",
+            "role": "介词宾语",
+            "zh": "你",
+            "children": [
+              {
+                "id": "ud-5",
+                "text": "you",
+                "role": "中心词",
+                "zh": "你"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Look",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "zh": "看",
+        "componentRole": "谓语",
+        "componentZh": "看"
+      },
+      "1": {
+        "text": "at",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "zh": "在",
+        "componentRole": "介词",
+        "componentZh": "在",
+        "parentComponentText": "at you",
+        "parentComponentRole": "地点状语",
+        "parentComponentZh": "在；你"
+      },
+      "2": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "中心词",
+        "componentZh": "你",
+        "parentComponentText": "you",
+        "parentComponentRole": "介词宾语",
+        "parentComponentZh": "你"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-xx1akff2nh9fci4a948ylhbv-1",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-xx1akff2nh9fci4a948ylhbv-1",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "看",
+    "audioText": "Look",
+    "fullEnglish": "Look",
+    "phonetic": "lʊk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Look",
+        "answer": "Look",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "看",
+        "phonetic": "lʊk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Look"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Look",
+        "phonetic": "lʊk",
+        "pos": "VERB",
+        "zh": "看",
+        "componentZh": "看"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-xx1akff2nh9fci4a948ylhbv-2",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-xx1akff2nh9fci4a948ylhbv-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "在",
+    "audioText": "at",
+    "fullEnglish": "at",
+    "phonetic": "æt; ət",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "at",
+        "answer": "at",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在",
+        "phonetic": "æt; ət",
+        "pos": "ADP"
+      }
+    ],
+    "shuffledBlocks": [
+      "at"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "at",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "zh": "在",
+        "componentZh": "在"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-S-utns8w2c5u0b2unoufvj2k0v",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-S-utns8w2c5u0b2unoufvj2k0v",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "非常感谢。",
+    "audioText": "Thank you so much",
+    "fullEnglish": "Thank you so much",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Thank",
+        "answer": "Thank",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "感谢",
+        "phonetic": "θæŋk",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "宾语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "so",
+        "answer": "so",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "副词",
+        "zh": "如此",
+        "phonetic": "soʊ",
+        "pos": "ADV",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "so much",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "如此；非常"
+      },
+      {
+        "index": 3,
+        "text": "much",
+        "answer": "much",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "非常",
+        "phonetic": "mʌtʃ",
+        "pos": "ADV",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "so much",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "如此；非常"
+      }
+    ],
+    "shuffledBlocks": [
+      "so",
+      "much",
+      "you",
+      "Thank"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Thank",
+        "role": "谓语",
+        "zh": "感谢"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "宾语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-3",
+        "text": "so much",
+        "role": "方式/程度状语",
+        "zh": "如此；非常",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "so",
+            "role": "副词",
+            "zh": "如此"
+          },
+          {
+            "id": "ud-5",
+            "text": "much",
+            "role": "中心词",
+            "zh": "非常"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Thank",
+        "phonetic": "θæŋk",
+        "pos": "VERB",
+        "zh": "感谢",
+        "componentRole": "谓语",
+        "componentZh": "感谢"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "宾语",
+        "componentZh": "你"
+      },
+      "2": {
+        "text": "so",
+        "phonetic": "soʊ",
+        "pos": "ADV",
+        "zh": "如此",
+        "componentRole": "副词",
+        "componentZh": "如此",
+        "parentComponentText": "so much",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "如此；非常"
+      },
+      "3": {
+        "text": "much",
+        "phonetic": "mʌtʃ",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentRole": "中心词",
+        "componentZh": "非常",
+        "parentComponentText": "so much",
+        "parentComponentRole": "方式/程度状语",
+        "parentComponentZh": "如此；非常"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-utns8w2c5u0b2unoufvj2k0v-1",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-utns8w2c5u0b2unoufvj2k0v-1",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "感谢",
+    "audioText": "Thank",
+    "fullEnglish": "Thank",
+    "phonetic": "θæŋk",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Thank",
+        "answer": "Thank",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "感谢",
+        "phonetic": "θæŋk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "Thank"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Thank",
+        "phonetic": "θæŋk",
+        "pos": "VERB",
+        "zh": "感谢",
+        "componentZh": "感谢"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-utns8w2c5u0b2unoufvj2k0v-4",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-utns8w2c5u0b2unoufvj2k0v-4",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "非常",
+    "audioText": "much",
+    "fullEnglish": "much",
+    "phonetic": "mʌtʃ",
+    "pos": "ADV",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "much",
+        "answer": "much",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "非常",
+        "phonetic": "mʌtʃ",
+        "pos": "ADV"
+      }
+    ],
+    "shuffledBlocks": [
+      "much"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "much",
+        "phonetic": "mʌtʃ",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentZh": "非常"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-S-bmtdte1rb1knvmrfgcui4t6a",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-S-bmtdte1rb1knvmrfgcui4t6a",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "有你这样的朋友真好！",
+    "audioText": "t's great to have a friend like you!",
+    "fullEnglish": "t's great to have a friend like you!",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "t's",
+        "answer": "t's",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "主语 + 系动词",
+        "zh": "它是",
+        "phonetic": "tiːs",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "great",
+        "answer": "great",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "伟大的",
+        "phonetic": "ɡreɪt",
+        "pos": "ADJ"
+      },
+      {
+        "index": 2,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "修饰语",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      {
+        "index": 3,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "吃",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      {
+        "index": 4,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      {
+        "index": 5,
+        "text": "friend",
+        "answer": "friend",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "修饰语",
+        "zh": "朋友",
+        "phonetic": "frend",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      {
+        "index": 6,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "介词",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      {
+        "index": 7,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "修饰语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      {
+        "index": 8,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "有你这样的朋友真好！"
+      }
+    ],
+    "shuffledBlocks": [
+      "t's",
+      "a",
+      "have",
+      "friend",
+      "like",
+      "you",
+      "to",
+      "great"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "t's",
+        "role": "主语 + 系动词",
+        "zh": "它是"
+      },
+      {
+        "id": "ud-2",
+        "text": "great",
+        "role": "表语",
+        "zh": "伟大的"
+      },
+      {
+        "id": "ud-3",
+        "text": "to have a friend like you",
+        "role": "主语从句",
+        "zh": "引导不定式；吃；一个；朋友；喜欢；你",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "to",
+            "role": "修饰语",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-5",
+            "text": "have",
+            "role": "中心词",
+            "zh": "吃"
+          },
+          {
+            "id": "ud-6",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-7",
+            "text": "friend",
+            "role": "修饰语",
+            "zh": "朋友"
+          },
+          {
+            "id": "ud-8",
+            "text": "like",
+            "role": "介词",
+            "zh": "喜欢"
+          },
+          {
+            "id": "ud-9",
+            "text": "you",
+            "role": "修饰语",
+            "zh": "你"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "t's",
+        "phonetic": "tiːs",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentRole": "主语 + 系动词",
+        "componentZh": "它是"
+      },
+      "1": {
+        "text": "great",
+        "phonetic": "ɡreɪt",
+        "pos": "ADJ",
+        "zh": "伟大的",
+        "componentRole": "表语",
+        "componentZh": "伟大的"
+      },
+      "2": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentRole": "修饰语",
+        "componentZh": "引导不定式",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      "3": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "吃",
+        "componentRole": "中心词",
+        "componentZh": "吃",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      "4": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      "5": {
+        "text": "friend",
+        "phonetic": "frend",
+        "pos": "NOUN",
+        "zh": "朋友",
+        "componentRole": "修饰语",
+        "componentZh": "朋友",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      "6": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "介词",
+        "componentZh": "喜欢",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      "7": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "修饰语",
+        "componentZh": "你",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-bmtdte1rb1knvmrfgcui4t6a-1",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-bmtdte1rb1knvmrfgcui4t6a-1",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它是",
+    "audioText": "t's",
+    "fullEnglish": "t's",
+    "phonetic": "tiːs",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "t's",
+        "answer": "t's",
+        "blank": "_’_",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它是",
+        "phonetic": "tiːs",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "t's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "t's",
+        "phonetic": "tiːs",
+        "pos": "PRON",
+        "zh": "它是",
+        "componentZh": "它是"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-bmtdte1rb1knvmrfgcui4t6a-2",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-bmtdte1rb1knvmrfgcui4t6a-2",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "好的",
+    "audioText": "great",
+    "fullEnglish": "great",
+    "phonetic": "ɡreɪt",
+    "pos": "ADJ",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "great",
+        "answer": "great",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "伟大的",
+        "phonetic": "ɡreɪt",
+        "pos": "ADJ"
+      }
+    ],
+    "shuffledBlocks": [
+      "great"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "great",
+        "phonetic": "ɡreɪt",
+        "pos": "ADJ",
+        "zh": "伟大的",
+        "componentZh": "伟大的"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-bmtdte1rb1knvmrfgcui4t6a-3",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-bmtdte1rb1knvmrfgcui4t6a-3",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "引导不定式",
+    "audioText": "to",
+    "fullEnglish": "to",
+    "phonetic": "tuː; tə",
+    "pos": "PART",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART"
+      }
+    ],
+    "shuffledBlocks": [
+      "to"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-bmtdte1rb1knvmrfgcui4t6a-4",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-bmtdte1rb1knvmrfgcui4t6a-4",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "有",
+    "audioText": "have",
+    "fullEnglish": "have",
+    "phonetic": "hæv",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "吃",
+        "phonetic": "hæv",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "have"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "吃",
+        "componentZh": "吃"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-bmtdte1rb1knvmrfgcui4t6a-6",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-bmtdte1rb1knvmrfgcui4t6a-6",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "朋友",
+    "audioText": "friend",
+    "fullEnglish": "friend",
+    "phonetic": "frend",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "friend",
+        "answer": "friend",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "朋友",
+        "phonetic": "frend",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "friend"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "friend",
+        "phonetic": "frend",
+        "pos": "NOUN",
+        "zh": "朋友",
+        "componentZh": "朋友"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-bmtdte1rb1knvmrfgcui4t6a-7",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-bmtdte1rb1knvmrfgcui4t6a-7",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "像",
+    "audioText": "like",
+    "fullEnglish": "like",
+    "phonetic": "laɪk",
+    "pos": "ADP",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "like"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentZh": "喜欢"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-S-g22i7omvanxvlplstncu74sh",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-S-g22i7omvanxvlplstncu74sh",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让我试试。",
+    "audioText": "Let me try",
+    "fullEnglish": "Let me try",
+    "sentenceType": "祈使句或省略主语结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let",
+        "answer": "Let",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "谓语",
+        "zh": "让",
+        "phonetic": "let",
+        "pos": "VERB"
+      },
+      {
+        "index": 1,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "宾语",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON"
+      },
+      {
+        "index": 2,
+        "text": "try",
+        "answer": "try",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "谓语",
+        "zh": "尝试",
+        "phonetic": "traɪ",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "try",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "尝试"
+      }
+    ],
+    "shuffledBlocks": [
+      "me",
+      "try",
+      "Let"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let",
+        "role": "谓语",
+        "zh": "让"
+      },
+      {
+        "id": "ud-2",
+        "text": "me",
+        "role": "宾语",
+        "zh": "我"
+      },
+      {
+        "id": "ud-3",
+        "text": "try",
+        "role": "宾语补足语",
+        "zh": "尝试",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "try",
+            "role": "谓语",
+            "zh": "尝试"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let",
+        "phonetic": "let",
+        "pos": "VERB",
+        "zh": "让",
+        "componentRole": "谓语",
+        "componentZh": "让"
+      },
+      "1": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentRole": "宾语",
+        "componentZh": "我"
+      },
+      "2": {
+        "text": "try",
+        "phonetic": "traɪ",
+        "pos": "VERB",
+        "zh": "尝试",
+        "componentRole": "谓语",
+        "componentZh": "尝试",
+        "parentComponentText": "try",
+        "parentComponentRole": "宾语补足语",
+        "parentComponentZh": "尝试"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-W-g22i7omvanxvlplstncu74sh-3",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-W-g22i7omvanxvlplstncu74sh-3",
+    "type": "word",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "尝试",
+    "audioText": "try",
+    "fullEnglish": "try",
+    "phonetic": "traɪ",
+    "pos": "VERB",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "try",
+        "answer": "try",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "尝试",
+        "phonetic": "traɪ",
+        "pos": "VERB"
+      }
+    ],
+    "shuffledBlocks": [
+      "try"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "try",
+        "phonetic": "traɪ",
+        "pos": "VERB",
+        "zh": "尝试",
+        "componentZh": "尝试"
+      }
+    }
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-v4yyoeyiaymhg5uocashwnlh",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-v4yyoeyiaymhg5uocashwnlh",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "记不住",
+    "audioText": "can't remember",
+    "fullEnglish": "can't remember",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "can't",
+        "answer": "can't",
+        "blank": "___’_",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "不能",
+        "phonetic": "kænt",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词 + 方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "remember",
+        "answer": "remember",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "记住",
+        "phonetic": "rɪˈmembər",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "can't",
+      "remember"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "can't",
+        "role": "助动词 + 方式/程度状语",
+        "zh": "不能"
+      },
+      {
+        "id": "ud-2",
+        "text": "remember",
+        "role": "谓语",
+        "zh": "记住"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "can't",
+        "phonetic": "kænt",
+        "pos": "AUX",
+        "zh": "不能",
+        "componentZh": "不能",
+        "componentRole": "助动词 + 方式/程度状语"
+      },
+      "1": {
+        "text": "remember",
+        "phonetic": "rɪˈmembər",
+        "pos": "VERB",
+        "zh": "记住",
+        "componentZh": "记住",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-vuufjz0x3qym3z15lz3x7dl9",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-vuufjz0x3qym3z15lz3x7dl9",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "这首诗",
+    "audioText": "the poem",
+    "fullEnglish": "the poem",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "poem",
+        "answer": "poem",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "诗",
+        "phonetic": "ˈpoʊəm",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "poem",
+      "the"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "poem",
+        "role": "中心成分",
+        "zh": "诗"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "poem",
+        "phonetic": "ˈpoʊəm",
+        "pos": "NOUN",
+        "zh": "诗",
+        "componentZh": "诗",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-rkkpptpdui84x78natta0nux",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-rkkpptpdui84x78natta0nux",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "如此困难",
+    "audioText": "so hard",
+    "fullEnglish": "so hard",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "so",
+        "answer": "so",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "如此",
+        "phonetic": "soʊ",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "hard",
+        "answer": "hard",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "困难",
+        "phonetic": "hɑːrd",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "hard",
+      "so"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "so",
+        "role": "方式/程度状语",
+        "zh": "如此"
+      },
+      {
+        "id": "ud-2",
+        "text": "hard",
+        "role": "中心成分",
+        "zh": "困难"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "so",
+        "phonetic": "soʊ",
+        "pos": "ADV",
+        "zh": "如此",
+        "componentZh": "如此",
+        "componentRole": "方式/程度状语"
+      },
+      "1": {
+        "text": "hard",
+        "phonetic": "hɑːrd",
+        "pos": "ADJ",
+        "zh": "困难",
+        "componentZh": "困难",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-hik13ggotf47rch3i60cnj65",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-hik13ggotf47rch3i60cnj65",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "让我",
+    "audioText": "Let me",
+    "fullEnglish": "Let me",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Let",
+        "answer": "Let",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "让",
+        "phonetic": "let",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "me",
+        "answer": "me",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "宾语"
+      }
+    ],
+    "shuffledBlocks": [
+      "Let",
+      "me"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Let",
+        "role": "谓语",
+        "zh": "让"
+      },
+      {
+        "id": "ud-2",
+        "text": "me",
+        "role": "宾语",
+        "zh": "我"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Let",
+        "phonetic": "let",
+        "pos": "VERB",
+        "zh": "让",
+        "componentZh": "让",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "me",
+        "phonetic": "miː",
+        "pos": "PRON",
+        "zh": "我",
+        "componentZh": "我",
+        "componentRole": "宾语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-vtdk7mi5vnm9p3rwy7nvbwj4",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-vtdk7mi5vnm9p3rwy7nvbwj4",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "帮助你",
+    "audioText": "help you",
+    "fullEnglish": "help you",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "help",
+        "answer": "help",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "帮助",
+        "phonetic": "help",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "宾语"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "help"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "help",
+        "role": "谓语",
+        "zh": "帮助"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "宾语",
+        "zh": "你"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "help",
+        "phonetic": "help",
+        "pos": "VERB",
+        "zh": "帮助",
+        "componentZh": "帮助",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "宾语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-l0rb92smqnzukxd7lfcwnilr",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-l0rb92smqnzukxd7lfcwnilr",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "可以记住",
+    "audioText": "can remember",
+    "fullEnglish": "can remember",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "remember",
+        "answer": "remember",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "记住",
+        "phonetic": "rɪˈmembər",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "remember",
+      "can"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-2",
+        "text": "remember",
+        "role": "谓语",
+        "zh": "记住"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "remember",
+        "phonetic": "rɪˈmembər",
+        "pos": "VERB",
+        "zh": "记住",
+        "componentZh": "记住",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-t1nssby9vef7926u9g3mn68r",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-t1nssby9vef7926u9g3mn68r",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你可以记住",
+    "audioText": "You can remember",
+    "fullEnglish": "You can remember",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "You",
+        "answer": "You",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "助动词"
+      },
+      {
+        "index": 2,
+        "text": "remember",
+        "answer": "remember",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "记住",
+        "phonetic": "rɪˈmembər",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "remember",
+      "You",
+      "can"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "You",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-2",
+        "text": "can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-3",
+        "text": "remember",
+        "role": "谓语",
+        "zh": "记住"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "You",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能",
+        "componentRole": "助动词"
+      },
+      "2": {
+        "text": "remember",
+        "phonetic": "rɪˈmembər",
+        "pos": "VERB",
+        "zh": "记住",
+        "componentZh": "记住",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-ymup4nexcm1xhnk1bgo1lhlx",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-ymup4nexcm1xhnk1bgo1lhlx",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "第一个词",
+    "audioText": "the first word",
+    "fullEnglish": "the first word",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "first",
+        "answer": "first",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "第一次",
+        "phonetic": "fɜːrst",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "word",
+        "answer": "word",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "单词",
+        "phonetic": "wɜrd",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "first",
+      "word"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "first",
+        "role": "补充成分",
+        "zh": "第一次"
+      },
+      {
+        "id": "ud-3",
+        "text": "word",
+        "role": "中心成分",
+        "zh": "单词"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "first",
+        "phonetic": "fɜːrst",
+        "pos": "ADJ",
+        "zh": "第一次",
+        "componentZh": "第一次",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "word",
+        "phonetic": "wɜrd",
+        "pos": "NOUN",
+        "zh": "单词",
+        "componentZh": "单词",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-zsmp4w9dgu767cba5f3hcpff",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-zsmp4w9dgu767cba5f3hcpff",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "每行",
+    "audioText": "every line",
+    "fullEnglish": "every line",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "every",
+        "answer": "every",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "每个",
+        "phonetic": "ˈevri",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "line",
+        "answer": "line",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "线",
+        "phonetic": "laɪn",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "every",
+      "line"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "every",
+        "role": "补充成分",
+        "zh": "每个"
+      },
+      {
+        "id": "ud-2",
+        "text": "line",
+        "role": "中心成分",
+        "zh": "线"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "every",
+        "phonetic": "ˈevri",
+        "pos": "DET",
+        "zh": "每个",
+        "componentZh": "每个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "line",
+        "phonetic": "laɪn",
+        "pos": "NOUN",
+        "zh": "线",
+        "componentZh": "线",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-kt9s3sm4amjta56h63w31z9b",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-kt9s3sm4amjta56h63w31z9b",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "每一行的第一个单词",
+    "audioText": "the first word of every line",
+    "fullEnglish": "the first word of every line",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "first",
+        "answer": "first",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "第一次",
+        "phonetic": "fɜːrst",
+        "pos": "ADJ",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "word",
+        "answer": "word",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "单词",
+        "phonetic": "wɜrd",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      },
+      {
+        "index": 3,
+        "text": "of",
+        "answer": "of",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "关于",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "componentId": "ud-5",
+        "role": "介词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "of every line",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "关于；每个；线"
+      },
+      {
+        "index": 4,
+        "text": "every",
+        "answer": "every",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "每个",
+        "phonetic": "ˈevri",
+        "pos": "DET",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "of every line",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "关于；每个；线"
+      },
+      {
+        "index": 5,
+        "text": "line",
+        "answer": "line",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "线",
+        "phonetic": "laɪn",
+        "pos": "NOUN",
+        "componentId": "ud-7",
+        "role": "中心词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "of every line",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "关于；每个；线"
+      }
+    ],
+    "shuffledBlocks": [
+      "the",
+      "every",
+      "of",
+      "line",
+      "word",
+      "first"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-2",
+        "text": "first",
+        "role": "补充成分",
+        "zh": "第一次"
+      },
+      {
+        "id": "ud-3",
+        "text": "word",
+        "role": "中心成分",
+        "zh": "单词"
+      },
+      {
+        "id": "ud-4",
+        "text": "of every line",
+        "role": "补充成分",
+        "zh": "关于；每个；线",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "of",
+            "role": "介词",
+            "zh": "关于"
+          },
+          {
+            "id": "ud-6",
+            "text": "every",
+            "role": "限定词",
+            "zh": "每个"
+          },
+          {
+            "id": "ud-7",
+            "text": "line",
+            "role": "中心词",
+            "zh": "线"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "first",
+        "phonetic": "fɜːrst",
+        "pos": "ADJ",
+        "zh": "第一次",
+        "componentZh": "第一次",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "word",
+        "phonetic": "wɜrd",
+        "pos": "NOUN",
+        "zh": "单词",
+        "componentZh": "单词",
+        "componentRole": "中心成分"
+      },
+      "3": {
+        "text": "of",
+        "phonetic": "ʌv",
+        "pos": "ADP",
+        "zh": "关于",
+        "componentZh": "关于",
+        "componentRole": "介词",
+        "parentComponentText": "of every line",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "关于；每个；线"
+      },
+      "4": {
+        "text": "every",
+        "phonetic": "ˈevri",
+        "pos": "DET",
+        "zh": "每个",
+        "componentZh": "每个",
+        "componentRole": "限定词",
+        "parentComponentText": "of every line",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "关于；每个；线"
+      },
+      "5": {
+        "text": "line",
+        "phonetic": "laɪn",
+        "pos": "NOUN",
+        "zh": "线",
+        "componentZh": "线",
+        "componentRole": "中心词",
+        "parentComponentText": "of every line",
+        "parentComponentRole": "补充成分",
+        "parentComponentZh": "关于；每个；线"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-xd9x100o48p5id78y7vi16n7",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-xd9x100o48p5id78y7vi16n7",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "可以画",
+    "audioText": "can draw",
+    "fullEnglish": "can draw",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "draw",
+        "answer": "draw",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "画",
+        "phonetic": "drɔː",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "can",
+      "draw"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-2",
+        "text": "draw",
+        "role": "谓语",
+        "zh": "画"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "draw",
+        "phonetic": "drɔː",
+        "pos": "VERB",
+        "zh": "画",
+        "componentZh": "画",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-zaftxzan2thdmv35hkyet1wm",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-zaftxzan2thdmv35hkyet1wm",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一幅画",
+    "audioText": "a picture",
+    "fullEnglish": "a picture",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "picture",
+        "answer": "picture",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "画",
+        "phonetic": "ˈpɪktʃər",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "a",
+      "picture"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "a",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-2",
+        "text": "picture",
+        "role": "中心成分",
+        "zh": "画"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "picture",
+        "phonetic": "ˈpɪktʃər",
+        "pos": "NOUN",
+        "zh": "画",
+        "componentZh": "画",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-uwhkqk137kweg2z84qai7t3l",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-uwhkqk137kweg2z84qai7t3l",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你可以画一幅画",
+    "audioText": "You can draw a picture",
+    "fullEnglish": "You can draw a picture",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "You",
+        "answer": "You",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "can",
+        "answer": "can",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "能",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "componentId": "ud-2",
+        "role": "助动词"
+      },
+      {
+        "index": 2,
+        "text": "draw",
+        "answer": "draw",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "画",
+        "phonetic": "drɔː",
+        "pos": "VERB",
+        "componentId": "ud-3",
+        "role": "谓语"
+      },
+      {
+        "index": 3,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-5",
+        "role": "限定词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "a picture",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；画"
+      },
+      {
+        "index": 4,
+        "text": "picture",
+        "answer": "picture",
+        "blank": "_______",
+        "letterCount": 7,
+        "fillable": true,
+        "type": "word",
+        "zh": "画",
+        "phonetic": "ˈpɪktʃər",
+        "pos": "NOUN",
+        "componentId": "ud-6",
+        "role": "中心词",
+        "parentComponentId": "ud-4",
+        "parentComponentText": "a picture",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；画"
+      }
+    ],
+    "shuffledBlocks": [
+      "picture",
+      "You",
+      "can",
+      "draw",
+      "a"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "You",
+        "role": "主语",
+        "zh": "你"
+      },
+      {
+        "id": "ud-2",
+        "text": "can",
+        "role": "助动词",
+        "zh": "能"
+      },
+      {
+        "id": "ud-3",
+        "text": "draw",
+        "role": "谓语",
+        "zh": "画"
+      },
+      {
+        "id": "ud-4",
+        "text": "a picture",
+        "role": "宾语",
+        "zh": "一个；画",
+        "children": [
+          {
+            "id": "ud-5",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-6",
+            "text": "picture",
+            "role": "中心词",
+            "zh": "画"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "You",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "can",
+        "phonetic": "kæn",
+        "pos": "AUX",
+        "zh": "能",
+        "componentZh": "能",
+        "componentRole": "助动词"
+      },
+      "2": {
+        "text": "draw",
+        "phonetic": "drɔː",
+        "pos": "VERB",
+        "zh": "画",
+        "componentZh": "画",
+        "componentRole": "谓语"
+      },
+      "3": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "限定词",
+        "parentComponentText": "a picture",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；画"
+      },
+      "4": {
+        "text": "picture",
+        "phonetic": "ˈpɪktʃər",
+        "pos": "NOUN",
+        "zh": "画",
+        "componentZh": "画",
+        "componentRole": "中心词",
+        "parentComponentText": "a picture",
+        "parentComponentRole": "宾语",
+        "parentComponentZh": "一个；画"
+      }
+    },
+    "sentenceType": "主谓宾结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-f368jgkhbiimd3l4fwoxjyd0",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-f368jgkhbiimd3l4fwoxjyd0",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "为这首诗",
+    "audioText": "for the poem",
+    "fullEnglish": "for the poem",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "for",
+        "answer": "for",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "为了",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "the",
+        "answer": "the",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "定冠词",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "componentId": "ud-2",
+        "role": "补充成分"
+      },
+      {
+        "index": 2,
+        "text": "poem",
+        "answer": "poem",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "诗",
+        "phonetic": "ˈpoʊəm",
+        "pos": "NOUN",
+        "componentId": "ud-3",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "poem",
+      "the",
+      "for"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "for",
+        "role": "补充成分",
+        "zh": "为了"
+      },
+      {
+        "id": "ud-2",
+        "text": "the",
+        "role": "补充成分",
+        "zh": "定冠词"
+      },
+      {
+        "id": "ud-3",
+        "text": "poem",
+        "role": "中心成分",
+        "zh": "诗"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "for",
+        "phonetic": "fɔːr; fər",
+        "pos": "ADP",
+        "zh": "为了",
+        "componentZh": "为了",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "the",
+        "phonetic": "ðə",
+        "pos": "DET",
+        "zh": "定冠词",
+        "componentZh": "定冠词",
+        "componentRole": "补充成分"
+      },
+      "2": {
+        "text": "poem",
+        "phonetic": "ˈpoʊəm",
+        "pos": "NOUN",
+        "zh": "诗",
+        "componentZh": "诗",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-gby3su88fnx2jplucvxvvof7",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-gby3su88fnx2jplucvxvvof7",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "可能有帮助",
+    "audioText": "may help",
+    "fullEnglish": "may help",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "may",
+        "answer": "may",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "五月",
+        "phonetic": "meɪ",
+        "pos": "PROPN",
+        "componentId": "ud-1",
+        "role": "助动词"
+      },
+      {
+        "index": 1,
+        "text": "help",
+        "answer": "help",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "帮助",
+        "phonetic": "help",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "may",
+      "help"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "may",
+        "role": "助动词",
+        "zh": "五月"
+      },
+      {
+        "id": "ud-2",
+        "text": "help",
+        "role": "谓语",
+        "zh": "帮助"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "may",
+        "phonetic": "meɪ",
+        "pos": "PROPN",
+        "zh": "五月",
+        "componentZh": "五月",
+        "componentRole": "助动词"
+      },
+      "1": {
+        "text": "help",
+        "phonetic": "help",
+        "pos": "VERB",
+        "zh": "帮助",
+        "componentZh": "帮助",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-ya31q75eiysgsvm05lumkf7e",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-ya31q75eiysgsvm05lumkf7e",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它起作用了，Lingling！",
+    "audioText": "It works, Lingling!",
+    "fullEnglish": "It works, Lingling!",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It",
+        "answer": "It",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "works",
+        "answer": "works",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "work（第三人称单数）: 工作",
+        "phonetic": "wɜːrks",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      },
+      {
+        "index": 2,
+        "text": ",",
+        "answer": ",",
+        "blank": ",",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "它起作用了，Lingling！"
+      },
+      {
+        "index": 3,
+        "text": "Lingling",
+        "answer": "Lingling",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "Lingling",
+        "phonetic": "ˈlɪŋlɪŋ",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-3",
+        "role": "呼语"
+      },
+      {
+        "index": 4,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "它起作用了，Lingling！"
+      }
+    ],
+    "shuffledBlocks": [
+      "Lingling",
+      "works",
+      "It"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It",
+        "role": "主语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-2",
+        "text": "works",
+        "role": "谓语",
+        "zh": "work（第三人称单数）: 工作"
+      },
+      {
+        "id": "ud-3",
+        "text": "Lingling",
+        "role": "呼语",
+        "zh": "Lingling"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "works",
+        "phonetic": "wɜːrks",
+        "pos": "VERB",
+        "zh": "work（第三人称单数）: 工作",
+        "componentZh": "work（第三人称单数）: 工作",
+        "componentRole": "谓语"
+      },
+      "3": {
+        "text": "Lingling",
+        "phonetic": "ˈlɪŋlɪŋ",
+        "pos": "PROPN_PERSON",
+        "zh": "Lingling",
+        "componentZh": "Lingling",
+        "componentRole": "呼语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-c1jq6m5u3vhhbvzv3ixsu7zq",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-c1jq6m5u3vhhbvzv3ixsu7zq",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "它起作用了！",
+    "audioText": "It works!",
+    "fullEnglish": "It works!",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It",
+        "answer": "It",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "它",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "主语"
+      },
+      {
+        "index": 1,
+        "text": "works",
+        "answer": "works",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "work（第三人称单数）: 工作",
+        "phonetic": "wɜːrks",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      },
+      {
+        "index": 2,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "它起作用了！"
+      }
+    ],
+    "shuffledBlocks": [
+      "It",
+      "works"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It",
+        "role": "主语",
+        "zh": "它"
+      },
+      {
+        "id": "ud-2",
+        "text": "works",
+        "role": "谓语",
+        "zh": "work（第三人称单数）: 工作"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It",
+        "phonetic": "ɪt",
+        "pos": "PRON",
+        "zh": "它",
+        "componentZh": "它",
+        "componentRole": "主语"
+      },
+      "1": {
+        "text": "works",
+        "phonetic": "wɜːrks",
+        "pos": "VERB",
+        "zh": "work（第三人称单数）: 工作",
+        "componentZh": "work（第三人称单数）: 工作",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "主谓结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-as5ihhqk769rzemvvx5ivv31",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-as5ihhqk769rzemvvx5ivv31",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你",
+    "audioText": "at you",
+    "fullEnglish": "at you",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "at",
+        "answer": "at",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "在",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "you",
+      "at"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "at",
+        "role": "补充成分",
+        "zh": "在"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "中心成分",
+        "zh": "你"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "at",
+        "phonetic": "æt; ət",
+        "pos": "ADP",
+        "zh": "在",
+        "componentZh": "在",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-r857wvuo21clo07df29carle",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-r857wvuo21clo07df29carle",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "谢谢",
+    "audioText": "Thank you",
+    "fullEnglish": "Thank you",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Thank",
+        "answer": "Thank",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "感谢",
+        "phonetic": "θæŋk",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "谓语"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "宾语"
+      }
+    ],
+    "shuffledBlocks": [
+      "Thank",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Thank",
+        "role": "谓语",
+        "zh": "感谢"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "宾语",
+        "zh": "你"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Thank",
+        "phonetic": "θæŋk",
+        "pos": "VERB",
+        "zh": "感谢",
+        "componentZh": "感谢",
+        "componentRole": "谓语"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "宾语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-e2u4iggqzeuyv9a3ny26o79a",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-e2u4iggqzeuyv9a3ny26o79a",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "非常",
+    "audioText": "so much",
+    "fullEnglish": "so much",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "so",
+        "answer": "so",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "如此",
+        "phonetic": "soʊ",
+        "pos": "ADV",
+        "componentId": "ud-1",
+        "role": "方式/程度状语"
+      },
+      {
+        "index": 1,
+        "text": "much",
+        "answer": "much",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "非常",
+        "phonetic": "mʌtʃ",
+        "pos": "ADV",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "so",
+      "much"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "so",
+        "role": "方式/程度状语",
+        "zh": "如此"
+      },
+      {
+        "id": "ud-2",
+        "text": "much",
+        "role": "中心成分",
+        "zh": "非常"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "so",
+        "phonetic": "soʊ",
+        "pos": "ADV",
+        "zh": "如此",
+        "componentZh": "如此",
+        "componentRole": "方式/程度状语"
+      },
+      "1": {
+        "text": "much",
+        "phonetic": "mʌtʃ",
+        "pos": "ADV",
+        "zh": "非常",
+        "componentZh": "非常",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-d86wnfgot0c042my47us17sc",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-d86wnfgot0c042my47us17sc",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "拥有",
+    "audioText": "to have",
+    "fullEnglish": "to have",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "componentId": "ud-1",
+        "role": "连接词"
+      },
+      {
+        "index": 1,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "吃",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "componentId": "ud-2",
+        "role": "谓语"
+      }
+    ],
+    "shuffledBlocks": [
+      "to",
+      "have"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "to",
+        "role": "连接词",
+        "zh": "引导不定式"
+      },
+      {
+        "id": "ud-2",
+        "text": "have",
+        "role": "谓语",
+        "zh": "吃"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentZh": "引导不定式",
+        "componentRole": "连接词"
+      },
+      "1": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "吃",
+        "componentZh": "吃",
+        "componentRole": "谓语"
+      }
+    },
+    "sentenceType": "祈使句或省略主语结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-gl2bl4c0s7hkov8aabg8j0nu",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-gl2bl4c0s7hkov8aabg8j0nu",
+    "type": "phrase",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "一个朋友",
+    "audioText": "a friend",
+    "fullEnglish": "a friend",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "friend",
+        "answer": "friend",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "朋友",
+        "phonetic": "frend",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "friend",
+      "a"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "a",
+        "role": "补充成分",
+        "zh": "一个"
+      },
+      {
+        "id": "ud-2",
+        "text": "friend",
+        "role": "中心成分",
+        "zh": "朋友"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentZh": "一个",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "friend",
+        "phonetic": "frend",
+        "pos": "NOUN",
+        "zh": "朋友",
+        "componentZh": "朋友",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-xp8rcg11jrwal4h2uvmqnntz",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-PHRASE-xp8rcg11jrwal4h2uvmqnntz",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "像你这样的",
+    "audioText": "like you",
+    "fullEnglish": "like you",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "like",
+      "you"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "like",
+        "role": "补充成分",
+        "zh": "喜欢"
+      },
+      {
+        "id": "ud-2",
+        "text": "you",
+        "role": "中心成分",
+        "zh": "你"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentZh": "喜欢",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentZh": "你",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-t8gorxtq0esw19hs02d6jmu8-SENTENCE-m56lgy4rxhy6n2yun8su3ppd",
+    "contentId": "JLB-t8gorxtq0esw19hs02d6jmu8-SENTENCE-m56lgy4rxhy6n2yun8su3ppd",
+    "type": "sentence",
+    "coursePackageId": "zxs5fobt8ju2xurza7drvs2h",
+    "coursePackageName": "【北京版】四年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "t8gorxtq0esw19hs02d6jmu8",
+    "unitTitle": "Unit 2 Be Good Friends-Lesson 6-【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "有你这样的朋友真好！",
+    "audioText": "It's great to have a friend like you!",
+    "fullEnglish": "It's great to have a friend like you!",
+    "sentenceType": "短语或标题结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "It's",
+        "answer": "It's",
+        "blank": "__’_",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "引导词/形式主语 + 系动词",
+        "zh": "这是",
+        "phonetic": "ɪts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "great",
+        "answer": "great",
+        "blank": "_____",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "表语",
+        "zh": "伟大的",
+        "phonetic": "ɡreɪt",
+        "pos": "ADJ"
+      },
+      {
+        "index": 2,
+        "text": "to",
+        "answer": "to",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "修饰语",
+        "zh": "引导不定式",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      {
+        "index": 3,
+        "text": "have",
+        "answer": "have",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "中心词",
+        "zh": "吃",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      {
+        "index": 4,
+        "text": "a",
+        "answer": "a",
+        "blank": "_",
+        "letterCount": 1,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-6",
+        "role": "限定词",
+        "zh": "一个",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      {
+        "index": 5,
+        "text": "friend",
+        "answer": "friend",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-7",
+        "role": "修饰语",
+        "zh": "朋友",
+        "phonetic": "frend",
+        "pos": "NOUN",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      {
+        "index": 6,
+        "text": "like",
+        "answer": "like",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-8",
+        "role": "介词",
+        "zh": "喜欢",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      {
+        "index": 7,
+        "text": "you",
+        "answer": "you",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-9",
+        "role": "修饰语",
+        "zh": "你",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "parentComponentId": "ud-3",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      {
+        "index": 8,
+        "text": "!",
+        "answer": "!",
+        "blank": "!",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "有你这样的朋友真好！"
+      }
+    ],
+    "shuffledBlocks": [
+      "great",
+      "It's",
+      "have",
+      "a",
+      "like",
+      "you",
+      "friend",
+      "to"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "It's",
+        "role": "引导词/形式主语 + 系动词",
+        "zh": "这是"
+      },
+      {
+        "id": "ud-2",
+        "text": "great",
+        "role": "表语",
+        "zh": "伟大的"
+      },
+      {
+        "id": "ud-3",
+        "text": "to have a friend like you",
+        "role": "主语从句",
+        "zh": "引导不定式；吃；一个；朋友；喜欢；你",
+        "children": [
+          {
+            "id": "ud-4",
+            "text": "to",
+            "role": "修饰语",
+            "zh": "引导不定式"
+          },
+          {
+            "id": "ud-5",
+            "text": "have",
+            "role": "中心词",
+            "zh": "吃"
+          },
+          {
+            "id": "ud-6",
+            "text": "a",
+            "role": "限定词",
+            "zh": "一个"
+          },
+          {
+            "id": "ud-7",
+            "text": "friend",
+            "role": "修饰语",
+            "zh": "朋友"
+          },
+          {
+            "id": "ud-8",
+            "text": "like",
+            "role": "介词",
+            "zh": "喜欢"
+          },
+          {
+            "id": "ud-9",
+            "text": "you",
+            "role": "修饰语",
+            "zh": "你"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "It's",
+        "phonetic": "ɪts",
+        "pos": "PRON",
+        "zh": "这是",
+        "componentRole": "引导词/形式主语 + 系动词",
+        "componentZh": "这是"
+      },
+      "1": {
+        "text": "great",
+        "phonetic": "ɡreɪt",
+        "pos": "ADJ",
+        "zh": "伟大的",
+        "componentRole": "表语",
+        "componentZh": "伟大的"
+      },
+      "2": {
+        "text": "to",
+        "phonetic": "tuː; tə",
+        "pos": "PART",
+        "zh": "引导不定式",
+        "componentRole": "修饰语",
+        "componentZh": "引导不定式",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      "3": {
+        "text": "have",
+        "phonetic": "hæv",
+        "pos": "VERB",
+        "zh": "吃",
+        "componentRole": "中心词",
+        "componentZh": "吃",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      "4": {
+        "text": "a",
+        "phonetic": "ə; eɪ",
+        "pos": "DET",
+        "zh": "一个",
+        "componentRole": "限定词",
+        "componentZh": "一个",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      "5": {
+        "text": "friend",
+        "phonetic": "frend",
+        "pos": "NOUN",
+        "zh": "朋友",
+        "componentRole": "修饰语",
+        "componentZh": "朋友",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      "6": {
+        "text": "like",
+        "phonetic": "laɪk",
+        "pos": "VERB",
+        "zh": "喜欢",
+        "componentRole": "介词",
+        "componentZh": "喜欢",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      },
+      "7": {
+        "text": "you",
+        "phonetic": "juː; jʊ",
+        "pos": "PRON",
+        "zh": "你",
+        "componentRole": "修饰语",
+        "componentZh": "你",
+        "parentComponentText": "to have a friend like you",
+        "parentComponentRole": "主语从句",
+        "parentComponentZh": "引导不定式；吃；一个；朋友；喜欢；你"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  }
+]

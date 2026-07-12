@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>英语单词学习游戏 MVP</title>
+    <link rel="stylesheet" href="./styles/main.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>英语单词学习游戏</h1>
+        <p id="appStatus">正在加载词库...</p>
+      </div>
+      <nav class="top-actions">
+        <button id="homeBtn" type="button">首页</button>
+        <button id="previewBtn" type="button">全部词库</button>
+        <button id="resetTodayBtn" type="button">重置今日</button>
+      </nav>
+    </header>
+
+    <main id="app" class="app-shell" aria-live="polite"></main>
+
+    <template id="wordCardTemplate">
+      <article class="word-card">
+        <div class="word-card__main">
+          <p class="word-card__word"></p>
+          <p class="word-card__meaning"></p>
+        </div>
+        <div class="word-card__meta"></div>
+        <button class="word-card__speak" type="button">朗读</button>
+      </article>
+    </template>
+
+    <script type="module" src="./src/app.js?v=20260707-dictation-hide"></script>
+  </body>
+</html>

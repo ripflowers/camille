@@ -1,0 +1,2085 @@
+[
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-S-mr2op6nnaxaepq9snbxddmg9",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-S-mr2op6nnaxaepq9snbxddmg9",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "你的电话号码是多少？",
+    "audioText": "What's your number?",
+    "fullEnglish": "What's your number?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What's",
+        "answer": "What's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "疑问词 + 系动词",
+        "zh": "什么",
+        "phonetic": "wʌts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "your",
+        "answer": "your",
+        "blank": "____",
+        "letterCount": 4,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "你的",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "your number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "你的；号码"
+      },
+      {
+        "index": 2,
+        "text": "number",
+        "answer": "number",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "号码",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "your number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "你的；号码"
+      },
+      {
+        "index": 3,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "你的电话号码是多少？"
+      }
+    ],
+    "shuffledBlocks": [
+      "What's",
+      "your",
+      "number"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What's",
+        "role": "疑问词 + 系动词",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "your number",
+        "role": "主语",
+        "zh": "你的；号码",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "your",
+            "role": "限定词",
+            "zh": "你的"
+          },
+          {
+            "id": "ud-4",
+            "text": "number",
+            "role": "中心词",
+            "zh": "号码"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What's",
+        "phonetic": "wʌts",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "疑问词 + 系动词",
+        "componentZh": "什么"
+      },
+      "1": {
+        "text": "your",
+        "phonetic": "jʊr; jər",
+        "pos": "PRON",
+        "zh": "你的",
+        "componentRole": "限定词",
+        "componentZh": "你的",
+        "parentComponentText": "your number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "你的；号码"
+      },
+      "2": {
+        "text": "number",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "zh": "号码",
+        "componentRole": "中心词",
+        "componentZh": "号码",
+        "parentComponentText": "your number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "你的；号码"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-S-l60aiab47yd0h9u844nstune",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-S-l60aiab47yd0h9u844nstune",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的号码是11。",
+    "audioText": "My number is eleven",
+    "fullEnglish": "My number is eleven",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "My",
+        "answer": "My",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "My number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；号码"
+      },
+      {
+        "index": 1,
+        "text": "number",
+        "answer": "number",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "号码",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "My number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；号码"
+      },
+      {
+        "index": 2,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 3,
+        "text": "eleven",
+        "answer": "eleven",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "十一",
+        "phonetic": "ɪˈlev(ə)n",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "My",
+      "eleven",
+      "is",
+      "number"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "My number",
+        "role": "主语",
+        "zh": "我的；号码",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "My",
+            "role": "限定词",
+            "zh": "我的"
+          },
+          {
+            "id": "ud-3",
+            "text": "number",
+            "role": "中心词",
+            "zh": "号码"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-5",
+        "text": "eleven",
+        "role": "表语",
+        "zh": "十一"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "My",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "限定词",
+        "componentZh": "我的",
+        "parentComponentText": "My number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；号码"
+      },
+      "1": {
+        "text": "number",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "zh": "号码",
+        "componentRole": "中心词",
+        "componentZh": "号码",
+        "parentComponentText": "My number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；号码"
+      },
+      "2": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "3": {
+        "text": "eleven",
+        "phonetic": "ɪˈlev(ə)n",
+        "pos": "NUM",
+        "zh": "十一",
+        "componentRole": "表语",
+        "componentZh": "十一"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-W-l60aiab47yd0h9u844nstune-1",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-W-l60aiab47yd0h9u844nstune-1",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的",
+    "audioText": "My",
+    "fullEnglish": "My",
+    "phonetic": "maɪ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "My",
+        "answer": "My",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "My"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "My",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的"
+      }
+    }
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-W-l60aiab47yd0h9u844nstune-2",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-W-l60aiab47yd0h9u844nstune-2",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "号码",
+    "audioText": "number",
+    "fullEnglish": "number",
+    "phonetic": "ˈnʌmbɚ",
+    "pos": "NOUN",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "number",
+        "answer": "number",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "号码",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN"
+      }
+    ],
+    "shuffledBlocks": [
+      "number"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "number",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "zh": "号码",
+        "componentZh": "号码"
+      }
+    }
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-W-l60aiab47yd0h9u844nstune-3",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-W-l60aiab47yd0h9u844nstune-3",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "是",
+    "audioText": "is",
+    "fullEnglish": "is",
+    "phonetic": "ɪz",
+    "pos": "AUX",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      }
+    ],
+    "shuffledBlocks": [
+      "is"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentZh": "是"
+      }
+    }
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-W-l60aiab47yd0h9u844nstune-4",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-W-l60aiab47yd0h9u844nstune-4",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "十一",
+    "audioText": "eleven",
+    "fullEnglish": "eleven",
+    "phonetic": "ɪˈlev(ə)n",
+    "pos": "NUM",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "eleven",
+        "answer": "eleven",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "十一",
+        "phonetic": "ɪˈlev(ə)n",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "eleven"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "eleven",
+        "phonetic": "ɪˈlev(ə)n",
+        "pos": "NUM",
+        "zh": "十一",
+        "componentZh": "十一"
+      }
+    }
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-S-brgft1uw8fxv7uumb8zu6di3",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-S-brgft1uw8fxv7uumb8zu6di3",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的号码是十二。",
+    "audioText": "My number is twelve",
+    "fullEnglish": "My number is twelve",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "My",
+        "answer": "My",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "My number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；号码"
+      },
+      {
+        "index": 1,
+        "text": "number",
+        "answer": "number",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "号码",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "My number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；号码"
+      },
+      {
+        "index": 2,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 3,
+        "text": "twelve",
+        "answer": "twelve",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "十二",
+        "phonetic": "twelv",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "number",
+      "My",
+      "twelve",
+      "is"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "My number",
+        "role": "主语",
+        "zh": "我的；号码",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "My",
+            "role": "限定词",
+            "zh": "我的"
+          },
+          {
+            "id": "ud-3",
+            "text": "number",
+            "role": "中心词",
+            "zh": "号码"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-5",
+        "text": "twelve",
+        "role": "表语",
+        "zh": "十二"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "My",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentRole": "限定词",
+        "componentZh": "我的",
+        "parentComponentText": "My number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；号码"
+      },
+      "1": {
+        "text": "number",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "zh": "号码",
+        "componentRole": "中心词",
+        "componentZh": "号码",
+        "parentComponentText": "My number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "我的；号码"
+      },
+      "2": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "3": {
+        "text": "twelve",
+        "phonetic": "twelv",
+        "pos": "NUM",
+        "zh": "十二",
+        "componentRole": "表语",
+        "componentZh": "十二"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-W-brgft1uw8fxv7uumb8zu6di3-4",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-W-brgft1uw8fxv7uumb8zu6di3-4",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "十二",
+    "audioText": "twelve",
+    "fullEnglish": "twelve",
+    "phonetic": "twelv",
+    "pos": "NUM",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "twelve",
+        "answer": "twelve",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "十二",
+        "phonetic": "twelv",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "twelve"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "twelve",
+        "phonetic": "twelv",
+        "pos": "NUM",
+        "zh": "十二",
+        "componentZh": "十二"
+      }
+    }
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-S-sdwu89rb8l389b05sl5bzfcv",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-S-sdwu89rb8l389b05sl5bzfcv",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Lala的号码是多少？",
+    "audioText": "What's Lala's number?",
+    "fullEnglish": "What's Lala's number?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What's",
+        "answer": "What's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "疑问词 + 系动词",
+        "zh": "什么",
+        "phonetic": "wʌts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "Lala's",
+        "answer": "Lala's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "Lala's",
+        "phonetic": "ˈlæləz",
+        "pos": "PROPN_PERSON",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "Lala's number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "Lala's；号码"
+      },
+      {
+        "index": 2,
+        "text": "number",
+        "answer": "number",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "号码",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "Lala's number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "Lala's；号码"
+      },
+      {
+        "index": 3,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Lala的号码是多少？"
+      }
+    ],
+    "shuffledBlocks": [
+      "Lala's",
+      "What's",
+      "number"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What's",
+        "role": "疑问词 + 系动词",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "Lala's number",
+        "role": "主语",
+        "zh": "Lala's；号码",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "Lala's",
+            "role": "限定词",
+            "zh": "Lala's"
+          },
+          {
+            "id": "ud-4",
+            "text": "number",
+            "role": "中心词",
+            "zh": "号码"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What's",
+        "phonetic": "wʌts",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "疑问词 + 系动词",
+        "componentZh": "什么"
+      },
+      "1": {
+        "text": "Lala's",
+        "phonetic": "ˈlæləz",
+        "pos": "PROPN_PERSON",
+        "zh": "Lala's",
+        "componentRole": "限定词",
+        "componentZh": "Lala's",
+        "parentComponentText": "Lala's number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "Lala's；号码"
+      },
+      "2": {
+        "text": "number",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "zh": "号码",
+        "componentRole": "中心词",
+        "componentZh": "号码",
+        "parentComponentText": "Lala's number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "Lala's；号码"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-W-sdwu89rb8l389b05sl5bzfcv-1",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-W-sdwu89rb8l389b05sl5bzfcv-1",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么",
+    "audioText": "What's",
+    "fullEnglish": "What's",
+    "phonetic": "wʌts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What's",
+        "answer": "What's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌts",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "What's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "What's",
+        "phonetic": "wʌts",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么"
+      }
+    }
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-W-sdwu89rb8l389b05sl5bzfcv-2",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-W-sdwu89rb8l389b05sl5bzfcv-2",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Lala's",
+    "audioText": "Lala's",
+    "fullEnglish": "Lala's",
+    "phonetic": "ˈlæləz",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Lala's",
+        "answer": "Lala's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "Lala's",
+        "phonetic": "ˈlæləz",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Lala's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Lala's",
+        "phonetic": "ˈlæləz",
+        "pos": "PROPN_PERSON",
+        "zh": "Lala's",
+        "componentZh": "Lala's"
+      }
+    }
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-S-yh5jct4ocspx0du29qpoxnyq",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-S-yh5jct4ocspx0du29qpoxnyq",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他的号码是13。",
+    "audioText": "His number is thirteen",
+    "fullEnglish": "His number is thirteen",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "His",
+        "answer": "His",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "zh": "他的",
+        "phonetic": "hɪz; ɪz",
+        "pos": "PRON",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "His number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "他的；号码"
+      },
+      {
+        "index": 1,
+        "text": "number",
+        "answer": "number",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "号码",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "His number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "他的；号码"
+      },
+      {
+        "index": 2,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 3,
+        "text": "thirteen",
+        "answer": "thirteen",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "十三",
+        "phonetic": "ˌθɜːrˈtiːn",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "His",
+      "is",
+      "number",
+      "thirteen"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "His number",
+        "role": "主语",
+        "zh": "他的；号码",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "His",
+            "role": "限定词",
+            "zh": "他的"
+          },
+          {
+            "id": "ud-3",
+            "text": "number",
+            "role": "中心词",
+            "zh": "号码"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-5",
+        "text": "thirteen",
+        "role": "表语",
+        "zh": "十三"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "His",
+        "phonetic": "hɪz; ɪz",
+        "pos": "PRON",
+        "zh": "他的",
+        "componentRole": "限定词",
+        "componentZh": "他的",
+        "parentComponentText": "His number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "他的；号码"
+      },
+      "1": {
+        "text": "number",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "zh": "号码",
+        "componentRole": "中心词",
+        "componentZh": "号码",
+        "parentComponentText": "His number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "他的；号码"
+      },
+      "2": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "3": {
+        "text": "thirteen",
+        "phonetic": "ˌθɜːrˈtiːn",
+        "pos": "NUM",
+        "zh": "十三",
+        "componentRole": "表语",
+        "componentZh": "十三"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-W-yh5jct4ocspx0du29qpoxnyq-1",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-W-yh5jct4ocspx0du29qpoxnyq-1",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他的",
+    "audioText": "His",
+    "fullEnglish": "His",
+    "phonetic": "hɪz; ɪz",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "His",
+        "answer": "His",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "他的",
+        "phonetic": "hɪz; ɪz",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "His"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "His",
+        "phonetic": "hɪz; ɪz",
+        "pos": "PRON",
+        "zh": "他的",
+        "componentZh": "他的"
+      }
+    }
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-W-yh5jct4ocspx0du29qpoxnyq-4",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-W-yh5jct4ocspx0du29qpoxnyq-4",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "十三",
+    "audioText": "thirteen",
+    "fullEnglish": "thirteen",
+    "phonetic": "ˌθɜːrˈtiːn",
+    "pos": "NUM",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "thirteen",
+        "answer": "thirteen",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "十三",
+        "phonetic": "ˌθɜːrˈtiːn",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "thirteen"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "thirteen",
+        "phonetic": "ˌθɜːrˈtiːn",
+        "pos": "NUM",
+        "zh": "十三",
+        "componentZh": "十三"
+      }
+    }
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-S-kzw6c2zrf2zdmlh67mj8cse6",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-S-kzw6c2zrf2zdmlh67mj8cse6",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Kate的电话号码是多少？",
+    "audioText": "What's Kate's number?",
+    "fullEnglish": "What's Kate's number?",
+    "sentenceType": "特殊疑问句",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What's",
+        "answer": "What's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-1",
+        "role": "疑问词 + 系动词",
+        "zh": "什么",
+        "phonetic": "wʌts",
+        "pos": "PRON"
+      },
+      {
+        "index": 1,
+        "text": "Kate's",
+        "answer": "Kate's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "限定词",
+        "zh": "Kate's",
+        "phonetic": "keɪts",
+        "pos": "PROPN_PERSON",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "Kate's number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "Kate's；号码"
+      },
+      {
+        "index": 2,
+        "text": "number",
+        "answer": "number",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "中心词",
+        "zh": "号码",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-2",
+        "parentComponentText": "Kate's number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "Kate's；号码"
+      },
+      {
+        "index": 3,
+        "text": "?",
+        "answer": "?",
+        "blank": "?",
+        "letterCount": 0,
+        "fillable": false,
+        "type": "punctuation",
+        "zh": "Kate的电话号码是多少？"
+      }
+    ],
+    "shuffledBlocks": [
+      "What's",
+      "number",
+      "Kate's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What's",
+        "role": "疑问词 + 系动词",
+        "zh": "什么"
+      },
+      {
+        "id": "ud-2",
+        "text": "Kate's number",
+        "role": "主语",
+        "zh": "Kate's；号码",
+        "children": [
+          {
+            "id": "ud-3",
+            "text": "Kate's",
+            "role": "限定词",
+            "zh": "Kate's"
+          },
+          {
+            "id": "ud-4",
+            "text": "number",
+            "role": "中心词",
+            "zh": "号码"
+          }
+        ]
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What's",
+        "phonetic": "wʌts",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentRole": "疑问词 + 系动词",
+        "componentZh": "什么"
+      },
+      "1": {
+        "text": "Kate's",
+        "phonetic": "keɪts",
+        "pos": "PROPN_PERSON",
+        "zh": "Kate's",
+        "componentRole": "限定词",
+        "componentZh": "Kate's",
+        "parentComponentText": "Kate's number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "Kate's；号码"
+      },
+      "2": {
+        "text": "number",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "zh": "号码",
+        "componentRole": "中心词",
+        "componentZh": "号码",
+        "parentComponentText": "Kate's number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "Kate's；号码"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-W-kzw6c2zrf2zdmlh67mj8cse6-2",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-W-kzw6c2zrf2zdmlh67mj8cse6-2",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Kate's",
+    "audioText": "Kate's",
+    "fullEnglish": "Kate's",
+    "phonetic": "keɪts",
+    "pos": "PROPN_PERSON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Kate's",
+        "answer": "Kate's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "Kate's",
+        "phonetic": "keɪts",
+        "pos": "PROPN_PERSON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Kate's"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Kate's",
+        "phonetic": "keɪts",
+        "pos": "PROPN_PERSON",
+        "zh": "Kate's",
+        "componentZh": "Kate's"
+      }
+    }
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-S-dmqoq2xese61s902ebyev38q",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-S-dmqoq2xese61s902ebyev38q",
+    "type": "sentence",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她的号码是十四。",
+    "audioText": "Her number is fourteen",
+    "fullEnglish": "Her number is fourteen",
+    "sentenceType": "主系表结构",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Her",
+        "answer": "Her",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-2",
+        "role": "限定词",
+        "zh": "她的",
+        "phonetic": "hɚ",
+        "pos": "PRON",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "Her number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "她的；号码"
+      },
+      {
+        "index": 1,
+        "text": "number",
+        "answer": "number",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-3",
+        "role": "中心词",
+        "zh": "号码",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "parentComponentId": "ud-1",
+        "parentComponentText": "Her number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "她的；号码"
+      },
+      {
+        "index": 2,
+        "text": "is",
+        "answer": "is",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-4",
+        "role": "系动词",
+        "zh": "是",
+        "phonetic": "ɪz",
+        "pos": "AUX"
+      },
+      {
+        "index": 3,
+        "text": "fourteen",
+        "answer": "fourteen",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "componentId": "ud-5",
+        "role": "表语",
+        "zh": "十四",
+        "phonetic": "ˌfɔːrˈtiːn",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "number",
+      "fourteen",
+      "is",
+      "Her"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Her number",
+        "role": "主语",
+        "zh": "她的；号码",
+        "children": [
+          {
+            "id": "ud-2",
+            "text": "Her",
+            "role": "限定词",
+            "zh": "她的"
+          },
+          {
+            "id": "ud-3",
+            "text": "number",
+            "role": "中心词",
+            "zh": "号码"
+          }
+        ]
+      },
+      {
+        "id": "ud-4",
+        "text": "is",
+        "role": "系动词",
+        "zh": "是"
+      },
+      {
+        "id": "ud-5",
+        "text": "fourteen",
+        "role": "表语",
+        "zh": "十四"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Her",
+        "phonetic": "hɚ",
+        "pos": "PRON",
+        "zh": "她的",
+        "componentRole": "限定词",
+        "componentZh": "她的",
+        "parentComponentText": "Her number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "她的；号码"
+      },
+      "1": {
+        "text": "number",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "zh": "号码",
+        "componentRole": "中心词",
+        "componentZh": "号码",
+        "parentComponentText": "Her number",
+        "parentComponentRole": "主语",
+        "parentComponentZh": "她的；号码"
+      },
+      "2": {
+        "text": "is",
+        "phonetic": "ɪz",
+        "pos": "AUX",
+        "zh": "是",
+        "componentRole": "系动词",
+        "componentZh": "是"
+      },
+      "3": {
+        "text": "fourteen",
+        "phonetic": "ˌfɔːrˈtiːn",
+        "pos": "NUM",
+        "zh": "十四",
+        "componentRole": "表语",
+        "componentZh": "十四"
+      }
+    },
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-W-dmqoq2xese61s902ebyev38q-1",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-W-dmqoq2xese61s902ebyev38q-1",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她的",
+    "audioText": "Her",
+    "fullEnglish": "Her",
+    "phonetic": "hɚ",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Her",
+        "answer": "Her",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "她的",
+        "phonetic": "hɚ",
+        "pos": "PRON"
+      }
+    ],
+    "shuffledBlocks": [
+      "Her"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "Her",
+        "phonetic": "hɚ",
+        "pos": "PRON",
+        "zh": "她的",
+        "componentZh": "她的"
+      }
+    }
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-W-dmqoq2xese61s902ebyev38q-4",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-W-dmqoq2xese61s902ebyev38q-4",
+    "type": "word",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "十四",
+    "audioText": "fourteen",
+    "fullEnglish": "fourteen",
+    "phonetic": "ˌfɔːrˈtiːn",
+    "pos": "NUM",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "fourteen",
+        "answer": "fourteen",
+        "blank": "________",
+        "letterCount": 8,
+        "fillable": true,
+        "type": "word",
+        "zh": "十四",
+        "phonetic": "ˌfɔːrˈtiːn",
+        "pos": "NUM"
+      }
+    ],
+    "shuffledBlocks": [
+      "fourteen"
+    ],
+    "componentTree": [],
+    "wordHints": {
+      "0": {
+        "text": "fourteen",
+        "phonetic": "ˌfɔːrˈtiːn",
+        "pos": "NUM",
+        "zh": "十四",
+        "componentZh": "十四"
+      }
+    }
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-PHRASE-k3xgkk93t0q7nald04hr80vq",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-PHRASE-k3xgkk93t0q7nald04hr80vq",
+    "type": "phrase",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "我的号码",
+    "audioText": "My number",
+    "fullEnglish": "My number",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "My",
+        "answer": "My",
+        "blank": "__",
+        "letterCount": 2,
+        "fillable": true,
+        "type": "word",
+        "zh": "我的",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "number",
+        "answer": "number",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "号码",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "number",
+      "My"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "My",
+        "role": "补充成分",
+        "zh": "我的"
+      },
+      {
+        "id": "ud-2",
+        "text": "number",
+        "role": "中心成分",
+        "zh": "号码"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "My",
+        "phonetic": "maɪ",
+        "pos": "PRON",
+        "zh": "我的",
+        "componentZh": "我的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "number",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "zh": "号码",
+        "componentZh": "号码",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-PHRASE-jkx029xireg8rv8ejkx3wl0q",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-PHRASE-jkx029xireg8rv8ejkx3wl0q",
+    "type": "phrase",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Lala的号码",
+    "audioText": "Lala's number",
+    "fullEnglish": "Lala's number",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Lala's",
+        "answer": "Lala's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "Lala's",
+        "phonetic": "ˈlæləz",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "number",
+        "answer": "number",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "号码",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "Lala's",
+      "number"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Lala's",
+        "role": "补充成分",
+        "zh": "Lala's"
+      },
+      {
+        "id": "ud-2",
+        "text": "number",
+        "role": "中心成分",
+        "zh": "号码"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Lala's",
+        "phonetic": "ˈlæləz",
+        "pos": "PROPN_PERSON",
+        "zh": "Lala's",
+        "componentZh": "Lala's",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "number",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "zh": "号码",
+        "componentZh": "号码",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-PHRASE-g9afl4eat9lr1j3a8g213k2f",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-PHRASE-g9afl4eat9lr1j3a8g213k2f",
+    "type": "phrase",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "他的号码",
+    "audioText": "His number",
+    "fullEnglish": "His number",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "His",
+        "answer": "His",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "他的",
+        "phonetic": "hɪz; ɪz",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "number",
+        "answer": "number",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "号码",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "number",
+      "His"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "His",
+        "role": "补充成分",
+        "zh": "他的"
+      },
+      {
+        "id": "ud-2",
+        "text": "number",
+        "role": "中心成分",
+        "zh": "号码"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "His",
+        "phonetic": "hɪz; ɪz",
+        "pos": "PRON",
+        "zh": "他的",
+        "componentZh": "他的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "number",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "zh": "号码",
+        "componentZh": "号码",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-PHRASE-i32z9uz8w9t6e35bf2hxrqs3",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-PHRASE-i32z9uz8w9t6e35bf2hxrqs3",
+    "type": "phrase",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "什么是",
+    "audioText": "What's",
+    "fullEnglish": "What's",
+    "phonetic": "wʌts",
+    "pos": "PRON",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "What's",
+        "answer": "What's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "什么",
+        "phonetic": "wʌts",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "疑问词 + 系动词"
+      }
+    ],
+    "shuffledBlocks": [
+      "What's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "What's",
+        "role": "疑问词 + 系动词",
+        "zh": "什么"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "What's",
+        "phonetic": "wʌts",
+        "pos": "PRON",
+        "zh": "什么",
+        "componentZh": "什么",
+        "componentRole": "疑问词 + 系动词"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-PHRASE-ur7n012ltoutnw067hbgutxv",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-PHRASE-ur7n012ltoutnw067hbgutxv",
+    "type": "phrase",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "Kate的号码",
+    "audioText": "Kate's number",
+    "fullEnglish": "Kate's number",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Kate's",
+        "answer": "Kate's",
+        "blank": "____’_",
+        "letterCount": 5,
+        "fillable": true,
+        "type": "word",
+        "zh": "Kate's",
+        "phonetic": "keɪts",
+        "pos": "PROPN_PERSON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "number",
+        "answer": "number",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "号码",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "number",
+      "Kate's"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Kate's",
+        "role": "补充成分",
+        "zh": "Kate's"
+      },
+      {
+        "id": "ud-2",
+        "text": "number",
+        "role": "中心成分",
+        "zh": "号码"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Kate's",
+        "phonetic": "keɪts",
+        "pos": "PROPN_PERSON",
+        "zh": "Kate's",
+        "componentZh": "Kate's",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "number",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "zh": "号码",
+        "componentZh": "号码",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  },
+  {
+    "id": "JLB-z4pqfd1s99drbnunfqg62i41-PHRASE-pikcm8x0pyb31biy9lmadh3l",
+    "contentId": "JLB-z4pqfd1s99drbnunfqg62i41-PHRASE-pikcm8x0pyb31biy9lmadh3l",
+    "type": "phrase",
+    "coursePackageId": "ob5ky4viwlqf1w87ist24cxo",
+    "coursePackageName": "【北京版】二年级上册【课程同步】",
+    "grade": "在线课程",
+    "unitId": "z4pqfd1s99drbnunfqg62i41",
+    "unitTitle": "Unit 3 What’s Your Number?--Lesson 9【例句】",
+    "section": "",
+    "importance": "",
+    "displayChinese": "她的号码",
+    "audioText": "Her number",
+    "fullEnglish": "Her number",
+    "spellingUnits": [
+      {
+        "index": 0,
+        "text": "Her",
+        "answer": "Her",
+        "blank": "___",
+        "letterCount": 3,
+        "fillable": true,
+        "type": "word",
+        "zh": "她的",
+        "phonetic": "hɚ",
+        "pos": "PRON",
+        "componentId": "ud-1",
+        "role": "补充成分"
+      },
+      {
+        "index": 1,
+        "text": "number",
+        "answer": "number",
+        "blank": "______",
+        "letterCount": 6,
+        "fillable": true,
+        "type": "word",
+        "zh": "号码",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "componentId": "ud-2",
+        "role": "中心成分"
+      }
+    ],
+    "shuffledBlocks": [
+      "number",
+      "Her"
+    ],
+    "componentTree": [
+      {
+        "id": "ud-1",
+        "text": "Her",
+        "role": "补充成分",
+        "zh": "她的"
+      },
+      {
+        "id": "ud-2",
+        "text": "number",
+        "role": "中心成分",
+        "zh": "号码"
+      }
+    ],
+    "wordHints": {
+      "0": {
+        "text": "Her",
+        "phonetic": "hɚ",
+        "pos": "PRON",
+        "zh": "她的",
+        "componentZh": "她的",
+        "componentRole": "补充成分"
+      },
+      "1": {
+        "text": "number",
+        "phonetic": "ˈnʌmbɚ",
+        "pos": "NOUN",
+        "zh": "号码",
+        "componentZh": "号码",
+        "componentRole": "中心成分"
+      }
+    },
+    "sentenceType": "短语或标题结构",
+    "analysisEngine": "stanza-ud-v1"
+  }
+]
