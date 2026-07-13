@@ -1,68 +1,24 @@
-import { createServer } from "node:http";
 import { randomUUID } from "node:crypto";
-import { mkdir, readFile, readdir, rename, rm, stat, writeFile } from "node:fs/promises";
-import { createReadStream } from "node:fs";
-import { extname, join, normalize, resolve } from "node:path";
+import { mkdir, readFile, readdir, rename, rm, writeFile } from "node:fs/promises";
+import { join } from "node:path";
 import { fileURLToPath } from "node:url";
-import { handleEdgeTtsNodeRequest } from "./src/server/edge-tts.mjs";
 
-const ROOT = fileURLToPath(new URL(".", import.meta.url));
+const ROOT = fileURLToPath(new URL("../..", import.meta.url));
 const STORAGE_DIR = join(ROOT, "storage", "users");
-const PORT = Number(process.env.PORT || 4173);
 const LEARNING_MODES = ["spelling", "en-cn", "cn-en", "sentence-mixed"];
 const userWriteQueues = new Map();
 
-const MIME_TYPES = {
-  ".html": "text/html; charset=utf-8",
-  ".js": "text/javascript; charset=utf-8",
-  ".css": "text/css; charset=utf-8",
-  ".json": "application/json; charset=utf-8",
-  ".webmanifest": "application/manifest+json; charset=utf-8",
-  ".jpg": "image/jpeg",
-  ".jpeg": "image/jpeg",
-  ".png": "image/png",
-  ".svg": "image/svg+xml; charset=utf-8",
-  ".webp": "image/webp",
-  ".mp3": "audio/mpeg",
-  ".wav": "audio/wav",
-  ".ico": "image/x-icon",
-};
-
 await mkdir(STORAGE_DIR, { recursive: true });
 
-createServer(async (request, response) => {
-  try {
-    const url = new URL(request.url || "/", `http://${request.headers.host || "localhost"}`);
-    if (url.pathname === "/v1/audio/speech") {
-      await handleEdgeTtsNodeRequest(request, response);
-      return;
-    }
-    if (url.pathname.startsWith("/api/")) {
-      await handleApi(request, response, url);
-      return;
-    }
-    await serveStatic(response, url.pathname);
-  } catch (error) {
-    sendJson(response, 500, { error: "server_error", message: error.message });
-  }
-}).listen(PORT, () => {
-  console.log(`Enstudy server running at http://127.0.0.1:${PORT}/`);
-});
-
-async function handleApi(request, response, url) {
+export async function handleUserApiRequest(request, response, url) {
   if (request.method === "GET" && url.pathname === "/api/health") {
     sendJson(response, 200, { ok: true });
-    return;
-  }
-
-  if (url.pathname === "/api/tts/edge") {
-    await handleEdgeTtsNodeRequest(request, response);
-    return;
+    return true;
   }
 
   if (request.method === "GET" && url.pathname === "/api/users") {
     sendJson(response, 200, { users: await listUsers() });
-    return;
+    return true;
   }
 
   if (request.method === "POST" && url.pathname === "/api/users") {
@@ -70,119 +26,78 @@ async function handleApi(request, response, url) {
     const name = normalizeName(body.name);
     if (!name) {
       sendJson(response, 400, { error: "invalid_name", message: "请输入 1-20 个字符的名字" });
-      return;
+      return true;
     }
     const users = await listUsers();
     if (users.some((user) => user.name.toLowerCase() === name.toLowerCase())) {
       sendJson(response, 409, { error: "duplicate_name", message: "名字已存在，请换一个名字" });
-      return;
+      return true;
     }
     const user = createEmptyUser(name);
     await saveUserFile(user);
     sendJson(response, 201, { user });
-    return;
+    return true;
   }
 
   const match = url.pathname.match(/^\/api\/users\/([^/]+)\/(progress|practice)$/);
-  if (match) {
-    const [, userId, action] = match;
-    let user = await readUserFile(userId);
-    if (!user) {
+  if (!match) return false;
+
+  const [, userId, action] = match;
+  let user = await readUserFile(userId);
+  if (!user) {
+    sendJson(response, 404, { error: "not_found", message: "用户不存在" });
+    return true;
+  }
+
+  if (request.method === "GET" && action === "progress") {
+    user = await ensureUserMigrated(userId, user);
+    sendJson(response, 200, { user });
+    return true;
+  }
+
+  if (request.method === "PUT" && action === "progress") {
+    const body = await readJsonBody(request);
+    const saved = await updateUserFile(userId, (currentUser) => {
+      applyProgressResets(currentUser, body.resets);
+      currentUser.progress = { ...(currentUser.progress || {}), ...(body.progress || {}) };
+      currentUser.learned = { ...(currentUser.learned || {}), ...(body.learned || {}) };
+      currentUser.wrong = { ...(currentUser.wrong || {}), ...(body.wrong || {}) };
+      currentUser.daily = { ...(currentUser.daily || {}), ...(body.daily || {}) };
+      currentUser.updatedAt = new Date().toISOString();
+    });
+    if (!saved) {
       sendJson(response, 404, { error: "not_found", message: "用户不存在" });
-      return;
+      return true;
     }
+    sendJson(response, 200, { user: saved.user });
+    return true;
+  }
 
-    if (request.method === "GET" && action === "progress") {
-      user = await ensureUserMigrated(userId, user);
-      sendJson(response, 200, { user });
-      return;
+  if (request.method === "POST" && action === "practice") {
+    const body = await readJsonBody(request);
+    const record = sanitizePracticeRecord(body);
+    const saved = await updateUserFile(userId, (currentUser) => {
+      const key = practiceKey(record.profile, record.category, record.mode);
+      currentUser.practice = currentUser.practice || {};
+      currentUser.practice[key] = currentUser.practice[key] || { profile: record.profile, category: record.category, mode: record.mode, total: 0, correct: 0, wrong: 0, records: [] };
+      currentUser.practice[key].total += 1;
+      currentUser.practice[key].correct += record.correct ? 1 : 0;
+      currentUser.practice[key].wrong += record.correct ? 0 : 1;
+      currentUser.practice[key].records.push(record);
+      currentUser.practice[key].records = currentUser.practice[key].records.slice(-500);
+      currentUser.updatedAt = new Date().toISOString();
+      return currentUser.practice[key];
+    });
+    if (!saved) {
+      sendJson(response, 404, { error: "not_found", message: "用户不存在" });
+      return true;
     }
-
-    if (request.method === "PUT" && action === "progress") {
-      const body = await readJsonBody(request);
-      const saved = await updateUserFile(userId, (currentUser) => {
-        applyProgressResets(currentUser, body.resets);
-        currentUser.progress = { ...(currentUser.progress || {}), ...(body.progress || {}) };
-        currentUser.learned = { ...(currentUser.learned || {}), ...(body.learned || {}) };
-        currentUser.wrong = { ...(currentUser.wrong || {}), ...(body.wrong || {}) };
-        currentUser.daily = { ...(currentUser.daily || {}), ...(body.daily || {}) };
-        currentUser.updatedAt = new Date().toISOString();
-      });
-      if (!saved) {
-        sendJson(response, 404, { error: "not_found", message: "用户不存在" });
-        return;
-      }
-      sendJson(response, 200, { user: saved.user });
-      return;
-    }
-
-    if (request.method === "POST" && action === "practice") {
-      const body = await readJsonBody(request);
-      const record = sanitizePracticeRecord(body);
-      const saved = await updateUserFile(userId, (currentUser) => {
-        const key = practiceKey(record.profile, record.category, record.mode);
-        currentUser.practice = currentUser.practice || {};
-        currentUser.practice[key] = currentUser.practice[key] || { profile: record.profile, category: record.category, mode: record.mode, total: 0, correct: 0, wrong: 0, records: [] };
-        currentUser.practice[key].total += 1;
-        currentUser.practice[key].correct += record.correct ? 1 : 0;
-        currentUser.practice[key].wrong += record.correct ? 0 : 1;
-        currentUser.practice[key].records.push(record);
-        currentUser.practice[key].records = currentUser.practice[key].records.slice(-500);
-        currentUser.updatedAt = new Date().toISOString();
-        return currentUser.practice[key];
-      });
-      if (!saved) {
-        sendJson(response, 404, { error: "not_found", message: "用户不存在" });
-        return;
-      }
-      sendJson(response, 200, { practice: saved.result });
-      return;
-    }
+    sendJson(response, 200, { practice: saved.result });
+    return true;
   }
 
-  sendJson(response, 404, { error: "not_found", message: "接口不存在" });
-}
-
-async function serveStatic(response, pathname) {
-  const cleanPath = pathname === "/" ? "/primary.html" : decodeURIComponent(pathname);
-  const candidates = [];
-  if (cleanPath === "/sentence.html" || cleanPath === "/sentence") {
-    candidates.push(resolve(ROOT, "dist", "index.html"));
-  } else {
-    candidates.push(resolve(ROOT, `.${normalize(cleanPath)}`));
-    candidates.push(resolve(ROOT, "dist", `.${normalize(cleanPath)}`));
-  }
-  const filePath = await firstExistingFile(candidates);
-  if (!filePath) {
-    response.writeHead(404);
-    response.end("Not found");
-    return;
-  }
-  if (!filePath.startsWith(ROOT)) {
-    response.writeHead(403);
-    response.end("Forbidden");
-    return;
-  }
-  const headers = {
-    "Content-Type": MIME_TYPES[extname(filePath).toLowerCase()] || "application/octet-stream",
-  };
-  if (cleanPath === "/sw.js") {
-    headers["Cache-Control"] = "no-cache";
-    headers["Service-Worker-Allowed"] = "/";
-  }
-  if (cleanPath === "/manifest.webmanifest") {
-    headers["Cache-Control"] = "no-cache";
-  }
-  response.writeHead(200, headers);
-  createReadStream(filePath).pipe(response);
-}
-
-async function firstExistingFile(paths) {
-  for (const filePath of paths) {
-    const info = await stat(filePath).catch(() => null);
-    if (info?.isFile()) return filePath;
-  }
-  return null;
+  sendJson(response, 405, { error: "method_not_allowed", message: "请求方法不支持" });
+  return true;
 }
 
 async function listUsers() {
@@ -342,7 +257,7 @@ function migrateLegacyUserProgress(user) {
   }
   user.migrations.modeScopedProgressV2 = true;
   user.updatedAt = new Date().toISOString();
-  return true;
+  return changed || true;
 }
 
 function migrateLegacyUserProgressKeys(progress, profile) {

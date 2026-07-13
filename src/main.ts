@@ -137,12 +137,16 @@ interface CourseSummary {
 
 const API_BASE = "/api";
 const ACTIVE_USER_KEY = "enstudy.simple.activeUser.v1";
-const LOCAL_USERS_KEY = "enstudy.sentence.localUsers.v1";
+const LOCAL_USERS_KEY = "enstudy.simple.localUsers.v1";
+const LEGACY_SENTENCE_LOCAL_USERS_KEY = "enstudy.sentence.localUsers.v1";
 const LOCAL_DATA_KEY = "enstudy.sentence.localData.v1";
 const SENTENCE_MODE_KEY = "enstudy.sentence.inputMode.v1";
+const TTS_SETTINGS_KEY = "enstudy.sentence.ttsSettings.v1";
 const MODE = "sentence-mixed";
-const SCOPE_KEY = `junior:${MODE}`;
-const PROGRESS_KEY = `enstudy.sentence.${MODE}.progress.v1`;
+const SENTENCE_PROFILE = "junior";
+const SCOPE_KEY = `${SENTENCE_PROFILE}:${MODE}`;
+const LEGACY_PROGRESS_KEY = `enstudy.sentence.${MODE}.progress.v1`;
+const PROGRESS_KEY = `enstudy.simple.${SENTENCE_PROFILE}.${MODE}.progress.v1`;
 const WORD_PROFILE_KEY = "enstudy.navigation.wordProfile.v1";
 const sourceProfile = new URLSearchParams(window.location.search).get("from");
 if (sourceProfile === "primary" || sourceProfile === "junior") {
@@ -154,6 +158,79 @@ const SOUND_URLS = {
   ok: "/simple/sounds/correct.mp3",
 };
 
+interface TtsSettings {
+  service: "edge" | "browser";
+  edgeVoice: string;
+  edgeSpeed: number;
+  edgePitch: number;
+  edgeStyle: string;
+  browserRate: number;
+  browserPitch: number;
+  autoPlay: boolean;
+  playCount: number;
+  playInterval: number;
+}
+
+const DEFAULT_TTS_SETTINGS: TtsSettings = {
+  service: "edge",
+  edgeVoice: "en-US-JennyNeural",
+  edgeSpeed: 0.86,
+  edgePitch: 0,
+  edgeStyle: "general",
+  browserRate: 0.82,
+  browserPitch: 1,
+  autoPlay: true,
+  playCount: 1,
+  playInterval: 800,
+};
+
+const EDGE_ENGLISH_VOICES = [
+  { value: "en-US-JennyNeural", label: "Jenny · 女声·温柔 (美音)" },
+  { value: "en-US-GuyNeural", label: "Guy · 男声·沉稳 (美音)" },
+  { value: "en-US-AriaNeural", label: "Aria · 女声·清新 (美音)" },
+  { value: "en-US-DavisNeural", label: "Davis · 男声·爽朗 (美音)" },
+  { value: "en-US-AmberNeural", label: "Amber · 女声·明亮 (美音)" },
+  { value: "en-US-BrandonNeural", label: "Brandon · 男声·浑厚 (美音)" },
+  { value: "en-GB-SoniaNeural", label: "Sonia · 女声·优雅 (英音)" },
+  { value: "en-GB-RyanNeural", label: "Ryan · 男声·绅士 (英音)" },
+  { value: "en-GB-LibbyNeural", label: "Libby · 女声·甜美 (英音)" },
+  { value: "en-AU-NatashaNeural", label: "Natasha · 女声·亲切 (澳音)" },
+  { value: "en-AU-WilliamNeural", label: "William · 男声·阳光 (澳音)" },
+  { value: "en-CA-ClaraNeural", label: "Clara · 女声·温婉 (加音)" },
+  { value: "en-IN-NeerjaNeural", label: "Neerja · 女声·清晰 (印音)" },
+];
+
+const EDGE_STYLES = [
+  { value: "general", label: "通用风格" },
+  { value: "assistant", label: "智能助手" },
+  { value: "chat", label: "聊天对话" },
+  { value: "customerservice", label: "客服专业" },
+  { value: "newscast", label: "新闻播报" },
+  { value: "affectionate", label: "亲切温暖" },
+  { value: "calm", label: "平静舒缓" },
+  { value: "cheerful", label: "愉快欢乐" },
+  { value: "gentle", label: "温和柔美" },
+  { value: "lyrical", label: "抒情诗意" },
+  { value: "serious", label: "严肃正式" },
+];
+
+const SPEED_OPTIONS = [
+  { value: 0.5, label: "很慢" },
+  { value: 0.7, label: "慢速" },
+  { value: 0.86, label: "正常" },
+  { value: 1.0, label: "稍快" },
+  { value: 1.25, label: "快速" },
+  { value: 1.5, label: "很快" },
+];
+
+const PITCH_OPTIONS = [
+  { value: -50, label: "很低沉" },
+  { value: -25, label: "低沉" },
+  { value: 0, label: "标准" },
+  { value: 25, label: "高亢" },
+  { value: 50, label: "很高亢" },
+];
+
 const app = document.querySelector<HTMLDivElement>("#app") as HTMLDivElement | null;
 if (!app) throw new Error("Missing #app");
 const appRoot = app;
@@ -163,6 +240,64 @@ let speechRunId = 0;
 let speechVoicesPromise: Promise<SpeechSynthesisVoice[]> | null = null;
 let currentSpeechAudio: HTMLAudioElement | null = null;
 let currentSpeechObjectUrl = "";
+
+let ttsSettings: TtsSettings = loadTtsSettings();
+
+const ttsAudioCache = new Map<string, string>();
+const ttsPendingCache = new Map<string, Promise<string>>();
+
+function getTtsCacheKey(text: string): string {
+  return `${ttsSettings.edgeVoice}|${ttsSettings.edgeSpeed}|${ttsSettings.edgePitch}|${ttsSettings.edgeStyle}|${text.trim()}`;
+}
+
+async function fetchTtsAudioBlob(text: string): Promise<string> {
+  const key = getTtsCacheKey(text);
+  if (ttsAudioCache.has(key)) return ttsAudioCache.get(key) as string;
+  const pending = ttsPendingCache.get(key);
+  if (pending) return pending;
+
+  const promise = (async () => {
+    try {
+      const params = new URLSearchParams({
+        input: text,
+        voice: ttsSettings.edgeVoice,
+        speed: String(ttsSettings.edgeSpeed),
+        pitch: String(ttsSettings.edgePitch),
+        volume: "0",
+        style: ttsSettings.edgeStyle,
+      });
+      const response = await fetch(`${API_BASE}/tts/edge?${params.toString()}`, { method: "GET" });
+      if (!response.ok) throw new Error("edge_tts_failed");
+      const blob = await response.blob();
+      const objectUrl = URL.createObjectURL(blob);
+      ttsAudioCache.set(key, objectUrl);
+      return objectUrl;
+    } finally {
+      ttsPendingCache.delete(key);
+    }
+  })();
+
+  ttsPendingCache.set(key, promise);
+  return promise;
+}
+
+function preloadTtsAudio(texts: string[]) {
+  if (ttsSettings.service !== "edge") return;
+  texts.forEach((text) => {
+    if (!text) return;
+    const key = getTtsCacheKey(text);
+    if (ttsAudioCache.has(key) || ttsPendingCache.has(key)) return;
+    void fetchTtsAudioBlob(text).catch(() => {
+      // preload failure is silent
+    });
+  });
+}
+
+function clearTtsCache() {
+  ttsAudioCache.forEach((url) => URL.revokeObjectURL(url));
+  ttsAudioCache.clear();
+  ttsPendingCache.clear();
+}
 
 const state: AppState = {
   items: [],
@@ -199,10 +334,20 @@ const state: AppState = {
   isSpeaking: false,
 };
 
+installPracticeKeyCapture();
 init();
 
+function installPracticeKeyCapture() {
+  document.addEventListener("keydown", (event) => {
+    if (!appRoot.querySelector(".practice-board")) return;
+    const item = currentItem();
+    if (!item) return;
+    handlePracticeKeydown(event, item);
+  }, { capture: true });
+}
+
 async function init() {
-  await unregisterLegacyServiceWorkers();
+  migrateSharedLocalUsers();
   renderShell(`<section class="panel empty">正在加载课程数据...</section>`);
   try {
     await loadLearningDataIndex();
@@ -246,16 +391,6 @@ async function loadLearningDataIndex() {
   throw new Error("data/learning-manifest.json 中没有课程单元，请先运行课程导入命令生成分片课程数据。");
 }
 
-async function unregisterLegacyServiceWorkers() {
-  if (!("serviceWorker" in navigator)) return;
-  try {
-    const registrations = await navigator.serviceWorker.getRegistrations();
-    await Promise.all(registrations.map((registration) => registration.unregister()));
-  } catch {
-    // Legacy PWA cleanup is best-effort.
-  }
-}
-
 function renderShell(content: string) {
   appRoot.innerHTML = `
     <div class="simple-app">
@@ -282,6 +417,8 @@ function renderPracticeShell(content: string) {
 function renderAppHeader() {
   const viewed = todayBucket().viewed.length;
   const correct = todayBucket().correct.length;
+  const userName = state.user?.name || "未选择";
+  const userInitial = userName.charAt(0).toUpperCase();
   return `
     <header class="learn-status">
       <div class="status-title">
@@ -299,8 +436,17 @@ function renderAppHeader() {
       <div class="status-user">
         <nav class="app-nav-tabs" aria-label="练习入口">
           <a class="app-nav-link" href="${wordPracticeHref()}"><span class="nav-icon">Aa</span><span>单词</span></a>
-          <button class="app-nav-link active" type="button" data-action="home"><span class="nav-icon">⌂</span><span>${state.wrongReviewActive ? "课程" : "课程"}</span></button>
+          <button class="app-nav-link active" type="button" data-action="home"><span class="nav-icon">⌂</span><span>句子</span></button>
         </nav>
+        <div class="header-user-section">
+          <button class="header-settings-btn" type="button" data-action="open-settings" title="语音设置">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+          </button>
+          <button class="header-user-btn" type="button" data-action="open-user" title="切换用户">
+            <span class="user-avatar">${escapeHtml(userInitial)}</span>
+            <span class="user-name">${escapeHtml(userName)}</span>
+          </button>
+        </div>
       </div>
     </header>
   `;
@@ -321,6 +467,8 @@ function bindShellEvents() {
     }
   });
   appRoot.querySelector<HTMLElement>('[data-action="wrong-review"]')?.addEventListener("click", startWrongReview);
+  appRoot.querySelector<HTMLElement>('[data-action="open-settings"]')?.addEventListener("click", openSettingsModal);
+  appRoot.querySelector<HTMLElement>('[data-action="open-user"]')?.addEventListener("click", openUserModal);
 }
 
 function renderList() {
@@ -595,7 +743,26 @@ function openCurrentLessonItem() {
   recordViewed(item);
   saveCurrentProgress();
   renderLearn();
-  window.setTimeout(() => speak(item.audioText, { restart: true }), 220);
+  preloadUpcomingTts();
+  if (ttsSettings.autoPlay) {
+    window.setTimeout(() => speak(item.audioText, { restart: true }), 220);
+  }
+}
+
+function preloadUpcomingTts() {
+  const items = state.lessonItems?.length ? state.lessonItems : state.items;
+  const currentIdx = state.lessonItems?.length
+    ? state.lessonPosition
+    : state.selectedIndex;
+  if (currentIdx < 0) return;
+  const upcoming: string[] = [];
+  for (let i = 0; i <= 3; i++) {
+    const idx = currentIdx + i;
+    if (idx >= items.length) break;
+    const text = items[idx]?.audioText;
+    if (text) upcoming.push(text);
+  }
+  preloadTtsAudio(upcoming);
 }
 
 function renderLearn() {
@@ -617,7 +784,10 @@ function renderLearn() {
           </div>
         </div>
         ${renderPracticeFooter(item)}
-        <div class="shortcut-hints">键盘：A-Z 选择字母 · Backspace 撤回 · Delete/Esc 清空 · Space 下一个词 · Enter 下一题 · Shift+Enter 上一题</div>
+        <div class="shortcut-hints">
+          <span class="shortcut-title">⌨ 快捷键</span>
+          <span>A-Z 选择字母 · Backspace 撤回 · Delete/Esc 清空 · Space 下一个词 · Enter 下一题 · Shift+Enter 上一题</span>
+        </div>
       </section>
     </section>
   `);
@@ -745,7 +915,7 @@ function renderChoicePracticeArea(item: RuntimeLearningItem): string {
 function renderKeyboardPracticeArea(item: RuntimeLearningItem): string {
   return `
     <div class="keyboard-practice stack">
-      <div class="spelling-area keyboard-area">${item.spellingUnits.map((unit) => renderKeyboardWordUnit(unit)).join("")}</div>
+      <div class="choice-sentence keyboard-area">${item.spellingUnits.map((unit) => renderKeyboardWordUnit(unit)).join("")}</div>
       ${renderLetterBank(item)}
     </div>
   `;
@@ -795,16 +965,30 @@ function renderKeyboardWordUnit(unit: SpellingUnit): string {
   const active = state.activeUnitIndex === unit.index ? " active" : "";
   const answerCharacters = getSpellingCharacters(unit.answer);
   const typedCharacters = getSpellingCharacters(value);
+  const width = Math.max(90, Math.min(320, answerCharacters.length * 20 + 42));
+  const completedContent = state.showAnswer || status === "correct"
+    ? `<span class="keyboard-complete-word">${escapeHtml(unit.answer)}</span>`
+    : "";
+  const slots = answerCharacters.map((answerCharacter, index) => {
+    const typedCharacter = typedCharacters[index] || "";
+    const display = typedCharacter
+      ? displaySpellingCharacter(typedCharacter)
+      : answerCharacter === "'"
+        ? "’"
+        : "";
+    const filled = typedCharacter ? " filled" : "";
+    const apostrophe = answerCharacter === "'" ? " apostrophe" : "";
+    return `<span class="keyboard-letter-slot${filled}${apostrophe}">${escapeHtml(display)}</span>`;
+  }).join("");
   return `
-    <span class="keyboard-unit-wrap">
-      <button class="keyboard-word ${status}${active}" type="button" data-keyboard-word="${unit.index}" style="--letter-count:${answerCharacters.length}">
-        ${answerCharacters.map((answerCharacter, index) => {
-          const typedCharacter = typedCharacters[index] || "";
-          const apostrophe = answerCharacter === "'" ? " apostrophe-slot" : "";
-          const display = typedCharacter ? displaySpellingCharacter(typedCharacter) : answerCharacter === "'" ? "’" : "";
-          return `<span class="letter-slot${apostrophe} ${typedCharacter ? "filled" : ""}" data-slot="${index}">${escapeHtml(display)}</span>`;
-        }).join("")}
-      </button>
+    <span class="choice-wrap keyboard-unit-wrap">
+      <button
+        class="choice-blank keyboard-blank ${status}${active}"
+        type="button"
+        data-keyboard-word="${unit.index}"
+        style="--keyboard-width:${width}px"
+        title="点击选中此空，字母键输入，退格键删除"
+      >${completedContent || slots}</button>
     </span>
   `;
 }
@@ -814,12 +998,16 @@ function renderLetterBank(item: RuntimeLearningItem): string {
   if (!activeUnit || state.showAnswer) return "";
   const letters = getLetterBlocks(activeUnit);
   return `
-    <div class="letter-bank" aria-label="字母块">
+    <div class="word-bank letter-bank" aria-label="字母块">
       ${letters.map((letter, index) => {
         const exhausted = isLetterBlockExhausted(letter, activeUnit, letters);
         const apostrophe = normalizeSpellingCharacter(letter) === "'" ? " apostrophe-block" : "";
-        return `<button class="letter-block${apostrophe}" type="button" data-letter-block="${escapeAttr(letter)}" data-letter-index="${index}" ${exhausted ? "disabled" : ""}>${escapeHtml(displaySpellingCharacter(letter))}</button>`;
+        return `<button class="word-block letter-block${apostrophe}" type="button" data-letter-block="${escapeAttr(letter)}" data-letter-index="${index}" ${exhausted ? "disabled" : ""}>${escapeHtml(displaySpellingCharacter(letter))}</button>`;
       }).join("")}
+      <span class="keyboard-actions">
+        <button class="word-block keyboard-action" type="button" data-keyboard-action="backspace">退格</button>
+        <button class="word-block keyboard-action danger" type="button" data-keyboard-action="clear">清空</button>
+      </span>
     </div>
   `;
 }
@@ -905,8 +1093,8 @@ function openContentListModal(item: RuntimeLearningItem, filter: ContentListFilt
   const filterLabel = filter === "learned" ? "已学题目" : filter === "unlearned" ? "未学题目" : "全部题目";
 
   modalMount.innerHTML = `
-    <div class="modal-backdrop content-list-backdrop">
-      <section class="modal content-list-modal panel" role="dialog" aria-modal="true" aria-labelledby="contentListTitle">
+    <div class="modal-backdrop content-list-backdrop" data-close-modal>
+      <section class="modal content-list-modal panel" role="dialog" aria-modal="true" aria-labelledby="contentListTitle" onclick="event.stopPropagation()">
         <div class="modal-head">
           <div>
             <h2 id="contentListTitle">${escapeHtml(item.unitTitle || "当前单元")} · 题单</h2>
@@ -1081,8 +1269,6 @@ function bindLearnEvents(item: RuntimeLearningItem) {
     });
   });
 
-  document.onkeydown = (event) => handlePracticeKeydown(event, item);
-
   appRoot.querySelectorAll<HTMLInputElement>("[data-unit-index]").forEach((input) => {
     input.addEventListener("focus", () => {
       state.activeUnitIndex = Number(input.dataset.unitIndex);
@@ -1131,6 +1317,20 @@ function bindLearnEvents(item: RuntimeLearningItem) {
     });
   });
 
+  appRoot.querySelectorAll<HTMLButtonElement>("[data-keyboard-action]").forEach((button) => {
+    button.addEventListener("click", () => {
+      const action = button.dataset.keyboardAction;
+      if (action === "backspace") {
+        undoActiveLetter(item);
+        renderLearn();
+      }
+      if (action === "clear") {
+        clearActiveUnit(item);
+        renderLearn();
+      }
+    });
+  });
+
   appRoot.querySelectorAll<HTMLElement>('[data-action="speak"]').forEach((button) => {
     button.addEventListener("click", () => speak(item.audioText));
   });
@@ -1147,6 +1347,7 @@ function bindLearnEvents(item: RuntimeLearningItem) {
   appRoot.querySelector<HTMLElement>('[data-action="prev"]')?.addEventListener("click", openPrevItem);
   appRoot.querySelector<HTMLElement>('[data-action="redo"]')?.addEventListener("click", () => redoCurrentItem(item));
   appRoot.querySelector<HTMLElement>('[data-action="back-course"]')?.addEventListener("click", renderCurrentCourseOrList);
+  appRoot.querySelector<HTMLElement>('.practice-footer [data-action="home"]')?.addEventListener("click", exitWrongReview);
   appRoot.querySelector<HTMLElement>('[data-action="reset-unit"]')?.addEventListener("click", resetCurrentUnitProgress);
   appRoot.querySelectorAll<HTMLElement>("[data-component-id]").forEach((button) => {
     button.addEventListener("click", () => {
@@ -1167,6 +1368,7 @@ function bindLearnEvents(item: RuntimeLearningItem) {
 }
 
 function handlePracticeKeydown(event: KeyboardEvent, item: RuntimeLearningItem) {
+  if (event.defaultPrevented) return;
   const activeElement = document.activeElement;
   if (activeElement instanceof HTMLInputElement || activeElement instanceof HTMLTextAreaElement || activeElement instanceof HTMLSelectElement) return;
   if (document.querySelector(".modal-backdrop")) return;
@@ -1176,6 +1378,19 @@ function handlePracticeKeydown(event: KeyboardEvent, item: RuntimeLearningItem) 
     revealAnswer(item);
     return;
   }
+
+  if ((event.ctrlKey || event.metaKey) && event.key === " ") {
+    event.preventDefault();
+    speak(item.audioText);
+    return;
+  }
+
+  if ((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === "r") {
+    event.preventDefault();
+    redoCurrentItem(item);
+    return;
+  }
+  if (event.ctrlKey || event.metaKey || event.altKey) return;
 
   if (event.key === "Enter") {
     event.preventDefault();
@@ -1199,17 +1414,6 @@ function handlePracticeKeydown(event: KeyboardEvent, item: RuntimeLearningItem) 
     return;
   }
 
-  if ((event.ctrlKey || event.metaKey) && event.key === " ") {
-    event.preventDefault();
-    speak(item.audioText);
-    return;
-  }
-
-  if ((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === "r") {
-    event.preventDefault();
-    redoCurrentItem(item);
-    return;
-  }
   if (event.key === "F4") {
     event.preventDefault();
     speak(item.audioText);
@@ -1282,7 +1486,13 @@ function appendTextToUnit(item: RuntimeLearningItem, unit: SpellingUnit, text: s
   state.answers[unit.index] = current + normalizeSpellingCharacter(text);
   if (countTypedSpellingCharacters(state.answers[unit.index]) >= getSpellingCharacters(unit.answer).length) {
     const status = getUnitStatus(unit, state.answers[unit.index]);
-    if (status === "wrong") markWrong(item, state.answers[unit.index]);
+    if (status === "wrong") {
+      markWrong(item, state.answers[unit.index]);
+      playSound("bad");
+      flashReward("拼写不对，按退格修改一下");
+    } else {
+      state.activeUnitIndex = getNextEmptyFillableIndex(item) ?? unit.index;
+    }
   }
   checkCompletion(item);
   renderLearn();
@@ -1325,7 +1535,7 @@ function clearActiveUnit(item: RuntimeLearningItem) {
 
 function useActiveHint(item: RuntimeLearningItem) {
   const unit = getActiveFillableUnit(item);
-  if (!unit || state.showAnswer) return;
+  if (!unit) return;
   playSound("click");
   state.activeUnitIndex = unit.index;
   state.hintVisible = !state.hintVisible;
@@ -1481,8 +1691,8 @@ function requestResetUnitProgress(unitKey: string) {
   const modalMount = appRoot.querySelector("#modalMount");
   if (!modalMount) return;
   modalMount.innerHTML = `
-    <div class="modal-backdrop">
-      <section class="modal reset-modal panel" role="dialog" aria-modal="true" aria-labelledby="resetUnitTitle">
+    <div class="modal-backdrop" data-close-modal>
+      <section class="modal reset-modal panel" role="dialog" aria-modal="true" aria-labelledby="resetUnitTitle" onclick="event.stopPropagation()">
         <div class="modal-head">
           <h2 id="resetUnitTitle">重置本单元进度？</h2>
           <button type="button" data-close-modal>取消</button>
@@ -1725,28 +1935,22 @@ async function loadUsers() {
       state.serverReady = false;
     }
   }
-  state.users = loadLocalUsers();
+  state.users = [];
 }
 
 async function restoreActiveUser() {
   const active = loadUserSession();
   if (active) await selectUser(active.id, false);
-  if (!state.user && !state.serverReady) {
-    const localUsers = loadLocalUsers();
-    if (localUsers[0]) await selectUser(localUsers[0].id, false);
-  }
 }
 
 async function selectUser(userId: string, rerender = true) {
+  state.user = null;
   if (state.serverReady) {
     const response = await fetch(`${API_BASE}/users/${encodeURIComponent(userId)}/progress`, { cache: "no-store" });
-    if (!response.ok) return;
-    const data = await response.json();
-    state.user = data.user;
-  } else {
-    const user = loadLocalUsers().find((candidate) => candidate.id === userId);
-    if (!user) return;
-    state.user = { ...user };
+    if (response.ok) {
+      const data = await response.json();
+      state.user = data.user;
+    }
   }
   if (!state.user) return;
   localStorage.setItem(ACTIVE_USER_KEY, JSON.stringify({ id: state.user.id, name: state.user.name }));
@@ -1754,59 +1958,264 @@ async function selectUser(userId: string, rerender = true) {
   if (rerender) renderList();
 }
 
-async function createUser(name: string) {
+async function createUser(name: string): Promise<boolean> {
   const cleanName = name.trim().slice(0, 20);
-  if (!cleanName) return;
+  const feedback = appRoot.querySelector<HTMLElement>("#userFeedback");
+  if (!cleanName) {
+    showUserFeedback(feedback, "请输入名字。");
+    return false;
+  }
+  if (!state.serverReady) {
+    showUserFeedback(feedback, "当前没有连接 Node 服务端，不能创建本地用户。");
+    return false;
+  }
   if (state.serverReady) {
     const response = await fetch(`${API_BASE}/users`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ name: cleanName }),
     });
-    if (!response.ok) return;
+    if (!response.ok) {
+      const data = await response.json().catch(() => ({}));
+      showUserFeedback(feedback, String(data.message || "创建用户失败。"));
+      return false;
+    }
     const data = await response.json();
     await loadUsers();
     await selectUser(data.user.id);
-    return;
+    return true;
   }
-  const users = loadLocalUsers();
-  const user = { id: `${encodeURIComponent(cleanName)}-${Date.now().toString(36)}`, name: cleanName, createdAt: new Date().toISOString() };
-  users.push(user);
-  localStorage.setItem(LOCAL_USERS_KEY, JSON.stringify(users));
-  await loadUsers();
-  await selectUser(user.id);
+  return false;
+}
+
+function showUserFeedback(target: HTMLElement | null, message: string) {
+  if (!target) return;
+  target.textContent = message;
+  target.className = "feedback bad";
+}
+
+function openSettingsModal() {
+  const modalMount = appRoot.querySelector("#modalMount");
+  if (!modalMount) return;
+  const s = ttsSettings;
+  modalMount.innerHTML = `
+    <div class="modal-backdrop">
+      <section class="modal settings-modal panel">
+        <div class="modal-head">
+          <h2>语音设置</h2>
+          <button type="button" data-close-modal>关闭</button>
+        </div>
+        <div class="settings-body">
+          <div class="settings-section">
+            <h3>TTS 服务</h3>
+            <div class="settings-row">
+              <label class="radio-label">
+                <input type="radio" name="tts-service" value="edge" ${s.service === "edge" ? "checked" : ""} />
+                <span>Edge TTS (高质量)</span>
+              </label>
+              <label class="radio-label">
+                <input type="radio" name="tts-service" value="browser" ${s.service === "browser" ? "checked" : ""} />
+                <span>浏览器 TTS (离线可用)</span>
+              </label>
+            </div>
+          </div>
+
+          <div class="settings-section" data-settings-for="edge">
+            <h3>Edge TTS 设置</h3>
+            <div class="settings-grid">
+              <div class="settings-item">
+                <label for="settings-edge-voice">语音选择</label>
+                <select id="settings-edge-voice">
+                  ${EDGE_ENGLISH_VOICES.map((v) => `<option value="${escapeAttr(v.value)}" ${s.edgeVoice === v.value ? "selected" : ""}>${escapeHtml(v.label)}</option>`).join("")}
+                </select>
+              </div>
+              <div class="settings-item">
+                <label for="settings-edge-speed">语速</label>
+                <select id="settings-edge-speed">
+                  ${SPEED_OPTIONS.map((opt) => `<option value="${opt.value}" ${s.edgeSpeed === opt.value ? "selected" : ""}>${escapeHtml(opt.label)}</option>`).join("")}
+                </select>
+              </div>
+              <div class="settings-item">
+                <label for="settings-edge-pitch">音调</label>
+                <select id="settings-edge-pitch">
+                  ${PITCH_OPTIONS.map((opt) => `<option value="${opt.value}" ${s.edgePitch === opt.value ? "selected" : ""}>${escapeHtml(opt.label)}</option>`).join("")}
+                </select>
+              </div>
+              <div class="settings-item">
+                <label for="settings-edge-style">语音风格</label>
+                <select id="settings-edge-style">
+                  ${EDGE_STYLES.map((opt) => `<option value="${escapeAttr(opt.value)}" ${s.edgeStyle === opt.value ? "selected" : ""}>${escapeHtml(opt.label)}</option>`).join("")}
+                </select>
+              </div>
+            </div>
+          </div>
+
+          <div class="settings-section" data-settings-for="browser" style="${s.service === "edge" ? "display:none" : ""}">
+            <h3>浏览器 TTS 设置</h3>
+            <div class="settings-grid">
+              <div class="settings-item">
+                <label for="settings-browser-rate">语速</label>
+                <input type="range" id="settings-browser-rate" min="0.5" max="2" step="0.1" value="${s.browserRate}" />
+                <span class="range-value">${s.browserRate.toFixed(1)}</span>
+              </div>
+              <div class="settings-item">
+                <label for="settings-browser-pitch">音调</label>
+                <input type="range" id="settings-browser-pitch" min="0" max="2" step="0.1" value="${s.browserPitch}" />
+                <span class="range-value">${s.browserPitch.toFixed(1)}</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="settings-section">
+            <h3>播放行为</h3>
+            <div class="settings-grid">
+              <div class="settings-item">
+                <label class="checkbox-label">
+                  <input type="checkbox" id="settings-autoplay" ${s.autoPlay ? "checked" : ""} />
+                  <span>进入题目自动播放语音</span>
+                </label>
+              </div>
+              <div class="settings-item">
+                <label for="settings-play-count">播放次数</label>
+                <select id="settings-play-count">
+                  <option value="1" ${s.playCount === 1 ? "selected" : ""}>1 次</option>
+                  <option value="2" ${s.playCount === 2 ? "selected" : ""}>2 次</option>
+                  <option value="3" ${s.playCount === 3 ? "selected" : ""}>3 次</option>
+                </select>
+              </div>
+              <div class="settings-item">
+                <label for="settings-play-interval">重复间隔</label>
+                <select id="settings-play-interval">
+                  <option value="500" ${s.playInterval === 500 ? "selected" : ""}>0.5 秒</option>
+                  <option value="800" ${s.playInterval === 800 ? "selected" : ""}>0.8 秒</option>
+                  <option value="1200" ${s.playInterval === 1200 ? "selected" : ""}>1.2 秒</option>
+                  <option value="2000" ${s.playInterval === 2000 ? "selected" : ""}>2 秒</option>
+                </select>
+              </div>
+            </div>
+          </div>
+
+          <div class="settings-actions">
+            <button type="button" class="settings-test-btn" data-action="test-speech">试听当前设置</button>
+          </div>
+        </div>
+      </section>
+    </div>
+  `;
+
+  modalMount.querySelector("[data-close-modal]")?.addEventListener("click", closeModal);
+
+  modalMount.querySelectorAll<HTMLInputElement>('input[name="tts-service"]').forEach((radio) => {
+    radio.addEventListener("change", () => {
+      const service = radio.value as "edge" | "browser";
+      ttsSettings.service = service;
+      saveTtsSettings();
+      const edgeSection = modalMount.querySelector('[data-settings-for="edge"]');
+      const browserSection = modalMount.querySelector('[data-settings-for="browser"]');
+      if (edgeSection) (edgeSection as HTMLElement).style.display = service === "edge" ? "" : "none";
+      if (browserSection) (browserSection as HTMLElement).style.display = service === "browser" ? "" : "none";
+    });
+  });
+
+  const edgeVoice = modalMount.querySelector<HTMLSelectElement>("#settings-edge-voice");
+  edgeVoice?.addEventListener("change", () => {
+    ttsSettings.edgeVoice = edgeVoice.value;
+    saveTtsSettings();
+    clearTtsCache();
+  });
+
+  const edgeSpeed = modalMount.querySelector<HTMLSelectElement>("#settings-edge-speed");
+  edgeSpeed?.addEventListener("change", () => {
+    ttsSettings.edgeSpeed = parseFloat(edgeSpeed.value);
+    saveTtsSettings();
+    clearTtsCache();
+  });
+
+  const edgePitch = modalMount.querySelector<HTMLSelectElement>("#settings-edge-pitch");
+  edgePitch?.addEventListener("change", () => {
+    ttsSettings.edgePitch = parseInt(edgePitch.value, 10);
+    saveTtsSettings();
+    clearTtsCache();
+  });
+
+  const edgeStyle = modalMount.querySelector<HTMLSelectElement>("#settings-edge-style");
+  edgeStyle?.addEventListener("change", () => {
+    ttsSettings.edgeStyle = edgeStyle.value;
+    saveTtsSettings();
+    clearTtsCache();
+  });
+
+  const browserRate = modalMount.querySelector<HTMLInputElement>("#settings-browser-rate");
+  browserRate?.addEventListener("input", () => {
+    ttsSettings.browserRate = parseFloat(browserRate.value);
+    saveTtsSettings();
+    const valSpan = browserRate.parentElement?.querySelector(".range-value");
+    if (valSpan) valSpan.textContent = ttsSettings.browserRate.toFixed(1);
+  });
+
+  const browserPitch = modalMount.querySelector<HTMLInputElement>("#settings-browser-pitch");
+  browserPitch?.addEventListener("input", () => {
+    ttsSettings.browserPitch = parseFloat(browserPitch.value);
+    saveTtsSettings();
+    const valSpan = browserPitch.parentElement?.querySelector(".range-value");
+    if (valSpan) valSpan.textContent = ttsSettings.browserPitch.toFixed(1);
+  });
+
+  const autoPlay = modalMount.querySelector<HTMLInputElement>("#settings-autoplay");
+  autoPlay?.addEventListener("change", () => {
+    ttsSettings.autoPlay = autoPlay.checked;
+    saveTtsSettings();
+  });
+
+  const playCount = modalMount.querySelector<HTMLSelectElement>("#settings-play-count");
+  playCount?.addEventListener("change", () => {
+    ttsSettings.playCount = parseInt(playCount.value, 10);
+    saveTtsSettings();
+  });
+
+  const playInterval = modalMount.querySelector<HTMLSelectElement>("#settings-play-interval");
+  playInterval?.addEventListener("change", () => {
+    ttsSettings.playInterval = parseInt(playInterval.value, 10);
+    saveTtsSettings();
+  });
+
+  modalMount.querySelector<HTMLElement>('[data-action="test-speech"]')?.addEventListener("click", () => {
+    speak("Hello, this is a test of the text-to-speech system.", { restart: true });
+  });
 }
 
 function openUserModal() {
   const modalMount = appRoot.querySelector("#modalMount");
   if (!modalMount) return;
   modalMount.innerHTML = `
-    <div class="modal-backdrop">
-      <section class="modal user-modal panel">
+    <div class="modal-backdrop" data-close-modal>
+      <section class="modal user-modal panel" onclick="event.stopPropagation()">
         <div class="modal-head">
           <h2>选择学习者</h2>
           <button type="button" data-close-modal>关闭</button>
         </div>
-        <p class="muted">${state.serverReady ? "使用旧版单词学习同一批用户，记录会保存到 storage/users。" : "当前没有连接 Node 服务端，先使用浏览器本地用户记录。"}</p>
+        <p class="muted">${state.serverReady ? "单词学习和句子学习共用同一批服务端用户，记录会保存到 storage/users。" : "当前没有连接 Node 服务端。请通过 5173 或 server.mjs 访问，连接后才能创建和选择用户。"}</p>
         <div class="user-create-row">
           <input id="newUserName" placeholder="输入学习者名字" maxlength="20" />
-          <button class="primary" type="button" data-create-user>新建</button>
+          <button class="primary" type="button" data-create-user ${state.serverReady ? "" : "disabled"}>新建服务端用户</button>
         </div>
+        <div class="feedback" id="userFeedback"></div>
         <div class="user-list">
           ${state.users.length ? state.users.map((user) => `
             <button class="user-choice ${state.user?.id === user.id ? "active" : ""}" type="button" data-select-user="${escapeAttr(user.id)}">
               <strong>${escapeHtml(user.name)}</strong>
               <span>${escapeHtml(user.updatedAt || user.createdAt || "")}</span>
             </button>
-          `).join("") : `<div class="empty muted">还没有学习者。</div>`}
+          `).join("") : `<div class="empty muted">${state.serverReady ? "还没有学习者。" : "未连接服务端，无法读取用户。"}</div>`}
         </div>
       </section>
     </div>
   `;
-  modalMount.querySelector("[data-close-modal]")?.addEventListener("click", closeModal);
-  modalMount.querySelector("[data-create-user]")?.addEventListener("click", () => {
+  modalMount.querySelectorAll<HTMLElement>("[data-close-modal]").forEach((el) => el.addEventListener("click", closeModal));
+  modalMount.querySelector("[data-create-user]")?.addEventListener("click", async () => {
     const input = modalMount.querySelector<HTMLInputElement>("#newUserName");
-    createUser(input?.value || "").then(closeModal);
+    const ok = await createUser(input?.value || "");
+    if (ok) closeModal();
   });
   modalMount.querySelectorAll<HTMLButtonElement>("[data-select-user]").forEach((button) => {
     button.addEventListener("click", () => selectUser(button.dataset.selectUser || "").then(closeModal));
@@ -1818,13 +2227,68 @@ function closeModal() {
   if (modalMount) modalMount.innerHTML = "";
 }
 
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape" && appRoot.querySelector(".modal-backdrop")) {
+    closeModal();
+  }
+});
+
 function loadLearningDataForUser() {
-  const source = state.serverReady ? state.user : loadLocalData()[state.user?.id || ""];
-  const progress = source?.progress?.[PROGRESS_KEY] as SavedProgress | undefined;
+  const userId = state.user?.id || "";
+  const localSource = loadLocalData()[userId];
+  const primarySource = state.serverReady ? state.user : localSource;
+  const progress = loadProgressFromSources(primarySource, localSource);
   state.progress = progress || { selectedUnitKey: "", positions: {}, updatedAt: new Date().toISOString() };
-  state.learnedIds = new Set(source?.learned?.[SCOPE_KEY] || []);
-  state.wrongIds = new Set(source?.wrong?.[SCOPE_KEY] || []);
-  state.dailyLog = source?.daily?.[SCOPE_KEY] || {};
+  state.learnedIds = mergeIdSets(primarySource?.learned?.[SCOPE_KEY], localSource?.learned?.[SCOPE_KEY]);
+  state.wrongIds = mergeIdSets(primarySource?.wrong?.[SCOPE_KEY], localSource?.wrong?.[SCOPE_KEY]);
+  state.dailyLog = mergeDailyLogs(primarySource?.daily?.[SCOPE_KEY], localSource?.daily?.[SCOPE_KEY]);
+  if (state.serverReady && state.user && localSource) saveLearningData();
+}
+
+function loadProgressFromSources(...sources: Array<Partial<UserRecord> | null | undefined>): SavedProgress | null {
+  for (const key of [PROGRESS_KEY, LEGACY_PROGRESS_KEY]) {
+    for (const source of sources) {
+      const value = source?.progress?.[key];
+      if (isSavedProgress(value)) return normalizeSavedProgress(value);
+    }
+  }
+  return null;
+}
+
+function isSavedProgress(value: unknown): value is SavedProgress {
+  return Boolean(value && typeof value === "object" && "positions" in value);
+}
+
+function normalizeSavedProgress(progress: SavedProgress): SavedProgress {
+  return {
+    selectedUnitKey: String(progress.selectedUnitKey || ""),
+    positions: { ...(progress.positions || {}) },
+    updatedAt: String(progress.updatedAt || new Date().toISOString()),
+  };
+}
+
+function mergeIdSets(...lists: Array<string[] | undefined>): Set<string> {
+  return new Set(lists.flatMap((list) => Array.isArray(list) ? list : []));
+}
+
+function mergeDailyLogs(...logs: Array<DailyLog | undefined>): DailyLog {
+  const merged: DailyLog = {};
+  for (const log of logs) {
+    if (!log || typeof log !== "object") continue;
+    for (const [date, day] of Object.entries(log)) {
+      const target = merged[date] || { viewed: [], correct: [], wrong: [], records: [] };
+      target.viewed = mergeStringArrays(target.viewed, day.viewed);
+      target.correct = mergeStringArrays(target.correct, day.correct);
+      target.wrong = mergeStringArrays(target.wrong, day.wrong);
+      target.records = [...(target.records || []), ...(day.records || [])].slice(-500);
+      merged[date] = target;
+    }
+  }
+  return merged;
+}
+
+function mergeStringArrays(...lists: Array<string[] | undefined>): string[] {
+  return Array.from(new Set(lists.flatMap((list) => Array.isArray(list) ? list : [])));
 }
 
 function saveCurrentProgress() {
@@ -1889,9 +2353,13 @@ function recordPractice(item: RuntimeLearningItem, correct: boolean, selected = 
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
-        profile: "junior",
+        profile: SENTENCE_PROFILE,
         category: state.selectedUnitKey,
         mode: MODE,
+        itemId: item.id,
+        contentId: item.contentId,
+        type: item.type,
+        english: item.fullEnglish,
         wordId: item.id,
         word: item.fullEnglish,
         selected,
@@ -1917,11 +2385,39 @@ function loadUserSession(): UserSummary | null {
 }
 
 function loadLocalUsers(): UserSummary[] {
+  return readUsersFromStorage(LOCAL_USERS_KEY);
+}
+
+function migrateSharedLocalUsers() {
+  const users = mergeUsers(readUsersFromStorage(LOCAL_USERS_KEY), readUsersFromStorage(LEGACY_SENTENCE_LOCAL_USERS_KEY));
+  if (users.length) saveLocalUsers(users);
+}
+
+function readUsersFromStorage(key: string): UserSummary[] {
   try {
-    return JSON.parse(localStorage.getItem(LOCAL_USERS_KEY) || "[]");
+    const users = JSON.parse(localStorage.getItem(key) || "[]");
+    return Array.isArray(users)
+      ? users.filter((user): user is UserSummary => Boolean(user?.id && user?.name))
+      : [];
   } catch {
     return [];
   }
+}
+
+function saveLocalUsers(users: UserSummary[]) {
+  localStorage.setItem(LOCAL_USERS_KEY, JSON.stringify(mergeUsers(users)));
+}
+
+function mergeUsers(...groups: UserSummary[][]): UserSummary[] {
+  const map = new Map<string, UserSummary>();
+  for (const user of groups.flat()) {
+    if (!user?.id || !user?.name) continue;
+    const previous = map.get(user.id);
+    const currentTime = String(user.updatedAt || user.createdAt || "");
+    const previousTime = String(previous?.updatedAt || previous?.createdAt || "");
+    if (!previous || currentTime.localeCompare(previousTime) > 0) map.set(user.id, user);
+  }
+  return Array.from(map.values()).sort((a, b) => a.name.localeCompare(b.name, "zh-CN"));
 }
 
 function loadLocalData(): Record<string, Partial<UserRecord>> {
@@ -1953,6 +2449,23 @@ function playSound(kind: keyof typeof SOUND_URLS) {
   }
 }
 
+function loadTtsSettings(): TtsSettings {
+  try {
+    const raw = localStorage.getItem(TTS_SETTINGS_KEY);
+    if (raw) {
+      const parsed = JSON.parse(raw);
+      return { ...DEFAULT_TTS_SETTINGS, ...parsed };
+    }
+  } catch {
+    // fall through
+  }
+  return { ...DEFAULT_TTS_SETTINGS };
+}
+
+function saveTtsSettings() {
+  localStorage.setItem(TTS_SETTINGS_KEY, JSON.stringify(ttsSettings));
+}
+
 function speak(text: string, options: { restart?: boolean } = {}) {
   if (!text) return;
   if (state.isSpeaking && !options.restart) return;
@@ -1960,65 +2473,98 @@ function speak(text: string, options: { restart?: boolean } = {}) {
   const runId = ++speechRunId;
   stopCurrentSpeech();
   setSpeakingState(true);
-  void playEdgeTtsAudio(text, runId).catch(() => playBrowserTts(text, runId));
+
+  const totalPlays = Math.max(1, ttsSettings.playCount);
+  const interval = Math.max(200, ttsSettings.playInterval);
+
+  const playOnce = (attempt: number) => {
+    if (speechRunId !== runId) return;
+    void playTtsOnce(text, runId).then(() => {
+      if (speechRunId !== runId) return;
+      if (attempt < totalPlays) {
+        window.setTimeout(() => playOnce(attempt + 1), interval);
+      } else {
+        setSpeakingState(false);
+      }
+    }).catch(() => {
+      if (speechRunId === runId) setSpeakingState(false);
+    });
+  };
+  playOnce(1);
 }
 
-async function playEdgeTtsAudio(text: string, runId: number) {
-  const response = await fetch(`${API_BASE}/tts/edge`, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify({
-      input: text,
-      voice: "en-US-JennyNeural",
-      speed: 0.86,
-      pitch: 0,
-      volume: 0,
-      style: "general",
-    }),
+function playTtsOnce(text: string, runId: number): Promise<void> {
+  return new Promise((resolve, reject) => {
+    if (ttsSettings.service === "browser") {
+      playBrowserTts(text, runId, resolve, reject);
+      return;
+    }
+    let settled = false;
+    let edgeEnded = false;
+    let fallbackStarted = false;
+    const done = (ok: boolean) => {
+      if (settled) return;
+      settled = true;
+      if (ok) resolve();
+      else reject();
+    };
+    playEdgeTtsAudio(text, runId, () => {
+      edgeEnded = true;
+      done(true);
+    }, () => {
+      if (edgeEnded) return;
+      if (fallbackStarted) return;
+      fallbackStarted = true;
+      playBrowserTts(text, runId, () => done(true), () => done(false));
+    });
   });
-  if (!response.ok) throw new Error("edge_tts_failed");
-  const blob = await response.blob();
-  if (speechRunId !== runId) return;
-  const objectUrl = URL.createObjectURL(blob);
-  currentSpeechObjectUrl = objectUrl;
-  const audio = new Audio(objectUrl);
-  currentSpeechAudio = audio;
-  audio.onended = () => {
-    if (speechRunId === runId) {
-      cleanupCurrentSpeechAudio();
-      setSpeakingState(false);
-    }
-  };
-  audio.onerror = () => {
-    cleanupCurrentSpeechAudio();
-    if (speechRunId === runId) {
-      void playBrowserTts(text, runId);
-    }
-  };
-  await audio.play();
 }
 
-async function playBrowserTts(text: string, runId: number) {
+function playEdgeTtsAudio(text: string, runId: number, onEnded: () => void, onError: () => void) {
+  let errorHandled = false;
+  const handleError = () => {
+    if (errorHandled) return;
+    errorHandled = true;
+    if (speechRunId === runId) {
+      currentSpeechAudio = null;
+      onError();
+    }
+  };
+  fetchTtsAudioBlob(text).then((objectUrl) => {
+    if (speechRunId !== runId) return;
+    const audio = new Audio(objectUrl);
+    currentSpeechAudio = audio;
+    audio.onended = () => {
+      if (speechRunId === runId) {
+        currentSpeechAudio = null;
+        onEnded();
+      }
+    };
+    audio.onerror = () => handleError();
+    audio.play().catch(() => handleError());
+  }).catch(() => {
+    handleError();
+  });
+}
+
+function playBrowserTts(text: string, runId: number, onEnded: () => void, onError: () => void) {
   cleanupCurrentSpeechAudio();
   if (!("speechSynthesis" in window)) {
-    if (speechRunId === runId) setSpeakingState(false);
+    if (speechRunId === runId) onError();
     return;
   }
   window.speechSynthesis.cancel();
   const utterance = new SpeechSynthesisUtterance(text);
   utterance.lang = "en-US";
-  utterance.rate = 0.82;
-  utterance.pitch = 1;
+  utterance.rate = ttsSettings.browserRate;
+  utterance.pitch = ttsSettings.browserPitch;
   utterance.onend = () => {
-    if (speechRunId === runId) setSpeakingState(false);
+    if (speechRunId === runId) onEnded();
   };
   utterance.onerror = () => {
-    if (speechRunId === runId) setSpeakingState(false);
+    if (speechRunId === runId) onError();
   };
-
-  await getPreferredSpeechVoice().then((voice) => {
+  getPreferredSpeechVoice().then((voice) => {
     if (speechRunId !== runId) return;
     if (voice) {
       utterance.voice = voice;

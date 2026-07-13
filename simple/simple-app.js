@@ -27,13 +27,17 @@ const LEARNING_MODES = ["spelling", "en-cn", "cn-en"];
 const PAGE_SIZE = 20;
 const AUTO_SPEAK_TIMES = 1;
 const USER_SESSION_KEY = "enstudy.simple.activeUser.v1";
+const LOCAL_USERS_KEY = "enstudy.simple.localUsers.v1";
+const LEGACY_SENTENCE_LOCAL_USERS_KEY = "enstudy.sentence.localUsers.v1";
 const MODE_KEY = `enstudy.simple.${PROFILE}.mode.v1`;
 const CATEGORY_KEY = `enstudy.simple.${PROFILE}.category.v1`;
 const STORED_MODE = localStorage.getItem(MODE_KEY) || "spelling";
 const INITIAL_MODE = LEARNING_MODES.includes(STORED_MODE) ? STORED_MODE : "spelling";
-const API_BASE = "./api";
+const API_BASE = "/api";
+const SERVER_MIGRATION_PREFIX = "enstudy.simple.serverMigration";
 const PAGE_PARAMS = new URLSearchParams(window.location.search);
 migrateLegacyLocalStorage(PROFILE);
+migrateSharedLocalUsers();
 const INITIAL_CATEGORY = PAGE_PARAMS.has("category")
   ? PAGE_PARAMS.get("category") || ""
   : localStorage.getItem(categoryStorageKey(PROFILE, INITIAL_MODE)) || localStorage.getItem(CATEGORY_KEY) || "";
@@ -55,7 +59,7 @@ const state = {
   wrongIds: new Set(),
   user: null,
   serverReady: false,
-  serverMessage: "本地模式",
+  serverMessage: "未连接服务端",
   serverUserLoaded: false,
   mode: INITIAL_MODE,
   streak: 0,
@@ -91,14 +95,13 @@ async function init() {
   } else if (PAGE_PARAMS.has("category")) {
     localStorage.removeItem(categoryStorageKey(PROFILE, state.mode));
   }
-  state.user = loadUserSession();
   state.serverReady = await checkServerReady();
   state.learnedIds = loadLearned();
   state.wrongIds = loadWrong();
   state.index = clamp(Number(localStorage.getItem(progressKey()) || 0), 0, state.entries.length - 1);
-  if (state.user && state.serverReady) await loadUserProgress();
+  if (state.serverReady) await restoreServerUserSession();
   render();
-  if (state.serverReady && !state.user) openUserModal();
+  if (!state.user) openUserModal();
 }
 
 async function loadJson(url) {
@@ -284,8 +287,8 @@ function renderLearnedBadge(isLearned) {
 }
 
 function renderUserBadge() {
-  const label = state.user ? state.user.name : state.serverReady ? "未选择用户" : "本地模式";
-  const title = state.serverReady ? "学习记录会保存到服务端文件" : "未启动服务端，学习记录只保存在本机浏览器";
+  const label = state.user ? state.user.name : state.serverReady ? "未选择用户" : "未连接服务端";
+  const title = state.serverReady ? "单词和句子共用同一个服务端用户" : "未连接 Node 服务端，不能创建或同步用户";
   return `
     <div class="user-badge ${state.user ? "active" : ""}" title="${escapeAttr(title)}">
       <span>人</span>
@@ -1019,7 +1022,7 @@ function openSettingsModal() {
 }
 
 async function openUserModal() {
-  const users = state.serverReady ? await apiGetUsers().catch(() => []) : [];
+  const users = await loadAvailableUsers();
   document.querySelector("#modalMount").innerHTML = `
     <div class="modal-backdrop">
       <section class="modal panel user-modal">
@@ -1027,10 +1030,10 @@ async function openUserModal() {
           <h2>学习用户</h2>
           <button id="closeModalBtn" type="button">关闭</button>
         </div>
-        <p class="muted">${state.serverReady ? "输入新名字会检查是否重名；选择已有用户会从服务端文件读取学习记录。" : "当前没有启动 Node 服务端，只能使用浏览器本地记录。"}</p>
+        <p class="muted">${state.serverReady ? "单词学习和句子学习共用同一批服务端用户，学习记录会保存到 storage/users。" : "当前没有连接 Node 服务端。请通过 5173 或 server.mjs 访问，连接后才能创建和选择用户。"}</p>
         <div class="user-create-row">
           <input id="userNameInput" maxlength="20" placeholder="输入学习者名字" />
-          <button class="primary" id="createUserBtn" type="button" ${state.serverReady ? "" : "disabled"}>创建用户</button>
+          <button class="primary" id="createUserBtn" type="button" ${state.serverReady ? "" : "disabled"}>创建服务端用户</button>
         </div>
         <div class="feedback" id="userFeedback"></div>
         <div class="user-list">
@@ -1041,7 +1044,7 @@ async function openUserModal() {
                 <span>${escapeHtml(user.updatedAt ? `更新：${formatDateTime(user.updatedAt)}` : "未开始")}</span>
               </button>
             `).join("")
-            : `<div class="empty-state">${state.serverReady ? "还没有用户，请先创建。" : "启动 node server.mjs 后可保存到服务端文件。"}</div>`}
+            : `<div class="empty-state">${state.serverReady ? "还没有用户，请先创建。" : "未连接服务端，无法读取用户。"}</div>`}
         </div>
       </section>
     </div>
@@ -1050,13 +1053,7 @@ async function openUserModal() {
   document.querySelector("#createUserBtn")?.addEventListener("click", createUserFromModal);
   document.querySelectorAll("[data-user-id]").forEach((button) => {
     button.addEventListener("click", async () => {
-      const user = users.find((item) => item.id === button.dataset.userId);
-      if (!user) return;
-      state.user = user;
-      saveUserSession(user);
-      await loadUserProgress();
-      closeWordList();
-      render();
+      await selectUserFromModal(button.dataset.userId || "", users);
     });
   });
 }
@@ -1070,11 +1067,19 @@ async function createUserFromModal() {
     feedback.className = "feedback bad";
     return;
   }
+  if (!state.serverReady) {
+    feedback.textContent = "当前没有连接 Node 服务端，不能创建本地用户。";
+    feedback.className = "feedback bad";
+    playSound("bad");
+    return;
+  }
   try {
     const user = await apiCreateUser(name);
     state.user = user;
     saveUserSession(user);
-    await syncUserProgress();
+    await migrateLocalProgressToServer(user.id);
+    await loadUserProgress();
+    await flushUserProgressSync();
     closeWordList();
     render();
   } catch (error) {
@@ -1082,6 +1087,18 @@ async function createUserFromModal() {
     feedback.className = "feedback bad";
     playSound("bad");
   }
+}
+
+async function selectUserFromModal(userId, users) {
+  if (!state.serverReady) return;
+  const serverUser = users.find((item) => item.id === userId);
+  if (!serverUser) return;
+  state.user = serverUser;
+  saveUserSession(serverUser);
+  await migrateLocalProgressToServer(serverUser.id);
+  await loadUserProgress();
+  closeWordList();
+  render();
 }
 
 function startPractice(mode) {
@@ -1745,7 +1762,7 @@ async function loadUserProgress() {
     localStorage.setItem(dailyStorageKey(), JSON.stringify(user.daily?.[scopedKey] || {}));
     state.serverUserLoaded = true;
   } catch {
-    state.serverReady = false;
+    state.serverMessage = "读取服务端学习记录失败";
   }
 }
 
@@ -1774,9 +1791,28 @@ function syncUserProgress(options = {}) {
         }
       })
       .catch(() => {
-        state.serverMessage = "服务端同步失败，已保留本地记录";
+        state.serverMessage = "服务端同步失败，请检查 Node 服务端";
       });
   }, 180);
+}
+
+async function flushUserProgressSync(options = {}) {
+  if (!state.user || !state.serverReady) return;
+  if (options.resetMode) pendingSyncResets.push({ profile: PROFILE, mode: state.mode });
+  window.clearTimeout(syncTimer);
+  const resets = pendingSyncResets;
+  pendingSyncResets = [];
+  const response = await fetch(`${API_BASE}/users/${encodeURIComponent(state.user.id)}/progress`, {
+    method: "PUT",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(buildUserProgressPayload({ resets })),
+  });
+  if (!response.ok) throw new Error("保存用户学习记录失败");
+  const data = await response.json();
+  if (data.user) {
+    state.user = { id: data.user.id, name: data.user.name, createdAt: data.user.createdAt, updatedAt: data.user.updatedAt };
+    saveUserSession(state.user);
+  }
 }
 
 function buildUserProgressPayload({ resets = [] } = {}) {
@@ -1791,11 +1827,154 @@ function buildUserProgressPayload({ resets = [] } = {}) {
   };
 }
 
+async function migrateLocalProgressToServer(userId) {
+  if (!state.serverReady || !userId) return;
+  const marker = `${SERVER_MIGRATION_PREFIX}.${userId}.v1`;
+  if (localStorage.getItem(marker) === "done") return;
+  const response = await fetch(`${API_BASE}/users/${encodeURIComponent(userId)}/progress`, { cache: "no-store" });
+  if (!response.ok) return;
+  const data = await response.json();
+  const payload = buildLocalProgressMigrationPayload(data.user || {});
+  if (!hasMigrationPayload(payload)) {
+    localStorage.setItem(marker, "done");
+    return;
+  }
+  const saveResponse = await fetch(`${API_BASE}/users/${encodeURIComponent(userId)}/progress`, {
+    method: "PUT",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(payload),
+  });
+  if (saveResponse.ok) localStorage.setItem(marker, "done");
+}
+
+function buildLocalProgressMigrationPayload(serverUser) {
+  const payload = { progress: {}, learned: {}, wrong: {}, daily: {} };
+  const serverProgress = serverUser.progress || {};
+  const serverLearned = serverUser.learned || {};
+  const serverWrong = serverUser.wrong || {};
+  const serverDaily = serverUser.daily || {};
+
+  for (const key of Object.keys(localStorage)) {
+    if (!/^enstudy\.simple\.(primary|junior)\.(spelling|en-cn|cn-en)\.progress/.test(key)) continue;
+    const value = Number(localStorage.getItem(key));
+    if (Number.isFinite(value) && serverProgress[key] == null) payload.progress[key] = value;
+  }
+
+  for (const profile of ["primary", "junior"]) {
+    for (const mode of LEARNING_MODES) {
+      const scopedKey = `${profile}:${mode}`;
+      const learned = mergeArrays(serverLearned[scopedKey], readJsonArray(learnedStorageKey(profile, mode)));
+      if (learned.length > (Array.isArray(serverLearned[scopedKey]) ? serverLearned[scopedKey].length : 0)) {
+        payload.learned[scopedKey] = learned;
+      }
+      const wrong = mergeArrays(serverWrong[scopedKey], readJsonArray(wrongStorageKey(profile, mode)));
+      if (wrong.length > (Array.isArray(serverWrong[scopedKey]) ? serverWrong[scopedKey].length : 0)) {
+        payload.wrong[scopedKey] = wrong;
+      }
+      const localDaily = readJsonObject(dailyStorageKey(profile, mode));
+      const daily = mergeSimpleDailyLogs(serverDaily[scopedKey], localDaily);
+      if (Object.keys(localDaily).length && JSON.stringify(daily) !== JSON.stringify(serverDaily[scopedKey] || {})) {
+        payload.daily[scopedKey] = daily;
+      }
+    }
+  }
+
+  return payload;
+}
+
+function hasMigrationPayload(payload) {
+  return Boolean(
+    Object.keys(payload.progress || {}).length
+    || Object.keys(payload.learned || {}).length
+    || Object.keys(payload.wrong || {}).length
+    || Object.keys(payload.daily || {}).length
+  );
+}
+
+function readJsonArray(key) {
+  try {
+    const value = JSON.parse(localStorage.getItem(key) || "[]");
+    return Array.isArray(value) ? value : [];
+  } catch {
+    return [];
+  }
+}
+
+function readJsonObject(key) {
+  try {
+    const value = JSON.parse(localStorage.getItem(key) || "{}");
+    return value && typeof value === "object" && !Array.isArray(value) ? value : {};
+  } catch {
+    return {};
+  }
+}
+
+function mergeArrays(...lists) {
+  return Array.from(new Set(lists.flatMap((list) => Array.isArray(list) ? list : [])));
+}
+
+function mergeSimpleDailyLogs(...logs) {
+  const merged = {};
+  for (const log of logs) {
+    if (!log || typeof log !== "object") continue;
+    for (const [date, day] of Object.entries(log)) {
+      const target = merged[date] || { viewed: [], learned: [], wrong: [] };
+      target.viewed = mergeArrays(target.viewed, day?.viewed);
+      target.learned = mergeArrays(target.learned, day?.learned);
+      target.wrong = mergeArrays(target.wrong, day?.wrong);
+      merged[date] = target;
+    }
+  }
+  return merged;
+}
+
 async function apiGetUsers() {
   const response = await fetch(`${API_BASE}/users`, { cache: "no-store" });
   if (!response.ok) throw new Error("读取用户失败");
   const data = await response.json();
   return data.users || [];
+}
+
+async function loadAvailableUsers() {
+  if (!state.serverReady) return [];
+  try {
+    return await apiGetUsers();
+  } catch {
+    state.serverReady = false;
+    return [];
+  }
+}
+
+async function restoreServerUserSession() {
+  const cachedUser = loadUserSession();
+  if (!cachedUser?.id && !cachedUser?.name) return;
+  const user = await findOrCreateServerUser(cachedUser);
+  if (!user) return;
+  state.user = user;
+  saveUserSession(user);
+  await migrateLocalProgressToServer(user.id);
+  await loadUserProgress();
+}
+
+async function findOrCreateServerUser(candidate) {
+  if (!state.serverReady) return null;
+  if (candidate?.id) {
+    try {
+      const response = await fetch(`${API_BASE}/users/${encodeURIComponent(candidate.id)}/progress`, { cache: "no-store" });
+      if (response.ok) {
+        const data = await response.json();
+        return data.user;
+      }
+    } catch {
+      return null;
+    }
+  }
+  const name = String(candidate?.name || "").trim();
+  if (!name) return null;
+  const users = await apiGetUsers().catch(() => []);
+  const existing = users.find((user) => user.name.toLowerCase() === name.toLowerCase());
+  if (existing) return existing;
+  return apiCreateUser(name).catch(() => null);
 }
 
 async function apiCreateUser(name) {
@@ -1819,6 +1998,40 @@ function loadUserSession() {
 
 function saveUserSession(user) {
   localStorage.setItem(USER_SESSION_KEY, JSON.stringify({ id: user.id, name: user.name, createdAt: user.createdAt, updatedAt: user.updatedAt }));
+}
+
+function migrateSharedLocalUsers() {
+  const users = mergeUsers(readUsersFromStorage(LOCAL_USERS_KEY), readUsersFromStorage(LEGACY_SENTENCE_LOCAL_USERS_KEY));
+  if (users.length) localStorage.setItem(LOCAL_USERS_KEY, JSON.stringify(users));
+}
+
+function loadLocalUsers() {
+  return readUsersFromStorage(LOCAL_USERS_KEY);
+}
+
+function readUsersFromStorage(key) {
+  try {
+    const users = JSON.parse(localStorage.getItem(key) || "[]");
+    return Array.isArray(users) ? users.filter((user) => user?.id && user?.name) : [];
+  } catch {
+    return [];
+  }
+}
+
+function saveLocalUsers(users) {
+  localStorage.setItem(LOCAL_USERS_KEY, JSON.stringify(mergeUsers(users)));
+}
+
+function mergeUsers(...groups) {
+  const map = new Map();
+  for (const user of groups.flat()) {
+    if (!user?.id || !user?.name) continue;
+    const previous = map.get(user.id);
+    if (!previous || String(user.updatedAt || user.createdAt || "").localeCompare(String(previous.updatedAt || previous.createdAt || "")) > 0) {
+      map.set(user.id, user);
+    }
+  }
+  return Array.from(map.values()).sort((a, b) => a.name.localeCompare(b.name, "zh-CN"));
 }
 
 function practiceStorageKey(mode) {
