@@ -965,10 +965,18 @@ function renderKeyboardWordUnit(unit: SpellingUnit): string {
   const active = state.activeUnitIndex === unit.index ? " active" : "";
   const answerCharacters = getSpellingCharacters(unit.answer);
   const typedCharacters = getSpellingCharacters(value);
-  const content = typedCharacters.length
-    ? typedCharacters.map(displaySpellingCharacter).join("")
-    : displayBlank(unit.blank);
   const width = Math.max(90, Math.min(320, answerCharacters.length * 20 + 42));
+  const slots = answerCharacters.map((answerCharacter, index) => {
+    const typedCharacter = typedCharacters[index] || "";
+    const display = typedCharacter
+      ? displaySpellingCharacter(typedCharacter)
+      : answerCharacter === "'"
+        ? "’"
+        : "";
+    const filled = typedCharacter ? " filled" : "";
+    const apostrophe = answerCharacter === "'" ? " apostrophe" : "";
+    return `<span class="keyboard-letter-slot${filled}${apostrophe}">${escapeHtml(display)}</span>`;
+  }).join("");
   return `
     <span class="choice-wrap keyboard-unit-wrap">
       <button
@@ -977,7 +985,7 @@ function renderKeyboardWordUnit(unit: SpellingUnit): string {
         data-keyboard-word="${unit.index}"
         style="--keyboard-width:${width}px"
         title="点击选中此空，字母键输入，退格键删除"
-      >${escapeHtml(content)}</button>
+      >${slots}</button>
     </span>
   `;
 }
@@ -1476,6 +1484,8 @@ function appendTextToUnit(item: RuntimeLearningItem, unit: SpellingUnit, text: s
     const status = getUnitStatus(unit, state.answers[unit.index]);
     if (status === "wrong") {
       markWrong(item, state.answers[unit.index]);
+      playSound("bad");
+      flashReward("拼写不对，按退格修改一下");
     } else {
       state.activeUnitIndex = getNextEmptyFillableIndex(item) ?? unit.index;
     }

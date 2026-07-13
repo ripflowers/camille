@@ -1623,16 +1623,53 @@ p {
 }
 
 .keyboard-blank {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
   min-width: var(--keyboard-width, 90px);
   font-variant-ligatures: none;
   letter-spacing: 0;
 }
 
-.keyboard-blank.active {
+.keyboard-blank.active:not(.correct):not(.wrong) {
   border-color: var(--color-accent);
   background: var(--color-accent-soft);
   color: var(--color-accent-strong);
   box-shadow: 0 0 0 3px rgba(42, 164, 161, 0.13);
+}
+
+.keyboard-letter-slot {
+  display: inline-grid;
+  place-items: center;
+  width: 18px;
+  height: 28px;
+  border-bottom: 3px solid var(--border-strong);
+  color: var(--text-primary);
+  font-size: var(--fs-xl);
+  font-weight: var(--fw-semibold);
+  line-height: 1;
+  text-transform: lowercase;
+}
+
+.keyboard-letter-slot.filled {
+  border-bottom-color: currentColor;
+}
+
+.keyboard-letter-slot.apostrophe {
+  width: 10px;
+  border-bottom-style: dashed;
+  color: #a56a14;
+}
+
+.keyboard-blank.correct .keyboard-letter-slot {
+  border-bottom-color: var(--color-success-border);
+  color: var(--color-success);
+}
+
+.keyboard-blank.wrong .keyboard-letter-slot {
+  border-bottom-color: var(--color-danger-border);
+  color: var(--color-danger);
 }
 
 .letter-bank {
