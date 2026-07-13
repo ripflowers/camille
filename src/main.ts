@@ -80,6 +80,8 @@ interface PracticeRecord {
 
 interface SavedProgress {
   selectedUnitKey: string;
+  selectedPackageName?: string;
+  selectedUnitTitle?: string;
   positions: Record<string, number>;
   updatedAt: string;
 }
@@ -133,6 +135,15 @@ interface CourseSummary {
   typeCounts: Partial<Record<LearningType, number>>;
   previewChinese: string;
   grade: string;
+}
+
+interface ContinueLearningTarget {
+  unit: UnitGroup;
+  position: number;
+  currentPosition: number;
+  totalItems: number;
+  learnedCount: number;
+  progressPercent: number;
 }
 
 const API_BASE = "/api";
@@ -549,6 +560,7 @@ function renderList() {
           <p class="muted">先选择课程，再进入单元。单词、短语和句子会在同一个单元里混合练习。</p>
         </div>
       </div>
+      ${renderContinueLearningCard()}
       <div class="course-pack-groups">
         ${groupedCourses.map(([group, courses]) => `
           <section class="course-pack-group">
@@ -569,6 +581,7 @@ function renderList() {
       void renderCourseDetail(button.dataset.openCourse || "");
     });
   });
+  bindContinueLearningEvents();
 }
 
 async function renderCourseDetail(packageName: string) {
@@ -604,6 +617,7 @@ async function renderCourseDetail(packageName: string) {
           <span>课程进度</span>
         </div>
       </div>
+      ${renderContinueLearningCard(packageName)}
       <div class="unit-compact-grid">${units.map(renderUnitCard).join("")}</div>
     </section>
   `);
@@ -627,6 +641,66 @@ async function renderCourseDetail(packageName: string) {
       requestResetUnitProgress(button.dataset.resetUnit || "");
     });
   });
+  bindContinueLearningEvents();
+}
+
+function bindContinueLearningEvents() {
+  appRoot.querySelectorAll<HTMLButtonElement>("[data-continue-learning]").forEach((button) => {
+    button.addEventListener("click", () => {
+      playSound("click");
+      const unitKey = button.dataset.continueLearning || "";
+      void openContinueLearning(unitKey);
+    });
+  });
+}
+
+async function openContinueLearning(unitKey = "") {
+  const target = getContinueLearningTargetByKey(unitKey) || getContinueLearningTarget();
+  if (!target) return;
+  await openUnit(target.unit.key, target.position);
+}
+
+function renderContinueLearningCard(packageName = ""): string {
+  const target = getContinueLearningTarget(packageName);
+  if (!target) return "";
+  const scopeLabel = packageName ? "继续本课程" : "继续上次课程";
+  const unitTitle = formatUnitTitle(target.unit);
+  const courseTitle = target.unit.packageName || state.progress.selectedPackageName || "上次课程";
+  return `
+    <section class="continue-learning-card" aria-label="${escapeAttr(scopeLabel)}">
+      <div class="continue-learning-copy">
+        <span class="level-chip">${escapeHtml(scopeLabel)}</span>
+        <h3>${escapeHtml(courseTitle)}</h3>
+        <p>${escapeHtml(unitTitle)} · 第 ${target.currentPosition}/${target.totalItems} 题 · 已学 ${target.learnedCount}</p>
+        <span class="unit-progress-track" aria-hidden="true"><span style="width:${target.progressPercent}%"></span></span>
+      </div>
+      <button class="primary continue-learning-action" type="button" data-continue-learning="${escapeAttr(target.unit.key)}">继续学习</button>
+    </section>
+  `;
+}
+
+function getContinueLearningTarget(packageName = ""): ContinueLearningTarget | null {
+  const unitKey = state.progress.selectedUnitKey || state.selectedUnitKey;
+  return getContinueLearningTargetByKey(unitKey, packageName);
+}
+
+function getContinueLearningTargetByKey(unitKey: string, packageName = ""): ContinueLearningTarget | null {
+  if (!unitKey) return null;
+  const unit = state.units.find((candidate) => candidate.key === unitKey);
+  if (!unit || (packageName && unit.packageName !== packageName)) return null;
+  const totalItems = unit.itemCount || unit.items.length;
+  if (!totalItems) return null;
+  const position = clamp(Number(state.progress.positions?.[unit.key] || 0), 0, Math.max(0, totalItems - 1));
+  const itemIds = unit.itemIds?.length ? unit.itemIds : unit.items.map((item) => item.id);
+  const learnedCount = itemIds.filter((id) => state.learnedIds.has(id)).length;
+  return {
+    unit,
+    position,
+    currentPosition: Math.min(position + 1, totalItems),
+    totalItems,
+    learnedCount,
+    progressPercent: Math.round((learnedCount / Math.max(totalItems, 1)) * 100),
+  };
 }
 
 function renderCourseCard(course: CourseSummary): string {
@@ -2327,6 +2401,8 @@ function isSavedProgress(value: unknown): value is SavedProgress {
 function normalizeSavedProgress(progress: SavedProgress): SavedProgress {
   return {
     selectedUnitKey: String(progress.selectedUnitKey || ""),
+    selectedPackageName: String(progress.selectedPackageName || ""),
+    selectedUnitTitle: String(progress.selectedUnitTitle || ""),
     positions: { ...(progress.positions || {}) },
     updatedAt: String(progress.updatedAt || new Date().toISOString()),
   };
@@ -2358,7 +2434,10 @@ function mergeStringArrays(...lists: Array<string[] | undefined>): string[] {
 
 function saveCurrentProgress() {
   if (state.wrongReviewActive || !state.selectedUnitKey) return;
+  const unit = state.units.find((candidate) => candidate.key === state.selectedUnitKey);
   state.progress.selectedUnitKey = state.selectedUnitKey;
+  state.progress.selectedPackageName = unit?.packageName || state.selectedPackageName;
+  state.progress.selectedUnitTitle = unit ? formatUnitTitle(unit) : "";
   state.progress.positions[state.selectedUnitKey] = state.lessonPosition;
   state.progress.updatedAt = new Date().toISOString();
   saveLearningData();
