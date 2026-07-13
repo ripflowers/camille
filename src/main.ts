@@ -1920,28 +1920,23 @@ async function checkServerReady(): Promise<boolean> {
 }
 
 async function loadUsers() {
-  const localUsers = loadLocalUsers();
   if (state.serverReady) {
     try {
       const response = await fetch(`${API_BASE}/users`, { cache: "no-store" });
       if (!response.ok || !response.headers.get("content-type")?.includes("application/json")) throw new Error("users api unavailable");
       const data = await response.json();
-      state.users = mergeUsers(data.users || [], localUsers);
+      state.users = data.users || [];
       return;
     } catch {
       state.serverReady = false;
     }
   }
-  state.users = localUsers;
+  state.users = [];
 }
 
 async function restoreActiveUser() {
   const active = loadUserSession();
   if (active) await selectUser(active.id, false);
-  if (!state.user && !state.serverReady) {
-    const localUsers = loadLocalUsers();
-    if (localUsers[0]) await selectUser(localUsers[0].id, false);
-  }
 }
 
 async function selectUser(userId: string, rerender = true) {
@@ -1952,11 +1947,6 @@ async function selectUser(userId: string, rerender = true) {
       const data = await response.json();
       state.user = data.user;
     }
-  }
-  if (!state.user) {
-    const user = loadLocalUsers().find((candidate) => candidate.id === userId);
-    if (!user) return;
-    state.user = { ...user };
   }
   if (!state.user) return;
   localStorage.setItem(ACTIVE_USER_KEY, JSON.stringify({ id: state.user.id, name: state.user.name }));
@@ -1969,6 +1959,10 @@ async function createUser(name: string): Promise<boolean> {
   const feedback = appRoot.querySelector<HTMLElement>("#userFeedback");
   if (!cleanName) {
     showUserFeedback(feedback, "请输入名字。");
+    return false;
+  }
+  if (!state.serverReady) {
+    showUserFeedback(feedback, "当前没有连接 Node 服务端，不能创建本地用户。");
     return false;
   }
   if (state.serverReady) {
@@ -1987,16 +1981,7 @@ async function createUser(name: string): Promise<boolean> {
     await selectUser(data.user.id);
     return true;
   }
-  const users = loadLocalUsers();
-  if (users.some((user) => user.name.toLowerCase() === cleanName.toLowerCase())) {
-    showUserFeedback(feedback, "名字已存在，请换一个名字。");
-    return false;
-  }
-  const user = { id: `${encodeURIComponent(cleanName)}-${Date.now().toString(36)}`, name: cleanName, createdAt: new Date().toISOString() };
-  saveLocalUsers([...users, user]);
-  await loadUsers();
-  await selectUser(user.id);
-  return true;
+  return false;
 }
 
 function showUserFeedback(target: HTMLElement | null, message: string) {
@@ -2205,10 +2190,10 @@ function openUserModal() {
           <h2>选择学习者</h2>
           <button type="button" data-close-modal>关闭</button>
         </div>
-        <p class="muted">${state.serverReady ? "使用旧版单词学习同一批用户，记录会保存到 storage/users。" : "当前没有连接 Node 服务端，先使用浏览器本地用户记录。"}</p>
+        <p class="muted">${state.serverReady ? "单词学习和句子学习共用同一批服务端用户，记录会保存到 storage/users。" : "当前没有连接 Node 服务端。请通过 5173 或 server.mjs 访问，连接后才能创建和选择用户。"}</p>
         <div class="user-create-row">
           <input id="newUserName" placeholder="输入学习者名字" maxlength="20" />
-          <button class="primary" type="button" data-create-user>新建</button>
+          <button class="primary" type="button" data-create-user ${state.serverReady ? "" : "disabled"}>新建服务端用户</button>
         </div>
         <div class="feedback" id="userFeedback"></div>
         <div class="user-list">
@@ -2217,7 +2202,7 @@ function openUserModal() {
               <strong>${escapeHtml(user.name)}</strong>
               <span>${escapeHtml(user.updatedAt || user.createdAt || "")}</span>
             </button>
-          `).join("") : `<div class="empty muted">还没有学习者。</div>`}
+          `).join("") : `<div class="empty muted">${state.serverReady ? "还没有学习者。" : "未连接服务端，无法读取用户。"}</div>`}
         </div>
       </section>
     </div>
