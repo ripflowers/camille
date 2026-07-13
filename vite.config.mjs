@@ -1,5 +1,6 @@
 import { defineConfig } from "vite";
 import { handleEdgeTtsNodeRequest } from "./src/server/edge-tts.mjs";
+import { handleUserApiRequest } from "./src/server/users-api.mjs";
 
 export default defineConfig({
   server: {
@@ -8,15 +9,18 @@ export default defineConfig({
   },
   plugins: [
     {
-      name: "enstudy-edge-tts-dev-api",
+      name: "enstudy-dev-api",
       configureServer(server) {
         server.middlewares.use((request, response, next) => {
-          const url = new URL(request.url || "/", "http://127.0.0.1");
-          if (url.pathname !== "/api/tts/edge" && url.pathname !== "/v1/audio/speech") {
+          void (async () => {
+            const url = new URL(request.url || "/", "http://127.0.0.1");
+            if (await handleUserApiRequest(request, response, url)) return;
+            if (url.pathname === "/api/tts/edge" || url.pathname === "/v1/audio/speech") {
+              await handleEdgeTtsNodeRequest(request, response);
+              return;
+            }
             next();
-            return;
-          }
-          void handleEdgeTtsNodeRequest(request, response).catch(next);
+          })().catch(next);
         });
       },
     },
