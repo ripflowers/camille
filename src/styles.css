@@ -1481,34 +1481,65 @@ p {
 
 .footer-unit-actions button,
 .footer-question-actions button {
-  min-height: 38px;
-  padding: 7px 11px;
+  min-height: 42px;
+  padding: 8px 13px;
+  border-radius: var(--radius-md);
   font-size: var(--fs-base);
   font-weight: var(--fw-semibold);
+  box-shadow: 0 2px 0 var(--color-neutral-200);
 }
 
 .footer-question-actions {
   margin-left: auto;
 }
 
+.footer-unit-actions button[data-action="back-course"],
+.footer-unit-actions button[data-action="home"] {
+  border-color: var(--color-primary-border);
+  background: var(--color-primary-soft);
+  color: var(--color-primary-strong);
+  box-shadow: 0 2px 0 #c6e4f4;
+}
+
+.footer-unit-actions button[data-action="reset-unit"] {
+  border-color: var(--color-warning-border);
+  background: var(--color-warning-soft);
+  color: #9a6417;
+  box-shadow: 0 2px 0 #f5e1bc;
+}
+
+.footer-question-actions button[data-action="redo"] {
+  border-color: var(--color-warning-border);
+  background: #fff8df;
+  color: #8c6614;
+  box-shadow: 0 2px 0 #f5e1bc;
+}
+
+.footer-question-actions button[data-action="prev"] {
+  border-color: var(--color-primary-border);
+  background: var(--color-primary-soft);
+  color: var(--color-primary-strong);
+  box-shadow: 0 2px 0 #c6e4f4;
+}
+
 /* —— 主按钮（提交）更突出 —— */
 .footer-question-actions .primary {
-  min-width: 104px;
+  min-width: 86px;
   background: var(--color-accent);
   border-color: var(--color-accent);
   color: #fff;
   font-weight: var(--fw-semibold);
-  box-shadow: 0 3px 0 var(--color-accent-strong);
+  box-shadow: 0 2px 0 var(--color-accent-strong);
 }
 
 .footer-question-actions .primary:hover {
   background: var(--color-accent-strong);
   border-color: var(--color-accent-strong);
-  box-shadow: 0 4px 0 var(--color-accent-strong);
+  box-shadow: 0 2px 0 var(--color-accent-strong);
 }
 
 .footer-question-actions .primary:active {
-  box-shadow: 0 1px 0 var(--color-accent-strong);
+  box-shadow: none;
 }
 
 .danger {
