@@ -27,6 +27,8 @@ const LEARNING_MODES = ["spelling", "en-cn", "cn-en"];
 const PAGE_SIZE = 20;
 const AUTO_SPEAK_TIMES = 1;
 const USER_SESSION_KEY = "enstudy.simple.activeUser.v1";
+const LOCAL_USERS_KEY = "enstudy.simple.localUsers.v1";
+const LEGACY_SENTENCE_LOCAL_USERS_KEY = "enstudy.sentence.localUsers.v1";
 const MODE_KEY = `enstudy.simple.${PROFILE}.mode.v1`;
 const CATEGORY_KEY = `enstudy.simple.${PROFILE}.category.v1`;
 const STORED_MODE = localStorage.getItem(MODE_KEY) || "spelling";
@@ -34,6 +36,7 @@ const INITIAL_MODE = LEARNING_MODES.includes(STORED_MODE) ? STORED_MODE : "spell
 const API_BASE = "./api";
 const PAGE_PARAMS = new URLSearchParams(window.location.search);
 migrateLegacyLocalStorage(PROFILE);
+migrateSharedLocalUsers();
 const INITIAL_CATEGORY = PAGE_PARAMS.has("category")
   ? PAGE_PARAMS.get("category") || ""
   : localStorage.getItem(categoryStorageKey(PROFILE, INITIAL_MODE)) || localStorage.getItem(CATEGORY_KEY) || "";
@@ -1019,7 +1022,7 @@ function openSettingsModal() {
 }
 
 async function openUserModal() {
-  const users = state.serverReady ? await apiGetUsers().catch(() => []) : [];
+  const users = await loadAvailableUsers();
   document.querySelector("#modalMount").innerHTML = `
     <div class="modal-backdrop">
       <section class="modal panel user-modal">
@@ -1027,10 +1030,10 @@ async function openUserModal() {
           <h2>学习用户</h2>
           <button id="closeModalBtn" type="button">关闭</button>
         </div>
-        <p class="muted">${state.serverReady ? "输入新名字会检查是否重名；选择已有用户会从服务端文件读取学习记录。" : "当前没有启动 Node 服务端，只能使用浏览器本地记录。"}</p>
+        <p class="muted">${state.serverReady ? "输入新名字会检查是否重名；选择已有用户会从服务端文件读取学习记录。" : "当前没有连接 Node 服务端，会先使用浏览器本地用户；上线时请运行 server.mjs 保存到服务端。"}</p>
         <div class="user-create-row">
           <input id="userNameInput" maxlength="20" placeholder="输入学习者名字" />
-          <button class="primary" id="createUserBtn" type="button" ${state.serverReady ? "" : "disabled"}>创建用户</button>
+          <button class="primary" id="createUserBtn" type="button">${state.serverReady ? "创建用户" : "本地创建"}</button>
         </div>
         <div class="feedback" id="userFeedback"></div>
         <div class="user-list">
@@ -1041,7 +1044,7 @@ async function openUserModal() {
                 <span>${escapeHtml(user.updatedAt ? `更新：${formatDateTime(user.updatedAt)}` : "未开始")}</span>
               </button>
             `).join("")
-            : `<div class="empty-state">${state.serverReady ? "还没有用户，请先创建。" : "启动 node server.mjs 后可保存到服务端文件。"}</div>`}
+            : `<div class="empty-state">还没有用户，请先创建。</div>`}
         </div>
       </section>
     </div>
@@ -1050,13 +1053,7 @@ async function openUserModal() {
   document.querySelector("#createUserBtn")?.addEventListener("click", createUserFromModal);
   document.querySelectorAll("[data-user-id]").forEach((button) => {
     button.addEventListener("click", async () => {
-      const user = users.find((item) => item.id === button.dataset.userId);
-      if (!user) return;
-      state.user = user;
-      saveUserSession(user);
-      await loadUserProgress();
-      closeWordList();
-      render();
+      await selectUserFromModal(button.dataset.userId || "", users);
     });
   });
 }
@@ -1071,10 +1068,10 @@ async function createUserFromModal() {
     return;
   }
   try {
-    const user = await apiCreateUser(name);
+    const user = state.serverReady ? await apiCreateUser(name) : createLocalUser(name);
     state.user = user;
     saveUserSession(user);
-    await syncUserProgress();
+    if (state.serverReady) await flushUserProgressSync();
     closeWordList();
     render();
   } catch (error) {
@@ -1082,6 +1079,18 @@ async function createUserFromModal() {
     feedback.className = "feedback bad";
     playSound("bad");
   }
+}
+
+async function selectUserFromModal(userId, users) {
+  const localUser = users.find((item) => item.id === userId);
+  if (!localUser) return;
+  state.user = localUser;
+  saveUserSession(localUser);
+  if (state.serverReady) {
+    await loadUserProgress();
+  }
+  closeWordList();
+  render();
 }
 
 function startPractice(mode) {
@@ -1779,6 +1788,25 @@ function syncUserProgress(options = {}) {
   }, 180);
 }
 
+async function flushUserProgressSync(options = {}) {
+  if (!state.user || !state.serverReady) return;
+  if (options.resetMode) pendingSyncResets.push({ profile: PROFILE, mode: state.mode });
+  window.clearTimeout(syncTimer);
+  const resets = pendingSyncResets;
+  pendingSyncResets = [];
+  const response = await fetch(`${API_BASE}/users/${encodeURIComponent(state.user.id)}/progress`, {
+    method: "PUT",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(buildUserProgressPayload({ resets })),
+  });
+  if (!response.ok) throw new Error("保存用户学习记录失败");
+  const data = await response.json();
+  if (data.user) {
+    state.user = { id: data.user.id, name: data.user.name, createdAt: data.user.createdAt, updatedAt: data.user.updatedAt };
+    saveUserSession(state.user);
+  }
+}
+
 function buildUserProgressPayload({ resets = [] } = {}) {
   const scopedKey = profileModeKey();
   const progressIndex = state.wrongReview?.active ? (state.wrongReview.returnIndex || 0) : state.index;
@@ -1796,6 +1824,18 @@ async function apiGetUsers() {
   if (!response.ok) throw new Error("读取用户失败");
   const data = await response.json();
   return data.users || [];
+}
+
+async function loadAvailableUsers() {
+  const localUsers = loadLocalUsers();
+  if (!state.serverReady) return localUsers;
+  try {
+    const serverUsers = await apiGetUsers();
+    return mergeUsers(serverUsers, localUsers);
+  } catch {
+    state.serverReady = false;
+    return localUsers;
+  }
 }
 
 async function apiCreateUser(name) {
@@ -1819,6 +1859,51 @@ function loadUserSession() {
 
 function saveUserSession(user) {
   localStorage.setItem(USER_SESSION_KEY, JSON.stringify({ id: user.id, name: user.name, createdAt: user.createdAt, updatedAt: user.updatedAt }));
+}
+
+function migrateSharedLocalUsers() {
+  const users = mergeUsers(readUsersFromStorage(LOCAL_USERS_KEY), readUsersFromStorage(LEGACY_SENTENCE_LOCAL_USERS_KEY));
+  if (users.length) localStorage.setItem(LOCAL_USERS_KEY, JSON.stringify(users));
+}
+
+function loadLocalUsers() {
+  return readUsersFromStorage(LOCAL_USERS_KEY);
+}
+
+function readUsersFromStorage(key) {
+  try {
+    const users = JSON.parse(localStorage.getItem(key) || "[]");
+    return Array.isArray(users) ? users.filter((user) => user?.id && user?.name) : [];
+  } catch {
+    return [];
+  }
+}
+
+function saveLocalUsers(users) {
+  localStorage.setItem(LOCAL_USERS_KEY, JSON.stringify(mergeUsers(users)));
+}
+
+function createLocalUser(name) {
+  const users = loadLocalUsers();
+  if (users.some((user) => user.name.toLowerCase() === name.toLowerCase())) {
+    throw new Error("名字已存在，请换一个名字");
+  }
+  const now = new Date().toISOString();
+  const user = { id: `${encodeURIComponent(name)}-${Date.now().toString(36)}`, name, createdAt: now, updatedAt: now };
+  saveLocalUsers([...users, user]);
+  return user;
+}
+
+function mergeUsers(...groups) {
+  const map = new Map();
+  for (const user of groups.flat()) {
+    if (!user?.id || !user?.name) continue;
+    const previous = map.get(user.id);
+    if (!previous || String(user.updatedAt || user.createdAt || "").localeCompare(String(previous.updatedAt || previous.createdAt || "")) > 0) {
+      map.set(user.id, user);
+    }
+  }
+  return Array.from(map.values()).sort((a, b) => a.name.localeCompare(b.name, "zh-CN"));
 }
 
 function practiceStorageKey(mode) {

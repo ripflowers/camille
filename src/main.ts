@@ -137,7 +137,8 @@ interface CourseSummary {
 
 const API_BASE = "/api";
 const ACTIVE_USER_KEY = "enstudy.simple.activeUser.v1";
-const LOCAL_USERS_KEY = "enstudy.sentence.localUsers.v1";
+const LOCAL_USERS_KEY = "enstudy.simple.localUsers.v1";
+const LEGACY_SENTENCE_LOCAL_USERS_KEY = "enstudy.sentence.localUsers.v1";
 const LOCAL_DATA_KEY = "enstudy.sentence.localData.v1";
 const SENTENCE_MODE_KEY = "enstudy.sentence.inputMode.v1";
 const TTS_SETTINGS_KEY = "enstudy.sentence.ttsSettings.v1";
@@ -336,6 +337,7 @@ const state: AppState = {
 init();
 
 async function init() {
+  migrateSharedLocalUsers();
   renderShell(`<section class="panel empty">正在加载课程数据...</section>`);
   try {
     await loadLearningDataIndex();
@@ -955,14 +957,18 @@ function renderKeyboardWordUnit(unit: SpellingUnit): string {
   const typedCharacters = getSpellingCharacters(value);
   return `
     <span class="keyboard-unit-wrap">
-      <button class="keyboard-word ${status}${active}" type="button" data-keyboard-word="${unit.index}" style="--letter-count:${answerCharacters.length}">
+      <span class="keyboard-word ${status}${active}" role="button" tabindex="0" data-keyboard-word="${unit.index}" style="--letter-count:${answerCharacters.length}">
         ${answerCharacters.map((answerCharacter, index) => {
           const typedCharacter = typedCharacters[index] || "";
           const apostrophe = answerCharacter === "'" ? " apostrophe-slot" : "";
           const display = typedCharacter ? displaySpellingCharacter(typedCharacter) : answerCharacter === "'" ? "’" : "";
-          return `<span class="letter-slot${apostrophe} ${typedCharacter ? "filled" : ""}" data-slot="${index}">${escapeHtml(display)}</span>`;
+          const filled = typedCharacter ? " filled" : "";
+          const removable = typedCharacter && !state.showAnswer
+            ? ` data-remove-keyboard-letter="${unit.index}" data-letter-position="${index}" title="删除这个字母"`
+            : "";
+          return `<button class="letter-slot${apostrophe}${filled}" type="button"${removable} ${!typedCharacter || state.showAnswer ? "disabled" : ""}>${escapeHtml(display)}</button>`;
         }).join("")}
-      </button>
+      </span>
     </span>
   `;
 }
@@ -978,6 +984,10 @@ function renderLetterBank(item: RuntimeLearningItem): string {
         const apostrophe = normalizeSpellingCharacter(letter) === "'" ? " apostrophe-block" : "";
         return `<button class="letter-block${apostrophe}" type="button" data-letter-block="${escapeAttr(letter)}" data-letter-index="${index}" ${exhausted ? "disabled" : ""}>${escapeHtml(displaySpellingCharacter(letter))}</button>`;
       }).join("")}
+      <span class="keyboard-actions">
+        <button class="keyboard-action" type="button" data-keyboard-action="backspace">退格</button>
+        <button class="keyboard-action danger" type="button" data-keyboard-action="clear">清空</button>
+      </span>
     </div>
   `;
 }
@@ -1232,10 +1242,23 @@ function bindLearnEvents(item: RuntimeLearningItem) {
     });
   });
 
-  appRoot.querySelectorAll<HTMLButtonElement>("[data-keyboard-word]").forEach((button) => {
+  appRoot.querySelectorAll<HTMLElement>("[data-keyboard-word]").forEach((button) => {
     button.addEventListener("click", () => {
       state.activeUnitIndex = Number(button.dataset.keyboardWord);
       renderLearn();
+    });
+    button.addEventListener("keydown", (event) => {
+      if (event.key !== "Enter" && event.key !== " ") return;
+      event.preventDefault();
+      state.activeUnitIndex = Number(button.dataset.keyboardWord);
+      renderLearn();
+    });
+  });
+
+  appRoot.querySelectorAll<HTMLButtonElement>("[data-remove-keyboard-letter]").forEach((button) => {
+    button.addEventListener("click", (event) => {
+      event.stopPropagation();
+      removeKeyboardLetter(item, Number(button.dataset.removeKeyboardLetter), Number(button.dataset.letterPosition));
     });
   });
 
@@ -1286,6 +1309,20 @@ function bindLearnEvents(item: RuntimeLearningItem) {
   appRoot.querySelectorAll<HTMLButtonElement>("[data-letter-block]").forEach((button) => {
     button.addEventListener("click", () => {
       appendLetterToActiveUnit(item, button.dataset.letterBlock || "");
+    });
+  });
+
+  appRoot.querySelectorAll<HTMLButtonElement>("[data-keyboard-action]").forEach((button) => {
+    button.addEventListener("click", () => {
+      const action = button.dataset.keyboardAction;
+      if (action === "backspace") {
+        undoActiveLetter(item);
+        renderLearn();
+      }
+      if (action === "clear") {
+        clearActiveUnit(item);
+        renderLearn();
+      }
     });
   });
 
@@ -1440,7 +1477,11 @@ function appendTextToUnit(item: RuntimeLearningItem, unit: SpellingUnit, text: s
   state.answers[unit.index] = current + normalizeSpellingCharacter(text);
   if (countTypedSpellingCharacters(state.answers[unit.index]) >= getSpellingCharacters(unit.answer).length) {
     const status = getUnitStatus(unit, state.answers[unit.index]);
-    if (status === "wrong") markWrong(item, state.answers[unit.index]);
+    if (status === "wrong") {
+      markWrong(item, state.answers[unit.index]);
+    } else {
+      state.activeUnitIndex = getNextEmptyFillableIndex(item) ?? unit.index;
+    }
   }
   checkCompletion(item);
   renderLearn();
@@ -1473,6 +1514,20 @@ function undoActiveLetter(item: RuntimeLearningItem) {
   if (!previous) return;
   state.activeUnitIndex = previous.index;
   state.answers[previous.index] = (state.answers[previous.index] || "").slice(0, -1);
+}
+
+function removeKeyboardLetter(item: RuntimeLearningItem, unitIndex: number, letterIndex: number) {
+  if (state.showAnswer) return;
+  const unit = item.spellingUnits.find((candidate) => candidate.index === unitIndex && candidate.fillable);
+  if (!unit) return;
+  const characters = getSpellingCharacters(state.answers[unit.index] || "");
+  if (!characters.length || letterIndex < 0 || letterIndex >= characters.length) return;
+  state.activeUnitIndex = unit.index;
+  state.answers[unit.index] = characters.slice(0, letterIndex).join("");
+  state.completedCurrent = false;
+  state.showAnswer = false;
+  playSound("click");
+  renderLearn();
 }
 
 function clearActiveUnit(item: RuntimeLearningItem) {
@@ -1872,18 +1927,19 @@ async function checkServerReady(): Promise<boolean> {
 }
 
 async function loadUsers() {
+  const localUsers = loadLocalUsers();
   if (state.serverReady) {
     try {
       const response = await fetch(`${API_BASE}/users`, { cache: "no-store" });
       if (!response.ok || !response.headers.get("content-type")?.includes("application/json")) throw new Error("users api unavailable");
       const data = await response.json();
-      state.users = data.users || [];
+      state.users = mergeUsers(data.users || [], localUsers);
       return;
     } catch {
       state.serverReady = false;
     }
   }
-  state.users = loadLocalUsers();
+  state.users = localUsers;
 }
 
 async function restoreActiveUser() {
@@ -1896,12 +1952,15 @@ async function restoreActiveUser() {
 }
 
 async function selectUser(userId: string, rerender = true) {
+  state.user = null;
   if (state.serverReady) {
     const response = await fetch(`${API_BASE}/users/${encodeURIComponent(userId)}/progress`, { cache: "no-store" });
-    if (!response.ok) return;
-    const data = await response.json();
-    state.user = data.user;
-  } else {
+    if (response.ok) {
+      const data = await response.json();
+      state.user = data.user;
+    }
+  }
+  if (!state.user) {
     const user = loadLocalUsers().find((candidate) => candidate.id === userId);
     if (!user) return;
     state.user = { ...user };
@@ -1912,27 +1971,45 @@ async function selectUser(userId: string, rerender = true) {
   if (rerender) renderList();
 }
 
-async function createUser(name: string) {
+async function createUser(name: string): Promise<boolean> {
   const cleanName = name.trim().slice(0, 20);
-  if (!cleanName) return;
+  const feedback = appRoot.querySelector<HTMLElement>("#userFeedback");
+  if (!cleanName) {
+    showUserFeedback(feedback, "请输入名字。");
+    return false;
+  }
   if (state.serverReady) {
     const response = await fetch(`${API_BASE}/users`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ name: cleanName }),
     });
-    if (!response.ok) return;
+    if (!response.ok) {
+      const data = await response.json().catch(() => ({}));
+      showUserFeedback(feedback, String(data.message || "创建用户失败。"));
+      return false;
+    }
     const data = await response.json();
     await loadUsers();
     await selectUser(data.user.id);
-    return;
+    return true;
   }
   const users = loadLocalUsers();
+  if (users.some((user) => user.name.toLowerCase() === cleanName.toLowerCase())) {
+    showUserFeedback(feedback, "名字已存在，请换一个名字。");
+    return false;
+  }
   const user = { id: `${encodeURIComponent(cleanName)}-${Date.now().toString(36)}`, name: cleanName, createdAt: new Date().toISOString() };
-  users.push(user);
-  localStorage.setItem(LOCAL_USERS_KEY, JSON.stringify(users));
+  saveLocalUsers([...users, user]);
   await loadUsers();
   await selectUser(user.id);
+  return true;
+}
+
+function showUserFeedback(target: HTMLElement | null, message: string) {
+  if (!target) return;
+  target.textContent = message;
+  target.className = "feedback bad";
 }
 
 function openSettingsModal() {
@@ -2140,6 +2217,7 @@ function openUserModal() {
           <input id="newUserName" placeholder="输入学习者名字" maxlength="20" />
           <button class="primary" type="button" data-create-user>新建</button>
         </div>
+        <div class="feedback" id="userFeedback"></div>
         <div class="user-list">
           ${state.users.length ? state.users.map((user) => `
             <button class="user-choice ${state.user?.id === user.id ? "active" : ""}" type="button" data-select-user="${escapeAttr(user.id)}">
@@ -2152,9 +2230,10 @@ function openUserModal() {
     </div>
   `;
   modalMount.querySelectorAll<HTMLElement>("[data-close-modal]").forEach((el) => el.addEventListener("click", closeModal));
-  modalMount.querySelector("[data-create-user]")?.addEventListener("click", () => {
+  modalMount.querySelector("[data-create-user]")?.addEventListener("click", async () => {
     const input = modalMount.querySelector<HTMLInputElement>("#newUserName");
-    createUser(input?.value || "").then(closeModal);
+    const ok = await createUser(input?.value || "");
+    if (ok) closeModal();
   });
   modalMount.querySelectorAll<HTMLButtonElement>("[data-select-user]").forEach((button) => {
     button.addEventListener("click", () => selectUser(button.dataset.selectUser || "").then(closeModal));
@@ -2324,11 +2403,39 @@ function loadUserSession(): UserSummary | null {
 }
 
 function loadLocalUsers(): UserSummary[] {
+  return readUsersFromStorage(LOCAL_USERS_KEY);
+}
+
+function migrateSharedLocalUsers() {
+  const users = mergeUsers(readUsersFromStorage(LOCAL_USERS_KEY), readUsersFromStorage(LEGACY_SENTENCE_LOCAL_USERS_KEY));
+  if (users.length) saveLocalUsers(users);
+}
+
+function readUsersFromStorage(key: string): UserSummary[] {
   try {
-    return JSON.parse(localStorage.getItem(LOCAL_USERS_KEY) || "[]");
+    const users = JSON.parse(localStorage.getItem(key) || "[]");
+    return Array.isArray(users)
+      ? users.filter((user): user is UserSummary => Boolean(user?.id && user?.name))
+      : [];
   } catch {
     return [];
   }
+}
+
+function saveLocalUsers(users: UserSummary[]) {
+  localStorage.setItem(LOCAL_USERS_KEY, JSON.stringify(mergeUsers(users)));
+}
+
+function mergeUsers(...groups: UserSummary[][]): UserSummary[] {
+  const map = new Map<string, UserSummary>();
+  for (const user of groups.flat()) {
+    if (!user?.id || !user?.name) continue;
+    const previous = map.get(user.id);
+    const currentTime = String(user.updatedAt || user.createdAt || "");
+    const previousTime = String(previous?.updatedAt || previous?.createdAt || "");
+    if (!previous || currentTime.localeCompare(previousTime) > 0) map.set(user.id, user);
+  }
+  return Array.from(map.values()).sort((a, b) => a.name.localeCompare(b.name, "zh-CN"));
 }
 
 function loadLocalData(): Record<string, Partial<UserRecord>> {

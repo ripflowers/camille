@@ -1656,7 +1656,12 @@ p {
   height: 32px;
   display: grid;
   place-items: center;
+  padding: 0;
+  border: 0;
   border-bottom: 4px solid var(--color-neutral-400);
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
   color: var(--text-primary);
   font-size: var(--fs-2xl);
   font-weight: var(--fw-semibold);
@@ -1664,8 +1669,27 @@ p {
   text-transform: none;
 }
 
+.letter-slot:hover {
+  border-color: var(--color-neutral-400);
+  box-shadow: none;
+}
+
 .letter-slot.filled {
   border-bottom-color: var(--color-accent);
+  cursor: pointer;
+}
+
+.letter-slot.filled:hover {
+  color: var(--color-danger);
+  border-bottom-color: var(--color-danger);
+}
+
+.letter-slot:disabled {
+  opacity: 1;
+  cursor: default;
+  color: var(--text-primary);
+  background: transparent;
+  box-shadow: none;
 }
 
 .letter-slot.apostrophe-slot {
@@ -1682,6 +1706,7 @@ p {
 .letter-bank {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: var(--space-sm);
   padding: var(--space-sm);
   border: 1px solid var(--border-subtle);
@@ -1747,6 +1772,27 @@ p {
   background: var(--color-neutral-100);
   color: var(--text-disabled);
   box-shadow: none;
+}
+
+.keyboard-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  margin-left: auto;
+}
+
+.keyboard-action {
+  min-height: 42px;
+  border-color: var(--border-default);
+  background: var(--bg-surface);
+  color: var(--text-secondary);
+  box-shadow: 0 3px 0 var(--color-neutral-200);
+}
+
+.keyboard-action.danger {
+  border-color: var(--color-danger-border);
+  background: var(--color-danger-soft);
+  color: var(--color-danger);
 }
 
 /* —— 快捷键提示：直接显示 —— */
