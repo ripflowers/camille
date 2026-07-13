@@ -17,17 +17,19 @@ export async function handleEdgeTtsNodeRequest(request, response) {
     return;
   }
 
-  if (request.method !== "POST") {
-    sendJson(response, 405, { error: { message: "Only POST is supported", code: "method_not_allowed" } });
+  if (request.method !== "POST" && request.method !== "GET") {
+    sendJson(response, 405, { error: { message: "Only GET or POST is supported", code: "method_not_allowed" } });
     return;
   }
 
   try {
-    const body = await readJsonBody(request);
-    const audio = await synthesizeEdgeTts(body);
+    const params = request.method === "GET"
+      ? extractGetParams(new URL(request.url, `http://${request.headers.host}`))
+      : await readJsonBody(request);
+    const audio = await synthesizeEdgeTts(params);
     response.writeHead(200, {
       "Content-Type": "audio/mpeg",
-      "Cache-Control": "no-store",
+      "Cache-Control": "public, max-age=86400",
       ...makeCorsHeaders(request),
     });
     response.end(audio);
@@ -40,6 +42,18 @@ export async function handleEdgeTtsNodeRequest(request, response) {
       },
     });
   }
+}
+
+function extractGetParams(url) {
+  const search = url.searchParams;
+  return {
+    input: search.get("input") || "",
+    voice: search.get("voice") || undefined,
+    style: search.get("style") || undefined,
+    speed: search.get("speed") != null ? Number(search.get("speed")) : undefined,
+    pitch: search.get("pitch") != null ? Number(search.get("pitch")) : undefined,
+    volume: search.get("volume") != null ? Number(search.get("volume")) : undefined,
+  };
 }
 
 export async function synthesizeEdgeTts(options) {
