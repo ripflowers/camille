@@ -83,7 +83,16 @@ installZoomGuards();
 init();
 
 async function init() {
-  const data = await loadJson(DATA_URLS[PROFILE]);
+  renderLoadingScreen("正在准备单词闯关", `正在加载${LABELS[PROFILE]}词库...`, 4);
+  const data = await loadJson(DATA_URLS[PROFILE], (loaded, total) => {
+    if (total > 0) {
+      const percent = 8 + Math.round((loaded / total) * 72);
+      renderLoadingScreen("正在准备单词闯关", `正在加载词库 ${formatBytes(loaded)} / ${formatBytes(total)}`, Math.min(80, percent));
+    } else {
+      renderLoadingScreen("正在准备单词闯关", `正在加载词库 ${formatBytes(loaded)}`, 28);
+    }
+  });
+  renderLoadingScreen("正在准备单词闯关", "正在整理词库和学习进度...", 84);
   state.allEntries = data.entries;
   state.entries = filterEntriesByCategory(state.allEntries, state.activeCategory);
   if (state.activeCategory && !state.entries.length) {
@@ -95,19 +104,69 @@ async function init() {
   } else if (PAGE_PARAMS.has("category")) {
     localStorage.removeItem(categoryStorageKey(PROFILE, state.mode));
   }
+  renderLoadingScreen("正在准备单词闯关", "正在连接学习服务...", 90);
   state.serverReady = await checkServerReady();
   state.learnedIds = loadLearned();
   state.wrongIds = loadWrong();
   state.index = clamp(Number(localStorage.getItem(progressKey()) || 0), 0, state.entries.length - 1);
+  renderLoadingScreen("正在准备单词闯关", "正在同步用户和学习进度...", 96);
   if (state.serverReady) await restoreServerUserSession();
+  renderLoadingScreen("正在准备单词闯关", "加载完成", 100);
   render();
   if (!state.user) openUserModal();
 }
 
-async function loadJson(url) {
+async function loadJson(url, onProgress) {
   const response = await fetch(url);
   if (!response.ok) throw new Error(`加载失败：${url}`);
-  return response.json();
+  const total = Number(response.headers.get("content-length") || 0);
+  if (!response.body) {
+    const text = await response.text();
+    onProgress?.(text.length, total || text.length);
+    return JSON.parse(text);
+  }
+
+  const reader = response.body.getReader();
+  const chunks = [];
+  let loaded = 0;
+  while (true) {
+    const { done, value } = await reader.read();
+    if (done) break;
+    if (!value) continue;
+    chunks.push(value);
+    loaded += value.byteLength;
+    onProgress?.(loaded, total);
+  }
+
+  const bytes = new Uint8Array(loaded);
+  let offset = 0;
+  for (const chunk of chunks) {
+    bytes.set(chunk, offset);
+    offset += chunk.byteLength;
+  }
+  return JSON.parse(new TextDecoder().decode(bytes));
+}
+
+function renderLoadingScreen(title, message, percent = 0) {
+  const value = clamp(Math.round(percent), 0, 100);
+  app.innerHTML = `
+    <section class="panel loading-panel" role="status" aria-live="polite">
+      <div class="loading-title-row">
+        <div>
+          <h2>${escapeHtml(title)}</h2>
+          <p class="muted">${escapeHtml(message)}</p>
+        </div>
+        <strong>${value}%</strong>
+      </div>
+      <div class="loading-track" aria-hidden="true"><span style="width:${value}%"></span></div>
+    </section>
+  `;
+}
+
+function formatBytes(bytes) {
+  if (!Number.isFinite(bytes) || bytes <= 0) return "0 KB";
+  if (bytes >= 1024 * 1024) return `${(bytes / 1024 / 1024).toFixed(1)} MB`;
+  return `${Math.max(1, Math.round(bytes / 1024))} KB`;
 }
 
 function installZoomGuards() {

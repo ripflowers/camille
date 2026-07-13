@@ -1,5 +1,5 @@
 import "./styles.css";
-import learningManifestData from "../data/learning-manifest.json";
+import learningManifestUrl from "../data/learning-manifest.json?url";
 import { getSpellingCharacters, isSpellingCharacter, normalizeAnswer, normalizeSpellingCharacter } from "./lib/learning";
 import type { LearningType, RuntimeLearningItem, SentenceComponent, SpellingUnit, WordHint } from "./lib/types";
 import { escapeAttr, escapeHtml } from "./lib/view";
@@ -348,12 +348,15 @@ function installPracticeKeyCapture() {
 
 async function init() {
   migrateSharedLocalUsers();
-  renderShell(`<section class="panel empty">正在加载课程数据...</section>`);
+  renderLoadingProgress("正在准备句子闯关", "正在连接课程索引...", 4);
   try {
-    await loadLearningDataIndex();
+    await loadLearningDataIndex((percent, message) => renderLoadingProgress("正在准备句子闯关", message, percent));
+    renderLoadingProgress("正在准备句子闯关", "正在连接学习服务...", 82);
     state.serverReady = await checkServerReady();
+    renderLoadingProgress("正在准备句子闯关", "正在同步用户和学习进度...", 90);
     await loadUsers();
     await restoreActiveUser();
+    renderLoadingProgress("正在准备句子闯关", "加载完成", 100);
     renderList();
     if (!state.user) openUserModal();
   } catch (error) {
@@ -367,8 +370,17 @@ async function init() {
   }
 }
 
-async function loadLearningDataIndex() {
-  const manifest = learningManifestData as LearningManifest;
+async function loadLearningDataIndex(onProgress?: (percent: number, message: string) => void) {
+  const manifest = await fetchJsonWithProgress<LearningManifest>(learningManifestUrl, (loaded, total) => {
+    if (!onProgress) return;
+    if (total > 0) {
+      const percent = 8 + Math.round((loaded / total) * 68);
+      onProgress(Math.min(76, percent), `正在加载课程索引 ${formatBytes(loaded)} / ${formatBytes(total)}`);
+    } else {
+      onProgress(24, `正在加载课程索引 ${formatBytes(loaded)}`);
+    }
+  });
+  onProgress?.(78, "正在解析课程索引...");
   if (manifest.units?.length) {
     state.units = manifest.units.map((unit) => ({
       key: unit.key,
@@ -389,6 +401,59 @@ async function loadLearningDataIndex() {
   }
 
   throw new Error("data/learning-manifest.json 中没有课程单元，请先运行课程导入命令生成分片课程数据。");
+}
+
+async function fetchJsonWithProgress<T>(url: string, onProgress?: (loaded: number, total: number) => void): Promise<T> {
+  const response = await fetch(url);
+  if (!response.ok) throw new Error(`加载失败：${url}`);
+  const total = Number(response.headers.get("content-length") || 0);
+  if (!response.body) {
+    const text = await response.text();
+    onProgress?.(text.length, total || text.length);
+    return JSON.parse(text) as T;
+  }
+
+  const reader = response.body.getReader();
+  const chunks: Uint8Array[] = [];
+  let loaded = 0;
+  while (true) {
+    const { done, value } = await reader.read();
+    if (done) break;
+    if (!value) continue;
+    chunks.push(value);
+    loaded += value.byteLength;
+    onProgress?.(loaded, total);
+  }
+
+  const bytes = new Uint8Array(loaded);
+  let offset = 0;
+  for (const chunk of chunks) {
+    bytes.set(chunk, offset);
+    offset += chunk.byteLength;
+  }
+  return JSON.parse(new TextDecoder().decode(bytes)) as T;
+}
+
+function renderLoadingProgress(title: string, message: string, percent = 0) {
+  const value = clamp(Math.round(percent), 0, 100);
+  renderShell(`
+    <section class="panel loading-panel" role="status" aria-live="polite">
+      <div class="loading-title-row">
+        <div>
+          <h2>${escapeHtml(title)}</h2>
+          <p class="muted">${escapeHtml(message)}</p>
+        </div>
+        <strong>${value}%</strong>
+      </div>
+      <div class="loading-track" aria-hidden="true"><span style="width:${value}%"></span></div>
+    </section>
+  `);
+}
+
+function formatBytes(bytes: number): string {
+  if (!Number.isFinite(bytes) || bytes <= 0) return "0 KB";
+  if (bytes >= 1024 * 1024) return `${(bytes / 1024 / 1024).toFixed(1)} MB`;
+  return `${Math.max(1, Math.round(bytes / 1024))} KB`;
 }
 
 function renderShell(content: string) {
@@ -2698,7 +2763,7 @@ function findFrontendSubjectVerb(words: string[]): number {
 }
 
 function loadPreferredSentenceMode(): SentenceInputMode {
-  return localStorage.getItem(SENTENCE_MODE_KEY) === "keyboard" ? "keyboard" : "choice";
+  return localStorage.getItem(SENTENCE_MODE_KEY) === "choice" ? "choice" : "keyboard";
 }
 
 function savePreferredSentenceMode(mode: SentenceInputMode) {
