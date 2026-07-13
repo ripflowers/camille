@@ -1,5 +1,6 @@
 import { createServer } from "node:http";
-import { mkdir, readFile, readdir, rename, stat, writeFile } from "node:fs/promises";
+import { randomUUID } from "node:crypto";
+import { mkdir, readFile, readdir, rename, rm, stat, writeFile } from "node:fs/promises";
 import { createReadStream } from "node:fs";
 import { extname, join, normalize, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -9,6 +10,7 @@ const ROOT = fileURLToPath(new URL(".", import.meta.url));
 const STORAGE_DIR = join(ROOT, "storage", "users");
 const PORT = Number(process.env.PORT || 4173);
 const LEARNING_MODES = ["spelling", "en-cn", "cn-en", "sentence-mixed"];
+const userWriteQueues = new Map();
 
 const MIME_TYPES = {
   ".html": "text/html; charset=utf-8",
@@ -84,45 +86,56 @@ async function handleApi(request, response, url) {
   const match = url.pathname.match(/^\/api\/users\/([^/]+)\/(progress|practice)$/);
   if (match) {
     const [, userId, action] = match;
-    const user = await readUserFile(userId);
+    let user = await readUserFile(userId);
     if (!user) {
       sendJson(response, 404, { error: "not_found", message: "用户不存在" });
       return;
     }
-    if (migrateLegacyUserProgress(user)) await saveUserFile(user);
 
     if (request.method === "GET" && action === "progress") {
+      user = await ensureUserMigrated(userId, user);
       sendJson(response, 200, { user });
       return;
     }
 
     if (request.method === "PUT" && action === "progress") {
       const body = await readJsonBody(request);
-      applyProgressResets(user, body.resets);
-      user.progress = { ...(user.progress || {}), ...(body.progress || {}) };
-      user.learned = { ...(user.learned || {}), ...(body.learned || {}) };
-      user.wrong = { ...(user.wrong || {}), ...(body.wrong || {}) };
-      user.daily = { ...(user.daily || {}), ...(body.daily || {}) };
-      user.updatedAt = new Date().toISOString();
-      await saveUserFile(user);
-      sendJson(response, 200, { user });
+      const saved = await updateUserFile(userId, (currentUser) => {
+        applyProgressResets(currentUser, body.resets);
+        currentUser.progress = { ...(currentUser.progress || {}), ...(body.progress || {}) };
+        currentUser.learned = { ...(currentUser.learned || {}), ...(body.learned || {}) };
+        currentUser.wrong = { ...(currentUser.wrong || {}), ...(body.wrong || {}) };
+        currentUser.daily = { ...(currentUser.daily || {}), ...(body.daily || {}) };
+        currentUser.updatedAt = new Date().toISOString();
+      });
+      if (!saved) {
+        sendJson(response, 404, { error: "not_found", message: "用户不存在" });
+        return;
+      }
+      sendJson(response, 200, { user: saved.user });
       return;
     }
 
     if (request.method === "POST" && action === "practice") {
       const body = await readJsonBody(request);
       const record = sanitizePracticeRecord(body);
-      const key = practiceKey(record.profile, record.category, record.mode);
-      user.practice = user.practice || {};
-      user.practice[key] = user.practice[key] || { profile: record.profile, category: record.category, mode: record.mode, total: 0, correct: 0, wrong: 0, records: [] };
-      user.practice[key].total += 1;
-      user.practice[key].correct += record.correct ? 1 : 0;
-      user.practice[key].wrong += record.correct ? 0 : 1;
-      user.practice[key].records.push(record);
-      user.practice[key].records = user.practice[key].records.slice(-500);
-      user.updatedAt = new Date().toISOString();
-      await saveUserFile(user);
-      sendJson(response, 200, { practice: user.practice[key] });
+      const saved = await updateUserFile(userId, (currentUser) => {
+        const key = practiceKey(record.profile, record.category, record.mode);
+        currentUser.practice = currentUser.practice || {};
+        currentUser.practice[key] = currentUser.practice[key] || { profile: record.profile, category: record.category, mode: record.mode, total: 0, correct: 0, wrong: 0, records: [] };
+        currentUser.practice[key].total += 1;
+        currentUser.practice[key].correct += record.correct ? 1 : 0;
+        currentUser.practice[key].wrong += record.correct ? 0 : 1;
+        currentUser.practice[key].records.push(record);
+        currentUser.practice[key].records = currentUser.practice[key].records.slice(-500);
+        currentUser.updatedAt = new Date().toISOString();
+        return currentUser.practice[key];
+      });
+      if (!saved) {
+        sendJson(response, 404, { error: "not_found", message: "用户不存在" });
+        return;
+      }
+      sendJson(response, 200, { practice: saved.result });
       return;
     }
   }
@@ -198,7 +211,7 @@ function createEmptyUser(name) {
 }
 
 async function readUserFile(userId) {
-  const safeId = String(userId || "").replace(/[^a-zA-Z0-9_-]/g, "");
+  const safeId = safeUserId(userId);
   if (!safeId) return null;
   try {
     return parseUserJson(await readFile(join(STORAGE_DIR, `${safeId}.json`), "utf8"));
@@ -209,10 +222,56 @@ async function readUserFile(userId) {
 
 async function saveUserFile(user) {
   await mkdir(STORAGE_DIR, { recursive: true });
-  const target = join(STORAGE_DIR, `${user.id}.json`);
-  const temp = join(STORAGE_DIR, `${user.id}.${Date.now()}.tmp`);
-  await writeFile(temp, `${JSON.stringify(user, null, 2)}\n`);
-  await rename(temp, target);
+  const safeId = safeUserId(user.id);
+  if (!safeId) throw new Error("invalid_user_id");
+  const target = join(STORAGE_DIR, `${safeId}.json`);
+  const temp = join(STORAGE_DIR, `.${safeId}.${process.pid}.${Date.now()}.${randomUUID()}.tmp`);
+  try {
+    await writeFile(temp, `${JSON.stringify({ ...user, id: safeId }, null, 2)}\n`);
+    await rename(temp, target);
+  } catch (error) {
+    await rm(temp, { force: true }).catch(() => {});
+    throw error;
+  }
+}
+
+function safeUserId(userId) {
+  return String(userId || "").replace(/[^a-zA-Z0-9_-]/g, "");
+}
+
+async function withUserWriteLock(userId, operation) {
+  const safeId = safeUserId(userId);
+  if (!safeId) throw new Error("invalid_user_id");
+  const previous = userWriteQueues.get(safeId) || Promise.resolve();
+  const next = previous.catch(() => undefined).then(() => operation(safeId));
+  userWriteQueues.set(safeId, next);
+  try {
+    return await next;
+  } finally {
+    if (userWriteQueues.get(safeId) === next) userWriteQueues.delete(safeId);
+  }
+}
+
+async function ensureUserMigrated(userId, fallbackUser) {
+  if (fallbackUser?.migrations?.modeScopedProgressV2 === true) return fallbackUser;
+  const migrated = await withUserWriteLock(userId, async (safeId) => {
+    const user = await readUserFile(safeId);
+    if (!user) return null;
+    if (migrateLegacyUserProgress(user)) await saveUserFile(user);
+    return user;
+  });
+  return migrated || fallbackUser;
+}
+
+async function updateUserFile(userId, updater) {
+  return withUserWriteLock(userId, async (safeId) => {
+    const user = await readUserFile(safeId);
+    if (!user) return null;
+    migrateLegacyUserProgress(user);
+    const result = await updater(user);
+    await saveUserFile(user);
+    return { user, result };
+  });
 }
 
 function parseUserJson(text) {
