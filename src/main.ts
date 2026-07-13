@@ -334,7 +334,17 @@ const state: AppState = {
   isSpeaking: false,
 };
 
+installPracticeKeyCapture();
 init();
+
+function installPracticeKeyCapture() {
+  document.addEventListener("keydown", (event) => {
+    if (!appRoot.querySelector(".practice-board")) return;
+    const item = currentItem();
+    if (!item) return;
+    handlePracticeKeydown(event, item);
+  }, { capture: true });
+}
 
 async function init() {
   migrateSharedLocalUsers();
@@ -905,7 +915,7 @@ function renderChoicePracticeArea(item: RuntimeLearningItem): string {
 function renderKeyboardPracticeArea(item: RuntimeLearningItem): string {
   return `
     <div class="keyboard-practice stack">
-      <div class="spelling-area keyboard-area">${item.spellingUnits.map((unit) => renderKeyboardWordUnit(unit)).join("")}</div>
+      <div class="choice-sentence keyboard-area">${item.spellingUnits.map((unit) => renderKeyboardWordUnit(unit)).join("")}</div>
       ${renderLetterBank(item)}
     </div>
   `;
@@ -955,20 +965,19 @@ function renderKeyboardWordUnit(unit: SpellingUnit): string {
   const active = state.activeUnitIndex === unit.index ? " active" : "";
   const answerCharacters = getSpellingCharacters(unit.answer);
   const typedCharacters = getSpellingCharacters(value);
+  const content = typedCharacters.length
+    ? typedCharacters.map(displaySpellingCharacter).join("")
+    : displayBlank(unit.blank);
+  const width = Math.max(90, Math.min(320, answerCharacters.length * 20 + 42));
   return `
-    <span class="keyboard-unit-wrap">
-      <span class="keyboard-word ${status}${active}" role="button" tabindex="0" data-keyboard-word="${unit.index}" style="--letter-count:${answerCharacters.length}">
-        ${answerCharacters.map((answerCharacter, index) => {
-          const typedCharacter = typedCharacters[index] || "";
-          const apostrophe = answerCharacter === "'" ? " apostrophe-slot" : "";
-          const display = typedCharacter ? displaySpellingCharacter(typedCharacter) : answerCharacter === "'" ? "’" : "";
-          const filled = typedCharacter ? " filled" : "";
-          const removable = typedCharacter && !state.showAnswer
-            ? ` data-remove-keyboard-letter="${unit.index}" data-letter-position="${index}" title="删除这个字母"`
-            : "";
-          return `<button class="letter-slot${apostrophe}${filled}" type="button"${removable} ${!typedCharacter || state.showAnswer ? "disabled" : ""}>${escapeHtml(display)}</button>`;
-        }).join("")}
-      </span>
+    <span class="choice-wrap keyboard-unit-wrap">
+      <button
+        class="choice-blank keyboard-blank ${status}${active}"
+        type="button"
+        data-keyboard-word="${unit.index}"
+        style="--keyboard-width:${width}px"
+        title="点击选中此空，字母键输入，退格键删除"
+      >${escapeHtml(content)}</button>
     </span>
   `;
 }
@@ -978,15 +987,15 @@ function renderLetterBank(item: RuntimeLearningItem): string {
   if (!activeUnit || state.showAnswer) return "";
   const letters = getLetterBlocks(activeUnit);
   return `
-    <div class="letter-bank" aria-label="字母块">
+    <div class="word-bank letter-bank" aria-label="字母块">
       ${letters.map((letter, index) => {
         const exhausted = isLetterBlockExhausted(letter, activeUnit, letters);
         const apostrophe = normalizeSpellingCharacter(letter) === "'" ? " apostrophe-block" : "";
-        return `<button class="letter-block${apostrophe}" type="button" data-letter-block="${escapeAttr(letter)}" data-letter-index="${index}" ${exhausted ? "disabled" : ""}>${escapeHtml(displaySpellingCharacter(letter))}</button>`;
+        return `<button class="word-block letter-block${apostrophe}" type="button" data-letter-block="${escapeAttr(letter)}" data-letter-index="${index}" ${exhausted ? "disabled" : ""}>${escapeHtml(displaySpellingCharacter(letter))}</button>`;
       }).join("")}
       <span class="keyboard-actions">
-        <button class="keyboard-action" type="button" data-keyboard-action="backspace">退格</button>
-        <button class="keyboard-action danger" type="button" data-keyboard-action="clear">清空</button>
+        <button class="word-block keyboard-action" type="button" data-keyboard-action="backspace">退格</button>
+        <button class="word-block keyboard-action danger" type="button" data-keyboard-action="clear">清空</button>
       </span>
     </div>
   `;
@@ -1242,27 +1251,12 @@ function bindLearnEvents(item: RuntimeLearningItem) {
     });
   });
 
-  appRoot.querySelectorAll<HTMLElement>("[data-keyboard-word]").forEach((button) => {
+  appRoot.querySelectorAll<HTMLButtonElement>("[data-keyboard-word]").forEach((button) => {
     button.addEventListener("click", () => {
       state.activeUnitIndex = Number(button.dataset.keyboardWord);
       renderLearn();
     });
-    button.addEventListener("keydown", (event) => {
-      if (event.key !== "Enter" && event.key !== " ") return;
-      event.preventDefault();
-      state.activeUnitIndex = Number(button.dataset.keyboardWord);
-      renderLearn();
-    });
   });
-
-  appRoot.querySelectorAll<HTMLButtonElement>("[data-remove-keyboard-letter]").forEach((button) => {
-    button.addEventListener("click", (event) => {
-      event.stopPropagation();
-      removeKeyboardLetter(item, Number(button.dataset.removeKeyboardLetter), Number(button.dataset.letterPosition));
-    });
-  });
-
-  document.onkeydown = (event) => handlePracticeKeydown(event, item);
 
   appRoot.querySelectorAll<HTMLInputElement>("[data-unit-index]").forEach((input) => {
     input.addEventListener("focus", () => {
@@ -1362,6 +1356,7 @@ function bindLearnEvents(item: RuntimeLearningItem) {
 }
 
 function handlePracticeKeydown(event: KeyboardEvent, item: RuntimeLearningItem) {
+  if (event.defaultPrevented) return;
   const activeElement = document.activeElement;
   if (activeElement instanceof HTMLInputElement || activeElement instanceof HTMLTextAreaElement || activeElement instanceof HTMLSelectElement) return;
   if (document.querySelector(".modal-backdrop")) return;
@@ -1371,6 +1366,19 @@ function handlePracticeKeydown(event: KeyboardEvent, item: RuntimeLearningItem) 
     revealAnswer(item);
     return;
   }
+
+  if ((event.ctrlKey || event.metaKey) && event.key === " ") {
+    event.preventDefault();
+    speak(item.audioText);
+    return;
+  }
+
+  if ((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === "r") {
+    event.preventDefault();
+    redoCurrentItem(item);
+    return;
+  }
+  if (event.ctrlKey || event.metaKey || event.altKey) return;
 
   if (event.key === "Enter") {
     event.preventDefault();
@@ -1394,17 +1402,6 @@ function handlePracticeKeydown(event: KeyboardEvent, item: RuntimeLearningItem) 
     return;
   }
 
-  if ((event.ctrlKey || event.metaKey) && event.key === " ") {
-    event.preventDefault();
-    speak(item.audioText);
-    return;
-  }
-
-  if ((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === "r") {
-    event.preventDefault();
-    redoCurrentItem(item);
-    return;
-  }
   if (event.key === "F4") {
     event.preventDefault();
     speak(item.audioText);
@@ -1514,20 +1511,6 @@ function undoActiveLetter(item: RuntimeLearningItem) {
   if (!previous) return;
   state.activeUnitIndex = previous.index;
   state.answers[previous.index] = (state.answers[previous.index] || "").slice(0, -1);
-}
-
-function removeKeyboardLetter(item: RuntimeLearningItem, unitIndex: number, letterIndex: number) {
-  if (state.showAnswer) return;
-  const unit = item.spellingUnits.find((candidate) => candidate.index === unitIndex && candidate.fillable);
-  if (!unit) return;
-  const characters = getSpellingCharacters(state.answers[unit.index] || "");
-  if (!characters.length || letterIndex < 0 || letterIndex >= characters.length) return;
-  state.activeUnitIndex = unit.index;
-  state.answers[unit.index] = characters.slice(0, letterIndex).join("");
-  state.completedCurrent = false;
-  state.showAnswer = false;
-  playSound("click");
-  renderLearn();
 }
 
 function clearActiveUnit(item: RuntimeLearningItem) {
