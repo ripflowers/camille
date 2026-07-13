@@ -142,8 +142,10 @@ const LOCAL_DATA_KEY = "enstudy.sentence.localData.v1";
 const SENTENCE_MODE_KEY = "enstudy.sentence.inputMode.v1";
 const TTS_SETTINGS_KEY = "enstudy.sentence.ttsSettings.v1";
 const MODE = "sentence-mixed";
-const SCOPE_KEY = `junior:${MODE}`;
-const PROGRESS_KEY = `enstudy.sentence.${MODE}.progress.v1`;
+const SENTENCE_PROFILE = "junior";
+const SCOPE_KEY = `${SENTENCE_PROFILE}:${MODE}`;
+const LEGACY_PROGRESS_KEY = `enstudy.sentence.${MODE}.progress.v1`;
+const PROGRESS_KEY = `enstudy.simple.${SENTENCE_PROFILE}.${MODE}.progress.v1`;
 const WORD_PROFILE_KEY = "enstudy.navigation.wordProfile.v1";
 const sourceProfile = new URLSearchParams(window.location.search).get("from");
 if (sourceProfile === "primary" || sourceProfile === "junior") {
@@ -334,7 +336,6 @@ const state: AppState = {
 init();
 
 async function init() {
-  await unregisterLegacyServiceWorkers();
   renderShell(`<section class="panel empty">正在加载课程数据...</section>`);
   try {
     await loadLearningDataIndex();
@@ -376,16 +377,6 @@ async function loadLearningDataIndex() {
   }
 
   throw new Error("data/learning-manifest.json 中没有课程单元，请先运行课程导入命令生成分片课程数据。");
-}
-
-async function unregisterLegacyServiceWorkers() {
-  if (!("serviceWorker" in navigator)) return;
-  try {
-    const registrations = await navigator.serviceWorker.getRegistrations();
-    await Promise.all(registrations.map((registration) => registration.unregister()));
-  } catch {
-    // Legacy PWA cleanup is best-effort.
-  }
 }
 
 function renderShell(content: string) {
@@ -2182,12 +2173,61 @@ document.addEventListener("keydown", (e) => {
 });
 
 function loadLearningDataForUser() {
-  const source = state.serverReady ? state.user : loadLocalData()[state.user?.id || ""];
-  const progress = source?.progress?.[PROGRESS_KEY] as SavedProgress | undefined;
+  const userId = state.user?.id || "";
+  const localSource = loadLocalData()[userId];
+  const primarySource = state.serverReady ? state.user : localSource;
+  const progress = loadProgressFromSources(primarySource, localSource);
   state.progress = progress || { selectedUnitKey: "", positions: {}, updatedAt: new Date().toISOString() };
-  state.learnedIds = new Set(source?.learned?.[SCOPE_KEY] || []);
-  state.wrongIds = new Set(source?.wrong?.[SCOPE_KEY] || []);
-  state.dailyLog = source?.daily?.[SCOPE_KEY] || {};
+  state.learnedIds = mergeIdSets(primarySource?.learned?.[SCOPE_KEY], localSource?.learned?.[SCOPE_KEY]);
+  state.wrongIds = mergeIdSets(primarySource?.wrong?.[SCOPE_KEY], localSource?.wrong?.[SCOPE_KEY]);
+  state.dailyLog = mergeDailyLogs(primarySource?.daily?.[SCOPE_KEY], localSource?.daily?.[SCOPE_KEY]);
+  if (state.serverReady && state.user && localSource) saveLearningData();
+}
+
+function loadProgressFromSources(...sources: Array<Partial<UserRecord> | null | undefined>): SavedProgress | null {
+  for (const key of [PROGRESS_KEY, LEGACY_PROGRESS_KEY]) {
+    for (const source of sources) {
+      const value = source?.progress?.[key];
+      if (isSavedProgress(value)) return normalizeSavedProgress(value);
+    }
+  }
+  return null;
+}
+
+function isSavedProgress(value: unknown): value is SavedProgress {
+  return Boolean(value && typeof value === "object" && "positions" in value);
+}
+
+function normalizeSavedProgress(progress: SavedProgress): SavedProgress {
+  return {
+    selectedUnitKey: String(progress.selectedUnitKey || ""),
+    positions: { ...(progress.positions || {}) },
+    updatedAt: String(progress.updatedAt || new Date().toISOString()),
+  };
+}
+
+function mergeIdSets(...lists: Array<string[] | undefined>): Set<string> {
+  return new Set(lists.flatMap((list) => Array.isArray(list) ? list : []));
+}
+
+function mergeDailyLogs(...logs: Array<DailyLog | undefined>): DailyLog {
+  const merged: DailyLog = {};
+  for (const log of logs) {
+    if (!log || typeof log !== "object") continue;
+    for (const [date, day] of Object.entries(log)) {
+      const target = merged[date] || { viewed: [], correct: [], wrong: [], records: [] };
+      target.viewed = mergeStringArrays(target.viewed, day.viewed);
+      target.correct = mergeStringArrays(target.correct, day.correct);
+      target.wrong = mergeStringArrays(target.wrong, day.wrong);
+      target.records = [...(target.records || []), ...(day.records || [])].slice(-500);
+      merged[date] = target;
+    }
+  }
+  return merged;
+}
+
+function mergeStringArrays(...lists: Array<string[] | undefined>): string[] {
+  return Array.from(new Set(lists.flatMap((list) => Array.isArray(list) ? list : [])));
 }
 
 function saveCurrentProgress() {
@@ -2252,9 +2292,13 @@ function recordPractice(item: RuntimeLearningItem, correct: boolean, selected = 
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
-        profile: "junior",
+        profile: SENTENCE_PROFILE,
         category: state.selectedUnitKey,
         mode: MODE,
+        itemId: item.id,
+        contentId: item.contentId,
+        type: item.type,
+        english: item.fullEnglish,
         wordId: item.id,
         word: item.fullEnglish,
         selected,

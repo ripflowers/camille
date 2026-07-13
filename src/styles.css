@@ -148,6 +148,57 @@ body {
   min-height: 100dvh;
 }
 
+.is-standalone body {
+  background:
+    linear-gradient(180deg, rgba(59, 130, 196, 0.12), transparent 240px),
+    var(--bg-page);
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+@media (orientation: landscape) {
+  .is-standalone body {
+    overflow: hidden;
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
+  }
+
+  .is-standalone .simple-app {
+    width: min(1280px, calc(100vw - 20px - env(safe-area-inset-left) - env(safe-area-inset-right)));
+    margin-top: max(8px, env(safe-area-inset-top));
+    margin-bottom: max(8px, env(safe-area-inset-bottom));
+  }
+}
+
+.is-standalone.is-portrait body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 9998;
+  background:
+    radial-gradient(circle at top left, rgba(59, 130, 196, 0.22), transparent 38%),
+    linear-gradient(135deg, #f7fbff, #eef8f7);
+}
+
+.is-standalone.is-portrait body::after {
+  content: "请横屏使用英语学习 App";
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  z-index: 9999;
+  width: min(72vw, 420px);
+  transform: translate(-50%, -50%);
+  padding: 26px 28px;
+  border: 1px solid var(--border-default);
+  border-radius: var(--radius-lg);
+  background: rgba(255, 255, 255, 0.94);
+  color: var(--text-primary);
+  box-shadow: var(--shadow-xl);
+  text-align: center;
+  font-size: var(--fs-xl);
+  font-weight: var(--fw-bold);
+}
+
 button,
 input,
 select {

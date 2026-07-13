@@ -347,12 +347,19 @@ function sanitizeMode(value) {
 
 function sanitizePracticeRecord(body) {
   const mode = sanitizeMode(body.mode);
+  const profile = body.profile === "junior" ? "junior" : "primary";
+  const itemId = String(body.itemId || body.wordId || "");
+  const english = String(body.english || body.word || "");
   return {
-    profile: body.profile === "junior" ? "junior" : "primary",
+    profile,
     category: String(body.category || ""),
     mode,
-    wordId: String(body.wordId || ""),
-    word: String(body.word || ""),
+    itemId,
+    contentId: String(body.contentId || itemId),
+    type: String(body.type || (mode === "sentence-mixed" ? "sentence" : "word")),
+    english,
+    wordId: String(body.wordId || itemId),
+    word: String(body.word || english),
     selected: String(body.selected || ""),
     answer: String(body.answer || ""),
     correct: Boolean(body.correct),

@@ -1,9 +1,12 @@
-const CACHE_VERSION = "enstudy-pwa-20260708-4";
+const CACHE_VERSION = "enstudy-pwa-20260713-1";
 const STATIC_CACHE = `${CACHE_VERSION}-static`;
 const RUNTIME_CACHE = `${CACHE_VERSION}-runtime`;
 
 const STATIC_ASSETS = [
   "/",
+  "/index.html",
+  "/sentence",
+  "/sentence.html",
   "/primary.html",
   "/junior.html",
   "/manifest.webmanifest",

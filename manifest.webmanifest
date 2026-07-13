@@ -1,8 +1,8 @@
 {
   "id": "/primary.html",
-  "name": "英语单词学习",
-  "short_name": "单词学习",
-  "description": "适合小学和中学的英语单词轻游戏化学习工具",
+  "name": "英语学习",
+  "short_name": "英语学习",
+  "description": "适合小学和中学的英语单词、短语和句子轻游戏化学习工具",
   "lang": "zh-CN",
   "dir": "ltr",
   "start_url": "/primary.html?source=pwa",
@@ -34,6 +34,12 @@
     }
   ],
   "shortcuts": [
+    {
+      "name": "句子练习",
+      "short_name": "句子",
+      "url": "/sentence?source=pwa",
+      "icons": [{ "src": "/assets/pwa/icon-192.png", "sizes": "192x192", "type": "image/png" }]
+    },
     {
       "name": "小学版",
       "short_name": "小学",
