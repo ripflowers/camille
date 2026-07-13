@@ -966,6 +966,9 @@ function renderKeyboardWordUnit(unit: SpellingUnit): string {
   const answerCharacters = getSpellingCharacters(unit.answer);
   const typedCharacters = getSpellingCharacters(value);
   const width = Math.max(90, Math.min(320, answerCharacters.length * 20 + 42));
+  const completedContent = state.showAnswer || status === "correct"
+    ? `<span class="keyboard-complete-word">${escapeHtml(unit.answer)}</span>`
+    : "";
   const slots = answerCharacters.map((answerCharacter, index) => {
     const typedCharacter = typedCharacters[index] || "";
     const display = typedCharacter
@@ -985,7 +988,7 @@ function renderKeyboardWordUnit(unit: SpellingUnit): string {
         data-keyboard-word="${unit.index}"
         style="--keyboard-width:${width}px"
         title="点击选中此空，字母键输入，退格键删除"
-      >${slots}</button>
+      >${completedContent || slots}</button>
     </span>
   `;
 }
@@ -1344,6 +1347,7 @@ function bindLearnEvents(item: RuntimeLearningItem) {
   appRoot.querySelector<HTMLElement>('[data-action="prev"]')?.addEventListener("click", openPrevItem);
   appRoot.querySelector<HTMLElement>('[data-action="redo"]')?.addEventListener("click", () => redoCurrentItem(item));
   appRoot.querySelector<HTMLElement>('[data-action="back-course"]')?.addEventListener("click", renderCurrentCourseOrList);
+  appRoot.querySelector<HTMLElement>('.practice-footer [data-action="home"]')?.addEventListener("click", exitWrongReview);
   appRoot.querySelector<HTMLElement>('[data-action="reset-unit"]')?.addEventListener("click", resetCurrentUnitProgress);
   appRoot.querySelectorAll<HTMLElement>("[data-component-id]").forEach((button) => {
     button.addEventListener("click", () => {
@@ -1531,7 +1535,7 @@ function clearActiveUnit(item: RuntimeLearningItem) {
 
 function useActiveHint(item: RuntimeLearningItem) {
   const unit = getActiveFillableUnit(item);
-  if (!unit || state.showAnswer) return;
+  if (!unit) return;
   playSound("click");
   state.activeUnitIndex = unit.index;
   state.hintVisible = !state.hintVisible;
