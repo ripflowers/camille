@@ -477,7 +477,7 @@ function renderList() {
   const groupedCourses = groupCoursesByLevel(buildCourseSummaries());
 
   renderShell(`
-    <section class="panel stack">
+    <section class="panel stack course-list-page">
       <div class="between row">
         <div>
           <h2>选择课程</h2>
@@ -514,7 +514,7 @@ async function renderCourseDetail(packageName: string) {
   const summary = buildCourseSummary(packageName, units);
 
   renderShell(`
-    <section class="panel stack course-detail">
+    <section class="panel stack course-detail course-detail-page">
       <div class="course-detail-head">
         <div class="course-detail-title">
           <button class="back-button" type="button" data-action="course-home"><span class="btn-icon">←</span><span>课程</span></button>
