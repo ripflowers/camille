@@ -201,7 +201,6 @@ async function main() {
       if (unit) {
         unit.itemCount = items.length;
         unit.typeCounts = countTypes(items);
-        unit.itemIds = items.map((item) => item.id);
         unit.previewChinese = items[0]?.displayChinese || "";
       }
       await writeJson(file, items);
@@ -219,7 +218,6 @@ async function main() {
     const activeItems = await readJson<RuntimeLearningItem[]>(resolveRuntimePath(unit.runtimeModulePath));
     unit.itemCount = activeItems.length;
     unit.typeCounts = countTypes(activeItems);
-    unit.itemIds = activeItems.map((item) => item.id);
     unit.previewChinese = activeItems[0]?.displayChinese || "";
   }
 

@@ -12,7 +12,7 @@ interface LearningManifestUnit {
   section: string;
   itemCount: number;
   typeCounts: Partial<Record<LearningType, number>>;
-  itemIds: string[];
+  itemIds?: string[];
   previewChinese: string;
   runtimeModulePath: string;
   files: {
@@ -61,7 +61,6 @@ async function main() {
       section: first.section || "",
       itemCount: group.items.length,
       typeCounts: countTypes(group.items),
-      itemIds: group.items.map((item) => item.id),
       previewChinese: group.items[0]?.displayChinese || "",
       runtimeModulePath: `../data/legacy/${packSlug}/courses/${unitSlug}/runtime-items.json`,
       files: {

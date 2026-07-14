@@ -303,7 +303,6 @@ async function writeMergedUnit(packId: string, packageName: string, group: UnitG
     section: "单词、短语、句子混合练习",
     itemCount: group.runtimeItems.length,
     typeCounts: countTypes(group.runtimeItems),
-    itemIds: group.runtimeItems.map((item) => item.id),
     previewChinese: group.runtimeItems[0]?.displayChinese || "",
     runtimeModulePath,
     files: {

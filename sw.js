@@ -1,21 +1,13 @@
-const CACHE_VERSION = "enstudy-pwa-20260713-1";
+const CACHE_VERSION = "enstudy-pwa-20260714-1";
 const STATIC_CACHE = `${CACHE_VERSION}-static`;
 const RUNTIME_CACHE = `${CACHE_VERSION}-runtime`;
 
 const STATIC_ASSETS = [
   "/",
-  "/index.html",
   "/sentence",
-  "/sentence.html",
   "/primary.html",
   "/junior.html",
   "/manifest.webmanifest",
-  "/pwa.js",
-  "/simple/simple.css",
-  "/simple/simple-app.js",
-  "/simple/data/primary_words.json",
-  "/simple/data/junior_words.json",
-  "/simple/data/word_images.json",
   "/simple/sounds/click.wav",
   "/simple/sounds/beep.wav",
   "/simple/sounds/correct.mp3",
@@ -40,8 +32,6 @@ self.addEventListener("activate", (event) => {
         .filter((key) => key.startsWith("enstudy-pwa-") && !key.startsWith(CACHE_VERSION))
         .map((key) => caches.delete(key))))
       .then(() => self.clients.claim())
-      .then(() => self.clients.matchAll({ type: "window", includeUncontrolled: true }))
-      .then((clients) => Promise.all(clients.map((client) => client.navigate(client.url).catch(() => null))))
   );
 });
 
@@ -62,6 +52,11 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
+  if (url.pathname.startsWith("/assets/")) {
+    event.respondWith(cacheFirst(request));
+    return;
+  }
+
   if (isStaticAssetRequest(request, url)) {
     event.respondWith(cacheFirst(request));
     return;
@@ -75,9 +70,7 @@ self.addEventListener("fetch", (event) => {
 function isFreshAppShellRequest(request, url) {
   return request.mode === "navigate"
     || url.pathname.endsWith(".html")
-    || url.pathname.endsWith(".js")
-    || url.pathname.endsWith(".css")
-    || url.pathname.endsWith(".webmanifest");
+    || url.pathname === "/sw.js";
 }
 
 function isStaticAssetRequest(request, url) {

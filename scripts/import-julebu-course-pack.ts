@@ -51,7 +51,7 @@ interface LearningManifestUnit {
   section: string;
   itemCount: number;
   typeCounts: Record<string, number>;
-  itemIds: string[];
+  itemIds?: string[];
   previewChinese: string;
   runtimeModulePath: string;
   files: {
@@ -799,7 +799,6 @@ function buildManifestUnit(course: CourseImportResult, runtimeItems: ReturnType<
     section: first?.section || course.summary.topic || course.summary.subtitle || "",
     itemCount: runtimeItems.length,
     typeCounts: countTypes(runtimeItems),
-    itemIds: runtimeItems.map((item) => item.id),
     previewChinese: first?.displayChinese || "",
     runtimeModulePath: `../data/${ONLINE_COURSE_DIR}/${safePathSegment(coursePackId)}/courses/${courseSlug}/runtime-items.json`,
     files: {

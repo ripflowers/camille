@@ -8,6 +8,7 @@ type SentenceInputMode = "choice" | "keyboard";
 
 interface UnitGroup {
   key: string;
+  order: number;
   packageName: string;
   grade: string;
   unitId: string;
@@ -362,14 +363,10 @@ async function init() {
   renderLoadingProgress("正在准备句子闯关", "正在连接课程索引...", 4);
   try {
     await loadLearningDataIndex((percent, message) => renderLoadingProgress("正在准备句子闯关", message, percent));
-    renderLoadingProgress("正在准备句子闯关", "正在连接学习服务...", 82);
-    state.serverReady = await checkServerReady();
-    renderLoadingProgress("正在准备句子闯关", "正在同步用户和学习进度...", 90);
-    await loadUsers();
-    await restoreActiveUser();
+    restoreCachedUserSession();
     renderLoadingProgress("正在准备句子闯关", "加载完成", 100);
     renderList();
-    if (!state.user) openUserModal();
+    void bootstrapServerState();
   } catch (error) {
     renderShell(`
       <section class="panel empty">
@@ -379,6 +376,28 @@ async function init() {
       </section>
     `);
   }
+}
+
+function restoreCachedUserSession() {
+  const active = loadUserSession();
+  if (!active) return;
+  state.user = { ...active };
+  loadLearningDataForUser();
+}
+
+async function bootstrapServerState() {
+  state.serverReady = await checkServerReady();
+  await loadUsers();
+  await restoreActiveUser();
+  if (appRoot.querySelector(".practice-board")) {
+    return;
+  }
+  if (state.selectedPackageName) {
+    void renderCourseDetail(state.selectedPackageName);
+  } else if (appRoot.querySelector(".course-list-page")) {
+    renderList();
+  }
+  if (!state.user) openUserModal();
 }
 
 async function loadLearningDataIndex(onProgress?: (percent: number, message: string) => void) {
@@ -393,15 +412,16 @@ async function loadLearningDataIndex(onProgress?: (percent: number, message: str
   });
   onProgress?.(78, "正在解析课程索引...");
   if (manifest.units?.length) {
-    state.units = manifest.units.map((unit) => ({
+    state.units = manifest.units.map((unit, index) => ({
       key: unit.key,
+      order: index,
       packageName: unit.packageName || "默认课程包",
       grade: unit.grade || "",
       unitId: unit.unitId || "",
       unitTitle: unit.unitTitle || "未分单元",
       section: unit.section || "",
       itemCount: unit.itemCount,
-      itemIds: unit.itemIds || [],
+      itemIds: unit.itemIds,
       previewChinese: unit.previewChinese || "",
       runtimeModulePath: unit.runtimeModulePath,
       typeCounts: unit.typeCounts || {},
@@ -586,7 +606,7 @@ function renderList() {
 
 async function renderCourseDetail(packageName: string) {
   document.onkeydown = null;
-  const units = state.units.filter((unit) => unit.packageName === packageName);
+  const units = getSortedCourseUnits(packageName);
   if (!units.length) return renderList();
   state.selectedPackageName = packageName;
   const summary = buildCourseSummary(packageName, units);
@@ -628,17 +648,11 @@ async function renderCourseDetail(packageName: string) {
     renderList();
   });
 
-  appRoot.querySelectorAll<HTMLButtonElement>("[data-open-unit]").forEach((button) => {
+  appRoot.querySelectorAll<HTMLElement>("[data-open-unit]").forEach((button) => {
     button.addEventListener("click", () => {
       playSound("click");
       const key = button.dataset.openUnit || "";
       void openUnit(key, state.progress.positions[key] || 0);
-    });
-  });
-
-  appRoot.querySelectorAll<HTMLButtonElement>("[data-reset-unit]").forEach((button) => {
-    button.addEventListener("click", () => {
-      requestResetUnitProgress(button.dataset.resetUnit || "");
     });
   });
   bindContinueLearningEvents();
@@ -691,7 +705,7 @@ function getContinueLearningTargetByKey(unitKey: string, packageName = ""): Cont
   const totalItems = unit.itemCount || unit.items.length;
   if (!totalItems) return null;
   const position = clamp(Number(state.progress.positions?.[unit.key] || 0), 0, Math.max(0, totalItems - 1));
-  const itemIds = unit.itemIds?.length ? unit.itemIds : unit.items.map((item) => item.id);
+  const itemIds = knownUnitItemIds(unit);
   const learnedCount = itemIds.filter((id) => state.learnedIds.has(id)).length;
   return {
     unit,
@@ -728,12 +742,12 @@ function buildCourseSummaries(): CourseSummary[] {
     if (!map.has(unit.packageName)) map.set(unit.packageName, []);
     map.get(unit.packageName)?.push(unit);
   }
-  return [...map.entries()].map(([packageName, units]) => buildCourseSummary(packageName, units))
+  return [...map.entries()].map(([packageName, units]) => buildCourseSummary(packageName, sortUnitsForCourse(units)))
     .sort((a, b) => `${a.group}-${a.packageName}`.localeCompare(`${b.group}-${b.packageName}`, "zh-CN", { numeric: true }));
 }
 
 function buildCourseSummary(packageName: string, units: UnitGroup[]): CourseSummary {
-  const itemIds = units.flatMap((unit) => unit.itemIds?.length ? unit.itemIds : unit.items.map((item) => item.id));
+  const itemIds = units.flatMap(knownUnitItemIds);
   const typeCounts = units.reduce<Partial<Record<LearningType, number>>>((acc, unit) => {
     const counts = unit.typeCounts || countTypes(unit.items);
     for (const [type, count] of Object.entries(counts)) {
@@ -761,7 +775,9 @@ function groupCoursesByLevel(courses: CourseSummary[]): Array<[string, CourseSum
     if (!map.has(course.group)) map.set(course.group, []);
     map.get(course.group)?.push(course);
   }
-  const order = ["小学同步", "初中同步", "新概念英语", "专项词汇与口语", "其他课程"];
+  const order = sourceProfile === "junior"
+    ? ["初中同步", "小学同步", "新概念英语", "专项词汇与口语", "其他课程"]
+    : ["小学同步", "初中同步", "新概念英语", "专项词汇与口语", "其他课程"];
   return [...map.entries()].sort((a, b) => orderIndex(order, a[0]) - orderIndex(order, b[0]));
 }
 
@@ -776,6 +792,36 @@ function courseGroupLabel(packageName: string): string {
 function orderIndex(order: string[], value: string): number {
   const index = order.indexOf(value);
   return index < 0 ? order.length : index;
+}
+
+function getSortedCourseUnits(packageName: string): UnitGroup[] {
+  return sortUnitsForCourse(state.units.filter((unit) => unit.packageName === packageName));
+}
+
+function sortUnitsForCourse(units: UnitGroup[]): UnitGroup[] {
+  return [...units].sort((a, b) => {
+    const aKey = unitSortKey(a);
+    const bKey = unitSortKey(b);
+    for (let index = 0; index < Math.min(aKey.length, bKey.length); index += 1) {
+      if (aKey[index] !== bKey[index]) return aKey[index] - bKey[index];
+    }
+    return (a.order || 0) - (b.order || 0);
+  });
+}
+
+function unitSortKey(unit: UnitGroup): number[] {
+  const source = `${unit.unitId || ""} ${unit.unitTitle || ""} ${unit.section || ""}`;
+  const starterMatch = source.match(/\bstarter\s*unit\s*(\d+)/i) || source.match(/\bsu\s*(\d+)/i);
+  if (starterMatch) return [0, Number(starterMatch[1] || 0), unit.order || 0];
+  const unitMatch = source.match(/\bunit\s*(\d+)/i);
+  if (unitMatch) return [1, Number(unitMatch[1] || 0), unit.order || 0];
+  const lessonMatch = source.match(/\blesson\s*(\d+)/i);
+  if (lessonMatch) return [2, Number(lessonMatch[1] || 0), unit.order || 0];
+  const dayMatch = source.match(/\bday\s*(\d+)/i);
+  if (dayMatch) return [3, Number(dayMatch[1] || 0), unit.order || 0];
+  const numberMatch = source.match(/\d+/);
+  if (numberMatch) return [4, Number(numberMatch[0] || 0), unit.order || 0];
+  return [9, unit.order || 0];
 }
 
 function filterContentItems(items: RuntimeLearningItem[]): RuntimeLearningItem[] {
@@ -821,16 +867,17 @@ function formatUnitTitle(unit?: UnitGroup): string {
 function renderUnitCard(unit: UnitGroup): string {
   const counts = unit.typeCounts || countTypes(unit.items);
   const savedPosition = state.progress.positions[unit.key] || 0;
-  const itemIds = unit.itemIds?.length ? unit.itemIds : unit.items.map((item) => item.id);
+  const itemIds = knownUnitItemIds(unit);
   const totalItems = unit.itemCount || unit.items.length;
   const learnedInUnit = itemIds.filter((id) => state.learnedIds.has(id)).length;
+  const progressDone = itemIds.length ? learnedInUnit : Math.min(savedPosition, totalItems);
   const currentPosition = Math.min(savedPosition + 1, totalItems);
-  const progressPercent = Math.round((learnedInUnit / Math.max(totalItems, 1)) * 100);
-  const progressMessage = learnedInUnit === totalItems ? "本单元已完成" : learnedInUnit ? `从第 ${currentPosition} 题继续` : "从第一题开始";
+  const progressPercent = Math.round((progressDone / Math.max(totalItems, 1)) * 100);
+  const progressMessage = progressDone === totalItems ? "本单元已完成" : progressDone ? `从第 ${currentPosition} 题继续` : "从第一题开始";
   const selected = state.selectedUnitKey === unit.key ? " selected" : "";
-  const startLabel = learnedInUnit ? "继续" : "开始";
+  const progressLabel = itemIds.length ? `已学 ${learnedInUnit}/${totalItems}` : `进度 ${currentPosition}/${totalItems}`;
   return `
-    <section class="panel item-card unit-card${selected}">
+    <button class="panel item-card unit-card${selected}" type="button" data-open-unit="${escapeAttr(unit.key)}">
       <div class="unit-card-body">
         <span class="unit-card-top">
           <span class="unit-card-copy">
@@ -843,14 +890,15 @@ function renderUnitCard(unit: UnitGroup): string {
           </span>
         </span>
         <span class="unit-progress-track" aria-hidden="true"><span style="width:${progressPercent}%"></span></span>
-        <span class="unit-mini-meta">已学 ${learnedInUnit}/${totalItems}</span>
+        <span class="unit-mini-meta">${escapeHtml(progressLabel)}</span>
       </div>
-      <div class="unit-card-actions">
-        <button class="unit-start" type="button" data-open-unit="${escapeAttr(unit.key)}">${startLabel}</button>
-        <button class="unit-reset" type="button" data-reset-unit="${escapeAttr(unit.key)}">重置</button>
-      </div>
-    </section>
+    </button>
   `;
+}
+
+function knownUnitItemIds(unit: UnitGroup): string[] {
+  if (unit.itemIds?.length) return unit.itemIds;
+  return unit.items.map((item) => item.id);
 }
 
 async function openUnit(unitKey: string, position = 0) {
@@ -877,7 +925,6 @@ function openCurrentLessonItem() {
   state.hintVisible = false;
   state.completedCurrent = false;
   state.activeComponentId = "";
-  state.sentenceInputMode = loadPreferredSentenceMode();
   state.activeUnitIndex = item.spellingUnits.find((unit) => unit.fillable)?.index;
   recordViewed(item);
   saveCurrentProgress();
@@ -914,18 +961,19 @@ function renderLearn() {
       <section class="challenge-panel panel">
         ${renderPracticeHead(item, progressLabel)}
         <div class="practice-board">
-          ${renderPracticePrompt(item)}
+            ${renderPracticePrompt(item)}
           <div class="practice-workspace">
             ${renderTypeIntro(item)}
             ${renderSpellingArea(item)}
-            ${state.hintVisible ? renderInlineHint(getActiveHint(item)) : ""}
-            ${state.showAnswer ? renderAnswerPanel(item) : ""}
+            <div class="practice-detail-slot${state.hintVisible || state.showAnswer ? " active" : ""}">
+              ${state.hintVisible ? renderInlineHint(getActiveHint(item)) : ""}
+              ${state.showAnswer ? renderAnswerPanel(item) : ""}
+            </div>
           </div>
         </div>
         ${renderPracticeFooter(item)}
         <div class="shortcut-hints">
-          <span class="shortcut-title">⌨ 快捷键</span>
-          <span>A-Z 选择字母 · Backspace 撤回 · Delete/Esc 清空 · Space 下一个词 · Enter 下一题 · Shift+Enter 上一题</span>
+          <span>A-Z 输入 · Backspace 撤回 · Delete/Esc 清空 · ? 提示 · Shift+Enter 播放 · Enter 下一题</span>
         </div>
       </section>
     </section>
@@ -961,8 +1009,8 @@ function renderPracticePrompt(item: RuntimeLearningItem): string {
     <div class="practice-prompt-wrap">
       <div class="practice-prompt">${escapeHtml(item.displayChinese || "暂无中文释义")}</div>
       <div class="prompt-actions" aria-label="学习辅助操作">
-        <button type="button" data-action="speak" class="sound-pill${speakState}" title="播放英文发音" ${state.isSpeaking ? "disabled" : ""}><span class="btn-icon">▶</span><span>${state.isSpeaking ? "播放中" : "播放"}</span></button>
-        <button type="button" data-action="hint" class="hint-toggle${hintState}" title="${state.hintVisible ? "收起提示" : "提示当前单词"}" aria-pressed="${state.hintVisible ? "true" : "false"}"><span class="btn-icon">?</span><span>${state.hintVisible ? "收起" : "提示"}</span></button>
+        <button type="button" data-action="speak" class="sound-pill${speakState}" title="播放英文发音：Shift+Enter" ${state.isSpeaking ? "disabled" : ""}><span class="btn-icon">▶</span><span>${state.isSpeaking ? "播放中" : "播放"}</span></button>
+        <button type="button" data-action="hint" class="hint-toggle${hintState}" title="${state.hintVisible ? "收起提示" : "提示当前单词"}：/ 或 F1" aria-pressed="${state.hintVisible ? "true" : "false"}"><span class="btn-icon">?</span><span>${state.hintVisible ? "收起" : "提示"}</span></button>
         <button type="button" data-action="show-answer" title="显示完整答案"><span class="btn-icon">✓</span><span>答案</span></button>
       </div>
     </div>
@@ -1064,10 +1112,12 @@ function renderChoiceUnit(unit: SpellingUnit): string {
   if (!unit.fillable) return `<span class="locked-token">${escapeHtml(unit.text)}</span>`;
   const value = state.showAnswer ? unit.answer : state.answers[unit.index] || "";
   const status = getUnitStatus(unit, value);
-  const content = value || displayBlank(unit.blank);
+  const content = value
+    ? `<span class="keyboard-complete-word">${escapeHtml(value)}</span>`
+    : renderKeyboardLetterSlots(unit, "");
   return `
     <span class="choice-wrap">
-      <button class="choice-blank ${status}" type="button" data-choice-blank="${unit.index}" title="点击清空或选中此空">${escapeHtml(content)}</button>
+      <button class="choice-blank keyboard-blank ${status}" type="button" data-choice-blank="${unit.index}" title="点击清空或选中此空">${content}</button>
     </span>
   `;
 }
@@ -1103,22 +1153,11 @@ function renderKeyboardWordUnit(unit: SpellingUnit): string {
   const status = getUnitStatus(unit, value);
   const active = state.activeUnitIndex === unit.index ? " active" : "";
   const answerCharacters = getSpellingCharacters(unit.answer);
-  const typedCharacters = getSpellingCharacters(value);
-  const width = Math.max(90, Math.min(320, answerCharacters.length * 20 + 42));
+  const width = Math.max(62, Math.min(260, answerCharacters.length * 15 + 28));
   const completedContent = state.showAnswer || status === "correct"
     ? `<span class="keyboard-complete-word">${escapeHtml(unit.answer)}</span>`
     : "";
-  const slots = answerCharacters.map((answerCharacter, index) => {
-    const typedCharacter = typedCharacters[index] || "";
-    const display = typedCharacter
-      ? displaySpellingCharacter(typedCharacter)
-      : answerCharacter === "'"
-        ? "’"
-        : "";
-    const filled = typedCharacter ? " filled" : "";
-    const apostrophe = answerCharacter === "'" ? " apostrophe" : "";
-    return `<span class="keyboard-letter-slot${filled}${apostrophe}">${escapeHtml(display)}</span>`;
-  }).join("");
+  const slots = renderKeyboardLetterSlots(unit, value);
   return `
     <span class="choice-wrap keyboard-unit-wrap">
       <button
@@ -1130,6 +1169,22 @@ function renderKeyboardWordUnit(unit: SpellingUnit): string {
       >${completedContent || slots}</button>
     </span>
   `;
+}
+
+function renderKeyboardLetterSlots(unit: SpellingUnit, value: string): string {
+  const answerCharacters = getSpellingCharacters(unit.answer);
+  const typedCharacters = getSpellingCharacters(value);
+  return answerCharacters.map((answerCharacter, index) => {
+    const typedCharacter = typedCharacters[index] || "";
+    const display = typedCharacter
+      ? displaySpellingCharacter(typedCharacter)
+      : answerCharacter === "'"
+        ? "’"
+        : "";
+    const filled = typedCharacter ? " filled" : "";
+    const apostrophe = answerCharacter === "'" ? " apostrophe" : "";
+    return `<span class="keyboard-letter-slot${filled}${apostrophe}">${escapeHtml(display)}</span>`;
+  }).join("");
 }
 
 function renderLetterBank(item: RuntimeLearningItem): string {
@@ -1179,13 +1234,11 @@ function renderInlineHint(hint?: WordHint): string {
 function renderAnswerPanel(item: RuntimeLearningItem): string {
   const englishDisplay =
     shouldUseSentenceView(item) ? renderAnnotatedSentence(item) : renderWordCompletion(item);
-  const speakState = state.isSpeaking ? " speaking" : "";
   return `
     <section class="answer-panel">
       <div class="completion-card">
         <div class="completion-head">
           <span>成句展示</span>
-          <button type="button" data-action="speak" class="sound-pill${speakState}" ${state.isSpeaking ? "disabled" : ""}><span class="btn-icon">▶</span><span>${state.isSpeaking ? "播放中" : "重新播放"}</span></button>
         </div>
         ${englishDisplay}
       </div>
@@ -1322,12 +1375,11 @@ function renderAnnotatedChunk(chunk: AnnotatedChunk): string {
       class="annotated-part tone-${chunk.colorIndex}${active}"
       type="button"
       data-component-id="${escapeAttr(chunk.componentId || "")}" 
-      title="${escapeAttr([chunk.role, chunk.zh].filter(Boolean).join("："))}"
+      title="${escapeAttr(chunk.role)}"
     >
       <span class="annotated-text">${escapeHtml(chunk.text)}</span>
       <span class="annotated-label">
         <strong>${escapeHtml(chunk.role)}</strong>
-        ${chunk.zh ? `<em>${escapeHtml(chunk.zh)}</em>` : ""}
       </span>
     </button>
   `;
@@ -1350,9 +1402,13 @@ function buildAnnotatedChunks(item: RuntimeLearningItem): AnnotatedChunk[] {
     }
 
     const component = unit.componentId ? componentMap.get(unit.componentId) : undefined;
-    const componentId = component?.id || unit.componentId;
-    const role = component?.role || unit.role;
-    const zh = component?.zh || unit.zh;
+    const componentId = component?.id;
+    const role = component?.role;
+    const zh = component?.zh;
+    if (!componentId || !role) {
+      chunks.push({ text: unit.text, colorIndex: 0 });
+      continue;
+    }
     const key = componentId || `word-${unit.index}`;
     if (!colorByComponent.has(key)) {
       colorByComponent.set(key, colorCursor % 6);
@@ -1403,7 +1459,14 @@ function bindLearnEvents(item: RuntimeLearningItem) {
 
   appRoot.querySelectorAll<HTMLButtonElement>("[data-keyboard-word]").forEach((button) => {
     button.addEventListener("click", () => {
-      state.activeUnitIndex = Number(button.dataset.keyboardWord);
+      const index = Number(button.dataset.keyboardWord);
+      const unit = item.spellingUnits.find((candidate) => candidate.index === index);
+      if (unit && isUnitCompleteForHint(unit)) {
+        toggleWordHint(index);
+        return;
+      }
+      state.activeUnitIndex = index;
+      state.hintVisible = false;
       renderLearn();
     });
   });
@@ -1438,7 +1501,13 @@ function bindLearnEvents(item: RuntimeLearningItem) {
     button.addEventListener("click", () => {
       playSound("click");
       const index = Number(button.dataset.choiceBlank);
+      const unit = item.spellingUnits.find((candidate) => candidate.index === index);
+      if (unit && isUnitCompleteForHint(unit)) {
+        toggleWordHint(index);
+        return;
+      }
       state.activeUnitIndex = index;
+      state.hintVisible = false;
       if (state.answers[index]) state.answers[index] = "";
       renderLearn();
     });
@@ -1518,12 +1587,6 @@ function handlePracticeKeydown(event: KeyboardEvent, item: RuntimeLearningItem) 
     return;
   }
 
-  if ((event.ctrlKey || event.metaKey) && event.key === " ") {
-    event.preventDefault();
-    speak(item.audioText);
-    return;
-  }
-
   if ((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === "r") {
     event.preventDefault();
     redoCurrentItem(item);
@@ -1534,7 +1597,7 @@ function handlePracticeKeydown(event: KeyboardEvent, item: RuntimeLearningItem) 
   if (event.key === "Enter") {
     event.preventDefault();
     if (event.shiftKey) {
-      openPrevItem();
+      speak(item.audioText);
     } else {
       tryOpenNextItem(item);
     }
@@ -1556,6 +1619,11 @@ function handlePracticeKeydown(event: KeyboardEvent, item: RuntimeLearningItem) 
   if (event.key === "F4") {
     event.preventDefault();
     speak(item.audioText);
+    return;
+  }
+  if (event.key === "F1" || event.key === "/" || event.key === "?") {
+    event.preventDefault();
+    useActiveHint(item);
     return;
   }
   if (event.key === "F8") {
@@ -1580,13 +1648,6 @@ function handleKeyboardWordInput(event: KeyboardEvent, item: RuntimeLearningItem
   const unit = item.spellingUnits.find((candidate) => candidate.index === state.activeUnitIndex && candidate.fillable)
     || item.spellingUnits.find((candidate) => candidate.fillable);
   if (!unit || state.showAnswer) return;
-
-  if (event.key === " ") {
-    event.preventDefault();
-    moveToNextKeyboardUnit(item, unit.index);
-    renderLearn();
-    return;
-  }
 
   if (event.key === "Backspace") {
     event.preventDefault();
@@ -1678,6 +1739,19 @@ function useActiveHint(item: RuntimeLearningItem) {
   playSound("click");
   state.activeUnitIndex = unit.index;
   state.hintVisible = !state.hintVisible;
+  renderLearn();
+}
+
+function isUnitCompleteForHint(unit: SpellingUnit): boolean {
+  const value = state.showAnswer ? unit.answer : state.answers[unit.index] || "";
+  return state.showAnswer || getUnitStatus(unit, value) === "correct";
+}
+
+function toggleWordHint(index: number) {
+  playSound("click");
+  const sameWord = state.activeUnitIndex === index;
+  state.activeUnitIndex = index;
+  state.hintVisible = sameWord ? !state.hintVisible : true;
   renderLearn();
 }
 
@@ -1778,7 +1852,7 @@ function canMoveForward(item: RuntimeLearningItem): boolean {
   return state.learnedIds.has(item.id) || state.completedCurrent || state.showAnswer || allFillableCorrect(item);
 }
 
-function openNextItem() {
+async function openNextItem() {
   if (!state.lessonItems.length) return renderCurrentCourseOrList();
   if (state.wrongReviewActive) {
     const currentId = currentItem()?.id || "";
@@ -1793,8 +1867,27 @@ function openNextItem() {
     openCurrentLessonItem();
     return;
   }
-  state.lessonPosition = (state.lessonPosition + 1) % state.lessonItems.length;
+  if (state.lessonPosition + 1 >= state.lessonItems.length) {
+    const nextUnit = getNextUnitInCourse();
+    if (nextUnit) {
+      await openUnit(nextUnit.key, state.progress.positions[nextUnit.key] || 0);
+      return;
+    }
+    flashReward("本课程已完成");
+    renderCurrentCourseOrList();
+    return;
+  }
+  state.lessonPosition += 1;
   openCurrentLessonItem();
+}
+
+function getNextUnitInCourse(): UnitGroup | null {
+  const currentUnit = state.units.find((unit) => unit.key === state.selectedUnitKey);
+  if (!currentUnit) return null;
+  const units = getSortedCourseUnits(currentUnit.packageName);
+  const index = units.findIndex((unit) => unit.key === currentUnit.key);
+  if (index < 0 || index + 1 >= units.length) return null;
+  return units[index + 1];
 }
 
 function openPrevItem() {
@@ -1845,8 +1938,8 @@ function requestResetUnitProgress(unitKey: string) {
     </div>
   `;
   modalMount.querySelectorAll<HTMLElement>("[data-close-modal]").forEach((button) => button.addEventListener("click", closeModal));
-  modalMount.querySelector<HTMLElement>("[data-confirm-reset]")?.addEventListener("click", () => {
-    resetUnitProgress(unitKey);
+  modalMount.querySelector<HTMLElement>("[data-confirm-reset]")?.addEventListener("click", async () => {
+    await resetUnitProgress(unitKey);
     closeModal();
     if (state.selectedUnitKey === unitKey && !state.wrongReviewActive) {
       void openUnit(unitKey, 0);
@@ -1856,9 +1949,10 @@ function requestResetUnitProgress(unitKey: string) {
   });
 }
 
-function resetUnitProgress(unitKey: string) {
+async function resetUnitProgress(unitKey: string) {
   const unit = state.units.find((candidate) => candidate.key === unitKey);
   if (!unit) return;
+  if (!unit.items.length) await loadUnitItems(unit);
   playSound("click");
   const ids = new Set(unit.items.map((item) => item.id));
   for (const id of ids) {
@@ -2012,7 +2106,7 @@ async function ensureWrongReviewItemsLoaded() {
   for (const unit of state.units) {
     if (unit.items.length) continue;
     const ids = unit.itemIds || [];
-    if (!ids.length || ids.some((id) => state.wrongIds.has(id))) {
+    if (ids.some((id) => state.wrongIds.has(id))) {
       await loadUnitItems(unit);
     }
   }
@@ -2025,6 +2119,7 @@ function buildUnitGroups(items: RuntimeLearningItem[]): UnitGroup[] {
     if (!map.has(key)) {
       map.set(key, {
         key,
+        order: map.size,
         packageName: item.coursePackageName || "默认课程包",
         grade: item.grade || "",
         unitId: item.unitId || "",
@@ -2745,7 +2840,7 @@ function setSpeakingState(isSpeaking: boolean) {
     button.classList.toggle("speaking", isSpeaking);
     const label = button.querySelector<HTMLSpanElement>("span:last-child");
     if (!label) return;
-    label.textContent = isSpeaking ? "播放中" : button.closest(".completion-head") ? "重新播放" : "播放";
+    label.textContent = isSpeaking ? "播放中" : "播放";
   });
 }
 
@@ -2842,7 +2937,7 @@ function findFrontendSubjectVerb(words: string[]): number {
 }
 
 function loadPreferredSentenceMode(): SentenceInputMode {
-  return localStorage.getItem(SENTENCE_MODE_KEY) === "choice" ? "choice" : "keyboard";
+  return "keyboard";
 }
 
 function savePreferredSentenceMode(mode: SentenceInputMode) {

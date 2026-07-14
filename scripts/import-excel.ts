@@ -26,7 +26,7 @@ interface LearningManifestUnit {
   section: string;
   itemCount: number;
   typeCounts: Record<string, number>;
-  itemIds: string[];
+  itemIds?: string[];
   previewChinese: string;
   runtimeModulePath: string;
   files: {
@@ -385,7 +385,6 @@ async function writeSplitCourseData(rawItems: RawLearningItem[], runtimeItems: R
       section: first.section || "",
       itemCount: group.runtimeItems.length,
       typeCounts: countTypes(group.runtimeItems),
-      itemIds: group.runtimeItems.map((item) => item.id),
       previewChinese: group.runtimeItems[0]?.displayChinese || "",
       runtimeModulePath: `../data/legacy/${packSlug}/courses/${unitSlug}/runtime-items.json`,
       files: {

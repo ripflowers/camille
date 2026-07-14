@@ -144,10 +144,11 @@ async function handleApi(request, response, url) {
 }
 
 async function serveStatic(response, pathname) {
-  const cleanPath = pathname === "/" ? "/primary.html" : decodeURIComponent(pathname);
+  const cleanPath = pathname === "/" ? "/sentence" : decodeURIComponent(pathname);
   const candidates = [];
   if (cleanPath === "/sentence.html" || cleanPath === "/sentence") {
     candidates.push(resolve(ROOT, "dist", "index.html"));
+    candidates.push(resolve(ROOT, "index.html"));
   } else {
     candidates.push(resolve(ROOT, `.${normalize(cleanPath)}`));
     candidates.push(resolve(ROOT, "dist", `.${normalize(cleanPath)}`));
@@ -166,12 +167,16 @@ async function serveStatic(response, pathname) {
   const headers = {
     "Content-Type": MIME_TYPES[extname(filePath).toLowerCase()] || "application/octet-stream",
   };
+  const ext = extname(filePath).toLowerCase();
   if (cleanPath === "/sw.js") {
     headers["Cache-Control"] = "no-cache";
     headers["Service-Worker-Allowed"] = "/";
-  }
-  if (cleanPath === "/manifest.webmanifest") {
+  } else if (cleanPath === "/manifest.webmanifest" || ext === ".html") {
     headers["Cache-Control"] = "no-cache";
+  } else if (cleanPath.startsWith("/assets/")) {
+    headers["Cache-Control"] = "public, max-age=31536000, immutable";
+  } else if ([".js", ".css", ".json", ".svg", ".png", ".jpg", ".jpeg", ".webp", ".mp3", ".wav"].includes(ext)) {
+    headers["Cache-Control"] = "public, max-age=86400";
   }
   response.writeHead(200, headers);
   createReadStream(filePath).pipe(response);
