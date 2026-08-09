@@ -30,13 +30,15 @@ require_command() {
   command -v "$1" >/dev/null 2>&1 || fail "required command not found: $1"
 }
 
-for command_name in systemctl tar grep find ln mv rm readlink curl flock awk sort head; do
+for command_name in systemctl journalctl tar grep find ln mv rm readlink curl flock awk sort basename dirname wc seq sleep; do
   require_command "${command_name}"
 done
 
 [[ "${EUID}" -eq 0 ]] || fail "deployment must run as root"
 [[ -f "${ARTIFACT}" ]] || fail "release artifact does not exist: ${ARTIFACT}"
 [[ ${#RELEASE_ID} -ge 7 ]] || fail "invalid release id"
+[[ "${KEEP_RELEASES}" =~ ^[0-9]+$ && "${KEEP_RELEASES}" -ge 2 ]] || fail "KEEP_RELEASES must be an integer >= 2"
+[[ "${KEEP_STORAGE_BACKUPS}" =~ ^[0-9]+$ && "${KEEP_STORAGE_BACKUPS}" -ge 1 ]] || fail "KEEP_STORAGE_BACKUPS must be an integer >= 1"
 
 mkdir -p "${RELEASES_DIR}" "${PERSISTENT_DIR}" "${STORAGE_BACKUP_DIR}"
 
@@ -288,8 +290,11 @@ if [[ "${healthy}" -ne 1 ]]; then
 fi
 
 USER_COUNT_FINAL="$(count_user_records "${PERSISTENT_STORAGE}")"
-[[ "${USER_COUNT_FINAL}" == "${USER_COUNT_BEFORE}" ]] \
-  || fail "storage record count changed after deployment (${USER_COUNT_BEFORE} -> ${USER_COUNT_FINAL})"
+[[ "${USER_COUNT_FINAL}" -ge "${USER_COUNT_BEFORE}" ]] \
+  || fail "storage record count decreased after deployment (${USER_COUNT_BEFORE} -> ${USER_COUNT_FINAL})"
+
+[[ "$(readlink -f "${APP_LINK}/storage")" == "$(readlink -f "${PERSISTENT_STORAGE}")" ]] \
+  || fail "active release lost the persistent storage link"
 
 SUCCESS=1
 SERVICE_STOPPED=0
