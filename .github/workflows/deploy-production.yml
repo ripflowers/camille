@@ -1,6 +1,9 @@
 name: Build and Deploy Production
 
 on:
+  pull_request:
+    branches:
+      - main
   push:
     branches:
       - main
@@ -10,7 +13,7 @@ permissions:
   contents: read
 
 concurrency:
-  group: camille-production-deploy
+  group: camille-production-deploy-${{ github.event_name == 'pull_request' && github.event.pull_request.number || 'production' }}
   cancel-in-progress: false
 
 env:
@@ -48,6 +51,7 @@ jobs:
         run: bash -n deploy/remote-deploy.sh
 
       - name: Package release
+        if: ${{ github.event_name != 'pull_request' }}
         id: package
         shell: bash
         run: |
@@ -70,21 +74,19 @@ jobs:
           echo "release_path=${release_path}" >> "${GITHUB_OUTPUT}"
 
       - name: Deployment not configured yet
-        if: ${{ env.CAMILLE_DEPLOY_PASSWORD == '' }}
+        if: ${{ github.event_name != 'pull_request' && env.CAMILLE_DEPLOY_PASSWORD == '' }}
         run: |
           echo "::warning::CAMILLE_DEPLOY_PASSWORD is not configured. Build succeeded; production deployment was skipped."
           echo "Add repository secret CAMILLE_DEPLOY_PASSWORD, then run this workflow manually once or push to main."
 
       - name: Install SSH client helper
-        if: ${{ env.CAMILLE_DEPLOY_PASSWORD != '' }}
+        if: ${{ github.event_name != 'pull_request' && env.CAMILLE_DEPLOY_PASSWORD != '' }}
         run: |
           sudo apt-get update
           sudo apt-get install -y sshpass
 
       - name: Trust production SSH host key
-        if: ${{ env.CAMILLE_DEPLOY_PASSWORD != '' }}
-        env:
-          SSHPASS: ${{ env.CAMILLE_DEPLOY_PASSWORD }}
+        if: ${{ github.event_name != 'pull_request' && env.CAMILLE_DEPLOY_PASSWORD != '' }}
         run: |
           set -Eeuo pipefail
           mkdir -p ~/.ssh
@@ -93,7 +95,7 @@ jobs:
           chmod 600 ~/.ssh/known_hosts
 
       - name: Upload release
-        if: ${{ env.CAMILLE_DEPLOY_PASSWORD != '' }}
+        if: ${{ github.event_name != 'pull_request' && env.CAMILLE_DEPLOY_PASSWORD != '' }}
         env:
           SSHPASS: ${{ env.CAMILLE_DEPLOY_PASSWORD }}
           RELEASE_NAME: ${{ steps.package.outputs.release_name }}
@@ -106,7 +108,7 @@ jobs:
             "${DEPLOY_USER}@${DEPLOY_HOST}:/tmp/"
 
       - name: Deploy and verify
-        if: ${{ env.CAMILLE_DEPLOY_PASSWORD != '' }}
+        if: ${{ github.event_name != 'pull_request' && env.CAMILLE_DEPLOY_PASSWORD != '' }}
         env:
           SSHPASS: ${{ env.CAMILLE_DEPLOY_PASSWORD }}
           RELEASE_NAME: ${{ steps.package.outputs.release_name }}
