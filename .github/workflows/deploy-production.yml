@@ -1,0 +1,151 @@
+name: Build and Deploy Production
+
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: camille-production-deploy-${{ github.event_name == 'pull_request' && github.event.pull_request.number || 'production' }}
+  cancel-in-progress: false
+
+env:
+  DEPLOY_HOST: 31.220.108.62
+  DEPLOY_USER: root
+  APP_DIR: /root/workspace/enstudy-release-20260714-173624
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      CAMILLE_DEPLOY_PASSWORD: ${{ secrets.CAMILLE_DEPLOY_PASSWORD }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run tests
+        run: npm test
+
+      - name: Build
+        run: npm run build
+
+      - name: Validate deployment script
+        run: bash -n deploy/remote-deploy.sh
+
+      - name: Package release
+        id: package
+        shell: bash
+        run: |
+          set -Eeuo pipefail
+          release_name="camille-${GITHUB_SHA}.tar.gz"
+          release_path="${RUNNER_TEMP}/${release_name}"
+          archive_list="${RUNNER_TEMP}/${release_name}.list"
+
+          # Production release is intentionally a whitelist. The large top-level
+          # data/ tree is already compiled into dist by Vite and must not be sent
+          # to production a second time together with scripts/tests/dev sources.
+          release_files=(
+            dist
+            server.mjs
+            src/server/edge-tts.mjs
+            index.html
+            primary.html
+            junior.html
+            pwa.js
+            sw.js
+            manifest.webmanifest
+            assets
+            simple
+            legacy-game
+            styles
+            vendor
+          )
+
+          for path in "${release_files[@]}"; do
+            test -e "${path}" || {
+              echo "::error::Required production path is missing: ${path}"
+              exit 1
+            }
+          done
+
+          tar -czf "${release_path}" "${release_files[@]}"
+
+          test -s "${release_path}"
+          tar -tzf "${release_path}" > "${archive_list}"
+          grep -qx 'server.mjs' "${archive_list}"
+          grep -qx 'dist/index.html' "${archive_list}"
+          grep -qx 'src/server/edge-tts.mjs' "${archive_list}"
+
+          if grep -Eq '^(\./)?(data|scripts|tests|tools|docs|versions|node_modules|storage)(/|$)' "${archive_list}"; then
+            echo "::error::Release archive contains a forbidden top-level development/data path"
+            exit 1
+          fi
+
+          echo "Production release contents:"
+          sed -n '1,80p' "${archive_list}"
+          echo "Release archive size: $(du -h "${release_path}" | awk '{print $1}')"
+
+          echo "release_name=${release_name}" >> "${GITHUB_OUTPUT}"
+          echo "release_path=${release_path}" >> "${GITHUB_OUTPUT}"
+
+      - name: Deployment not configured yet
+        if: ${{ github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && env.CAMILLE_DEPLOY_PASSWORD == '' }}
+        run: |
+          echo "::warning::CAMILLE_DEPLOY_PASSWORD is not configured. Build succeeded; production deployment was skipped."
+          echo "Add repository secret CAMILLE_DEPLOY_PASSWORD, then run this workflow manually once or push to main."
+
+      - name: Install SSH client helper
+        if: ${{ github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && env.CAMILLE_DEPLOY_PASSWORD != '' }}
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y sshpass
+
+      - name: Trust production SSH host key
+        if: ${{ github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && env.CAMILLE_DEPLOY_PASSWORD != '' }}
+        run: |
+          set -Eeuo pipefail
+          mkdir -p ~/.ssh
+          chmod 700 ~/.ssh
+          ssh-keyscan -T 10 -H "${DEPLOY_HOST}" >> ~/.ssh/known_hosts
+          chmod 600 ~/.ssh/known_hosts
+
+      - name: Upload release
+        if: ${{ github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && env.CAMILLE_DEPLOY_PASSWORD != '' }}
+        env:
+          SSHPASS: ${{ env.CAMILLE_DEPLOY_PASSWORD }}
+          RELEASE_NAME: ${{ steps.package.outputs.release_name }}
+          RELEASE_PATH: ${{ steps.package.outputs.release_path }}
+        run: |
+          set -Eeuo pipefail
+          sshpass -e scp -o BatchMode=no \
+            "${RELEASE_PATH}" \
+            deploy/remote-deploy.sh \
+            "${DEPLOY_USER}@${DEPLOY_HOST}:/tmp/"
+
+      - name: Deploy and verify
+        if: ${{ github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && env.CAMILLE_DEPLOY_PASSWORD != '' }}
+        env:
+          SSHPASS: ${{ env.CAMILLE_DEPLOY_PASSWORD }}
+          RELEASE_NAME: ${{ steps.package.outputs.release_name }}
+        run: |
+          set -Eeuo pipefail
+          sshpass -e ssh -o BatchMode=no "${DEPLOY_USER}@${DEPLOY_HOST}" \
+            "APP_DIR='${APP_DIR}' bash /tmp/remote-deploy.sh '/tmp/${RELEASE_NAME}' '${GITHUB_SHA}'"
