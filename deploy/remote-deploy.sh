@@ -111,7 +111,7 @@ discover_service() {
   if [[ ${#units[@]} -eq 0 ]]; then
     while read -r unit _; do
       [[ -n "${unit}" ]] || continue
-      if systemctl show "${unit}" -p WorkingDirectory -p ExecStart --value 2>/dev/null | grep -Fq "${APP_LINK}"; then
+      if systemctl show "${unit}" -p WorkingDirectory -p ExecStart 2>/dev/null | grep -Fq "${APP_LINK}"; then
         units+=("${unit}")
       fi
     done < <(systemctl list-unit-files --type=service --no-legend 2>/dev/null || true)
@@ -298,7 +298,7 @@ USER_COUNT_FINAL="$(count_user_records "${PERSISTENT_STORAGE}")"
 
 SUCCESS=1
 SERVICE_STOPPED=0
-prune_old_files
+prune_old_files || log "warning: release/backup pruning failed; active deployment remains healthy"
 
 log "deployment successful"
 log "release: ${RELEASE_ID}"
