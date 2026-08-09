@@ -60,6 +60,7 @@ async function main() {
       unitTitle,
       section: first.section || "",
       itemCount: group.items.length,
+      itemIds: group.items.map((item) => item.id),
       typeCounts: countTypes(group.items),
       previewChinese: group.items[0]?.displayChinese || "",
       runtimeModulePath: `../data/legacy/${packSlug}/courses/${unitSlug}/runtime-items.json`,

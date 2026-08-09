@@ -868,10 +868,10 @@ function renderUnitCard(unit: UnitGroup): string {
   const counts = unit.typeCounts || countTypes(unit.items);
   const savedPosition = state.progress.positions[unit.key] || 0;
   const itemIds = knownUnitItemIds(unit);
-  const totalItems = unit.itemCount || unit.items.length;
+  const totalItems = itemIds.length || unit.itemCount || unit.items.length;
   const learnedInUnit = itemIds.filter((id) => state.learnedIds.has(id)).length;
   const progressDone = itemIds.length ? learnedInUnit : Math.min(savedPosition, totalItems);
-  const currentPosition = Math.min(savedPosition + 1, totalItems);
+  const currentPosition = Math.min(savedPosition + 1, Math.max(totalItems, 1));
   const progressPercent = Math.round((progressDone / Math.max(totalItems, 1)) * 100);
   const progressMessage = progressDone === totalItems ? "本单元已完成" : progressDone ? `从第 ${currentPosition} 题继续` : "从第一题开始";
   const selected = state.selectedUnitKey === unit.key ? " selected" : "";
