@@ -57,6 +57,7 @@ jobs:
           set -Eeuo pipefail
           release_name="camille-${GITHUB_SHA}.tar.gz"
           release_path="${RUNNER_TEMP}/${release_name}"
+          archive_list="${RUNNER_TEMP}/${release_name}.list"
 
           # Production release is intentionally a whitelist. The large top-level
           # data/ tree is already compiled into dist by Vite and must not be sent
@@ -88,18 +89,18 @@ jobs:
           tar -czf "${release_path}" "${release_files[@]}"
 
           test -s "${release_path}"
-          tar -tzf "${release_path}" >/dev/null
-          tar -tzf "${release_path}" | grep -qx 'server.mjs'
-          tar -tzf "${release_path}" | grep -qx 'dist/index.html'
-          tar -tzf "${release_path}" | grep -qx 'src/server/edge-tts.mjs'
+          tar -tzf "${release_path}" > "${archive_list}"
+          grep -qx 'server.mjs' "${archive_list}"
+          grep -qx 'dist/index.html' "${archive_list}"
+          grep -qx 'src/server/edge-tts.mjs' "${archive_list}"
 
-          if tar -tzf "${release_path}" | grep -Eq '^(\./)?(data|scripts|tests|tools|docs|versions|node_modules|storage)(/|$)'; then
+          if grep -Eq '^(\./)?(data|scripts|tests|tools|docs|versions|node_modules|storage)(/|$)' "${archive_list}"; then
             echo "::error::Release archive contains a forbidden top-level development/data path"
             exit 1
           fi
 
           echo "Production release contents:"
-          tar -tzf "${release_path}" | sed -n '1,80p'
+          sed -n '1,80p' "${archive_list}"
           echo "Release archive size: $(du -h "${release_path}" | awk '{print $1}')"
 
           echo "release_name=${release_name}" >> "${GITHUB_OUTPUT}"
