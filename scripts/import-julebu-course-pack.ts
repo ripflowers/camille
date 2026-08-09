@@ -798,6 +798,7 @@ function buildManifestUnit(course: CourseImportResult, runtimeItems: ReturnType<
     unitTitle,
     section: first?.section || course.summary.topic || course.summary.subtitle || "",
     itemCount: runtimeItems.length,
+    itemIds: runtimeItems.map((item) => item.id),
     typeCounts: countTypes(runtimeItems),
     previewChinese: first?.displayChinese || "",
     runtimeModulePath: `../data/${ONLINE_COURSE_DIR}/${safePathSegment(coursePackId)}/courses/${courseSlug}/runtime-items.json`,

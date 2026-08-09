@@ -384,6 +384,7 @@ async function writeSplitCourseData(rawItems: RawLearningItem[], runtimeItems: R
       unitTitle,
       section: first.section || "",
       itemCount: group.runtimeItems.length,
+      itemIds: group.runtimeItems.map((item) => item.id),
       typeCounts: countTypes(group.runtimeItems),
       previewChinese: group.runtimeItems[0]?.displayChinese || "",
       runtimeModulePath: `../data/legacy/${packSlug}/courses/${unitSlug}/runtime-items.json`,
