@@ -2637,18 +2637,89 @@ p {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: var(--space-md);
   margin-top: 13px;
   padding-top: var(--space-md);
   border-top: 1px solid var(--border-subtle);
 }
 
-.content-list-pagination strong {
-  min-width: 100px;
+/* ---- Mature pagination component ---- */
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: var(--space-xs);
+}
+
+.pagination-nav,
+.pagination-page {
+  min-width: 34px;
+  height: 34px;
+  padding: 0 9px;
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  background: var(--bg-surface);
   color: var(--text-secondary);
   font-size: var(--fs-sm);
-  font-weight: var(--fw-medium);
+  font-weight: var(--fw-semibold);
+  line-height: 1;
+  cursor: pointer;
+  transition: border-color 0.15s ease, background 0.15s ease, color 0.15s ease;
+}
+
+.pagination-nav:hover:not(:disabled),
+.pagination-page:hover:not(:disabled) {
+  border-color: var(--color-accent-border);
+  color: var(--color-accent-strong);
+}
+
+.pagination-page.active {
+  border-color: var(--color-accent-border);
+  background: var(--color-accent-soft);
+  color: var(--color-accent-strong);
+  cursor: default;
+}
+
+.pagination-nav:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.pagination-ellipsis {
+  min-width: 22px;
+  height: 34px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-muted);
+  font-size: var(--fs-sm);
+  user-select: none;
+}
+
+.pagination-jump {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  margin-left: var(--space-sm);
+  color: var(--text-secondary);
+  font-size: var(--fs-sm);
+}
+
+.pagination-jump input {
+  width: 56px;
+  height: 34px;
+  padding: 0 8px;
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  background: var(--bg-surface);
+  color: var(--text-primary);
+  font-size: var(--fs-sm);
   text-align: center;
+}
+
+.pagination-jump input:focus {
+  outline: none;
+  border-color: var(--color-accent-border);
 }
 
 /* ============================================================
