@@ -3,6 +3,7 @@ import learningManifestUrl from "../data/learning-manifest.json?url";
 import { getSpellingCharacters, isSpellingCharacter, normalizeAnswer, normalizeSpellingCharacter } from "./lib/learning";
 import type { LearningType, RuntimeLearningItem, SentenceComponent, SpellingUnit, WordHint } from "./lib/types";
 import { escapeAttr, escapeHtml } from "./lib/view";
+import { renderPagination } from "./lib/pagination";
 
 type SentenceInputMode = "choice" | "keyboard";
 
@@ -1315,9 +1316,7 @@ function openContentListModal(item: RuntimeLearningItem, filter: ContentListFilt
           `).join("") : `<div class="empty muted">当前筛选下没有题目。</div>`}
         </div>
         <div class="content-list-pagination">
-          <button type="button" data-content-page="${currentPage - 1}" ${currentPage <= 1 ? "disabled" : ""}>上一页</button>
-          <strong>第 ${currentPage} / ${totalPages} 页</strong>
-          <button type="button" data-content-page="${currentPage + 1}" ${currentPage >= totalPages ? "disabled" : ""}>下一页</button>
+          ${renderPagination({ current: currentPage, total: totalPages, pageAttr: "data-content-page" })}
         </div>
       </section>
     </div>
@@ -1332,6 +1331,14 @@ function openContentListModal(item: RuntimeLearningItem, filter: ContentListFilt
   });
   modalMount.querySelectorAll<HTMLButtonElement>("[data-content-page]").forEach((button) => {
     button.addEventListener("click", () => openContentListModal(item, filter, Number(button.dataset.contentPage || currentPage)));
+  });
+  const jumpForm = modalMount.querySelector<HTMLFormElement>("[data-content-jump]");
+  jumpForm?.addEventListener("submit", (event) => {
+    event.preventDefault();
+    const input = jumpForm.querySelector<HTMLInputElement>("input");
+    if (!input) return;
+    const target = clamp(parseInt(input.value, 10) || 1, 1, totalPages);
+    openContentListModal(item, filter, target);
   });
   modalMount.querySelectorAll<HTMLButtonElement>("[data-content-position]").forEach((button) => {
     button.addEventListener("click", () => {
