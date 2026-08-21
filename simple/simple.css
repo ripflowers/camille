@@ -290,6 +290,90 @@ input {
   flex-wrap: wrap;
 }
 
+/* ---- Mature pagination component (shared with main app) ---- */
+.pager .pagination {
+  width: 100%;
+  justify-content: center;
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.pagination-nav,
+.pagination-page {
+  min-width: 34px;
+  height: 34px;
+  padding: 0 9px;
+  border: 1px solid #d7deea;
+  border-radius: 8px;
+  background: #fff;
+  color: #1f2937;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1;
+  cursor: pointer;
+  transition: border-color 0.15s ease, background 0.15s ease, color 0.15s ease;
+}
+
+.pagination-nav:hover:not(:disabled),
+.pagination-page:hover:not(:disabled) {
+  border-color: #2563eb;
+}
+
+.pagination-page.active {
+  border-color: #2563eb;
+  background: #2563eb;
+  color: #fff;
+  cursor: default;
+}
+
+.pagination-nav:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.pagination-ellipsis {
+  min-width: 20px;
+  height: 34px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #6b7280;
+  font-size: 14px;
+  user-select: none;
+}
+
+.pagination-jump {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  margin-left: 8px;
+  color: #1f2937;
+  font-size: 14px;
+}
+
+.pagination-jump input {
+  width: 56px;
+  height: 34px;
+  padding: 0 8px;
+  border: 1px solid #d7deea;
+  border-radius: 8px;
+  background: #fff;
+  color: #1f2937;
+  font-size: 14px;
+  text-align: center;
+}
+
+.pagination-jump input:focus {
+  outline: none;
+  border-color: #2563eb;
+}
+
 .spell-head h2,
 .memory h2 {
   margin: 0;

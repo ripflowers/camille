@@ -1,3 +1,5 @@
+import { renderPagination } from "../src/lib/pagination.ts";
+
 const PROFILE = document.body.dataset.profile || "primary";
 const DATA_URLS = {
   primary: "./simple/data/primary_words.json",
@@ -1295,7 +1297,8 @@ function prevPracticeQuestion() {
 }
 
 function openWordList(page = 1) {
-  state.listPage = clamp(page, 1, Math.ceil(state.entries.length / PAGE_SIZE));
+  const totalPages = Math.max(1, Math.ceil(state.entries.length / PAGE_SIZE));
+  state.listPage = clamp(page, 1, totalPages);
   const start = (state.listPage - 1) * PAGE_SIZE;
   const words = state.entries.slice(start, start + PAGE_SIZE);
   const title = state.activeCategory ? `${state.activeCategory}词表` : "全部词表";
@@ -1310,16 +1313,23 @@ function openWordList(page = 1) {
           ${words.map((word, offset) => renderWordListItem(word, start + offset)).join("")}
         </div>
         <div class="pager">
-          <button id="pagePrevBtn" type="button" ${state.listPage <= 1 ? "disabled" : ""}>上一页</button>
-          <span>第 ${state.listPage} / ${Math.ceil(state.entries.length / PAGE_SIZE)} 页</span>
-          <button id="pageNextBtn" type="button" ${state.listPage >= Math.ceil(state.entries.length / PAGE_SIZE) ? "disabled" : ""}>下一页</button>
+          ${renderPagination({ current: state.listPage, total: totalPages, pageAttr: "data-list-page" })}
         </div>
       </section>
     </div>
   `;
   document.querySelector("#closeModalBtn").addEventListener("click", closeWordList);
-  document.querySelector("#pagePrevBtn").addEventListener("click", () => openWordList(state.listPage - 1));
-  document.querySelector("#pageNextBtn").addEventListener("click", () => openWordList(state.listPage + 1));
+  document.querySelectorAll("[data-list-page]").forEach((button) => {
+    button.addEventListener("click", () => openWordList(Number(button.dataset.listPage)));
+  });
+  const jumpForm = document.querySelector("[data-content-jump]");
+  jumpForm?.addEventListener("submit", (event) => {
+    event.preventDefault();
+    const input = jumpForm.querySelector("input");
+    if (!input) return;
+    const target = clamp(parseInt(input.value, 10) || 1, 1, totalPages);
+    openWordList(target);
+  });
   document.querySelectorAll("[data-jump-index]").forEach((button) => {
     button.addEventListener("click", () => {
       state.index = Number(button.dataset.jumpIndex);
